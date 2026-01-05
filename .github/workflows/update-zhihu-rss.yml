@@ -2,7 +2,7 @@ name: Update Zhihu Daily RSS
 
 on:
   schedule:
-    # 每天 UTC 时间 2:00 运行 (北京时间 10:00)
+    # 每6小时运行一次
     - cron: '0 */6 * * *'
   # 允许手动触发
   workflow_dispatch:
@@ -24,6 +24,11 @@ jobs:
       run: |
         pip install requests PyRSS2Gen
         
+    - name: Add hosts entry for zhihu API
+      run: |
+        echo "59.36.100.84 news-at.zhihu.com" | sudo tee -a /etc/hosts
+      shell: bash
+      
     - name: Run script
       run: python gen_zhihu_daily.py
       
