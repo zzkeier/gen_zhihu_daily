@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Tue, 06 Jan 2026 18:24:22 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>软体动物在维持海洋生态平衡中扮演了什么角色？</title><link>http://daily.zhihu.com/story/9786569</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-f96aa284817cbc409d54372100a981d2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 07 Jan 2026 01:18:20 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>都说长得越快的树木越不成材，但为什么竹子长那么快强度却很好，甚至可以用来做建材呢？</title><link>http://daily.zhihu.com/story/9786591</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e74cf1be6f4e60de67ccce962d77a631.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,110 +19,220 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-b64b13b88f3d3c1daf48d74a05b7159e_l.jpg?source=8673f162">
-<span class="author">犬君拌汪酱，</span><span class="bio">生态狗、小说狗 名为人生的冒险仍在继续</span>
-<a href="https://www.zhihu.com/question/1982774009398571587/answer/1984535969161053459" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-5dce0048daa0e6a8b994e11378ec1d82_l.jpg?source=8673f162">
+<span class="author">冯海峰，</span><span class="bio">以史为鉴全球化、经济史、科技史视野助力理解企业信息化</span>
+<a href="https://www.zhihu.com/question/1930936809493336510/answer/1984361350969963301" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这个问题很有意思，可以讲得很深，也可以浅谈则止</p>
-<p><strong>因为软体动物的多样性实在是太高了</strong>——软体动物是软体动物门（Mollusca）下超过 8 万个物种的统称，整个门下的所有动物都属于软体动物，多样性非常之高！也因此，不同类群的软体动物的生态学功能不仅多样，而且存在着巨大的差别</p>
-<p>作为一个完整的门，软体动物门囊括着多个纲，包括但不限于：最常见且多样性最高的<strong>腹足纲</strong>（Gastropoda），代表为蜗牛、海螺、海蛞蝓等；菜市场上的常客<strong>双壳纲 </strong>(Bivalvia)，代表为河蚌、花蛤、生蚝等；人和海洋动物最爱的小零食<strong>头足纲</strong> (Cephalopod)，代表为章鱼、墨鱼、鱿鱼、大王乌贼等；相对少见但偶尔会被拿去煲汤的<strong>多板纲</strong>（Polyplacophora），也就是俗称的石鳖；除此之外，还有包括掘足纲（Scaphopoda）、无板纲 (Aplacophora)在内的冷门类群</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-107aa20b3ad5722edfded6ad0fcaa3bf_720w.jpg?source=8673f162" alt=""><figcaption>https://en.wikipedia.org/wiki/Gastropoda</figcaption></figure>
-<p>↑腹足纲的代表，包括蜗牛、蛞蝓、海兔、各种海螺等</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4bfa22558a175b00a0069643ec57c343_720w.jpg?source=8673f162" alt=""><figcaption>参考文献[1]</figcaption></figure>
-<p>↑双壳纲的代表，囊括了各种长着两片壳的贝类，比如花蛤、竹蛏、贻贝、河蚌等</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7b01d82b4901e077a598c6e24d2b049b_720w.jpg?source=8673f162" alt=""><figcaption>https://en.wikipedia.org/wiki/Cephalopod</figcaption></figure>
-<p>↑头足纲的代表，包括各种铁板鱿鱼乌贼墨鱼花枝丸等，以及活化石鹦鹉螺</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-068c08ce88f6c377b06f80b4c3cdd300_720w.jpg?source=8673f162" alt=""><figcaption>https://a-z-animals.com/animals/chiton/pictures/</figcaption></figure>
-<p>↑多板纲的代表，在礁石上很常见的石鳖，广东之类的地方好像会晒干后拿去煲汤</p>
-<p>软体动物的多样性如此之高，也因此它们有着极为丰富的生态学功能，包括但不限于：<strong>滤食性的能量循环者、海洋地貌的塑造者、藻类丰度的控制者、初级消费者和能量传递者、海洋动物最爱的小零食、房地产商、地球化学的转化者</strong>，以及其它更多更复杂的功能</p>
-<p><strong>1.滤食性的能量循环者和汇聚者</strong></p>
-<p>双壳纲的各种贝类大多是滤食性的，它们会吸入水流，并过滤取食水流中的<strong>浮游动物</strong>、<strong>藻类</strong>和<strong>有机碎屑</strong>等</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f0a9da5a51b8b1db5a241e818d8dbaf_720w.jpg?source=8673f162" alt=""><figcaption>https://www.fao.org/4/y5720e/y5720e09.htm</figcaption></figure>
-<p>↑双壳纲的贝类是典型的滤食者</p>
-<p>这些贝类可以收集并汇聚海水里零散的有机质和小型生物，并通过自身的生长将这些能量汇聚起来，之后再被各种其它动物吃掉，从而成为<strong>水生生态系统食物链基部重要的基础环节</strong></p>
-<p>比如我在海边钓到过的毒棘豹蟾鱼、斑点圆鲀等鱼类，都非常喜欢吃贝类</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c6f3dfe1d9a2eb4b644b3ef847022819_720w.jpg?source=8673f162" alt=""></figure>
-<p>↑我在新泽西海边钓到的斑点圆鲀，戳一戳就会生气地鼓起来</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2dd121258353af5def3204397379a997_720w.jpg?source=8673f162" alt=""><figcaption>https://www.youtube.com/watch?v=T83pQ825-Bs</figcaption></figure>
-<p>↑鲀形目的鱼类普遍有着坚硬的大门牙，非常适合打开贝壳封闭的内心</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6bc9910174aa6bc4bd808a48817d2b4b_720w.jpg?source=8673f162" alt=""><figcaption>https://www.reddit.com/r/oddlyterrifying/comments/hett8t/borrowed_frame_from_a_video_of_a_pufferfish/</figcaption></figure>
-<p>↑鲀形目的鱼啃起贝类来突出一个轻松 + 愉快</p>
-<p>与此同时，通过过滤碎屑，贝类还能对水体起到净化功能，使得水体中的颗粒物减少，浑浊度下降，可见度上升，并在这个过程中改变水体中代谢产物和化学物质组成</p>
-<p><strong>2.海洋地貌的塑造者</strong></p>
-<p>很多双壳纲的底栖型贝类会附着在物体的表面，营固着生活，并高密度地聚集，一代代层叠起来，成为海洋地貌的塑造者</p>
-<p>这一现象的代表包括各种牡蛎（生蚝）和贻贝等</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e3c29ffe6d7ed1bbbda982b321b8c76_720w.jpg?source=8673f162" alt=""><figcaption>https://www.moretondaily.com.au/news/ask-dr-dazza-what-you-need-to-know-about-oysters</figcaption></figure>
-<p>↑海边层层叠叠的牡蛎壳</p>
-<p>如果你曾去海边钓过鱼的话，一定会注意到礁石上层层叠叠密密麻麻的牡蛎壳，这些层层叠叠的贝类本身便是海洋地貌的塑造者</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-16cb4a1befe30afd7d0bcc378d7c926a_720w.jpg?source=8673f162" alt=""><figcaption>https://medium.com/globetrotters/an-amazing-sight-the-mussels-of-muir-beach-california-c0d420b7f035</figcaption></figure>
-<p>↑海边礁石上的贻贝</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-bef83cdb4b1c2c358584b9c0dd3b19fd_720w.jpg?source=8673f162" alt=""></figure>
-<p>↑我在新泽西海边钓鱼的时候注意到湿地边缘全是密密麻麻的贻贝</p>
-<p>各种贻贝（mussel）也是类似的，我在新泽西海边钓鱼的时候就注意到湿地边缘固定着层层叠叠的贻贝，这些贻贝能固定水土，使得湿地边缘的结构不会被海浪轻易地破坏</p>
-<p>这些贝类本身就是海洋地貌的塑造者，可以给许多海洋生物提供栖息地</p>
-<p><strong>3.藻类丰度的控制者</strong></p>
-<p>腹足纲的许多海螺是植食性动物，以藻类等为食。这些海螺能够控制水藻的丰富度，避免水体中的藻类过度爆发</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8934ff1b667746f3160e98e9376b5d5a_720w.jpg?source=8673f162" alt=""><figcaption>https://www.reefjar.com/trochus-snails/</figcaption></figure>
-<p>↑比如钟螺就是经典的藻类爱好者</p>
-<p>包括很多海洋水族缸也会养螺类，以控制水缸里藻类的数量，避免水体里藻类的过度爆发</p>
-<p><strong>4.消费者和能量传递者</strong></p>
-<p>腹足纲还有大量的消费者，比如蛾螺总科（Buccinoidea）里的几乎都是捕食性海螺，会以包括贝类在内的各种无脊椎动物为食</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ed1c712dcb148dcfefb9e001e1dd8ad1_720w.jpg?source=8673f162" alt=""><figcaption>参考文献[2]</figcaption></figure>
-<p>↑蛾螺总科下面的各种海螺几乎都是捕食者，其中包括一些大型的海螺</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-20b9e8dbfe5d5b660f5e6a762823d0f3_720w.jpg?source=8673f162" alt=""></figure>
-<p>↑我这边菜市场上很常见的沟螺（Channel whelk，小个的）和刺香螺（Knobbed whelk，大个的）都是大型的捕食性海螺</p>
-<p>又比如腹足纲裸鳃目的各种<strong>海蛞蝓</strong>虽然看着可爱，但是实际上都是捕食者</p>
-<p>它们会以海绵、水螅、苔藓虫、藤壶、海葵、其它海蛞蝓等为食</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-214773933150a16598b50c4e46b57bca_720w.jpg?source=8673f162" alt=""><figcaption>https://en.wikipedia.org/wiki/Nudibranch</figcaption></figure>
-<p>↑著名的大西洋海神海蛞蝓（<em>Glaucus atlanticus</em>）</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6ba4429534ddc63b9251f2112be39807_720w.jpg?source=8673f162" alt=""><figcaption>https://bolinasmuseum.org/exhibitions/nudibranchia-butterflies-of-the-sea/</figcaption></figure>
-<p>↑各种各样的海蛞蝓，虽然看着萌，但实际上都是捕食者</p>
-<p>这些海螺、海蛞蝓等作为消费者、捕食者是海洋食物链里的重要组成，其中部分物种对于特定类群的控制有着至关重要的作用</p>
-<p>缺失这些物种的话，会对特定食物链产生严重的影响</p>
-<p><strong>5.海洋动物最爱的小零食</strong></p>
-<p>点名头足纲的各种章鱼、墨鱼、乌贼、鱿鱼等</p>
-<p>别问，问就是海洋动物最喜欢的小零食</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-efa27e9f7a8b04a832eb9af153e42386_720w.jpg?source=8673f162" alt=""><figcaption>https://www.biographic.com/catch-of-the-day/</figcaption></figure>
-<p>↑南非海狗：我没意见</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-402d0e6f79117cfe62cd78f516d25932_720w.jpg?source=8673f162" alt=""><figcaption>https://particle.scitech.org.au/earth/death-defying-bunbury-dolphins-chow-clingy-octopus/</figcaption></figure>
-<p>↑海豚：我没意见</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4a920681956fce455bef3b42f0fefc5_720w.jpg?source=8673f162" alt=""><figcaption>https://www.dealmoon.com/post/1931280</figcaption></figure>
-<p>↑犬君和最爱的铁板鱿鱼：我没意见</p>
-<p><strong>6.房地产商</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ecf7d62dbddf70243d0402e23140b742_720w.jpg?source=8673f162" alt=""><figcaption>https://nationalzoo.si.edu/animals/land-hermit-crab</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-89887614b39af281b81348f860159191_720w.jpg?source=8673f162" alt=""><figcaption>https://winnebagoanimals.org/hermit-crabs-the-basics/</figcaption></figure>
-<p>↑寄居蟹：感谢大自然的馈赠！</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6e83bf4afd1d04bd69be08f01f4ee504_720w.jpg?source=8673f162" alt=""><figcaption>https://www.beachexplorer.org/en/species/pinnotheres-pisum/pictures?image=15087</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bdd175bf2743e3c8a92c5136571a5f14_720w.jpg?source=8673f162" alt=""><figcaption>https://www.mindenpictures.com/stock-photo-pea-crab-pinnotheres-pisum-in-mussel-shell-mytilus-gelloprovincialis-naturephotography-image80020944.html</figcaption></figure>
-<p>↑喜欢寄居在贝类体内的豆蟹</p>
-<p>很多软体动物本身就能给其它生物提供居所，比如寄居蟹和豆蟹等，堪称先天房地产圣体</p>
-<p>7.其它</p>
-<p>没时间继续写了，煮菜去了啦！</p>
-<p>这篇文章就先写到这吧，以上！</p>
-<p>©犬君拌汪酱 2024 年度新知答主，知乎认证生物学、动物学、昆虫学优秀答主，快来关注这条人畜无害的生态狗吧！！！</p>
-<p>参考文献：</p>
+<p>竹子在草本植物高大化方向上发展到了极致，做到生长快速的同时又有很高硬度。其演化出了哪些特异化的结构，使其优秀的力学性能部分接近铝合金和硬质塑料？为什么有这些结构？为此我将您的问题分解为三个问题，逐项解答。</p>
+<p>1、竹子是草还是树？</p>
+<p>2、竹子为什么又长得快又那么硬？草不是都比较软吗？</p>
+<p>3、既然竹子这么强，那么竹子如何用于建筑领域。有哪些限制？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a2549aff315c33310b12215afd044358_720w.jpg?source=8673f162" alt=""><figcaption>2018 年 邵长专 利用当地的竹子为村民建的“一心桥”</figcaption></figure>
+<p><strong>问题 1、竹子是草还是树？</strong></p>
+<p>我先介绍最传统的形态学判别竹子分类的依据。然后介绍近年分子生物学对竹子分类的更科学的分类确认。</p>
+<p><strong>一、形态学分类依据：竹子 "草本" 身份的传统分类方式</strong><strong>1. 茎的结构特征：最关键的形态学证据</strong></p>
+<ul>
+<li><strong>维管束排列</strong>：竹子茎的维管束呈散生状，无形成层，不具备持续增粗能力（<strong>典型草本特征</strong>）。竹笋长出地面多粗，成竹就多粗。与木本植物的环状排列维管束 + 形成层结构逐年扩增不同。</li>
+<li><strong>中空茎</strong>：多数竹种茎干中空，这是禾本科植物的标志性特征，与木本植物实心茎中的髓心形成鲜明对比。</li>
+<li><strong>木质化特点</strong>：虽有较高木质化程度（部分可达 50% 以上），但这只是 "<strong>次生适应</strong>"，并非本质特征。竹子的木质化是薄壁细胞增厚而非木本植物的次生生长（表现为大多数树木的年轮）。</li>
+</ul>
+<p><strong>2. 其他重要形态学特征</strong></p>
+<ul>
+<li><strong>单子叶植物特征</strong>：叶片平行叶脉、须根系，与禾本科其他成员（水稻、小麦等）一致，与双子叶木本植物的网状叶脉和直根系明显不同。</li>
+<li><strong>生长方式</strong>：由地下横走的<strong>竹鞭</strong>（根状茎）发育而来，与草本植物的分蘖方式相似，而非木本植物的直立主根。（这一生长方式下一个子问题会进一步讲解）</li>
+<li><strong>开花结果特性</strong>：多数竹种一生仅开花一次，花后死亡（<strong>单次结实性</strong>），这与多年生木本植物持续开花结果的特性差异显著。</li>
+</ul>
+<p>下面，我放几个竹子的结构图片，最后放一个树的结构图片，方便大家对比理解。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1b71cfe1540c30e8cefc4b6b90013b90_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c98852242b4923397f69dfacddf8157c_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f840f5b6d9ddf131777cc50665bf28b6_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2a103167963780ade57f596acd1bfa26_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
+<p>下图是四年生椴树茎横切标本，可以和前面竹茎秆标本对比。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-48bd0b6b47e43d2793199caed4fc895c_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
+<p>树干结构进一步介绍，有兴趣可以看我另一个回答 <a class="internal" href="https://www.zhihu.com/question/1919325305597825174/answer/1951728193556963681">为什么树木会生长年轮？ - 知乎</a></p>
+<p><strong>二、分子生物学证据：现代分类学的科学验证 （这部分内容，主要来源于参考资料 3、4）</strong><strong>1. DNA 序列分析确定亲缘关系</strong></p>
+<ul>
+<li><strong>全基因组比对</strong>：竹类植物是竹亚科 (Bambusoideae) 植物的统称，与早熟禾亚科 (Poideae) (如小麦) 以及稻亚科 (Oryzoideae) (如水稻) 共同构成“<strong>BOP 分支”</strong>。证实竹子是禾本科大家庭的一员</li>
+<li><strong>系统发育树构建</strong>：基于叶绿体基因组和核基因序列（如 matK、rbcL、ITS 等）的分析表明，竹亚科与其他禾本科植物在进化树上紧密相连，且<strong>不与任何木本植物类群形成姐妹群</strong>中国科学院昆明植物研究所</li>
+</ul>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8441048591b97252af8319d5cc2b9911_720w.jpg?source=8673f162" alt=""><figcaption>中国科学院昆明植物研究所郭振华和李德铢研究组利用一种简化基因组测序的方法即 RAD，数据构建的温带木本竹子系统发育树</figcaption></figure>
+<p><strong>2. 竹亚科内部分类的分子依据</strong></p>
+<ul>
+<li><strong>分子标记技术</strong>：在竹种、竹属鉴别中，DNA 条形码（如 matK 基因）能有效区分形态相似的物种，解决传统分类中因开花周期长（有些竹种 60-120 年才开花）导致的鉴定困难 PMC</li>
+<li><strong>多基因联合分析</strong>：研究发现竹亚科分为三个主要类群：分别为代表<strong>草本竹类</strong>的莪利竹族(Olyreae)，代表温带木本竹类的青篱竹族(Arundinarieae) 和代表热带木本竹类的箣竹族(Bambuseae)，其中箣竹族分为旧世界热带木本竹类(Paleotropical woody bamboos，PWB) 和新世界热带木本竹类(Neotropical woody bamboos，NWB) 两个分支。证实 "木本竹" 只是竹亚科内部的一个分支，整体仍属禾本科草本植物范畴。</li>
+</ul>
+<p>知道了竹子属于禾本科竹亚科，是最高的草。那么下一个子问题。</p>
+<p><strong>问题 2、竹子为什么又长得快又那么硬？</strong></p>
+<p>为什么竹子生长速度远超树木。核心原因是草本植物<strong>为了实现与树木竞争地表以上多年生的生态位，对阳光、土壤、水源全方位竞争，而演化的独特生长策略、匹配的独特的生长结构与机制</strong>，与树木的木本生长模式形成本质差异。</p>
+<p><strong><strong>一、竹子面临的生长压力和对应的生长策略</strong></strong></p>
+<p><strong>竹子的生长策略是更快更高，才能抢到阳光。</strong></p>
+<p>最早的陆生植物没有分化出真根和枝叶，身高也只有 15 厘米左右。在适应陆地环境后，植物形成了维管束这种结构，大大增强了植物的强度。这样，植物开始迅速长高。</p>
+<p>普通的草只确保利用种子复生或地下的根部再生。地表以上组织则是一岁一枯荣。自然无需对地表以上组织做过多加强投入。所以草类，整体比树柔软，硬度、刚性低很多。</p>
+<p>竹类大都喜温暖湿润的气候盛产于热带、亚热带和温带地区。尤其以亚太、非洲、南美洲为三大主生长区。这些地区植物生长茂盛，种类多，竞争对手多。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b4d19b8ade131df1259a96349ab26da3_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《竹材的建构》 P14</figcaption></figure>
+<p>竹子和树都选择了保留地表以上多年生组织。<strong>在与其它草类竞争中，竹子和树一样都要靠长高抢阳光。</strong>为了保持长高以后的植株的稳定，发展了地下发达的根系抓牢土壤；而地上则是除了维管束还形成其它增加强度的结构，确保强度的同时保证一定的韧性，更好的抗横向风的推力。</p>
+<p>不过，竹子虽然已经是草类高大化的极致，但在高大化方向上还是被后劲充足的树打败。竹子一般 20-40 米高，而树可以轻易超过这个高度，最高甚至超过 90 米。所以<strong>竹子只能选择生长在森林下层或稀疏林地。</strong></p>
+<p><strong>地表以上，为了竞争阳光，竹子的竞争策略是快速完成 “高度竞争”</strong>。破土即一次性爆发式生长（竹笋→成竹 1-3 个月达最终 30 米左右的高度）。</p>
+<p>在<strong>地表以下的土壤中，竹子的根系（须根系）分布浅但密集，可快速吸收地表水分与养分；</strong>而树木的直根系深入地下，吸收效率高但生长缓慢。，竹子的 “浅根系竹鞭横向速生” 策略更具优势。</p>
+<p>除此以外，竹子还会释放毒素，化学清扫周围环境。不过这个机制和提问内容关系不大，暂不展开。</p>
+<p>扩展知识：</p>
+<p>很多藤类草本植物大大削弱了维管束，放弃高强度的肢体，柔软身段，将所有能量全部转到攀附和长身体，能横向生长的更快更长。例如，比较著名有在美国造成绿色沙漠的葛藤。而竹类中也有类似的另类。和在国内常见的竹子不同，“藤本”竹类 Dinochloa Buse 和 Sokinochloa S. Dransf.生长在热带雨林，能够缠绕并攀爬上林中的大树。</p>
+<p>为了更好的生存，演化是没有特定方向的全面乱发展，一条路走到极致还不行，就另选一条路。</p>
+<p><strong>二、竹子的特色生长机制（确保快速长高的同时，有足够强度支撑植株）</strong><strong>长快机制 1：地下竹鞭的 “预储备与快启动”赢在起跑线上</strong></p>
+<p>竹子的快速生长并非 “从零开始”，而是依赖地下<strong>根状茎（竹鞭）的长期能量积累</strong>，相当于 “地下育苗 + 能量仓库”：</p>
 <ol>
-<li>Host specificity and feeding in European pea crabs (Brachyura, Pinnotheridae) C Becker, M Türkay Crustaceana, 2017</li>
-<li>A morphology-based phylogenetic analysis of Fasciolariidae (Gastropoda: Buccinoidea). DR Couto, LRLR Simone Zootaxa, 2019</li>
-<li>Gains and gaps in knowledge surrounding freshwater mollusk ecosystem services CL Atkinson, GW Hopper, DA Kreeger, JW Lopez, AN Maine, BJ Sansom, A Schwalb… Freshwater mollusk biology and conservation, 2023</li>
-<li>Assessing molluscs functional diversity within different coastal habitats of Mediterranean marine protected areas L Donnarumma, R Sandulli, L Appolloni… - Ecological Questions, 2018</li>
-<li>Bivalve impacts in freshwater and marine ecosystems CC Vaughn, TJ Hoellein Annual review of ecology, evolution, and systematics, 2018</li>
-<li>Functional diversity of reef molluscs along a tropical-to-temperate gradient M Floyd, M Mizuyama, M Obuchi, B Sommer, MGR Miller, I Kawamura, H Kise, JD Reimer… Coral Reefs, 2020</li>
-<li>A new critical estimate of named species-level diversity of the recent Mollusca G Rosenberg American Malacological Bulletin, 2014</li>
+<li><strong>竹鞭的预分化特性</strong>：竹鞭在地下横向生长（每年可延伸 3-5 米），其上的芽（笋芽）会提前 1-3 年完成细胞分化，形成竹笋的 “雏形”—— 节间、维管束、分生组织已基本成型，仅需等待适宜环境（温度 15-25℃、湿度 80%+）即可快速出土。</li>
+<li><strong>能量与养分储备</strong>：竹鞭通过根系吸收土壤中的氮、磷、钾及水分，转化为淀粉、蔗糖等储能物质，储存在芽体和竹鞭组织中。竹笋出土时，无需依赖自身光合作用，直接消耗地下储备的能量，实现 “零光合快速生长”（前 2-3 周竹笋几乎无叶片，完全依赖储备养分）。</li>
+<li><strong>对比树木</strong>：树木的芽体仅在春季萌发时开始分化，且生长所需能量完全依赖当年叶片的光合作用，前期 “能量积累不足”，生长速度自然受限。</li>
+</ol>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-007b1f8c60af85e2b0137df8b4dace88_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》 可以看到竹编上的芽已经暗暗做好功能分化准备</figcaption></figure>
+<p><strong>长快机制 2：茎的结构设计 ——“无形成层 + 节间同步伸长”，优化核心 KPI+ 并发成长</strong></p>
+<p>竹子的茎（竹竿）结构与树木的木质茎存在本质差异，直接决定了生长速度：</p>
+<p><strong>无形成层，放弃 “长粗” 换 “长高”</strong>：</p>
+<ul>
+<ul>
+<li>树木的茎有<strong>形成层</strong>（木质部与韧皮部之间的分生组织），每年需消耗大量能量合成木质部（木材），实现直径增粗（即 “次生生长”），导致高度生长速度被稀释（如杨树每年长高 2-3 米，同时直径增粗 2-3 厘米）。</li>
+<li>竹子作为草本植物，<strong>无形成层</strong>，茎的直径在竹笋出土时已固定（出土直径 = 成熟直径），无需进行次生生长，所有能量集中于 “纵向伸长”—— 在猛长期 “只盖高度，不砌厚度”，效率呈几何级提升。等长到够高后再慢慢增加木质化。</li>
+</ul>
+</ul>
+<p><strong>节间分生组织的 “同时并发爆长”</strong>：</p>
+<ul>
+<ul>
+<li>竹子的茎由多个<strong>节间</strong>组成，每个节间基部都有独立的 “居间分生组织”（特殊的生长细胞）。竹笋出土后，这些分生组织同时启动细胞分裂与伸长，相当于 “多台发动机同时驱动”。玉兰片，也就是剖开的竹笋可以看到一排间隔，将来这就是各个竹节。</li>
+<li>以毛竹为例：成竹有 30-40 个节间，每个节间每天可伸长 1-2 厘米，叠加后每天总高度增长达 30-40 厘米（最快记录 50 厘米 / 天），1-2 个月即可长至 10-20 米的最终高度。</li>
+<li>竹节之间的竹隔和秆环、箨（tuò）环，在竹节快速垂直生长的同时，通过环装管箍形态增加横向强度，避免竹节开裂。同时将竹节打断的维管束微观重新连接（不是上下一一对应）。</li>
+</ul>
+</ul>
+<p><strong>细胞伸长的 “高效机制”</strong>：</p>
+<ul>
+<ul>
+<li>竹子节间细胞都是轴向紧密排列，没有径向扩增，而是 “伸长倍数” 可达原长度的 10-20 倍（普通植物细胞仅 2-3 倍），且细胞伸长时通过 “吸水膨胀” 辅助（细胞内渗透压升高，快速吸收水分支撑细胞壁伸展），进一步加速生长。</li>
+</ul>
+</ul>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-45440abfe58eda755d49ec9e8048f7bd_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：香港科学馆 https://hk.science.museum/tc/web/scm/online-explore/cb/aefmb.html</figcaption></figure>
+<p>如果说前两个机制解释了如何尽快长高，那么下一套机制就是如何最高效的变强。</p>
+<p><strong>变强机制：合理布局维管束 + 表层竹青硅化 + 髓体木质化 + 竹节横向增强</strong></p>
+<p>竹子每节（节间）的结构从内到外依次为髓腔→髓环→基本组织→散生维管束→竹青（表皮系统），竹节横隔（隔膜）贯穿其中。</p>
+<p>其中，竹子空管（髓腔）结构却能达到甚至超越一些实心树木的强度，且表面硬度更高，核心是结构设计的工程优化 + 材料自身的双重强化。配合木质化 + 硅化的材料强化，最终实现“轻量化高强度”的力学效果。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e0aa0f84c752ac191927cb25f22342f5_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：南京林业大学 科普|竹类形态特征 https://qzl.njfu.edu.cn/xxyd/20240611/i306828.html</figcaption></figure>
+<p><strong>1、空心竹管完美实现“空心轴原理”</strong></p>
+<p>竹子的空管（髓腔）从结构上进行了极端优化。完美实践材料力学中的 “空心轴原理”：</p>
+<p>构件受力（如弯曲、压缩）时，应力集中在远离中性轴的外侧区域。弯曲时离中性轴越远的材料“杠杆臂”越长、贡献越大（I 对半径的四次方敏感）。而核心区域应力极小（接近零）。</p>
+<p>抗弯能力由截面惯性矩 I 和和抗弯截面系数 w 决定。</p>
+<p>实心圆柱(半径 R):</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=I_%7Bsolid%7D%3D%5Cfrac%7B%CF%80R%5E%7B4%7D%7D%7B4%7D" alt=""></p>
+<p>，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W_%7Bsolid%7D%3D%5Cfrac%7BI%7D%7BR%7D%3D%5Cfrac%7B%CF%80R%5E%7B3%7D%7D%7B4%7D" alt=""></p>
+<p>圆管(外半径 R_o, 内半径 R_i):</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=I_%7Btube%7D%3D%5Cfrac%7B%CF%80%5Cleft%28+R_%7Bo%7D%5E%7B4%7D-R_%7Bi%7D%5E%7B4%7D+%5Cright%29%7D%7B4%7D" alt=""></p>
+<p>,</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W_%7Btube%7D%3D%5Cfrac%7BI%7D%7BRo%7D%3D%5Cfrac%7B%CF%80%5Cleft%28+R_%7Bo%7D%5E%7B4%7D-R_%7Bi%7D%5E%7B4%7D+%5Cright%29%7D%7B4Ro%7D" alt=""></p>
+<p>当把材料从靠近中性轴处移到外缘，几乎不减重量，却显著提升 I 与 W。因此在同面积（即同重量）条件下，圆管分配更优。</p>
+<p>但有两点要注意：</p>
+<p>1) 同外径（R_o 相同）：圆管把内部材料去掉，I 和 W 都会变小，故实心更强。这也是实心的树干、木材，和同直径的竹子比更强的原因。</p>
+<p>2) 同截面积 / 同重量（A 固定）：<strong>截面惯性矩的界面不是外径包络面积，圆管的截面积是圆环。</strong>圆管可用更大的外径、更薄的壁厚，把材料“抛”到外缘，I 与 W 显著增大。同截面积同重量下，<strong>截面系数提升约两倍</strong>，弯曲强度与刚度（EI）均显著改善。</p>
+<p>绝大部分竹子都是空心圆管的。经济用竹例如毛竹基本直径在 40mm 到 100mm。竹子可以破土而出后不到一年就长成，可以用和树木同样的能量构成更大截面积的稳定结构。提前几年就成材并占据生长空间。反之，实心的竹子只有十种左右，而且都不太粗，高度也明显低于空心竹。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f82d3ef4722cd04a374d78a302ee166_720w.jpg?source=8673f162" alt=""><figcaption>截图来源：《竹材的建构》P17 页</figcaption></figure>
+<p>竹子直接去掉核心无效区域，将材料集中在管壁（远离中性轴）。这样竹管在相同材料用量下，空心结构的抗弯、抗扭强度远高于实心结构，这是竹子 “轻而强” 的核心原因。实现了多快好省。</p>
+<p><strong>2、竹节横向加强筋 + 管箍：</strong></p>
+<p>竹子受自然风雪横向力的时候，如果空管结构无支撑，易发生 “局部屈曲”（管壁凹陷）。而竹节处的横隔每隔 20-50cm（毛竹）分布，将长空心管分割为 “分段空心柱”，相当于在空管中增加了 “内置加强筋”。这一局部加强结构，大大增强了横向强度，完美解决了竹子生长环境应当外界风雪横推的问题。</p>
+<p><strong>3、合理布局维管束的”钢筋水泥“提升管壁刚度：</strong></p>
+<p>比较细的竹子会形成比较完整的一圈维管束，较粗的竹子则是比较散列的形成一圈维管束，越靠近外侧竹青维管束越多，靠近内测则逐渐减少。而且禾本科的维管束比木本的维管束结构更复杂，维管束外还有维管束鞘对几条维管束包络增强。这些维管束和木质部一起形成类似钢筋水泥的加强结构，这样的维管束微观结构比木本的维管束强度明显增强，代替了树木形成层，轻量化的同时满足了强度和刚性。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-707bb274bbbbb9fb16675eed0ffb812b_720w.jpg?source=8673f162" alt=""><figcaption>《植物学》第三版</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d6dab419c8d29838244a3aec8b244847_720w.jpg?source=8673f162" alt=""><figcaption>《竹材的建构》 P17</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ae3a86c2b7861d714ff9ffcb17ee5679_720w.jpg?source=8673f162" alt=""><figcaption>《植物材料（木、竹）断裂力学》</figcaption></figure>
+<p><strong>4. 局部强化：硅化（集中于竹青，提升耐磨性与防腐性）</strong></p>
+<p>硅化是指竹青表层（表皮及下表皮）沉积<strong>二氧化硅（SiO₂）</strong>，形成 “硅质保护层”，仅发生在竹材最外层，不影响内部组织的力学结构。最终成竹，表皮硅含量达 3%-5%（干重），形成 0.1-0.2mm 厚的硅质层。硅质与蜡质层融合，形成致密的 “硅 - 蜡复合防护层”。谁能想到，地球碳基生命氛围下，竹子部分使用硅化生长。</p>
+<p><strong>5. 木质化：（贯穿所有组织，坚硬如木）</strong></p>
+<p>木质化是指细胞壁沉积<strong>木质素</strong>（芳香族聚合物），使细胞壁增厚、硬度提升，是竹材从 “嫩竹” 到 “成竹” 的关键转变。如果说表层的竹青追求极致硬度，那么木质化结合维管束，达到甚至超过比较松软的木材例如杨树、松树的抗压强度。</p>
+<p><strong>木质化的时间进程</strong>：1-2 年生是木质化快速期（木质素含量年均增长 5%-8%），3 年生后增速放缓，4-5 年生达到峰值并稳定，此时竹材强度、刚度均达建筑用材标准（顺纹抗弯强度≥120MPa，弹性模量≥12GPa）。</p>
+<p>引发提问者兴趣的竹刷就是成熟竹子的竹节间的一段竹壁，一般会去掉又硬又滑的竹青和最内侧蓬松的竹黄，留下含有大量维管束的木质部。因为体积小，对日常以竹代塑的硬度、强度都完全可以满足。而原竹用于建筑为了强度更高，是不清除竹青的。</p>
+<p>竹子达到力学性能稳定的成熟速度远超一般树木。所以，建筑等经济用途选竹子要选 4-5 年的成竹。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2fecbe2d0214fedabb47783d5e2a1b16_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>机制 4、光合作用的 “快速启动与高效循环”综合机制</strong></p>
+<p>无论长高还是变强，营养和能量都要跟上。竹子在生长初期即可快速建立 “光合产能系统”，形成 “生长 - 光合” 的正向循环：</p>
+<ol>
+<li><strong>叶片快速展开</strong>：竹笋出土后，顶部的芽会快速分化出叶片（仅需 1-2 周），且叶片呈 “平行叶脉 + 大表面积” 结构（禾本科特征），光合作用效率达 15-20 μmol CO₂/(m²・s)（树木新叶光合作用效率仅 8-12 μmol CO₂/(m²・s)）。</li>
+<li><strong>无木质化负担</strong>：竹子的茎虽有木质化（纤维素含量 50%-55%），但木质化过程与生长同步完成，且仅发生在细胞壁增厚（不影响细胞伸长），而树木的木质化需单独消耗能量合成木质素（占木材干重 25%-30%），显著拖慢生长速度。</li>
+<li><strong>群体协同生长</strong>：竹子多为丛生或散生群体，竹笋集中出土时，叶片快速覆盖形成 “密集冠层”，群体光合作用效率远超单株树木，进一步为生长提供能量支持。</li>
+</ol>
+<p>引起提问者兴趣的竹板刷，只是竹节间的一段竹壁，为了穿孔固定毛刷方便，一般去掉了最外层的竹青和最内侧松散的竹黄，只保留了木质部。这种局部材料轻盈的同时硬度强度又很强。做工具得心应手，物美价廉。那么引入提问者最后的问题。</p>
+<p><strong>问题 3、竹子是否可以用于建筑。</strong></p>
+<p>竹子是传统建筑材料。中国西南地区、南亚、东南亚、美洲都有用竹子建造房屋、桥梁的传统。傣族的竹楼是传统建筑的典范，非常适应当地环境。</p>
+<p>我国主要用毛竹等几种直径、强度、长度都比较合适的竹材。</p>
+<p>下面几张表可以看到，竹子的好几项力学性能接近混凝土，但密度、重量、成本却远低于其它建材。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3fb9ca46ef79f4702de503f9340c005e_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《竹材的建构》</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b0bd4f7d4fbe14a78e7a5185ca829555_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《竹材的建构》</figcaption></figure>
+<p>但优秀的力学性能不等于工程能力强。</p>
+<p>竹子是极端演化，适应自身生长面临的风雪推力和自身重量压力。但竹材作为一种建筑材料，在建构中也存在一些自身的局限。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9b49b2179d17bb6729a710d98baf8510_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《竹材的建构》</figcaption></figure>
+<ul>
+<li>各向异性极强 + 性能不均，结构风险高：竹材具有质量轻、有弹性以及抗顺纹压力强的优点，但对横纹方向耐受能力较差；见上图的数据。</li>
+<li>由于应力作用于管状截面中心轴线外围，抗扭性能较好，但材料受形状、尺寸、生长时间、含水量、强度等影响，单体差异较大；</li>
+<li>竹材不是均质材料，外侧竹青硬度最大，外层＞中层＞内层，外层通常比内层高约 30–70%。而且靠近竹节处结构复杂，可能出现±20%波动。导致设计如果涉及较重负载要注意。</li>
+<li>竹材管状结构，竹节间抗压能力强。但超过一定压力值，断裂破损程度远超木材。一旦破损会顺着轴向纵向延伸，甚至势如破竹大区段破裂。</li>
+<li>管壁外围由粗纤维包裹，受力强度较大，但单体由底部到顶部，强度、直径及竹节间距不平均；</li>
+<li>竹节可作为耐弯折和止裂的天然“结构加固”，但化学防腐、防火处理竹材时，会阻碍药剂、填充物灌入；</li>
+<li>竹材直径有限，尤其是建筑领域采用的毛竹和类似的竹子，需要组合才能支撑多层高楼。多根组合时突起的竹节不平，让捆扎不够牢固。</li>
+<li>竹材空心和表面硅化过硬，而直接钉钉子会导致竹材开裂。所以，当代竹的连接方式主要有绑扎型、榫卯型、螺栓型、套筒型和槽口型。除了捆扎，其它连接做建筑构件需要打孔、锯口后再配置金属管箍和内部的衬套等局部金属构件。否则无法承担重载也无法良好稳定的连接。</li>
+<li>竹材空心，管壁厚度有限，无法做高浮雕等木材常见装饰工艺。</li>
+<li>天然原竹含水量较高，一般需要干燥处理，以避免引起开裂。含水率过低又会导致强度下降。</li>
+<li>竹材除了防腐防虫，还需要防火。原竹一般只能达到 B1 级别。</li>
+</ul>
+<p>其中，防火的问题，在 2025 年 11 月香港大火中，虽然竹脚手架并不是用于建筑结构施工，仅仅是外围临时构件。但令竹材的防火性引起很多关注。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a2549aff315c33310b12215afd044358_720w.jpg?source=8673f162" alt=""></figure>
+<p>就我个人来说，邵长专为村民建的 4 座“一心桥”最让人感动。其中 2018 年建设的 1 座获了英国皇家建造师学会（RICS）奖。竹桥跨度 21 米，由 716 根毛竹做成。成本低廉、性能完全满足村民日常出行。当地村民非常喜欢这座竹桥，还自发在桥上建了一个小神龛。竹桥成了村民初一、十五来活动的桥庙，完全融入村民的生活。而不是像很多竹构景观，其高大上的异质文化造型，突兀的闯入当地环境。</p>
+<p>在建设这些桥的过程中，邵长专也带领团队，对竹桥防火措施、固定结构进行了一定的试验。</p>
+<p>不过，直到现在，国内目前关于竹子在建筑方面的标准还不够完善。就目前的标准规定，受限于结构极限和耐火耐潮的问题，一般不能构建高于三层也就是 15 米以下的建筑。</p>
+<p>主要用的经济竹可以长到 30 米高，经过精心设计的一些公用竹建筑还是有接近这个高度的。近年还有竹子加工后制作的竹钢，更能方便构建一些体量大一些的建筑。</p>
+<p>知乎上可以找到 <a class="member_mention" href="http://www.zhihu.com/people/1b0df27d1d78915a59c60793143ca1b4">@上海境道原竹</a> 专业设计建造竹建筑。下图，就来源其一篇文章</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-92672e803c1f386a77047e107e896a5f_720w.jpg?source=8673f162" alt=""><figcaption>项目：怀化安江杂交水稻博物馆丰收剧场 项目深化及施工：上海境道原竹建筑设计工程有限公司 建筑方案设计：同济大学设计院若本工作室 图片来源：https://zhuanlan.zhihu.com/p/1976669385021233141</figcaption></figure>
+<p>正是因为原竹的种种问题，现在国际上普遍不允许原竹直接用于建筑施工，而是要进行防火、防腐结构优化后才能使用。更进一步则是进行竹材的重组，变为材质力学性能稳定、均匀、防火耐腐防虫的材料，比如竹钢。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e06fa082598e1fa67ec28ec6fbb6997d_720w.jpg?source=8673f162" alt=""></figure>
+<p>上图来源 <a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1fMXYYcEdi/%3Fspm_id_from%3D333.337.search-card.all.click%26vd_source%3Dc9942d5b448765cf2efeff8728b49773" target="_blank" rel="nofollow noreferrer">2025 年日本大阪世博会中国馆 “中华书简”隐藏细节_哔哩哔哩_bilibili</a> 这个建筑的主材就是竹钢。</p>
+<p>下图是 2025 年日本大阪世博会日本馆”蓝色海洋“，因为不允许使用原竹施工，日本的设计施工人员，对原竹用了与中国馆不同的重构工艺，使用了新的竹原料的复合竹材。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6d43ccc63db129c4a7e040ff6d438294_720w.jpg?source=8673f162" alt=""></figure>
+<p>总结：</p>
+<p>竹材是优秀的各向异性轻质天然材料。</p>
+<ul>
+<li>竹青表面硅化和内部众多微观复合维管束广泛分布在木质化间质中，使竹壁硬度接近混凝土比常用经济木材高一倍。</li>
+<li>优化的空管结构和同直径的木材比抗压抗弯能力更好。</li>
+<li>利用竹节并发、预生长等机制和结构实现极快的生长。</li>
+<li>成本低廉，成材快、绿色环保，重量轻，综合性能接近硬塑、铝合金。是以竹代塑的优质用料，也是轻量化建筑、户外景观、便桥的优秀建材。</li>
+</ul>
+<p>竹材还有一系列弱点在小件器物上不明显，但用于建筑就有很多限制。包括：非均质、和木材及现代材料比没有大料，重载需要组合才能形成大结构构件。抗裂能力差。握钉能力差，竹节不平，需要增加配件才能有效组合、连接竹材。防腐、防虫、防火处理受竹节影响，比较麻烦。这些导致竹构建筑体量高度有限，无法建造高层大体量建筑。</p>
+<p>对原竹进行重组形成竹钢等新复合材料，克服了原竹的很多弊端，大大增强了防火、防腐、防虫、横向抗压性能，可以构建大尺度构件。但还是存在表面硬度过高，连接麻烦等问题。未来可以完善标准、探索前行。</p>
+<p>参考资料：</p>
+<ol>
+<li>黄艳辉《竹材纤维及细胞壁力学性能》 2019 年 11 月 第 1 版 科学技术出版社</li>
+<li>冯燕妮,李和平 《植物显微图解》（2020 年第 2 版）科学技术出版社</li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//www.kib.ac.cn/xwzx/kyjz/201709/t20170915_4860280.html%3Ff_link_type%3Df_linkinlinenote%26flow_extra%3DeyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiI2OWYyYjJmODliMDhmNjVlLTAxZTliYWY4N2RlNDMwN2YifQ%253D%253D" target="_blank" rel="nofollow noreferrer">郭振华和李德铢研究组采用全基因组范围的 RAD 测序数据深度解析温带本竹属分支的系统发育关系 ---- 中国科学院昆明植物研究所</a></li>
+<li><a class="internal" href="https://zhuanlan.zhihu.com/p/716218678">昆明植物研究所在旧世界热带木本竹类起源和形态性状演化研究中取得新进展 - 知乎</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//qzl.njfu.edu.cn/xxyd/20240611/i306828.html" target="_blank" rel="nofollow noreferrer">科普 | 竹类形态特征 - 学习园地 - 阙泽利教授木结构工作室</a></li>
+<li>《原竹结构设计指南》2022 年 9 月第 1 版 重庆大学出版社</li>
+<li>《竹材的建构》2014 年 11 月第 1 版 东南大学出版社</li>
+<li>《植物材料（木、竹）断裂力学》2012 年 4 月第 1 版 科学出版社</li>
+<li>《植物学》 王丽、刘朝辉 2023 年 2 月第 3 版 高等教育出版社</li>
+<li><a class="internal" href="https://zhuanlan.zhihu.com/p/91713096">85 后博士，为重庆人修了一座桥：为平民阶层做事，所学才有价值 - 知乎</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.archcollege.com/60227.html" target="_blank" rel="nofollow noreferrer">Blue Ocean Dome / 坂茂 - 建筑学院官方网站</a></li>
+<li><a class="internal" href="https://zhuanlan.zhihu.com/p/108655998">看似木，用如钢，实为竹 | 这种可持续的新材料，了解一下 - 知乎</a></li>
+<li><a class="internal" href="https://www.zhihu.com/question/1892318455786624679/answer/1893259643960160797#:~:text=%E5%B0%B1%E5%83%8F%E4%B8%80%E4%B8%AA%E5%9C%86,%E6%A0%B7%E7%9A%84%E9%81%93%E7%90%86%E3%80%82">10 岁小朋友想向知乎的大朋友提问「为什么竹子是空心的」？ - 知乎</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.sousuotu.com/sst-5-28133.htm" target="_blank" rel="nofollow noreferrer">【江苏省】《DB32/T 5080-2025 工程竹结构建筑技术规程》- 搜索兔</a></li>
+<li>由四川竹元科技有限公司参与编写的工程用竹材、重组竹标准 <a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//www.zhuyuankeji.cn/cbbz/" target="_blank" rel="nofollow noreferrer">参编标准 - 四川竹元科技有限公司</a></li>
 </ol>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1982774009398571587">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1930936809493336510">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786569</guid><pubDate>Tue, 06 Jan 2026 18:24:19 GMT</pubDate></item><item><title>有报道称「一上高铁就犯困」与高铁的震动频率和二氧化碳浓度高有关，是真的吗？你会一上高铁就犯困吗？</title><link>http://daily.zhihu.com/story/9786570</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-3bc100a7a77b2b1b05325735fe6139a0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786591</guid><pubDate>Wed, 07 Jan 2026 01:18:17 GMT</pubDate></item><item><title>人类体能在自然界同体型动物中似乎都很弱，在发明热武器以前如何在自然界中存活？</title><link>http://daily.zhihu.com/story/9786593</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a647e280a0eb25b0908e9f8d25846c5e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -142,111 +252,131 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-4f858e7673beba8ef0398865a87ea2ff_l.jpg?source=8673f162">
-<span class="author">极萨学院冷哲，</span><span class="bio">有时治愈，常常帮助，总是安慰</span>
-<a href="https://www.zhihu.com/question/1917891132131599552/answer/1917925818669205120" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-2af481d1db0ae0c504fb2411e1548f92_l.jpg?source=8673f162">
+<span class="author">赵泠，</span><span class="bio">衣沾不足惜，但使愿无违。</span>
+<a href="https://www.zhihu.com/question/1989162644700161038/answer/1990020366077274025" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先说结论：<strong>震动频率和二氧化碳确实对人在高铁上犯困有促进作用，但更为主要的还是心理放松和生物节律的问题。</strong></p>
-<p>很多人一上高铁就犯困，感觉就跟自己被按了关机键一样，好奇这是为什么。这并不是你的意志力薄弱，而是科学早就设定好的“集体困意陷阱”。</p>
-<p>这不是一个单一因素的问题，每个人高铁犯困可能都由多种因素叠加而至，而且不同的因素的影响程度也各不相同，我把我想到的一些主要的因素列出来，大家可以对照入座。</p>
-<p>首先是缺觉和疲劳。</p>
-<p>对，想想你为了赶高铁，几点起的，几点睡的？</p>
-<p>尤其是哪些赶早班牛马专线的“朋友（二声）”，恨不得早早订票，就要买那个静音车厢，上车前就祈祷乘务员姐姐能化身“关音菩萨”。</p>
-<p>实际上，赶早班车、拖着行李奔波、排长队、找座位……这些看起来日常的动作，其实早就开始透支你的精力。哪怕你当下还没意识到，只要<strong>前一晚少睡两小时</strong>，你的反应速度就已经下降 30% 以上，大脑进入“警觉迟缓”状态 <sup>[1]</sup>。</p>
-<p>而且睡眠债是是会累积的，今天少睡、明天继续少睡，就像信用卡透支：当你终于安稳坐下来时，身体会说：“轮到我休息了。”</p>
-<p>第二点是节律性犯困。</p>
-<p>这个其实跟高铁本身没关系，就是某些人说的到点就困，这时候山西网友就有话说是吧，过了这个点，天王老子来了我也要午睡。</p>
-<p>实际上大家犯困的节律还不止下午的 1-3 点，上午十点前犯困也是正常的，尤其是对于熬夜党。</p>
-<p>这两个时段，是公认的“犯困时间”（Nap Zone）。此时你的体温略降、褪黑素轻微上升，即使前一晚睡得很好，也可能莫名犯困。NASA 用这个节律来安排宇航员小睡，就是为了最大化恢复效能 <sup>[2]</sup>。</p>
-<p>所以这个时间其实跟高铁没关系，你就是坐在办公室或者教室里，也一样犯困。</p>
-<p>第三，就要说到这个高铁震动了，确实有影响。</p>
-<p>这篇发表于 <em>Vehicle System Dynamics</em> 的研究论文《Investigating the car-body vibration of high-speed trains under different operating conditions with full-scale tests》通过全尺度实车测试系统地分析了高铁列车在不同工况（无风、强风、隧道、列车交会等）下的车体振动特征。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d88139f8ba012a07281175c16e9dca91_720w.jpg?source=8673f162" alt=""></figure>
-<p>论文通过傅里叶变换（FFT）对实测数据进行频谱分析发现： 无论是<strong>列车通过隧道</strong>还是<strong>列车交会</strong>，甚至在<strong>强风环境</strong>中运行时，列车车体的主导振动频率都集中在 <strong>0.59~0.65 Hz</strong> 左右； 这一频率非常接近高铁车体“下部质心横滚（lower-centre rolling）”的固有频率。</p>
-<p>而根据 ISO 2631（人体对全身振动的响应标准）与 EN 12299（<strong>欧洲铁路车辆舒适性标准</strong>）能发现， 人体对不同频率的振动响应不同，尤其是<strong>低频段（0.5–2 Hz）</strong>，对人体的作用最大；<strong>0.5–0.8 Hz 的横向振动</strong>对躯干和前庭系统的刺激最为显著， <strong>可干扰内耳前庭系统</strong>，引发疲劳、眩晕、催眠感等反应,对于坐姿乘客，躯干和骨盆区域共振主要出现在<strong>0.5–0.6 Hz</strong>，头部对横摆振动共振频率约为<strong>0.5–1 Hz</strong>。</p>
-<p>当这些振动具有<strong>一致性、周期性和低噪声背景</strong>时，极易触发类“摇篮效应”——促进入睡或放松。</p>
-<p>这就跟推婴儿车，或者拍孩子睡觉容易把孩子哄睡的道理差不多。所以，高铁整体就感觉跟一个大号的“爸爸的爸爸叫什么”差不多，确实是容易把人摇晃睡。</p>
-<p>第四点，大家经常讨论的二氧化碳浓度。</p>
-<p>我们国家的高铁是有标准的设计要求的，一般来说要保证客室内二氧化碳浓度在 0.15 % （≈ 1 500 ppm）以下，这也是符合新《公共场所卫生指标及限值要求》（GB 37488‐2019：CO₂ ≤ 0.15 %）。</p>
-<p>针对高铁的运行状态下的二氧化碳浓度，也有专门的研究团队测过这个。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8f241c0eb763a6751c94c1c872402274_720w.jpg?source=8673f162" alt=""></figure>
-<p>可以看大合格率嘛，一半一半？</p>
-<p>再比如这篇发表于 <em>Transportation Research Part D</em>（2013 年）的研究文章题为 <strong>《Commuter exposure to particle matter and carbon dioxide inside high-speed rail carriages》</strong>，由同济大学和厦门麦克斯迈空气技术研究所的研究者合作完成。它是中国首次系统测量高速铁路（HSR）车厢内 <strong>PM2.5</strong> 和 <strong>二氧化碳（CO₂）</strong> 浓度的实验研究之一。</p>
-<p>文章指出，高铁车厢是一个封闭、空调通风的环境，空气交换率（Air Exchange Rate, AER）有限，乘客自身就是 CO₂ 的主要来源。当乘客从 0 增加到 80 人时，车厢内 CO₂ 浓度线性增加：呼吸区 CO₂ 浓度从约 500 ppm 增至接近 1500 ppm； 回风口附近甚至超过 2000 ppm；</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0355a1aa4b7e3983d2ecd6a9e2dc3d6c_720w.jpg?source=8673f162" alt=""></figure>
-<p>降低高铁内二氧化碳浓度的方法，就是靠通风，或者叫做新风系统。不同的布局会对二氧化碳浓度变化有很大的改善。</p>
-<p>不过这项研究里最高也才测到 2000ppm 左右，但之前有网友测出过更高更离谱的数据。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8abf67c084917f8b918321d8bb6e7077_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-48fe2cf512698bdf97fe3195efea767c_720w.jpg?source=8673f162" alt=""></figure>
-<p>因为是网友测的，我们不能确定仪器的精准和灵敏度以及当时的情况，但有如此高的数值属实是不应该。</p>
-<p>一般来说，二氧化碳浓度超过 2000ppm 后，短期可能导致头痛、嗜睡、注意力不集中、心率加快、呼吸不畅，甚至认知功能显著下降（如决策能力下降 44% - 94%）。长期暴露可能导致慢性疲劳、心血管疾病风险增加，以及酸碱平衡紊。</p>
-<p>能达到这种极端数值，大概率是新风系统有什么问题了。这种浓度持续一段时间，别说犯困，那是直接让人迷糊。</p>
-<p>其实坐高铁的时候也可以留个心眼看看自己是不是有憋闷或者不舒服的迹象，如果有可以走到车厢的连接处去透口气。</p>
-<p>其实除了刚才说的那四点以外，还有一些因素也会导致你高铁犯困。</p>
-<p>比如，第五点，心理因素 。</p>
-<p>在长途跋涉后终于坐上列车，这种<strong>安全感带来的放松</strong>也是关键因素。</p>
-<p>你可能没意识到，从进入车站那一刻开始，你一直处于高警觉的“交感神经主导”状态。落座后神经系统“放权”，副交感开始接手——这就像游戏切换成了“休闲模式”，自然想睡觉。一个安全、封闭、安静的环境会促进大脑进入慢波状态，进而快速切入轻度睡眠 <sup>[3]</sup>。</p>
-<p>第六点，车厢安静。</p>
-<p>这点在我们东北的高铁里比较常见，几乎没有人交谈、无窗外强光、没有突发声响，没有孩子哭闹。</p>
-<p>这意味着，大脑的网状激活系统（reticular activating system）缺乏外界刺激，开始“歇业”。一旦信号输入不足，清醒功能自然下降。这就跟为什么我们睡觉一定要找一个安静的地方一样，一旦有什么风吹草动的，你就睡不着。</p>
-<p>第七点，车厢的温度。</p>
-<p>高铁一般设定在 24–26°C，温湿适中，但这其实正好是人类最容易“放松犯困”的体感区间。</p>
-<p>再加上若是清晨或午后，车内灯光较弱，<strong>整体照度低于 200 lux</strong>，就会削弱褪黑素的抑制——你等于自己给大脑发了“该睡觉了”的信号 <sup>[4]</sup>。</p>
-<p>最后一个，第八点，饭困。</p>
-<p>我这里没打错字，就是饭困，不少人上车前或刚上车就会吃点什么，尤其是像我坐车喜欢吃一些高碳水，高碳水会导致<strong>血糖快速升高 → 胰岛素释放 → 血清素和褪黑素合成上升</strong>，这是一套经典的“饭困路径” <sup>[5]</sup>。</p>
-<p>尤其是吃完饭 30~60 分钟时，是犯困最高发点。这会你又在高铁上受到那么多因素的影响，肯定就更困咯。</p>
-<p>我们说了这么多，我做了一个给每个因素打分“犯困贡献指数”，这个纯娱乐向。</p>
-<table>
-<tbody>
-<tr><th>因素</th><th>犯困贡献指数权重（满分 100）</th></tr>
-<tr>
-<td>睡眠债 / 赶路疲劳</td>
-<td>25</td>
-</tr>
-<tr>
-<td>生物节律低谷</td>
-<td>20</td>
-</tr>
-<tr>
-<td>低频震动</td>
-<td>15</td>
-</tr>
-<tr>
-<td>二氧化碳累积</td>
-<td>15</td>
-</tr>
-<tr>
-<td>心理放松</td>
-<td>10</td>
-</tr>
-<tr>
-<td>感官刺激不足</td>
-<td>5</td>
-</tr>
-<tr>
-<td>温度 / 光照</td>
-<td>5</td>
-</tr>
-<tr>
-<td>饭困 / 血糖波动</td>
-<td>5</td>
-</tr>
-</tbody>
-</table>
-<p>啊，你既然有耐心看到这里，还不转给你那些天天做牛马专线的朋友？</p>
+<p>前提错误。</p>
+<ul>
+<li>人的四肢擅长<strong>抓握与投掷</strong>，是可以和昆虫的翅膀相提并论的超强性状，带来对其他陆生动物的压倒性优势。</li>
+<li>人的<strong>耐力与散热能力</strong>强于许多非人动物。</li>
+<li>在那之前，这些特性不是古人类在自然界存活所必需。</li>
+</ul>
+<p>古人类狩猎采集者的体能出色，还能合作，擅长用石块、手持长矛和投掷武器击毙各种动物。2021 年初，一些学者提出，古人类接连杀绝了在人类聚落附近生活的体型较大的猎物，食物短缺迫使人们向陌生的环境迁移、用语言进行交流、开发更容易打击较小猎物的弓箭和陷阱、驯化狗等动物，推动人脑容量水涨船高。随着人类的耕种能力逐步发展，在过去两万年间，人脑容量小幅下降，可能是农耕不需要狩猎时那么强的认知能力，可能是合作带来特化和精简。可以简写为“<strong>人通过狩猎创造了人</strong>”。</p>
+<ul>
+<li>相关证据主要是出土化石中人类猎物平均体型的缩小和人脑容量增加的统计学关联性——距今 260 万年前，人类祖先周围生活的野生动物的平均体重约 500 千克。距今 1 万年前，这个数字已经不到 50 千克。人类祖先所到之处，大象之类动物被批量歼灭。</li>
+<li>在这个过程中，人获得了比同体型灵长类更强的耐力、更低的耗水量。</li>
+</ul>
+<p><strong>除了古人类，似乎没有任何动物进行过这样高强度的狩猎活动</strong>。无论能不能共享虚构的概念，从昆虫到鲸类，非人生物的合作狩猎似乎从未像古人类那样批量灭绝自己的主要猎物。</p>
+<p>现代人在特定领域的运动能力可以胜过许多非人动物。你可以拿运动成绩比一比。</p>
+<ul>
+<li>可以考虑<strong>慢跑</strong>——在适当的条件与较长距离下，人能赢过绝大多数非人陆生动物。与此同时，人还能长距离游泳、长时间潜水、攀岩。可以看看：<a class="internal" href="https://www.zhihu.com/question/595503263/answer/2983360584">人类是不是自然界最适合慢跑的生物？</a></li>
+</ul>
+<hr>
+<p><strong>关于投掷：</strong></p>
+<p>8 岁小孩投掷棒球的初速度是成年雄性黑猩猩的 2 倍，现代运动员投掷棒球的初速度是成年雄性黑猩猩的 5 倍乃至更多。这是因为人肩部的韧带和肌腱可以像弹弓一样拉伸来储存弹性势能，这功能关系到古人类演化过程中的三项解剖学变化：</p>
+<ul>
+<li>腰部扩张，</li>
+<li>肩部降低和重新定位，</li>
+<li>上臂骨（肱骨）扭曲。</li>
+</ul>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-141bc9e72811e530aa996437b12dce1c_720w.jpg?source=8673f162" alt=""></figure>
+<ul>
+<li>一部分学者建议锁骨长度也与此有关，直立人的锁骨长度会限制他们的投掷能力。根据对现代运动员和出土化石进行的研究，锁骨长度大概没那么重要，直立人在距今 200 万年前就可以投掷攻击。</li>
+</ul>
+<p>在自然界，人们已观察到猴子、猩猩、章鱼等动物拿着石头·树枝·水母触手等各式各样的东西作为工具，黑猩猩会对树枝进行简单加工来做成掏白蚁窝的食器或戳猴子的武器。这些动物的身体结构都不适合将石头或木矛投掷出去准确打击目标，手持原始武器去攻击大型食肉动物是非常危险的，这带给它们的优势有限。</p>
+<p>另一方面，根据二十世纪末到二十一世纪初对智人和尼安德特人的化石与遗物的研究，最迟距今 30 万年前，古人类就可以将杆长两米以上的木质长矛或石刃长矛投掷出数十米远，一群人使用这样的武器可以轻易击毙陆地上的任何大型动物。按照原始人壁画，15 个人就可以猎杀猛犸象。十九世纪以来，东非草原上保持原始生活方式的部落展示了通过投掷长矛猎杀各种动物。</p>
+<p><strong>人的攻击范围与体型比起来异常远</strong>并可以<strong>使用盾牌等进行防御</strong>，这能够弥补人体本身在防护上的问题：</p>
+<ul>
+<li>从野兽的攻击距离外单方面攻击，靠距离抗伤害，比用结构抗伤害要舒服多了，能风筝就不要近战。</li>
+<li>如果一定要近战，就用各种物体代替自己的肉体去承受攻击。</li>
+</ul>
+<p>考古学家安妮米克·米尔克斯多次测试了已知最古老的投掷长矛的投掷轨道属性。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c6cc1f741de3b24f1113e3751baaaefd_720w.jpg?source=8673f162" alt=""><figcaption>图片来源 Chip Clark, Smithsonian Institution</figcaption></figure>
+<p>这是一根长 2.13 米、两端尖的云杉木矛，由尼安德特人在 30 万年前<sup>[1]</sup>制造，于二十世纪九十年代发现于德国 Schöningen 遗址，矛的附近有 35 匹马的遗骨。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-753d04f8ffe3d099d1ffe8753c15faf9_720w.jpg?source=8673f162" alt=""><figcaption>同时期的木矛</figcaption></figure>
+<p>安妮米克委托一位木工使用现代云杉木制造了此矛的复制品以供实验。早期研究由没有投掷经验的现代人（包括科学家在内）进行，他们认为复制品过重、仅能投掷数米到十几米远、对猎物的杀伤力有限，命中率约 13.6%，可能要手持来戳刺，那就会导致狩猎行为危险和低效。2018 年，安妮米克将 6 名标枪运动员使用复制品进行 120 次投掷的测试报告发表在《科学报告》杂志上：</p>
+<p>标枪运动员能将质量分别为 760 克和 800 克的两杆复制长矛以 11.8 米每秒到 20.11 米每秒的速度投掷出去，落地时的速度为 13.5 米每秒到 21.7 米每秒，落地动能 71 焦耳到 179 焦耳<sup>[2]</sup>，可以贯穿大型陆地动物的皮肤、肌肉、内脏。射程超过 15 米时需要使用抛物线弹道，此时矛的两端都有可能着地，说明了其两端尖的原因。实验中的最远射程为 31.2 米，最高终点速度为 33.3 米每秒、对应的射程为 23.2 米，最大落地动能为 444 焦耳。实验者对 1.05 米长·0.55 米宽·0.5 米高的干草捆的平均命中率约 25%，表现最好的实验者为 33%，预期这种矛的投掷表现会随着使用者的熟练程度而上升<sup>[3]</sup>，对站立在地上的动物会有更好的命中率。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5262fe3c7a0e2daa73e9b22da23ed735_720w.jpg?source=8673f162" alt=""></figure>
+<blockquote>Milks, A., Parker, D. & Pope, M. External ballistics of Pleistocene hand-thrown spears: experimental performance data and implications for human evolution. Sci Rep 9, 820 (2019). <br><a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1038/s41598-018-37904-w" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1038/s41598-</span><span class="invisible">018-37904-w</span><span class="ellipsis"></span></a></blockquote>
+<p>在这个时期的遗迹里还发现了木质投掷棒<sup>[4]</sup>，能在较短距离给动物造成严重的钝器伤。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c1a0461177c7f409434ff7b8ccf2d7dd_720w.jpg?source=8673f162" alt=""></figure>
+<p>顺便说，2013 年《人类进化杂志》上的一篇论文称，现代游泳运动员与十九世纪安达曼岛渔民的骨骼十分相似。2020 年的一些研究显示，距今 4 万年前到距今 12 万年前的智人和尼安德特人的胫骨化石显得比从青春期开始每周跑 128 到 160 千米的越野运动员的胫骨还要强壮。远古狩猎采集者的体能完全应当使用运动员的数据来衡量。</p>
+<p>在投掷武器之外，猛犸象牙矛曾被古人类用于手持猎杀猛犸象。它的前端经常带有槽、可以安装多片锐利的石头。古人类亦曾将猛犸象牙加工成矛头、枪头，猛犸象牙的力学性能比其他多种骨质材料优越<sup>[5]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7aeb8bdd8e3e1194b079dc8ba6676f69_720w.jpg?source=8673f162" alt=""><figcaption>在矛前端安装石头的样子 from Antropogenez.ru</figcaption></figure>
+<p>下图展示的是乌贝迪亚石灰岩，打制于距今约 140 万年前：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c7ed324d6f1572ec54286ea738168dcc_720w.jpg?source=8673f162" alt=""></figure>
+<ul>
+<li>该遗迹位于以色列北部。出土了 500 多个这样的石块和一些手斧。截至 2025 年，手斧的功能不明。</li>
+<li>每个石块的形状可能是被古人类（直立人）有意打得有点对称的。他们似乎还没有将它磨光成圆球的想法。不知道它们是工艺品、玩具还是投掷武器。</li>
+<li>非洲出土的这类石块目前最早追溯到距今约 200 万年前。</li>
+</ul>
+<hr>
+<p><strong>关于游泳：</strong></p>
+<p>人可以数十小时不间断地游泳。</p>
+<ul>
+<li>2008 年 12 月，当时 37 岁的意大利人莫罗·贾科尼亚在南美一家旅馆的海水游池里以 101 千米的成绩创下了 <strong>24 小时不间断游泳距离</strong>的新世界纪录。</li>
+</ul>
+<p>人可以在每天游泳 12 小时、持续游泳上百天。</p>
+<ul>
+<li>2018 年 11 月 4 日，当时 33 岁的英国男子罗斯·埃奇利创下了<strong>连续游泳 157 天不上岸</strong>的世界纪录，成为有史以来第一个<strong>连续游泳环绕英国一周</strong>的人。</li>
+<li>埃奇利于 2018 年 6 月 1 日从肯特郡马盖特的肯特海滩出发，沿顺时针方向游了 <strong>2882 千米</strong>后在出发地上岸。游泳过程中有一艘双体船随行，埃奇利在这艘船上过夜。他每天游泳 12 小时，吃了 500 多只香蕉补充能量，并顽强地抵御了巨浪、风暴和水母的袭击。</li>
+<li>踏上陆地后，埃奇利在接受媒体采访时开玩笑说：“今晚我要去伦敦，到酒店里我可能会洗个澡。”</li>
+</ul>
+<p>其他陆生动物经常做不到这些。</p>
+<hr>
+<p><strong>关于用火</strong></p>
+<p>一些书籍和媒体在传播的“人类学会用火之后烹饪得来的熟食能给身体带来更多能量，之后身体更加强壮、脑更加聪明”之类说法是错误的。用火不是人类发展至此所必需。不过，用火确实可以节省许多力气。</p>
+<p>啃生肉的难度高于啃熟肉，咀嚼生肉的纤维花费的时间长于咀嚼熟肉，生肉在胃里消化的速度远慢于熟肉。植物更是如此。你可以看看黑猩猩、大猩猩之类“我们的兄弟物种”每天花多长时间吃东西，跟你自己每天花在吃东西上的时间比较一下。</p>
+<ul>
+<li>人吃一个小时熟食获取的热量，各种猩猩要吃五个小时生食才能获取。</li>
+</ul>
+<p><strong>用火烹饪食物不是“身体更加强壮、脑更加聪明”的起因</strong>。不吃熟食的野生类人猿的身体同样很强壮。人脑容量的明显上升是从距今约 200 万年前开始的，那时的古人类充其量偶尔吃到野火烧死的动物。而且，脑容量不能简单地等同于智力。</p>
+<p>原始人并不是靠“钻木取火”开始用火的。人用火的历史可能有 100 万年以上<sup>[6]</sup>，使用燧石等工具生火的历史可以追溯到距今约 40 万年前，远早于“钻木取火”。在解剖学上，晚期智人广泛控制火的证据可以追溯到距今约 12.5 万年前。<strong>现在世界上仍然存在不会钻木取火的部落</strong>。</p>
+<p>朝野火添加可燃物、拿着带火的树枝点新的火之类并不像钻木取火那样费力，可以在采集食物的过程中顺便捡些适合烧的树枝、木头、干草。在野火过后发现的食物往往并未被很好地加热，而是烧焦或未熟透的，这可能促使人们将未熟透的食物放在仍在燃烧的小片火焰或温度较高的灰烬上，并在食物被烧焦之前将食物取出。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc4bbd74d5d521c6252c7f274ea549f2_720w.jpg?source=8673f162" alt=""><figcaption>发现 100 万年前原位燃烧痕迹的洞穴，位于南非</figcaption></figure>
+<p>2011 年发表的一篇文章报告在南非北开普省 Wonderwerk 洞穴的阿舍利地层里找到了距今约 100 万年前原位燃烧的微地层学证据，这大概是直立人搬运野火火种并添加可燃物的结果<sup>[7]</sup>。洞穴深处存在细小的木炭、灰分、烧焦的骨头碎片、被加热的沉积物，这难以用风吹进来、水带进来之类解释。</p>
+<ul>
+<li>野火的历史至少能追溯到 4.7 亿年前，留下了化石记录<sup>[8]</sup>。</li>
+<li>在现代非洲稀树草原，黑猩猩、长尾猴、各种鸟类优先在最近被野火烧过的地区觅食，包括而不限于吃被烧死的动物、捕杀逃离野火的昆虫、从骨灰上舔盐。夜间，大多数哺乳动物似乎很享受火场散发的热量。</li>
+<li>塞内加尔稀树草原上的黑猩猩对野火的反应与开始了解野火的行为的原始人相似，能观察并推断火势移动的方向，在火看起来会朝自己逼近时主动放弃正在做的事并有序离开，不像其他大多数陆生动物那样远远地看到火就惊慌失措或毫无准备地等火烧到附近才开始逃跑。</li>
+<li>澳大利亚土著人声称一些猛禽是“<span class="nolink">火鹰</span>”、会用火捕猎并教给人类祖先使用火的方法。这是神话传说，但是黑鸢、啸栗鸢、褐隼在澳大利亚北部稀树草原上<strong>用爪子或喙拾取阴燃的树枝甚至合作搬运阴燃的较大树枝、反复投掷到可以点燃的植被上、吃被火惊吓的动物和烧死的动物尸体</strong>的行为已被观察到。鸟类学家从 2011 年到 2017 年在澳大利亚进行实地考察，亲眼目睹了澳大利亚猛禽“纵火”的行为，记录了 20 多件猛禽“纵火”目击报告<sup>[9]</sup>。</li>
+<li>距今约 300 万年前，非洲稀树草原上就有大规模的野火活动。</li>
+</ul>
+<p>距今约 50 万年前到距今约 10 万年前，原始人烹饪食物的痕迹多了起来<sup>[10]</sup>，人呼吸系统抵抗空气污染的特征也是在这一时期明显演化的<sup>[11]</sup>。2025 年发表的一篇文章报告在英国巴纳姆一处距今约 40 万年前的埋藏地面发现尼安德特人生火的证据。研究人员在这里找到了被加热的沉积物、带有火烧裂纹的燧石手斧、两块黄铁矿碎片——黄铁矿可用来与燧石摩擦生火。地质研究表明，黄铁矿在当地较为罕见，推测是故意搬运来的<sup>[12]</sup>。</p>
+<p>火堆产生的热量可以帮人们在寒冷的天气中保持温暖，使他们能生活在气候凉爽或昼夜温差很大的地方，并驱赶夜间捕食者。火烧石头可以帮助加工石器，火烤的木质长矛前端会硬化<sup>[13]</sup>。一群人在山洞里围着火堆的时候在火堆上烤点东西是很自然的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff180502d7542eb510b9e0ec88cf31c6_720w.jpg?source=8673f162" alt=""><figcaption>有 38 万年到 40 万年历史的火硬化长矛 By P. Pfarr NLD - Niedersächsisches Landesamt für Denkmalpflege, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=19057140</figcaption></figure>
+<p>动物从食物中取得能量时，要先消耗较少的能量打破食物中的大分子，将其变成容易吸收的小分子。在自然界，为了获得同样多的营养物质，<strong>吃植物比吃肉消耗更多能量，吃生食比吃熟食消耗更多能量，生吃蜂蜜之类例外</strong>。反刍动物每天要花几个小时咀嚼来切断草里的纤维，在多个膨大的胃或盲肠里借助微生物分解，才能将其较好地吸收。</p>
+<p>高温烹饪可以打碎食物中的一些大分子，大大降低咀嚼、消化、吸收的难度，<strong>吃熟肉的吸收效率是吃生肉的 10 倍左右</strong>。铁、锌、维生素 B12 等东西也是在烹饪之后更容易吸收。原始人不知道这些，但他们感觉得到吃熟肉省力。</p>
+<p>熟食能让动物接触到分解出来的氨基酸、脂肪酸和美拉德反应的产物，激活哺乳类舌头上检测新鲜肉类、糖类、脂肪的受体，让哺乳类自动趋向于吃这食物。这些受体有的是哺乳形类的祖传代码，有的能追溯到无脊椎祖先，都比人古老得多。</p>
+<ul>
+<li>黑猩猩偏爱熟食<sup>[14]</sup>，实验证明黑猩猩对同种食材更爱吃做熟的版本、能理解烹饪对食物的改变作用、能理解研究人员提供的烹饪工具的效用，它们愿意消耗时间来等待生食材被烹饪，愿意主动放下拿在手里的生食材以烹饪它们，能在预期生食材会在日后被烹饪的情况下搬运并储存生食材<sup>[15]</sup>，而在没有烹饪工具时会吃掉生食材。</li>
+</ul>
+<p>在假设“有人爱吃、有人不爱吃、爱吃的取得了优势”的时候，认为<strong>乐意吃熟食的个体产生的可育后代的数量较多</strong>就行了。没有出土化石显示“用火的部落积极消灭不用火的部落”。将自然选择想得充满“你死我活”是粗糙的刻板印象。</p>
+<p>此外，<strong>用火不是软化食物所必需</strong>。食材可以被石器切割、砸软、破碎，可以被太阳辐射、水、微生物处理。</p>
+<ul>
+<li>2023 年发表的一篇文章称，在肯尼亚找到的距今约 303.2 万年前到 258.1 万年前的遗迹显示，古人类那时就会用石器加工动植物组织，此处发现的古人类化石来自傍人属<sup>[16]</sup>。</li>
+<li>能人发明了看起来足以切割食物并加以捣碎的石器，目前不知道他们历史上是否会那样做。能人的下巴显示其咬合力低于南方古猿<sup>[17]</sup> <sup>[18]</sup> <sup>[19]</sup>。Ungar 等提出能人可以间歇性地利用野火<sup>[20]</sup>。</li>
+<li>黑猩猩每天花约 48% 的时间吃东西，现代人花约 4.7%，190 万年前的直立人似乎花约 6.1%<sup>[21]</sup>；直立人的牙齿形态和可能的肠道尺寸更接近现代人而非黑猩猩，表明他们可能用火或其他手段加工食物<sup>[22]</sup>。</li>
+<li>有兴趣尝尝古人类风薄饼的读者可以用石头碾碎一些被水泡发芽的新鲜麦粒、放在被太阳烤烫的石头上加热成脆饼。这种原始食谱不需要火。</li>
+</ul>
+<hr>
+<p><strong>其他：</strong></p>
+<p>考虑后代的成活率，比较当前年均数量，人当前的繁殖能力可能是现存哺乳纲中最强的，2026 年初，全球人口超过 82 亿，而黑家鼠、褐家鼠等数量剧烈波动的散装耗子的年均数量各自不足 70 亿。人当前的繁殖能力很可能也超过了哺乳纲的所有灭绝物种。历史上，古人类的技术和生活方式不允许他们达到这种人口规模，估计人类狩猎采集者在这一时期的地球上的人口上限约 1000 万。</p>
+<p>再生相关增强子的功能变化导致的再生能力下降是哺乳纲的祖征。不过，在人的技术支持下，人体适应严重损伤并代偿的能力超过许多非人动物。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1917891132131599552">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1989162644700161038">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786570</guid><pubDate>Tue, 06 Jan 2026 18:24:20 GMT</pubDate></item><item><title>游戏里的「篝火/壁炉」场景为何能带来强烈治愈感？</title><link>http://daily.zhihu.com/story/9786580</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-d62311f3a15d78134a82522c019da860.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786593</guid><pubDate>Wed, 07 Jan 2026 01:18:18 GMT</pubDate></item><item><title>科学家培育出「不用挑刺」的鲫鱼，称口感没有变化，这种鱼是怎么培育出来的？离上餐桌还有多远？</title><link>http://daily.zhihu.com/story/9786597</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-af6cc45041172f947a677938d2d818e5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -266,93 +396,41 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/53d2cd8d504d7f8e5892dd8b8c4ee7b0_l.jpg?source=8673f162">
-<span class="author">张口淡，</span><span class="bio">盐能防腐</span>
-<a href="https://www.zhihu.com/question/1986465397998899647/answer/1988988281917035791" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-034eb062452f94c605ce1a4e2ad25662_l.jpg?source=8673f162">
+<span class="author">孙悦礼，</span><span class="bio">临床 | 科研 | 运动｜科普</span>
+<a href="https://www.zhihu.com/question/1986858188662927498/answer/1987441150848696601" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先来个动图小测试：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9aae965adc1ba363e3da40cb36cfd92d_720w.gif?source=8673f162" alt=""></figure>
-<p>这张图片里有一个由左至右运动的红点。</p>
-<p>屏幕中心有一个定时闪现的绿点。</p>
-<p>现在问一下各位读者：绿点出现时，红点是<strong>还没运动到</strong>，还是<strong>已经超过了</strong>？</p>
-<p>很多人初看即会回答“<strong>红点超过了，绿点才出现</strong>”。</p>
-<p>如果反复看几次，一部分人会回答“应该<strong>几乎是同时</strong>”。</p>
-<p>其实，答案是绿点<strong>早于</strong>红点。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8b4ee7b60d01e89c21abeb147ea9024b_720w.jpg?source=8673f162" alt=""></figure>
-<p>这被称为<strong>Flash-lag 错觉</strong>，原理是我们的视觉感受，实际是大脑“预判”了周围环境的变化，再模拟出来的结果——人脑神经系统在感知环境信号时会<strong>主动预测。</strong>因此人的大脑“时钟标尺”略提前于周围环境。</p>
-<p>你也可以理解为我们的大脑一直在“胜天半子”。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ee4e2e426821c78403c96dd5f949feba_720w.jpg?source=8673f162" alt=""><figcaption>大脑：照理说你这个级别的绿点无权哈我</figcaption></figure>
-<p>以动图中为例，红色的点开始运动后，我们的大脑会快速习惯它的匀速直线运动，并下意识推演出红点会继续往右运动的场景。</p>
-<p>而绿点是<strong>突然</strong>出现的，无法提前形成预测（除非多次回看）。</p>
-<p>也因此，突然出现的绿点会比脑中预演的红点慢半拍。</p>
-<p>人脑会形成这种机制，是因为懒——或者说是为了高效。</p>
-<p>当视网膜每时每刻传递海量像素信号、鼓膜传递比 hifi 佬的核电功放还要无损的音频素材时，大脑如果逐一处理这些海量信息，将会消耗巨大且效率低下。</p>
-<p>因此大脑取巧地采取了另一种策略——只编码“意外”，即预测误差。</p>
-<p>这意味着大脑只会优先处理那些容易被预测、与环境格格不入、抑或容易导致不确定因素的内容。</p>
-<p>举例来说，男生什么时候最紧张？</p>
-<p><strong>一是视野里的广东黑色双马尾突然高速运动起来。</strong></p>
-<p><strong>二是架狙在中门看远点，突然发现准心下方冒出一个大头。</strong></p>
-<p><strong>三是家里那位突然给你炖汤还放枸杞。</strong></p>
-<p>人脑的信息处理存在层级结构，而在视觉处理方面，这些<strong>明显且突发的异常</strong>能够高效调动高层级的神经元，进一步对低层级的神经元活动进行预测。</p>
-<p>也就是<strong>越明显、越突兀、越急促</strong>的变化，越能够调动大脑的复杂活动，让你的大脑响起知觉警报。</p>
-<p>复杂活动会产生更多消耗，还会调动激素系统相互促进，带来更疲惫的感觉。</p>
-<p>那这跟篝火有什么关系？</p>
-<hr>
-<p>既然，<strong>越明显、越突兀、越急促</strong>的变化，越导致<strong><em>警觉、紧张、消耗</em></strong>。</p>
-<p>那反过来理解，越<strong>低威胁</strong>的环境、越<strong>可预测</strong>的场景、越<strong>平缓</strong>的特征，越能够让人放松。</p>
-<p>这恰巧就是篝火的特点。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1a2cfc2b6256aec2430656d5e8441390_720w.jpg?source=8673f162" alt=""></figure>
-<p>从一百多万年前的远古时代，人类聚居地就有围绕篝火进行休整、烹饪、加工的习惯。</p>
-<p>然而，游戏中的篝火既不真实存在，也不提供热辐射，只是单纯的视觉、听觉信号输入，这也能给人安心的反馈吗？</p>
-<p>能的兄弟，能的。</p>
-<p>单从视觉信号来分析，篝火给人的安心感不是毫无来由的。</p>
-<p>其一，人脑对黑暗环境的视觉信号是紧张的，黑暗意味着潜藏危险、无法预测、突如其来。</p>
-<p>而篝火意味着光源，它带来更多<strong>可见视野</strong>，减少了黑暗带来的紧张和不确定性。</p>
-<p>其二，白天的世界是五颜六色的，各种颜色的交替次生、色块运动，意味着复杂多变的环境，需要大脑去调动更多资源来处理、分析、预测周围环境。</p>
-<p>而傍晚昏暗环境下，篝火火光<strong>统一了环境色调</strong>，减少了场景本身的<strong>明暗、色彩</strong>对比，把周遭世界拉成了统一的昏黄色。这从视觉上极大降低了突兀感，减少神经元调动。</p>
-<p>其三，篝火能够驱散野兽和蛇虫，带来较为可预测的安全环境。百万年长久的人类社会活动，构建起了人基因中，关于靠近火就是靠近安全的关联意识。在现实环境下，火光会远先于热辐射带给人直观刺激，也因此人脑对火光的视觉信号更为敏感。</p>
-<p>其四，篝火和烈火不同，篝火不会像野火一样四处蔓延，它的范围<strong>恒定</strong>、火苗<strong>无目的且不规则</strong>，不会激起人脑对于运动预测的冲动，这些视觉信号十分有利于降低神经元活动。</p>
-<p>除了视觉信号外，噼啪作响的听觉信号也降低了听觉系统带来的刺激，无规律、无节奏的自然噪声同样不会引起人脑预测功能，在声学上比较接近粉红噪音。</p>
-<p>又被称作“安神噪音”。</p>
-<p>基于这些功能性，人目视篝火，即使不直接感受到温暖，也能进入一种<strong>默认模式神经网络（DMN）</strong>的领域。</p>
-<p>什么是<strong>默认模式神经网络</strong>呢？</p>
-<p>你可以理解为这是你大脑的一块底层功能区，一直在后台运行。它主要负责关注自身、回忆、感受情感、自我调节、情绪排异等等。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-81cec99aa0d163b95c27d520fb33aed1_720w.jpg?source=8673f162" alt=""></figure>
-<p>当你大脑高负荷运转时，这块功能区被挂在后台，几乎不占用什么内存。</p>
-<p>而当你的大脑其他高级功能区逐一休息下来时，DMN 开始逐渐发挥主导作用。</p>
-<p>这也就是人盯着篝火会发呆、会反省、会回忆，会变成哲学♂家乃至俳句仙人的原理。</p>
-<p>也意味着——人进入了安全环境，有余力去进行感性思考了。</p>
-<hr>
-<p>不难注意到，篝火与 DMN 的这种关联性，是伴随着人类历史演化所逐步强化的，也具有极强的社会文化色彩。</p>
-<p>在远古社会，篝火能够杀灭食物和饮用水中的细菌，烘烤皮料、处理尸体、清洁伤口等，让火焰与原始宗教中的“纯洁性”相挂钩。</p>
-<p>这一关联在今日的宗教演变中也可以窥见一二，在琐罗亚斯德教（俗称拜火教）教义中有极为对应的演化：<strong>Asha，又或称正道</strong>——它意味真理与秩序，反抗混沌与虚假。在古波斯人眼中，当火带来了秩序、统一、和谐，人就有能力去思考真理、善良和正义。</p>
-<p>再回归游戏，篝火的这种文化属性则被进一步强化。</p>
-<p>从 TRPG 到 CRPG，从 DND 到黑暗之魂，坐在篝火前休息被牢牢绑定在角色冒险的旅途中。</p>
-<p>是浴血摸黑拼杀的不死人闯过一张昏暗地图遇到一点零星火光；是长途跋涉上山下海的冒险者在野外扎下营地升起篝火；是几个多姿多彩、性格迥异但相伴同行的角色，围在火边享受片刻的宁静。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a014f81456e2760e90765f1a4e8946bd_720w.jpg?source=8673f162" alt=""><figcaption>图片来源于网络</figcaption></figure>
-<p>从什么时候开始看到篝火就感到治愈？</p>
-<p>它给玩家提供了一个短暂的休憩，这种休憩是身与心的。</p>
-<p>玩家能放松放松手指、停歇下眼睛、回味一下刚才的整段游戏过程；也可以延展脊背伸个懒腰，再站起来扣扣皮鼓，放松不拘于形式。</p>
-<p>游戏中的角色也能得到治愈，因为篝火能帮你恢复健康，消除一切负面状态。满身血痕的铁皮罐头坐在木桩上喘口气，镜头一摇，第二天太阳照常升起。</p>
-<p>这种文化带来的治愈符号可能比火焰本身带来的舒缓更令人印象深刻。</p>
-<p>所以，玩家对游戏中篝火产生“治愈”感的条件反射，一方面是肉体的代码是这么写的，另一方面是作者是希望你这么感觉的。</p>
-<p>当然，也不是所有篝火都一定能让人感到治愈。</p>
-<p>在有的游戏中篝火并不一定意味着温暖、恢复、休憩；</p>
-<p>那么当玩家看到这种篝火，下意识“感觉到治愈”自然也就无从谈起了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6977b1025d86f92c295f539d86a859e3_720w.jpg?source=8673f162" alt=""></figure>
+<p>不是每个生物都进化成我们方便吃的形态。</p>
+<p>如果有比人类更高一级的生物，一定觉得人类非常好吃也方便吃——毛发不多、肥瘦相间、方便吐骨头、没啥寄生虫和病毒……</p>
+<p>说回正题，我们还是说鱼和小鱼刺。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7e4e868e69487fbb38c5988606b54668_720w.jpg?source=8673f162" alt=""></figure>
+<p>鱼的那些细小硬刺，在解剖学上叫作肌间刺，它们既不构成脊柱，也不参与关节，更不负责承重，而是分布在肌肉之间，像一根根细小的骨性隔条，把鱼的肌肉分割成规则的块状。从功能上看，它们更多是“肌肉发育和排列的附属结构”，而不是决定鱼能不能游、能不能长大的核心骨架。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c9c04e99a2aba52e2e392d5371380208_720w.jpg?source=8673f162" alt=""></figure>
+<p>理解这一点，就能明白科学家做了什么。这项研究是在鱼的胚胎发育阶段，直接让“形成肌间刺的那条发育路径不再启动”。</p>
+<p>在组织胚胎学中，鱼类和人一样，骨骼和肌肉都来自中胚层，但在早期分化过程中，不同的骨结构其实走的是不同的“发育支线”。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-723132c9c47133bf5926a2774d740571_720w.jpg?source=8673f162" alt=""></figure>
+<p>脊柱、肋骨、颌骨这些关键结构，有它们稳定而保守的发育程序，而肌间刺则属于一类相对独立、专门服务于肌肉分区的骨化产物。研究团队所做的，是精准地关闭这一条支线，却完全保留了主骨架和肌肉系统的正常发育，因此这条鱼依然可以正常游动、正常生长，肌肉的质地和口感也不会发生改变。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ad2c582e5e4fe3fe94a877c39bc98113_720w.jpg?source=8673f162" alt=""></figure>
+<p>在骨科临床中，我们经常见到一些“先天少长了一点骨头”的人，比如某些肋骨缺如、副骨缺失，甚至髌骨发育异常。很多这类患者一辈子都活得很好，甚至直到拍片时才第一次发现自己的解剖结构和别人不完全一样。原因就在于，那些缺失的结构并不处在人体力学的关键链路上，它们既不承担主要负重，也不维持关节稳定，更不保护重要神经。</p>
+<p>无肌间刺的鲫鱼，从发育机制上看，正是一个类似的情形，只不过这种“先天缺失”是被精确设计出来的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e111d739b477b042f06f7ca651b1c979_720w.jpg?source=8673f162" alt=""></figure>
+<p>很多人担心这样的改变会不会带来“后遗症”，比如运动效率下降、身体结构失衡，让肉质变差。但肌间刺并不参与鱼类运动系统的核心力学闭环，它的缺失不会迫使其他骨骼或肌肉承担额外负担，也不会改变神经和血管的走行路径。鱼的口感主要由肌纤维类型、纤维直径、肌内脂肪和结缔组织结构决定，而不是由骨头数量决定。肌间刺的存在，影响的是吃鱼时的安全性和心理负担，而不是肌肉本身的生物学性质。它的消失，改变的是“会不会被卡住”，而不是“肉质发生了什么变化”。</p>
+<p>骨骼并非越多越好，关键在于是否出现在正确的位置、承担了合理的功能。当我们能够在发育层面清楚地区分“核心结构”和“附属结构”，并对后者进行精准调控时，所谓的“少一块骨头”，就不再意味着缺陷，而可能是一种更高效、更安全的结构选择。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9424701d378cd97c658915fd4ee4e288_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种思路，如果有一天被反过来用于理解人类骨赘形成或韧带异常骨化，或许会真正改变我们对很多骨科疾病的认知方式。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1986465397998899647">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1986858188662927498">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786580</guid><pubDate>Tue, 06 Jan 2026 18:24:21 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9786511</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786597</guid><pubDate>Wed, 07 Jan 2026 01:18:19 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9786588</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -367,7 +445,7 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 你的低成本爱好是什么？</h2>
+<h2 class="question-title">瞎扯 · 你见过最杠的杠精是什么样的？</h2>
 
 <div class="answer">
 
@@ -378,29 +456,41 @@
 </div>
 
 <div class="content">
-<div>Q：<a class="internal" href="https://www.zhihu.com/question/1897959255778231029/answer/1918795368272988065" target="_blank">你的低成本爱好是什么？</a>
+<div>Q：<a class="internal" href="https://www.zhihu.com/question/68014919/answer/1967248410408101869" target="_blank">你见过最杠的杠精是什么样的？</a>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0036170c285b680b5acf59045abd822b" target="_blank">@罗承成</a>：下班后，奴役 AI 给我写代码。不断调整和明确需求。</div>
-</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/647571852/answer/1967269145155450723" target="_blank">敢不敢发一张你的自拍照？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/9a661cac17fac876e2a36d0e912ba3a5" target="_blank">@囍囍</a>：刚洗完澡，有点羞涩。</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d7dbc57ba9c5069039a5815a5caddea4" target="_blank">@蹦爹</a>：杀人诛心，一句封喉</div>
 </blockquote>
 <figure>
-<div><img class="content-image" src="https://picx.zhimg.com/v2-0c851993b281c8231f471831328f333b_1440w.jpg" alt=""></div>
+<div><img class="content-image" src="https://pic3.zhimg.com/v2-da6ffd8e853df57a0574f9113665e916_1440w.jpg" alt=""></div>
 <figcaption> </figcaption></figure>
-Q：<a class="internal" href="https://www.zhihu.com/question/634462247/answer/1946921069022801931" target="_blank">中国有不主动申请院士却强过院士的人吗？</a>
+<figure>
+<div><img class="content-image" src="https://pic1.zhimg.com/v2-93e4f0f2e268cbcb5b389ca94c971952_1440w.jpg" alt=""></div>
+<figcaption> </figcaption></figure>
+<figure>
+<div><img class="content-image" src="https://pic2.zhimg.com/v2-77f4cb6860a40ac633e9fcc03af58a05_1440w.jpg" alt=""></div>
+<figcaption> </figcaption></figure>
+<figure>
+<div><img class="content-image" src="https://pic2.zhimg.com/v2-edeacded2eb81a8eecb3e84c13abdc5b_1440w.jpg" alt=""></div>
+<figcaption> </figcaption></figure>
+<figure>
+<div><img class="content-image" src="https://pic3.zhimg.com/v2-8b39625a2381273f777490897ab25d72_1440w.jpg" alt=""></div>
+<figcaption> </figcaption></figure>
+Q：<a class="internal" href="https://www.zhihu.com/question/543229591/answer/3459458223" target="_blank">怎么判断一个孩子有没有数学天赋？</a>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/921518d77898164103d1d99060241a1c" target="_blank">@momo</a>：我自己，读书时候食堂遇见殷鸿福院士，他看我拎着一堆打包的饭说我比他年轻时候能吃多了</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e29bc37d987e7dc5db32a5ef0af455d7" target="_blank">@北极鲢鱼</a>：直接判断：没有数学天赋。</div>
+判断准确率通常在 99.99% 以上。</blockquote>
+Q：<a class="internal" href="https://www.zhihu.com/question/316680205/answer/1962133348399951941" target="_blank">人类是否无法想象出没见过的东西？ </a>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8b04972a94a545c404be4b6e81b3a217" target="_blank">@大熊喵</a>：有个集美提出的相亲要求如下：</div>
+1 ，体制内<br> 2 ，年薪百万<br>网友评价：这是纪委来钓鱼执法了</blockquote>
+Q：<a class="internal" href="https://www.zhihu.com/question/611121856/answer/3376540438" target="_blank">有哪些瞬间你秒懂了别人的暗示？</a>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/3fb744eb1716d4735a0e48137e756399" target="_blank">@漫步者</a>：我问技术今年能不能把电影《流浪地球 2 》里面的耳机上架？</div>
+他让我滚</blockquote>
+Q：<a class="internal" href="https://www.zhihu.com/question/1899516798845575580/answer/1932472134472536415" target="_blank">请问已经高三了，早上 8 点上课，下午 3 点放学，算累吗？ </a>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e2e6bad36c4e9697130f4f085f945150" target="_blank">@被风吹走的风</a>：我在忍住不看 IP 的挑战里，获得了 0.1 秒的好成绩，你也快来试试吧！</div>
 </blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/619958326/answer/3233883129" target="_blank">小猫是怎么理解搬家的？ </a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/65f719a41f6c91de5050e9b08eed83ec" target="_blank">@Yang Wang</a>：有人搬家后</div>
-把牛油涂在猫爪子上<br>猫忙着舔爪子<br>就没注意力环境变化</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/629804174/answer/1967268511500992833" target="_blank">男人为什么到了一定年纪就喜欢喝酒？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8ff523224767bd0cb396118eae4a0f11" target="_blank">@狗狗嗖嗖</a>：「因为这东西是最厉害的交通工具，你喝进去，就可以到任何地方。」</div>
-</blockquote>
 </div>
 </div>
 </div>
@@ -410,4 +500,4 @@ Q：<a class="internal" href="https://www.zhihu.com/question/629804174/answer/19
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786511</guid><pubDate>Tue, 06 Jan 2026 18:24:22 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786588</guid><pubDate>Wed, 07 Jan 2026 01:18:20 GMT</pubDate></item></channel></rss>
