@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 07 Jan 2026 18:26:00 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>都说长得越快的树木越不成材，但为什么竹子长那么快强度却很好，甚至可以用来做建材呢？</title><link>http://daily.zhihu.com/story/9786591</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e74cf1be6f4e60de67ccce962d77a631.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 08 Jan 2026 01:18:49 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>西西伯利亚在气象学中有什么特殊的地位，为什么每次冷空气都从那里开始，而不是北极地区？</title><link>http://daily.zhihu.com/story/9786607</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7aa768d52af233c13b3dbfc46afdcc70.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,220 +19,77 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-5dce0048daa0e6a8b994e11378ec1d82_l.jpg?source=8673f162">
-<span class="author">冯海峰，</span><span class="bio">以史为鉴全球化、经济史、科技史视野助力理解企业信息化</span>
-<a href="https://www.zhihu.com/question/1930936809493336510/answer/1984361350969963301" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
+<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
+<a href="https://www.zhihu.com/question/39738236/answer/1982748133520868207" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>竹子在草本植物高大化方向上发展到了极致，做到生长快速的同时又有很高硬度。其演化出了哪些特异化的结构，使其优秀的力学性能部分接近铝合金和硬质塑料？为什么有这些结构？为此我将您的问题分解为三个问题，逐项解答。</p>
-<p>1、竹子是草还是树？</p>
-<p>2、竹子为什么又长得快又那么硬？草不是都比较软吗？</p>
-<p>3、既然竹子这么强，那么竹子如何用于建筑领域。有哪些限制？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a2549aff315c33310b12215afd044358_720w.jpg?source=8673f162" alt=""><figcaption>2018 年 邵长专 利用当地的竹子为村民建的“一心桥”</figcaption></figure>
-<p><strong>问题 1、竹子是草还是树？</strong></p>
-<p>我先介绍最传统的形态学判别竹子分类的依据。然后介绍近年分子生物学对竹子分类的更科学的分类确认。</p>
-<p><strong>一、形态学分类依据：竹子 "草本" 身份的传统分类方式</strong><strong>1. 茎的结构特征：最关键的形态学证据</strong></p>
+<p>当冬季每一轮寒潮来袭时，始终会提到“来自西伯利亚的冷空气”这一表述，相信大家会有一个疑惑：<strong>发源地为什么是西伯利亚，特别是西西伯利亚，而不是更北的北极点？</strong>这片土地在气象学中究竟占据着何种特殊的地位？</p>
+<p>要理解这一点，我们就不能再去从微观角度深入了，而是要直接从全球环流、大气物理以及地理构造的宏大视角，来揭开这个问题以及其背后的机制。<strong>这不仅仅讲的只是寒冷，更关乎到全球大气运转与能量循环。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b64f941b3bfcd0b7e244a824ef58df98_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>为何西西伯利亚是天然的超级冰窖？这是地理与辐射的共同影响！</strong></p>
+<p>翻开世界地图，再把目光放到西伯利亚这片土地上，相信大家会发出一声惊叹，西西伯利亚呈现出了一个近乎完美的地理结构，不夸张的说西西伯利亚就是为寒潮的诞生量身定制的。从机制上来讲，其特殊性主要来源于三大地理要素的罕见组合：</p>
+<p><strong>（一）巨大的板块与封闭的地形</strong></p>
+<p>西西伯利亚平原面积超过 260 万平方公里，是世界上最大的连续平原之一，其东部被中西伯利亚高原和东西伯利亚山地拱卫，西部受乌拉尔山脉阻隔，南部则有哈萨克丘陵和阿尔泰山系环绕。像这种半封闭的、朝北敞开的地形，就像是你家簸箕这样的地形，<strong>使得极地冷空气可以长驱直入在此堆积，而南方的相对暖湿的气流却难以北上中和。</strong></p>
+<p>第二点也就是更为重要的是，陆地拥有极低的热能量，与海洋相比陆地吸收和释放能量的速度要快得多。这意味着，<strong>冬季陆地能够迅速的将夏季储存热量散失殆尽，变得异常寒冷</strong>。从而不会出现冷空气下来了，但是地面上还很暖的情况，不然这不是闹吗？</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-145ba086b450d06d764f5322f39adede_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>（二）极高的纬度与漫长的极夜</strong></p>
+<p>北纬 55 度~70 度的宽广跨度，使得西西伯利亚北部深入北极圈，每年冬季时这里经历着漫长的极夜或者是短日照，例如在萨列哈尔德 12 月的日照时长几乎不足两小时，太阳辐射的长期缺失使得地表失去了最为主要的热量来源，能量收支呈现巨大的赤字，<strong>而这种只出不进的辐射状态是深层冷却的物理基础。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-945810af50e01b9964d96796e1bac665_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>（三）冰雪覆盖的反照率冷却</strong></p>
+<p>在冬季时，整个区域都会被深厚的积雪所覆盖，雪面对太阳的短波辐射的反射率可以高达 80%以上。<strong>这意味着即便有微弱的冬季阳光，大部分能量也会被直接反射回太空</strong>，无法用于加热地表或者是近地空气。于是一个非常强大的正反馈机制就会形成：<strong>初始降温→降雪→反照率升高→吸收太阳辐射更少→进一步降温→积雪维持……</strong>这个循环能够将局地温度推向极低的水平，-50℃都不够看。</p>
+<p>最后，在晴朗干燥无风的漫长冬季里，地表会通过长波辐射不断的向太空散失热量。由于缺乏云层之床保温被，热量散失几乎不受任何阻碍。在整个西伯利亚腹地的某些站点，例如奥伊米亚康和维尔霍扬斯克曾记录到 -67.8℃与 -69.8℃的极端低温，从而形成北半球的寒极。<strong>像这种由强烈辐射冷却形成的近地层超冷空气，是冷空气团最为核心的冷源之一。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d111b4c27f4fffbe82be5abb2c644691_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>西西伯利亚为何也是高压的发源地？ 这是环流与动力过程的耦合！</strong></p>
+<p>仅仅有低温物质仍然不够，冷空气也需要被组织起来，并且被输送出去，但即便是再低的气温，冷空气也就只是一团无组织无纪律的空气而已，也只能困死在此地。西伯利亚的每一次寒潮出现以及南下都要归功于西西伯利亚上空大气环流的良好配置。</p>
+<p><strong>（一）西伯利亚高压</strong></p>
+<p>冬季，欧亚大陆的上空会形成一个异常强大且稳定的冷性反气旋，即西伯利亚高压（又称蒙古高压）。它的地面中心通常位于贝加尔湖以西、阿尔泰山以北的西西伯利亚到蒙古地区，这个高压系统的成因正是上述强烈辐射冷却的产物：<strong>近地面空气剧烈，冷却密度增大，收缩下沉，导致地面气压升高。</strong></p>
+<p>西伯利亚高压的平均海平面气压可以达到 1040 百帕以上，其强度以及影响范围都是全球季节性高压系统之最，这个高压系统主要扮演着两重关键角色：</p>
 <ul>
-<li><strong>维管束排列</strong>：竹子茎的维管束呈散生状，无形成层，不具备持续增粗能力（<strong>典型草本特征</strong>）。竹笋长出地面多粗，成竹就多粗。与木本植物的环状排列维管束 + 形成层结构逐年扩增不同。</li>
-<li><strong>中空茎</strong>：多数竹种茎干中空，这是禾本科植物的标志性特征，与木本植物实心茎中的髓心形成鲜明对比。</li>
-<li><strong>木质化特点</strong>：虽有较高木质化程度（部分可达 50% 以上），但这只是 "<strong>次生适应</strong>"，并非本质特征。竹子的木质化是薄壁细胞增厚而非木本植物的次生生长（表现为大多数树木的年轮）。</li>
+<li><strong>冷空气的储存地：</strong>高压系统带来的深厚下沉气流抑制了对流以及雨和云的生成，使得空气持续晴朗，进一步加剧了晴空辐射的冷却效应，让冷空气能够源源不断的堆积。</li>
+<li><strong>冷空气的“涡轮增压”：</strong>高压中心与周边特别是其东侧和南侧的巨大气压差，产生了驱动空气运动的原动力，为冷空气的爆发性南下做好了压力准备。</li>
 </ul>
-<p><strong>2. 其他重要形态学特征</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-dab770248fa06862c281b7714c9a1143_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>（二）高空槽脊的加一把火</strong></p>
+<p>对流层中上空的西风带其波动形态（槽、脊）是触发冷空气南下的核心开关之一。冬季时，在西西伯利亚上空常维持着一个深厚的高空冷槽或者是横槽。槽后的西北气流将极地更冷的冷空气源源不断的输送过来；槽前的西南气流则维持相对温暖的状态。<strong>当这个高空槽以某种形式发展、加深或者是旋转时，便会引导地面高压的轴向发生变化</strong>，最终，引导堆积的冷空气沿着气压梯度最大的方向（往往是东南或南方）倾泻而出。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/1969710843659805344/answer/1971512103375475245?share_code=QwqHJkr3ZH1e&utm_psn=1982745339174863229">气象学上如何定义西风带的“野性”？这种野性具体体现在哪？为何它一旦野起来，就会引发一系列极端天气？</a></p>
+<p><strong>（西风带、槽脊系统与下文的温带气旋建议参考↑与本篇一起阅读口味更佳~）</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8e5f2f3a72f4204ebb1dca8437edfce8_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>（三）寒潮爆发的经典路径</strong></p>
+<p>一般来说，<strong>在西西伯利亚形成的冷空气最常见的南下路径就是西北路径以及超极地路径。</strong>西北路径的冷空气经过萨彦岭、阿尔泰山等地，进入我国的新疆或者是蒙古国然后东移南下。而更具威力的超极地路径，则源于更北的喀拉海、泰梅尔半岛的冷空气直接南下，补充西西伯利亚冷堆中，然后经过中西伯利亚强化后一举入侵我国东北与华北，往往带来范围广、强度大、降温剧烈的全国性寒潮。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-74c43c55ea9d90f8fa3f5c139f9a05d2_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>发源地为什么不是北极？对比将会产生真相</strong></p>
+<p>这次牵引出了我们最初的、也是最为核心的疑问：既然西伯利亚地区都已经这么厉害了，那么北极地区明明更北，理论上来说应该更冷，<strong>为何冷空气的发源地不是北极，而是西伯利亚？</strong>俗话说的好，对比才能凸显优势与劣势，真相方能出现，接下来我们也采用这种方式来看一看。</p>
+<p><strong>（一）下垫面的根本差异</strong></p>
+<p>北极点的中心区域是北冰洋，尽管有海平覆盖，但是冰层之下是温度相对稳定的浩瀚海水。众所周知水的比热容巨大，这意味着海洋是一个巨型的热量缓冲器：<strong>在冬季时，海洋向大气释放储存的热量，阻止了近地面气温无限制的降低</strong>。因此北极点冬季的平均气温约为 -30℃左右，反而要远高于西西伯利亚的寒极。因此北极地区是冷的，但是西伯利亚内陆是极冷的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-026b89d261020201417121bde88b9bb6_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>（二）环流结构的差异</strong></p>
+<p>北极地区特别是北大西洋和北太平洋的副极地区，是温带气旋孕育和活跃的通道。<strong>频繁的气旋活动意味着天气系统复杂多变，气压场相对破碎</strong>，不利于形成一个稳定、强大且范围广阔的冷性高压中心来长时间腌制和聚集冷空气。<strong>并且北极地区的冷空气更多是分散流动的</strong>，而西伯利亚在冬季则是大陆性反气旋的统治地区，系统稳定持久为冷空气的积累提供了完美的静止环境。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0e592ab08543cb293336d4adc98ee470_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>（三）能量收支的解释</strong></p>
+<p>从能量平衡角度上来看，我们可以更清晰的看到差异：</p>
 <ul>
-<li><strong>单子叶植物特征</strong>：叶片平行叶脉、须根系，与禾本科其他成员（水稻、小麦等）一致，与双子叶木本植物的网状叶脉和直根系明显不同。</li>
-<li><strong>生长方式</strong>：由地下横走的<strong>竹鞭</strong>（根状茎）发育而来，与草本植物的分蘖方式相似，而非木本植物的直立主根。（这一生长方式下一个子问题会进一步讲解）</li>
-<li><strong>开花结果特性</strong>：多数竹种一生仅开花一次，花后死亡（<strong>单次结实性</strong>），这与多年生木本植物持续开花结果的特性差异显著。</li>
+<li><strong>北极</strong>：冬季虽然太阳辐射收入极少，<strong>但是来自于大西洋和太平洋的海洋热量输送（通过洋流和大气）持续不断</strong>，部分抵消了辐射降温冷却，其能量净损失相对有限。</li>
+<li><strong>西西伯利亚：</strong>远离任何相对温暖的海洋，是纯粹的大陆性气候。冬季在强烈辐射冷却之下，<strong>热量只出不进</strong>，没有任何有效的热源进行补偿，其能量净损失是达到全球陆地的极致水平，因此能制造出全球最冷的冷空气气团。</li>
 </ul>
-<p>下面，我放几个竹子的结构图片，最后放一个树的结构图片，方便大家对比理解。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1b71cfe1540c30e8cefc4b6b90013b90_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c98852242b4923397f69dfacddf8157c_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f840f5b6d9ddf131777cc50665bf28b6_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2a103167963780ade57f596acd1bfa26_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
-<p>下图是四年生椴树茎横切标本，可以和前面竹茎秆标本对比。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-48bd0b6b47e43d2793199caed4fc895c_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》</figcaption></figure>
-<p>树干结构进一步介绍，有兴趣可以看我另一个回答 <a class="internal" href="https://www.zhihu.com/question/1919325305597825174/answer/1951728193556963681">为什么树木会生长年轮？ - 知乎</a></p>
-<p><strong>二、分子生物学证据：现代分类学的科学验证 （这部分内容，主要来源于参考资料 3、4）</strong><strong>1. DNA 序列分析确定亲缘关系</strong></p>
-<ul>
-<li><strong>全基因组比对</strong>：竹类植物是竹亚科 (Bambusoideae) 植物的统称，与早熟禾亚科 (Poideae) (如小麦) 以及稻亚科 (Oryzoideae) (如水稻) 共同构成“<strong>BOP 分支”</strong>。证实竹子是禾本科大家庭的一员</li>
-<li><strong>系统发育树构建</strong>：基于叶绿体基因组和核基因序列（如 matK、rbcL、ITS 等）的分析表明，竹亚科与其他禾本科植物在进化树上紧密相连，且<strong>不与任何木本植物类群形成姐妹群</strong>中国科学院昆明植物研究所</li>
-</ul>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8441048591b97252af8319d5cc2b9911_720w.jpg?source=8673f162" alt=""><figcaption>中国科学院昆明植物研究所郭振华和李德铢研究组利用一种简化基因组测序的方法即 RAD，数据构建的温带木本竹子系统发育树</figcaption></figure>
-<p><strong>2. 竹亚科内部分类的分子依据</strong></p>
-<ul>
-<li><strong>分子标记技术</strong>：在竹种、竹属鉴别中，DNA 条形码（如 matK 基因）能有效区分形态相似的物种，解决传统分类中因开花周期长（有些竹种 60-120 年才开花）导致的鉴定困难 PMC</li>
-<li><strong>多基因联合分析</strong>：研究发现竹亚科分为三个主要类群：分别为代表<strong>草本竹类</strong>的莪利竹族(Olyreae)，代表温带木本竹类的青篱竹族(Arundinarieae) 和代表热带木本竹类的箣竹族(Bambuseae)，其中箣竹族分为旧世界热带木本竹类(Paleotropical woody bamboos，PWB) 和新世界热带木本竹类(Neotropical woody bamboos，NWB) 两个分支。证实 "木本竹" 只是竹亚科内部的一个分支，整体仍属禾本科草本植物范畴。</li>
-</ul>
-<p>知道了竹子属于禾本科竹亚科，是最高的草。那么下一个子问题。</p>
-<p><strong>问题 2、竹子为什么又长得快又那么硬？</strong></p>
-<p>为什么竹子生长速度远超树木。核心原因是草本植物<strong>为了实现与树木竞争地表以上多年生的生态位，对阳光、土壤、水源全方位竞争，而演化的独特生长策略、匹配的独特的生长结构与机制</strong>，与树木的木本生长模式形成本质差异。</p>
-<p><strong><strong>一、竹子面临的生长压力和对应的生长策略</strong></strong></p>
-<p><strong>竹子的生长策略是更快更高，才能抢到阳光。</strong></p>
-<p>最早的陆生植物没有分化出真根和枝叶，身高也只有 15 厘米左右。在适应陆地环境后，植物形成了维管束这种结构，大大增强了植物的强度。这样，植物开始迅速长高。</p>
-<p>普通的草只确保利用种子复生或地下的根部再生。地表以上组织则是一岁一枯荣。自然无需对地表以上组织做过多加强投入。所以草类，整体比树柔软，硬度、刚性低很多。</p>
-<p>竹类大都喜温暖湿润的气候盛产于热带、亚热带和温带地区。尤其以亚太、非洲、南美洲为三大主生长区。这些地区植物生长茂盛，种类多，竞争对手多。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b4d19b8ade131df1259a96349ab26da3_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《竹材的建构》 P14</figcaption></figure>
-<p>竹子和树都选择了保留地表以上多年生组织。<strong>在与其它草类竞争中，竹子和树一样都要靠长高抢阳光。</strong>为了保持长高以后的植株的稳定，发展了地下发达的根系抓牢土壤；而地上则是除了维管束还形成其它增加强度的结构，确保强度的同时保证一定的韧性，更好的抗横向风的推力。</p>
-<p>不过，竹子虽然已经是草类高大化的极致，但在高大化方向上还是被后劲充足的树打败。竹子一般 20-40 米高，而树可以轻易超过这个高度，最高甚至超过 90 米。所以<strong>竹子只能选择生长在森林下层或稀疏林地。</strong></p>
-<p><strong>地表以上，为了竞争阳光，竹子的竞争策略是快速完成 “高度竞争”</strong>。破土即一次性爆发式生长（竹笋→成竹 1-3 个月达最终 30 米左右的高度）。</p>
-<p>在<strong>地表以下的土壤中，竹子的根系（须根系）分布浅但密集，可快速吸收地表水分与养分；</strong>而树木的直根系深入地下，吸收效率高但生长缓慢。，竹子的 “浅根系竹鞭横向速生” 策略更具优势。</p>
-<p>除此以外，竹子还会释放毒素，化学清扫周围环境。不过这个机制和提问内容关系不大，暂不展开。</p>
-<p>扩展知识：</p>
-<p>很多藤类草本植物大大削弱了维管束，放弃高强度的肢体，柔软身段，将所有能量全部转到攀附和长身体，能横向生长的更快更长。例如，比较著名有在美国造成绿色沙漠的葛藤。而竹类中也有类似的另类。和在国内常见的竹子不同，“藤本”竹类 Dinochloa Buse 和 Sokinochloa S. Dransf.生长在热带雨林，能够缠绕并攀爬上林中的大树。</p>
-<p>为了更好的生存，演化是没有特定方向的全面乱发展，一条路走到极致还不行，就另选一条路。</p>
-<p><strong>二、竹子的特色生长机制（确保快速长高的同时，有足够强度支撑植株）</strong><strong>长快机制 1：地下竹鞭的 “预储备与快启动”赢在起跑线上</strong></p>
-<p>竹子的快速生长并非 “从零开始”，而是依赖地下<strong>根状茎（竹鞭）的长期能量积累</strong>，相当于 “地下育苗 + 能量仓库”：</p>
-<ol>
-<li><strong>竹鞭的预分化特性</strong>：竹鞭在地下横向生长（每年可延伸 3-5 米），其上的芽（笋芽）会提前 1-3 年完成细胞分化，形成竹笋的 “雏形”—— 节间、维管束、分生组织已基本成型，仅需等待适宜环境（温度 15-25℃、湿度 80%+）即可快速出土。</li>
-<li><strong>能量与养分储备</strong>：竹鞭通过根系吸收土壤中的氮、磷、钾及水分，转化为淀粉、蔗糖等储能物质，储存在芽体和竹鞭组织中。竹笋出土时，无需依赖自身光合作用，直接消耗地下储备的能量，实现 “零光合快速生长”（前 2-3 周竹笋几乎无叶片，完全依赖储备养分）。</li>
-<li><strong>对比树木</strong>：树木的芽体仅在春季萌发时开始分化，且生长所需能量完全依赖当年叶片的光合作用，前期 “能量积累不足”，生长速度自然受限。</li>
-</ol>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-007b1f8c60af85e2b0137df8b4dace88_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《植物显微图解》 可以看到竹编上的芽已经暗暗做好功能分化准备</figcaption></figure>
-<p><strong>长快机制 2：茎的结构设计 ——“无形成层 + 节间同步伸长”，优化核心 KPI+ 并发成长</strong></p>
-<p>竹子的茎（竹竿）结构与树木的木质茎存在本质差异，直接决定了生长速度：</p>
-<p><strong>无形成层，放弃 “长粗” 换 “长高”</strong>：</p>
-<ul>
-<ul>
-<li>树木的茎有<strong>形成层</strong>（木质部与韧皮部之间的分生组织），每年需消耗大量能量合成木质部（木材），实现直径增粗（即 “次生生长”），导致高度生长速度被稀释（如杨树每年长高 2-3 米，同时直径增粗 2-3 厘米）。</li>
-<li>竹子作为草本植物，<strong>无形成层</strong>，茎的直径在竹笋出土时已固定（出土直径 = 成熟直径），无需进行次生生长，所有能量集中于 “纵向伸长”—— 在猛长期 “只盖高度，不砌厚度”，效率呈几何级提升。等长到够高后再慢慢增加木质化。</li>
-</ul>
-</ul>
-<p><strong>节间分生组织的 “同时并发爆长”</strong>：</p>
-<ul>
-<ul>
-<li>竹子的茎由多个<strong>节间</strong>组成，每个节间基部都有独立的 “居间分生组织”（特殊的生长细胞）。竹笋出土后，这些分生组织同时启动细胞分裂与伸长，相当于 “多台发动机同时驱动”。玉兰片，也就是剖开的竹笋可以看到一排间隔，将来这就是各个竹节。</li>
-<li>以毛竹为例：成竹有 30-40 个节间，每个节间每天可伸长 1-2 厘米，叠加后每天总高度增长达 30-40 厘米（最快记录 50 厘米 / 天），1-2 个月即可长至 10-20 米的最终高度。</li>
-<li>竹节之间的竹隔和秆环、箨（tuò）环，在竹节快速垂直生长的同时，通过环装管箍形态增加横向强度，避免竹节开裂。同时将竹节打断的维管束微观重新连接（不是上下一一对应）。</li>
-</ul>
-</ul>
-<p><strong>细胞伸长的 “高效机制”</strong>：</p>
-<ul>
-<ul>
-<li>竹子节间细胞都是轴向紧密排列，没有径向扩增，而是 “伸长倍数” 可达原长度的 10-20 倍（普通植物细胞仅 2-3 倍），且细胞伸长时通过 “吸水膨胀” 辅助（细胞内渗透压升高，快速吸收水分支撑细胞壁伸展），进一步加速生长。</li>
-</ul>
-</ul>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-45440abfe58eda755d49ec9e8048f7bd_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：香港科学馆 https://hk.science.museum/tc/web/scm/online-explore/cb/aefmb.html</figcaption></figure>
-<p>如果说前两个机制解释了如何尽快长高，那么下一套机制就是如何最高效的变强。</p>
-<p><strong>变强机制：合理布局维管束 + 表层竹青硅化 + 髓体木质化 + 竹节横向增强</strong></p>
-<p>竹子每节（节间）的结构从内到外依次为髓腔→髓环→基本组织→散生维管束→竹青（表皮系统），竹节横隔（隔膜）贯穿其中。</p>
-<p>其中，竹子空管（髓腔）结构却能达到甚至超越一些实心树木的强度，且表面硬度更高，核心是结构设计的工程优化 + 材料自身的双重强化。配合木质化 + 硅化的材料强化，最终实现“轻量化高强度”的力学效果。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e0aa0f84c752ac191927cb25f22342f5_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：南京林业大学 科普|竹类形态特征 https://qzl.njfu.edu.cn/xxyd/20240611/i306828.html</figcaption></figure>
-<p><strong>1、空心竹管完美实现“空心轴原理”</strong></p>
-<p>竹子的空管（髓腔）从结构上进行了极端优化。完美实践材料力学中的 “空心轴原理”：</p>
-<p>构件受力（如弯曲、压缩）时，应力集中在远离中性轴的外侧区域。弯曲时离中性轴越远的材料“杠杆臂”越长、贡献越大（I 对半径的四次方敏感）。而核心区域应力极小（接近零）。</p>
-<p>抗弯能力由截面惯性矩 I 和和抗弯截面系数 w 决定。</p>
-<p>实心圆柱(半径 R):</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=I_%7Bsolid%7D%3D%5Cfrac%7B%CF%80R%5E%7B4%7D%7D%7B4%7D" alt=""></p>
-<p>，</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W_%7Bsolid%7D%3D%5Cfrac%7BI%7D%7BR%7D%3D%5Cfrac%7B%CF%80R%5E%7B3%7D%7D%7B4%7D" alt=""></p>
-<p>圆管(外半径 R_o, 内半径 R_i):</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=I_%7Btube%7D%3D%5Cfrac%7B%CF%80%5Cleft%28+R_%7Bo%7D%5E%7B4%7D-R_%7Bi%7D%5E%7B4%7D+%5Cright%29%7D%7B4%7D" alt=""></p>
-<p>,</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W_%7Btube%7D%3D%5Cfrac%7BI%7D%7BRo%7D%3D%5Cfrac%7B%CF%80%5Cleft%28+R_%7Bo%7D%5E%7B4%7D-R_%7Bi%7D%5E%7B4%7D+%5Cright%29%7D%7B4Ro%7D" alt=""></p>
-<p>当把材料从靠近中性轴处移到外缘，几乎不减重量，却显著提升 I 与 W。因此在同面积（即同重量）条件下，圆管分配更优。</p>
-<p>但有两点要注意：</p>
-<p>1) 同外径（R_o 相同）：圆管把内部材料去掉，I 和 W 都会变小，故实心更强。这也是实心的树干、木材，和同直径的竹子比更强的原因。</p>
-<p>2) 同截面积 / 同重量（A 固定）：<strong>截面惯性矩的界面不是外径包络面积，圆管的截面积是圆环。</strong>圆管可用更大的外径、更薄的壁厚，把材料“抛”到外缘，I 与 W 显著增大。同截面积同重量下，<strong>截面系数提升约两倍</strong>，弯曲强度与刚度（EI）均显著改善。</p>
-<p>绝大部分竹子都是空心圆管的。经济用竹例如毛竹基本直径在 40mm 到 100mm。竹子可以破土而出后不到一年就长成，可以用和树木同样的能量构成更大截面积的稳定结构。提前几年就成材并占据生长空间。反之，实心的竹子只有十种左右，而且都不太粗，高度也明显低于空心竹。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f82d3ef4722cd04a374d78a302ee166_720w.jpg?source=8673f162" alt=""><figcaption>截图来源：《竹材的建构》P17 页</figcaption></figure>
-<p>竹子直接去掉核心无效区域，将材料集中在管壁（远离中性轴）。这样竹管在相同材料用量下，空心结构的抗弯、抗扭强度远高于实心结构，这是竹子 “轻而强” 的核心原因。实现了多快好省。</p>
-<p><strong>2、竹节横向加强筋 + 管箍：</strong></p>
-<p>竹子受自然风雪横向力的时候，如果空管结构无支撑，易发生 “局部屈曲”（管壁凹陷）。而竹节处的横隔每隔 20-50cm（毛竹）分布，将长空心管分割为 “分段空心柱”，相当于在空管中增加了 “内置加强筋”。这一局部加强结构，大大增强了横向强度，完美解决了竹子生长环境应当外界风雪横推的问题。</p>
-<p><strong>3、合理布局维管束的”钢筋水泥“提升管壁刚度：</strong></p>
-<p>比较细的竹子会形成比较完整的一圈维管束，较粗的竹子则是比较散列的形成一圈维管束，越靠近外侧竹青维管束越多，靠近内测则逐渐减少。而且禾本科的维管束比木本的维管束结构更复杂，维管束外还有维管束鞘对几条维管束包络增强。这些维管束和木质部一起形成类似钢筋水泥的加强结构，这样的维管束微观结构比木本的维管束强度明显增强，代替了树木形成层，轻量化的同时满足了强度和刚性。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-707bb274bbbbb9fb16675eed0ffb812b_720w.jpg?source=8673f162" alt=""><figcaption>《植物学》第三版</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d6dab419c8d29838244a3aec8b244847_720w.jpg?source=8673f162" alt=""><figcaption>《竹材的建构》 P17</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ae3a86c2b7861d714ff9ffcb17ee5679_720w.jpg?source=8673f162" alt=""><figcaption>《植物材料（木、竹）断裂力学》</figcaption></figure>
-<p><strong>4. 局部强化：硅化（集中于竹青，提升耐磨性与防腐性）</strong></p>
-<p>硅化是指竹青表层（表皮及下表皮）沉积<strong>二氧化硅（SiO₂）</strong>，形成 “硅质保护层”，仅发生在竹材最外层，不影响内部组织的力学结构。最终成竹，表皮硅含量达 3%-5%（干重），形成 0.1-0.2mm 厚的硅质层。硅质与蜡质层融合，形成致密的 “硅 - 蜡复合防护层”。谁能想到，地球碳基生命氛围下，竹子部分使用硅化生长。</p>
-<p><strong>5. 木质化：（贯穿所有组织，坚硬如木）</strong></p>
-<p>木质化是指细胞壁沉积<strong>木质素</strong>（芳香族聚合物），使细胞壁增厚、硬度提升，是竹材从 “嫩竹” 到 “成竹” 的关键转变。如果说表层的竹青追求极致硬度，那么木质化结合维管束，达到甚至超过比较松软的木材例如杨树、松树的抗压强度。</p>
-<p><strong>木质化的时间进程</strong>：1-2 年生是木质化快速期（木质素含量年均增长 5%-8%），3 年生后增速放缓，4-5 年生达到峰值并稳定，此时竹材强度、刚度均达建筑用材标准（顺纹抗弯强度≥120MPa，弹性模量≥12GPa）。</p>
-<p>引发提问者兴趣的竹刷就是成熟竹子的竹节间的一段竹壁，一般会去掉又硬又滑的竹青和最内侧蓬松的竹黄，留下含有大量维管束的木质部。因为体积小，对日常以竹代塑的硬度、强度都完全可以满足。而原竹用于建筑为了强度更高，是不清除竹青的。</p>
-<p>竹子达到力学性能稳定的成熟速度远超一般树木。所以，建筑等经济用途选竹子要选 4-5 年的成竹。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2fecbe2d0214fedabb47783d5e2a1b16_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>机制 4、光合作用的 “快速启动与高效循环”综合机制</strong></p>
-<p>无论长高还是变强，营养和能量都要跟上。竹子在生长初期即可快速建立 “光合产能系统”，形成 “生长 - 光合” 的正向循环：</p>
-<ol>
-<li><strong>叶片快速展开</strong>：竹笋出土后，顶部的芽会快速分化出叶片（仅需 1-2 周），且叶片呈 “平行叶脉 + 大表面积” 结构（禾本科特征），光合作用效率达 15-20 μmol CO₂/(m²・s)（树木新叶光合作用效率仅 8-12 μmol CO₂/(m²・s)）。</li>
-<li><strong>无木质化负担</strong>：竹子的茎虽有木质化（纤维素含量 50%-55%），但木质化过程与生长同步完成，且仅发生在细胞壁增厚（不影响细胞伸长），而树木的木质化需单独消耗能量合成木质素（占木材干重 25%-30%），显著拖慢生长速度。</li>
-<li><strong>群体协同生长</strong>：竹子多为丛生或散生群体，竹笋集中出土时，叶片快速覆盖形成 “密集冠层”，群体光合作用效率远超单株树木，进一步为生长提供能量支持。</li>
-</ol>
-<p>引起提问者兴趣的竹板刷，只是竹节间的一段竹壁，为了穿孔固定毛刷方便，一般去掉了最外层的竹青和最内侧松散的竹黄，只保留了木质部。这种局部材料轻盈的同时硬度强度又很强。做工具得心应手，物美价廉。那么引入提问者最后的问题。</p>
-<p><strong>问题 3、竹子是否可以用于建筑。</strong></p>
-<p>竹子是传统建筑材料。中国西南地区、南亚、东南亚、美洲都有用竹子建造房屋、桥梁的传统。傣族的竹楼是传统建筑的典范，非常适应当地环境。</p>
-<p>我国主要用毛竹等几种直径、强度、长度都比较合适的竹材。</p>
-<p>下面几张表可以看到，竹子的好几项力学性能接近混凝土，但密度、重量、成本却远低于其它建材。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3fb9ca46ef79f4702de503f9340c005e_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《竹材的建构》</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b0bd4f7d4fbe14a78e7a5185ca829555_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《竹材的建构》</figcaption></figure>
-<p>但优秀的力学性能不等于工程能力强。</p>
-<p>竹子是极端演化，适应自身生长面临的风雪推力和自身重量压力。但竹材作为一种建筑材料，在建构中也存在一些自身的局限。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9b49b2179d17bb6729a710d98baf8510_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：《竹材的建构》</figcaption></figure>
-<ul>
-<li>各向异性极强 + 性能不均，结构风险高：竹材具有质量轻、有弹性以及抗顺纹压力强的优点，但对横纹方向耐受能力较差；见上图的数据。</li>
-<li>由于应力作用于管状截面中心轴线外围，抗扭性能较好，但材料受形状、尺寸、生长时间、含水量、强度等影响，单体差异较大；</li>
-<li>竹材不是均质材料，外侧竹青硬度最大，外层＞中层＞内层，外层通常比内层高约 30–70%。而且靠近竹节处结构复杂，可能出现±20%波动。导致设计如果涉及较重负载要注意。</li>
-<li>竹材管状结构，竹节间抗压能力强。但超过一定压力值，断裂破损程度远超木材。一旦破损会顺着轴向纵向延伸，甚至势如破竹大区段破裂。</li>
-<li>管壁外围由粗纤维包裹，受力强度较大，但单体由底部到顶部，强度、直径及竹节间距不平均；</li>
-<li>竹节可作为耐弯折和止裂的天然“结构加固”，但化学防腐、防火处理竹材时，会阻碍药剂、填充物灌入；</li>
-<li>竹材直径有限，尤其是建筑领域采用的毛竹和类似的竹子，需要组合才能支撑多层高楼。多根组合时突起的竹节不平，让捆扎不够牢固。</li>
-<li>竹材空心和表面硅化过硬，而直接钉钉子会导致竹材开裂。所以，当代竹的连接方式主要有绑扎型、榫卯型、螺栓型、套筒型和槽口型。除了捆扎，其它连接做建筑构件需要打孔、锯口后再配置金属管箍和内部的衬套等局部金属构件。否则无法承担重载也无法良好稳定的连接。</li>
-<li>竹材空心，管壁厚度有限，无法做高浮雕等木材常见装饰工艺。</li>
-<li>天然原竹含水量较高，一般需要干燥处理，以避免引起开裂。含水率过低又会导致强度下降。</li>
-<li>竹材除了防腐防虫，还需要防火。原竹一般只能达到 B1 级别。</li>
-</ul>
-<p>其中，防火的问题，在 2025 年 11 月香港大火中，虽然竹脚手架并不是用于建筑结构施工，仅仅是外围临时构件。但令竹材的防火性引起很多关注。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a2549aff315c33310b12215afd044358_720w.jpg?source=8673f162" alt=""></figure>
-<p>就我个人来说，邵长专为村民建的 4 座“一心桥”最让人感动。其中 2018 年建设的 1 座获了英国皇家建造师学会（RICS）奖。竹桥跨度 21 米，由 716 根毛竹做成。成本低廉、性能完全满足村民日常出行。当地村民非常喜欢这座竹桥，还自发在桥上建了一个小神龛。竹桥成了村民初一、十五来活动的桥庙，完全融入村民的生活。而不是像很多竹构景观，其高大上的异质文化造型，突兀的闯入当地环境。</p>
-<p>在建设这些桥的过程中，邵长专也带领团队，对竹桥防火措施、固定结构进行了一定的试验。</p>
-<p>不过，直到现在，国内目前关于竹子在建筑方面的标准还不够完善。就目前的标准规定，受限于结构极限和耐火耐潮的问题，一般不能构建高于三层也就是 15 米以下的建筑。</p>
-<p>主要用的经济竹可以长到 30 米高，经过精心设计的一些公用竹建筑还是有接近这个高度的。近年还有竹子加工后制作的竹钢，更能方便构建一些体量大一些的建筑。</p>
-<p>知乎上可以找到 <a class="member_mention" href="http://www.zhihu.com/people/1b0df27d1d78915a59c60793143ca1b4">@上海境道原竹</a> 专业设计建造竹建筑。下图，就来源其一篇文章</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-92672e803c1f386a77047e107e896a5f_720w.jpg?source=8673f162" alt=""><figcaption>项目：怀化安江杂交水稻博物馆丰收剧场 项目深化及施工：上海境道原竹建筑设计工程有限公司 建筑方案设计：同济大学设计院若本工作室 图片来源：https://zhuanlan.zhihu.com/p/1976669385021233141</figcaption></figure>
-<p>正是因为原竹的种种问题，现在国际上普遍不允许原竹直接用于建筑施工，而是要进行防火、防腐结构优化后才能使用。更进一步则是进行竹材的重组，变为材质力学性能稳定、均匀、防火耐腐防虫的材料，比如竹钢。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e06fa082598e1fa67ec28ec6fbb6997d_720w.jpg?source=8673f162" alt=""></figure>
-<p>上图来源 <a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1fMXYYcEdi/%3Fspm_id_from%3D333.337.search-card.all.click%26vd_source%3Dc9942d5b448765cf2efeff8728b49773" target="_blank" rel="nofollow noreferrer">2025 年日本大阪世博会中国馆 “中华书简”隐藏细节_哔哩哔哩_bilibili</a> 这个建筑的主材就是竹钢。</p>
-<p>下图是 2025 年日本大阪世博会日本馆”蓝色海洋“，因为不允许使用原竹施工，日本的设计施工人员，对原竹用了与中国馆不同的重构工艺，使用了新的竹原料的复合竹材。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6d43ccc63db129c4a7e040ff6d438294_720w.jpg?source=8673f162" alt=""></figure>
-<p>总结：</p>
-<p>竹材是优秀的各向异性轻质天然材料。</p>
-<ul>
-<li>竹青表面硅化和内部众多微观复合维管束广泛分布在木质化间质中，使竹壁硬度接近混凝土比常用经济木材高一倍。</li>
-<li>优化的空管结构和同直径的木材比抗压抗弯能力更好。</li>
-<li>利用竹节并发、预生长等机制和结构实现极快的生长。</li>
-<li>成本低廉，成材快、绿色环保，重量轻，综合性能接近硬塑、铝合金。是以竹代塑的优质用料，也是轻量化建筑、户外景观、便桥的优秀建材。</li>
-</ul>
-<p>竹材还有一系列弱点在小件器物上不明显，但用于建筑就有很多限制。包括：非均质、和木材及现代材料比没有大料，重载需要组合才能形成大结构构件。抗裂能力差。握钉能力差，竹节不平，需要增加配件才能有效组合、连接竹材。防腐、防虫、防火处理受竹节影响，比较麻烦。这些导致竹构建筑体量高度有限，无法建造高层大体量建筑。</p>
-<p>对原竹进行重组形成竹钢等新复合材料，克服了原竹的很多弊端，大大增强了防火、防腐、防虫、横向抗压性能，可以构建大尺度构件。但还是存在表面硬度过高，连接麻烦等问题。未来可以完善标准、探索前行。</p>
-<p>参考资料：</p>
-<ol>
-<li>黄艳辉《竹材纤维及细胞壁力学性能》 2019 年 11 月 第 1 版 科学技术出版社</li>
-<li>冯燕妮,李和平 《植物显微图解》（2020 年第 2 版）科学技术出版社</li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//www.kib.ac.cn/xwzx/kyjz/201709/t20170915_4860280.html%3Ff_link_type%3Df_linkinlinenote%26flow_extra%3DeyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiI2OWYyYjJmODliMDhmNjVlLTAxZTliYWY4N2RlNDMwN2YifQ%253D%253D" target="_blank" rel="nofollow noreferrer">郭振华和李德铢研究组采用全基因组范围的 RAD 测序数据深度解析温带本竹属分支的系统发育关系 ---- 中国科学院昆明植物研究所</a></li>
-<li><a class="internal" href="https://zhuanlan.zhihu.com/p/716218678">昆明植物研究所在旧世界热带木本竹类起源和形态性状演化研究中取得新进展 - 知乎</a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//qzl.njfu.edu.cn/xxyd/20240611/i306828.html" target="_blank" rel="nofollow noreferrer">科普 | 竹类形态特征 - 学习园地 - 阙泽利教授木结构工作室</a></li>
-<li>《原竹结构设计指南》2022 年 9 月第 1 版 重庆大学出版社</li>
-<li>《竹材的建构》2014 年 11 月第 1 版 东南大学出版社</li>
-<li>《植物材料（木、竹）断裂力学》2012 年 4 月第 1 版 科学出版社</li>
-<li>《植物学》 王丽、刘朝辉 2023 年 2 月第 3 版 高等教育出版社</li>
-<li><a class="internal" href="https://zhuanlan.zhihu.com/p/91713096">85 后博士，为重庆人修了一座桥：为平民阶层做事，所学才有价值 - 知乎</a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.archcollege.com/60227.html" target="_blank" rel="nofollow noreferrer">Blue Ocean Dome / 坂茂 - 建筑学院官方网站</a></li>
-<li><a class="internal" href="https://zhuanlan.zhihu.com/p/108655998">看似木，用如钢，实为竹 | 这种可持续的新材料，了解一下 - 知乎</a></li>
-<li><a class="internal" href="https://www.zhihu.com/question/1892318455786624679/answer/1893259643960160797#:~:text=%E5%B0%B1%E5%83%8F%E4%B8%80%E4%B8%AA%E5%9C%86,%E6%A0%B7%E7%9A%84%E9%81%93%E7%90%86%E3%80%82">10 岁小朋友想向知乎的大朋友提问「为什么竹子是空心的」？ - 知乎</a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.sousuotu.com/sst-5-28133.htm" target="_blank" rel="nofollow noreferrer">【江苏省】《DB32/T 5080-2025 工程竹结构建筑技术规程》- 搜索兔</a></li>
-<li>由四川竹元科技有限公司参与编写的工程用竹材、重组竹标准 <a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//www.zhuyuankeji.cn/cbbz/" target="_blank" rel="nofollow noreferrer">参编标准 - 四川竹元科技有限公司</a></li>
-</ol>
+<p>这样其实就一目了然了，前者虽然冷但好歹还有一些反制措施，多多少少能够抵消掉一些降温，后者是连一丁点反制措施都没有了，谁更冷一些一眼便知。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/28374006/answer/1974047641592690219?share_code=xa2jTCyyfl01&utm_psn=1982747264180064683">为什么北大西洋暖流如此强劲，以至于可以对欧洲气候产生如此大的影响？</a></p>
+<p><strong>（北极地区海洋暖洋流补给部分建议参考↑）</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0739b98c1c9e423e756d0e24dd8a9066_720w.jpg?source=8673f162" alt=""></figure>
+<p>作为地球寒极的西西伯利亚，是地理、气象、能量和运动交织的产物。在这里，<strong>太阳辐射的缺席、陆地冰原的特性与大气环流的形态共同创造出了地球最冷的地方</strong>。在全球相连的气候系统中，没有任何一片土地是孤独的。西西伯利亚的寒冷与北大西洋的温暖，热带太平洋的涛动甚至是南极海冰的范围，都有着千丝万缕的联系。在全球变暖背景之下，继续观察研究和理解它们，<strong>不仅是为了预报明天的天气，更是为了应对一个更具不确定性的未来做好准备。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-07b381fb75058dba86d1a9b1687f9f95_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1930936809493336510">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/39738236">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786591</guid><pubDate>Wed, 07 Jan 2026 18:25:58 GMT</pubDate></item><item><title>人类体能在自然界同体型动物中似乎都很弱，在发明热武器以前如何在自然界中存活？</title><link>http://daily.zhihu.com/story/9786593</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a647e280a0eb25b0908e9f8d25846c5e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786607</guid><pubDate>Thu, 08 Jan 2026 01:18:47 GMT</pubDate></item><item><title>消失 30 年的「中国豹」重现北京附近，这一生态事件对当地生物多样性有何意义？</title><link>http://daily.zhihu.com/story/9786615</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-721e0a55ad47d5bc957251820f01199e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -252,131 +109,139 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-2af481d1db0ae0c504fb2411e1548f92_l.jpg?source=8673f162">
-<span class="author">赵泠，</span><span class="bio">衣沾不足惜，但使愿无违。</span>
-<a href="https://www.zhihu.com/question/1989162644700161038/answer/1990020366077274025" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-af2454c62423a7ca9db5224ef2efc2a0_l.jpg?source=8673f162">
+<span class="author">三眼乌鸦，</span><span class="bio">科学为根，艺术为形，历史为线。 用图像与文字编织生命长卷。</span>
+<a href="https://www.zhihu.com/question/1986441498338825500/answer/1987139452678709989" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>前提错误。</p>
-<ul>
-<li>人的四肢擅长<strong>抓握与投掷</strong>，是可以和昆虫的翅膀相提并论的超强性状，带来对其他陆生动物的压倒性优势。</li>
-<li>人的<strong>耐力与散热能力</strong>强于许多非人动物。</li>
-<li>在那之前，这些特性不是古人类在自然界存活所必需。</li>
-</ul>
-<p>古人类狩猎采集者的体能出色，还能合作，擅长用石块、手持长矛和投掷武器击毙各种动物。2021 年初，一些学者提出，古人类接连杀绝了在人类聚落附近生活的体型较大的猎物，食物短缺迫使人们向陌生的环境迁移、用语言进行交流、开发更容易打击较小猎物的弓箭和陷阱、驯化狗等动物，推动人脑容量水涨船高。随着人类的耕种能力逐步发展，在过去两万年间，人脑容量小幅下降，可能是农耕不需要狩猎时那么强的认知能力，可能是合作带来特化和精简。可以简写为“<strong>人通过狩猎创造了人</strong>”。</p>
-<ul>
-<li>相关证据主要是出土化石中人类猎物平均体型的缩小和人脑容量增加的统计学关联性——距今 260 万年前，人类祖先周围生活的野生动物的平均体重约 500 千克。距今 1 万年前，这个数字已经不到 50 千克。人类祖先所到之处，大象之类动物被批量歼灭。</li>
-<li>在这个过程中，人获得了比同体型灵长类更强的耐力、更低的耗水量。</li>
-</ul>
-<p><strong>除了古人类，似乎没有任何动物进行过这样高强度的狩猎活动</strong>。无论能不能共享虚构的概念，从昆虫到鲸类，非人生物的合作狩猎似乎从未像古人类那样批量灭绝自己的主要猎物。</p>
-<p>现代人在特定领域的运动能力可以胜过许多非人动物。你可以拿运动成绩比一比。</p>
-<ul>
-<li>可以考虑<strong>慢跑</strong>——在适当的条件与较长距离下，人能赢过绝大多数非人陆生动物。与此同时，人还能长距离游泳、长时间潜水、攀岩。可以看看：<a class="internal" href="https://www.zhihu.com/question/595503263/answer/2983360584">人类是不是自然界最适合慢跑的生物？</a></li>
-</ul>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-37931d1602abf2e0465676687a22d726_720w.jpg?source=8673f162" alt=""><figcaption>华北豹（Panthera pardus japonensis）是中国独有的豹亚种</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-84c6d39bae36a2309ff76ecdd5369882_720w.jpg?source=8673f162" alt=""><figcaption>东北豹、华北豹和华南豹分化时间可追溯至约 15.5 万年前（Zhang et al., 2024）。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-17b258729e57c6c772b4b8147177d678_720w.jpg?source=8673f162" alt=""><figcaption>一只成年雌豹通常需要 20–40 km²的领地，而成年雄豹的领地往往超过 100km²</figcaption></figure>
+<p>北京周边再次确认华北豹稳定活动，意义不在于多了一条红外影像，而在于它同时证明了三件事：</p>
+<p>1.京畿周边山地的生态底盘正在恢复到足以承载顶级捕食者的水平。</p>
+<p>2.华北豹正在从核心分布区山西向北扩散。</p>
+<p>3.更重要的是，不同区域种群之间出现了重新建立基因交流的现实通道，有望逐步打破长期遗传瓶颈。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-65156102669080232c9789e15563972d_720w.jpg?source=8673f162" alt=""></figure>
+<p>要理解这一发现的意义，首先需要回到华北豹本身在生态系统中的角色。</p>
 <hr>
-<p><strong>关于投掷：</strong></p>
-<p>8 岁小孩投掷棒球的初速度是成年雄性黑猩猩的 2 倍，现代运动员投掷棒球的初速度是成年雄性黑猩猩的 5 倍乃至更多。这是因为人肩部的韧带和肌腱可以像弹弓一样拉伸来储存弹性势能，这功能关系到古人类演化过程中的三项解剖学变化：</p>
-<ul>
-<li>腰部扩张，</li>
-<li>肩部降低和重新定位，</li>
-<li>上臂骨（肱骨）扭曲。</li>
-</ul>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-141bc9e72811e530aa996437b12dce1c_720w.jpg?source=8673f162" alt=""></figure>
-<ul>
-<li>一部分学者建议锁骨长度也与此有关，直立人的锁骨长度会限制他们的投掷能力。根据对现代运动员和出土化石进行的研究，锁骨长度大概没那么重要，直立人在距今 200 万年前就可以投掷攻击。</li>
-</ul>
-<p>在自然界，人们已观察到猴子、猩猩、章鱼等动物拿着石头·树枝·水母触手等各式各样的东西作为工具，黑猩猩会对树枝进行简单加工来做成掏白蚁窝的食器或戳猴子的武器。这些动物的身体结构都不适合将石头或木矛投掷出去准确打击目标，手持原始武器去攻击大型食肉动物是非常危险的，这带给它们的优势有限。</p>
-<p>另一方面，根据二十世纪末到二十一世纪初对智人和尼安德特人的化石与遗物的研究，最迟距今 30 万年前，古人类就可以将杆长两米以上的木质长矛或石刃长矛投掷出数十米远，一群人使用这样的武器可以轻易击毙陆地上的任何大型动物。按照原始人壁画，15 个人就可以猎杀猛犸象。十九世纪以来，东非草原上保持原始生活方式的部落展示了通过投掷长矛猎杀各种动物。</p>
-<p><strong>人的攻击范围与体型比起来异常远</strong>并可以<strong>使用盾牌等进行防御</strong>，这能够弥补人体本身在防护上的问题：</p>
-<ul>
-<li>从野兽的攻击距离外单方面攻击，靠距离抗伤害，比用结构抗伤害要舒服多了，能风筝就不要近战。</li>
-<li>如果一定要近战，就用各种物体代替自己的肉体去承受攻击。</li>
-</ul>
-<p>考古学家安妮米克·米尔克斯多次测试了已知最古老的投掷长矛的投掷轨道属性。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c6cc1f741de3b24f1113e3751baaaefd_720w.jpg?source=8673f162" alt=""><figcaption>图片来源 Chip Clark, Smithsonian Institution</figcaption></figure>
-<p>这是一根长 2.13 米、两端尖的云杉木矛，由尼安德特人在 30 万年前<sup>[1]</sup>制造，于二十世纪九十年代发现于德国 Schöningen 遗址，矛的附近有 35 匹马的遗骨。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-753d04f8ffe3d099d1ffe8753c15faf9_720w.jpg?source=8673f162" alt=""><figcaption>同时期的木矛</figcaption></figure>
-<p>安妮米克委托一位木工使用现代云杉木制造了此矛的复制品以供实验。早期研究由没有投掷经验的现代人（包括科学家在内）进行，他们认为复制品过重、仅能投掷数米到十几米远、对猎物的杀伤力有限，命中率约 13.6%，可能要手持来戳刺，那就会导致狩猎行为危险和低效。2018 年，安妮米克将 6 名标枪运动员使用复制品进行 120 次投掷的测试报告发表在《科学报告》杂志上：</p>
-<p>标枪运动员能将质量分别为 760 克和 800 克的两杆复制长矛以 11.8 米每秒到 20.11 米每秒的速度投掷出去，落地时的速度为 13.5 米每秒到 21.7 米每秒，落地动能 71 焦耳到 179 焦耳<sup>[2]</sup>，可以贯穿大型陆地动物的皮肤、肌肉、内脏。射程超过 15 米时需要使用抛物线弹道，此时矛的两端都有可能着地，说明了其两端尖的原因。实验中的最远射程为 31.2 米，最高终点速度为 33.3 米每秒、对应的射程为 23.2 米，最大落地动能为 444 焦耳。实验者对 1.05 米长·0.55 米宽·0.5 米高的干草捆的平均命中率约 25%，表现最好的实验者为 33%，预期这种矛的投掷表现会随着使用者的熟练程度而上升<sup>[3]</sup>，对站立在地上的动物会有更好的命中率。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5262fe3c7a0e2daa73e9b22da23ed735_720w.jpg?source=8673f162" alt=""></figure>
-<blockquote>Milks, A., Parker, D. & Pope, M. External ballistics of Pleistocene hand-thrown spears: experimental performance data and implications for human evolution. Sci Rep 9, 820 (2019). <br><a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1038/s41598-018-37904-w" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1038/s41598-</span><span class="invisible">018-37904-w</span><span class="ellipsis"></span></a></blockquote>
-<p>在这个时期的遗迹里还发现了木质投掷棒<sup>[4]</sup>，能在较短距离给动物造成严重的钝器伤。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c1a0461177c7f409434ff7b8ccf2d7dd_720w.jpg?source=8673f162" alt=""></figure>
-<p>顺便说，2013 年《人类进化杂志》上的一篇论文称，现代游泳运动员与十九世纪安达曼岛渔民的骨骼十分相似。2020 年的一些研究显示，距今 4 万年前到距今 12 万年前的智人和尼安德特人的胫骨化石显得比从青春期开始每周跑 128 到 160 千米的越野运动员的胫骨还要强壮。远古狩猎采集者的体能完全应当使用运动员的数据来衡量。</p>
-<p>在投掷武器之外，猛犸象牙矛曾被古人类用于手持猎杀猛犸象。它的前端经常带有槽、可以安装多片锐利的石头。古人类亦曾将猛犸象牙加工成矛头、枪头，猛犸象牙的力学性能比其他多种骨质材料优越<sup>[5]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7aeb8bdd8e3e1194b079dc8ba6676f69_720w.jpg?source=8673f162" alt=""><figcaption>在矛前端安装石头的样子 from Antropogenez.ru</figcaption></figure>
-<p>下图展示的是乌贝迪亚石灰岩，打制于距今约 140 万年前：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c7ed324d6f1572ec54286ea738168dcc_720w.jpg?source=8673f162" alt=""></figure>
-<ul>
-<li>该遗迹位于以色列北部。出土了 500 多个这样的石块和一些手斧。截至 2025 年，手斧的功能不明。</li>
-<li>每个石块的形状可能是被古人类（直立人）有意打得有点对称的。他们似乎还没有将它磨光成圆球的想法。不知道它们是工艺品、玩具还是投掷武器。</li>
-<li>非洲出土的这类石块目前最早追溯到距今约 200 万年前。</li>
-</ul>
+<p>华北豹（<em>Panthera pardus japonensis</em>）是凶猛的伏击型捕食者，适应性强，食谱极为广泛。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-468594b47c8408f04cb8e9bd68bd2948_720w.jpg?source=8673f162" alt=""><figcaption>今天吃点什么呢？</figcaption></figure>
+<p>从兔形目、啮齿类、鸟类、獾类等中小型动物，到狍子、野猪等有蹄类，均在它的捕食名单上。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-034f806e2477cc65e2ff64a1f7504fba_720w.jpg?source=8673f162" alt=""><figcaption>图示为斯里兰卡豹捕食水鹿，而山西境内特有的梅花鹿亚种已灭绝，当前野外已难以观察到华北豹捕食中大型鹿类，其鹿类猎物主要仅剩狍子等小型物种。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1e2759cab6b96e4efb73b2a1c52f1a21_720w.jpg?source=8673f162" alt=""><figcaption>捕食猪獾</figcaption></figure>
+<p>通过收集华北豹的粪便并进行 DNA 检测的研究表明，在华北山地森林系统中，狍子（Capreolus pygargus）和野猪是最关键、最稳定的能量来源，二者占据猎物总能量摄入的一半左右。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c4e65a7981a9b619fba1febe04d663f2_720w.jpg?source=8673f162" alt=""><figcaption>狍子</figcaption></figure>
+<p>其种群密度直接决定华北豹的领地规模、活动频率与繁殖潜力。正因如此，近年来关于华北豹的生态研究，往往以豹—狍—野猪这一组合为分析核心。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c8ff32b882ed3153810a3e2854c54a1f_720w.jpg?source=8673f162" alt=""><figcaption>捕猎狍子</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1aa2836a50bb22d2d40f75a40244a6e6_720w.jpg?source=8673f162" alt=""><figcaption>华北豹粪便样本采集于黄土高原三处自然保护区：山西铁桥山、陕西子午岭和宁夏六盘山。东北豹样本来自东北虎豹国家公园。</figcaption></figure>
+<p>后续的研究，通过在更大空间尺度上系统收集华北豹粪便样本，并引入中国境内另一豹亚种东北豹（亦称远东豹或阿穆尔豹）作为对比参照。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b0d7626ed1e891ab7c2696a6f01236ae_720w.jpg?source=8673f162" alt=""><figcaption>东北豹为了适应俄罗斯远东和中国东北的严寒，其冬毛长度可达 7 厘米。玫瑰花斑（Rosettes）比其他豹亚种更大且圆.</figcaption></figure>
+<p>研究人员基于二者的粪便 DNA 宏条形码分析发现：</p>
+<p>华北豹共识别 13 种猎物，东北豹识别 15 种猎物，二者共享 8 种猎物，包括狍、野猪、家犬、鼠类等。单个粪样中通常检测到 1–5 种猎物，显示二者都具有明显的机会主义取食特征。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f8857cfa7c43a87aa9999e44caf5ab7d_720w.jpg?source=8673f162" alt=""><figcaption>华北豹（蓝）和东北豹（橙）：两者最高的除了狍子（Capreolus pygargus）外，还有家犬（Canis lupus familiaris）和野猪（Sus scrofa）</figcaption></figure>
+<p>两种豹最常出现的猎物均为狍（华北豹 41.69%，东北豹 29.20%）。此外，家犬在两种豹食谱中的出现均超过 10%，说明人类生活区的影响已深入豹的领域。自由放养犬只进入林区显著提高了与豹的接触概率，不仅加剧人兽冲突，也增加疾病传播风险。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cf01bcd2f19d9379b8e7baa253c3032e_720w.jpg?source=8673f162" alt=""><figcaption>印度豹捕食家犬。在印度的阿姆德纳格尔，尽管山羊密度高达家狗的 7 倍，豹却展现出极强的掠食偏好与适应性，其食物生物量中狗的占比（约 40%）远超山羊（11%）。</figcaption></figure>
+<p>不同的是，东北豹额外从马鹿 *（仅约 3%）和梅花鹿（高达 19.75%）等较大型有蹄类中获取显著生物量。</p>
+<p><em>* 马鹿体重过大，重达 250-300kg，是梅花鹿 2-3 倍。这大大超出了豹的捕猎范围。粪便里出现一般是幼崽或者亚成年，也可能是吃了虎留下的残骸。</em></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ef8f47cb2c5ed7df711d71241ee893c4_720w.jpg?source=8673f162" alt=""><figcaption>马鹿（Cervus elaphus）在中国境内总体分布广泛，但在华北地区（河北、山西、北京、陕西），由于长期的森林砍伐、栖息地破碎化及高强度狩猎，其稳定的野外种群已基本消失。</figcaption></figure>
+<p>而华北豹更依赖中小型食肉动物和兔类（赤狐、狗獾、野兔在华北豹食谱中合计贡献约 18–21%）。黄土高原的破碎化生境可能使中小型猎物相对更易获得。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3e589456a36358d4f84f28bbe8fdaf20_720w.jpg?source=8673f162" alt=""><figcaption>相比于对面积要求巨大的马鹿和梅花鹿，狗獾只需要很小的林地和充足的地下资源（蚯蚓、昆虫、根茎）就能生存。</figcaption></figure>
+<p>总体而言，小—中型猎物（<37kg）贡献了两种豹超过 75%的总摄入生物量。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2f9c63f314523ca099b6cbb20dd386a0_720w.jpg?source=8673f162" alt=""><figcaption>东北豹捕食梅花鹿，而华北豹所处生境中大型鹿类长期缺失</figcaption></figure>
+<p>基于出现频率和生物量的分析均显示，两种豹在猎物多样性和生态位宽度上差异不显著，但食性重叠度极高（Pianka 指数约 0.77–0.78），表明其基础捕食策略高度相似，差异主要源于区域猎物群落结构。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-807309be79362e1442cc60875a248435_720w.jpg?source=8673f162" alt=""><figcaption>豹和虎一样爱吃野猪</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f69426401fe75c04c567f923417f8324_720w.jpg?source=8673f162" alt=""><figcaption>虽然虎和豹都会捕食野猪，但豹由于体型限制主要捕食幼体或亚成体，难以对种群规模形成实质性压制，真正能够有效控制野猪数量、影响其种群增长率的，仍然只有虎这一等级的顶级捕食者。</figcaption></figure>
+<p>需要指出的是，在历史上，华北山地并非只有豹一种大型捕食者。20 世纪上半叶之前，华北地区仍存在虎的边缘分布记录，但至 1950 年代前后，虎已在华北山地彻底消失。在这一背景下，华北豹成为当地唯一仍存的大型食肉动物，在相当多的山地景观中承担了顶级捕食者的功能。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-515e076cb9043a0a14cce5d64e09cb0e_720w.jpg?source=8673f162" alt=""><figcaption>山中无老虎，豹子称大王</figcaption></figure>
+<p>华北豹的捕食行为不仅调控猎物数量（尤其是小型鹿类），也通过改变猎物的取食位置和活动节律，对林下植被更新和群落结构产生连锁影响，因此被广泛视为衡量生态系统完整性的关键指示物种。</p>
 <hr>
-<p><strong>关于游泳：</strong></p>
-<p>人可以数十小时不间断地游泳。</p>
-<ul>
-<li>2008 年 12 月，当时 37 岁的意大利人莫罗·贾科尼亚在南美一家旅馆的海水游池里以 101 千米的成绩创下了 <strong>24 小时不间断游泳距离</strong>的新世界纪录。</li>
-</ul>
-<p>人可以在每天游泳 12 小时、持续游泳上百天。</p>
-<ul>
-<li>2018 年 11 月 4 日，当时 33 岁的英国男子罗斯·埃奇利创下了<strong>连续游泳 157 天不上岸</strong>的世界纪录，成为有史以来第一个<strong>连续游泳环绕英国一周</strong>的人。</li>
-<li>埃奇利于 2018 年 6 月 1 日从肯特郡马盖特的肯特海滩出发，沿顺时针方向游了 <strong>2882 千米</strong>后在出发地上岸。游泳过程中有一艘双体船随行，埃奇利在这艘船上过夜。他每天游泳 12 小时，吃了 500 多只香蕉补充能量，并顽强地抵御了巨浪、风暴和水母的袭击。</li>
-<li>踏上陆地后，埃奇利在接受媒体采访时开玩笑说：“今晚我要去伦敦，到酒店里我可能会洗个澡。”</li>
-</ul>
-<p>其他陆生动物经常做不到这些。</p>
+<p>栖息地能不能养豹，关键不只在于豹能吃什么，更在于它能不能稳定繁殖并把幼仔带到独立。</p>
+<p>基于 2016–2023 年太行山中段长期的红外相机监测数据（覆盖 332 个点位、累计工作日超 41.6 万天），科学家首次揭示了华北豹的繁殖秘密。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-83e9ce7bd50727ce3d300931e547e39d_720w.jpg?source=8673f162" alt=""></figure>
+<p>监测系统累计记录了 261 次与繁殖相关的行为事件，包括求偶跟随、交配及育幼，确认至少有 57 只成年雌豹参与了繁育，共产生 43 胎，其中近半数为连续繁殖。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aeb3acbe8efb2c4e04995b9a027d9c4c_720w.jpg?source=8673f162" alt=""></figure>
+<p>更令人欣慰的是，影像捕捉到了 79 只成功独立的幼仔。这意味着，野外出生的幼豹能够顺利度过最脆弱的阶段，完成从出生到短期独立的跨越。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-64508b89e46ac8a28c5fe2820b6d50e3_720w.jpg?source=8673f162" alt=""></figure>
+<p>数据显示，华北豹每胎平均成功独立的幼仔约 1.8 只，雌豹首次分娩年龄约 4.6 岁，幼仔在母亲身边生活近 12 个月后走向独立。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-21428f02a40dbcf23e41a363a5be0976_720w.jpg?source=8673f162" alt=""></figure>
+<p>这些数据勾勒出一个事实：在太行山的部分区域，华北豹种群已具备了自我更新的能力。</p>
+<p>但如果我们把镜头拉到更大的尺度，决定它们长期命运的，仍是核心分布区的总体格局。</p>
 <hr>
-<p><strong>关于用火</strong></p>
-<p>一些书籍和媒体在传播的“人类学会用火之后烹饪得来的熟食能给身体带来更多能量，之后身体更加强壮、脑更加聪明”之类说法是错误的。用火不是人类发展至此所必需。不过，用火确实可以节省许多力气。</p>
-<p>啃生肉的难度高于啃熟肉，咀嚼生肉的纤维花费的时间长于咀嚼熟肉，生肉在胃里消化的速度远慢于熟肉。植物更是如此。你可以看看黑猩猩、大猩猩之类“我们的兄弟物种”每天花多长时间吃东西，跟你自己每天花在吃东西上的时间比较一下。</p>
-<ul>
-<li>人吃一个小时熟食获取的热量，各种猩猩要吃五个小时生食才能获取。</li>
-</ul>
-<p><strong>用火烹饪食物不是“身体更加强壮、脑更加聪明”的起因</strong>。不吃熟食的野生类人猿的身体同样很强壮。人脑容量的明显上升是从距今约 200 万年前开始的，那时的古人类充其量偶尔吃到野火烧死的动物。而且，脑容量不能简单地等同于智力。</p>
-<p>原始人并不是靠“钻木取火”开始用火的。人用火的历史可能有 100 万年以上<sup>[6]</sup>，使用燧石等工具生火的历史可以追溯到距今约 40 万年前，远早于“钻木取火”。在解剖学上，晚期智人广泛控制火的证据可以追溯到距今约 12.5 万年前。<strong>现在世界上仍然存在不会钻木取火的部落</strong>。</p>
-<p>朝野火添加可燃物、拿着带火的树枝点新的火之类并不像钻木取火那样费力，可以在采集食物的过程中顺便捡些适合烧的树枝、木头、干草。在野火过后发现的食物往往并未被很好地加热，而是烧焦或未熟透的，这可能促使人们将未熟透的食物放在仍在燃烧的小片火焰或温度较高的灰烬上，并在食物被烧焦之前将食物取出。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc4bbd74d5d521c6252c7f274ea549f2_720w.jpg?source=8673f162" alt=""><figcaption>发现 100 万年前原位燃烧痕迹的洞穴，位于南非</figcaption></figure>
-<p>2011 年发表的一篇文章报告在南非北开普省 Wonderwerk 洞穴的阿舍利地层里找到了距今约 100 万年前原位燃烧的微地层学证据，这大概是直立人搬运野火火种并添加可燃物的结果<sup>[7]</sup>。洞穴深处存在细小的木炭、灰分、烧焦的骨头碎片、被加热的沉积物，这难以用风吹进来、水带进来之类解释。</p>
-<ul>
-<li>野火的历史至少能追溯到 4.7 亿年前，留下了化石记录<sup>[8]</sup>。</li>
-<li>在现代非洲稀树草原，黑猩猩、长尾猴、各种鸟类优先在最近被野火烧过的地区觅食，包括而不限于吃被烧死的动物、捕杀逃离野火的昆虫、从骨灰上舔盐。夜间，大多数哺乳动物似乎很享受火场散发的热量。</li>
-<li>塞内加尔稀树草原上的黑猩猩对野火的反应与开始了解野火的行为的原始人相似，能观察并推断火势移动的方向，在火看起来会朝自己逼近时主动放弃正在做的事并有序离开，不像其他大多数陆生动物那样远远地看到火就惊慌失措或毫无准备地等火烧到附近才开始逃跑。</li>
-<li>澳大利亚土著人声称一些猛禽是“<span class="nolink">火鹰</span>”、会用火捕猎并教给人类祖先使用火的方法。这是神话传说，但是黑鸢、啸栗鸢、褐隼在澳大利亚北部稀树草原上<strong>用爪子或喙拾取阴燃的树枝甚至合作搬运阴燃的较大树枝、反复投掷到可以点燃的植被上、吃被火惊吓的动物和烧死的动物尸体</strong>的行为已被观察到。鸟类学家从 2011 年到 2017 年在澳大利亚进行实地考察，亲眼目睹了澳大利亚猛禽“纵火”的行为，记录了 20 多件猛禽“纵火”目击报告<sup>[9]</sup>。</li>
-<li>距今约 300 万年前，非洲稀树草原上就有大规模的野火活动。</li>
-</ul>
-<p>距今约 50 万年前到距今约 10 万年前，原始人烹饪食物的痕迹多了起来<sup>[10]</sup>，人呼吸系统抵抗空气污染的特征也是在这一时期明显演化的<sup>[11]</sup>。2025 年发表的一篇文章报告在英国巴纳姆一处距今约 40 万年前的埋藏地面发现尼安德特人生火的证据。研究人员在这里找到了被加热的沉积物、带有火烧裂纹的燧石手斧、两块黄铁矿碎片——黄铁矿可用来与燧石摩擦生火。地质研究表明，黄铁矿在当地较为罕见，推测是故意搬运来的<sup>[12]</sup>。</p>
-<p>火堆产生的热量可以帮人们在寒冷的天气中保持温暖，使他们能生活在气候凉爽或昼夜温差很大的地方，并驱赶夜间捕食者。火烧石头可以帮助加工石器，火烤的木质长矛前端会硬化<sup>[13]</sup>。一群人在山洞里围着火堆的时候在火堆上烤点东西是很自然的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff180502d7542eb510b9e0ec88cf31c6_720w.jpg?source=8673f162" alt=""><figcaption>有 38 万年到 40 万年历史的火硬化长矛 By P. Pfarr NLD - Niedersächsisches Landesamt für Denkmalpflege, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=19057140</figcaption></figure>
-<p>动物从食物中取得能量时，要先消耗较少的能量打破食物中的大分子，将其变成容易吸收的小分子。在自然界，为了获得同样多的营养物质，<strong>吃植物比吃肉消耗更多能量，吃生食比吃熟食消耗更多能量，生吃蜂蜜之类例外</strong>。反刍动物每天要花几个小时咀嚼来切断草里的纤维，在多个膨大的胃或盲肠里借助微生物分解，才能将其较好地吸收。</p>
-<p>高温烹饪可以打碎食物中的一些大分子，大大降低咀嚼、消化、吸收的难度，<strong>吃熟肉的吸收效率是吃生肉的 10 倍左右</strong>。铁、锌、维生素 B12 等东西也是在烹饪之后更容易吸收。原始人不知道这些，但他们感觉得到吃熟肉省力。</p>
-<p>熟食能让动物接触到分解出来的氨基酸、脂肪酸和美拉德反应的产物，激活哺乳类舌头上检测新鲜肉类、糖类、脂肪的受体，让哺乳类自动趋向于吃这食物。这些受体有的是哺乳形类的祖传代码，有的能追溯到无脊椎祖先，都比人古老得多。</p>
-<ul>
-<li>黑猩猩偏爱熟食<sup>[14]</sup>，实验证明黑猩猩对同种食材更爱吃做熟的版本、能理解烹饪对食物的改变作用、能理解研究人员提供的烹饪工具的效用，它们愿意消耗时间来等待生食材被烹饪，愿意主动放下拿在手里的生食材以烹饪它们，能在预期生食材会在日后被烹饪的情况下搬运并储存生食材<sup>[15]</sup>，而在没有烹饪工具时会吃掉生食材。</li>
-</ul>
-<p>在假设“有人爱吃、有人不爱吃、爱吃的取得了优势”的时候，认为<strong>乐意吃熟食的个体产生的可育后代的数量较多</strong>就行了。没有出土化石显示“用火的部落积极消灭不用火的部落”。将自然选择想得充满“你死我活”是粗糙的刻板印象。</p>
-<p>此外，<strong>用火不是软化食物所必需</strong>。食材可以被石器切割、砸软、破碎，可以被太阳辐射、水、微生物处理。</p>
-<ul>
-<li>2023 年发表的一篇文章称，在肯尼亚找到的距今约 303.2 万年前到 258.1 万年前的遗迹显示，古人类那时就会用石器加工动植物组织，此处发现的古人类化石来自傍人属<sup>[16]</sup>。</li>
-<li>能人发明了看起来足以切割食物并加以捣碎的石器，目前不知道他们历史上是否会那样做。能人的下巴显示其咬合力低于南方古猿<sup>[17]</sup> <sup>[18]</sup> <sup>[19]</sup>。Ungar 等提出能人可以间歇性地利用野火<sup>[20]</sup>。</li>
-<li>黑猩猩每天花约 48% 的时间吃东西，现代人花约 4.7%，190 万年前的直立人似乎花约 6.1%<sup>[21]</sup>；直立人的牙齿形态和可能的肠道尺寸更接近现代人而非黑猩猩，表明他们可能用火或其他手段加工食物<sup>[22]</sup>。</li>
-<li>有兴趣尝尝古人类风薄饼的读者可以用石头碾碎一些被水泡发芽的新鲜麦粒、放在被太阳烤烫的石头上加热成脆饼。这种原始食谱不需要火。</li>
-</ul>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6967bb2a3959bfd8fdb25fc1aef26f1a_720w.jpg?source=8673f162" alt=""></figure>
+<p>数量回升并不自动等于安全。对于大型食肉动物，真正决定未来上限的不是某一地多了几只，而是栖息地是否仍被切割成彼此隔绝的孤岛。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-025d67758e592d69cb7e38dd3413e8ac_720w.jpg?source=8673f162" alt=""><figcaption>华北豹当前的栖息地格局以山西中部—南部为核心，沿太行山和吕梁山向周边山系放射扩散。</figcaption></figure>
+<p>从全国尺度看，华北豹的总体处境仍然脆弱，但在核心分布区已显现出明确的恢复趋势。随着生态保护力度持续加大，华北豹的种群数量在局部区域内稳步回升。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f90cd18bd896077dd80248ab0b9dd351_720w.jpg?source=8673f162" alt=""></figure>
+<p>山西省作为目前最重要的核心分布区，长期监测结果显示，可通过个体识别确认的华北豹数量已由 2018 年的约 132 只增加至 2025 年前后的 220 余只。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-85655452f00305ae1f608684bb65bcec_720w.jpg?source=8673f162" alt=""></figure>
+<p>基于监测覆盖范围、栖息地面积及个体重叠率等因素推算，相关研究与保护实践普遍认为，当前华北豹的总体规模可能已达到约 600–700 只。</p>
+<p>这一估算明显高于 2010 年代中期基于多源资料得出的 174–348 只区间，反映出近十余年来在重点区域内保护成效的累积。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ea0d72845c914be4e0b788aad150144_720w.jpg?source=8673f162" alt=""></figure>
+<p>然而需要强调的是，该数值仍主要建立在核心省份（目前主要为山西）的长期监测与模型推算基础之上，全国尺度的系统性普查尚未完成，种群在空间上的高度碎片化和区域差异仍然是制约其长期恢复的关键因素。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-40c300ce60a025cc0341d8b1c0f7c188_720w.jpg?source=8673f162" alt=""><figcaption>华北豹目前分布的核心区山西，保护区（蓝色）破碎分散</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-94af0c49afc84f1f210a55281c4bb7d8_720w.jpg?source=8673f162" alt=""></figure>
+<p>把视角从山西省内监测拉到区域景观尺度，问题会立刻变得更尖锐。</p>
+<p>华北地区当前对豹适宜的栖息地总面积仅约 8679km²，且呈高度破碎化格局，被识别为 14 个相对独立的核心斑块，其中仅约 25%被自然保护地覆盖。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-25abf6c95d9a47915ea0635afd487037_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-186ea41db6f8f6467241700a85c1c416_720w.jpg?source=8673f162" alt=""><figcaption>紫色线条（L1–L8）表示模型识别出的最小成本扩散路径（least-cost paths, LCPs），即在当前景观格局下，华北豹在不同核心栖息地斑块之间移动时理论上代价最低、最可能被利用的潜在通道。</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-82f94ba995a3493b6cd959896b3e7862_720w.jpg?source=8673f162" alt=""><figcaption>华北豹各核心栖息地（C1–C14）被分割成了不同的区域。其中位于中部的 C3、C5、C7 和 C8 承担着连接多个核心区的关键枢纽功能，这个位置也是目前豹分布最密集的区域。</figcaption></figure>
+<p>更关键的是，核心斑块之间的连通主要依赖少数脆弱廊道，这些廊道往往处在道路密度较高、人类干扰强烈的地带。</p>
+<p>同时，我们要考虑到豹的栖息地偏好：它更倾向于中高海拔、年降水量较高、具有较好森林覆盖的山地环境，并对道路密度和人类扰动表现出明显回避，这意味着扩散通道若落在强干扰带上，其功能极易退化。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e50188070643f4a4bdd019316b90ae92_720w.jpg?source=8673f162" alt=""></figure>
+<p>当这些脆弱的交流通道被压缩甚至断裂，最先发生的不是个体数量骤降，而是基因交流的枯竭。</p>
 <hr>
-<p><strong>其他：</strong></p>
-<p>考虑后代的成活率，比较当前年均数量，人当前的繁殖能力可能是现存哺乳纲中最强的，2026 年初，全球人口超过 82 亿，而黑家鼠、褐家鼠等数量剧烈波动的散装耗子的年均数量各自不足 70 亿。人当前的繁殖能力很可能也超过了哺乳纲的所有灭绝物种。历史上，古人类的技术和生活方式不允许他们达到这种人口规模，估计人类狩猎采集者在这一时期的地球上的人口上限约 1000 万。</p>
-<p>再生相关增强子的功能变化导致的再生能力下降是哺乳纲的祖征。不过，在人的技术支持下，人体适应严重损伤并代偿的能力超过许多非人动物。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-397b6af843cf74f05bde33a2ae360b01_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025 年发表的一项群体遗传学研究，利用粪便 DNA 个体识别与群体参数估计，量化了这种看不见的隔绝。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-64fe90fc1cb5af39eb8199bc63b1be87_720w.jpg?source=8673f162" alt=""><figcaption>华北豹粪便样本</figcaption></figure>
+<p>在 2020 至 2023 年间，研究团队在黄土高原东缘（以山西铁桥山为核心）收集了 158 份粪便样本，最终成功从 129 份确认样本中识别出 41 只具体的华北豹个体。然而，基因层面的体检报告却令人担忧。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ec187be46705dfd0ebb6d5bf84db0b3d_720w.jpg?source=8673f162" alt=""><figcaption>铁桥山自然保护区位于山西省中部太行山西麓，地处黄土高原向太行山过渡带。图中红十字为为采样点。</figcaption></figure>
+<p>数据显示，尽管我们在野外能看到 41 只豹子，但这个种群的有效种群规模（Ne）仅为 12.20*。简短地说，这相当于维持整个种群基因传递的有效火种仅剩约 12 只，实际参与贡献基因的个体比例（Ne/Nc）只有 0.30。更极端的证据来自母系遗传：约 88%的个体竟然共享同一个母系祖先（线粒体单倍型），这就像一个村子里绝大多数人都来自同一个老祖母的家族，遗传多样性极低。</p>
+<p><em>* 根据保护遗传学的一般准则，Ne 低于 50 通常被视为短期近交风险的警戒线，低于 500 则难以维持长期适应潜力。12.20 这一数值已远低于最低警戒阈值。</em></p>
+<p>这种家族化的直接后果就是近亲繁殖。在识别出的 41 只豹子中，有 32 只都检测出了近交迹象，平均近交水平达到 0.21。虽然计算机模拟（PVA）显示，它们在未来 100 年内暂时没有直接灭绝的风险。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b85a8496066d0543bc2a1a111044a9ca_720w.jpg?source=8673f162" alt=""><figcaption>在设定的初始数量约 40 只、环境承载量为 70 只的条件下，华北豹种群在模拟初期迅速增长并接近承载量，随后在约 68–70 只范围内维持小幅随机波动，在 100 年时间尺度内未出现数量崩溃或灭绝轨迹。</figcaption></figure>
+<p>但这更像是一种慢性病：如果缺乏新鲜血液（基因交流），预计百年内它们的遗传多样性将流失约 22%。这意味着，即便豹子的数量在短期内变多了，但整个家族的 DNA 却在变弱，长期适应环境的能力正面临严峻挑战。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-48bd964be126d41e4977427ae5e6db7b_720w.jpg?source=8673f162" alt=""></figure>
+<p>正是在这一背景下，北京周边再次记录到华北豹的价值才显得尤为珍贵。它不仅仅意味着北方多了一只豹，更意味着某些曾经断裂的遗传链条正在重新接上。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-921ea8c1403295ae24591cf390ecb5fd_720w.jpg?source=8673f162" alt=""></figure>
+<p>阜平这种处在核心区与京畿山地之间的节点，一旦被持续利用，就可能成为恢复基因交流的跳板。</p>
+<hr>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6d23cefd517b124cb40e7d6c06fb00cb_720w.jpg?source=8673f162" alt=""></figure>
+<p>华北豹的恢复过程与近年来持续推进的保护措施密切相关，包括加强巡护执法、清理非法猎具、建立红外相机监测网络，以及引入无人机等技术提高巡护覆盖效率。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a1708616d4f932427e221dfb92d0cdf9_720w.jpg?source=8673f162" alt=""></figure>
+<p>同时，生境修复也开始从单纯增绿转向结构优化，例如恢复以栎树为代表的乡土阔叶林，为狍子等有蹄类提供稳定食物来源。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f1cc43718f4931322ebd5dd27c61757e_720w.jpg?source=8673f162" alt=""></figure>
+<p>山西和顺县的数据提供了有力的佐证：2011–2020 年间，狍子的相机捕获率翻了四倍，与同期华北豹活动频率的上升高度同步，清晰地勾勒出食物网恢复的底层逻辑。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e31dbdf87ec756d881a81f65bc44d1cc_720w.jpg?source=8673f162" alt=""></figure>
+<p>然而，阜平的华北豹影像既是一则好消息，也是一道考题。</p>
+<hr>
+<p>华北豹能否真正“回家”，取决于未来十年京冀晋三地能否把当前的保护势头转化为稳定、跨区域的制度安排：包括廊道的长期保护、猎物的系统恢复，以及持续的监测投入。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2bad22287001c06f160198500ca6b273_720w.jpg?source=8673f162" alt=""><figcaption>2020 年前后，山西部分地区曾发生华北豹捕食家畜的事件，在引入补偿机制并加强夜间防护后冲突才有所缓解</figcaption></figure>
+<p>同时，如何处理潜在的人兽冲突，提升社会容忍度，也是必须面对的现实挑战。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d3863e2aae2c7680243998b26052fceb_720w.jpg?source=8673f162" alt=""></figure>
+<p>这不仅关乎华北豹这一物种的命运，更是对中国在人口密集区进行生态修复能力的一次关键检验。</p>
+<p>如果我们在高人口密度、高土地利用强度的华北，能够重新建立起支持顶级食肉动物生存的完整食物网和生态廊道，那么这一经验将为未来更高难度的物种恢复（如华南虎的重建）提供宝贵的范本。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-62f951a0df2f837956583fc914566d38_720w.jpg?source=8673f162" alt=""></figure>
+<p>华北豹的恢复进程，实际上正是为中国未来大型猛兽回归自然，提前进行的一场现实尺度的压力测试。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cec34c4b01703e407c65aecffbbd6ea9_720w.jpg?source=8673f162" alt=""><figcaption>真正的王者华南虎还在福建梅花山基地关着呢</figcaption></figure>
+<hr>
+<p>引用参考</p>
+<p>Zhang, M., Wang, C.-H., Zheng, Y.-X., Jiangzuo, Q.-G., Hou, Y.-M., Cao, P., Dai, Q.-Y., Yang, R.-W., Liu, F., Feng, X.-T., Mo, L.-H., & Fu, Q.-M. (2024). Ancient DNA unravels species identification from Laosicheng site, Hunan Province, China, and provides insights into maternal genetic history of East Asian leopards. Zoological Research, 45(1), 226–229. <a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.24272/j.issn.2095-8137.2023.292" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.24272/j.issn</span><span class="invisible">.2095-8137.2023.292</span><span class="ellipsis"></span></a></p>
+<p>Dou, H., Liu, W., Feng, L., & Yang, H. (2025). DNA metabarcoding analysis of the North China and Amur leopards’ feeding habits. Current Zoology, XX, 1–10. <a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1093/cz/zoaf027" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1093/cz/zoaf</span><span class="invisible">027</span><span class="ellipsis"></span></a></p>
+<p>Wen, X., & Dou, H. (2025). Population genetic diversity and viability of the North China leopard (Panthera pardus japonensis) in the eastern Loess Plateau, China. Ecology and Evolution, 15, e71150. <a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1002/ece3.71150" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1002/ece3.71</span><span class="invisible">150</span><span class="ellipsis"></span></a></p>
+<p>Zhang, J., Li, F., Zhang, H., & Sun, X. (2024). Conservation strategies for the North China leopard: Establishing effective ecological corridors in Shanxi Province. Ecological Indicators, 169, 112908. <a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1016/j.ecolind.2024.112908" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1016/j.ecoli</span><span class="invisible">nd.2024.112908</span><span class="ellipsis"></span></a></p>
+<p>Wang, Y., Liu, M., Xia, F., Wang, Y., Song, D., Liu, Y., & Li, S. (2024). Big cats persisting in human-dominated landscape: Habitat suitability and connectivity of leopards in central North China. Landscape Ecology, 39, 94. <a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1007/s10980-024-01896-y" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1007/s10980-</span><span class="invisible">024-01896-y</span><span class="ellipsis"></span></a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1989162644700161038">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1986441498338825500">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786593</guid><pubDate>Wed, 07 Jan 2026 18:25:59 GMT</pubDate></item><item><title>科学家培育出「不用挑刺」的鲫鱼，称口感没有变化，这种鱼是怎么培育出来的？离上餐桌还有多远？</title><link>http://daily.zhihu.com/story/9786597</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-af6cc45041172f947a677938d2d818e5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786615</guid><pubDate>Thu, 08 Jan 2026 01:18:48 GMT</pubDate></item><item><title>听说「睡前喝红酒能助眠还能软化血管」，红酒的这些功效是真的，还是夸大其词？</title><link>http://daily.zhihu.com/story/9786623</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-99c681c008aada96a1f6facbe80ffea9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -396,41 +261,66 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-034eb062452f94c605ce1a4e2ad25662_l.jpg?source=8673f162">
-<span class="author">孙悦礼，</span><span class="bio">临床 | 科研 | 运动｜科普</span>
-<a href="https://www.zhihu.com/question/1986858188662927498/answer/1987441150848696601" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
+<span class="author">云杉，</span><span class="bio">文理双修的退役士兵，只讲干货、科学生活的科研工作者。</span>
+<a href="https://www.zhihu.com/question/1979223506634965968/answer/1981504644900484094" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>不是每个生物都进化成我们方便吃的形态。</p>
-<p>如果有比人类更高一级的生物，一定觉得人类非常好吃也方便吃——毛发不多、肥瘦相间、方便吐骨头、没啥寄生虫和病毒……</p>
-<p>说回正题，我们还是说鱼和小鱼刺。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7e4e868e69487fbb38c5988606b54668_720w.jpg?source=8673f162" alt=""></figure>
-<p>鱼的那些细小硬刺，在解剖学上叫作肌间刺，它们既不构成脊柱，也不参与关节，更不负责承重，而是分布在肌肉之间，像一根根细小的骨性隔条，把鱼的肌肉分割成规则的块状。从功能上看，它们更多是“肌肉发育和排列的附属结构”，而不是决定鱼能不能游、能不能长大的核心骨架。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c9c04e99a2aba52e2e392d5371380208_720w.jpg?source=8673f162" alt=""></figure>
-<p>理解这一点，就能明白科学家做了什么。这项研究是在鱼的胚胎发育阶段，直接让“形成肌间刺的那条发育路径不再启动”。</p>
-<p>在组织胚胎学中，鱼类和人一样，骨骼和肌肉都来自中胚层，但在早期分化过程中，不同的骨结构其实走的是不同的“发育支线”。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-723132c9c47133bf5926a2774d740571_720w.jpg?source=8673f162" alt=""></figure>
-<p>脊柱、肋骨、颌骨这些关键结构，有它们稳定而保守的发育程序，而肌间刺则属于一类相对独立、专门服务于肌肉分区的骨化产物。研究团队所做的，是精准地关闭这一条支线，却完全保留了主骨架和肌肉系统的正常发育，因此这条鱼依然可以正常游动、正常生长，肌肉的质地和口感也不会发生改变。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ad2c582e5e4fe3fe94a877c39bc98113_720w.jpg?source=8673f162" alt=""></figure>
-<p>在骨科临床中，我们经常见到一些“先天少长了一点骨头”的人，比如某些肋骨缺如、副骨缺失，甚至髌骨发育异常。很多这类患者一辈子都活得很好，甚至直到拍片时才第一次发现自己的解剖结构和别人不完全一样。原因就在于，那些缺失的结构并不处在人体力学的关键链路上，它们既不承担主要负重，也不维持关节稳定，更不保护重要神经。</p>
-<p>无肌间刺的鲫鱼，从发育机制上看，正是一个类似的情形，只不过这种“先天缺失”是被精确设计出来的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e111d739b477b042f06f7ca651b1c979_720w.jpg?source=8673f162" alt=""></figure>
-<p>很多人担心这样的改变会不会带来“后遗症”，比如运动效率下降、身体结构失衡，让肉质变差。但肌间刺并不参与鱼类运动系统的核心力学闭环，它的缺失不会迫使其他骨骼或肌肉承担额外负担，也不会改变神经和血管的走行路径。鱼的口感主要由肌纤维类型、纤维直径、肌内脂肪和结缔组织结构决定，而不是由骨头数量决定。肌间刺的存在，影响的是吃鱼时的安全性和心理负担，而不是肌肉本身的生物学性质。它的消失，改变的是“会不会被卡住”，而不是“肉质发生了什么变化”。</p>
-<p>骨骼并非越多越好，关键在于是否出现在正确的位置、承担了合理的功能。当我们能够在发育层面清楚地区分“核心结构”和“附属结构”，并对后者进行精准调控时，所谓的“少一块骨头”，就不再意味着缺陷，而可能是一种更高效、更安全的结构选择。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9424701d378cd97c658915fd4ee4e288_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种思路，如果有一天被反过来用于理解人类骨赘形成或韧带异常骨化，或许会真正改变我们对很多骨科疾病的认知方式。</p>
+<p><strong>近30年流传最广的谣言罢了，还衍生出了一系列智商税保健品。</strong></p>
+<p>作为一个拒绝酒桌文化的山东人，我最受不了的就是某些酒厂的虚假广告，试图以保健功能性掩盖「酒精是一类致癌物」这一关键事实。</p>
+<p>就拿很多红酒厂家、“健康养生”自媒体大力宣传的喝红酒软化血管来说吧。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1eabd1258dc1c2e7e20f19c78132bbf9_720w.jpg?source=8673f162" alt=""></figure>
+<p>在这些利益相关者的宣传当中，红酒中的白藜芦醇（Resveratrol），可以降低胆固醇和甘油三酯。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5cd834dc3bf7cac4f4f59378c88b31cd_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>然而事实上，这是一场欺骗全世界30年的谣言。</strong></p>
+<p>1939年，科学家首次发现白藜芦醇，在被发现的几十年中，这种成分没有被发现出任何功效。</p>
+<p>直到1990年，一名叫迪帕克·库马尔·达斯（Dipak Kumar Das）的学者把白藜芦醇推上了神坛。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-138d3a43864cfdfad296e2ce3b3e7270_720w.jpg?source=8673f162" alt=""></figure>
+<p>这哥们原来是美国康涅狄格大学心血管研究中心的主任，他当时提出一个著名的“法国悖论”（French Paradox）：</p>
+<p>尽管法国人经常吃高油脂的非健康食品，但是法国人的心血管疾病发病率只有美国人的1/3，这是因为法国人喜喝葡萄酒的习惯保护了他们。</p>
+<p>他认为，葡萄酒中疏通血管的功效性成分，就是白藜芦醇。</p>
+<p>围绕这个观点，这哥们儿在11篇期刊上发表了26篇论文来支持他的猜想，甚至还在论文中声称葡萄酒中的白藜芦醇可以延长人类寿命。</p>
+<p>国内外葡萄酒商家一看这还了得，以此作为卖点，大肆宣传，一吹就是22年。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-03a39b26125249c3657bf7770626eaa0_720w.jpg?source=8673f162" alt=""></figure>
+<p>国内外海量学者还引用了这些论文，甚至在此基础上发表“新的成果”。</p>
+<p><strong>然后，最戏剧性的反转就来了。</strong></p>
+<p><strong>2012年Dipak Kumar Das因论文造假被康涅狄格大学开除。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6676c58cde1c4f41f4e1c0eeb553e003_720w.jpg?source=8673f162" alt=""></figure>
+<p>康涅狄格大学在2009年1月收到了一封匿名举报信，指控Dipak Kumar Das的实验室存在造假等研究违规行为。</p>
+<p>两周后，由Kent Morest博士领导的特别审查委员会开始了对Dipak Kumar Das的调查。</p>
+<p><strong>这一查，就是三年。</strong></p>
+<p>2012年1月，特别审查委员会出具了一份60000页的调查报告，移交给康涅狄格大学的研究诚信办公室。</p>
+<p>没错，不是六万字，是六万页...</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-dab6a2f910ce88990352457744fe4fa5_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>在这份报告中，他们列举了Dipak Kumar Das包括伪造、篡改实验数据，盗用他人研究图像，P图等问题，光伪造和篡改实验数据，就多达145处。</strong></p>
+<p>面对这份报告，当事人Dipak Kumar Das直接拒绝任何形式的回应，选择沉默。</p>
+<p>康涅狄格大学随之把这份报告发给了涉及到白藜芦醇文章的11家杂志，并且向美国联邦政府退换了89万美金的近期研究资助。</p>
+<p><strong>搞笑的在后面，神化白藜芦醇的“师门老祖”已经倒台了，但是相关的研究还热度不减。</strong></p>
+<p>甚至有些人还在引用Dipak Kumar Das已经被撤稿的文章：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1416b2ababbe1524f3f932857525eb98_720w.jpg?source=8673f162" alt=""></figure>
+<p>甚至近些年，还有厂家制作出了以白藜芦醇为主要成分的保健品，高价售卖，请了一堆明星艺人站台。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c6dfcfd0003f08357af6bbf235f04b8a_720w.jpg?source=8673f162" alt=""></figure>
+<p>对于葡萄酒/其他酒的否定，不止白藜芦醇。</p>
+<p>2015年，哈佛大学研究团队随机抽取了4400名超过65岁的老年人，发现即使是适量饮酒也会损伤心脏。</p>
+<p>2018年，顶级医学杂志《柳叶刀》直接发文，指出「饮酒的安全剂量为零」。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9f49b206b4e13faa74e45c6da65a7145_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>他们针对204个国家和地区的饮酒人群做了分析，结果就是只要喝酒，身体就会损伤。</strong></p>
+<p>对于15-39岁青年人群，建议的酒精量是男性每天0.136标准杯，女性为0.273杯。</p>
+<p><strong>喝什么酒都保不了健，谁要是强行劝你酒，你就让他也发篇《柳叶刀》。</strong></p>
+<p>文后叠甲：本睡眠障碍患者也偶尔饮酒。</p>
+<p>以上</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1986858188662927498">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1979223506634965968">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786597</guid><pubDate>Wed, 07 Jan 2026 18:25:59 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9786588</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786623</guid><pubDate>Thu, 08 Jan 2026 01:18:48 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9786527</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -445,7 +335,7 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 你见过最杠的杠精是什么样的？</h2>
+<h2 class="question-title">瞎扯 · 有什么有趣的中国文化输出？</h2>
 
 <div class="answer">
 
@@ -456,48 +346,47 @@
 </div>
 
 <div class="content">
-<div>Q：<a class="internal" href="https://www.zhihu.com/question/68014919/answer/1967248410408101869" target="_blank">你见过最杠的杠精是什么样的？</a>
+<div>
+<div>Q：<a class="internal" href="https://www.zhihu.com/question/266630139/answer/1967332168209523169" target="_blank">有什么有趣的中国文化输出？</a>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d7dbc57ba9c5069039a5815a5caddea4" target="_blank">@蹦爹</a>：杀人诛心，一句封喉</div>
-</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1c131ae63fede06ee861fc2d52d6b9c6" target="_blank">@Mr.Zhang</a>：当你网络原因导致游戏不流畅时，如何打字告诉你的队友或者对手？</div>
+错误的： Lag , Loss , Ping , Stream .....<br>正确的： Kale <br>哦，此事在 Dota2 Wiki 亦有记载</blockquote>
 <figure>
-<div><img class="content-image" src="https://pic3.zhimg.com/v2-da6ffd8e853df57a0574f9113665e916_1440w.jpg" alt=""></div>
+<div><img class="content-image" src="https://pic2.zhimg.com/v2-6bc7a846c1bff57edb46ca144f63b929_1440w.jpg" alt=""></div>
+<figcaption> </figcaption></figure>
+Q：<a class="internal" href="https://www.zhihu.com/question/644899246/answer/1949679125435487378" target="_blank">作为外卖骑手，你见过什么有意思的订单吗？ </a>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1756ec9359d4d4ad4b149e43fe035bb3" target="_blank">@我也不知道叫啥</a>：取餐的时候:什么玩意，写地址不好好写，搁这卖萌，还小猪佩奇 303</div>
+到了地址楼下:好家伙原来真是小租配齐啊。。。</blockquote>
+<figure>
+<div><img class="content-image" src="https://pic3.zhimg.com/v2-ae300ef48594bcd11b15c259a493bbd6_1440w.jpg" alt=""></div>
 <figcaption> </figcaption></figure>
 <figure>
-<div><img class="content-image" src="https://pic1.zhimg.com/v2-93e4f0f2e268cbcb5b389ca94c971952_1440w.jpg" alt=""></div>
+<div><img class="content-image" src="https://pic4.zhimg.com/v2-9032e4baedcb8fe98de2286a2f68a09f_1440w.jpg" alt=""></div>
+<figcaption> </figcaption></figure>
+Q：<a class="internal" href="https://www.zhihu.com/question/654420664/answer/1960298626761885096" target="_blank">你有什么一辈子不能说的秘密？</a>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/094071bcf0d1fed854dbb6423baf4927" target="_blank">@颜不如鱼</a>：曾经遇到过一个候选人,简历上面写着</div>
+上家公司离职原因：公司破产。<br>上上家公司离职原因：公司破产。<br>上上上家公司离职原因：公司破产。<br>上上上上家公司离职原因:老板出车祸死了。<br>我当时倒抽一口冷气，觉得 HR 怎么敢把这个简历给我?不过我当时还年轻,忠厚老实,没想过去拿捏 HR ,就跟候选人说你这简历，正常公司都不敢要你的，要改改。<br>然后教他怎么改后，让他回去把新简历给我，让一个熟悉的猎头谁到我竟争对手公司去......<br>大概几个月后,竞争对手公司老板出家修仙去了......出家修仙去了。.....出家修仙去了.....出家修仙去了......<br>还看到他家员工上街抗议欠薪......<br>觉得自己造孽了.......</blockquote>
+Q：<a class="internal" href="https://www.zhihu.com/question/1941154755620611466/answer/1967901608651237265" target="_blank">钓鱼佬最接受不了什么？</a>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/440423a0988288b8b615ee955823f414" target="_blank">@明镜台</a>：最接受不了来自猫的报恩</div>
+曾经有一段时间天天去钓鱼，突然有天下午来了很白很漂亮的猫。真好看。我就想着钓点鱼喂喂他，但是那个下午一无所获，当时就觉得很丢面子，给他丢了根火腿肠，第 2 天下午他又来找我玩了，撸了一顿猫之后，哇这毛真软这猫真可爱，好喜欢我要带回家，但是上钩的全是小鱼，这猫还不吃，推推玩玩就是不吃，喂了点火腿肠<br>第三天我实在受不了，换了活饵，结果还是一无所获。就在我垂头丧气准备走的时候。这猫来了，他来了，他来了，他嘴里叼着一条两斤重的鲤鱼来了，还把鱼往我椅子旁一丢。我的心里一万匹草泥 经过。他怎么做到的，从哪搞来的啊！！<br>加更一下，找到一张很像的猫猫图片，比起图片胖一点四斤左右，灰一点没这么白，但是眼睛都很蓝，好看</blockquote>
+<figure>
+<div><img class="content-image" src="https://picx.zhimg.com/v2-d8a582e7cd2c23bb132f006dc8d813ef_1440w.jpg" alt=""></div>
 <figcaption> </figcaption></figure>
 <figure>
-<div><img class="content-image" src="https://pic2.zhimg.com/v2-77f4cb6860a40ac633e9fcc03af58a05_1440w.jpg" alt=""></div>
+<div><img class="content-image" src="https://pic2.zhimg.com/v2-344d81f3cb344f2094778bc389d6214f_1440w.jpg" alt=""></div>
 <figcaption> </figcaption></figure>
-<figure>
-<div><img class="content-image" src="https://pic2.zhimg.com/v2-edeacded2eb81a8eecb3e84c13abdc5b_1440w.jpg" alt=""></div>
-<figcaption> </figcaption></figure>
-<figure>
-<div><img class="content-image" src="https://pic3.zhimg.com/v2-8b39625a2381273f777490897ab25d72_1440w.jpg" alt=""></div>
-<figcaption> </figcaption></figure>
-Q：<a class="internal" href="https://www.zhihu.com/question/543229591/answer/3459458223" target="_blank">怎么判断一个孩子有没有数学天赋？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e29bc37d987e7dc5db32a5ef0af455d7" target="_blank">@北极鲢鱼</a>：直接判断：没有数学天赋。</div>
-判断准确率通常在 99.99% 以上。</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/316680205/answer/1962133348399951941" target="_blank">人类是否无法想象出没见过的东西？ </a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8b04972a94a545c404be4b6e81b3a217" target="_blank">@大熊喵</a>：有个集美提出的相亲要求如下：</div>
-1 ，体制内<br> 2 ，年薪百万<br>网友评价：这是纪委来钓鱼执法了</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/611121856/answer/3376540438" target="_blank">有哪些瞬间你秒懂了别人的暗示？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/3fb744eb1716d4735a0e48137e756399" target="_blank">@漫步者</a>：我问技术今年能不能把电影《流浪地球 2 》里面的耳机上架？</div>
-他让我滚</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/1899516798845575580/answer/1932472134472536415" target="_blank">请问已经高三了，早上 8 点上课，下午 3 点放学，算累吗？ </a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e2e6bad36c4e9697130f4f085f945150" target="_blank">@被风吹走的风</a>：我在忍住不看 IP 的挑战里，获得了 0.1 秒的好成绩，你也快来试试吧！</div>
-</blockquote>
+<blockquote>两者结合体吧</blockquote>
 </div>
 </div>
 </div>
-
-
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786588</guid><pubDate>Wed, 07 Jan 2026 18:26:00 GMT</pubDate></item></channel></rss>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786527</guid><pubDate>Thu, 08 Jan 2026 01:18:49 GMT</pubDate></item></channel></rss>
