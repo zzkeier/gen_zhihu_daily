@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 15 Jan 2026 18:30:23 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>酿酒发酵过程中，除了酵母，还有哪些微生物在偷偷发挥作用？</title><link>http://daily.zhihu.com/story/9786748</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e618579a6d50df65f4e7429aabcadd85.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Fri, 16 Jan 2026 01:19:01 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>祭司凭什么成为人类历史上最早的统治者？</title><link>http://daily.zhihu.com/story/9786765</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c46476a736c2c5de925ce45aca905212.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,97 +19,76 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-b97db5517ef3853f38253a4cabaa133d_l.jpg?source=8673f162">
-<span class="author">看星空的仓鼠，</span><span class="bio">代文曲星品酒 / 商业合作请私信 or 微信咨询</span>
-<a href="https://www.zhihu.com/question/1987847271644145108/answer/1990719092932511527" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-141e27e43d3e9d097c02f3a1873df77c_l.jpg?source=8673f162">
+<span class="author">游鱼，</span><span class="bio">「为了全人类」 哲学|历史|文学 领域劣秀答主</span>
+<a href="https://www.zhihu.com/question/1941760671097266390/answer/1991439855599768018" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>不请自来，先表扬题主，恭喜你发现了精酿啤酒之所以成为「精酿」的华点！</p>
-<p>当然啦，中华白酒、西洋葡萄酒、西洋烈酒等很多讲究前期发酵来决定酒香口感的酒类，也非常需要「其它微生物在酿造过程中的重要性」（Importance of Other Microorganisms in Brewing，这甚至是个专有表述）。</p>
-<p>确切地说，包括题主在描述中提到，乳酸菌属（LAB）、野酵母大类（Wild Yeast），这 2 种类微生物会在酿酒酵母（Brewing Yeast）工作的同时，在特定环境里，全方位地参与、支持（也会提供一定的副作用）酿酒的有机化学反应。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f823c93884c410f46e6eb149e18b252f_720w.jpg?source=8673f162" alt=""><figcaption>用现代技术酿造啤酒，无论精酿（Craft Beer）还是常规工业拉格，都少不了乳酸菌、野酵母的支持，并且可以比古代人更好地防御杂菌干扰</figcaption></figure>
-<p>另外，醋酸菌（Acetobacter）虽然不会在酿酒的主体生态化反中正面参与，但它也会适度提供一系列的调节口味，并且会在发酵完成之后，充当一个警示信号——「是时候停止发酵了」。</p>
-<p>闲话休提，且随鼠踏入酿酒环境这一奇妙的微生物世界吧~</p>
-<p><strong>乳酸菌种属：酵母是老大，我们就是老二</strong></p>
-<p>作为既能有氧呼吸，又能无氧呼吸的一类革兰氏阳性菌，乳酸菌大家族包括 43 个属、5 个门，数量极其庞大，绝大多数成员参与到人类健康生活的方方面面，当然，鼠类和更多的哺乳动物族群也高度需要乳酸菌的支持。</p>
-<p>而在酿酒（Brewing）环节中，乳酸菌大家族「精选」了乳杆菌（Lactobacillus）、片球菌（Pediococcus）、明串珠菌（Leuconostoc）3 个属来助力人类（以及好酒的仓鼠、猩猩），其中又以片球菌属下的戊糖片球菌（P. Pentosaceus）作为「主将」。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-04fca39168679304460eb32a6026bdcc_720w.jpg?source=8673f162" alt=""><figcaption>电子显微镜下的戊糖片球菌之 3D 模拟图。这玩意儿一般呈现球形，不耐热，微需氧，非常喜欢酸性环境，日常不是参与做泡菜，就是辅佐酿酒酵母去酿酒</figcaption></figure>
-<p>而在白酒这一边，主要发酵工作开展之际，乳酸菌还会为芽孢杆菌属（Bacillus）让出发展空间，尤其是为大曲的先行陈化、酒醅的全面生态化反让路，让芽孢杆菌属（生产特定酯类）、真菌属（主要是霉菌大类）、葡萄球菌属等优势群落参与酒醅发酵工作，自个儿就转入了窖泥中的深层次生态化反。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-867807a0c94cc0fb60d639a4cd11194b_720w.jpg?source=8673f162" alt=""><figcaption>现代白酒窖池，在底部堆积窖泥的一般是酱香型白酒，浓香型白酒窖池里的窖泥在四壁也有，谓之泥窖，蕴藏着巨大量的微生物菌群</figcaption></figure>
-<p>在窖泥深处，存在着真菌属的青霉菌群落，其中以罗克福青霉属（Roqueforti）为首占有决定性的优势数量，与乳酸菌大家族相辅相成。</p>
-<p>嘛，初听「罗克福特青霉属」可能会觉着佶屈聱牙，不过只要知道这玩意儿是催生「著名」法国蓝纹奶酪「罗克福（Roquefort）」的主力真菌就行了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-73af51196e0ce9e6a6ac1916fe76457f_720w.jpg?source=8673f162" alt=""><figcaption>这就是罗克福蓝纹奶酪，原产 2000 年前的高卢，是今天法国的国宝级奶酪，上边儿的大块蓝绿点儿都是罗克福青霉菌的杰作</figcaption></figure>
-<p>换言之，主要生成咸、酸、辛辣的风味。</p>
-<p>等青霉菌群落差不多开始工作，酒醅、大曲的微生物群落也到位工作，这时节乳酸菌群落也开始助力。</p>
-<p>以片球菌属为例子，它们喜爱酸性微需氧环境，在胃酸同等酸度液态环境里，还能悠哉悠哉，一边分解葡萄糖，一边生产苯乳酸与水，不释放二氧化碳，时不常用自个儿的 horA、horB 等抗酒花基因遨游于原始酒精之海，干扰一下酿酒酵母的工作速率——避免酵母分解过快，让别的微生物（尤其青霉属）赶不上趟。</p>
-<p>同时，片球菌属会为啤酒提供较为浓烈的奶油香、偏高的酸度、柔和的苦度，为白酒提供短暂的甜度，避免它们的同族乳杆菌属、明串珠菌属一味盯着糖分发酵，结果产生了过量的乙酸，就不太好收场了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fad350a47f312ab9cb35110cf08ca3b0_720w.jpg?source=8673f162" alt=""><figcaption>如果各位手头设备和物料足够，完全可以家酿啤酒（也算一种精酿），除了要定时控制生成气体，还要调节片球菌的含量，好在这玩意儿从泡菜汤水里就能提取进行培养</figcaption></figure>
-<p>为避免同族变成啤酒、白酒腐败菌，片球菌属不得不拆东墙补西墙，尤其要借力霉菌属、芽孢杆菌属、野生酵母菌大类（下文会提到）来争夺糖源、减少同族（包括片球菌属本身）的生态环境份额，还要提防杂菌的入侵，比如危险的黄曲霉菌、白念珠菌之类。</p>
-<p>相比之下，在白酒这边，乳酸菌参与酿酒的 3 个属就不必像啤酒发酵那边「手忙脚乱」，它们只需要依照各自特性，分解葡萄糖产生己酸、乙酸、辛酸、苯乙酸、苯乳酸等有机酸，然后由芽孢杆菌属、霉菌属的根霉与黑曲霉，来接力产生提供酒香味的酯类物质即可。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e25b5d3137ac145d854b01b0328d4b13_720w.jpg?source=8673f162" alt=""><figcaption>图源泸州老窖“泥窖生香”示意图，鼠拿来暂时充当一下不同微生物群落参与酒发酵过程的讲解</figcaption></figure>
-<p>而随着白酒原浆逐渐产生，酒精度不断提升，众多微生物会停止参与反应，唯有乳酸菌会工作到最后一刻，从而维持住白酒基本质量、酒体平衡性，直到酵母活性完全被高浓度酒精抑制，它们才会彻底停止辅助。</p>
-<p>如此，白酒里的几十种独特香味就这么出来了，精酿啤酒里的甜香也是如此。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e1b81ffce01079602ae06a5f4326c7aa_720w.jpg?source=8673f162" alt=""><figcaption>图源本文延伸阅读部分的白酒微生物论文，上述列出的白酒香型基本上是微生物群落联合作战的成果</figcaption></figure>
-<p>在浓香型白酒中，上述团结作战参与生态化反尤为突出，甚至在微生物群落种类上，能跟精酿啤酒打平手。</p>
-<p>至于红酒嘛……很抱歉，在上述生态化反开始后不久，因为酿酒葡萄惊人的含糖量，酒精浓度提升更快，干掉了绝大多数参与酿酒微生物，基本剩下酵母、野生酵母、醋酸菌了，比白酒原浆还要无情。</p>
-<p>至于精酿啤酒这边……生态化反工作还没结束，乳酸菌是平衡了，还有野生酵母呢。</p>
-<p><strong>野酵母大类：精酿啤酒最核心风味看我们心情</strong></p>
-<p>相比乳酸菌大类的「辛勤」，野酵母这边反应堪称「平淡」，毕竟在白酒、红酒、黄酒那边，它们一般不上台主动表演，但在酒精度相对低的啤酒这边儿……</p>
-<p>它们要是不参与，那，精酿啤酒的味儿可能会比没酿好的醋还糟糕。</p>
-<p>一般而言，野酵母大类包括 Brettanomyces（酒香酵母）、Wickerhamomyces（威克汉姆酵母）、Pichia（毕赤酵母）等，都是精酿师傅直挠头的酿酒风味微生物菌群。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cc10ce9285534623a367e9fe36772c45_720w.jpg?source=8673f162" alt=""><figcaption>野生酵母“酒香酵母”示意图。这玩意儿在精酿圈子里昵称为 Bretty，别号“精酿圈的榴莲”，实际性格如脱缰的野马，非常难伺候</figcaption></figure>
-<p>但如果控制得当，它们就不必被归入杂菌类。</p>
-<p>比如脱胎自老式酸啤（Sour Beer）的精酿——兰比克啤酒（Lambic Beer），就是巧妙利用了过熟水果表面的酒香酵母（提供微腐败的酒味），让添加入啤酒的水果汁提供酸度、果香，融入精酿啤酒，带来明快的果味。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ad767af54d03a4d85a761d227249f9af_720w.jpg?source=8673f162" alt=""><figcaption>在酒香酵母和乳酸菌的联手作战之下，兰比克啤酒呈现了更鲜明直观的色彩，泡沫也相当丰富，口感层次细腻</figcaption></figure>
-<p>同理，从中世纪到现代，酸啤酿造师傅一直在研究如何掌控酒香酵母的含量，利用上文提到的片球菌来支援，就跟干预常规酿酒酵母的工作效率一样。</p>
-<p>无奈的是，酒香酵母本质上是腐败菌，如野马般难以驾驭，生命强度也远远超过常规酿酒酵母，需要调和很多片球菌属才能压制它们的野性。</p>
-<p>发展到后来，比利时人的 Orval 精酿最先摸索出来能利用酒香酵母的酿造配方，奠定了更小众精酿啤酒的出产基础。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4632f9a8513af6a61f760825d6a61d7_720w.jpg?source=8673f162" alt=""><figcaption>Orval 本来是比利时的修道院啤酒，历经千百年的打磨，修道士们终于搞出来专属的酿酒配方，利用酒香酵母做出来明快的酒色泽和丰富的泡沫，也开了利用酒香酵母的先河</figcaption></figure>
-<p>独特的果酸、乳酸、窖酸甚至臭酸，都是酒香酵母的「杰作」。</p>
-<p>有些酸啤酒、小众精酿那一股子劝退大多数新人的怪味儿，就已经是酒香酵母的「嘲讽」了：这都接受不了，还是走开吧。</p>
-<p>与之相对，威克汉姆酵母属是出了名的「平淡微生物」，它们最早在我国白酒窖池中被提取，在乳酸菌属、常规酿酒酵母、霉菌属、芽孢杆菌属在窖池上层的酒醅里兵来将挡时，它们就懒懒呆在窖池下层，提供一些小而关键的生态化反，比如增加淀粉糖化性、促进酯类产生、瓦解下沉杂质。</p>
-<p>但如果有醋酸菌来「求助」，那么威克汉姆酵母属就会上浮支援。</p>
-<p>至于毕赤酵母属，它们会发现甲醇的产生，然后迅速出击「吃掉」之……平时也就不太参与工作。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-99d13a6eb46f22bb9a6b7d3dc3fcdb00_720w.jpg?source=8673f162" alt=""><figcaption>电镜下的毕赤酵母群落，这玩意儿是酵母大类与野生酵母大类中唯一一个能吃甲醇当作碳来源的，在蛋白质制取工作上有很大帮助，然后就是清理甲醇和一定的杂醇了</figcaption></figure>
-<p>所以到最后，也就酒香酵母这一大类野酵母从头打到尾，最难伺候，一个没留神，它们就给精酿带来一股子小宝宝吐奶的怪味儿、或者苦药味儿，酒体也给弄得稀薄不堪，比最粗糙的工业拉格还稀薄。</p>
-<p>但伺候好了，精酿就有了奇妙的香味……或者是好闻的怪味，如臭豆腐、榴莲之于人类。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-02269c4c487f524799d7b20342642ba1_720w.jpg?source=8673f162" alt=""><figcaption>有野生酵母参与发酵的精酿通常色彩鲜明，较之其它啤酒透明度略高或低，泡沫也更丰富，口味嘛……也更多变</figcaption></figure>
-<p>所以嘞，精酿师傅们能忍受酒香酵母、学着如何跟它们「友好」相处，而不是像隔壁的红酒师傅，在酿造完成后、灌装开始时，故意往红酒里添加二氧化硫，杀灭残留的野生酵母。</p>
-<p>至于我国白酒这边，也得赶紧送去蒸馏罐，高温提取酒精、香味分子，避免野生酵母勾结醋酸菌捣乱。</p>
-<p><strong>醋酸菌种属：追求深度发酵虽好，可不要贪心哦</strong></p>
-<blockquote>美中不足，好事多磨。——《红楼梦》</blockquote>
-<p>对于醋酸菌种属而言，在酿酒这个生态化反大工程的最后一步，添点儿「美中不足」是它们的常规操作了。</p>
-<p>相比于乳酸菌，醋酸菌没有充足氧气就会完蛋，也不耐热，除了酒精，一无所爱，只要让它们在原浆酒里待一小会儿，那就麻烦了，必须赶紧往酒里兑食盐……但也只是一时之计，毕竟食盐多了酒风味就乱了。</p>
-<p>白酒还好说，毕竟最终要送去高温蒸馏，但红酒就必须小心醋酸菌来捣乱，精酿啤酒也是。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1d5b52fc0a19eb2d9fffcfa093c049c4_720w.jpg?source=8673f162" alt=""><figcaption>红酒开封之后如果长时间暴露于空气中（尤其是新酿的酒），就会招来醋酸菌捣乱，不过对人体无害，顶多是酒没法喝了</figcaption></figure>
-<p>如前文所述，一部分野生酵母会协助醋酸菌大量繁殖，尤其是在原浆酒中沉淀杂质（大分子碳糖）较多、尚未精细过滤时，醋酸菌就会趁乱杀来，在原浆酒表面形成一层薄膜，大量吸取氧气来分化酒精。</p>
-<p>红酒师傅最看不得这种情况，会立即上二氧化硫伺候，或者赶紧过滤干净。</p>
-<p>不过之于小部分红酒、精酿师傅而言，醋酸菌的捣乱行为，是九九八十一难的最后一难，因为这时段酒的发酵工作还在深层次进行，为了获取更出色的香气，必须更殚精竭虑。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f603012e25130a1bd09e6b4e0cb3d015_720w.jpg?source=8673f162" alt=""><figcaption>深层次发酵在精酿圈子里其实也不算少见，尤其是放了咖啡豆之类辅料的品类，对杂菌尤其醋酸菌的警惕性就更高了</figcaption></figure>
-<p>说起来，醋酸菌在这深层次发酵中，也有一定的参与技术含量……比如提供些微的甘酸度、跟毕赤酵母属密切配合、消去部分杂醇。</p>
-<p>在黄酒、三花酒等米酒类发酵的尾声，醋酸菌更是参与深层次气味调节，提供中规中矩的微酸。</p>
-<p>但绝大部分时间，它还是被清理掉要来得好。</p>
-<p>随着现代技术进步，抽真空、隔绝空气加热等手段已经不新鲜，当然从一开始清洁好发酵罐周围环境也是很重要的，避免杂菌侵袭、干扰，从源头上清理干净，避免跟中世纪的酿酒师傅一样抱怨「昨天没拖地，这酒就出怪味儿了」。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e5aa6ff9bc9f55c636b3ce1fa6687e27_720w.jpg?source=8673f162" alt=""><figcaption>现代酿啤酒技术已经很靠谱了，尤其是清理杂菌技术领域</figcaption></figure>
-<p>嘛，最后啰嗦一句……</p>
-<p>如果题主不只是想写论文的话，还想进一步研究中规中矩酿酒、如何协调微生物群落的手段，那么鼠诚挚建议，本文可用于初步参考，细节知识请参考工具书。</p>
-<p>逃~</p>
-<p><strong>延伸阅读</strong></p>
-<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//manu61.magtech.com.cn/zgnz/article/2025/0254-5071/2025-3-1.html" target="_blank" rel="nofollow noreferrer">浓香型白酒酿造过程中微生物群落及其风味物质特征研究进展</a></p>
-<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1346724/full" target="_blank" rel="nofollow noreferrer">Frontiers | The two faces of microorganisms in traditional brewing and the implications for no- and low-alcohol beers (涉猎广泛的好文)</a></p>
-<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.beerandbrewing.com/dictionary/6lF7gO0B8Q" target="_blank" rel="nofollow noreferrer">wild yeast | The Oxford Companion to Beer | Craft Beer & Brewing</a></p>
+<p>在一个没有国家、没有法律、没有稳定暴力机构的社会里，权力其实是一种负担。</p>
+<p>祭司之所以能站到统治者的位置，或许是因为他们长期承担了一件所有人都想回避、却又无法回避的事情。</p>
+<p><strong>那就是失败。</strong></p>
+<p>我们今天讨论早期社会，很容易高估「信仰」在其中的比重，却低估一种更直接的东西：恐惧。</p>
+<p>这可是人类最原生的情绪。</p>
+<p>收成失败之后，冬天能不能活下来是未知数。 迁徙方向判断错误，整个部落可能走进死地。 瘟疫出现，没有人知道是否会轮到自己。 战争失利，意味着接下来可能遭到报复和掠夺。</p>
+<p>在这种情况下，真正让群体濒临崩溃的，也许不只是灾难本身，更在其「无法解释」性。 一旦没有解释，恐惧就会在群体内部扩散，并迅速转化为指责、怀疑和暴力。</p>
+<p>人类学研究反复证明，在缺乏统一解释框架的社会中，灾难之后出现的第一反应不是团结，而是内耗。</p>
+<p>埃文斯 - 普理查德在阿赞德社会的调查中，记录过大量类似情形：即便所有人都清楚物理原因，事故仍然必须被赋予一个社会意义，否则矛盾无法停止。</p>
+<p>「自然因果并不能满足社会对意义的需求，真正的问题并非事情如何发生，而是为何发生在此刻、此人身上。」——《Azande 人的巫术、神谕与魔法》<sup>[1]</sup></p>
+<p>Azande 人并非用巫术来解释“事情如何发生”（自然因果），而是用它来回答“为什么偏偏发生在这时、这人身上”</p>
+<p>——即赋予事件社会 - 道德意义上的“为何”</p>
+<p><strong>所以说，解释是为了求真，更是为了止乱。</strong></p>
+<p>在这种背景下，祭司这个角色被推出来了。</p>
+<p>注意这个顺序。 不是因为某个人宣称自己能通神，所以大家相信他。 而是因为群体在灾难面前需要一个承载解释的位置，于是某些人被反复推到这个位置上。</p>
+<p>而一旦站上去，就意味着要接受检验。</p>
+<p>两河流域的占卜传统对此有极其清晰的记录。占卜并非一次性行为，而是一个可被回溯、可被验证的过程。占卜结果错误，责任非常明确。</p>
+<p>「祭司误判神意，致使决策失当，其责当究。」 ——《巴比伦占卜文献》<sup>[2]</sup></p>
+<p>所以这是个很有风险的行当。</p>
+<p>在商代，甲骨文中保留下来的大量卜辞，呈现出的并不是一个神秘主义世界，而是一个高度紧张的决策环境。卜问的内容几乎全部围绕战争、天气、疾病、收成、生育。这些都是一旦失败就会引发连锁后果的事情。</p>
+<blockquote>「贞不吉，其咎在卜。」 ——殷墟甲骨文</blockquote>
+<p>占卜失败，承担责任。</p>
+<p>这意味着，祭司从一开始就不是安全位置。</p>
+<p>为什么群体会接受这种结构？</p>
+<p>当然是因为它有效了。</p>
+<p>当灾难发生之后，如果失败被明确地集中在某个位置上，群体内部的张力就会被迅速释放。愤怒有了方向，恐惧有了出口，怀疑也就不再无差别扩散。</p>
+<p>从社会运作角度看，这其实是一种极其朴素、但非常有效的稳定方式。</p>
+<p>在古埃及，尼罗河泛滥的高度不确定性，几乎决定了整个文明的生死。测量水位、判断祭祀是否得当、解释失败原因的责任，长期集中在祭司体系内部。</p>
+<blockquote>「尼罗河未至，仪式必受质疑，神庙需承担解释责任。」 ——Jan Assmann，《The Mind of Egypt》</blockquote>
+<p>这说明，祭司并不是在「解释自然」，而是在「承受后果」，就是个担保人。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8f613211f7daeac84b36bc2da1c20b8a_720w.jpg?source=8673f162" alt=""></figure>
+<p>玛雅文明更是这种极端。统治者本身就是最高祭司，战争失败或天象异常后，国王必须进行公开的自残、放血仪式。</p>
+<p>很多关于「神权统治」的叙述，习惯从结果倒推原因，认为祭司渴望权力，所以发明神话。</p>
+<p>但如果稍微观察一下，会发现也许是相反的。</p>
+<p>祭司承担失败，是因为群体需要。 权力出现，是因为责任已经集中。</p>
+<p>当某些人长期负责解释灾难、裁决禁忌、承受质疑，他们就不可避免地开始影响决策本身。因为决策失败，最终还是会回到他们身上。</p>
+<p>于是，他们开始决定祭祀时间。 开始建议迁徙方向。 开始判断战争是否「合适」。</p>
+<p><strong>早期统治的位置，并不令人向往</strong></p>
+<p>这是一个反直觉的事实。</p>
+<p>在早期社会，统治者的位置并不安全，也不稳定，更谈不上舒适。</p>
+<p>大量民族志资料显示，首领、巫师、祭司在灾难后被杀、被放逐、被献祭，是高度常见的现象。詹姆斯·弗雷泽在《金枝》中整理的材料就有提到，虽然理论解释存在争议。</p>
+<p>换句话说，站得越高，越容易被推下去。</p>
+<p>在这种结构下，统治不是一种向上攀爬的奖励机制，而是一种高风险岗位。 你站在那里，随时可能因为不可控的失败付出生命代价。</p>
+<p>这也解释了一个长期被忽视的现象：在很多社会中，祭司和首领身份带有禁欲、隔离、不得自由行动的特征。这正是对风险的制度化回应。</p>
+<p><strong>个人观点：统治的起点，是责任的集中</strong></p>
+<p>我认为，人类最早的统治，并不是出于对支配的渴望，而是出于对失败的恐惧。 当失败无法平均分担，就必须集中。 当集中完成，就必须有人长期站在那里。</p>
+<p>这个人或这群人，一开始并不强大。 但他们不可或缺。</p>
+<p>于是，权力出现了。</p>
+<p>所以，祭司凭什么成为人类历史上最早的统治者？</p>
+<p>因为在灾难降临、解释崩溃、群体濒临瓦解的时候， 他们站了出来。 他们承担了失败。 他们接住了恐惧。</p>
+<p>如果你从这个角度再去看早期历史，很多看似荒诞的制度，都会突然显得冷静而清醒了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c3996493e6f3c47125dfdb3b743d6673_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-da2f6a03addd47c8b05aad6aa05c0508_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1987847271644145108">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1941760671097266390">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786748</guid><pubDate>Thu, 15 Jan 2026 18:30:20 GMT</pubDate></item><item><title>如果将 20 只狼和 500 只鹿放进同一孤岛，最后谁能活下来？</title><link>http://daily.zhihu.com/story/9786757</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-eefb6f617a9762ddfedf5d3e9da96855.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786765</guid><pubDate>Fri, 16 Jan 2026 01:18:59 GMT</pubDate></item><item><title>为什么五子棋始终没有发展起来？</title><link>http://daily.zhihu.com/story/9786773</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-84808bc449d35ceee0e8c90537398997.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -129,179 +108,103 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-af2454c62423a7ca9db5224ef2efc2a0_l.jpg?source=8673f162">
-<span class="author">三眼乌鸦，</span><span class="bio">科学为根，艺术为形，历史为线。 用图像与文字编织生命长卷。</span>
-<a href="https://www.zhihu.com/question/10907250524/answer/1991616174811787713" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a33ffc3dc499a05ef88925885f427b47_l.jpg?source=8673f162">
+<span class="author">pangbai666，</span><span class="bio">一个探索者~</span>
+<a href="https://www.zhihu.com/question/284634562/answer/1890172308586489583" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先说结论：如果真的是孤岛 + 封闭系统、只有 20 只狼 +500 只鹿、没有其他稳定猎物、也没有人为补给，最后大概率是狼先撑不住，因为它们的命运被鹿的数量锁死。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c52e651c5e4894c464941d44c02dac1d_720w.jpg?source=8673f162" alt=""></figure>
-<p>鹿被高强度捕食压到很低后，狼会因为食物不足而快速掉队、繁殖停止、随后大量饿死或互相竞争致死。</p>
-<p>鹿通常会在低密度下残存并缓慢回升。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a1d2bf954580ae68de3c7d3aec3da478_720w.jpg?source=8673f162" alt=""></figure>
-<p>但如果岛屿生产力太差、鹿把植被啃到不可恢复的程度（或再叠加极端冬季），也存在鹿先暴跌、随后狼也全灭的同归于尽结局。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ce2b6259aeed4e0057348b5b7f31a7b4_720w.jpg?source=8673f162" alt=""></figure>
-<p>相反，如果在狼把鹿消耗殆尽后，能找到其他食物源（如鱼或海獭等），狼也能维持一个自持的小种群。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-71f8bf6616d55075ca98f08edc10dde8_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-798300b15bb16efad0161c69729a75d3_720w.jpg?source=8673f162" alt=""><figcaption>Coronation Island（上） 显示，在封闭孤岛中缺乏替代猎物时，狼在压低鹿群后因能量枯竭迅速崩溃。快乐岛（下）则表明，一旦获得海洋补贴，狼可在鹿极低密度下通过转食海獭长期维持种群。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-35f9eb849dd43248985d9ba887fadf3c_720w.jpg?source=8673f162" alt=""><figcaption>哪里逃！</figcaption></figure>
-<hr>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4eceda0d27be0436ae05709ecbe7c484_720w.jpg?source=8673f162" alt=""></figure>
-<p>现实世界中，正好存在三个高度经典、但结局各不相同的孤岛案例，分别对应三种关键生态模型：</p>
-<p>皇家岛（<span class="nolink">Isle Royale</span>）展示的是典型的封闭系统中捕食者与大型草食动物长期共存并产生周期性振荡的情形，用于理解在没有外来补充条件下，捕食者如何被猎物数量所反向约束。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5a4ebe5936401473a75cfa9443eb4df1_720w.jpg?source=8673f162" alt=""><figcaption>皇家岛上的狼和驼鹿残骸</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d4d11ee644d6fd4477c2d9a7f9ba1a5_720w.jpg?source=8673f162" alt=""><figcaption>岛上庞大的驼鹿</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3dbba3cb87fac5fce4f914588c053f86_720w.jpg?source=8673f162" alt=""><figcaption>皇家岛是美国唯一一个完全由岛屿组成的国家公园，也是最难抵达的国家公园之一。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9930a1595036d7d09f03e802516db39a_720w.jpg?source=8673f162" alt=""><figcaption>岛上开展着全球持续时间最长（始于 1958 年）的掠食者与猎物关系研究。</figcaption></figure>
-<p>圣马修岛（<span class="nolink">St. Matthew Island</span>）则代表完全缺乏捕食者的另一极端，用以说明在孤岛低冗余环境中，草食动物自身也可能因资源透支与极端气候而导致系统性崩溃。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-36f51c8744f583762a76bec3f6d7faae_720w.jpg?source=8673f162" alt=""><figcaption>二战期间，美国海岸警卫队在岛上设立了电台，并引入了 29 只驯鹿（Reindeer）作为备用食物来源。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e44bde28bb9b95396b8aaa903cd6160f_720w.jpg?source=8673f162" alt=""><figcaption>圣马修岛（St. Matthew Island）位于阿拉斯加（白令海中部）。</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-01f48b0069c8502d8fe4faba2340b242_720w.jpg?source=8673f162" alt=""><figcaption>岛上有多种崖栖海鸟。</figcaption></figure>
-<p>快乐岛（<span class="nolink">Pleasant Island</span>）提供了近年的关键对照案例：狼与鹿同处一岛，但由于存在海洋替代猎物，能量通道被重新打开，从而改变了捕食者必然崩溃的结局。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8ecc316d5f33a492b9dfb942e73170cc_720w.jpg?source=8673f162" alt=""><figcaption>快乐岛同样位于阿拉斯加。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-474683510e2d1d264b62c479742d6267_720w.jpg?source=8673f162" alt=""><figcaption>岛屿覆盖着茂密的西加云杉和铁杉，地形崎岖，海岸线充满了破碎的礁石。</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d552a83b3b277894b59cc1f8cc3a325a_720w.jpg?source=8673f162" alt=""><figcaption>2013 年左右，一群狼展现了惊人的游泳能力，跨越了宽阔的海域，成功殖民了快乐岛。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ebab4c6abf0c4f93b85c595562a9e4cd_720w.jpg?source=8673f162" alt=""><figcaption>岛上的黑尾鹿</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ce0f308863ad7ab1539a362e085c9062_720w.jpg?source=8673f162" alt=""><figcaption>鹿消失后，狼群开始大规模捕食海獭</figcaption></figure>
-<p>这三种情景共同覆盖了封闭系统中捕食—资源—替代通道是否存在的全部核心变量。</p>
-<p>接下来我们按照顺序，仔细看看每一个案例的详细过程。</p>
-<hr>
-<p>第一个案例代表的是典型封闭系统中捕食者—猎物的长期振荡，也就是<span class="nolink">皇家岛</span>的狼与驼鹿系统。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8f9da2e19acf08d86e79f34d9c9d3ae8_720w.jpg?source=8673f162" alt=""></figure>
-<p>这里并不存在简单的谁消灭谁，而是几十年尺度的数量起伏。长期监测反复显示，驼鹿的数量变化往往先于狼群发生，无论是因为资源压力、寄生虫，还是严冬导致的饥饿死亡；而狼群的数量变化则明显滞后，作为对猎物供给变化的被动响应。当驼鹿在某些阶段出现大幅下降后，狼的繁殖成功率和幼崽存活率迅速下滑，群体规模随之萎缩。这个系统说明，在封闭环境中，捕食者并不是调控者，而是被能量供给牵着走的一方。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-12773ab10feacb0c6b8486bff05f203a_720w.jpg?source=8673f162" alt=""></figure>
-<p>2010 年代，皇家岛狼—驼鹿系统中维持数十年的动态平衡被实质性打破。2017–2018 年的研究表明，岛上狼群已萎缩至仅剩两只高度近交的个体，这两只狼为父女关系（且同母异父），遗传多样性极低，几乎不存在形成稳定繁殖单元的可能<sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ba43d1c9181b4e4ea1fb91477a46c469_720w.jpg?source=8673f162" alt=""><figcaption>9 岁的雄狼（左）和 7 岁的雌狼。</figcaption></figure>
-<p>连续多年的监测未记录到有效繁殖行为，狼对驼鹿的捕食在种群尺度上已持续多年处于极低水平，无法对猎物数量产生实质影响，顶级捕食者的生态功能事实上已经缺位<sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9ff7229ad00850c8afab082e75cb2006_720w.jpg?source=8673f162" alt=""><figcaption>尽管 2018 年 2 月形成了连接岛屿与大陆的冰桥，但未观察到有狼通过冰桥迁入或迁出。</figcaption></figure>
-<p>需要明确的是，皇家岛狼群的最终崩溃是多重因素叠加的结果，而非单一原因所致。遗传分析显示，最后仅存的两只狼近交系数极高，且雌性个体存在脊椎畸形，繁殖能力严重受损。但遗传衰退本身是果而非因。它源于此前数十年间种群反复经历的瓶颈期。每一次驼鹿数量下降，都导致狼群规模收缩。而皇家岛作为封闭系统，没有外来个体补充遗传多样性，使得每次瓶颈的遗传损失不断累积。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-81a18f5b333b151c65b597f5f521e3fa_720w.jpg?source=8673f162" alt=""></figure>
-<p>换言之，食物短缺是触发机制，近交衰退是放大机制。在一个开放系统中，狼群可以通过迁入恢复遗传健康。但在孤岛上，这条路被堵死，食物波动的后果因此被锁定并逐代加剧。这正是封闭系统与开放系统的本质差异。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-32244a0bb1e3e5ba4c7029e124ecd089_720w.jpg?source=8673f162" alt=""><figcaption>皇家岛驼鹿数量的变化始终先于狼群发生，狼的增减明显滞后，体现其对猎物能量供给的被动响应。</figcaption></figure>
-<p>在捕食压力消失的背景下，皇家岛驼鹿种群迅速扩张。调查显示幼体比例显著偏高、成体死亡率极低，整体处于快速增长通道。随之而来的并非单一物种的“繁荣”，而是生态系统多个层级开始承受异常压力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-669c4a677ff7b4e0d25239f77cbe4eaf_720w.jpg?source=8673f162" alt=""><figcaption>2018 年的普查估测驼鹿数量为 1475 只，且仍在增长。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1d8de18d7afd0c3d672d51bd7e135f07_720w.jpg?source=8673f162" alt=""><figcaption>工作人员检查植物生长和啃食状况。</figcaption></figure>
-<p>陆地植被中，西部区域的冷杉（balsam fir）更新受到强烈抑制，长期啃食导致成熟个体大量死亡而后继乏力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-18e319b66e93322177b4a6e3a9264f9a_720w.jpg?source=8673f162" alt=""><figcaption>驼鹿的啃食会导致树木生长停滞，例如有些树虽然已经 30 岁了，却因为被反复啃食而只有 60-90cm。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd14c7c5e545c6f06733fe7ce1247401_720w.jpg?source=8673f162" alt=""><figcaption>1960–2000 年间，在冬季变暖与高密度竞争的共同作用下，皇家岛驼鹿头骨尺寸缩小约 16%，平均寿命亦由约 15 年降至不足 10 年。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-74b839bda100ceec3a320728a3312959_720w.jpg?source=8673f162" alt=""><figcaption>在缺乏狼捕食的情况下，驼鹿种群正以每年约 16-22%的速度增长，4 到 5 年即可翻倍，这将会对本地生态系统造成严重压力。</figcaption></figure>
-<p>水域生态中，驼鹿对水盾草（Watershield）等水生植物的集中取食，使其在一个生长季内从高覆盖度被压至近乎消失。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d3103ca8ce164b84b129b60b18ed6289_720w.jpg?source=8673f162" alt=""><figcaption> 红狐的数量似乎正在下降，这可能是因为缺乏狼捕食留下的驼鹿尸体作为食物来源。</figcaption></figure>
-<p>与此同时，依赖狼猎物残骸的清道夫与伴生物种，如赤狐、渡鸦和秃鹰，其食物来源结构被迫改变，群落组成随之发生偏移。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-33189c3003d65017c7a06aa76eb1cb1c_720w.jpg?source=8673f162" alt=""><figcaption>在狼长期缺位的背景下，皇家岛赤狐与雪兔不再形成稳定的捕食—被捕食振荡，而表现为雪兔的短时暴涨与赤狐的强烈不规则波动。</figcaption></figure>
-<p>这一阶段标志着皇家岛狼群已进入功能性灭绝状态：狼虽尚存个体，但已无法履行顶级捕食者在能量传递与结构维持中的关键作用。正是在这一明确断裂的背景下，国家公园署随后启动了狼的重新引入计划，以期恢复被中断的生态过程。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-3653b5f87675d30c8c674fbd1ce5639d_720w.jpg?source=8673f162" alt=""></figure>
-<p>故事的转折点出现在 2018 年 9 月。</p>
-<p>在经历多年功能性灭绝后，皇家岛首次以管理决策而非自然过程，重新引入顶级捕食者。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a19b368fe667539c5e67d63d4b4fd7c3_720w.jpg?source=8673f162" alt=""></figure>
-<p>在完成环境影响评估后，国家公园署于 2018–2019 年分批将 19 只灰狼从五大湖区域转移至皇家岛，目标并非补数量，而是重建具备遗传多样性、社会结构与空间分化能力的狼群，使能量通道重新接通<sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-18d89dbda73a5e354eaa76a53071251c_720w.jpg?source=8673f162" alt=""><figcaption>左图为 2018 年 9 月在明尼苏达大港印第安保留地捕获并麻醉后野外恢复的成年雌性灰狼。右图为 2019 年 3 月在加拿大 Michipicoten Island 捕获的 009M 雄性灰狼。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-48b63420d2c202712c6c97c11456c128_720w.jpg?source=8673f162" alt=""><figcaption>来自印第安纳保留地的 003F，她属于最早一批被引入的雌性个体</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-68d8185a58403064a92a8db951628d93_720w.jpg?source=8673f162" alt=""><figcaption>最重的是 016M（雄性），体重 44.9 kg，成体，黑色被毛，捕获自安大略省 Wawa 附近的 Jostle Lake。最轻的是 004F（雌性），体重 22.6 kg，年龄 2 岁，灰色被毛，来自明尼苏达东北部。</figcaption></figure>
-<p>* 图中编号到 20，实际却只有 19 只狼。第一批计划转移 4 只狼，但其中雌狼 002F 在捕获后因对麻醉药物产生不良反应而死亡，成为该计划中唯一的直接损失个体。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a6a644faae1541c2cfdf645b5c354b93_720w.jpg?source=8673f162" alt=""><figcaption>狼被捕捉后要进行详细测量并标记，以便将来长期跟踪和识别。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9c2d40d1b3c5c73e886983fee9b7823b_720w.jpg?source=8673f162" alt=""><figcaption>超过一半的狼曾接触过犬细小病毒和犬瘟热，所有狼在释放前都接种了疫苗并接受了寄生虫治疗。</figcaption></figure>
-<p>引入后的早期阶段，狼迅速扩散，几乎覆盖整个群岛，随后逐步形成较稳定的活动分区与社会关联。</p>
-<p>到 2020 年初，岛上确认或高度可能存在约 14 只狼，其中多只佩戴 GPS 项圈，为行为与捕食监测提供了连续数据。</p>
-<p>繁殖迹象很快出现，至少一只雌狼在 2019 年成功育幼，标志着狼群开始恢复自我更新能力。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d5275fff3ba636f4ed5a9f98e9fa56fd_720w.jpg?source=8673f162" alt=""><figcaption>2019 年 9 月 29 日，研究人员通过远程相机拍摄到两只疑似幼狼，推测为雌狼 014F 在 2019 年春季所产的后代。</figcaption></figure>
-<p>与此同时，捕食结构显示出典型特征：以驼鹿幼体和亚成体为主，辅以海狸与雪兔，符合历史上皇家岛系统的能量分配模式。</p>
-<p>2019 年 5 月至 9 月，研究人员调查了 381 个 GPS 定位集群，确定了 50 起捕食事件。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0b316b1a7a5e987afd4bdb07206a0997_720w.jpg?source=8673f162" alt=""><figcaption>驼鹿：24 起（主要是幼崽，占 75%）。</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-77b014b02d49e4222328a4f7c8d3e529_720w.jpg?source=8673f162" alt=""><figcaption>海狸（Beaver）：19 起。雪鞋野兔（Snowshoe hare）：3 起。其他（红狐、鸟类等）：4 起。</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9b1dec5c36a2117e396eca4050700456_720w.jpg?source=8673f162" alt=""><figcaption>从死因结构看，狼间攻击（intraspecific aggression）占据主导。2019–2020 年间，至少 4 只个体（004F、M183、018F、010M）明确或高度可能死于同种攻击，集中发生在引入后一年左右。</figcaption></figure>
-<p>恢复初期也伴随高风险。狼间冲突导致的死亡事件表明，低密度、快速重组阶段的社会结构仍不稳定。但总体而言，重新引入已在短时间内恢复了捕食、空间占用与社会行为等关键功能，为评估该孤岛生态系统能否重回长期自持状态奠定了基础<sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-57e6b62e08930dd2a6b67992da6c0b34_720w.jpg?source=8673f162" alt=""><figcaption>2020 年 12 月 12 日 12:27（–7 °C），皇家岛国家公园内，红外相机记录到一支狼群在林地中行进。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-221e7b939f67549d7846680bb89af954_720w.jpg?source=8673f162" alt=""><figcaption>同期皇家岛另一个相机点</figcaption></figure>
-<p>读到这里，一个自然的问题是：既然皇家岛的狼与驼鹿振荡了几十年，为什么不能一直这样下去？狼群在食物减少时难道不会自动降低繁殖率，与猎物维持某种低水平平衡吗？</p>
-<p>答案是：理论上可以，但现实中这种平衡极其脆弱。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbe340dac9197ce5e7b00c25391e6883_720w.jpg?source=8673f162" alt=""></figure>
-<p>狼并不能通过少生一点来平滑适应食物下降，其社会性捕猎需要维持最低群体规模，一旦数量跌破阈值，捕猎效率与繁殖成功率会同步崩塌。在封闭系统中又不存在外来补充，任何一次严冬或疾病造成的损失都是不可逆的。</p>
-<p>皇家岛之所以能维持振荡几十年，仅因岛屿足够大（约 544 平方公里）、驼鹿基数高，提供了暂时缓冲，但最终仍走向狼群的功能性灭绝，更小或更贫瘠的岛屿只会更快重演这一结局。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-baac3227c90ceca16b511228a790247a_720w.jpg?source=8673f162" alt=""></figure>
-<hr>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac2c4906dea7fc6676c330ddce5c329e_720w.jpg?source=8673f162" alt=""><figcaption>圣马修岛面积约 332 平方公里，是一座典型的亚寒带海洋性孤岛。</figcaption></figure>
-<p>第二个案例展示的是：在没有捕食者的情况下，草食动物本身同样可能将低冗余系统推向灾难性结局，即圣马修岛（St. Matthew Island）的驯鹿事件。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-268037c353dc0dfc3d4c9309efc33bbf_720w.jpg?source=8673f162" alt=""><figcaption>岛屿地形以低起伏丘陵和缓坡为主，最高点不足 500 米，整体暴露于强风与海雾之中。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f40ff64692df92f18d2fdc0420ed9489_720w.jpg?source=8673f162" alt=""><figcaption>岛上唯一稳定存在的本土陆生哺乳动物是一种岛屿特有的田鼠（Microtus abbreviatus）</figcaption></figure>
-<p>1944 年仅 29 头驯鹿被引入这座孤岛，在完全缺乏狼等天敌、初期资源高度充裕的条件下，种群以极高速度扩张，1944–1963 年间的平均年增长率约为 32%，到 1963 年夏季数量已达约 6000 头<sup>[3]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b2ba585dc071323e0565bea26e3dd79b_720w.jpg?source=8673f162" alt=""></figure>
-<p>研究者重新核对了 1957 年与 1963 年的原始数据，指出此前被广泛引用的繁殖率下降和幼体存活恶化结论源于样本误用，并不成立。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fb56a50b7a016af37e4599f091c40157_720w.jpg?source=8673f162" alt=""><figcaption>岛上植被属于低矮苔原类型，以地衣、苔藓、禾草和莎草为主，木本植物极度贫乏。</figcaption></figure>
-<p>崩溃发生前，犊鹿与母鹿比例仍约为 60∶100，年幼个体结构和性别比符合一个仍在快速增长的种群特征，夏季瘤胃蛋白含量保持在 16–21%，并不存在可量化的致命营养不足信号。虽然地衣资源已在长期高强度利用下显著退化，这一过程确实预示着未来会出现密度依赖调控，但从生态动力学上看，其结果应是多年尺度的逐步下降，而非一次性断崖<sup>[3]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f882e3b9a9a1033376494686733530de_720w.jpg?source=8673f162" alt=""><figcaption>驯鹿在长期保持高速增长的情况下，并未经历逐年下滑或缓慢调整，而是在 1963–64 年一次性损失约 99%。</figcaption></figure>
-<p>真正触发系统崩溃的是 1963–64 年冬季的极端气候。异常深厚且长期存在的积雪，可能叠加压实雪层与结冰，使岛屿尺度上的取食在整个冬季几乎完全不可达。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc97fe0ce48552c6a3f2abf5e3e4a98c_720w.jpg?source=8673f162" alt=""><figcaption>圣马修岛是一个功能层级极度简化、冗余度极低的封闭系统。</figcaption></figure>
-<p>在这种条件下，决定生死的已不是食物总量，而是食物是否在能量上可获得，最终约 99%的个体在一个冬季内死亡，种群进入近灭绝状态。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-72c2d77f79a1fb8f47f34ec30e924429_720w.jpg?source=8673f162" alt=""></figure>
-<p>这一案例的重要性在于，它揭示了孤岛这种低冗余、不可逃逸系统中的核心风险结构。即便没有捕食者，单一草食动物的长期高速增长也会把系统推入对极端气候高度敏感的临界状态。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2babd9d8d0231828a1b0a506bd35181a_720w.jpg?source=8673f162" alt=""></figure>
-<p>一旦遭遇覆盖全岛、持续时间足够长的极端冬季，就可能导致数量庞大的食草动物全军覆没。</p>
-<hr>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b20be484975670d38e6abd52417386df_720w.jpg?source=8673f162" alt=""><figcaption>快乐岛上的狼</figcaption></figure>
-<p>第三个案例来自阿拉斯加的快乐岛（Pleasant Island），这是目前关于狼与鹿在孤岛系统中长期会发生什么最具决定性的实证研究。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9b85eef583a89586404bb64e3c5452de_720w.jpg?source=8673f162" alt=""><figcaption>快乐岛的鹿指的是西卡黑尾鹿（Odocoileus hemionus sitkensis），这是黑尾鹿在阿拉斯加沿海的亚种。</figcaption></figure>
-<p>2013 年狼首次在岛上形成稳定种群后，鹿的数量在极短时间内被显著压低。基于长期鹿粪团调查数据，2015–2016 年鹿密度下降约 72%，到 2018 年与 2021 年的调查中首次出现零记录，配合猎获量从此前的年均二十余头骤降至不足 2 头，表明鹿在功能意义上已接近局地灭绝<sup>[4]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f4de16db3ddfb86aff035f581b0b1ea1_720w.jpg?source=8673f162" alt=""><figcaption>该鹿体型较小，耐寒耐湿，适应温带海洋性气候，主要取食灌木嫩枝、草本植物和林下植被。</figcaption></figure>
-<p>按传统模型推断，在这样一个面积有限、没有补充来源的岛屿上，鹿崩溃后狼应当迅速因食物不足而随之衰亡，但实际结果并未如此演化。</p>
-<p>关键差异在于快乐岛并非真正意义上的能量封闭系统。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-751767704b725e96c4c635cfeb3a87e5_720w.jpg?source=8673f162" alt=""><figcaption>A 说明快乐岛狼群在空间上高度封闭且常住岛内，B 证明其能量来源已由鹿系统性转向以海獭为核心的海洋补贴，C 则显示这种跨系统输入使狼在鹿几近消失的情况下仍能维持异常高密度。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f5c99ee8bc4db8a21e3411e841e167eb_720w.jpg?source=8673f162" alt=""><figcaption>几十年来，海獭（Sea otters）在北太平洋的种群数量经历了从濒临灭绝到迅速恢复的过程。</figcaption></figure>
-<p>岛屿周边海域在 2000 年代被海獭重新占据，形成了稳定、高密度且全年可获得的海洋生物资源。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d761ed3bd5128e80b3127dfddba529a0_720w.jpg?source=8673f162" alt=""><figcaption>狼捕食海獭</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a7d3f032a98331461ffa6767ac6d016c_720w.jpg?source=8673f162" alt=""><figcaption>海獭残骸</figcaption></figure>
-<p>DNA 粪便分析与稳定同位素结果显示，狼在 2015 年仍以鹿为主食，而到 2017 年后，海獭在狼食谱中的比例上升至 57–97%，鹿的贡献长期低于 10%。这种转变不存在明显季节性，意味着海獭构成了一条持续、可预测的替代能量通道<sup>[4]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4e312fa716ba1164591262837a29fb76_720w.jpg?source=8673f162" alt=""></figure>
-<p>生态学上将这种现象称为似然竞争（或表观竞争，Apparent Competition）。这个概念指的是：两个猎物物种即使从不直接竞争资源，也可能因为共享同一个捕食者而产生负相关的种群动态。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-bc774e6409b770b4e6b7d86330ccd24b_720w.jpg?source=8673f162" alt=""></figure>
-<p>在快乐岛的案例中，海獭与鹿并不争夺相同的食物或栖息地，但海獭的存在维持了狼的高密度，而这些狼反过来对鹿施加了远超正常水平的捕食压力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-224df1a0fe83a8708c533737d43c1fbf_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个机制解释了一个反直觉的现象：在某些情况下，增加一种猎物（海獭）反而导致了另一种猎物（鹿）的灭绝。传统的捕食者—猎物模型假设两者直接耦合，无法捕捉这种三角关系的复杂性。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-caccfe3a98bfb09d31622fe563f5c5aa_720w.jpg?source=8673f162" alt=""><figcaption>A 显示狼进入后鹿迅速崩溃，B 显示同期海獭数量持续上升并成为替代能量来源。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d0e12e4739175df12de6d33b0b0699cc_720w.jpg?source=8673f162" alt=""><figcaption>C 显示狼食谱在 2015–2017 年间由以鹿（红）为主迅速转为以海獭（蓝）为主，D 的稳定同位素结果独立验证了这一从陆源能量向海洋能量的整体跃迁。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-57f92809db20b2b06b901a40a08194ee_720w.jpg?source=8673f162" alt=""><figcaption>这些图直接记录了狼在潮间带主动捕杀并拖拽海獭的全过程。</figcaption></figure>
-<p>正是这条通道，使狼的种群密度不再受鹿数量直接约束，在鹿几乎消失的情况下仍能维持繁殖与高密度存在，其单位面积密度甚至达到已知狼群中的极端水平。</p>
-<p>在此基础上，快乐岛的狼群也并非完全只依赖单一猎物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4c4e569d946719070bf4bc3cc2c4511_720w.jpg?source=8673f162" alt=""><figcaption>快乐岛（蓝色柱）：海獭约一半，鸟类 15%，鱼（含鲑鱼）15%，其他海洋哺乳动物 10%。</figcaption></figure>
-<p>它们已从典型的陆生有蹄类捕食体系，转变为高度依赖海洋资源的海岸型捕食系统。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8a35ba65f7026fd3250771f4aa5ce9aa_720w.jpg?source=8673f162" alt=""><figcaption>港海豹（Harbor seal）是快乐岛及整个阿拉斯加冰川湾（ Glacier Bay ）近岸最常见、最重要的鳍足类。</figcaption></figure>
-<p>除占据核心地位的海獭外，快乐岛狼群还系统性地利用港海豹这一近岸鳍足类资源，在潮滩、礁区及幼体季节性集中区域进行捕食或拾食。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-037b2956cb733f1eb42ffb85c6bcd155_720w.jpg?source=8673f162" alt=""><figcaption>狼花了 30 分钟杀死港海豹并拖上岸。</figcaption></figure>
-<p>同时广泛取食各类近岸鱼类，包括季节性回游的鲑鱼及常驻浅水鱼群。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bfbad26a48c74a7a44257d898c74e775_720w.jpg?source=8673f162" alt=""><figcaption>鲑鱼主要在岛屿周边近岸水域活动，并进入邻近水系产卵。</figcaption></figure>
-<p>此外，岛屿及周边海域丰富的鸟类资源同样被纳入食谱，既包括成鸟，也包括繁殖季易得的雏鸟与鸟卵。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-be8e2f1409032c22f87aa20f5ee511c6_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e8461ba4983e0935ecc116102330542d_720w.jpg?source=8673f162" alt=""></figure>
-<p>快乐岛的意义在于，它直接给出了最后谁会先崩的条件性答案。</p>
-<p>狼是否会因鹿的崩溃而自身走向灭绝，并不取决于捕食强度本身，而取决于系统中是否存在结构上独立于鹿的替代猎物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-959b1d2aac1074023585cf6675654302_720w.jpg?source=8673f162" alt=""></figure>
-<p>一旦这种跨系统的补贴存在，狼不但不会先崩，反而会把对鹿的压力推向不可逆的极端。相反，在缺乏替代通道的纯陆地孤岛中，同样的过程则往往以狼的彻底消失收场。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-04956a3788c9f8f3a3fcb9f0cf4d4da2_720w.jpg?source=8673f162" alt=""></figure>
-<hr>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b5ae41264446bb052531ef0dfb5fb18c_720w.jpg?source=8673f162" alt=""></figure>
-<p>回到最初的 20 只狼和 500 只鹿设定，可以看出这是一个短期看似富足、长期极其危险的结构。</p>
-<p>我们可以做一个粗略但有启发性的估算。</p>
-<p>一只成年狼的日均能量需求约为 2.5–3 公斤肉，年消耗约 1000 公斤。20 只狼每年需要约 20000 公斤肉类供给。一只成年鹿的可食用部分约为 50–60 公斤，这意味着 20 只狼每年需要捕杀约 350–400 只鹿才能满足基本能量需求。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3736b81674d82f0cf299e863c9b996f2_720w.jpg?source=8673f162" alt=""></figure>
-<p>但 500 只鹿的年净增长远达不到这个数字。假设鹿的年繁殖率为 20%（即每年新增 100 只幼鹿），即便忽略自然死亡和其他损失，净增量也只有约 100 只。也就是说，狼群每年至少会造成 250–300 只鹿的净亏空。</p>
-<p>按照这个速度，鹿群在两年内就会跌破 100 只。而当鹿密度降到每平方公里不足 2 只时，狼的搜寻成本急剧上升，捕猎成功率下降到无法维持能量平衡的水平。此时狼群会经历繁殖停止、幼崽大量死亡、成年个体饿死或因争夺食物而互相攻击致死。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-554afbd0f465ed3aedf095ac295da27c_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个时间尺度通常是 3–5 年。鹿可能在极低密度下残存几十只，在狼消失后缓慢恢复。</p>
-<p>狼则几乎不可能熬过这一阶段。除非像快乐岛那样存在替代猎物，否则狼先崩是大概率结局。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-573d87e7a5f7535aab2f02479326e9d2_720w.jpg?source=8673f162" alt=""></figure>
-<hr>
+<p><strong>一、五子棋的一些小常识</strong></p>
+<p>首先说一个可能很多人都不陌生的结论，五子棋在很早很早之前就已经被证明黑棋必胜。这一个系列的上一篇文章已经介绍了恒星开局一个分支的黑棋必胜法，下图是另一个分支，也是白 4 最强防分支的必胜分支：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d66bb444ecd23956a021c8c511f251b_720w.jpg?source=8673f162" alt=""><figcaption>恒星开局最强分支</figcaption></figure>
+<p>在这一变化中，白棋虽然防守非常顽强，但黑棋仍然有必胜的方法。黑棋必胜这一结论不仅仅针对恒星这一开局，在无禁手规则下，五子棋常见的二十六种开局中，有二十五种开局是黑方必胜的（有一些开局尚无定论，但开局胜率即在百分之九十以上，很大概率为必胜）。只有一个很特殊的开局是黑白平衡，即彗星局。这个开局后续的变化很有意思，如果后面有机会讲到三手交换这一规则会详细介绍彗星开局。</p>
+<p>如果你仍然不相信黑棋必胜，或者你想学习黑棋如何必胜，你可以点开下面这个网站，选择人机对弈。在这一模式中，你只能扮演白棋，而人机所采用的黑棋必胜走法不会给你留下任何挣扎的机会：</p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//www.bytedance.ai/gomoku.html" target="_blank" rel="nofollow noreferrer">ByteDance AI Gomoku</a></p>
+<p>如果你有一定五子棋基础，对恒星开局的最强分支感兴趣，你可以看看<strong>摆棋老李</strong>对这一分支的讲解：</p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1YL4y1G73K" target="_blank" rel="nofollow noreferrer">五子棋经典定式（3）_哔哩哔哩_bilibili</a></p>
+<p>如果你想了解五子棋二十六开局的来源，可以阅读<strong><span class="nolink">旁白 2.0</span></strong>的文章：</p>
+<p><a class="internal" href="https://zhuanlan.zhihu.com/p/549399379">旁白 2.0：五子棋的 26 种开局方式</a></p>
+<p>所以五子棋一大致命缺点就是黑方是必胜的，毕竟先下一颗子在五子棋的规则下有着巨大的优势。因此，你会发现，五子棋规则变迁的历史其实就是一个不断打补丁的过程。在最开始，人们做出的尝试是禁手规则。这一开局规定：黑方不能形成三三、四四、长连等棋形。其中，三三指一步形成两个活三，四四指一步形成两个冲四或活四，长连指一步形成六子及以上的连珠。</p>
+<p>关于禁手规则的更多细节依然可以看看<strong>摆棋老李</strong>的讲解：</p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1yV41187D2" target="_blank" rel="nofollow noreferrer">五子棋“禁手规则”_哔哩哔哩_bilibili</a></p>
+<p>禁手在很大程度上削弱了黑棋的优势，禁手规则不仅仅限制了黑棋取胜的手段，也给了白棋更多的可乘之机。白棋可以通过冲四、活三等手段迫使黑棋一步形成两个活三或是冲四，按照规则，黑棋被判负。于是，在禁手规则下，许多在无禁手规则中平衡或是黑必胜的开局在禁手规则中变为了平衡或是黑必败开局。例如彗星开局在无禁手规则中是黑白平衡，在禁手规则中就变为了一个白棋必胜的开局。但这种规则并没有产生足够多的平衡开局，大多数开局仍然是有一方必胜或者一方优势巨大。于是，为了五子棋变化的多样性，更多的补丁出现了。</p>
+<p>例如最先出现的五手两打规则。在五手两打规则下，前三手仍然正常进行，不过在下完前三步形成开局后，此时白方可以选择交换执黑。也就是说，在后续的棋局中，之前执白的一方改执黑棋，之前执黑的一方改执白棋。但这还不够，白棋第四手仍然正常进行，第五手时，新的规则出现了。这一步黑方需要提供两个地方，表示自己下一步会下在这两个地方中的一个，即提供两个打点。之后，白棋去掉其中一个打点，留下另一个打点，棋局继续正常进行。</p>
+<p>也就是说，“交换”的规则保证了开局的公平性，即黑方不会开出一个对自己特别有利的开局，否则白方就会选择交换执黑。”两打“的规则又保证了变化的多样性，也就是说，黑方被留下的那个打点一般来讲不会太强，也就有更多的开局可以用于比赛。</p>
+<p>以瑞星局为例，在五手两打规则出现之前，这是一个黑方必胜的开局。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-53f242fbfca6303a3f938d4ec8a8166a_720w.jpg?source=8673f162" alt=""><figcaption>瑞星开局</figcaption></figure>
+<p>上图中白棋的第四手是瑞星开局的最强防，后续黑 5 下在两个地方可以必胜：G9 或 I7。</p>
+<p>然而在五手两打规则出现之后，这个开局白 4 的走法便变得不一样了。常规走法下的最强白 4 在五手两打规则下不一定是最强的白 4，如果白棋像常规开局那样走在 I9，黑棋有两个必胜点，白棋难逃失败的结局。而如果白棋像下图中一样走在 I10 就不一样了：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7c71b52750ed8cdbf41b3f2223f0d42a_720w.jpg?source=8673f162" alt=""><figcaption>五手两打规则下最强的白 4</figcaption></figure>
+<p>如果没有五手两打规则，黑棋第五手下在 I7 仍然可以较为轻松地取得胜利。但有了五手两打规则之后，场上的局势就不一样了。黑棋显然会将 I7 作为，但黑棋环顾四周看了一圈之后懵了，因为这个局面下，<strong>黑棋除了 I7 找不到其他的必胜点！</strong></p>
+<p>于是黑棋只能退而求其次，选择下图中的位置（I6）作为第二个打点：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8d00a7a1be2d7fd1abbb1c8a5d71d49f_720w.jpg?source=8673f162" alt=""><figcaption>瑞星二打</figcaption></figure>
+<p>这一个打点就有意思了，在白棋去掉作为第一打点的 I7，留下第二打点 I6 之后，这就变成了一个对黑白双方平衡的局面。所以，这也印证了上文所说的：<strong>常规走法下的最强白 4 在五手两打规则下不一定是最强的白 4</strong>。相信通过瑞星开局的例子你也能体会到这一点。</p>
+<p>五手两打的规则流行了很长一段时间，但之后却又该用了其他的规则，例如著名的<strong>塔拉 - 山口</strong>规则：</p>
+<p>在这一规则中，棋局按照如下步骤进行：</p>
+<ol>
+<li>黑方下第一手棋，这一手必须落在天元（即棋盘正中央）。此时执白的一方可以选择交换执黑。</li>
+<li>白方下第二手棋，这一手必须落在棋盘中央 3×3 的区域内。此时执黑的一方可以选择交换执白。</li>
+<li>黑方下第三手棋，这一手必须落在棋盘中央 5×5 的区域内，构成 26 开局中的一个开局。此时执白的一方可以选择交换执黑。</li>
+<li>白方下第四手棋，这一手必须落在棋盘中央 7×7 的区域内。</li>
+<li>此时执黑的一方有两种选择：</li>
+</ol>
+<p><strong>选择一：</strong></p>
+<ul>
+<li>此时执黑的一方可以选择交换执白或仍然执黑。</li>
+<li>此时的执黑方在棋盘上放第五颗子，此时的执白方仍然可以选择交换执黑或仍然执白。</li>
+<li>此后白方继续下第六子，没有任何位置限制，棋局按禁手规则正常进行。</li>
+</ul>
+<p><strong>选择二：</strong></p>
+<ul>
+<li>此时执黑的一方指定五个打点，表示自己的第五手棋会下在这五个打点中的一处（打点不能对称）。</li>
+<li>白方去掉四个打点，留下一个打点作为黑方第五手。</li>
+<li>此此后白方继续下第六子，没有任何位置限制，棋局按禁手规则正常进行。</li>
+</ul>
+<p>以上便是对<strong>塔拉 - 山口</strong>规则的简单介绍，如果你想继续了解其他的规则例如<strong>索索夫 -8</strong>等，可以阅读<strong><span class="nolink">左蹦蹦和右跳跳 2H</span></strong>的回答：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/375400094/answer/2454295442">五子棋的规则是什么？</a></p>
+<p>由此可见，真正专业比赛中的五子棋规则十分复杂，在保证对局双方公平性的同时也保证了棋局变化的多样性。但缺点也显而易见，这些专业规则造成了业余玩家与专业玩家之间的一道巨大鸿沟，普通玩家想要真正将禁手规则融会贯通就相当困难，更别提这些专业的五子棋竞技规则。所以我认为，五子棋如今“必胜阵法”横行，许多人不了解五子棋更深刻的理论，很大一部分的原因可以归结为五子棋复杂的规则。</p>
+<p>我觉得给一个棋类的规则打补丁是相当正常的现象，例如围棋中同样存在黑棋占优的现象，但“<strong>贴目规则</strong>”就很好地解决了这一问题，在尽量不破坏原有规则的基础上让对局的公平性得到了保障。而五子棋这边的规则完全就是对之前规则的魔改，每一种规则下的五子棋都像是一种单独的棋类，而非同一种棋类。而且我个人认为，禁手规则虽然让五子棋的玩法增加了、变化增加了，但让五子棋变成了一种黑白双方不对称的棋类，尤其是在后期复杂交换规则介入之后，禁手规则显得毫无必要。之所以没有删去是为了照顾先前棋手的感受，就像从禁手规则过渡到五手两打时，之前的棋手们所背的定式仍然能用上。从五手两打过渡到塔拉山口等规则也是同理。</p>
+<p>让整个五子棋圈子中的棋手接受禁手规则很难，但让整个五子棋圈子脱离禁手规则、脱离打点规则更难。</p>
+<p>所以对于刚入门的五子棋新手们来说，我想在这里介绍一种无禁手规则下的平衡规则<strong>Swap2</strong>：</p>
+<p>Swap2 规则的前身是 Swap 规则，Swap 规则下的棋局进行相当简单，只有短短两行：</p>
+<ol>
+<li>一方在棋盘上任意三个地方放两颗黑子、一颗白子构成一个开局。</li>
+<li>另一方选择执黑或执白。之后棋局按正常无禁手规则进行。</li>
+</ol>
+<p>这一规则看起来十分完美，简洁的同时兼具平衡，但细想之下却经不起推敲。如果你的对手给了一个下图中的开局，你会如何应对？</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f35c8af9cc64e0c838c908ea1c21e866_720w.jpg?source=8673f162" alt=""><figcaption>选黑还是选白？</figcaption></figure>
+<p>这个开局我可以先说结论，是一个黑白平衡的开局。黑方稍占一些优势，但优势并不明显。而且这个开局离谱的地方在于，如果你选了白棋，但白棋只有下在一个地方才能维持住脆弱的平衡，其他地方都是必败。如果你选了黑棋，对面早有研究下出了唯一一处能维持住平衡的白 4，遗憾的是，能维持住平衡的黑 5 也只有一个。</p>
+<p>这便是一个典型的生死局，对面早有研究而你一无所有，只要走错一步就是输棋。就算你走对了，你和准备好最强应对的对手也只是面对一个平衡的局面，胜率依旧是五五开。这还怎么玩？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d8a90e071a37147c1101ee6dfcf5140b_720w.jpg?source=8673f162" alt=""><figcaption>katagomo 给出的胜率图</figcaption></figure>
+<p>于是，便诞生了 Swap2 规则，这个规则同样简洁，只不过加了一条：</p>
+<ol>
+<li>一方在棋盘上任意三个地方放两颗黑子、一颗白子构成一个开局。</li>
+<li>另一方选择执黑、执白或再在棋盘上添加一黑一白两颗棋子，让对方选择执黑或执白。</li>
+<li>选完之后，棋局按无禁手规则正常进行。</li>
+</ol>
+<p>这样，两边便平衡了，不存在一方提前研究的情况。毕竟添加的两颗子有几万种添法，其中总有几十种是平衡的，对面不可能全部预料到。</p>
+<p>还是以之前那个生死局为例，你可以同样用添加两颗子的方法搞出一个更加抽象的开局，以其人之道还治其人之身：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-bed71e9021052e0d98ff6d388750479e_720w.jpg?source=8673f162" alt=""><figcaption>以其人之道还治其人之身</figcaption></figure>
+<p>值得一提的是，这个五颗子构成的开局仍然是平衡的。</p>
+<p>读完这篇文章之后，想必你对五子棋的基本常识已经有了一定了解。如果你觉得这篇文章还算有点意思的话，可以点个赞，关注这个系列，我会继续写下去~</p>
+<p>另外，这个系列接下来的部分会讲解实战中的技巧，如果你想试试自己的实战水平，可以尝试以下两个网站：</p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.playok.com/" target="_blank" rel="nofollow noreferrer">playok</a></p>
+<p>这个网站不是专门的五子棋网站，规则支持无禁手和 Swap2，上面经常会有一些世界级大佬下棋，人均水平比较高。但值得一提的是，这个网站采用的是六不胜规则，即对于对局中任意一方，形成六子及以上的连珠都不算取得胜利，对局继续进行。</p>
+<p>playok 的界面做得比较抽象，如果将来有机会可以讲一讲玩法。</p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//renjuworld.net/renju/" target="_blank" rel="nofollow noreferrer">五林五子棋 - 专业的五子棋比赛和学习平台</a></p>
+<p>这个网站是专门的五子棋网站，专业场支持很多种规则，大佬也很多，不过我玩得比较少。</p>
+<p>五林五子棋上面会有很多很好的功能，比如说五子棋的题目（类似围棋死活题，即一方如何取得胜利），比赛等等。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/10907250524">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/284634562">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786757</guid><pubDate>Thu, 15 Jan 2026 18:30:21 GMT</pubDate></item><item><title>现在一个人的密码太多，该如何记住自己的密码？</title><link>http://daily.zhihu.com/story/9786760</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-8b98ae52bfcaa5a28f6e73a0cbdbf6c3.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786773</guid><pubDate>Fri, 16 Jan 2026 01:19:00 GMT</pubDate></item><item><title>为什么我的画线条那么乱，怎么样才能使线条干净又简洁？</title><link>http://daily.zhihu.com/story/9786775</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0a8386a8fc0e6dc2b95d19f4e178af0f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -321,170 +224,128 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-c852a57a7f68aecfb425c8713eb9ff6f_l.jpg?source=8673f162">
-<span class="author">周不疑</span>
-<a href="https://www.zhihu.com/question/445012954/answer/1901276971821950435" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-c9e8b4c1ccec19aaa9f69cbf35a2ae7f_l.jpg?source=8673f162">
+<span class="author">周磊，</span><span class="bio">公众号「野望绘画」｜询课微信：zhouleispeak</span>
+<a href="https://www.zhihu.com/question/407754188/answer/1990460055615722491" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>其实记个根号数字就行了，找个自己喜欢的数字，比如我就比较喜欢 6</p>
-<p>√6=2.4494897427831</p>
-<p>银行密码取前六位就好了，</p>
-<p>比如:244948</p>
-<p>其他应用或者网站密码取个 10 位</p>
-<p>比如 2449489742</p>
-<p>也可以加个小数点增加复杂度</p>
-<p>2.449489742</p>
-<p>而且这个方法偶然性很高，别人无从猜测，你可以选√11，√20，甚至√101，乃至于你喜欢的年份，比如√2026，以此类推</p>
-<p>当然，你有喜欢的能够开根的数字，，也可以在开一次根，比如√√9</p>
-<p>这样，你只需要记住一个幸运数字，然后根据这个数字进行根号计算，取几位，从第几位开始取，完全看自己的喜好</p>
-<p>就相当于一个数字锚点，甚至连你自己都有可能记不住原始密码，但你却可以轻松的通过口算，或者打开计算器获取原始密码</p>
-<p>完美解决太容易的密码让亲人朋友一猜即着，隐私泄露的可能</p>
+<p>给你一点时间，你能画好单根竹子。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ab8bd7f6f719d378372fb0b38585d7b_720w.jpg?source=8673f162" alt=""></figure>
+<p>但如果面对一大片竹林，你容易画得很乱。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-33d148af2a7073315edf03ce85e11f6c_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是因为：简单的画面，你可以通过做加法、堆时间来做好；但复杂的画面，你仅仅靠做加法，只会让它看上去臃肿、混乱。</p>
+<p>所以——要画好复杂的画面，你需要学会做<strong>减法</strong>。</p>
+<p>就像这一片竹林，你只需选取几根竹子、几片竹叶来细化；其他的部分，通过减法来概括、舍弃，就能变成一张好看的画。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6a0988b87f4cc06afc9abff13fded892_720w.jpg?source=8673f162" alt=""></figure>
+<p>面对一片水面，你也不需要将每条波纹都画出来。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4a2fb0dab6e4a40b3bdfc9ec60ff4d59_720w.jpg?source=8673f162" alt=""></figure>
+<p>你只需选几条关键的波纹来刻画，其余的用减法概括、舍弃，画面会更自然。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a4cbfdfe6031dda2957d59ee03729110_720w.jpg?source=8673f162" alt=""></figure>
+<p>不仅仅是绘画，生活中也是如此。</p>
+<p>就像你出门旅行时，想要了解一个城市的美食，你没必要把这个城市每家餐馆的每一道菜都吃一遍。</p>
+<p>处在一个信息爆炸的时代，我们每个人都会面临这种<strong>“混乱与臃肿”</strong>的信息处境，我们需要知道如何巧妙的做减法。</p>
+<p>而绘画中，“减法”的案例有很多。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e2063cda46f2fffeaf2d61cc18f4426e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b192c87979197444b6ac64211c99b877_720w.jpg?source=8673f162" alt=""></figure>
 <hr>
-<p>2025.5.2</p>
-<p>很多朋友在评论区问，如果是复杂密码或强密码，比如要加英文和特殊字符的密码怎么记住？</p>
-<p>这其实也很简单</p>
-<p>我最常用的密码是：Zxcvbnm.3.14</p>
-<p>有时候为了安全也会使用很多位，比如：Zxcvbnm3.1415926</p>
-<p>有聪明的小伙伴也发现了</p>
-<p>我是采用 26 键最后一排的字母作为前缀，首字母大写，再加上圆周率来组成密码</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-dff281b1a9d88ce224724b374ce24d33_720w.jpg?source=8673f162" alt=""></figure>
-<p>当然，记不住圆周率的同学也可以继续用根号法</p>
-<p>比如用√6 来组成密码：zxcvbnm2.449489</p>
-<p>这是非常简单易记，但是暴力破解很难破解的密码</p>
-<p>为了安全，也可以用 26 键的第一排或者第二排，也可以根据自己喜好截断到第几位。</p>
-<p>比如只取 26 键盘第一排前 6 位，加上根号 6 计算到第 6 位，再加首字母大写，那就是：Qwerty2.449489</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8f6fdc5e396d15494c2a01c7b85f3663_720w.jpg?source=8673f162" alt=""></figure>
-<p>这样你就只用记住 26 键第一排，√6 取到第 6 位，四舍五入就只用记住一个 6</p>
-<p>当然你也可以取 26 键第二排：</p>
-<p>Asdfgh2.449489</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-eca54797a9b92c477b77173ab3f750a6_720w.jpg?source=8673f162" alt=""></figure>
-<p>甚至是第三排：</p>
-<p>Zxcvbn2.449489</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1e6be995011f845bfb92e5ddb49e02ac_720w.jpg?source=8673f162" alt=""></figure>
-<p>这样你就得到一个，大小写字母 + 数字 + 特殊字符的强密码，甚至你自己都记不得原文</p>
-<p>但是你只要有一个键盘，你就能轻松得出原始密码</p>
-<p>当然你担心会有人猜到你的喜好，或者有很大可能雷同</p>
-<p>还有些网站不允许用键盘相邻的字母</p>
-<p>你也可以从上到下从键盘取字母，比如从键盘最左侧，从上到下取英文字母：</p>
-<p>Qazwsx2.449489</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ed5077791ee666e075072d860ecb2e5_720w.jpg?source=8673f162" alt=""></figure>
-<p>也可以从键盘最右侧，从上到下取字母：</p>
-<p>Plmokn2.449489</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bd7e76b4fa8e09347fc9bf326eb6f634_720w.jpg?source=8673f162" alt=""></figure>
-<p>你甚至可以在键盘上倒着取，跳位取，斜着取</p>
-<p>比如从 26 键第一排，输完一个字母，就间隔一个字母，跳着取：</p>
-<p>Qetuoa2.449489</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7234154417890ea0f297131165259a36_720w.jpg?source=8673f162" alt=""></figure>
-<p>大家可以给根据自己的喜欢，取第几排，取几位，上下左右，左斜右斜，间隔几位，自由调整</p>
-<p>保证量子计算机来了都摇头</p>
-<p>保证你的亲朋好友一脸疑惑的看着你的 Windows 登录提示一个 6</p>
-<p>你却键入雨下，噼里啪啦，从而惊叹不已</p>
+<p><strong><strong>实践一下</strong></strong></p>
+<p>我们可以通过改良一张画，来学习“减法”的使用，以及体验它的魅力。</p>
+<p>周末，你出门郊游，拍了一张游玩的照片。回来后，你决定把它画下来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-542071033b4823b3354e7ad2d768b5e3_720w.jpg?source=8673f162" alt=""></figure>
+<p>你对它有感情，画得很细，什么都想记录下来。</p>
+<p>但你没有想到的是，你画得如此用心，画面却越画越乱，不受控制。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fd0cb87ba6356b87f770e9dfe822068a_720w.jpg?source=8673f162" alt=""></figure>
+<p>你想起了我前面说到的：要处理好复杂的画面，就要会做减法。</p>
 <hr>
-<p>2025.5.5</p>
-<p>又有小伙伴在评论区问</p>
-<p>各个网站的要求都不一样，该怎么记？</p>
-<p>所有密码都用同一个，是不是太不安全了？</p>
-<p>所以，这个作者就是逊啦，方法也是完全行不通的啦</p>
-<p>还有你是不是用的另一个根号数字，为什么我完全登不上你的知乎？</p>
-<p>我特么，轮圆了就是一个拥抱.....</p>
-<p>我特么真的谢谢你这么关心我的知乎密码，谢谢阿</p>
-<p>第一个问题很好解决，其实所有网站无非是数字 + 大小写字母 + 特殊字符</p>
-<p>基本上你只要输错一次，你就会得到弹出的错误提示</p>
-<p>只需要删除原密码中多出的特殊字符或者字母，就可以直接登录成功</p>
-<p>比如你只需要记住 Zxcvbnm2.449489 这个原密码</p>
-<p>根据要求删掉特殊字符</p>
-<p>Zxcvbnm2449489</p>
-<p>或者删除大写字母</p>
-<p>zxcvbnm2449489</p>
-<p>或者只需要数字</p>
-<p>2449489</p>
-<p>只要网站有提示密码规则</p>
-<p>就只需要原密码的基础上做减法，最少只需要两次就能登录成功，大不了多试几次</p>
-<p>这个问题虽然不排除，但也基本不成立</p>
-<p>第二个问题，所有密码都用同一个是不是太不安全了</p>
-<p>这个确实很无解，我的做法是在密码中加入网站品牌的缩写</p>
-<p>比如知乎，那就再加一个 zh 的首字母拼音缩写</p>
-<p>第三个问题，我的知乎密码</p>
-<p>其实有些小伙伴猜对了，我的日常生活中，会使用的确实不是根号，而是圆周率</p>
-<p>我个人比较喜欢圆周率，因为总觉得它隐藏着宇宙的终极密码</p>
-<p>我也推荐大家一些重要的密码使用以下方法来设置</p>
-<p>在这个网站</p>
-<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//3.1415926.com.cn/" target="_blank" rel="nofollow noreferrer">PIULOVE 派数数</a></p>
-<p>你可以快速得出，你想要的任意数字组合，在圆周率的第几位</p>
-<p>举个最简单的例子：</p>
-<p>123456</p>
-<p>在网站查询结果如下</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5a57904cd1b0cd2a436b78782f9159b7_720w.jpg?source=8673f162" alt=""></figure>
-<p>那么你的密码就可以设置为：2458885</p>
-<p>当然如果你嫌密码太短，你也可以从 123456 后面开始取 10 位：</p>
-<p>3491873100</p>
-<p>在生活中需要相对安全的场景，用圆周率 + 日期来组成密码即可</p>
-<p>以我的最难忘的一个日子举例，2012 年 07 月 14 日</p>
-<p>那么就是 20120714，根据网站结果</p>
-<p>它在圆周率的小数点后的 40857647 位</p>
-<p>密码可以就是：40857647</p>
-<p>至于为什么记得那么清楚，那是因为上小学，家境贫寒的我</p>
-<p>拿着早餐钱 2 块钱，饿着肚子等到午休时</p>
-<p>跑去学校小卖铺买了人生中第一包辣条，欲与众小伙伴分食</p>
-<p>发现居然是过期的！过期的！过期的！</p>
-<p>最气的是，那个狗老板以辣条开封为由，拒不退款！</p>
-<p>此事让我在小伙伴面前丢尽了颜面</p>
-<p>由此日期，乃至今日，依稀回忆时，仍不免咬牙切齿，扬天大骂。</p>
-<p>无良奸商，校长亲戚，汝罔活四十有六，平日低价高卖，民脂民膏吃得脑满肥肠仍不思悔改</p>
-<p>稚子孩童，祖国花朵，汝何忍心售于过期辣条，戕害其胃，毒其饥肠，汝何其毒也</p>
-<p>(此处省略 800 字不写)</p>
-<p>……</p>
-<p>言归正传</p>
-<p>比如集帅们未来的 07 年的 18 岁女友的生日是 2007 年 05 月 20 日</p>
-<p>那么她的生日就在圆周率后的 41877630 位</p>
-<p>密码也就是：41877630</p>
-<p>这种密码的适用场景可以用于手机的私密空间，双开系统等等</p>
-<p>哪怕被女友查岗，也可以理直气壮的回应</p>
-<p>我真不知道密码呀，宝宝你要相信我呀</p>
-<p>实在瞒不过去了，也可以把这个生活的小彩蛋告诉她</p>
-<p>然后大声狡辩，是谁把这么多学习资料放在我手机里的，是谁？是谁？</p>
-<p>……</p>
-<p>在评论区中，做程序员的小伙伴，争论最多的问题就是不够安全，容易撞库</p>
-<p>这个问题也可以完美解决了</p>
-<p>首先这样的网站有很多，大家完全可以使用其他网站</p>
-<p>无需担心某一网站通过记录你的查询来获取到你的密码</p>
-<p>其次在不结合其他信息的情况下，网站无法精准定位到你这个人，也无从谈起利用这些信息</p>
-<p>最后，这个方法区别于密码本的地方，它是使用数学手段来得出的密码，不依赖任何磁盘来存储</p>
-<p>杜绝了因为网盘失效，密码本软件失效导致的密码丢失</p>
-<p>因为这样的网站属实是有很多，甚至有条件的朋友可以自己算一下</p>
-<p>至于高阶的使用技巧，比如 hash，base64，10 进制转 36 进制，都是可行的</p>
-<p>但我个人觉得没有这个方法浪漫</p>
-<p>圆周率是那种无序的深邃，且有种独特的浪漫，几乎所有数字的组合都能在圆周率中找到</p>
-<p>足可作为此生最难忘的一个数字，亦或者一个日期的加密方式</p>
-<p>讲到这里，有些朋友可能还是有疑问</p>
-<p>天天去网站查密码，这个方法不方便呀</p>
-<p>如果我有高强度使用，且需要记住的密码，还有什么其他办法吗？</p>
-<p>有的，兄弟，有的，这样的方法还有“9”个</p>
-<p>还是使用 26 键盘法</p>
-<p>我举个例子，比如 123456，在第一排键盘中分别对应 QWERTY</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-56672e3e1d73bd0852ccf95300c19524_720w.jpg?source=8673f162" alt=""></figure>
-<p>好，那么√6 等于 2.449489......</p>
-<p>那么在键盘中的按照这个顺序输下去，那就是 w.rrorio</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6d6011cdffeb629f1cccf9c80dfa3ebe_720w.jpg?source=8673f162" alt=""></figure>
-<p>也可以用 26 键第二排输入，忽略 0 不输入即可</p>
-<p>使用 26 键输入第三排输入，忽略 9 不输入即可</p>
-<p>这样你就完成了常规数字到字母的加密，再结合前几种方式组合加密，你可以轻松得到一个简单易记的强密码</p>
-<p>当然，也可以用 9 键来输入，省略掉小数点后：</p>
-<p>chizhux（吃住行）</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-47beef898a4c3a0651baf98e2c9b66c2_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是也有缺点就是电脑网站无法使用 9 键可能会导致记不起密码，在手机不离身的时代，倒也无伤大雅</p>
+<p><strong><strong>从普通到还行</strong></strong></p>
+<p>你的画面已经画满了，不好再修改擦除，删减成本太大了。</p>
+<p>如果实在要改，你只能通过在重要的<strong>主体</strong>上，去做更多的<strong>加法</strong>，来让画面有主次，或许会没那么乱。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1d12de7d497338797812815b3793e657_720w.jpg?source=8673f162" alt=""></figure>
+<p>可是，你很清楚，这是下下策。</p>
+<p>疲惫的你发现，你在一件事情上，常常会做着做着就忘记了自己最初的目的，陷入复杂琐碎的细节中，把自己搞得很累。</p>
+<p>庆幸的是，经过对主体的强化后，画面有了一个聚焦点，对比之前，确实没那么混乱了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d66669ca9c4dfe55d5e4624fe5233404_720w.jpg?source=8673f162" alt=""></figure>
+<hr>
+<p><strong><strong>从还行到不错</strong></strong></p>
+<p>但现在的问题也很明显，这样画画真的太累了。你浪费了太多精力在细节刻画上。</p>
+<p>细节画了这么多，<strong>主次层级</strong>却没区分出来。</p>
+<p>回看之前你的画面，为什么会显得乱？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d1da452ee70fcfb5871830d7f182baf2_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果你眯起眼睛，用色块的方式来呈现的话（右上图）。你会发现是因为它一片灰，没有聚焦点。</p>
+<p>而你改完后之所以好一点——</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f7d7e78a0e1233dccb757f89683f02c_720w.jpg?source=8673f162" alt=""></figure>
+<p>是因为你增加了一个重色块（右上图）。所以主次层级才会更分明。</p>
+<p>你会发现，<strong>主次层级</strong>的区分，比抠细节更重要。</p>
+<p>我们应该把精力重新分配一下。现在，我们重新设计画面，尝试用最少的笔墨画出这张画。</p>
+<p>首先，我们可以先假设，我们这里最初设定的主次层级是这样的。从主到次是：（1）-（2）-（3）。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-72e809e5f75b2b3c3f13ab2de22c3f4a_720w.jpg?source=8673f162" alt=""></figure>
+<p>依据<strong>「黑白对比」</strong>的原则，对比越强的地方，越容易成为主体，对比越弱的地方越容易成为次要内容。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f845f3e3665460aa0230f12bfdab95bc_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，这个画面，你也可以设计出无数个色块排列的草图。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8dc44061e381ecb6913af17a42a67acc_720w.jpg?source=8673f162" alt=""></figure>
+<p>只要能凸显主次层级，以上这些，都是成立的。</p>
+<p>最终你选择了留白较多，黑色最少的一个方案。因为你觉得这样更能够节省后面正稿的笔墨。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-12c64eb01081174bd215586dbf58d95e_720w.jpg?source=8673f162" alt=""></figure>
+<p>根据这个小稿，你很快就画完了这张画。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff73f8c7cd76c39cd33eaf2dca20925e_720w.jpg?source=8673f162" alt=""></figure>
+<p>一板一眼的你，从来没想过——画画居然还可以这样画！对比之前的画，现在的画面太省力了，而且更放松。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-99eb5ad6549951946d72d19bd4dfeeca_720w.jpg?source=8673f162" alt=""></figure>
+<p>你第一次真正意义上体会到了做减法的快乐。</p>
+<hr>
+<p><strong><strong>从不错到更好</strong></strong></p>
+<p>如果你对“减法”有更高的追求，接下来一定要看看贝塔老师如何更高级的使用「减法」，对它进行进一步地改良与讲解。</p>
+<p>现在的画面有主次了，也很轻松，但它的细节处理得还是太简单了一些，不耐看。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff73f8c7cd76c39cd33eaf2dca20925e_720w.jpg?source=8673f162" alt=""></figure>
+<p>原因就是，在有限的笔触里，你的线条所<strong>浓缩的信息密度</strong>太低了。你只是在用单一、重复的线条去做色块，缺少变化。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bd63de86b3a0581ac3acfb27493d10c3_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果想要变得更好，你需要考虑到如何让<strong>线条浓缩的信息密度更高</strong>。</p>
+<p>具体来看这个画面，你可以试着通过不同的笔触，来区分几种植物不同的<strong>质感</strong>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fe0795827d1352ffe23e7ffa2900d9e4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b9cd744833468cd1c14724c2586b987d_720w.jpg?source=8673f162" alt=""></figure>
+<p>在<strong>空间</strong>上，你可以通过区分植物的前、中、后，来制造更丰富的空间。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6ad0cce2e1ebcdba9f71d749e5862462_720w.jpg?source=8673f162" alt=""></figure>
+<p>这样一来，画面就更丰富了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c35669e3bfff89d595641ac3e6b09aea_720w.jpg?source=8673f162" alt=""></figure>
+<p>但一定要注意，去制造丰富的同时，不要忘了那个小色稿。所有细节的颜色，眯眼看，要符合你最初设计的那色颜色灰度。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-12c64eb01081174bd215586dbf58d95e_720w.jpg?source=8673f162" alt=""></figure>
+<p>这里用的减法，你可以理解成一种<strong>“极简”</strong>——<strong>用最少的笔墨体现最多的内容</strong>。</p>
+<p>整体对比上一步，你会发现画面更耐看了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-072d4b3153498e943a21dc71d56f1f9b_720w.jpg?source=8673f162" alt=""></figure>
+<p>细节变多，并不会让画面变乱——原因就在于：你这些细节退远看，要“含”在整体的抽象色块里。</p>
+<p>你去看很多大师的作品，都会有这一层考虑。退远看是<strong>简约、有主次层级的色块</strong>，拉近看，是<strong>信息浓缩度</strong>很高的细节。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9c1dafa6b3244f1c048e7206714c7507_720w.jpg?source=8673f162" alt=""><figcaption>伦勃朗作品</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-49ab278ee6ff7df9e48a340443daa676_720w.jpg?source=8673f162" alt=""><figcaption>弗里德里希作品</figcaption></figure>
+<hr>
+<p><strong><strong>总结 & 彩蛋</strong></strong></p>
+<p>减法，就是一种“极简”思维。</p>
+<p>面对复杂的画面时，我们可以通过<strong>「明确主次」、「概括色块」</strong>来让画面变得有秩序。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8dc44061e381ecb6913af17a42a67acc_720w.jpg?source=8673f162" alt=""></figure>
+<p>而更高级的减法，是<strong>「在尽量少的笔墨上，浓缩更多的信息」</strong>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4bba3b2bcc4acb67ab862e1ac710863f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b9cd744833468cd1c14724c2586b987d_720w.jpg?source=8673f162" alt=""></figure>
+<p>放下手中的笔，你若有所思。</p>
+<p>你觉得，「减法」，不仅仅可以用来处理一张画，也可以运用于生活。</p>
+<p>在信息过载的生活中，哪些是自己真正应该关注的<strong>主体</strong>？哪些是<strong>次要的</strong>、需要减掉的？如何把自己的精力<strong>浓缩</strong>在自己最在意的事情上？</p>
+<p>嗯……你盯着这张画陷入了沉思中。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-eb0ac4ee3ab8ea7b31a8d7eff3bfe412_720w.jpg?source=8673f162" alt=""></figure>
+<p>你知道，思考这个问题很重要。或许是时候给自己混乱的生活状态做做减法了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4b462b2a15b85d4c407c673486873222_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果你也和我们一样，对用绘画记录、表达感兴趣，欢迎来这里了解我们的系统课程，我们期待你的加入！</p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzg3NTA4OTkyNA%3D%3D%26mid%3D2247492172%26idx%3D1%26sn%3D59e98e710ab1b739d4fd214b6b6d2323%26scene%3D21%23wechat_redirect" target="_blank" rel="nofollow noreferrer">线上速写基础课【线稿、形状、构图】</a></p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzg3NTA4OTkyNA%3D%3D%26mid%3D2247493634%26idx%3D1%26sn%3D87d81cb91d73cb14f170597c1c3ffcf8%26scene%3D21%23wechat_redirect" target="_blank" rel="nofollow noreferrer">线上素描基础课【黑白灰、光影、结构】</a></p>
+<p>也可以在主页资料卡片加我，详细了解。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/445012954">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/407754188">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786760</guid><pubDate>Thu, 15 Jan 2026 18:30:22 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9786985</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786775</guid><pubDate>Fri, 16 Jan 2026 01:19:01 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9786995</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -499,65 +360,33 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 鸡那么脏，那为啥鸡巢几乎没有蟑螂？</h2>
+<h2 class="question-title">瞎扯 · 你给哪些牛人发过邮件？有哪些结果？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<article class="Post-Main Post-NormalMain" tabindex="-1">
-<div class="Post-RichTextContainer">
-<div class="css-1od93p9">
-<div class="css-376mun">
-<div class="RichText ztext Post-RichText css-119fve5">Q：<a class="internal" href="https://www.zhihu.com/question/1908102066179663619/answer/1909422097379341739" target="_blank">鸡那么脏，那为啥鸡巢几乎没有蟑螂？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ac99c0eff7835ac6d7cec7852dc5722e" target="_blank">@席萝</a> ：阁下可能对鸡的破坏力没什么概念</div>
-</blockquote>
-<figure>
-<div><img class="content-image" src="https://pica.zhimg.com/v2-cd8dcbe035b79e195300d43d10f9a288_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div><img class="content-image" src="https://pic4.zhimg.com/v2-fbd993d9f03c9805115161db46df466b_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-Q：<a class="internal" href="https://www.zhihu.com/question/446221874/answer/1970126914481033723" target="_blank">老师是如何一眼看出学生的作业是在抄答案？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/6a26cf45c9ca9c6a64f8f2d68e71cbca" target="_blank">@瀟雨</a> ：這個夠明顯吧？</div>
-</blockquote>
-<figure>
-<div><img class="content-image" src="https://pic1.zhimg.com/v2-a165f10887a7618da7f6c6c4e8a665c4_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<blockquote>我倒是好奇，這位老兄為什麼連性教育的作業都會抄錯科目⋯⋯</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/320098394/answer/1930962631801406669" target="_blank">你见过有多随意的名字？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/4fab7dc7199d4106ba9db2b1a4e3654e" target="_blank">@熊麻子</a>：裴光</div>
-国家金融监督管理总局保险和非银机构检查局局长</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/579207970/answer/106295197344" target="_blank">有哪些国家特别适合修高铁？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d4277fdb74ff2f476a3a3b7ee4bd05fe" target="_blank">@托卡马克之冠</a>：一张图直接杀死比赛</div>
-智利全国的高铁分布图</blockquote>
-<figure>
-<div><img class="content-image" src="https://pic4.zhimg.com/v2-7be17a96d61daeca251565993e51b507_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-Q：<a class="internal" href="https://www.zhihu.com/question/1941154755620611466/answer/1967212967918538988" target="_blank">钓鱼佬最接受不了什么？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/a353a4e754307cb6db9ca7047f8c4de2" target="_blank">@山河</a> ：有次我在河边闲逛，顺便看看钓鱼佬收获，大多数空军，这时飞来一只夜鹭，盘旋几圈，从河里叼起一条还不错的鲫鱼，特地飞到钓鱼佬旁边炫耀了一下，然后飞走了</div>
-</blockquote>
-<figure>
-<div><img class="content-image" src="https://picx.zhimg.com/v2-c7053752ae4721b9c2bfe7243a8cddab_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div><img class="content-image" src="https://picx.zhimg.com/v2-efe423dca1ba07dfc39842ae053f0995_1440w.jpg" alt=""></div>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</article>
+<p>Q：<a href="https://www.zhihu.com/question/34630803/answer/1963938351603229520">你给哪些牛人发过邮件？有哪些结果？ </a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/086c3890173942225b7f429928f2b94f">@大声讲出来</a> ：不是我，是我大学同学。<br>闲的无聊，给英国大使馆写信。<br>大意就是他非常喜欢英国的乡村音乐，但碍于信息渠道缺乏，并不知道哪些是经典的乡村音乐作品，希望真正懂音乐的英国佬能推荐一些代表作。<br>当时是 06 年，网络信息还没有今天这样丰富。<br>结果英国大使馆激动了，给他回了一封信，表示你小子是个真正的绅士，真正的懂音乐，懂艺术。我给你点 cd ，你先听着，谢谢你喜欢我们的音乐。 <br>附带给了 80 多张 cd 。<br>他一举成名。</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/288783218/answer/1969437077188871446">新疆到底有多干燥？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/a74b693cc7307d0cdae002ee2ac7f3c2">@西羽</a> ：乌鲁木齐新疆博物馆有个专门的古尸陈列展览，全是干尸。</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-ae62f487992a56fb5ec80dbad44cad4e~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1767941442-0-0-d04494c35e155e4d1f544711435e2182&bizSceneCode=article_draft&expiration=1767941442&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p>Q：<a href="https://www.zhihu.com/question/272065178/answer/1969539039859315746">为什么祖传代码被称为「屎山」？ </a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/30e6cc2f40e4476f254ab927cfa71df6">@tdfsy</a> ：就类似于我当时还在某家运营商当装维的时候，某天去一家购物广场地下室的机房看见的</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-ad674cf7ac2297959deeef5ed4797c0a~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1767941442-0-0-cc4b5ec149d73b7126a2b8dd2acf8547&bizSceneCode=article_draft&expiration=1767941442&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<blockquote>三家运营商的光纤你中有我，我中有你。组成了一个光纤意大利面大乱炖海洋，里面还有无数的分光器像配菜一般点缀其间。</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/56628048/answer/1964079380818006894">有哪些由 Bug 变成 Feature 的经典例子？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/7fae7b3c727e7c9f5eb3d518a4effe32">@鞋底破了</a> 我的左手小拇指先天残疾（略微弯曲）。</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-ff5b8dc95bb8b464a7ebcc9b9ecbafa5~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1767941442-0-0-6fdf841427c8c180af76e0f5d6a3b971&bizSceneCode=article_draft&expiration=1767941442&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<blockquote>后来智能手机普及了，我发现左手单手拿手机特别稳，弯曲的小拇指刚好是一个优秀的手机支架。<br>引用评论区「<span class="nolink">焦先生的百草园</span>」的话：提前进化好了，就等手机了[捂脸]</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/265579234/answer/64137524717">你都见过什么样的电脑盲？ </a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/d8d41636563183fbc1700c702ffd05e9">@Ethereal</a> ：这是我师弟发给我的 Visual Studio 的《工程文件》。</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-96c2cb38be776456a678732303a08173~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1767941442-0-0-f4dbde15e28dddd791af99f5b742535a&bizSceneCode=article_draft&expiration=1767941442&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
 </div>
 </div>
 
@@ -566,4 +395,4 @@ Q：<a class="internal" href="https://www.zhihu.com/question/1941154755620611466
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786985</guid><pubDate>Thu, 15 Jan 2026 18:30:23 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786995</guid><pubDate>Fri, 16 Jan 2026 01:19:01 GMT</pubDate></item></channel></rss>
