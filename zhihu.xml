@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 17 Jan 2026 18:22:10 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>传言「出汗多就是排毒好」，出汗量和身体排毒效果真的成正比吗？</title><link>http://daily.zhihu.com/story/9786777</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-77b3537d7e48eac50ff4160c5ce1575c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 18 Jan 2026 01:24:15 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>有的鸟类能飞到万米高空，不会高反或者冻死吗？</title><link>http://daily.zhihu.com/story/9786803</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-330db9be8dfffb7c45d56e75efa7984f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,71 +19,45 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-0940f055d33b6cb39928486943cd123e_l.jpg?source=8673f162">
-<span class="author">高sir，</span><span class="bio">科学丨教育&amp;生物老师丨公众号：高比先生</span>
-<a href="https://www.zhihu.com/question/1979150280881886288/answer/1981314628064653396" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/1982452543176085785/answer/1982772327503646903" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这是假的。不能说没有联系，只能说毫无关联。</p>
-<p>出汗的主要功能是散热。汗液里 99%是水，剩下那 1%左右是钠、钾、氯这些电解质，再加上极少量的尿素和乳酸等<sup>[1]</sup>。</p>
-<p>人体真正“排毒”的地方是肝脏和肾脏，不是汗腺。</p>
-<p><strong>鉴于这个谣言非常广为人知甚至有人深信不疑，值得仔细讲讲。</strong></p>
-<p>汗腺分泌的液体成分很简单（刚已提及）。而汗液散热的机制也很简单，学过初中物理就知道，水蒸发需要吸收大量热量。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ce7dfc11b9044b81fa87ab7409ca96b7_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>那汗液里有没有“毒素”呢？</strong></p>
-<p>确实有一点。</p>
-<blockquote>有综述分析了 24 项研究，发现汗液中可以检测到砷、镉、铅、汞等重金属。<sup>[2]</sup></blockquote>
-<p>但是！综述的作者专门指出了这些研究的问题：方法上是有争议的。</p>
-<p>比如：</p>
-<p><strong>①有可能是皮肤表面污染。</strong>收集时，很容易混入皮脂腺分泌物、表皮细胞、皮肤残留物。人为地增加了汗液中某些物质的浓度。</p>
-<p><strong>②收集方法不统一。</strong>有的用塑料袋套手臂（这个方法问题最大，容易导致皮肤脱屑污染），有的用贴片，有的刮取汗液。<strong>不同方法结果差异巨大。</strong></p>
-<p><strong>③样本量小。</strong>很多研究只有 10-20 个人。</p>
-<p>所以最后作者对于汗液能否真的排出“毒素”，他说“值得考虑”</p>
-<p><strong>就当做检测到的确实是来自汗液本身，问题是：能检测到，不等于排得多。</strong></p>
-<p>四川大学华西医院的一篇科普文章写到：</p>
-<blockquote>一次正常排尿排出的代谢废物，比你出两天汗排的还多。<sup>[3]</sup></blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4a49d4ed2ceb4fab02b658eeca14b8fd_720w.jpg?source=8673f162" alt=""></figure>
-<p>可以去看看文章，很切合题意</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5461a3c5b48abbce244599f7052f3976_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>我们继续说</strong></p>
-<p><strong><strong>“排毒”这个概念本身就有问题</strong></strong></p>
-<p>“排毒”（detoxification）其实是有定义的，它指的是</p>
-<blockquote>肝脏通过细胞色素 P450 酶系将脂溶性毒物转化为水溶性代谢产物，然后由肾脏排出体外的过程。<sup>[4]</sup></blockquote>
-<p>这个过程流汗是没有办法进行。</p>
-<p>但在网上，“毒素”变成了一个很模糊的、并且有制造焦虑倾向的词。</p>
-<blockquote>它可以指重金属、农药残留、食品添加剂、“体内垃圾”，甚至是“负能量”。。。</blockquote>
-<p><strong>当一个概念没有明确定义时，它就可以被无限延展，最终变成营销的工具。</strong></p>
-<blockquote>英国科学家们曾做过一个调查，他们联系了 15 家有“排毒”产品的生产商，问他们所说的“排毒”到底是什么意思。<sup>[5]</sup></blockquote>
-<p>结果没有一家能清晰准确地回答出来。</p>
-<p>这些公司自己都搞不清楚在卖什么，但产品照卖不误。</p>
-<p><strong>因为“排毒”产业是个巨大的市场。</strong></p>
-<p>从汗蒸房、桑拿、红外线浴到各种“排毒茶”、“排毒贴”等等等等数不胜数的产品，而且只要营销得当，都是热卖产品</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f8eafdac2c72f3cbfc447bb3fcc0a9f3_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个背后的本质其实就是恐惧营销——你的身体里有“毒素”，它们让你疲劳、肥胖、皮肤差、精神不振，而我们的产品可以帮你“清除”它们。</p>
-<p>这种营销抓住了我们的心理痛点。</p>
-<p>一是对现代生活的焦虑：空气污染、食品添加剂、工业化学品……我们确实生活在一个化学物质无处不在的环境里，“体内有毒”的说法听起来合情合理。</p>
-<p>二是出汗后确实能得到即时正反馈：出了一身汗感觉“清爽”了——虽然其实只是脱水和体温调节的结果，但主观上很容易认为这是“毒素排出了”。</p>
-<p>加上社交媒体和养生博主又放大了这种效应。</p>
-<p>但是，很多“排毒”产品的宣传缺乏科学依据，甚至有些产品含有有害成分或虚假宣传。<sup>[6]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-54d5f1cc7849470ea488cfc6a1d772de_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7b0eac0298b6b148d4ddd0a3093076e4_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong><strong>那出汗有没有好处？</strong></strong></p>
-<p>当然有，只是不是“排毒”。</p>
-<p>出汗能帮助维持体温稳定，同时汗液里的抗菌肽对皮肤表面的微生物有一定抑制作用。</p>
-<p><strong>适度运动出汗对心血管健康有益——但这里的因果关系是运动对身体好，不是“出汗排毒”。</strong></p>
-<p><strong>所以“出汗多就是排毒好”这个观点，很大程度上是营销产物。</strong><strong>而不是科学产物</strong></p>
+<p>1973 年 11 月 29 日，一架商业客机在科特迪瓦上空 11300 米<sup>[1]</sup>的高度与一只鸟相撞，导致引擎关闭<sup>[2]</sup>。经过残骸鉴定，那是一只黑白兀鹫 (<em>Gyps rueppelli</em>)。这个高度的气压不到海平面的四分之一，温度低至零下 50 摄氏度。天鹅或鹤类也被记录到在 8000 米以上的高度飞行<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-57b7f0d50bcb3c581a6a05eaf315fb60_720w.jpg?source=8673f162" alt=""><figcaption>黑白兀鹫</figcaption></figure>
+<p>它们为什么不会高反或者冻死？</p>
+<p>首先得谈谈呼吸。哺乳动物的肺设计得很糟糕，我们采用的是“潮汐式”呼吸，吸进去的新鲜空气总会和肺里残留的废气混合，导致肺泡里的氧气浓度永远低于外界<sup>[4]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c7048909511c9279736a4c9996868ad9_720w.jpg?source=8673f162" alt=""></figure>
+<p>而在万米高空，外界氧分压本来就只有海平面的四分之一，如果再这么一混合，那你基本上就只能等着大脑宕机了。</p>
+<p>鸟类则完全不同，它们进化出了一套单向流动的呼吸系统。鸟的肺是刚性的，不会像你的肺那样热胀冷缩，它们依靠体内的气囊像风箱一样把空气“推”过肺部 。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-30f1fb234b26c3d468cbc78369f35e07_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种设计保证了无论是吸气还是呼气，流经肺部的永远是富含氧气的新鲜气流，就像一台涡轮增压发动机。</p>
+<p>更精妙的是血液与空气的接触方式。人类肺里的血管和气管是并行排列的，效率一般。而鸟类采用的是“交叉流”交换系统，毛细血管与空气管道呈垂直交叉排列，这种结构能让血液中的氧分压甚至超过呼出气体中的氧分压 。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b749389afd95a9421aadcd7ae0aa678a_720w.jpg?source=8673f162" alt=""><figcaption>比较鸟类与哺乳动物（狗和猫）在不同血管压和气道压下肺毛细血管直径的变化</figcaption></figure>
+<p>此外，为了防止在高压血流冲击下发生肺水肿（这是人类在高原死亡的主要原因之一），鸟类的毛细血管被包裹在一种坚硬的六角形“蜂窝”结构中（具体来说是旁支气管（Parabronchi）），提供了极强的物理支撑 <sup>[5]</sup>。所以，鸟类几乎天生免疫高海拔肺水肿。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-da55dc85a91eb8ff27b8a40d48034037_720w.jpg?source=8673f162" alt=""></figure>
+<p>解决了氧气摄入，还得解决运输问题。在高空，斑头雁的血红蛋白发生了一个微小的基因突变，仅仅改变了一个氨基酸，就移除了分子内部的一个阻碍点，使其对氧气的亲和力大增 。这就像给红细胞装上了强力磁铁，能在极其稀薄的空气中强行抓取氧分子<sup>[6]</sup>。</p>
+<p>同时，它们的大脑对低二氧化碳水平具有惊人的耐受力。人类如果在缺氧时过度喘气，会因为二氧化碳排出过多导致脑血管收缩，进而晕厥。但斑头雁等高空鸟类即便把通气量增加 7 倍，脑血管依然保持扩张，确保持续供血 <sup>[7]</sup>。</p>
+<p>至于会不会冻死，这取决于它们怎么飞。对于像斑头雁这样依靠扑翼飞行的，最大的问题其实是散热。</p>
+<p>在持续的扑翼飞行中，斑头雁体内的产热量是静息状态的 10-15 倍。即便在低温环境中，其核心体温也可能因剧烈运动而升高。因此，环境的低温恰好充当了高效的冷却剂，防止鸟类在剧烈运动中发生过热（Hyperthermia）<sup>[8]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9f13b45af079ff846de5748f90ec277e_720w.jpg?source=8673f162" alt=""><figcaption>风洞中内两只不同牡丹鹦鹉的热成像图</figcaption></figure>
+<p>而对于黑白兀鹫这种依靠滑翔的，它们确实面临失温风险。但它们腿部拥有精密的“逆流热交换”系统：流向脚掌的温暖动脉血会预热流回心脏的冷静脉血，既防止了核心体温下降，又让脚掌温度接近环境温度，从而减少热量散失 <sup>[9]</sup>。</p>
+<p>不过，即便拥有这些神级装备，鸟类也绝不盲目硬撑。最新的 GPS 追踪数据显示，斑头雁在穿越喜马拉雅山脉时，并非一直保持在最高高度，而是采用一种“过山车”式的飞行策略，紧贴地形起伏<sup>[10]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c493410e5340c819da5c2ec74a85616a_720w.jpg?source=8673f162" alt=""></figure>
+<p>这虽然看起来忽上忽下很累，但实际上大大利用了低层相对稠密的空气来产生升力，比直线高飞更省油 。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1979150280881886288">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1982452543176085785">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786777</guid><pubDate>Sat, 17 Jan 2026 18:22:07 GMT</pubDate></item><item><title>为什么星星没有绿色或者紫色的呢？</title><link>http://daily.zhihu.com/story/9786779</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d2b80314e081b95baf81b14817b20394.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786803</guid><pubDate>Sun, 18 Jan 2026 01:24:12 GMT</pubDate></item><item><title>零下 40℃，蒙古人住蒙古包里为啥不觉得冷？</title><link>http://daily.zhihu.com/story/9786804</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8988bf92ca6d812fc357577a561c5770.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -103,140 +77,65 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-5d6eaf13322045da26f9367b6a68659d_l.jpg?source=8673f162">
-<span class="author">太空僧，</span><span class="bio">2022年新知答主｜航天及天文优秀答主</span>
-<a href="https://www.zhihu.com/question/11061370534/answer/91937435934" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/7bd57b2a5_l.jpg?source=8673f162">
+<span class="author">王洪江</span>
+<a href="https://www.zhihu.com/question/1990513080740898371/answer/1990544829667633072" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>知乎上已经很久没有这么好的问题了。</p>
-<p>也许你不知道，我们的太阳，在日落时分也可能会变绿，看上去是一个“绿太阳”。儒勒·凡尔纳还曾以此为题，写过一篇小说《绿光（Le Rayon vert）》。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9f99d33f3b6390b13ceb073ea8e5c1d2_720w.jpg?source=8673f162" alt=""><figcaption>绿光是非常罕见的现象，通常持续不超过 2 秒</figcaption></figure>
-<p>如果先忽略这种大气层折射对颜色的影响，以及多普勒效应、宇宙膨胀等，我们能看到绿色或紫色的星星么？</p>
-<p>简单地说，做为一个黑体，（在人类看来）星星的颜色是有限的。下图是（YUV 色彩空间中）假设亮度 Y=0.35 时，星星在不同温度下的颜色：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d5f08594d716303ad8fdf8f5178c8a6d_720w.jpg?source=8673f162" alt=""></figure>
-<p>这里没有绿色，也几乎没有紫色。</p>
-<p>所以问题描述的现象是真实存在的。</p>
-<p>为什么？</p>
-<p><strong>星星的颜色</strong></p>
-<p>我们知道，星星并不是一种只会发射单色光的“激光星”，几乎所有的恒星，都是“广谱”的，也就是说，它们会发出各种波长的光，从射电波段（无线电）、到红外、到可见光、到紫外线直到伽玛射线，波长范围非常广。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-62722ade0b62abdbcf7b471ea23ab3e8_720w.jpg?source=8673f162" alt=""></figure>
-<p>但我们人眼，只能看到可见光区的颜色。</p>
-<p>需要注意的是，即使是可见光区，人眼也只是看个大概，因为用来感知颜色的视锥细胞，绝大多数人只有感知红、绿、蓝的三种，也就是只能感应 L 长波、M 中波和 S 短波，然后大脑将这三个波段结合，形成了颜色的感知。</p>
-<p>也就是说，人眼看到的，是可见光区中各个波长的综合结果。</p>
-<p>大家在高中都学过普朗克定律，也就是黑体辐射率与频率的关系。还有一个就是维恩位移定律，关于这 2 个定律以及黑体的基础知识，这里就先略了。只需要能回忆起下面这张图就够了：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f96df2c8fb6bb8a586b85e77d4e2ca98_720w.jpg?source=8673f162" alt=""></figure>
-<p>从图中能看出，不同温度下的黑体辐射谱是不同的，随着黑体温度的升高，最大光谱强度会向更短的波长移动。在相对较低的温度下，最大值位于红外区间内，并且我们的眼睛看不到辐射。但随着黑体温度升高，辐射光谱转移到可见光范围内，此可见发射的辐射，表现为黑体开始发光。温度越冷的恒星看起来越是偏红色的，温度越高的恒星越是偏蓝色的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f87550d4ca679de8f2ee759cfe6c0e84_720w.gif?source=8673f162" alt=""></figure>
-<p>举例来说，如果一颗恒星，它很冷，比方只有 3000K，那么它发出的辐射大部分都集中在红外线波段，那么在可见光波段的尾巴上，便是红色占大头儿，几乎没有绿色和蓝色，所以看上去是红色的。</p>
-<p>如果恒星温度再高一点，那么虽然它发出的辐射大部分仍是红外线，但有更多的可见光了，蓝色和绿色也多出来了，那么经过人眼和大脑一综合，认为看到的光是黄色的。</p>
-<p>如果恒星温度再再高一点，那么它发出的辐射的峰值可能会出现在绿色附近（我们的太阳的光谱实际上有一个峰值在大约 500 纳米左右，那里正是绿色），那会不会就是绿色的呢？不会，因为前面说过，恒星的光波长的范围很广，是“广谱”的，当绿色很强时，蓝色、黄色、红色波长的光也很强，在人眼看来，它不是绿色的，而是一种混合的白色。</p>
-<p>如果恒星的温度高得离谱，发出的辐射大都是高能射线，是不是就会在可见光段波呈紫色的呢？不会，人眼看到的将会是蓝色。因为在如此超高能量的辐射中，一定也会带有海量的黄色和红色。记住，紫色对应的波长比蓝色更短，所以当紫色中混入波长更长的红色和黄色时，人眼会把它看成蓝色。这一点与画水彩画是不同的，这是一道生物题，而不是美术题。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f2366acd9b1edc53cd2d81c498fb15e3_720w.jpg?source=8673f162" alt=""></figure>
-<p>事实上，在人眼能看到的颜色中，恒星的颜色只占了其中非常窄的一部分。下图中那个黑色的线，就代表不同温度下的黑体能呈现的颜色。当然，当恒星的温度无限热时，它在人眼中并不会呈现蓝色，而是三种视锥细胞都过曝了，先是看到刺眼的白色，然后就瞎了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-636ec94d22492d1576be4727262790f8_720w.jpg?source=8673f162" alt=""></figure>
-<p>也就是说，由于绿色处于可见光谱的中间位置，所以“绿星”实际看上去是“白星”；而由于普朗克定律和维恩位移定律，所以“紫星”实际看上去是“蓝星”，而这一切的背后，都是人眼对颜色的识别模式决定的。</p>
-<p>综上，在前述的正常条件下，人眼是看不到绿色和紫色的星星的。</p>
-<p><strong>补充</strong></p>
-<p>考虑到宇宙尘埃以及大气散射的影响，星星发出的蓝色光更容易被散射，因此它们看起来比实际的颜色会略微偏红。另外，构成恒星的化学物质（尤其是金属）也会影响它的颜色，当一个富碳的恒星发光时，它会吸收蓝紫色，从而让恒星变成更加深红。当然，如果像开头那样，创造一个极苛刻的前提条件，什么颜色的星光，都可以搞出来。</p>
-<p>如果你看到这儿了，能不能点个小赞？感谢</p>
+<p>先说是不是，再说为什么。</p>
+<p>零下 40 度时，蒙古包冷不冷？</p>
+<p>答案是当然冷，所谓的“住蒙古包里为啥不觉得冷”是伪命题，不值一驳。</p>
+<p>回答完毕。</p>
+<p>展开讲讲：</p>
+<p>蒙古包我住过很多次，包括冬天晚上在蒙古包过夜。</p>
+<p>蒙古包里面其实是很冷的，但已经是最优解了。</p>
+<p>蒙古包的结构比较简单，总体而言是一个石头地基，一个木头框架，再蒙上几层厚厚的毛毡。</p>
+<p>中间放置一个火炉，蒙古语叫“郭勒穆特”。</p>
+<p>蒙古包几乎没有普通砖房的那种窗户，而是有一个天窗，另外是靠门来采光，</p>
+<p>虽然有多层毛毡围绕起来，但是毛毡最主要的功能是防风</p>
+<p>一来是防止冷风直接吹进来，</p>
+<p>二来是保持蒙古包里面的热空气不要跑掉。</p>
+<p>但这样并不能完全阻止热量散失，</p>
+<p>而且，毛毡隔音也很不好，我在蒙古包外面路过的话，里面人在说什么能听得清清楚楚。</p>
+<p>蒙古包里面主要是热量来源还是靠燃烧火炉，</p>
+<p>目前的燃料很好了，夏天一般烧木头，冬天可以烧煤。</p>
+<p>如果是之前的蒙古地区，好木头是不能拿来烧掉的，太奢侈了，</p>
+<p>零杂木头就像苍蝇腿，不够烧的，</p>
+<p>煤炭也不容易挖掘到。</p>
+<p>事实上真正的燃料是晒干的牛粪饼。</p>
+<p>就是牧民们去拾牛排泄的一大坨牛粪，晾干了就是一块牛粪饼，</p>
+<p>因为主要成分是草纤维，而且晒干了，</p>
+<p>约等于燃烧干草，所以气味还能接受。</p>
+<p>缺点是这种牛粪饼很不耐烧，就需要经常添加。</p>
+<p>而且说到底是在烧草，草的热量并不高，</p>
+<p>看起来火焰熊熊，但是转瞬即逝，</p>
+<p>负责看守火炉的人也很难睡一个安稳觉，可能个把小时就要看看炉火。</p>
+<p>如果炉火也深夜熄灭了，就很麻烦，</p>
+<p>因为之前没有什么打火机，火种是很珍贵的，</p>
+<p>一旦失去了火种，茫茫草原，寒冬凛冽，</p>
+<p>一家人是真的可能整个都冻僵的。</p>
+<p>侧面也可以看一下蒙古族之前的人口数量，和平均寿命，</p>
+<p>能够侧面印证蒙古包没那么舒适，但是也已经是最优解。</p>
+<p>虽然我不是很清楚为什么，</p>
+<p>会有人能觉得睡蒙古包竟然不觉得冷，</p>
+<p>但是，实践是检验真理的唯一标准，</p>
+<p>深秋的时候去草原上睡一夜蒙古包就知道啦，</p>
+<p>冬天别去，冻病了就不好了。</p>
+<p>稍作补充：</p>
+<p>问：在蒙古包里面烧炉火，会不会一氧化碳中毒？</p>
+<p>答：几乎不会。现代蒙古包的炉子已经有烟囱了，古代未必有烟囱，但蒙古包并不是密不透风的，仅仅靠毛毡还做不到那么强的密封性，还是漏风的。而且，烧牛粪饼还是有一定的烟气的，如果完全不通风的话，没等一氧化碳中毒，人先呛死啦。蒙古包是有一个圆形的天窗的，只要打开一个缝隙，就能把烟气排出去，把新鲜空气换进来。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/11061370534">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786779</guid><pubDate>Sat, 17 Jan 2026 18:22:08 GMT</pubDate></item><item><title>传言「长期喝碳酸饮料会导致骨质疏松」，饮料中的磷酸真的会影响钙的吸收吗？</title><link>http://daily.zhihu.com/story/9786786</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-36c055ebba00e140653a9284cd9c7527.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title">传言“长期喝碳酸饮料会导致骨质疏松”，饮料中的磷酸真的会影响钙的吸收吗？</h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
-<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的退役士兵。</span>
-<a href="https://www.zhihu.com/question/1978913275233211010/answer/1980233880662463523" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p><strong>典型的抛开剂量谈毒性，照这个逻辑，吃西兰花都比喝可乐更容易导致骨质疏松。</strong></p>
-<p>要不是多读了两页书，我这没建模没经济的，差点连最后的快乐都没了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-35a746b2b59f12add8b92b8a38385cab_720w.jpg?source=8673f162" alt=""></figure>
-<p>过高的磷摄入确实会导致骨钙流失，人体内钙和磷谁按照 2:1 的比例代谢的。</p>
-<p>但是——</p>
-<p>330 毫升的碳酸饮料，磷含量不到 40mg。</p>
-<p>100g 西兰花的磷含量，轻松超过 60mg。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8f4e7ed9423ea9eda7625ba9fed768af_720w.jpg?source=8673f162" alt=""></figure>
-<p>按这个逻辑，有些“专家”完全可以说长期吃西兰花容易骨质疏松。</p>
-<p>成年人磷的需要量为 12.6mg/kg/ 天，一个 60kg 的成年人，一天要摄入 756mg 的磷。</p>
-<p>《中国居民膳食营养素参考摄入量》中，成年人磷的耐受剂量，是 3500mg/ 天。</p>
-<p>你想靠喝可乐达到耐受剂量，一天要干进去 87.5 听，28.875 升。</p>
-<p><strong>这么大的玩意儿，喝 14 桶：</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4af01b0d1643099c1fe3eda61a2dc697_720w.jpg?source=8673f162" alt=""></figure>
-<p>哪怕你是喝可乐堪比龙吸水的碳酸教父，也得因为水中毒噶了。</p>
-<p>我看有所谓“专家”拿「体内磷水平升高 -FGF23 水平升高 - 抑制维生素 d 活化 - 钙吸收效率下降」来说事。</p>
-<p>这更有离谱了，这种水平的影响，是持续的高磷血症才有可能出现的，关那两听可乐什么事情。</p>
-<p>说回碳酸教父，这哥们一口气可以炫完一加仑的可乐，也就是 3.78 升。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ba46fec6dbd990d9b4f7f45b21c61d67_720w.jpg?source=8673f162" alt=""></figure>
-<p>根据最近的情况来看，即便这么炫可乐，他骨骼也没什么问题。</p>
-<p>甚至牙齿健康还不错，不存在“碳酸腐蚀牙齿”的情况。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9beed3bdc45e3e8e2eec2ffa04a5527d_720w.jpg?source=8673f162" alt=""></figure>
-<p>碳酸在口腔内的停留时间太短，加上它本来就是弱酸，根本来不及对牙齿造成损害。</p>
-<p>所以网上说什么可乐撒了气再喝更健康，那纯纯是扯淡。</p>
-<p><strong>再说了，我喝可乐没有气，那我喝个什么？</strong></p>
-<p>但是，显而易见，碳酸教父的身体严重肥胖了。</p>
-<p><strong>因为可乐中更值得我们关注的，是大量的糖，以及不低的热量。</strong></p>
-<p>世界卫生组织（WHO）建议游离糖摄入不超过每日总能量的 10%，最好控制在 5%以下‌。</p>
-<p>以每日 2000 千卡饮食为例，游离糖摄入应低于 50 克，理想情况下不超过 25 克。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a211a00545a74662e432ca161fef6a2e_720w.jpg?source=8673f162" alt=""><figcaption>差不多这些</figcaption></figure>
-<p>而标准版可口可乐的含糖量，每 100ml 是 10.6 克。</p>
-<p><strong>炫完一瓶可乐，今天的糖摄入量就爆表了。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-95274f5c93e4f114ea4312e149e789ae_720w.jpg?source=8673f162" alt=""></figure>
-<p>偶尔的爆表其实没啥，但长期的爆表负面问题还是很多的。</p>
-<p>一方面，这些糖残留在牙齿上，加剧龋齿的隐患。</p>
-<p>这个倒好办，用吸管喝，或者喝完清水漱口，该刷牙的时候就刷牙。</p>
-<p>另一方面，持续超量的糖摄入能引发肥胖、糖尿病等一系列健康问题。</p>
-<p>这个其实也还好，少喝就是了，或者换零糖可乐。</p>
-<blockquote>（零糖可乐不好喝，小声蛐蛐）</blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2c0b7fc334335af060fb915c4b93e525_720w.jpg?source=8673f162" alt=""></figure>
-<p>总而言之——</p>
-<p>绕过可乐的高糖，去攻击碳酸和磷酸。</p>
-<p>属于是忽视关键矛盾，聚焦次要矛盾。</p>
-<p><strong>对于这类“科普账号”“专家”，建议直接拉黑。</strong></p>
-<p>比如这个话题下经过认证的营养机构账号。</p>
-<p>对于大家而言，偶尔喝杯可乐没什么的。</p>
-<p>喜欢经典口味的，就喝标准版，加几块冰占占体积，冰冰的也很爽。</p>
-<p>纠结健康的，零糖可乐喝起来，就是口感差一些~</p>
-<p>生活需要一点肥宅快乐水。</p>
-<p>以上</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1978913275233211010">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1990513080740898371">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786786</guid><pubDate>Sat, 17 Jan 2026 18:22:09 GMT</pubDate></item><item><title>为什么几乎所有教科书上对微分的讲解都不明不白？</title><link>http://daily.zhihu.com/story/9787023</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-0182f0aef6660198ed7ed548a37676d8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786804</guid><pubDate>Sun, 18 Jan 2026 01:24:13 GMT</pubDate></item><item><title>为什么大部分东西旧了就会变黄而不是变蓝？这是什么科学道理？</title><link>http://daily.zhihu.com/story/9786813</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ffd4fd24e2874e7688b4ea00ca8f7607.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -256,148 +155,146 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-d49dc8f4d66ec5fa1fafb66bc47fd482_l.jpg?source=8673f162">
-<span class="author">数据慢慢跑，</span><span class="bio">大厂在职算法高级攻城狮</span>
-<a href="https://www.zhihu.com/question/438795295/answer/1987633712523928486" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/1987233742394245211/answer/1987559815728358897" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这个问题问到了点子上，甚至可以说，这个问题触碰到了高等数学教育中一个几十年来心照不宣的脓疮。</p>
-<p>你感觉教科书讲得不明不白，这不是你的智商问题，而是教材编写者的妥协问题。大多数非数学专业的微积分教材，甚至一部分名为数学分析的教材，在处理微分这个概念时，确实是在捣浆糊。他们试图在不引入线性代数、不引入流形、不引入对偶空间的前提下，强行解释一个本质上属于这些领域的概念。结果就是你看到的：语焉不详，逻辑断裂，只可意会不可言传。</p>
-<p>先说结论：<strong>微分 d 确实是一个算子，dx 确实是一个基底，而 dy 是一个线性映射在特定向量上的作用结果。</strong> 但要讲清楚这一点，必须抛弃那种把微积分看作计算技巧集合的低级视角，进入现代数学的结构视角。</p>
-<p>教科书之所以不敢这么写，是因为如果在讲大一微积分时就引入切空间和对偶空间的概念，99%的学生会当场挂科。于是，教材编选者们选择了一个偷懒的办法：用线性近似来糊弄过去。</p>
-<p>咱们一层一层剥开来看。</p>
-<p><strong>第一层尴尬：导数都没讲利索，怎么讲微分</strong></p>
-<p>你在书上看到的微分定义，通常长这样：如果函数的增量可以写成 A 乘以 dx 加上一个无穷小量，那么 Adx 就是微分。这里面的 A 就是导数。</p>
-<p>这种定义最大的问题在于它把导数和微分强行绑在了一起，而且是在一维实数的狭隘语境下绑定的。在一维情况下，导数是一个数，微分好像就是这个数乘以 dx。这让初学者产生了一个极其顽固的错觉：<strong>微分就是很小的增量，或者微分就是导数乘以一个标记。</strong></p>
-<p>大错特错。</p>
-<p>在严谨的现代分析学中，特别是引入了泛函分析和微分几何的视角后，<strong>导数</strong>（Derivative）的本质不是一个数，甚至不是一个斜率。<strong>导数是一个线性映射</strong>（Linear Map）。</p>
-<p>想象一下，我们有一个函数 f，它把一个空间映射到另一个空间。我们在某一点 x 附近观察这个函数。如果这个函数够平滑，那么在无限小的尺度下，它看起来就是平直的。这个平直的局部结构，就是切空间。</p>
-<p>所谓的求导，实际上是在寻找一个<strong>最佳线性逼近</strong>。对于单变量函数，这个线性映射可以用一个数（斜率）来代表，这就是为什么大一新生觉得导数是个数。但是一旦到了多维空间，导数就必须是一个矩阵（雅可比矩阵）。</p>
-<p>这里我们要引入一个关键概念：<strong>弗雷歇导数</strong>（Fréchet derivative）。</p>
-<p>对于赋范线性空间之间的映射 f，如果存在一个连续线性算子 L，使得 f 在 x 点附近的增量可以被 L 作用在增量向量 h 上来逼近，且误差是关于 h 的高阶无穷小，那么这个线性算子 L 就是 f 在 x 点的导数。</p>
-<p>注意，这里 L 是一个算子，是一个函数，而不是一个数。</p>
-<p>那么微分是什么？</p>
-<p><strong>微分 df 就是这个线性算子本身。</strong></p>
-<p>或者是这个线性算子作用在某个特定的向量上。这里教科书就开始打架了。有的书把 df(x) 定义为那个线性算子 L，有的书把 dy 定义为 L(h)。</p>
-<p>这就引出了你提到的 dx 是什么的问题。</p>
-<p><strong>第二层尴尬：dx 到底是什么鬼东西</strong></p>
-<p>这是最让学生崩溃的地方。有时候 dx 是一个无穷小量，有时候它是积分符号的一部分（仅仅是个括号），有时候它又是自变量的增量。</p>
-<p>在严谨的数学体系（特别是流形上的微积分）中，<strong>dx 是一个线性泛函，是切空间对偶空间（余切空间）的一组基底。</strong></p>
-<p>咱们说人话。</p>
-<p>假设我们在一个流形（比如弯曲的曲面）上，每一点都有一个切平面。切平面上的向量是切向量。所有的切向量构成了切空间。</p>
-<p>现在，我们需要测量这些切向量。我们需要一个函数，吃进去一个向量，吐出一个数。这种吃向量吐数的线性函数，叫做<strong>1- 形式</strong>（1-form）或者余切向量。</p>
-<p><strong>dx 就是这样一个吃向量的机器。</strong></p>
-<p>具体来说，在坐标系 x 下，dx 是一个把向量 v 投影到 x 轴方向上的函数。如果你给我一个向量 v = (3, 4)，那么 dx(v) = 3，dy(v) = 4。</p>
-<p>所以，当我们写下 dy = f'(x)dx 时，这不仅仅是一个代数等式，这是一个<strong>算子之间的等式</strong>。</p>
-<p>等式左边 dy 是一个 1- 形式。</p>
-<p>等式右边 f'(x) 是一个系数（标量函数），乘以 dx 这个 1- 形式。</p>
-<p>这意味着，无论你喂给这两个东西什么样的切向量 v，它们吐出来的结果都是一样的。</p>
-<p>dy(v) = f'(x) * dx(v)。</p>
-<p>这就是为什么我们可以说 dy 是 dx 的线性组合。在高维情况下，这就变成了全微分公式：</p>
-<p>df = (∂f/∂x1)dx1 + (∂f/∂x2)dx2 + ...</p>
-<p>这里的 d 是一个<strong>外微分算子</strong>（Exterior Derivative）。它把一个 0- 形式（也就是标量函数 f）变成了一个 1- 形式（df）。</p>
-<p>你看，这才是严谨的定义。</p>
-<p>d 是算子：把函数变成形式。</p>
-<p>f 是 0- 形式。</p>
-<p>df 是 1- 形式。</p>
-<p>dx 是基底形式。</p>
-<p>∂f/∂x 是分量系数。</p>
-<p>这个体系极其优美，逻辑闭环，没有任何含糊不清的地方。但是，这一套东西通常要到数学系大三学习《微分流形》或者《张量分析》的时候才会全盘托出。</p>
-<p>对于大一工科生，或者普通数学分析教材，编书的人认为讲什么是<strong>对偶空间</strong>、什么是<strong>张量积</strong>简直是天方夜谭。所以他们选择了沉默，或者用“自变量的微分定义为自变量的增量”这种循环论证般的废话来搪塞。</p>
-<p>这就导致了你说的：d 的定义不明不白，dx 仿佛是个幽灵。</p>
-<p><strong>第三层尴尬：高阶微分的巨坑</strong></p>
-<p>你提到了高阶微分 dⁿy。这是教科书最不负责任的地方。</p>
-<p>大多数教材会告诉你，二阶微分 d²y 就是 f''(x)(dx)²。</p>
-<p>然后告诉你，这玩意儿形式上是不变的，这叫<strong>一阶微分形式不变性</strong>。</p>
-<p><strong>但是，他们往往不告诉你，高阶微分没有形式不变性！</strong></p>
-<p>这是一个巨大的坑。</p>
-<p>如果 x 是自变量，那么 d²y = f''(x)(dx)² 是成立的。</p>
-<p>但是，如果 x 不是自变量，而是另一个变量 t 的函数 x(t)，那么事情就变了。</p>
-<p>根据链式法则，你会发现 d²y 会多出一项来。</p>
-<p>因为 dx 现在也是变量了，d(dx) 不再是 0。</p>
-<p>教科书在这里的处理往往是含糊其辞，告诉你“通常我们在自变量下讨论”。这直接导致学生在处理复杂变量代换，或者进入变分法、微分几何领域时，概念完全崩塌。</p>
-<p>在现代观点下，高阶微分甚至不是一个定义良好的概念，除非你引入<strong>射流丛</strong>（Jet Bundle）或者把二阶导数看作是切丛上的映射。</p>
-<p>在流形上，我们通常只谈论<strong>外微分</strong>。d 作用在 f 上得 df，d 作用在 df 上得 d²f。</p>
-<p>但是，外微分有一个性质：d² = 0。</p>
-<p>这意味着在微分形式的意义下，二阶微分恒为零。</p>
-<p>你看，这和微积分里的 d²y 完全是两码事。微积分里的二阶微分，实际上是在谈论二阶切丛上的二次型，或者是泰勒展开的二次项。而外微分谈论的是上同调。</p>
-<p>这两套符号系统的冲突，教材从来不讲。学生只能靠自己悟。</p>
-<p><strong>为什么会出现这种情况？</strong></p>
-<p>这是一个历史遗留问题。</p>
-<p>微积分的符号系统主要继承自莱布尼茨。莱布尼茨当年搞这套东西的时候，根本没有极限、实数理论、拓扑空间这些概念。他的脑子里就是<strong>无穷小量</strong>。dx 就是一个无限小的一段 x，dy 就是无限小的一段 y。</p>
-<p>这套直观的理解非常极其好用。好用到物理学家和工程师根本离不开它。</p>
-<p>你随便找个物理系教授，问他什么是微分。他会告诉你：把一个东西切成无限多份，每一份就是 d 什么什么。</p>
-<p>但是数学家后来发现无穷小量会导致悖论（贝克莱主教的批评），于是柯西和维尔斯特拉斯搞出了 ϵ−δϵ−δ 语言，用<strong>极限</strong>重构了微积分。</p>
-<p>问题来了：地基换了（从无穷小量换成了极限），但是房子没拆（符号还是 dy, dx, ∫）。</p>
-<p>这就导致了符号和定义的脱节。</p>
-<p>我们在用极限的逻辑定义导数，却在用无穷小量的符号书写公式。</p>
-<p>教科书为了照顾这种分裂，只能两头堵。一边告诉你 dx 不是无穷小，是增量；一边在积分换元的时候像操作分数一样操作 dx/du。</p>
-<p>这种精神分裂，直到 20 世纪 60 年代鲁宾逊创立<strong>非标准分析</strong>，把无穷小量在一个超实数域上严格化了，才算给莱布尼茨平了反。或者，走刚才说的微分几何路线，把 dx 定义为形式。</p>
-<p>但在基础教学中，我们依然卡在这个尴尬的中间状态。</p>
-<p><strong>实际场景佐证：热力学的混乱</strong></p>
-<p>咱们来看一个具体的场景，这绝对能让你感同身受。</p>
-<p>学过热力学吗？</p>
-<p>热力学第一定律：dU = TdS - pdV。</p>
-<p>对于一个数学系出身、只学过严谨分析但没学过流形的人来说，这个公式简直是天书。</p>
-<p>U 是函数，这没问题。</p>
-<p>d 是微分算子，也没问题。</p>
-<p>但是 T, S, p, V 是什么？</p>
-<p>在物理学家眼里，这都是状态量。</p>
-<p>在数学家眼里，这其实是流形上的<strong>微分形式</strong>的关系。</p>
-<p>物理学家会很自然地写出：</p>
-<p>(∂U/∂S)_V = T</p>
-<p>这是怎么来的？这是把 pdV 看作 0，两边除以 dS 得到的。</p>
-<p>这种操作在数学分析教材里是被明令禁止的——“微分不能像分数一样随便除！”</p>
-<p>但物理学家除得飞起，而且结果是正确的。</p>
-<p>这说明什么？说明莱布尼茨的那套符号系统，隐含了<strong>余切空间</strong>的对偶性质，虽然物理学家可能没学过对偶空间，但他们直觉上用对了。</p>
-<p>如果教科书能大大方方地承认：<strong>dy 和 dx 就是余切空间的向量，它们构成了局部坐标系下的基底，所以它们当然可以像代数符号一样运算（在张量代数的规则下）。</strong> 那学生就不会这么纠结了。</p>
-<p>可惜，教科书为了避嫌，为了避免引入张量积，选择了把 dx 解释为“自变量增量”，这就彻底堵死了理解 dU = TdS - pdV 这种公式本质的道路。</p>
-<p><strong>如何建立严谨的体系？</strong></p>
-<p>如果你是一个对数学有追求的人，想跳出这个不明不白的泥潭，我建议你按以下路径重塑你的认知体系：</p>
-<p><strong>第一阶段：抛弃“数”的执念，拥抱“映射”。</strong></p>
-<p>要把函数 f 看作空间到空间的映射。</p>
-<p>要把导数 Df 看作点 x 处的最佳线性逼近算子（矩阵）。</p>
-<p>微分 df(x) 就是这个线性算子 Df(x)。</p>
-<p>当它作用在向量 h 上时，df(x)(h) 才是具体的数值增量近似。</p>
-<p><strong>第二阶段：理解对偶空间。</strong></p>
-<p>线性空间 V 的对偶空间 V* 是所有线性泛函的集合。</p>
-<p>如果 x¹, ..., xⁿ 是 V 的坐标函数，那么 dx¹, ..., dxⁿ 实际上构成了 V* 的一组基。</p>
-<p>任何 1- 形式（比如 df）都可以写成这组基的线性组合。</p>
-<p>这就是 df = Σ (∂f/∂xⁱ) dxⁱ 的真谛。这是一个向量空间的基底展开式，而不是什么“微商乘以增量”。</p>
-<p><strong>第三阶段：理解外代数。</strong></p>
-<p>微分不仅仅是线性化，它还涉及到方向。</p>
-<p>为什么二重积分换元会有雅可比行列式？那是楔积（Wedge Product）dx ∧ dy 的几何性质决定的。</p>
-<p>dx ∧ dy 是一个反对称的张量，它度量的是有向面积。</p>
-<p>这时候你再看 d² = 0，就会明白它是外微分算子的拓扑性质，跟泰勒展开没半毛钱关系。</p>
-<p>如果你现在正在被国内那些语焉不详的教材折磨，我有几条具体的建议：</p>
-<p><strong>1. 不要死磕定义，看定理。</strong></p>
-<p>国内教材在定义上往往畏手畏脚，但在定理叙述上通常还是严谨的。通过观察微分中值定理、泰勒公式、隐函数定理的描述，反向推导它在这个体系里到底把微分当什么。</p>
-<p><strong>2. 参考高观点的书。</strong></p>
-<p>去读卓里奇的《数学分析》。这是前苏联的传世经典，它在讲微积分的时候，非常自然地引入了现代观点，虽然难，但逻辑是通的。</p>
-<p>或者读斯皮瓦克（Michael Spivak）的《流形上的微积分》（Calculus on Manifolds）。这本书很薄，但它用几十页的篇幅，把从欧氏空间到微分形式的逻辑讲得清清楚楚。它会告诉你，dx 就是一个投影函数，仅此而已。</p>
-<p><strong>3. 接受历史的混乱。</strong></p>
-<p>你要明白，我们在用 17 世纪的符号，讲 19 世纪的逻辑，以此为基础去理解 20 世纪的几何。这种错位感是必然存在的。</p>
-<p>当你看到 dy = y'dx 时，心里要清楚：</p>
-<p>在计算时，把它当数处理（莱布尼茨的遗产）。</p>
-<p>在理解时，把它当线性形式处理（现代几何的观点）。</p>
-<p>在证明时，把它当极限处理（分析学的根基）。</p>
-<p><strong>最后的碎碎念</strong></p>
-<p>数学教育是一个不断妥协的过程。如果在大一就把外代数和切丛拍在学生脸上，数学系可能就没人了。</p>
-<p>但是，这种妥协不应该变成欺骗。</p>
-<p>优秀的教材应该在简单的表述背后，预留出通往严谨定义的接口，而不是用“无穷小量”这种含糊的概念把路堵死。</p>
-<p>你感到痛苦，是因为你试图用逻辑去弥合教材编写者的教学法妥协。</p>
-<p>这种痛苦是你进阶的阶梯。</p>
-<p>当你有一天能笑看 dy 既是无穷小又是线性泛函时，你就真正懂了。</p>
-<p><strong>d 是算子，dx 是基底，微积分是关于变化的线性代数。</strong> 这一句话，顶一万句“自变量的增量”。</p>
+<p>要理解变黄，得先搞清楚颜色的视觉逻辑。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-01a7d144609d613a6d9208c0a6928a93_720w.jpg?source=8673f162" alt=""></figure>
+<p>我们看到黄色，是因为物体吸收了光谱中的蓝紫光（高能短波），把剩下的红绿光反射进了你的眼睛。反之，如果一个物体想呈现蓝色，它就得吸收光谱另一端的红橙光（低能长波）<sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d743bbbb97af11d24cfb9e5cefdfd9b_720w.jpg?source=8673f162" alt=""></figure>
+<p>在微观世界里，有机物要吸收光，靠的是分子内部碳原子手拉手形成的“共轭双键”系统。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7b9418f531b242dc440f86280f83495_720w.jpg?source=8673f162" alt=""></figure>
+<p>这就像一群电子在碳原子搭建的跑道上折返跑。根据量子力学中的“一维势箱”模型，这个跑道（共轭链）越长，电子跑得越欢，需要的激发能量就越低，吸收的光波长就越长<sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fbd0c6d0da6e93a5caeb009f0910b144_720w.jpg?source=8673f162" alt=""></figure>
+<p>接下来就是搭积木的问题了。</p>
+<p>如果分子想显得<strong>发黄</strong>，它只需要吸收波长较短的蓝光（约 450 nm）。这意味着它只需要搭建一个包含 7 到 9 个双键的中等长度跑道 。比如胡萝卜素有 11 个双键，吸收了蓝光，所以呈现橙黄色。</p>
+<p>但如果分子想显得<strong>发蓝</strong>，它必须吸收波长很长的红光（约 650 nm）。这要求它搭建一个包含 20 个甚至更多双键的超长跑道，或者形成极其复杂的特殊结构。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-91a0c77bffd0b36fc3c9b0f84b332669_720w.jpg?source=8673f162" alt=""></figure>
+<p>在物质衰老、降解、被氧化这个充满破坏性的过程中，大分子链条被打断是常态。同样的风力下，20 层的积木明显比 7 层的容易倒<sup>[3]</sup><sup>[4]</sup>。</p>
+<p>热力学第二定律告诉我们，事物总是趋向于混乱(熵增)。在混乱中偶然形成一个完美的、超长的、能显蓝色的分子结构的概率，无限接近于零。<strong>所以，黄色是物质崩溃途中的常态，而蓝色是需要精心维持的巅峰态。</strong></p>
+<p>以塑料为例，过去大家以为塑料旧了就变黄，是因为里面的阻燃剂，也就是溴（Bromine）游离了出来。大家觉得溴单质是棕黄色的，所以塑料就黄了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5c3224c7efcacb84aca7ea8d0ca4ebda_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-99e3bd33f68ad4cb7a957a21c85b0b80_720w.jpg?source=8673f162" alt=""></figure>
+<p>但这其实是一口黑锅。</p>
+<p>虽然早期的 ABS 塑料确实含有溴化阻燃剂，但科学家通过实验发现，真正让塑料变黄的主谋并不是添加剂，而是塑料本身。ABS 塑料由丙烯腈、丁二烯和苯乙烯三种单体聚合而成。其中的丁二烯成分非常不老实，它受到紫外线或热量的攻击时，碳链骨架会发生光氧化反应。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0a1fd0b9bfe47ca25b12f202fcbef5ab_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个过程就像是在原本干净的分子链上瞎动刀，结果意外地“砍”出了一连串的羰基和双键。当这些随机生成的双键数量凑够了 7、8 个，它们就组成了一个能吸收蓝光的“发色团” 。于是，你的游戏机就黄了。</p>
+<p>当然，这种化学变化在一定程度上是可逆的。搞复古修复的玩家发明了一种叫 "Retr0brite" 的配方，主要成分就是双氧水（过氧化氢）<sup>[5]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-00c98ce579f30a881d5f2f9fa4e00f12_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9d6f77487d843e0fb29f49aa090e323f_720w.jpg?source=8673f162" alt=""></figure>
+<p>把发黄的塑料泡在双氧水里晒太阳，高浓度的氧化剂会强行打断这些刚刚形成的共轭双键系统，让“跑道”变短，黄色也就消退了。不过这只是治标不治本，塑料的结构已经变得更加脆弱，下次黄得更快。</p>
+<p>纸张变黄的原理也类似，但主角换成了木质素（Lignin）。木质素是树木的“胶水”，负责让树干挺拔。但在造纸时，如果要保留木质素（比如新闻纸），代价就是它特别容易被氧化。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-480d832dc6252cf4d871b96337636d60_720w.jpg?source=8673f162" alt=""></figure>
+<p>木质素分子里含有大量的苯环和酚基。在阳光中紫外线和氧气的夹击下，这些结构会发生光化学反应，生成一种叫“醌”（Quinone）的物质 。醌类结构是非常高效的蓝光吸收剂 <sup>[6]</sup>。所以，放在窗边的旧报纸不是在变旧，而是在进行一场不可逆的“美黑”，迅速给自己刷上了一层吸收蓝光的防晒霜。</p>
+<p><strong>既然变黄是大势所趋，那有没有东西老了会变蓝？</strong></p>
+<p>有，但那通常不是化学反应，而是物理魔术。</p>
+<p>某些透明塑料（如聚碳酸酯灯罩）或者生物组织在老化时，表面会产生极其微小的裂纹或孔洞。当这些微结构的尺寸刚好比较小时，会发生瑞利散射（Rayleigh Scattering）或廷德尔效应（Tyndall Effect）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1336fb778a770f99b2a876c9767d054f_720w.jpg?source=8673f162" alt=""></figure>
+<p>这就好比天空为什么是蓝的。短波长的蓝光在微小颗粒间更容易被散射出来，而长波长的红黄光则透射过去了。所以，有些老化的塑料件侧着光看会泛出一层幽灵般的“蓝雾”，但这只是光的把戏，并非物质本身变成了蓝色 <sup>[7]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5fb865885c2b5a0009732ab7cbbdd857_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc814c2e9ceab4e09e9fe725fe2e2553_720w.jpg?source=8673f162" alt=""></figure>
+<p>即使在生物进化的高级阶段，合成稳定的蓝色素也是极其困难的。自然界中 90% 以上的蓝色（如孔雀羽毛、大蓝闪蝶）都是<strong>结构色</strong>，利用纳米结构的物理干涉产生蓝色，而非化学色素。 少数化学蓝色素（如靛蓝）需要复杂的环状结构来稳定电子。老化过程是分子的崩解过程，它没有能力“从头合成”这些复杂的稳定结构。</p>
+<p>如果物质世界的变黄还不够绝望，你的身体还为你准备了最后一道黄。</p>
+<p>著名的印象派画家莫奈（Claude Monet），在晚年画的睡莲越来越黄，越来越红，完全失去了早期的清透感。这并不是他风格变了，而是他的晶状体（Lens）变黄了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b3d9782cbc414ed16eb54888abe4914e_720w.jpg?source=8673f162" alt=""></figure>
+<p>随着年龄增长，人眼晶状体中的蛋白质也会氧化、聚集，变成一个天然的黄色滤镜 。这个滤镜会无情地过滤掉进入眼球的蓝光<sup>[8]</sup>。对于 1912 年后的莫奈来说，他眼中的世界就像始终笼罩在雾霾中一样发黄。</p>
+<p>1923 年，莫奈终于接受了白内障手术，摘除了那个浑浊发黄的晶状体。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0a182c6518394b7dd20159ec97a95c85_720w.jpg?source=8673f162" alt=""></figure>
+<p>结果他突然发现世界蓝得刺眼，甚至抱怨看到了“令人作呕的蓝色”（Disgusting Blue），并因此销毁了不少那个时期的画作<sup>[9]</sup>。</p>
+<p>这封印象派大师写于生命尽头的信件感人至深，字里行间流露出他对视力不断恶化的哀叹：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-90f0c3aa2e75d32349b13da7bfcd28a1_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，大部分东西变黄，是因为熵增定律在微观上不断打断有序的长链，把它们变成只能吸收蓝光的短链残渣；而作为观察者的我们，也在用日益发黄的眼睛，给这个原本就走向衰败的世界，叠加了最后一层怀旧的滤镜。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/438795295">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1987233742394245211">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787023</guid><pubDate>Sat, 17 Jan 2026 18:22:10 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786813</guid><pubDate>Sun, 18 Jan 2026 01:24:14 GMT</pubDate></item><item><title>土壤并没有密封作用，海水为什么能留在地表，没有渗入到地心内部呢？</title><link>http://daily.zhihu.com/story/9787028</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-cc276f1456d5cabf484ab1ce9bac5876.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-6ca302579c2132c76cb684567b8c9594_l.jpg?source=8673f162">
+<span class="author">繁星与辰，</span><span class="bio">好奇是进步之阶，平常是生活之药</span>
+<a href="https://www.zhihu.com/question/2993642205/answer/1990472286197802490" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>事实很多时候都是反直觉的。全球的海洋不仅通过板块运动在往地球内部渗水，而且已经渗了几十亿年了。</p>
+<p>在漫长的地质年代里，通过板块间的挤压俯冲，大洋板块像传送带一样滑入地幔，在板块边缘形成了海沟结构。这种结构顺便就把巨量的海水也给带了下去，水就是这样往地球内部渗的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b00d88142a29bc594bb2656527024be6_720w.jpg?source=8673f162" alt=""><figcaption>板块运动示意</figcaption></figure>
+<p><strong>渗得有多快？</strong></p>
+<p>科学家通过地震波监测发现，俯冲带每年吞噬的水量高达 30 亿吨<sup>[1]</sup>。</p>
+<p><strong>渗到了哪里？</strong></p>
+<p>这些水并没有变成地心的蒸汽，随着深度和压力的增加，水分子会被分解重组，然后大部分以羟基（-OH）的形式的形式，被锁在了地下几百公里深的矿石晶格里。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bed7652504cf80ed0e142eb1f4673497_720w.jpg?source=8673f162" alt=""><figcaption>示意图</figcaption></figure>
+<blockquote><strong>冷知识：</strong> 在地下 410 到 660 公里的“地幔过渡带”，有尖晶橄榄石、布里奇曼石等矿物，其结构式中含有大量氢氧分子，按分子比例推算，这种矿物的总锁水量可能达到了全球海洋水分子总和的 3 倍及以上。</blockquote>
+<p>也就是说，我们的脚下其实踩着固态的海洋，只不过大部分水是以分子形式存在于矿物中。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d6ece64db2057c5238f6f845091a27f5_720w.jpg?source=8673f162" alt=""><figcaption>来自巴西捷那的钻石，内部有富含水的尖晶橄榄石矿物</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be4bc75c706959fc1fe4d1c4f39bc78e_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>既然地球在不断渗水，为什么几十亿年来海平面依然相对稳定？甚至还因为温室效益在上升？</strong></p>
+<p>主要有三个方面的原因：</p>
+<p><strong><strong>1. 密度分层</strong></strong></p>
+<p>不知道大家有没有喝过或者见过鸡尾酒？地球的物理分层和鸡尾酒很像，密度不同的部分会自然分层。</p>
+<blockquote>水的密度是 <img class="content-image" src="https://www.zhihu.com/equation?tex=1.0%5C+g%2Fcm%5E3" alt=""> <br>地幔的密度约为 <img class="content-image" src="https://www.zhihu.com/equation?tex=3.3%5Ctext%7B-%7D5.5%5C+g%2Fcm%5E3" alt=""> <br>地核密度则高达 <img class="content-image" src="https://www.zhihu.com/equation?tex=10%5Ctext%7B-%7D13%5C+g%2Fcm%5E3" alt=""></blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-700a1816b1c17cb5b33bb3b98d83467b_720w.jpg?source=8673f162" alt=""><figcaption>鸡尾酒的分层</figcaption></figure>
+<p>所以从物理规律上讲，密度极低的水很难穿过密度更高的地幔直接渗入地心内部。水分子在地下深处的移动只能通过寄生在矿物里随着熔岩缓慢流动，而不是以液态形式像海浪那样自由流动。</p>
+<p><strong><strong>2. 无缝可钻</strong></strong></p>
+<p>往沙里倒水，水很快就渗下去了。如果往鹅卵石上倒水呢？水可不会渗下去。</p>
+<p>在地表，水可以顺着岩石和土壤的缝隙渗漏。但到了地下几十公里，巨大的压力会让岩石的缝隙被压缩压实，地下深处的花岗岩等矿石可没有孔隙让水溜进去。没有了“孔隙”，液态水就失去了流动的物理通道，所以自然大部分液态水都留在地表。</p>
+<p><strong><strong>3. 热泵回流</strong></strong></p>
+<p>出来混，迟早是要还的，水也是一样。</p>
+<blockquote>巨量的海水在侵入地幔上层在高温高压下形成新的矿物时，会降低岩石的熔点，甚至降到 1000℃以下。这个时候，就会让一部分岩石开始熔融，形成岩浆了。</blockquote>
+<p>随着熔融的进行，岩浆越来越多，一部分就可能涌出地表，形成火山；而另一部分，则可能聚集到地壳的下面，进一步加热地壳导致熔融，熔融的地壳再喷出地表形成火山。<sup>[2]</sup></p>
+<p>这两种火山的类型也不同，这里就不展开了，感兴趣的可以自行去了解下。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbb32931bca4ef65011633df4c9b4e84_720w.jpg?source=8673f162" alt=""><figcaption>日本鹿儿岛火山喷发实拍</figcaption></figure>
+<p>火山喷发出的气体中，70%-90% 都是水蒸气。</p>
+<p>所以板块边缘的不定期火山喷发会让大量水蒸气再次进入大气层，化作降雨，再重新回到海洋。</p>
+<p>这就是地球深处波澜壮阔的深层水循环。</p>
+<p><strong>如果地球表面真的铺了一层防渗膜会是什么情况？</strong></p>
+<p>想象一下，如果地球表面的水完全进不去地壳，那么大部分火山也就不会因为岩浆而活跃，地幔也不再缓缓流动。</p>
+<p>实验结果表明，在 300 MPa 的大气压下，水的存在使橄榄石聚集体的黏度降低了约 140 倍，并且水对黏度的影响取决于橄榄石中水的浓度。利用橄榄石中水的溶解度对压力和水逸度的依赖性，结合其他岩石学约束条件，可以估算中洋脊下方熔融起始的深度。<sup>[3]</sup></p>
+<p>其后果可能是灾难性的：</p>
+<ol>
+<li>如果地球板块之间不再发生碰撞变化，而是类似于月球的静止模式，那么地球将变成像月球一样的“死球”。</li>
+<li>板块对流减速会导致地核的热量无法高效向外散发，进而导致地球外核液态金属的对流减弱，最终使得地磁场强度暴跌。</li>
+</ol>
+<p>失去地球磁场保护后，太阳风就能直接吹跑大气层，甚至逐渐剥离地球上的水蒸气并慢慢吹进太空。火星可能就经历过了这一过程，这个曾经可能存在过大量液态水的宜居星球，如今变成了一颗干涸的死星。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a5e3daf668bd7ca77a40edf4b788fc67_720w.jpg?source=8673f162" alt=""><figcaption>火星可能经历过这样的变化，现在的火星地表相关研究说明以前也存在过液态水</figcaption></figure>
+<p><strong><strong>总结一下：</strong></strong></p>
+<p>土壤并没有密封作用，水会下渗。但是靠着密度梯度、物理封锁以及火山喷发回流，水很难以液态形式渗入到地幔以下及地核，所以在地球浅层维持了一个长达 46 亿年的动态水平衡。</p>
+<p>我们之所以能在这颗星球上生存，正是因为地球这台抽水机在高效精准、永不间歇地工作着。我们应该感到庆幸，毕竟稍微有点意外情况，人类乃至地球生命就将不复存在了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2993642205">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787028</guid><pubDate>Sun, 18 Jan 2026 01:24:15 GMT</pubDate></item></channel></rss>
