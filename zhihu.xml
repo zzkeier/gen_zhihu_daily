@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 18 Jan 2026 18:21:40 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>有的鸟类能飞到万米高空，不会高反或者冻死吗？</title><link>http://daily.zhihu.com/story/9786803</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-330db9be8dfffb7c45d56e75efa7984f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Mon, 19 Jan 2026 01:22:42 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么人的命要用「条」这个量词？</title><link>http://daily.zhihu.com/story/9786830</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c97d16ddaff8989ed77a37ceaec3370c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,123 +19,146 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-b44afed6bc7c7eab6bed4c3de7cefeee_l.jpg?source=8673f162">
+<span class="author">Jajil，</span><span class="bio">认知语言学、视觉原型语法、失焦语法、语痕语义学</span>
+<a href="https://www.zhihu.com/question/1962525479866177428/answer/1991303498667667805" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>这个问题在语言学界也有不同的说法。</p>
+<p>一种是“道路说”，另一种是“人体说”。</p>
+<p>前者秉持的观点是，生命像一条人生旅程中的道路。由于这种隐喻所以也用“条”。持这种说法的主要学者是认知语言学学者张敏等人。</p>
+<p>后者的观点是人体形状本就是长条状所以用“条”。持这种说法的学者主要是戴浩一等人。</p>
+<p>南洋理工的郭诗玲对“条 + 命”及“条 + 新闻”进行过详细的分析。在她的分析中，她认为张敏提到的“条 + 命”的道路隐喻说以及张敏提到的“条 + 新闻”的语流串说均不成立。</p>
+<p>她给出了如下理据：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e1a7121e95c8c98199757a879eb3b8d3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b16835bc0b146729400c04a2f6793ddf_720w.jpg?source=8673f162" alt=""></figure>
+<p>在她给出的用例发展线索中完全没出现跟“人生旅程的道路”这种隐喻语义有关的例子。所以，她认为这些例子是对“道路说”的有力反驳。</p>
+<p>而对于“条 + 新闻”，她发现这种用法最早出现于新闻纸里面的新闻内容。因此，这里的“条”并非表示形状，而是“分项”。她认为这个证据也有力反驳了“语流串”说。</p>
+<p>最终，她给出了“条”如何由本义引申出两种量词语义的演化路径。如下图：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b237a484c0e87d1cfce11894b901a23_720w.jpg?source=8673f162" alt=""></figure>
+<p>她的分析主要是基于历时的语料实证进行的，得出的结论也基本合理。</p>
+<p>结论是：</p>
+<p>“条 + 命”的语义特征是：[+ 长条状]，即命由于人体的形状是长条状的所以命也是长条状的。</p>
+<p>“条 + 新闻”的语义特征是：[+ 分项]</p>
+<p>对于这种结论还是可以进一步问出两个问题的。</p>
+<p>既然支持“人体说”，那为什么“条 + 人”不成立？</p>
+<p>这个问题郭诗玲提到了，但并未解释原因。</p>
+<p>根据上述各个例子来看，“条”与“长身”的识解有关，这种识解一方面表面看起来与长大的形象有关。然而，“一条好汉”中的“好汉”未必是身形长大。这里，“条”指“某种顶天立地的气质，纵向（由顶天立地激活的认识）贯穿好汉的身体”，是一种量词的概念隐喻整合用法，并非直接指人体形状。另一方面与人体宽度与长度的比值偏小显出长条状有关（如细条身子、条身子、条影子；后面两个主要指长条状那种）。</p>
+<p>“人”作为上位范畴并不一定唤起上述两种范畴的识解，因此不会使用量词“条”。</p>
+<p>“赤条条”指的是赤裸状态下形成的人体“本来面貌”的印象。这里的“条”是“无叶子遮挡的树枝的本貌”隐喻“裸露的身体”。</p>
+<p>可见，郭诗玲的分析还是因理论支撑有限而出现误判的情况。</p>
+<p>另一个问题就是人体的长条状需要上述的两种识解才被激活的条件下，为什么“命”就激活了呢？难道“命”与“顶天立地的纵穿气质”或“人体的宽长比偏小”有关？</p>
+<p>显然，“命”有其自身的语义框架，并非绑定上述两种识解。</p>
+<p>从“这条老命”、“一条狗命”来看，“命”绝非直接由人体形状激活其“形状”。“老”说明“命”具有历程语义而“狗”说明“命”具有贵贱语义，且这种语义往往是与一个人的行为历程有关的。比如，一个人做了坏事被发现时，他人放过这个人时就会用到“饶你一条狗命”这种说法。如果没有“做坏事”的行为历程，“狗命”就难以激活。</p>
+<p>更关键的实证是“你有几条命都不够”。</p>
+<p>这句话的语义指“会连续经历惩罚”，即连续经历相同的惩罚历程。这说明“命”具有“历程语义”。</p>
+<p>而“他捡回一条命”也说明了“命”在这里的“历程”更新了。</p>
+<p>周芍和邵敬敏（2014）认为“条”与“根”的区别在于：前者指一维的动态轨迹，而后者指二维横截面同质化的纵向展开得到的“不可继续延伸”的完整个体。这是为什么只能有“一根头发”而非“* 一条头发”的原因。当我们使用“一条绳子”时，语义倾向于绳子长度的纵向延伸期待；而使用“一根绳子”时，语义倾向于绳子作为独立个体的功能性。</p>
+<p>以周、邵的观点看待“条 + 命”是合理的。“命”在时间历程上具有隐喻为一维空间的动态延伸性，所以才激活了量词“条”的使用。这也呼应了张敏提出的人生旅程隐喻道路说。</p>
+<p>“命”的语义可理解为人活出的动态轨迹，它转喻了人活着的“能力”。所以才会出现“要命”这种“能力剥夺”类的用法。</p>
+<p>“条 + 新闻”的分项义也是比较勉强的。因为“一条消息”、“一条命令”都并非涉及“新闻纸分项”这种原型。它们和新闻一样都需要保持注意力延伸的线性接收，才激活了“条”的使用。</p>
+<p>希望上述分析对题主的全面深入理解汉语量词有帮助。汉语量词的使用绝非是简单的按实体的实际轮廓来使用的，它涉及了概念隐喻、概念整合以及不同的识解角度。郭诗玲的分析误判说明要准确分析语料对应的语义还是需要扎实的理论语言学基础的。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1962525479866177428">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786830</guid><pubDate>Mon, 19 Jan 2026 01:22:39 GMT</pubDate></item><item><title>鸟儿为什么不躺着睡？</title><link>http://daily.zhihu.com/story/9786840</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e597b1dacede843fa05f7e465a5c45ce.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
 <span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/1982452543176085785/answer/1982772327503646903" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/1895551357248856795/answer/1905358031715275455" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>1973 年 11 月 29 日，一架商业客机在科特迪瓦上空 11300 米<sup>[1]</sup>的高度与一只鸟相撞，导致引擎关闭<sup>[2]</sup>。经过残骸鉴定，那是一只黑白兀鹫 (<em>Gyps rueppelli</em>)。这个高度的气压不到海平面的四分之一，温度低至零下 50 摄氏度。天鹅或鹤类也被记录到在 8000 米以上的高度飞行<sup>[3]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-57b7f0d50bcb3c581a6a05eaf315fb60_720w.jpg?source=8673f162" alt=""><figcaption>黑白兀鹫</figcaption></figure>
-<p>它们为什么不会高反或者冻死？</p>
-<p>首先得谈谈呼吸。哺乳动物的肺设计得很糟糕，我们采用的是“潮汐式”呼吸，吸进去的新鲜空气总会和肺里残留的废气混合，导致肺泡里的氧气浓度永远低于外界<sup>[4]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c7048909511c9279736a4c9996868ad9_720w.jpg?source=8673f162" alt=""></figure>
-<p>而在万米高空，外界氧分压本来就只有海平面的四分之一，如果再这么一混合，那你基本上就只能等着大脑宕机了。</p>
-<p>鸟类则完全不同，它们进化出了一套单向流动的呼吸系统。鸟的肺是刚性的，不会像你的肺那样热胀冷缩，它们依靠体内的气囊像风箱一样把空气“推”过肺部 。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-30f1fb234b26c3d468cbc78369f35e07_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种设计保证了无论是吸气还是呼气，流经肺部的永远是富含氧气的新鲜气流，就像一台涡轮增压发动机。</p>
-<p>更精妙的是血液与空气的接触方式。人类肺里的血管和气管是并行排列的，效率一般。而鸟类采用的是“交叉流”交换系统，毛细血管与空气管道呈垂直交叉排列，这种结构能让血液中的氧分压甚至超过呼出气体中的氧分压 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b749389afd95a9421aadcd7ae0aa678a_720w.jpg?source=8673f162" alt=""><figcaption>比较鸟类与哺乳动物（狗和猫）在不同血管压和气道压下肺毛细血管直径的变化</figcaption></figure>
-<p>此外，为了防止在高压血流冲击下发生肺水肿（这是人类在高原死亡的主要原因之一），鸟类的毛细血管被包裹在一种坚硬的六角形“蜂窝”结构中（具体来说是旁支气管（Parabronchi）），提供了极强的物理支撑 <sup>[5]</sup>。所以，鸟类几乎天生免疫高海拔肺水肿。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-da55dc85a91eb8ff27b8a40d48034037_720w.jpg?source=8673f162" alt=""></figure>
-<p>解决了氧气摄入，还得解决运输问题。在高空，斑头雁的血红蛋白发生了一个微小的基因突变，仅仅改变了一个氨基酸，就移除了分子内部的一个阻碍点，使其对氧气的亲和力大增 。这就像给红细胞装上了强力磁铁，能在极其稀薄的空气中强行抓取氧分子<sup>[6]</sup>。</p>
-<p>同时，它们的大脑对低二氧化碳水平具有惊人的耐受力。人类如果在缺氧时过度喘气，会因为二氧化碳排出过多导致脑血管收缩，进而晕厥。但斑头雁等高空鸟类即便把通气量增加 7 倍，脑血管依然保持扩张，确保持续供血 <sup>[7]</sup>。</p>
-<p>至于会不会冻死，这取决于它们怎么飞。对于像斑头雁这样依靠扑翼飞行的，最大的问题其实是散热。</p>
-<p>在持续的扑翼飞行中，斑头雁体内的产热量是静息状态的 10-15 倍。即便在低温环境中，其核心体温也可能因剧烈运动而升高。因此，环境的低温恰好充当了高效的冷却剂，防止鸟类在剧烈运动中发生过热（Hyperthermia）<sup>[8]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9f13b45af079ff846de5748f90ec277e_720w.jpg?source=8673f162" alt=""><figcaption>风洞中内两只不同牡丹鹦鹉的热成像图</figcaption></figure>
-<p>而对于黑白兀鹫这种依靠滑翔的，它们确实面临失温风险。但它们腿部拥有精密的“逆流热交换”系统：流向脚掌的温暖动脉血会预热流回心脏的冷静脉血，既防止了核心体温下降，又让脚掌温度接近环境温度，从而减少热量散失 <sup>[9]</sup>。</p>
-<p>不过，即便拥有这些神级装备，鸟类也绝不盲目硬撑。最新的 GPS 追踪数据显示，斑头雁在穿越喜马拉雅山脉时，并非一直保持在最高高度，而是采用一种“过山车”式的飞行策略，紧贴地形起伏<sup>[10]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c493410e5340c819da5c2ec74a85616a_720w.jpg?source=8673f162" alt=""></figure>
-<p>这虽然看起来忽上忽下很累，但实际上大大利用了低层相对稠密的空气来产生升力，比直线高飞更省油 。</p>
+<p>在一片荒芜的野地，干枯的草茎在微风中轻轻摇曳。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc25ed34dbacb521b98bec4b9f5c826f_720w.jpg?source=8673f162" alt=""></figure>
+<p>一根干枯的向日葵上，似乎有什么活物趴在上面。</p>
+<p>镜头慢慢靠近，才发现这是一只红额金翅雀（<em>Carduelis carduelis</em>），仰着躺在花的背面休息。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6678f61351e073754271b7acdbac8b35_720w.jpg?source=8673f162" alt=""></figure>
+<p>近看时，似乎可以看到眼睛睁着。</p>
+<p>许多鸟类，尤其是那些需要保持警惕以避免捕食的鸟类，可能会在睡眠时睁着一只眼睛。这种行为称为“单眼睡眠”（unihemispheric slow-wave sleep），它允许鸟类的一半大脑进入睡眠状态，而另一半大脑保持清醒并监控环境。这样的适应性有助于它们在危险环境中生存。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3466aa38389a56fe80a5d2320ad1e140_720w.jpg?source=8673f162" alt=""></figure>
+<p>拍摄者把手指伸过去，想要探一下鸟儿，它一下就完全醒了，扑棱一下就飞走。可见它确实睡眠很浅。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-59e217f8e40a095c6ee4fcf9e0da9284_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b53aa80eef3e8485645fe687ac697836_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9775efb2adbda636d0975b9aa0ad2724_720w.gif?source=8673f162" alt=""></figure>
+<p>后面拍摄者又去找了两棵向日葵，都没找到，幸运的是，第三棵又找到了一只躺着休息的红额金翅雀……</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d3fedb9333f0181bc878b14bc9d8d981_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5376c0e211422172a34d6c37d5fa8d11_720w.gif?source=8673f162" alt=""></figure>
+<p>一般来说，很难看到平躺的鸟儿。因为对它们来说，这种姿势很没有安全感。</p>
+<p>大多数鸟类选择站立<sup>[1]</sup>，这样遇到危险可以随时飞走。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-496280e30cd50bc4bc10fcc1b0d1c025_720w.jpg?source=8673f162" alt=""></figure>
+<p>单脚或双脚站立，把头藏在翅膀下，来保持温暖和稳定。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a259d35c0e772ebf31cdb9dbe753b9f8_720w.jpg?source=8673f162" alt=""></figure>
+<p>把头藏起来，就意味着观察到环境的范围变得有限了，也就有了一定的风险。尽管这种姿势可能增加捕食风险，但它有助于保存能量，特别是在长距离飞行后。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6535ca7b666a6ea3603749db125cb75e_720w.jpg?source=8673f162" alt=""></figure>
+<p>在针对夜间迁徙的鸣禽研究发现，身体状况较差的鸟更倾向于采用“把头埋起来”姿势，而健康状况较好的鸟可能选择更警惕的姿势<sup>[2]</sup>。</p>
+<p>也有选择倒挂的，比如鹦鹉：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-607774433fd09a3d4ed3ac06cacbcdf5_720w.jpg?source=8673f162" alt=""></figure>
+<p>蜂鸟也会倒挂（也有站着的）：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f5993e57ac04c38619e0b31ffac436ed_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5dd5d4c08c18a779ade6ca919b427d34_720w.jpg?source=8673f162" alt=""></figure>
+<p>也有选择趴着的，比如猫头鹰的雏鸟：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-36cc19ede69ee6ac2e070f33b9bfb6a6_720w.jpg?source=8673f162" alt=""></figure>
+<p>水鸟如鸭子也会趴着：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc0057b242631a92fe52930ad319fa01_720w.jpg?source=8673f162" alt=""></figure>
+<p>它们还会站着、浮着：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2f806679a0bdea3d474a57be459b73c2_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3c981d2820dea50e9a213df0fe10284_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，还有飞着睡的。</p>
+<p>比如一些长途迁徙的鸟，信天翁、军舰鸟。曾有研究结合实验室技术和野外观察<sup>[3]</sup>，使用脑电图（EEG）监测鸟类的脑电波，区分清醒、慢波睡眠（SWS）和快速眼动睡眠（REM）。同时，安装加速度计记录鸟类的飞行模式。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1b5330d49578bc0e8bb83906c7e56b74_720w.jpg?source=8673f162" alt=""></figure>
+<p>结果发现，军舰鸟在飞行中确实会进入睡眠状态，但睡眠时间非常短，每天仅约 0.69 小时（相当于陆地上睡眠时间的 7.4%）。</p>
+<p>这种睡眠模式属于单半球慢波睡眠，即一只眼睛闭上，另一只眼睛睁开，保持警惕。</p>
+<p>一般来说，相对容易看到在躺着的鸟儿是鹦鹉<sup>[4]</sup>，而不是前面的红额金翅雀。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f9ac72ae30fc2a6798963c4d3e365399_720w.jpg?source=8673f162" alt=""></figure>
+<p>对于鸟类来说，站立姿势便于快速逃离捕食者，而平躺则可能增加暴露风险。对于家里养的鹦鹉，自然无需担心外面的危险，有了安全感，那就不用考虑睡姿。</p>
+<p>就像猫露肚皮一样，这是对主人的绝对信任。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-091d8718f8cad39b88adea00b4c80f63_720w.jpg?source=8673f162" alt=""></figure>
+<p>虽然站着睡也不费力，但躺着更不费力了……</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-39cdc7d52fc24830fea7f3fb3d466b31_720w.jpg?source=8673f162" alt=""></figure>
+<p>躺着时，鸟类的身体重量均匀分布在支撑表面上，减少了腿部和脚部的压力。</p>
+<p><strong><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.facebook.com/koibeibirdcomics%3F__cft__%255B0%255D%3DAZVEiGxixEzWqFSdCmcpQQzdFP-iUe1ocBbN_-pGnnuXYezSZk1MrUXPljM2wCF00y4ZW5zGy30R4Gh0C8zOs12CmvSysaHJX3fOKMrIF2OHK_BD8MSvRVJAO604bQgKsZeiDXuARSMF3KqujLnwaqMS2ihfUNOQn0PcR2AYPclvNw%26__tn__%3D-UC%252CP-R" target="_blank" rel="nofollow noreferrer">Koi & Bei Bird Comics</a></strong><sup>[5]</sup><strong>的这幅漫画就表现了鹦鹉的不同睡姿：</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-06dbf3b2d2afb44744794fe09b6e88ab_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，前面那只红额金翅雀大抵是有安全感吧……虽然不确定是哪儿来的安全感。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c913b016ab7b015aebb0b63f1448348_720w.gif?source=8673f162" alt=""></figure>
+<p>可能是鹦鹉给的吧（bushi</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1982452543176085785">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786803</guid><pubDate>Sun, 18 Jan 2026 18:21:37 GMT</pubDate></item><item><title>零下 40℃，蒙古人住蒙古包里为啥不觉得冷？</title><link>http://daily.zhihu.com/story/9786804</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8988bf92ca6d812fc357577a561c5770.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/7bd57b2a5_l.jpg?source=8673f162">
-<span class="author">王洪江</span>
-<a href="https://www.zhihu.com/question/1990513080740898371/answer/1990544829667633072" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>先说是不是，再说为什么。</p>
-<p>零下 40 度时，蒙古包冷不冷？</p>
-<p>答案是当然冷，所谓的“住蒙古包里为啥不觉得冷”是伪命题，不值一驳。</p>
-<p>回答完毕。</p>
-<p>展开讲讲：</p>
-<p>蒙古包我住过很多次，包括冬天晚上在蒙古包过夜。</p>
-<p>蒙古包里面其实是很冷的，但已经是最优解了。</p>
-<p>蒙古包的结构比较简单，总体而言是一个石头地基，一个木头框架，再蒙上几层厚厚的毛毡。</p>
-<p>中间放置一个火炉，蒙古语叫“郭勒穆特”。</p>
-<p>蒙古包几乎没有普通砖房的那种窗户，而是有一个天窗，另外是靠门来采光，</p>
-<p>虽然有多层毛毡围绕起来，但是毛毡最主要的功能是防风</p>
-<p>一来是防止冷风直接吹进来，</p>
-<p>二来是保持蒙古包里面的热空气不要跑掉。</p>
-<p>但这样并不能完全阻止热量散失，</p>
-<p>而且，毛毡隔音也很不好，我在蒙古包外面路过的话，里面人在说什么能听得清清楚楚。</p>
-<p>蒙古包里面主要是热量来源还是靠燃烧火炉，</p>
-<p>目前的燃料很好了，夏天一般烧木头，冬天可以烧煤。</p>
-<p>如果是之前的蒙古地区，好木头是不能拿来烧掉的，太奢侈了，</p>
-<p>零杂木头就像苍蝇腿，不够烧的，</p>
-<p>煤炭也不容易挖掘到。</p>
-<p>事实上真正的燃料是晒干的牛粪饼。</p>
-<p>就是牧民们去拾牛排泄的一大坨牛粪，晾干了就是一块牛粪饼，</p>
-<p>因为主要成分是草纤维，而且晒干了，</p>
-<p>约等于燃烧干草，所以气味还能接受。</p>
-<p>缺点是这种牛粪饼很不耐烧，就需要经常添加。</p>
-<p>而且说到底是在烧草，草的热量并不高，</p>
-<p>看起来火焰熊熊，但是转瞬即逝，</p>
-<p>负责看守火炉的人也很难睡一个安稳觉，可能个把小时就要看看炉火。</p>
-<p>如果炉火也深夜熄灭了，就很麻烦，</p>
-<p>因为之前没有什么打火机，火种是很珍贵的，</p>
-<p>一旦失去了火种，茫茫草原，寒冬凛冽，</p>
-<p>一家人是真的可能整个都冻僵的。</p>
-<p>侧面也可以看一下蒙古族之前的人口数量，和平均寿命，</p>
-<p>能够侧面印证蒙古包没那么舒适，但是也已经是最优解。</p>
-<p>虽然我不是很清楚为什么，</p>
-<p>会有人能觉得睡蒙古包竟然不觉得冷，</p>
-<p>但是，实践是检验真理的唯一标准，</p>
-<p>深秋的时候去草原上睡一夜蒙古包就知道啦，</p>
-<p>冬天别去，冻病了就不好了。</p>
-<p>稍作补充：</p>
-<p>问：在蒙古包里面烧炉火，会不会一氧化碳中毒？</p>
-<p>答：几乎不会。现代蒙古包的炉子已经有烟囱了，古代未必有烟囱，但蒙古包并不是密不透风的，仅仅靠毛毡还做不到那么强的密封性，还是漏风的。而且，烧牛粪饼还是有一定的烟气的，如果完全不通风的话，没等一氧化碳中毒，人先呛死啦。蒙古包是有一个圆形的天窗的，只要打开一个缝隙，就能把烟气排出去，把新鲜空气换进来。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1990513080740898371">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1895551357248856795">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786804</guid><pubDate>Sun, 18 Jan 2026 18:21:38 GMT</pubDate></item><item><title>为什么大部分东西旧了就会变黄而不是变蓝？这是什么科学道理？</title><link>http://daily.zhihu.com/story/9786813</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ffd4fd24e2874e7688b4ea00ca8f7607.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786840</guid><pubDate>Mon, 19 Jan 2026 01:22:40 GMT</pubDate></item><item><title>为什么狮子老虎的眼睛和猫的眼睛不一样？</title><link>http://daily.zhihu.com/story/9786844</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2f5a9952841185f1ad8711d80ae9bea2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -157,67 +180,60 @@
 <div class="meta">
 <img class="avatar" src="https://pica.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
 <span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/1987233742394245211/answer/1987559815728358897" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/41100560/answer/1944339060568064095" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>要理解变黄，得先搞清楚颜色的视觉逻辑。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-01a7d144609d613a6d9208c0a6928a93_720w.jpg?source=8673f162" alt=""></figure>
-<p>我们看到黄色，是因为物体吸收了光谱中的蓝紫光（高能短波），把剩下的红绿光反射进了你的眼睛。反之，如果一个物体想呈现蓝色，它就得吸收光谱另一端的红橙光（低能长波）<sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d743bbbb97af11d24cfb9e5cefdfd9b_720w.jpg?source=8673f162" alt=""></figure>
-<p>在微观世界里，有机物要吸收光，靠的是分子内部碳原子手拉手形成的“共轭双键”系统。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7b9418f531b242dc440f86280f83495_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就像一群电子在碳原子搭建的跑道上折返跑。根据量子力学中的“一维势箱”模型，这个跑道（共轭链）越长，电子跑得越欢，需要的激发能量就越低，吸收的光波长就越长<sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fbd0c6d0da6e93a5caeb009f0910b144_720w.jpg?source=8673f162" alt=""></figure>
-<p>接下来就是搭积木的问题了。</p>
-<p>如果分子想显得<strong>发黄</strong>，它只需要吸收波长较短的蓝光（约 450 nm）。这意味着它只需要搭建一个包含 7 到 9 个双键的中等长度跑道 。比如胡萝卜素有 11 个双键，吸收了蓝光，所以呈现橙黄色。</p>
-<p>但如果分子想显得<strong>发蓝</strong>，它必须吸收波长很长的红光（约 650 nm）。这要求它搭建一个包含 20 个甚至更多双键的超长跑道，或者形成极其复杂的特殊结构。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-91a0c77bffd0b36fc3c9b0f84b332669_720w.jpg?source=8673f162" alt=""></figure>
-<p>在物质衰老、降解、被氧化这个充满破坏性的过程中，大分子链条被打断是常态。同样的风力下，20 层的积木明显比 7 层的容易倒<sup>[3]</sup><sup>[4]</sup>。</p>
-<p>热力学第二定律告诉我们，事物总是趋向于混乱(熵增)。在混乱中偶然形成一个完美的、超长的、能显蓝色的分子结构的概率，无限接近于零。<strong>所以，黄色是物质崩溃途中的常态，而蓝色是需要精心维持的巅峰态。</strong></p>
-<p>以塑料为例，过去大家以为塑料旧了就变黄，是因为里面的阻燃剂，也就是溴（Bromine）游离了出来。大家觉得溴单质是棕黄色的，所以塑料就黄了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5c3224c7efcacb84aca7ea8d0ca4ebda_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-99e3bd33f68ad4cb7a957a21c85b0b80_720w.jpg?source=8673f162" alt=""></figure>
-<p>但这其实是一口黑锅。</p>
-<p>虽然早期的 ABS 塑料确实含有溴化阻燃剂，但科学家通过实验发现，真正让塑料变黄的主谋并不是添加剂，而是塑料本身。ABS 塑料由丙烯腈、丁二烯和苯乙烯三种单体聚合而成。其中的丁二烯成分非常不老实，它受到紫外线或热量的攻击时，碳链骨架会发生光氧化反应。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0a1fd0b9bfe47ca25b12f202fcbef5ab_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个过程就像是在原本干净的分子链上瞎动刀，结果意外地“砍”出了一连串的羰基和双键。当这些随机生成的双键数量凑够了 7、8 个，它们就组成了一个能吸收蓝光的“发色团” 。于是，你的游戏机就黄了。</p>
-<p>当然，这种化学变化在一定程度上是可逆的。搞复古修复的玩家发明了一种叫 "Retr0brite" 的配方，主要成分就是双氧水（过氧化氢）<sup>[5]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-00c98ce579f30a881d5f2f9fa4e00f12_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9d6f77487d843e0fb29f49aa090e323f_720w.jpg?source=8673f162" alt=""></figure>
-<p>把发黄的塑料泡在双氧水里晒太阳，高浓度的氧化剂会强行打断这些刚刚形成的共轭双键系统，让“跑道”变短，黄色也就消退了。不过这只是治标不治本，塑料的结构已经变得更加脆弱，下次黄得更快。</p>
-<p>纸张变黄的原理也类似，但主角换成了木质素（Lignin）。木质素是树木的“胶水”，负责让树干挺拔。但在造纸时，如果要保留木质素（比如新闻纸），代价就是它特别容易被氧化。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-480d832dc6252cf4d871b96337636d60_720w.jpg?source=8673f162" alt=""></figure>
-<p>木质素分子里含有大量的苯环和酚基。在阳光中紫外线和氧气的夹击下，这些结构会发生光化学反应，生成一种叫“醌”（Quinone）的物质 。醌类结构是非常高效的蓝光吸收剂 <sup>[6]</sup>。所以，放在窗边的旧报纸不是在变旧，而是在进行一场不可逆的“美黑”，迅速给自己刷上了一层吸收蓝光的防晒霜。</p>
-<p><strong>既然变黄是大势所趋，那有没有东西老了会变蓝？</strong></p>
-<p>有，但那通常不是化学反应，而是物理魔术。</p>
-<p>某些透明塑料（如聚碳酸酯灯罩）或者生物组织在老化时，表面会产生极其微小的裂纹或孔洞。当这些微结构的尺寸刚好比较小时，会发生瑞利散射（Rayleigh Scattering）或廷德尔效应（Tyndall Effect）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1336fb778a770f99b2a876c9767d054f_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就好比天空为什么是蓝的。短波长的蓝光在微小颗粒间更容易被散射出来，而长波长的红黄光则透射过去了。所以，有些老化的塑料件侧着光看会泛出一层幽灵般的“蓝雾”，但这只是光的把戏，并非物质本身变成了蓝色 <sup>[7]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5fb865885c2b5a0009732ab7cbbdd857_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc814c2e9ceab4e09e9fe725fe2e2553_720w.jpg?source=8673f162" alt=""></figure>
-<p>即使在生物进化的高级阶段，合成稳定的蓝色素也是极其困难的。自然界中 90% 以上的蓝色（如孔雀羽毛、大蓝闪蝶）都是<strong>结构色</strong>，利用纳米结构的物理干涉产生蓝色，而非化学色素。 少数化学蓝色素（如靛蓝）需要复杂的环状结构来稳定电子。老化过程是分子的崩解过程，它没有能力“从头合成”这些复杂的稳定结构。</p>
-<p>如果物质世界的变黄还不够绝望，你的身体还为你准备了最后一道黄。</p>
-<p>著名的印象派画家莫奈（Claude Monet），在晚年画的睡莲越来越黄，越来越红，完全失去了早期的清透感。这并不是他风格变了，而是他的晶状体（Lens）变黄了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b3d9782cbc414ed16eb54888abe4914e_720w.jpg?source=8673f162" alt=""></figure>
-<p>随着年龄增长，人眼晶状体中的蛋白质也会氧化、聚集，变成一个天然的黄色滤镜 。这个滤镜会无情地过滤掉进入眼球的蓝光<sup>[8]</sup>。对于 1912 年后的莫奈来说，他眼中的世界就像始终笼罩在雾霾中一样发黄。</p>
-<p>1923 年，莫奈终于接受了白内障手术，摘除了那个浑浊发黄的晶状体。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0a182c6518394b7dd20159ec97a95c85_720w.jpg?source=8673f162" alt=""></figure>
-<p>结果他突然发现世界蓝得刺眼，甚至抱怨看到了“令人作呕的蓝色”（Disgusting Blue），并因此销毁了不少那个时期的画作<sup>[9]</sup>。</p>
-<p>这封印象派大师写于生命尽头的信件感人至深，字里行间流露出他对视力不断恶化的哀叹：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-90f0c3aa2e75d32349b13da7bfcd28a1_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，大部分东西变黄，是因为熵增定律在微观上不断打断有序的长链，把它们变成只能吸收蓝光的短链残渣；而作为观察者的我们，也在用日益发黄的眼睛，给这个原本就走向衰败的世界，叠加了最后一层怀旧的滤镜。</p>
+<p>2015 年，由视觉科学家马丁·班克斯（Martin Banks）领导的团队在《科学进展》（Science Advances）期刊上发表了一项研究<sup>[1]</sup>。</p>
+<p>他们分析了 214 种陆生动物，发现物种的瞳孔形状与其生态位之间存在着强相关性。</p>
+<p>研究揭示了三种主要的瞳孔形态及其对应的生态角色：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-210368b11c5b8287def3acdaad5c7f06_720w.jpg?source=8673f162" alt=""></figure>
+<p>1、垂直缝隙瞳孔</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fa84663d121a39bfb98f74c81c21d706_720w.jpg?source=8673f162" alt=""></figure>
+<p>研究发现，拥有垂直缝隙瞳孔的物种极有可能是伏击型捕食者，并且在昼夜交替（晨昏或夜间）的环境中都保持活跃 。</p>
+<p>这些动物，如家猫、狐狸和某些蛇类，依赖于隐蔽和出其不意的致命一击。它们的生存之道在于精确计算一次完美的扑袭。</p>
+<p>2、水平狭长瞳孔</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-49e8b472de6696b909b77de12b1506f9_720w.jpg?source=8673f162" alt=""></figure>
+<p>与垂直缝隙相反，水平狭长的瞳孔绝大多数存在于被捕食的食草动物中，例如绵羊、山羊和鹿 。</p>
+<p>这些动物的眼睛通常位于头部两侧，水平瞳孔为其提供了宽广的全景视野。这种视野形态对于侦测从地平线各个方向逼近的捕食者至关重要，同时还能有效减少来自天空的炫目眩光，使其能更清晰地观察地面 。</p>
+<p>3、圆形瞳孔</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-264cff731ffa3468ee64ad64c32daa35_720w.jpg?source=8673f162" alt=""></figure>
+<p>圆形瞳孔则与“主动觅食者”或“追击型捕食者”紧密相关 。</p>
+<p>这类动物，包括狼、猎豹，以及我们的主角狮子和老虎，它们通常会追逐猎物一段距离后再将其制服。</p>
+<p>为什么垂直缝隙瞳孔更擅长伏击？</p>
+<p>猫在明亮光线下，瞳孔会缩成一道很窄的垂直细缝。根据光学原理（类似相机的“小光圈”效应），瞳孔在某个维度上越窄，该维度上的景深就越大。因此，竖瞳在水平方向上创造了极大的景深。</p>
+<p>这意味着在动物的视野中，处于不同距离的水平轮廓（例如，地面、草地）都能保持清晰。这为捕食者提供了一个清晰的背景“坐标系”。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-461e23eb0ec3bcd900273b0cfe700fcf_720w.jpg?source=8673f162" alt=""></figure>
+<p>与水平方向相反，瞳孔在垂直方向上相对较宽，这导致了垂直方向上的景深非常浅。</p>
+<p>当动物聚焦于某一点时，稍微偏离这个焦点距离的物体，其垂直轮廓就会变得模糊。大脑可以精确地解读这种“离焦模糊”的程度，并将其转化为极其精确的距离信息。</p>
+<p>此时，猫通过轻微地调整焦距，它可以观察猎物的垂直轮廓的模糊变化，从而在不动声色的情况下计算出精确的伏击距离。</p>
+<p>既然垂直缝隙瞳孔对于捕食者如此高效，那为何狮子和老虎没有这种“高级配置”呢？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c96e27dbfa1da3a741afe0a2cce4ef77_720w.jpg?source=8673f162" alt=""></figure>
+<p>这正是班克斯研究中最为关键的发现：<strong>垂直缝隙瞳孔的优势与动物的身高紧密相关 </strong>。</p>
+<p><strong>简单来说就是，老虎狮子它们太高了。</strong></p>
+<p>研究数据揭示了一个清晰的临界值：约 42 厘米的肩高。在研究涉及的 65 种眼睛朝前的伏击捕食者中，拥有垂直瞳孔的物种里，有 82%的肩高低于 42 厘米。与此相反，拥有圆形瞳孔的伏击捕食者中，仅有 17%的肩高低于 42 厘米 。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9edcd2b07d3bfef300cc766629dea353_720w.jpg?source=8673f162" alt=""><figcaption>不同身高观察者看到的地面图像。一个视场为 30°、光圈直径为 4.5 毫米的虚拟相机对准了倾角为 θ = 56° 的平面，并将焦点对准黑色十字，距离为 z 0 。从上到下，z 0 分别为 0.6 m、0.2 m 和 0.1 m</figcaption></figure>
+<p>所以，身高是决定瞳孔形态演化方向的关键变量。</p>
+<p>对于一个<strong>身材矮小</strong>的动物（如家猫），其视线与地面的夹角非常小。在它的视野里，十多厘米物体与三米外的地面之间的模糊程度差异非常显著，形成了一个陡峭的、信息丰富的“模糊梯度”。</p>
+<p>而对于一个<strong>身材高大</strong>的动物（如狮子），其观察地面的视角要陡峭得多。在相同的地面距离上，物体之间的模糊程度差异变得微不足道，这使得离焦模糊成为一个微弱且不可靠的距离线索 。</p>
+<p>因此，对于高大的捕食者来说，垂直缝隙瞳孔所提供的核心优势几乎消失了。维持这种特殊形态的进化压力也随之不复存在。</p>
+<p>在这种情况下，功能全面的圆形瞳孔便成为了更优的进化选择。圆形瞳孔能够在整个视野内提供均匀、清晰的聚焦，这对于需要在广阔多变的地形中追逐大型猎物的动物来说，是更为有利的视觉配置 。</p>
+<p><strong>但任何科学规律的有趣之处，都在于例外</strong>。</p>
+<p>在猫科动物中，就有一个著名“小个子圆瞳”，<strong>兔狲 </strong><em>(Otocolobus manul)</em>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8e0e5f80bfb153e90334052d79dcf19b_720w.jpg?source=8673f162" alt=""></figure>
+<p>兔狲生活在缺少高草遮蔽的开阔戈壁和山地，它的捕食方式更多是在岩石后探头窥视，追捕鼠兔等猎物。</p>
+<p>在这种环境下，竖瞳利用垂直线条进行伪装和测距的优势消失了。相反，一个能提供均匀视野的圆形瞳孔，更适合它在开阔地带的生存方式。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1987233742394245211">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/41100560">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786813</guid><pubDate>Sun, 18 Jan 2026 18:21:39 GMT</pubDate></item><item><title>土壤并没有密封作用，海水为什么能留在地表，没有渗入到地心内部呢？</title><link>http://daily.zhihu.com/story/9787028</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-cc276f1456d5cabf484ab1ce9bac5876.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786844</guid><pubDate>Mon, 19 Jan 2026 01:22:41 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787003</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -232,69 +248,39 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 为什么都说消费降级了，但旅游时依旧人山人海？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-6ca302579c2132c76cb684567b8c9594_l.jpg?source=8673f162">
-<span class="author">繁星与辰，</span><span class="bio">好奇是进步之阶，平常是生活之药</span>
-<a href="https://www.zhihu.com/question/2993642205/answer/1990472286197802490" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>事实很多时候都是反直觉的。全球的海洋不仅通过板块运动在往地球内部渗水，而且已经渗了几十亿年了。</p>
-<p>在漫长的地质年代里，通过板块间的挤压俯冲，大洋板块像传送带一样滑入地幔，在板块边缘形成了海沟结构。这种结构顺便就把巨量的海水也给带了下去，水就是这样往地球内部渗的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b00d88142a29bc594bb2656527024be6_720w.jpg?source=8673f162" alt=""><figcaption>板块运动示意</figcaption></figure>
-<p><strong>渗得有多快？</strong></p>
-<p>科学家通过地震波监测发现，俯冲带每年吞噬的水量高达 30 亿吨<sup>[1]</sup>。</p>
-<p><strong>渗到了哪里？</strong></p>
-<p>这些水并没有变成地心的蒸汽，随着深度和压力的增加，水分子会被分解重组，然后大部分以羟基（-OH）的形式的形式，被锁在了地下几百公里深的矿石晶格里。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bed7652504cf80ed0e142eb1f4673497_720w.jpg?source=8673f162" alt=""><figcaption>示意图</figcaption></figure>
-<blockquote><strong>冷知识：</strong> 在地下 410 到 660 公里的“地幔过渡带”，有尖晶橄榄石、布里奇曼石等矿物，其结构式中含有大量氢氧分子，按分子比例推算，这种矿物的总锁水量可能达到了全球海洋水分子总和的 3 倍及以上。</blockquote>
-<p>也就是说，我们的脚下其实踩着固态的海洋，只不过大部分水是以分子形式存在于矿物中。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d6ece64db2057c5238f6f845091a27f5_720w.jpg?source=8673f162" alt=""><figcaption>来自巴西捷那的钻石，内部有富含水的尖晶橄榄石矿物</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be4bc75c706959fc1fe4d1c4f39bc78e_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>既然地球在不断渗水，为什么几十亿年来海平面依然相对稳定？甚至还因为温室效益在上升？</strong></p>
-<p>主要有三个方面的原因：</p>
-<p><strong><strong>1. 密度分层</strong></strong></p>
-<p>不知道大家有没有喝过或者见过鸡尾酒？地球的物理分层和鸡尾酒很像，密度不同的部分会自然分层。</p>
-<blockquote>水的密度是 <img class="content-image" src="https://www.zhihu.com/equation?tex=1.0%5C+g%2Fcm%5E3" alt=""> <br>地幔的密度约为 <img class="content-image" src="https://www.zhihu.com/equation?tex=3.3%5Ctext%7B-%7D5.5%5C+g%2Fcm%5E3" alt=""> <br>地核密度则高达 <img class="content-image" src="https://www.zhihu.com/equation?tex=10%5Ctext%7B-%7D13%5C+g%2Fcm%5E3" alt=""></blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-700a1816b1c17cb5b33bb3b98d83467b_720w.jpg?source=8673f162" alt=""><figcaption>鸡尾酒的分层</figcaption></figure>
-<p>所以从物理规律上讲，密度极低的水很难穿过密度更高的地幔直接渗入地心内部。水分子在地下深处的移动只能通过寄生在矿物里随着熔岩缓慢流动，而不是以液态形式像海浪那样自由流动。</p>
-<p><strong><strong>2. 无缝可钻</strong></strong></p>
-<p>往沙里倒水，水很快就渗下去了。如果往鹅卵石上倒水呢？水可不会渗下去。</p>
-<p>在地表，水可以顺着岩石和土壤的缝隙渗漏。但到了地下几十公里，巨大的压力会让岩石的缝隙被压缩压实，地下深处的花岗岩等矿石可没有孔隙让水溜进去。没有了“孔隙”，液态水就失去了流动的物理通道，所以自然大部分液态水都留在地表。</p>
-<p><strong><strong>3. 热泵回流</strong></strong></p>
-<p>出来混，迟早是要还的，水也是一样。</p>
-<blockquote>巨量的海水在侵入地幔上层在高温高压下形成新的矿物时，会降低岩石的熔点，甚至降到 1000℃以下。这个时候，就会让一部分岩石开始熔融，形成岩浆了。</blockquote>
-<p>随着熔融的进行，岩浆越来越多，一部分就可能涌出地表，形成火山；而另一部分，则可能聚集到地壳的下面，进一步加热地壳导致熔融，熔融的地壳再喷出地表形成火山。<sup>[2]</sup></p>
-<p>这两种火山的类型也不同，这里就不展开了，感兴趣的可以自行去了解下。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbb32931bca4ef65011633df4c9b4e84_720w.jpg?source=8673f162" alt=""><figcaption>日本鹿儿岛火山喷发实拍</figcaption></figure>
-<p>火山喷发出的气体中，70%-90% 都是水蒸气。</p>
-<p>所以板块边缘的不定期火山喷发会让大量水蒸气再次进入大气层，化作降雨，再重新回到海洋。</p>
-<p>这就是地球深处波澜壮阔的深层水循环。</p>
-<p><strong>如果地球表面真的铺了一层防渗膜会是什么情况？</strong></p>
-<p>想象一下，如果地球表面的水完全进不去地壳，那么大部分火山也就不会因为岩浆而活跃，地幔也不再缓缓流动。</p>
-<p>实验结果表明，在 300 MPa 的大气压下，水的存在使橄榄石聚集体的黏度降低了约 140 倍，并且水对黏度的影响取决于橄榄石中水的浓度。利用橄榄石中水的溶解度对压力和水逸度的依赖性，结合其他岩石学约束条件，可以估算中洋脊下方熔融起始的深度。<sup>[3]</sup></p>
-<p>其后果可能是灾难性的：</p>
-<ol>
-<li>如果地球板块之间不再发生碰撞变化，而是类似于月球的静止模式，那么地球将变成像月球一样的“死球”。</li>
-<li>板块对流减速会导致地核的热量无法高效向外散发，进而导致地球外核液态金属的对流减弱，最终使得地磁场强度暴跌。</li>
-</ol>
-<p>失去地球磁场保护后，太阳风就能直接吹跑大气层，甚至逐渐剥离地球上的水蒸气并慢慢吹进太空。火星可能就经历过了这一过程，这个曾经可能存在过大量液态水的宜居星球，如今变成了一颗干涸的死星。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a5e3daf668bd7ca77a40edf4b788fc67_720w.jpg?source=8673f162" alt=""><figcaption>火星可能经历过这样的变化，现在的火星地表相关研究说明以前也存在过液态水</figcaption></figure>
-<p><strong><strong>总结一下：</strong></strong></p>
-<p>土壤并没有密封作用，水会下渗。但是靠着密度梯度、物理封锁以及火山喷发回流，水很难以液态形式渗入到地幔以下及地核，所以在地球浅层维持了一个长达 46 亿年的动态水平衡。</p>
-<p>我们之所以能在这颗星球上生存，正是因为地球这台抽水机在高效精准、永不间歇地工作着。我们应该感到庆幸，毕竟稍微有点意外情况，人类乃至地球生命就将不复存在了。</p>
+<p>Q：<a href="https://www.zhihu.com/question/1954487138281317118/answer/1976270733446488700"> 为什么都说消费降级了，但旅游时依旧人山人海？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/d25194dd60bb530965fed2b196b24218">@拉德拉的一勺白糖</a> ：因为正常情况下，正儿八经的景区想不到这种事还可以丧事喜办。</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-cae7ee7c5bad812fc7ecf515dff1209f~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768543801-0-0-61c80ffe30c20a619be5c49f2862917f&bizSceneCode=article_draft&expiration=1768543801&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p>Q：<a href="https://www.zhihu.com/question/641372499/answer/3570976596">在国外旅行时，你发现过哪些中国符号？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/9196fc91271a395c9828b6502d456bed">@行走在云端</a> ：我在莫斯科的时候捡到一元的人民币，然后我很激动地对它说，走，我带你回家</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/660845050/answer/51509657199">有什么地狱级的笑话? </a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/82d82e2ac13e87f9fde0a7153243ab1d">@山药当归枸杞够</a> ：问：你老公心梗的时候，你为啥用手机打开了京东？<br>答：我等 120 的时候想打开知乎搜索下怎么救他，但是我的手一直在抖。</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/23175446/answer/1912217095212611153">对</a>「<a href="https://www.zhihu.com/question/23175446/answer/1912217095212611153">岁月是把杀猪刀</a>」<a href="https://www.zhihu.com/question/23175446/answer/1912217095212611153">有什么好的诠释？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/38cabaf0ef1fe52a9bf01cc7c83d9475">@李发强</a> ：2006 年大学毕业，在母校门口留影</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-461f267225fed162054335645264551f~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768543801-0-0-7ca34c46cea9d55671c6a7495ffa2538&bizSceneCode=article_draft&expiration=1768543801&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<blockquote>2024 年冬天，给职业学院的学生讲课</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-3cc580d8238e053c7f192047d8e3c4f1~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768543801-0-0-40051f67c5fa96338d64fdcfe71769ca&bizSceneCode=article_draft&expiration=1768543801&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p>Q：<a href="https://www.zhihu.com/question/1977733563102282585/answer/1978881893270300572">新华社发布未来五年最吃香的工作，你最看好哪个？ </a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/5c30a0f87f3b2316f3a75fb363dca186">@一拳一个嘤嘤怪</a> ：没问题啊，这四个工作不是很吃香吗？</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-e291c5d71e825cf3e5207a2ba16f9343~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768543801-0-0-185a853ce021a7601b6d461b7f73124a&bizSceneCode=article_draft&expiration=1768543801&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<blockquote>不好意思，看差行了</blockquote>
 </div>
 </div>
 
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2993642205">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787028</guid><pubDate>Sun, 18 Jan 2026 18:21:40 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787003</guid><pubDate>Mon, 19 Jan 2026 01:22:42 GMT</pubDate></item></channel></rss>
