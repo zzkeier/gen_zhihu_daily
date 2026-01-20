@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Mon, 19 Jan 2026 18:25:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么人的命要用「条」这个量词？</title><link>http://daily.zhihu.com/story/9786830</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c97d16ddaff8989ed77a37ceaec3370c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Tue, 20 Jan 2026 01:18:03 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么有的动物用舌头喝水而不用嘴直接喝？</title><link>http://daily.zhihu.com/story/9786848</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ffd13122bc812795573e3f46649078a2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,57 +19,50 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-b44afed6bc7c7eab6bed4c3de7cefeee_l.jpg?source=8673f162">
-<span class="author">Jajil，</span><span class="bio">认知语言学、视觉原型语法、失焦语法、语痕语义学</span>
-<a href="https://www.zhihu.com/question/1962525479866177428/answer/1991303498667667805" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-0940f055d33b6cb39928486943cd123e_l.jpg?source=8673f162">
+<span class="author">高sir，</span><span class="bio">科学丨教育&amp;生物老师丨公众号：高比先生</span>
+<a href="https://www.zhihu.com/question/3257311792/answer/130359148718" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这个问题在语言学界也有不同的说法。</p>
-<p>一种是“道路说”，另一种是“人体说”。</p>
-<p>前者秉持的观点是，生命像一条人生旅程中的道路。由于这种隐喻所以也用“条”。持这种说法的主要学者是认知语言学学者张敏等人。</p>
-<p>后者的观点是人体形状本就是长条状所以用“条”。持这种说法的学者主要是戴浩一等人。</p>
-<p>南洋理工的郭诗玲对“条 + 命”及“条 + 新闻”进行过详细的分析。在她的分析中，她认为张敏提到的“条 + 命”的道路隐喻说以及张敏提到的“条 + 新闻”的语流串说均不成立。</p>
-<p>她给出了如下理据：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e1a7121e95c8c98199757a879eb3b8d3_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b16835bc0b146729400c04a2f6793ddf_720w.jpg?source=8673f162" alt=""></figure>
-<p>在她给出的用例发展线索中完全没出现跟“人生旅程的道路”这种隐喻语义有关的例子。所以，她认为这些例子是对“道路说”的有力反驳。</p>
-<p>而对于“条 + 新闻”，她发现这种用法最早出现于新闻纸里面的新闻内容。因此，这里的“条”并非表示形状，而是“分项”。她认为这个证据也有力反驳了“语流串”说。</p>
-<p>最终，她给出了“条”如何由本义引申出两种量词语义的演化路径。如下图：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b237a484c0e87d1cfce11894b901a23_720w.jpg?source=8673f162" alt=""></figure>
-<p>她的分析主要是基于历时的语料实证进行的，得出的结论也基本合理。</p>
-<p>结论是：</p>
-<p>“条 + 命”的语义特征是：[+ 长条状]，即命由于人体的形状是长条状的所以命也是长条状的。</p>
-<p>“条 + 新闻”的语义特征是：[+ 分项]</p>
-<p>对于这种结论还是可以进一步问出两个问题的。</p>
-<p>既然支持“人体说”，那为什么“条 + 人”不成立？</p>
-<p>这个问题郭诗玲提到了，但并未解释原因。</p>
-<p>根据上述各个例子来看，“条”与“长身”的识解有关，这种识解一方面表面看起来与长大的形象有关。然而，“一条好汉”中的“好汉”未必是身形长大。这里，“条”指“某种顶天立地的气质，纵向（由顶天立地激活的认识）贯穿好汉的身体”，是一种量词的概念隐喻整合用法，并非直接指人体形状。另一方面与人体宽度与长度的比值偏小显出长条状有关（如细条身子、条身子、条影子；后面两个主要指长条状那种）。</p>
-<p>“人”作为上位范畴并不一定唤起上述两种范畴的识解，因此不会使用量词“条”。</p>
-<p>“赤条条”指的是赤裸状态下形成的人体“本来面貌”的印象。这里的“条”是“无叶子遮挡的树枝的本貌”隐喻“裸露的身体”。</p>
-<p>可见，郭诗玲的分析还是因理论支撑有限而出现误判的情况。</p>
-<p>另一个问题就是人体的长条状需要上述的两种识解才被激活的条件下，为什么“命”就激活了呢？难道“命”与“顶天立地的纵穿气质”或“人体的宽长比偏小”有关？</p>
-<p>显然，“命”有其自身的语义框架，并非绑定上述两种识解。</p>
-<p>从“这条老命”、“一条狗命”来看，“命”绝非直接由人体形状激活其“形状”。“老”说明“命”具有历程语义而“狗”说明“命”具有贵贱语义，且这种语义往往是与一个人的行为历程有关的。比如，一个人做了坏事被发现时，他人放过这个人时就会用到“饶你一条狗命”这种说法。如果没有“做坏事”的行为历程，“狗命”就难以激活。</p>
-<p>更关键的实证是“你有几条命都不够”。</p>
-<p>这句话的语义指“会连续经历惩罚”，即连续经历相同的惩罚历程。这说明“命”具有“历程语义”。</p>
-<p>而“他捡回一条命”也说明了“命”在这里的“历程”更新了。</p>
-<p>周芍和邵敬敏（2014）认为“条”与“根”的区别在于：前者指一维的动态轨迹，而后者指二维横截面同质化的纵向展开得到的“不可继续延伸”的完整个体。这是为什么只能有“一根头发”而非“* 一条头发”的原因。当我们使用“一条绳子”时，语义倾向于绳子长度的纵向延伸期待；而使用“一根绳子”时，语义倾向于绳子作为独立个体的功能性。</p>
-<p>以周、邵的观点看待“条 + 命”是合理的。“命”在时间历程上具有隐喻为一维空间的动态延伸性，所以才激活了量词“条”的使用。这也呼应了张敏提出的人生旅程隐喻道路说。</p>
-<p>“命”的语义可理解为人活出的动态轨迹，它转喻了人活着的“能力”。所以才会出现“要命”这种“能力剥夺”类的用法。</p>
-<p>“条 + 新闻”的分项义也是比较勉强的。因为“一条消息”、“一条命令”都并非涉及“新闻纸分项”这种原型。它们和新闻一样都需要保持注意力延伸的线性接收，才激活了“条”的使用。</p>
-<p>希望上述分析对题主的全面深入理解汉语量词有帮助。汉语量词的使用绝非是简单的按实体的实际轮廓来使用的，它涉及了概念隐喻、概念整合以及不同的识解角度。郭诗玲的分析误判说明要准确分析语料对应的语义还是需要扎实的理论语言学基础的。</p>
+<p>狗狗喝水时，它的舌头会卷成勺子形状，快速地把水舀进嘴里。如果你仔细观察，会发现它们的舌头每秒能“舀”4-5 次水，动作超级快！</p>
+<p>而猫咪则更加优雅，它们只用舌尖轻轻碰触水面，靠表面张力把水“拉”起来。</p>
+<p>大象则用它们的长鼻子像吸尘器一样先把水吸进鼻子，然后再把水喷进嘴里。</p>
+<p>鸟类中，有些能直接把嘴伸进水里吸水，有些则需要先含一口水，然后抬头让水顺着喉咙流下去。</p>
+<p>而我们人类呢？我们用嘴唇形成一个密闭的空间，通过创造负压（就像用吸管一样）把水吸进嘴里。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8b37b745854b4d44050d6a62e92fbc8d_720w.gif?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8c862e0f590a382fbcbf1b26b0881b5b_720w.gif?source=8673f162" alt=""></figure>
+<blockquote>“为什么狗不能像我们一样直接吸水喝呢？”</blockquote>
+<p>这主要和嘴巴的结构有关。</p>
+<p>我们人类有非常灵活的嘴唇和丰富的口周肌肉，可以轻松地把嘴唇完全闭合，形成一个“密封”的空间。</p>
+<p>这样我们就能在口腔里制造负压，把水“吸”进来。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a37a8dde93ae7cc8e8ba85a01545e51f_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是狗狗和很多其他动物的嘴唇构造不同，它们没法完全闭合嘴唇来形成有效的负压区域。</p>
+<p>你可以想象一下，如果你的嘴唇有缝隙，喝水时水就会从缝隙漏出去，很难吸进来，对吧？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4970f89cf6044c37b12215f8300f55c9_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>你提了一个好问题是：“为什么不直接把嘴当碗用呢？”</strong><strong>理论上确实可以！</strong></p>
+<p>动物可以低头把嘴放进水里，然后直接咽下去。</p>
+<p>但这种方式有几个小问题：</p>
+<p>对于像狗这样嘴巴比较长的动物，把整个嘴巴放进水里容易把鼻子也弄湿，可能会呛到。</p>
+<p>这样喝水很难控制进水量，可能一下子进太多水，容易呛到气管里。</p>
+<p>即：除非是能灵活“憋气”的的动物（接受过训练，或者以捕鱼为生），否则喝一口呛一口</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fee07a148ea400e641edd766da4aab5d_720w.jpg?source=8673f162" alt=""></figure>
+<p>像狼和狗这样的捕食动物，它们的嘴巴主要是为了抓住和撕裂猎物而设计的。</p>
+<p>宽大的口腔和锋利的牙齿很适合捕食，但这种结构就不太适合形成负压来吸水。</p>
+<p>所以它们的舌头就担起了喝水的重任。</p>
+<p>用舌头卷水喝还有个好处：动物可以一边喝水，一边保持头部稍微抬起，继续观察周围环境，保持警惕。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1224f41a83e1a9fc6f6f0fcf2d6f8ae9_720w.gif?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1962525479866177428">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/3257311792">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786830</guid><pubDate>Mon, 19 Jan 2026 18:25:27 GMT</pubDate></item><item><title>鸟儿为什么不躺着睡？</title><link>http://daily.zhihu.com/story/9786840</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e597b1dacede843fa05f7e465a5c45ce.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786848</guid><pubDate>Tue, 20 Jan 2026 01:18:01 GMT</pubDate></item><item><title>请问假如蜜蜂采了有毒的花，酿的蜜也会有毒吗？</title><link>http://daily.zhihu.com/story/9786858</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-f46c0fd8285c897d8dfdf780c7b0b609.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -89,76 +82,69 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/1895551357248856795/answer/1905358031715275455" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-4e340f36684bbae6619008a0222a2f6f_l.jpg?source=8673f162">
+<span class="author">奔奔马，</span><span class="bio">可在淘宝搜索小店“奔奔马90后养蜂人”购买自家蜂蜜、红枣核桃</span>
+<a href="https://www.zhihu.com/question/27451726/answer/104580381398" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>在一片荒芜的野地，干枯的草茎在微风中轻轻摇曳。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc25ed34dbacb521b98bec4b9f5c826f_720w.jpg?source=8673f162" alt=""></figure>
-<p>一根干枯的向日葵上，似乎有什么活物趴在上面。</p>
-<p>镜头慢慢靠近，才发现这是一只红额金翅雀（<em>Carduelis carduelis</em>），仰着躺在花的背面休息。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6678f61351e073754271b7acdbac8b35_720w.jpg?source=8673f162" alt=""></figure>
-<p>近看时，似乎可以看到眼睛睁着。</p>
-<p>许多鸟类，尤其是那些需要保持警惕以避免捕食的鸟类，可能会在睡眠时睁着一只眼睛。这种行为称为“单眼睡眠”（unihemispheric slow-wave sleep），它允许鸟类的一半大脑进入睡眠状态，而另一半大脑保持清醒并监控环境。这样的适应性有助于它们在危险环境中生存。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3466aa38389a56fe80a5d2320ad1e140_720w.jpg?source=8673f162" alt=""></figure>
-<p>拍摄者把手指伸过去，想要探一下鸟儿，它一下就完全醒了，扑棱一下就飞走。可见它确实睡眠很浅。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-59e217f8e40a095c6ee4fcf9e0da9284_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b53aa80eef3e8485645fe687ac697836_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9775efb2adbda636d0975b9aa0ad2724_720w.gif?source=8673f162" alt=""></figure>
-<p>后面拍摄者又去找了两棵向日葵，都没找到，幸运的是，第三棵又找到了一只躺着休息的红额金翅雀……</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d3fedb9333f0181bc878b14bc9d8d981_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5376c0e211422172a34d6c37d5fa8d11_720w.gif?source=8673f162" alt=""></figure>
-<p>一般来说，很难看到平躺的鸟儿。因为对它们来说，这种姿势很没有安全感。</p>
-<p>大多数鸟类选择站立<sup>[1]</sup>，这样遇到危险可以随时飞走。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-496280e30cd50bc4bc10fcc1b0d1c025_720w.jpg?source=8673f162" alt=""></figure>
-<p>单脚或双脚站立，把头藏在翅膀下，来保持温暖和稳定。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a259d35c0e772ebf31cdb9dbe753b9f8_720w.jpg?source=8673f162" alt=""></figure>
-<p>把头藏起来，就意味着观察到环境的范围变得有限了，也就有了一定的风险。尽管这种姿势可能增加捕食风险，但它有助于保存能量，特别是在长距离飞行后。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6535ca7b666a6ea3603749db125cb75e_720w.jpg?source=8673f162" alt=""></figure>
-<p>在针对夜间迁徙的鸣禽研究发现，身体状况较差的鸟更倾向于采用“把头埋起来”姿势，而健康状况较好的鸟可能选择更警惕的姿势<sup>[2]</sup>。</p>
-<p>也有选择倒挂的，比如鹦鹉：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-607774433fd09a3d4ed3ac06cacbcdf5_720w.jpg?source=8673f162" alt=""></figure>
-<p>蜂鸟也会倒挂（也有站着的）：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f5993e57ac04c38619e0b31ffac436ed_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5dd5d4c08c18a779ade6ca919b427d34_720w.jpg?source=8673f162" alt=""></figure>
-<p>也有选择趴着的，比如猫头鹰的雏鸟：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-36cc19ede69ee6ac2e070f33b9bfb6a6_720w.jpg?source=8673f162" alt=""></figure>
-<p>水鸟如鸭子也会趴着：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc0057b242631a92fe52930ad319fa01_720w.jpg?source=8673f162" alt=""></figure>
-<p>它们还会站着、浮着：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2f806679a0bdea3d474a57be459b73c2_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3c981d2820dea50e9a213df0fe10284_720w.jpg?source=8673f162" alt=""></figure>
-<p>当然，还有飞着睡的。</p>
-<p>比如一些长途迁徙的鸟，信天翁、军舰鸟。曾有研究结合实验室技术和野外观察<sup>[3]</sup>，使用脑电图（EEG）监测鸟类的脑电波，区分清醒、慢波睡眠（SWS）和快速眼动睡眠（REM）。同时，安装加速度计记录鸟类的飞行模式。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1b5330d49578bc0e8bb83906c7e56b74_720w.jpg?source=8673f162" alt=""></figure>
-<p>结果发现，军舰鸟在飞行中确实会进入睡眠状态，但睡眠时间非常短，每天仅约 0.69 小时（相当于陆地上睡眠时间的 7.4%）。</p>
-<p>这种睡眠模式属于单半球慢波睡眠，即一只眼睛闭上，另一只眼睛睁开，保持警惕。</p>
-<p>一般来说，相对容易看到在躺着的鸟儿是鹦鹉<sup>[4]</sup>，而不是前面的红额金翅雀。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f9ac72ae30fc2a6798963c4d3e365399_720w.jpg?source=8673f162" alt=""></figure>
-<p>对于鸟类来说，站立姿势便于快速逃离捕食者，而平躺则可能增加暴露风险。对于家里养的鹦鹉，自然无需担心外面的危险，有了安全感，那就不用考虑睡姿。</p>
-<p>就像猫露肚皮一样，这是对主人的绝对信任。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-091d8718f8cad39b88adea00b4c80f63_720w.jpg?source=8673f162" alt=""></figure>
-<p>虽然站着睡也不费力，但躺着更不费力了……</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-39cdc7d52fc24830fea7f3fb3d466b31_720w.jpg?source=8673f162" alt=""></figure>
-<p>躺着时，鸟类的身体重量均匀分布在支撑表面上，减少了腿部和脚部的压力。</p>
-<p><strong><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.facebook.com/koibeibirdcomics%3F__cft__%255B0%255D%3DAZVEiGxixEzWqFSdCmcpQQzdFP-iUe1ocBbN_-pGnnuXYezSZk1MrUXPljM2wCF00y4ZW5zGy30R4Gh0C8zOs12CmvSysaHJX3fOKMrIF2OHK_BD8MSvRVJAO604bQgKsZeiDXuARSMF3KqujLnwaqMS2ihfUNOQn0PcR2AYPclvNw%26__tn__%3D-UC%252CP-R" target="_blank" rel="nofollow noreferrer">Koi & Bei Bird Comics</a></strong><sup>[5]</sup><strong>的这幅漫画就表现了鹦鹉的不同睡姿：</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-06dbf3b2d2afb44744794fe09b6e88ab_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，前面那只红额金翅雀大抵是有安全感吧……虽然不确定是哪儿来的安全感。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c913b016ab7b015aebb0b63f1448348_720w.gif?source=8673f162" alt=""></figure>
-<p>可能是鹦鹉给的吧（bushi</p>
+<p>先说结论：蜜蜂采了有毒蜜源的花朵，酿造的蜂蜜也会有毒！</p>
+<p>但有毒蜜源并不常见。</p>
+<p>开花植物种类繁多，一些开花植物的<strong>花蜜</strong>或<strong>花粉</strong>中，就会含有一些有毒物质，能使人或蜜蜂出现中毒症状，这样的蜜源植物通常称之为“<strong>有毒蜜源植物</strong>”。</p>
+<p>蜜蜂采集过程中，也会采集到有毒蜜源的花蜜和花粉。而且，采集到有毒蜜源的花蜜或花粉，蜜蜂会中毒。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-06980676aada306597e26b2bcf56d5d2_720w.jpg?source=8673f162" alt=""><figcaption>将花粉团粘在后腿上，携蜂而归的工蜂</figcaption></figure>
+<p>通常，蜜蜂采集到一些有毒蜜源花粉或花蜜后，会出现<strong>幼虫、成年蜂</strong>和<strong>蜂王</strong>发病致残、死亡的现象，给养蜂生产造成损失。</p>
+<p>人误食一些种类的有毒蜜源植物花蜜酿造的蜂蜜后，也会出现<strong>低热、头晕、恶心、呕吐、腹痛、心悸、眼花、乏力、胸闷、心跳急剧、呼吸困难</strong>等症状，严重者甚至可导致死亡。</p>
+<p>需要注意的是，真正对蜜蜂能够造成危害的<strong>有毒蜜源植物</strong>种类并不多，多为南方山区野生植物，其分布区域也不广，大多数仅零散出现在一些区域。</p>
+<p>对于有毒蜜源的辨识和防范，也是养蜂人需要重点学习的内容，专业的养蜂人也会主动避免。<strong>毕竟蜂群可是养蜂人最重要财产呀！</strong></p>
+<p>即便是有毒蜜源，不同的植物，其中毒机理千差万别，对蜜蜂或人类造成的危害也存在着相当大的差异。使得由有毒蜜源植物的花蜜酿造而来的“毒蜜”，有的毒性大，有的毒性小。</p>
+<p>有的蜜源植物对蜜蜂有害，而对人无害，如<strong>油茶</strong>和<strong>红枣</strong>就是如此。油菜花蜜中的一些成分（生物碱、半乳糖）会对<strong>蜜蜂幼虫</strong>有一定毒性，但油茶蜜对人和成年蜜蜂无毒；红枣花蜜中的生物碱，对蜜蜂也有一定的毒性，在一些年份对蜜蜂危害很大。</p>
+<p>蜂农通过一些措施，也可以有效预防枣花蜜对蜜蜂的危害，甚至完全不会对蜂群产生危害。同时，酿成的枣花蜜对人完全无害，甚至将枣花蜜作蜜蜂的越冬蜜，也未出现不良反应，其中的原因还需进一步研究。</p>
+<p>由于红枣是北方夏季重要的蜜源，花期又长达一个月，产蜜量较高，蜜也畅销。因此，蜂农还是非常乐意赶红枣蜜源。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d494734f6827dfec00d8b2fdb38377f2_720w.jpg?source=8673f162" alt=""><figcaption>采集枣花的蜜蜂。红枣花蜜中的生物碱，对蜜蜂也有一定的毒性，在一些年份对蜜蜂危害很大，但酿成的枣花蜜对人完全无害</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c265f13ff61655ffdd6434ee3c3e3c05_720w.jpg?source=8673f162" alt=""><figcaption>雷公藤。雷公藤的花蜜对人有毒，但对蜜蜂无毒，导致蜜蜂可以将这种花蜜大量储存在蜂巢中，酿成有毒蜂蜜。由此，蜜蜂采集这种植物尤其危险</figcaption></figure>
+<p>而最需要警惕的是“<strong><em>对人有毒，而对蜜蜂无毒</em></strong>”的有毒蜜源类型，如<strong>雷公藤，</strong>这样的有毒蜜源植物实际上最为危险！</p>
+<p>蜜蜂采集这些植物的花蜜，通常是由于一些地区在采集利用蜜源植物中，刚好赶上同地域有毒蜜源植物也在此期间开花、流蜜，且流蜜丰富，能够引诱蜜蜂前去采集，导致所生产的蜂蜜中混入了有毒花蜜。或是<strong>外界蜜粉源缺乏</strong>，以及受到气候条件的影响，使原来无毒的蜜源植物流蜜量减少，而有毒蜜源植物流蜜量增加，促使蜜蜂前去采集这样植物的蜜（粉）。</p>
+<p>虽然确实存在蜜蜂采集有毒花蜜的可能性，但广大消费者也不必就此“谈毒色变”，因为这种情况在正常养蜂条件下，并不会发生，这是由于：</p>
+<p><strong>1.有毒蜜源对蜜蜂危害极大，专业养蜂人会极力避开在有毒蜜源分布区从事放蜂活动；</strong></p>
+<p><strong>2.除曼陀罗、苦皮藤、八角枫等有毒蜜源植物分布区域稍广外，大多数有毒蜜源植物如雷公藤、紫金藤、钩吻等分布区域并不大，</strong>仅分布于南方山区，夏秋季节开花，蜜源价值不高，也均不是大面积种植的作物，这也就减少了蜜蜂去采集的机会。</p>
+<p><strong>3.蜜蜂对有毒蜜源也会有一定程度的辨识能力，</strong>若非遇到外界极度缺乏蜜源等情况，蜜蜂是不会主动采集这类植物的；</p>
+<p><strong>4.当采集蜂采集到藜芦、苦皮藤等毒性较高的蜜源植物后，会在毒性作用下迅速死亡，根本无法返巢。</strong>即使少数采集蜂侥幸未立即死亡，也会发生抽搐、痉挛等症状，被守卫蜂“驱赶”，其采集到的有毒花蜜也就无法混入正常蜂蜜中。</p>
+<p>有毒蜜源植物名录：</p>
+<p><strong>1.博落回</strong></p>
+<p><strong>2.雷公藤</strong></p>
+<p><strong>3.喜树</strong></p>
+<p><strong>4.苦皮藤</strong></p>
+<p><strong>5.八角枫</strong></p>
+<p><strong>6.羊踯躅（chí chú）</strong></p>
+<p><strong>7.曼陀罗</strong></p>
+<p><strong>8.乌头</strong></p>
+<p><strong>9.钩吻</strong></p>
+<p><strong>10.昆明秋海棠</strong></p>
+<p><strong>11.紫金藤</strong></p>
+<p><strong>12.油茶</strong></p>
+<p><strong>13.狼毒</strong></p>
+<p>因此，对于野生蜂蜜，尤其是南方一些山区获得的野生蜂蜜，需持谨慎态度对待，确保周围环境中没有分布有毒蜜源植物。</p>
+<p>看了题主的描述，我这里友情提示多啰嗦几句：要谨慎购买那些来历不明的“野生”蜂蜜，尤其是类似宣称来自“<strong><em>修路工人在树洞里或电线杆洞里</em></strong>”、“<strong><em>修桥工人在桥洞里</em></strong>”发现的野生蜂蜜。</p>
+<p>且不说这样的“剧本”太普遍了，还明显存在逻辑漏洞——野生蜂巢的猎取并不容易，蜜蜂会将蜂巢建在树洞、岩缝这样的“洞穴结构”内，即便是专业的猎蜜人，也需要经过<strong>凿洞、烟熏、割蜜</strong>等一系列手段方法，如果洞穴较深，还需要用长柄勾这样的取蜜工具，一点一点地勾出来，根本不是想象中的那么容易，即便是专业人士带着专业设备，都要折腾好几个小时。</p>
+<p>而进山工人主业是修路、修电网这样的野外工作，工作强度大，时间又紧张，就算真遇到野蜂巢也不会有时间去掏的，更不可能随身带着护具、凿具、割蜜刀这样的专业工具。</p>
+<p>况且，猎蜜还随时有被蛰伤的风险，并且被蜇的概率很大（专业防护服也难以避免），如果工人被蛰伤，影响了修路、修电的进程，那就更得不偿失了！包工头会同意工人去猎蜜？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-614fd83fd8cb2da062b033c8b1b73b3d_720w.jpg?source=8673f162" alt=""><figcaption>2024 年 10 月，一名知乎好友在旅游区见到售卖“野生蜂蜜”，正好询问了我，卖蜜的就是这个剧本套路</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-560df8c3883c9fbd7a4f058901c4455b_720w.jpg?source=8673f162" alt=""><figcaption>知乎好友发来的“野生蜂蜜”图片，根据蜂巢图片，以及蜂巢房眼直径，很容易辨别来自于家养的意蜂（意大利蜂）的蜂巢。但塑料筐捣碎的部分，以及液体部分，具体是不是来自于真蜂窝或者蜂蜜，就不得而知了……</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2aec2f9bae19ef679a66f537c75c49bc_720w.jpg?source=8673f162" alt=""><figcaption>摄于 2023 年 8 月，这是本人饲养的意蜂在蜂箱里乱造的蜂巢，也称赘脾，这种巢常被人冒充“野生土蜂巢”，是不是和上一张图片里的蜂巢很相似？</figcaption></figure>
+<p>因此，这种在旅游区经常能遇到的、同一套说辞的“野生蜂蜜”，根本就不会是“野生”的，基本都是用家养的意蜂蜂巢捣碎冒充的。当然，能用意蜂蜂巢捣碎冒充的，就已经是颇有良心了，很多造假者用的就根本是不能吃的东西……</p>
+<p>最后，野味不一定就是美味，往往还与风险共存，家养蜜蜂酿出的蜂蜜也并非一文不值，蜜源、产地、蜂蜜浓度、管理技术也是产出好蜜的关键，不能一概而论。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1895551357248856795">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/27451726">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786840</guid><pubDate>Mon, 19 Jan 2026 18:25:28 GMT</pubDate></item><item><title>为什么狮子老虎的眼睛和猫的眼睛不一样？</title><link>http://daily.zhihu.com/story/9786844</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2f5a9952841185f1ad8711d80ae9bea2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786858</guid><pubDate>Tue, 20 Jan 2026 01:18:02 GMT</pubDate></item><item><title>猪一生都被关在猪圈里，但为什么没有抑郁症的表现行为？</title><link>http://daily.zhihu.com/story/9787052</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-8839db435459c19f06e133a5886e34ba.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -178,62 +164,93 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/41100560/answer/1944339060568064095" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/539a00e25_l.jpg?source=8673f162">
+<span class="author">unclean，</span><span class="bio">压抑的创伤是症状之源</span>
+<a href="https://www.zhihu.com/question/48551274/answer/1976289169174194096" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>2015 年，由视觉科学家马丁·班克斯（Martin Banks）领导的团队在《科学进展》（Science Advances）期刊上发表了一项研究<sup>[1]</sup>。</p>
-<p>他们分析了 214 种陆生动物，发现物种的瞳孔形状与其生态位之间存在着强相关性。</p>
-<p>研究揭示了三种主要的瞳孔形态及其对应的生态角色：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-210368b11c5b8287def3acdaad5c7f06_720w.jpg?source=8673f162" alt=""></figure>
-<p>1、垂直缝隙瞳孔</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fa84663d121a39bfb98f74c81c21d706_720w.jpg?source=8673f162" alt=""></figure>
-<p>研究发现，拥有垂直缝隙瞳孔的物种极有可能是伏击型捕食者，并且在昼夜交替（晨昏或夜间）的环境中都保持活跃 。</p>
-<p>这些动物，如家猫、狐狸和某些蛇类，依赖于隐蔽和出其不意的致命一击。它们的生存之道在于精确计算一次完美的扑袭。</p>
-<p>2、水平狭长瞳孔</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-49e8b472de6696b909b77de12b1506f9_720w.jpg?source=8673f162" alt=""></figure>
-<p>与垂直缝隙相反，水平狭长的瞳孔绝大多数存在于被捕食的食草动物中，例如绵羊、山羊和鹿 。</p>
-<p>这些动物的眼睛通常位于头部两侧，水平瞳孔为其提供了宽广的全景视野。这种视野形态对于侦测从地平线各个方向逼近的捕食者至关重要，同时还能有效减少来自天空的炫目眩光，使其能更清晰地观察地面 。</p>
-<p>3、圆形瞳孔</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-264cff731ffa3468ee64ad64c32daa35_720w.jpg?source=8673f162" alt=""></figure>
-<p>圆形瞳孔则与“主动觅食者”或“追击型捕食者”紧密相关 。</p>
-<p>这类动物，包括狼、猎豹，以及我们的主角狮子和老虎，它们通常会追逐猎物一段距离后再将其制服。</p>
-<p>为什么垂直缝隙瞳孔更擅长伏击？</p>
-<p>猫在明亮光线下，瞳孔会缩成一道很窄的垂直细缝。根据光学原理（类似相机的“小光圈”效应），瞳孔在某个维度上越窄，该维度上的景深就越大。因此，竖瞳在水平方向上创造了极大的景深。</p>
-<p>这意味着在动物的视野中，处于不同距离的水平轮廓（例如，地面、草地）都能保持清晰。这为捕食者提供了一个清晰的背景“坐标系”。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-461e23eb0ec3bcd900273b0cfe700fcf_720w.jpg?source=8673f162" alt=""></figure>
-<p>与水平方向相反，瞳孔在垂直方向上相对较宽，这导致了垂直方向上的景深非常浅。</p>
-<p>当动物聚焦于某一点时，稍微偏离这个焦点距离的物体，其垂直轮廓就会变得模糊。大脑可以精确地解读这种“离焦模糊”的程度，并将其转化为极其精确的距离信息。</p>
-<p>此时，猫通过轻微地调整焦距，它可以观察猎物的垂直轮廓的模糊变化，从而在不动声色的情况下计算出精确的伏击距离。</p>
-<p>既然垂直缝隙瞳孔对于捕食者如此高效，那为何狮子和老虎没有这种“高级配置”呢？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c96e27dbfa1da3a741afe0a2cce4ef77_720w.jpg?source=8673f162" alt=""></figure>
-<p>这正是班克斯研究中最为关键的发现：<strong>垂直缝隙瞳孔的优势与动物的身高紧密相关 </strong>。</p>
-<p><strong>简单来说就是，老虎狮子它们太高了。</strong></p>
-<p>研究数据揭示了一个清晰的临界值：约 42 厘米的肩高。在研究涉及的 65 种眼睛朝前的伏击捕食者中，拥有垂直瞳孔的物种里，有 82%的肩高低于 42 厘米。与此相反，拥有圆形瞳孔的伏击捕食者中，仅有 17%的肩高低于 42 厘米 。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9edcd2b07d3bfef300cc766629dea353_720w.jpg?source=8673f162" alt=""><figcaption>不同身高观察者看到的地面图像。一个视场为 30°、光圈直径为 4.5 毫米的虚拟相机对准了倾角为 θ = 56° 的平面，并将焦点对准黑色十字，距离为 z 0 。从上到下，z 0 分别为 0.6 m、0.2 m 和 0.1 m</figcaption></figure>
-<p>所以，身高是决定瞳孔形态演化方向的关键变量。</p>
-<p>对于一个<strong>身材矮小</strong>的动物（如家猫），其视线与地面的夹角非常小。在它的视野里，十多厘米物体与三米外的地面之间的模糊程度差异非常显著，形成了一个陡峭的、信息丰富的“模糊梯度”。</p>
-<p>而对于一个<strong>身材高大</strong>的动物（如狮子），其观察地面的视角要陡峭得多。在相同的地面距离上，物体之间的模糊程度差异变得微不足道，这使得离焦模糊成为一个微弱且不可靠的距离线索 。</p>
-<p>因此，对于高大的捕食者来说，垂直缝隙瞳孔所提供的核心优势几乎消失了。维持这种特殊形态的进化压力也随之不复存在。</p>
-<p>在这种情况下，功能全面的圆形瞳孔便成为了更优的进化选择。圆形瞳孔能够在整个视野内提供均匀、清晰的聚焦，这对于需要在广阔多变的地形中追逐大型猎物的动物来说，是更为有利的视觉配置 。</p>
-<p><strong>但任何科学规律的有趣之处，都在于例外</strong>。</p>
-<p>在猫科动物中，就有一个著名“小个子圆瞳”，<strong>兔狲 </strong><em>(Otocolobus manul)</em>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8e0e5f80bfb153e90334052d79dcf19b_720w.jpg?source=8673f162" alt=""></figure>
-<p>兔狲生活在缺少高草遮蔽的开阔戈壁和山地，它的捕食方式更多是在岩石后探头窥视，追捕鼠兔等猎物。</p>
-<p>在这种环境下，竖瞳利用垂直线条进行伪装和测距的优势消失了。相反，一个能提供均匀视野的圆形瞳孔，更适合它在开阔地带的生存方式。</p>
+<p>先说结论，猪一样会有抑郁样行为。<sup>[1]</sup>且与高规癖行为（规癖行为，stereotypic behavior，指的是动物身上的刻板行为）呈正相关。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6f2955226cc23ee5f76b1a8d9d47295c_720w.jpg?source=8673f162" alt=""></figure>
+<p>在我小时候，娱乐远没有现在这么发达，想看个动画片都得蹲点儿在电视机前等着。</p>
+<p>去动物园看动物，也算是节假日重要的消遣项目之一。</p>
+<p>小时候总去的是家小型动物园，常规的老虎、大象、长颈鹿是有的。但是，和现在的动辄几百公顷的大型动物园肯定是比不了。</p>
+<p>小动物园是没有那种开阔的虎园的，除了一个较大的“猴山”（感觉看什么都会更“夸张”一些，我怀疑，要是放现在看，也许就是个中号的池子），其他的动物多是养在一个个的小笼子里。</p>
+<p>猴山自然是最好玩的，因为可以看群猴乱舞。</p>
+<p>老猴子给小猴子捉虱子，猴子在锁链间打闹嬉戏，时不时还有猴子抢夺食物的武打戏可以看。</p>
+<p>不过给我留下最深印象的，反倒是只瘦削的、没什么精神的“大灰狼”。</p>
+<p>印象里每次看见它，它都是在那个狭小逼仄的笼舍深处，时刻不停的、来来回回的踱步，仿佛是被上了发条一样。</p>
+<p>这只狼日复一日的来回徘徊，就像人类焦虑时会不安的巡逻一样。</p>
+<p>如果狼也会说话，我甚至有种感觉，它是一面走，一面口中在喃喃自语：“怎么办，我该怎么办？”。</p>
+<p><strong>在动物行为学里，这样的行为被称作刻板行为（stereotypic behavior）。</strong></p>
+<p>像狼、猩猩、大象这样的高社会性、高智力的哺乳动物，它们拥有着与人类高度同源的情绪相关的脑区，比如杏仁核、前扣带回（或同源区域）、岛叶。</p>
+<p>这种沿着围栏反复踱步、转圈的行为，本质上和人类反复咬指甲一样，是动物内在心理、生理压力的外在表现。</p>
+<p>值得一提的是，在动物身上，尤其是大规模养殖场的动物身上，这种刻板行为一旦形成，是很难彻底改变的。</p>
+<p>说起来，人们在骂其他人笨时候，总会是对方是其笨如猪。</p>
+<p>细究起来，这种表达并不合理。</p>
+<p>除了人类外，猪在自然界里得算是 T0 级的动物了。猪的智力、心智水平是和狗相近的，部分认知能力甚至可以接近黑猩猩。</p>
+<p>猪还能通过基础的镜像实验，理解镜子中的镜像是对应空间关系，比起猪来说，狗和猫就很难通过。</p>
+<p>复杂学习和操纵任务上（比如 Joystick‑Operated Video Task 实验），猪的表现并不逊于狗。</p>
+<p>猪甚至可以用灵活的鼻子操纵摇杆，从而进行简单的游戏，而且猪也具备较为强烈的学习动机，还会主动去解决问题。从实验结果来看，经过长期训练后，猪的表现还比狗要好那么一点。</p>
+<p>不过在理解人类社交行为上，特别和人类的交互能力上，狗的理解能力就远超猪和猩猩了。在现实里，人们更倾向于以动物与人类互动的能力来判断这个动物是否聪明，而不是去看它解决问题的能力到底有多强。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cf0a2d2416914f865e2a46e4f20b155a_720w.jpg?source=8673f162" alt=""><figcaption>动物的刻板行为种类多样</figcaption></figure>
+<p>猪的这种互相啃咬尾巴的行为，也叫做反不适综合症。咬断其他猪的尾巴，正是猪的应激综合症的临床表现形式之一，这是一种环境因素、心理因素刺激引发的应激反应。</p>
+<p><strong>抑郁症是人类医疗的临床诊断，动物虽然不能被诊断为抑郁症，但是同样可以观测到类似人类的“抑郁样行为”。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6ddfc50214e82c978933d51287a22b2_720w.jpg?source=8673f162" alt=""><figcaption>动物的应激模型常用于研究人类抑郁症的病理生理学</figcaption></figure>
+<p>HPA 轴由下丘脑、垂体和肾上腺组成，HPA 轴是神经内分泌反馈调节系统的构成部分。</p>
+<p>动物的应激模型常用于研究人类抑郁症的病理生理学，抑郁症是一种心理和生理压力共同作用的疾病，HPA 轴在其中扮演了关键角色：当个体感受到过度失控、无法预测的压力、慢性应激、社交挫败、习得性无助的时候，HPA 轴可能会出现过度的激活。</p>
+<p><strong>尽管不同动物应对痛苦的行为反应模式不同，但人们确实在猪身上发现了类似人类抑郁的表现。</strong></p>
+<p>虽然相对于其他野生动物，猪在野外的活动范围相对较小，通常只有几平方公里，且天性喜欢在固定区域觅食、休息、打滚。</p>
+<p>在长期不良饲养环境下，猪也会表现出类似嗜睡、不动，长时间躺卧、对外界刺激无反应的表现，很像是人类抑郁症患者的“精神运动迟滞”。</p>
+<p>也有一些猪会表现出明显食欲下降或异常进食，咬围栏杆、啃咬隔壁猪尾巴这样的行为。</p>
+<p>看到这，可能有人会问了，<strong>人类的抑郁症都研究不过来，科学家们无聊到什么程度了，怎么还有精力研究上动物了？</strong></p>
+<p>研究动物的心理、行为表现，到底对人类自身有什么用？</p>
+<p>其实，人类大部分的精神药物，在最开始测试新药安全性和有效性的时候，都是以动物作为实验对象的。比如最经典的“强迫游泳实验”<sup>[2]</sup>、“悬尾实验”<sup>[3]</sup>、“糖水偏好实验”<sup>[4]</sup>，常被用来做抗抑郁药物的动物验证。</p>
+<p>神经生物学基础是共通的，动物模型虽然不能完全替代人类，但依旧可以在药物测试的早期提供可量化、可重复的证据，防止把无效、甚至可能是有害药物最开始直接用在人类身上。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6384d0d477b93298972923d87f14e0e8_720w.jpg?source=8673f162" alt=""><figcaption>当代的精神药物以动物作为精神药物实验对象</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-54b6a2ba1f36994baa6d032d0290bc94_720w.jpg?source=8673f162" alt=""><figcaption>抗抑郁药物可以有效缓解动物产生的刻板行为</figcaption></figure>
+<p>肉猪通常在半年左右出栏了（上餐桌了），这样的时间跨度，大部分的猪可能不足以发展出典型的慢性抑郁症状。</p>
+<p>不过，我们依然会看到：</p>
+<p>在自然环境下生长的猪喜欢拱地，喜欢洗泥巴浴，然而在现代化的养殖环境中，它们往往失去了这些条件，无法去拱地、洗泥巴浴、到处乱窜了。</p>
+<p>久而久之，部分猪会进入到一种“行为抑制”状态：</p>
+<p><strong>虽然尚且没有达到“抑郁样行为”的程度，但可能会呈现一种习得性无助的特质，反复尝试这些天性行为，又经过反复的失败后，不再试图去改变现状了。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e431e6bc8ef323cb9955420b56576e5b_720w.jpg?source=8673f162" alt=""><figcaption>甚至行为疗法对黑猩猩一样有效</figcaption></figure>
+<p><strong>除了养殖场外，在如今的现代化动物园中，又是如何去避免动物产生刻板行为，保证动物心理健康的呢？</strong></p>
+<p>答案是“丰容”（Enrichment）。</p>
+<p>丰荣是动物园学、动物行为学中的重要概念，通过通过食物以及人造的环境，模拟动物本身在自然中生活的环境，促使动物恢复诸如觅食、探索、攀爬、社群等自然的行为。</p>
+<p>值得一提的是，相对于其他动物，灵长类动物在圈养条件下是很难满足基本需求的。</p>
+<p>在动物园中，适当增加饲养环境中的设施，例如攀爬装置、藏匿的洞穴、简单的木质玩具等等，让动物有更丰富的探索区域和更大的活动空间。</p>
+<p>猴山就是一个很好的例子，用自然组成的群体模式进行饲养，并且有更丰富的玩具设施，比如攀爬架、锁链架、岩石、梯子、水池等。</p>
+<p><strong>如果动物的生存的时间足够长呢，这种情况下又会发生什么？</strong></p>
+<p>卡拉贾贝伊熊避难所有一只叫做阿布迪的灰熊，在它被解救之前，阿布迪长期被猎人用铁索拴着，生存环境很恶劣。</p>
+<p>在进入熊避难所后，阿布迪出现了和我们前面说过的那只狼一样的刻板动作：一刻不停的踱步。工作人员尝试介绍另一只熊给阿布迪，阿布迪依旧不为所动。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e8722cad867937b18b0f680c67bdd08b_720w.jpg?source=8673f162" alt=""></figure>
+<p>在避难所的工作人员给灰熊阿布迪服用了对症药物后，它才开始渐渐地停止踱步这样的刻板行为，也逐渐适应了与其他熊在一起共同生活。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-288dadd5ee53d6c83cd7d46dbbe3b94a_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>动物不仅会有生理上的痛苦，也会有像人类一样持久的、弥漫性的心理伤痕。</strong></p>
+<p>十几年过去了，阿布迪的身体早已恢复了健康，可心理创伤却依旧还在。</p>
+<p>尽管此前阿布迪已经意识到自己和其他熊都是同类，但它依旧无法长久地注视其他同伴，这种行为很像人类处于社交焦虑时的回避反应。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a6bb0485a520407e64d219c98c06704_720w.jpg?source=8673f162" alt=""><figcaption>黑猩猩小弗林特的故事</figcaption></figure>
+<p><strong>当高等哺乳动物陷入极度抑郁的时候，又会发生些什么呢？</strong></p>
+<p>动物行为学家珍妮·古道尔（Jane Goodall）<sup>[5]</sup>在研究野生黑猩猩时记录的一只著名雄性黑猩猩“小弗林特”。小弗林特在母亲去世后，陷入抑郁之中，拒绝进食和社交，不久后就去世了。</p>
+<p>这里，我确实有一个猜想，像黑猩猩这样的社会性的动物，是否也是当环境较为安全、稳定的时候才会更多的表现出更多同情心来？</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-77fd08590c6da9ac9cc48672e9f65366_720w.jpg?source=8673f162" alt=""><figcaption>古道尔使用自然观察法研究黑猩猩的行为</figcaption></figure>
+<p>复杂意识和情感并非哺乳动物独有，一些鸟类，比如高智商的乌鸦或者渡鸦，雁形目的灰雁，也会表现出复杂的情绪。</p>
+<p>不只是哺乳动物，灰雁、乌鸦这样的鸟类动物，也会出现“抑郁样行为”，其表现与人类抑郁症患者相似：沉默、无精打采、失去活力。<sup>[6]</sup></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bda68bc0b8e4f04e2504d677c9bced92_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>拓展阅读</strong></p>
+<p>什么是习得性无助：<a class="internal" href="https://www.zhihu.com/question/576011192/answer/49406391414">《骆驼祥子》为什么三次买车以后人就颓了？</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/41100560">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/48551274">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786844</guid><pubDate>Mon, 19 Jan 2026 18:25:28 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787003</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787052</guid><pubDate>Tue, 20 Jan 2026 01:18:03 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787007</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -248,7 +265,7 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 为什么都说消费降级了，但旅游时依旧人山人海？</h2>
+<h2 class="question-title">瞎扯 · 一个成年人不幸掉落动物园老虎山，该如何保命？</h2>
 
 <div class="answer">
 
@@ -259,22 +276,20 @@
 </div>
 
 <div class="content">
-<p>Q：<a href="https://www.zhihu.com/question/1954487138281317118/answer/1976270733446488700"> 为什么都说消费降级了，但旅游时依旧人山人海？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/d25194dd60bb530965fed2b196b24218">@拉德拉的一勺白糖</a> ：因为正常情况下，正儿八经的景区想不到这种事还可以丧事喜办。</blockquote>
-<p><img class="content-image" src="https://pic-out.zhimg.com/v2-cae7ee7c5bad812fc7ecf515dff1209f~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768543801-0-0-61c80ffe30c20a619be5c49f2862917f&bizSceneCode=article_draft&expiration=1768543801&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/641372499/answer/3570976596">在国外旅行时，你发现过哪些中国符号？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/9196fc91271a395c9828b6502d456bed">@行走在云端</a> ：我在莫斯科的时候捡到一元的人民币，然后我很激动地对它说，走，我带你回家</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/660845050/answer/51509657199">有什么地狱级的笑话? </a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/82d82e2ac13e87f9fde0a7153243ab1d">@山药当归枸杞够</a> ：问：你老公心梗的时候，你为啥用手机打开了京东？<br>答：我等 120 的时候想打开知乎搜索下怎么救他，但是我的手一直在抖。</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/23175446/answer/1912217095212611153">对</a>「<a href="https://www.zhihu.com/question/23175446/answer/1912217095212611153">岁月是把杀猪刀</a>」<a href="https://www.zhihu.com/question/23175446/answer/1912217095212611153">有什么好的诠释？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/38cabaf0ef1fe52a9bf01cc7c83d9475">@李发强</a> ：2006 年大学毕业，在母校门口留影</blockquote>
-<p><img class="content-image" src="https://pic-out.zhimg.com/v2-461f267225fed162054335645264551f~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768543801-0-0-7ca34c46cea9d55671c6a7495ffa2538&bizSceneCode=article_draft&expiration=1768543801&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<blockquote>2024 年冬天，给职业学院的学生讲课</blockquote>
-<p><img class="content-image" src="https://pic-out.zhimg.com/v2-3cc580d8238e053c7f192047d8e3c4f1~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768543801-0-0-40051f67c5fa96338d64fdcfe71769ca&bizSceneCode=article_draft&expiration=1768543801&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/1977733563102282585/answer/1978881893270300572">新华社发布未来五年最吃香的工作，你最看好哪个？ </a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/5c30a0f87f3b2316f3a75fb363dca186">@一拳一个嘤嘤怪</a> ：没问题啊，这四个工作不是很吃香吗？</blockquote>
-<p><img class="content-image" src="https://pic-out.zhimg.com/v2-e291c5d71e825cf3e5207a2ba16f9343~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768543801-0-0-185a853ce021a7601b6d461b7f73124a&bizSceneCode=article_draft&expiration=1768543801&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<blockquote>不好意思，看差行了</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/298596635/answer/44242314502">一个成年人不幸掉落动物园老虎山，该如何保命？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/78838e25cabc8f1fcfc747ee294ccca9">@智慧明净</a> ：一定要淡定<br>装作什么都没发生一样<br>拿旁边的扫把扫扫地<br>装成是新来的饲养员</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/12446778792/answer/1905990139475371999"> 侄子初三整天研究微积分啥的咋整?</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/d41ae0e68c0f94ed7439d4c58fef444c">@绫小路</a> ：该治疗了，给他服下这个问题，包治百病</blockquote>
+<p><img src="https://pic-out.zhimg.com/v2-b99215f6dcfca57d2bbaba7ccda8bf34~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768544276-0-0-baf4e5a6d9f9522d3b3f44dfbb933f5e&bizSceneCode=article_draft&expiration=1768544276&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p>Q：<a href="https://www.zhihu.com/question/61348692/answer/3434456426">为什么说男人至死都是少年？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/0db0e4359c64b6fc6ec7c917fc8bd77b">@天使</a> ： 62 岁的副总在大扫除期间<br>抢到了水枪扫地面的任务</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/658936021/answer/3557591414">宝妈们，你会介意「你的名字」被「xx妈妈」代替吗？ </a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/2126a23368342da3d4b6a9883184a8ff">@今晚的月光好美</a> ：大家好，我是镇子上卖面包的。我的工商营业执照上写的我店铺的名字，也写着我的名字。<br>可是我的邻居、朋友、乡亲们都叫我面包。连个姓都没有，就面包。<br>对，就是五菱宏光那个面包。<br>我一开始不习惯，后来我习惯了。我给别人打电话，都说：歪!我是面包!<br>现在不光同龄人叫我面包，小孩子们也叫我面包。在我面前会有点礼貌，面包后面加个叔叔。</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/665418546/answer/119967369401">怎样把躺平的年轻人拉起来？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/b57f6910515a993d7bf871f3ee0f7604">@A型人格</a> :现在的福利太好，年轻人承受不了啊</blockquote>
+<p><img src="https://pic-out.zhimg.com/v2-eb552eeb643ca62929ce4c0c3dd19ef8~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768544276-0-0-23790f83acacc0aa33d3ef94e8186f77&bizSceneCode=article_draft&expiration=1768544276&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p> </p>
+<p> </p>
 </div>
 </div>
 
@@ -283,4 +298,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787003</guid><pubDate>Mon, 19 Jan 2026 18:25:29 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787007</guid><pubDate>Tue, 20 Jan 2026 01:18:03 GMT</pubDate></item></channel></rss>
