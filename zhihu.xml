@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Tue, 20 Jan 2026 18:28:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么有的动物用舌头喝水而不用嘴直接喝？</title><link>http://daily.zhihu.com/story/9786848</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ffd13122bc812795573e3f46649078a2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 21 Jan 2026 01:20:40 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ICU 的可怕之处在哪？</title><link>http://daily.zhihu.com/story/9786868</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7dcdde47c72561fda6a78f74c3df5d16.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,50 +19,71 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-0940f055d33b6cb39928486943cd123e_l.jpg?source=8673f162">
-<span class="author">高sir，</span><span class="bio">科学丨教育&amp;生物老师丨公众号：高比先生</span>
-<a href="https://www.zhihu.com/question/3257311792/answer/130359148718" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/14b7e360da81f8effdba2deedf0cb78b_l.jpg?source=8673f162">
+<span class="author">快乐的874，</span><span class="bio">Not yet, Further more.</span>
+<a href="https://www.zhihu.com/question/565514654/answer/1911576002452227330" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>狗狗喝水时，它的舌头会卷成勺子形状，快速地把水舀进嘴里。如果你仔细观察，会发现它们的舌头每秒能“舀”4-5 次水，动作超级快！</p>
-<p>而猫咪则更加优雅，它们只用舌尖轻轻碰触水面，靠表面张力把水“拉”起来。</p>
-<p>大象则用它们的长鼻子像吸尘器一样先把水吸进鼻子，然后再把水喷进嘴里。</p>
-<p>鸟类中，有些能直接把嘴伸进水里吸水，有些则需要先含一口水，然后抬头让水顺着喉咙流下去。</p>
-<p>而我们人类呢？我们用嘴唇形成一个密闭的空间，通过创造负压（就像用吸管一样）把水吸进嘴里。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8b37b745854b4d44050d6a62e92fbc8d_720w.gif?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8c862e0f590a382fbcbf1b26b0881b5b_720w.gif?source=8673f162" alt=""></figure>
-<blockquote>“为什么狗不能像我们一样直接吸水喝呢？”</blockquote>
-<p>这主要和嘴巴的结构有关。</p>
-<p>我们人类有非常灵活的嘴唇和丰富的口周肌肉，可以轻松地把嘴唇完全闭合，形成一个“密封”的空间。</p>
-<p>这样我们就能在口腔里制造负压，把水“吸”进来。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a37a8dde93ae7cc8e8ba85a01545e51f_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是狗狗和很多其他动物的嘴唇构造不同，它们没法完全闭合嘴唇来形成有效的负压区域。</p>
-<p>你可以想象一下，如果你的嘴唇有缝隙，喝水时水就会从缝隙漏出去，很难吸进来，对吧？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4970f89cf6044c37b12215f8300f55c9_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>你提了一个好问题是：“为什么不直接把嘴当碗用呢？”</strong><strong>理论上确实可以！</strong></p>
-<p>动物可以低头把嘴放进水里，然后直接咽下去。</p>
-<p>但这种方式有几个小问题：</p>
-<p>对于像狗这样嘴巴比较长的动物，把整个嘴巴放进水里容易把鼻子也弄湿，可能会呛到。</p>
-<p>这样喝水很难控制进水量，可能一下子进太多水，容易呛到气管里。</p>
-<p>即：除非是能灵活“憋气”的的动物（接受过训练，或者以捕鱼为生），否则喝一口呛一口</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fee07a148ea400e641edd766da4aab5d_720w.jpg?source=8673f162" alt=""></figure>
-<p>像狼和狗这样的捕食动物，它们的嘴巴主要是为了抓住和撕裂猎物而设计的。</p>
-<p>宽大的口腔和锋利的牙齿很适合捕食，但这种结构就不太适合形成负压来吸水。</p>
-<p>所以它们的舌头就担起了喝水的重任。</p>
-<p>用舌头卷水喝还有个好处：动物可以一边喝水，一边保持头部稍微抬起，继续观察周围环境，保持警惕。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1224f41a83e1a9fc6f6f0fcf2d6f8ae9_720w.gif?source=8673f162" alt=""></figure>
+<p>我一般是这么跟普通人形容 ICU 的：</p>
+<p>ICU 是现代科学设置在死界的站点，位于忘川的彼岸，奈何桥的另一端。</p>
+<p>那里的病人，除去观察过渡的那种，有一个算一个，不说放在古代，就算是在 100 年前，那也都是死人。只不过现代的科技还拽着他，和人世有些勾连罢了。</p>
+<p>既然是死地，自然要吃死地的苦。ICU 的苦，活人想象不到，其实也受不了。</p>
+<p>ICU 的可怕之处并不在于死，而是卡在生死之间，无尽的痛苦和恐惧，却又完全无助。</p>
+<p>那些真的很危重的，都在深度镇定上，这种约等于死亡的状态并不可怕。因为你什么都感觉不到，时间不再存在，一切都是虚无。在这种状态下死了也就死了，平行过度而已。</p>
+<p>但问题是如果一下没死成，被 ICU 拽住了呢？总得想办法把你拉回来吧？可是要穿越生死的边界，怎么可能不扒几层皮。</p>
+<hr>
+<p>如果你很好奇，想看看具体怎么个可怕，那就请继续往下看。</p>
+<p>你要回到人间，就肯定要减少你的镇定，让你逐渐醒来。于是你的感觉开始回到你的身体里。</p>
+<p>呼吸系统是首先恢复感觉的系统之一</p>
+<p>你感觉到有个东西在给你的肺打气(那是呼吸机)，你刚刚想缓慢的吸一口气，一股气流就急速冲向你的肺，你本能的想要对抗，结果气流又忽然消失。你喘不上气，想要做个深呼吸，结果这次气流更强烈，不管不顾的几乎要把你的肺吹炸。你拼命挣扎，那股气流也随着你的呼吸紊乱而变本加厉的紊乱，你的呼吸机不能很好的同步你的呼吸，开始哔哔大叫。</p>
+<p>你感觉你的气管中有很多的异物，你不由自主的开始咳嗽，但气管导管的球囊封闭了你的气道，你的咳嗽动作被呼吸机放大，每次咳嗽都让你痛苦万分，却无法清除那些分泌物。你的脸涨的通红，口腔莫名其妙的出现大量的口水，你不能呼吸，不能吞咽，你觉得你快死了。</p>
+<p>护士听到了呼吸机的警报，也看到了你的窘迫，她向你走来。你感觉到有一些水进到了你的气管里，你呛住了，拼命的咳嗽。然后忽然又有个东西沿着你的气管向下移动，疼得像是刀割，又痒的像是塞进一把鸡毛。你难受的泪水喷涌而出，你想躲开，却毫无办法。终于，随着呼哧呼哧的声音，你觉得刺激你的气管的东西好像稍微少了一点 ----- 这是在吸痰。不吸，你就会在剧烈的呛咳和窒息感中苦熬；吸，就是针刺刀割般的痛苦。这样的反复折磨，多的话十几分钟就要来一两次 (吸痰管还可能会割破你的气管，让每次的痛苦加倍)，少的话一天也要来个几次。</p>
+<p>气管导管经过你的会厌，然后球囊堵在你的声门下方。你的口腔分泌物不能正确下到消化道，会堆积在球囊那里，你永远都觉得喉咙里有一滩水，即使是带抽吸的 CASS 导管也不能完全解决问题。你感觉要窒息了，要呛死了，你恐慌，但是你无能为力。</p>
+<p>时不时的，会有另一根塑料管伸进你的嘴，吸走你的口腔分泌物的同时，这跟管子会在你的喉咙里捅来捅去。你的腹部在抽动，你要吐了。同时你听到有人在满意的说“嗯，有喉咽反射”，你不明白他们在说什么，也不明白为什么他们要一次次的捅你的喉咙，你腹部抽动的时候带动全身都剧痛无比，你只想尽快停下，但是你无能为力。</p>
+<p>你本能的想要伸手拔掉那根可恨的管子，但是你发现你的手被绑住了。你想，但是你不能，你无能为力。</p>
+<p>为了结束你的痛苦，让你摆脱呼吸机的控制，他们决定测试 / 训练你的自主呼吸。他们调低了呼吸机的参数，强迫你用自己的肌肉来呼吸。你觉得呼吸瞬间就变得沉重了。你在努力，但是你无比虚弱，你在窒息中坚持了一个小时，再也喘不动气了，呼吸机的潮气量开始报警。你听到一个声音说，今天到这儿吧，明天再试。</p>
+<p>每天，你都要在这种窒息感中挣扎，都要重新体验一次死亡的恐惧。你现在不能喘气，其实就是个死人。但你要是想重回人间，这个坎你又不能不迈。多久能迈过去？不知道，有的人抬脚就过去了，有的人永远都迈不过去。</p>
+<p>然后是疼痛，随着镇定和镇痛药物的减少。你的疼痛也回来了。你觉得浑身到处都在疼。时不时的，有人会用圆珠笔或者注射器一类坚硬的东西像上刑一样用力夹住你的手指，你疼的大叫，但是你浑身无力，拼尽全力也只是睁开了眼睛。你听到一个声音说，“对疼痛没反应吗？再试试”。你感觉到有人在用坚硬的东西揉搓你的胸骨，剧痛阵阵传来，你的心率和血压飙升。你想结束这一切，但是你无能为力。终于，他们放弃了，你听到他们说：“我刚次好像看到他的脸抽动了一下... 等会儿再试试吧....”。你想说，求你了让我死了吧，但是你无能为力。</p>
+<p>疼痛是一个活人必须的感觉，你从死地返回，必然要经历疼痛越来越多的过程。慢慢的，你有了力气对疼痛做出反应，你现在能挤眉弄眼，能定位疼痛的位置了，他们不再频繁测试你的疼痛。但是你出现戒断反应了。</p>
+<p>之前给你输的那些止痛药，全是阿片类药物。你的镇定药物中可能有苯二氮卓类药物，还有那种曾经让你拥有死亡般睡眠的“小牛奶” propofol... 都会成瘾。你焦虑，你烦躁，你看见了奇怪的东西，听到了可怕的声音，你万蚁噬心，恨不得化作一团火焰把自己烧死了账。但是如果你连这点苦都吃不下，你怎么可能从死界重回人间。</p>
+<p>你想动动手指，但是你的手指肿的无法移动。其实你全身都是肿的，当初为了支持你的血压给你输了大量的液体，还有所有的药物，营养... 全是液体。但是你的肾功能不行，几十升的额外液体都堆积在你的体内。你的皮肤肿的透明，像饱和的海绵一样向外渗出粘滑的水滴。柔软容易膨胀的地方，比如子孙袋，肿的像手球一样大，晶莹剔透吹弹欲破。</p>
+<p>胃管倒是不怎么痛苦，因为那是在你没有知觉的时候放下去的。但问题是你无法控制你的排便。为了减轻你的肠道负担，不让你被塞住，他们用各种药物确保了你一直处在腹泻的状态。你根本无法控制。你会时不时的就泡在自己的排泄物里，唯一的希望就是护士有时间来帮你收拾。粪便给皮肤带来强烈的刺激，你的整个私处都是红肿甚至破溃的，又疼又痒，就像被天山童姥种下了生死符。如果你碰巧是个肝硬化失代偿的患者，为了排泄大量的血氨，你的腹泻会更加频繁，说不定还会经历一天若干次的乳果糖灌肠。你被扒光，翻面，体验着奇妙的灌肠的耻辱，然后一泄千里。每天，若干次。既耻辱又痛苦。但是你无能为力，只能像一块没得感情的肉一样任人摆布。</p>
+<p>你浑身都是伤口，脖子上有管子，手腕上有管子，腹股沟有管子... 它们要么是在你的中央静脉里，要么是在你的动脉里，它们倒是算不上巨痛，但是疼痛感还是有的。还有各种引流管，随着你的呼吸和移动，会摩擦你娇嫩的脏器... 为了不让你碰这些管子，你的手被牢牢的绑住。你的皮肤可能脆弱的像泡过水的纸巾，护士给你换敷料的时候，皮肤就会随着胶布大片的撕裂和脱落。如果你是创伤病人，或者有什么坏死性筋膜炎之类的问题... 那还是不说了，会影响食欲。总之你无能为力，你什么都不能做，只能由他去。</p>
+<p>你睡的床和枕头，为了方便擦洗消毒，都是不透气的。你永远都不能获得一个舒服的姿势，永远都没有一个舒适的温度。护士给你翻身是为了保护的你的皮肤，不是为了让你舒服。他们永远都要优先考虑那些管子(那就是你的命)，而不是优先考虑你的舒适度。你不舒服，7x24 的不舒服，但是你无能为力。</p>
+<hr>
+<p>曾有一个朋友问我 ICU 有多惨。我说别的都不提，不透气的床和枕头，双手绑起来，永远躺不舒服，就这一条，你觉得你能坚持多久？我朋友说，一晚上应该没问题，但是三天估计就已经疯了。</p>
+<p>是的，对于患者来说，ICU 最可怕的地方，就是无能为力。那里所有的折磨，耻辱，痛苦... 你躲不开，也不能反对。</p>
+<p>有多少人，在 ICU 里挣扎着想活，但其实我们都知道他毫无希望。又有多少人，在 ICU 里只求速死，却又无法主张自己的生命，只能忍受那无尽的折磨。</p>
+<p>正如但丁描绘的地狱之门上所书：到了此处，就要舍弃一切的希望。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-427f1d9dd084b6151a3f0314c2e6de7a_720w.jpg?source=8673f162" alt=""></figure>
+<p>因为 ICU 里的一切，都不再由你做主。你想活也罢想死也好，都是别人说了算。</p>
+<p>你就是一条躺着砧板上的鱼，疾病在宰杀你，但是 ICU 拖着不让你死。不管你想什么做什么，你都是那条无能为力的鱼。你的死亡被人为的延长了，你会不间断的经历死亡的痛苦，一遍又一遍，直到你真的死去，或者重回人间。</p>
+<p>然而就算你重回人间，你也是死过至少一次的人了。你的肉体大概率已经残破不堪，你的魂魄可能不再完整，如果你回来之前已经喝了孟婆汤... 那还能叫“回来”吗？</p>
+<p>Post ICU syndrome，重症后综合征。包括但不限于身体机能障碍，认知障碍，情绪障碍... 发生率高达 75-80%。去 ICU 住两个月，遭受到心理创伤比你在战场上待两年都要大得多。战场虽然惨烈，但最多也只是人间地狱，但 ICU 可是真的真的不在人间。</p>
+<p>最后，我想用我院 ICU 墙上的一句箴言作为结尾：</p>
+<p>God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.</p>
+<p>愿上苍赐予我平和的心灵，能够接受那些我无法改变的事情；赐予我勇气，去改变我所能改变的一切；并且赐予我智慧，令我能够知道两者之间的区别。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d9f09e0ee256cb2b1a0524d2332a084_720w.jpg?source=8673f162" alt=""></figure>
+<hr>
+<p>补充：</p>
+<p>评论区有人说自己住过 ICU (或者家人住过 ICU)，没什么感觉，认为我是在臆想。</p>
+<p>嗯...</p>
+<p>1. 我在文章开头的地方就已经说了，要“除去观察过渡的那种”。那些患者未入死地，体验和真正的重症病人是不一样的。</p>
+<p>2. 我在文章接近结束的地方也说了，重症后综合征的发生率大概是 75-80%。也就是说在存活的 ICU 患者中，有大概 20-25% 的患者能全须全尾，心理健康的从 ICU 里出来，这个我也不否认。</p>
+<p>3. 然而我要强调的是：很多“没什么感觉”的患者，并不是没有经历地狱，而是他们不记得。这些患者当时表现出来的 烦躁，挣扎，反抗，痛苦的面容，僵直紧绷的身体，还有迅速变化的生理指标，都清楚的表明了痛苦的真实存在。</p>
+<p>4. 作为患者本人或者患者家属，也许你可以说“我不记得就相当于没有痛苦”，但是我不能。我们不能因为患者不会记得就忽略这些痛苦的存在。那不道德，也不人道。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/3257311792">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/565514654">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786848</guid><pubDate>Tue, 20 Jan 2026 18:28:47 GMT</pubDate></item><item><title>请问假如蜜蜂采了有毒的花，酿的蜜也会有毒吗？</title><link>http://daily.zhihu.com/story/9786858</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-f46c0fd8285c897d8dfdf780c7b0b609.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786868</guid><pubDate>Wed, 21 Jan 2026 01:20:37 GMT</pubDate></item><item><title>只切掉蚊子的全部腿，而不破坏蚊子其他身体部分，蚊子还能飞起来么？</title><link>http://daily.zhihu.com/story/9786873</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-df9854f16322272fabb7d6c6b1f26536.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -82,69 +103,94 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-4e340f36684bbae6619008a0222a2f6f_l.jpg?source=8673f162">
-<span class="author">奔奔马，</span><span class="bio">可在淘宝搜索小店“奔奔马90后养蜂人”购买自家蜂蜜、红枣核桃</span>
-<a href="https://www.zhihu.com/question/27451726/answer/104580381398" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-24701a3dfa6a626e783c64fda2cb91cf_l.jpg?source=8673f162">
+<span class="author">南官竹，</span><span class="bio">医学</span>
+<a href="https://www.zhihu.com/question/399852621/answer/3501484445" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先说结论：蜜蜂采了有毒蜜源的花朵，酿造的蜂蜜也会有毒！</p>
-<p>但有毒蜜源并不常见。</p>
-<p>开花植物种类繁多，一些开花植物的<strong>花蜜</strong>或<strong>花粉</strong>中，就会含有一些有毒物质，能使人或蜜蜂出现中毒症状，这样的蜜源植物通常称之为“<strong>有毒蜜源植物</strong>”。</p>
-<p>蜜蜂采集过程中，也会采集到有毒蜜源的花蜜和花粉。而且，采集到有毒蜜源的花蜜或花粉，蜜蜂会中毒。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-06980676aada306597e26b2bcf56d5d2_720w.jpg?source=8673f162" alt=""><figcaption>将花粉团粘在后腿上，携蜂而归的工蜂</figcaption></figure>
-<p>通常，蜜蜂采集到一些有毒蜜源花粉或花蜜后，会出现<strong>幼虫、成年蜂</strong>和<strong>蜂王</strong>发病致残、死亡的现象，给养蜂生产造成损失。</p>
-<p>人误食一些种类的有毒蜜源植物花蜜酿造的蜂蜜后，也会出现<strong>低热、头晕、恶心、呕吐、腹痛、心悸、眼花、乏力、胸闷、心跳急剧、呼吸困难</strong>等症状，严重者甚至可导致死亡。</p>
-<p>需要注意的是，真正对蜜蜂能够造成危害的<strong>有毒蜜源植物</strong>种类并不多，多为南方山区野生植物，其分布区域也不广，大多数仅零散出现在一些区域。</p>
-<p>对于有毒蜜源的辨识和防范，也是养蜂人需要重点学习的内容，专业的养蜂人也会主动避免。<strong>毕竟蜂群可是养蜂人最重要财产呀！</strong></p>
-<p>即便是有毒蜜源，不同的植物，其中毒机理千差万别，对蜜蜂或人类造成的危害也存在着相当大的差异。使得由有毒蜜源植物的花蜜酿造而来的“毒蜜”，有的毒性大，有的毒性小。</p>
-<p>有的蜜源植物对蜜蜂有害，而对人无害，如<strong>油茶</strong>和<strong>红枣</strong>就是如此。油菜花蜜中的一些成分（生物碱、半乳糖）会对<strong>蜜蜂幼虫</strong>有一定毒性，但油茶蜜对人和成年蜜蜂无毒；红枣花蜜中的生物碱，对蜜蜂也有一定的毒性，在一些年份对蜜蜂危害很大。</p>
-<p>蜂农通过一些措施，也可以有效预防枣花蜜对蜜蜂的危害，甚至完全不会对蜂群产生危害。同时，酿成的枣花蜜对人完全无害，甚至将枣花蜜作蜜蜂的越冬蜜，也未出现不良反应，其中的原因还需进一步研究。</p>
-<p>由于红枣是北方夏季重要的蜜源，花期又长达一个月，产蜜量较高，蜜也畅销。因此，蜂农还是非常乐意赶红枣蜜源。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d494734f6827dfec00d8b2fdb38377f2_720w.jpg?source=8673f162" alt=""><figcaption>采集枣花的蜜蜂。红枣花蜜中的生物碱，对蜜蜂也有一定的毒性，在一些年份对蜜蜂危害很大，但酿成的枣花蜜对人完全无害</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c265f13ff61655ffdd6434ee3c3e3c05_720w.jpg?source=8673f162" alt=""><figcaption>雷公藤。雷公藤的花蜜对人有毒，但对蜜蜂无毒，导致蜜蜂可以将这种花蜜大量储存在蜂巢中，酿成有毒蜂蜜。由此，蜜蜂采集这种植物尤其危险</figcaption></figure>
-<p>而最需要警惕的是“<strong><em>对人有毒，而对蜜蜂无毒</em></strong>”的有毒蜜源类型，如<strong>雷公藤，</strong>这样的有毒蜜源植物实际上最为危险！</p>
-<p>蜜蜂采集这些植物的花蜜，通常是由于一些地区在采集利用蜜源植物中，刚好赶上同地域有毒蜜源植物也在此期间开花、流蜜，且流蜜丰富，能够引诱蜜蜂前去采集，导致所生产的蜂蜜中混入了有毒花蜜。或是<strong>外界蜜粉源缺乏</strong>，以及受到气候条件的影响，使原来无毒的蜜源植物流蜜量减少，而有毒蜜源植物流蜜量增加，促使蜜蜂前去采集这样植物的蜜（粉）。</p>
-<p>虽然确实存在蜜蜂采集有毒花蜜的可能性，但广大消费者也不必就此“谈毒色变”，因为这种情况在正常养蜂条件下，并不会发生，这是由于：</p>
-<p><strong>1.有毒蜜源对蜜蜂危害极大，专业养蜂人会极力避开在有毒蜜源分布区从事放蜂活动；</strong></p>
-<p><strong>2.除曼陀罗、苦皮藤、八角枫等有毒蜜源植物分布区域稍广外，大多数有毒蜜源植物如雷公藤、紫金藤、钩吻等分布区域并不大，</strong>仅分布于南方山区，夏秋季节开花，蜜源价值不高，也均不是大面积种植的作物，这也就减少了蜜蜂去采集的机会。</p>
-<p><strong>3.蜜蜂对有毒蜜源也会有一定程度的辨识能力，</strong>若非遇到外界极度缺乏蜜源等情况，蜜蜂是不会主动采集这类植物的；</p>
-<p><strong>4.当采集蜂采集到藜芦、苦皮藤等毒性较高的蜜源植物后，会在毒性作用下迅速死亡，根本无法返巢。</strong>即使少数采集蜂侥幸未立即死亡，也会发生抽搐、痉挛等症状，被守卫蜂“驱赶”，其采集到的有毒花蜜也就无法混入正常蜂蜜中。</p>
-<p>有毒蜜源植物名录：</p>
-<p><strong>1.博落回</strong></p>
-<p><strong>2.雷公藤</strong></p>
-<p><strong>3.喜树</strong></p>
-<p><strong>4.苦皮藤</strong></p>
-<p><strong>5.八角枫</strong></p>
-<p><strong>6.羊踯躅（chí chú）</strong></p>
-<p><strong>7.曼陀罗</strong></p>
-<p><strong>8.乌头</strong></p>
-<p><strong>9.钩吻</strong></p>
-<p><strong>10.昆明秋海棠</strong></p>
-<p><strong>11.紫金藤</strong></p>
-<p><strong>12.油茶</strong></p>
-<p><strong>13.狼毒</strong></p>
-<p>因此，对于野生蜂蜜，尤其是南方一些山区获得的野生蜂蜜，需持谨慎态度对待，确保周围环境中没有分布有毒蜜源植物。</p>
-<p>看了题主的描述，我这里友情提示多啰嗦几句：要谨慎购买那些来历不明的“野生”蜂蜜，尤其是类似宣称来自“<strong><em>修路工人在树洞里或电线杆洞里</em></strong>”、“<strong><em>修桥工人在桥洞里</em></strong>”发现的野生蜂蜜。</p>
-<p>且不说这样的“剧本”太普遍了，还明显存在逻辑漏洞——野生蜂巢的猎取并不容易，蜜蜂会将蜂巢建在树洞、岩缝这样的“洞穴结构”内，即便是专业的猎蜜人，也需要经过<strong>凿洞、烟熏、割蜜</strong>等一系列手段方法，如果洞穴较深，还需要用长柄勾这样的取蜜工具，一点一点地勾出来，根本不是想象中的那么容易，即便是专业人士带着专业设备，都要折腾好几个小时。</p>
-<p>而进山工人主业是修路、修电网这样的野外工作，工作强度大，时间又紧张，就算真遇到野蜂巢也不会有时间去掏的，更不可能随身带着护具、凿具、割蜜刀这样的专业工具。</p>
-<p>况且，猎蜜还随时有被蛰伤的风险，并且被蜇的概率很大（专业防护服也难以避免），如果工人被蛰伤，影响了修路、修电的进程，那就更得不偿失了！包工头会同意工人去猎蜜？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-614fd83fd8cb2da062b033c8b1b73b3d_720w.jpg?source=8673f162" alt=""><figcaption>2024 年 10 月，一名知乎好友在旅游区见到售卖“野生蜂蜜”，正好询问了我，卖蜜的就是这个剧本套路</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-560df8c3883c9fbd7a4f058901c4455b_720w.jpg?source=8673f162" alt=""><figcaption>知乎好友发来的“野生蜂蜜”图片，根据蜂巢图片，以及蜂巢房眼直径，很容易辨别来自于家养的意蜂（意大利蜂）的蜂巢。但塑料筐捣碎的部分，以及液体部分，具体是不是来自于真蜂窝或者蜂蜜，就不得而知了……</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2aec2f9bae19ef679a66f537c75c49bc_720w.jpg?source=8673f162" alt=""><figcaption>摄于 2023 年 8 月，这是本人饲养的意蜂在蜂箱里乱造的蜂巢，也称赘脾，这种巢常被人冒充“野生土蜂巢”，是不是和上一张图片里的蜂巢很相似？</figcaption></figure>
-<p>因此，这种在旅游区经常能遇到的、同一套说辞的“野生蜂蜜”，根本就不会是“野生”的，基本都是用家养的意蜂蜂巢捣碎冒充的。当然，能用意蜂蜂巢捣碎冒充的，就已经是颇有良心了，很多造假者用的就根本是不能吃的东西……</p>
-<p>最后，野味不一定就是美味，往往还与风险共存，家养蜜蜂酿出的蜂蜜也并非一文不值，蜜源、产地、蜂蜜浓度、管理技术也是产出好蜜的关键，不能一概而论。</p>
+<p>1．库蚊被剪断所有腿后不仅会飞，而且还能用嘴插进蚊帐的孔竖挂着。伊蚊无此能力。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc540127b11a3d6e473cfa5cdb8bc639_720w.jpg?source=8673f162" alt=""><figcaption>库蚊，比伊蚊强壮</figcaption></figure>
+<p>2．被剪断所有腿后，库蚊平地起飞的成功率降至 75%，伊蚊降至 30%。两者降落起飞的成功率都为 100%，但丧失了吸血的欲望。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2999958089517068acf97fe6a3457695_720w.jpg?source=8673f162" alt=""><figcaption>伊蚊，比库蚊勇敢</figcaption></figure>
+<p>3．将成熟的摇蚊蛹放到岸上，它能够在扭动几秒～几分钟后瞬间破壳羽化飞走。伊蚊、库蚊都无此能力。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-db85ec706a2e7d35770c449f0ad7eb21_720w.jpg?source=8673f162" alt=""><figcaption>摇蚊并不吸血</figcaption></figure>
+<p>4．寻血飞行中被触碰后，伊蚊能立即重新寻血，库蚊则需 1～5 分钟调整心态。</p>
+<p>5．大蚊被抓住腿后不必掰扯就自动断腿。大蚊不属于严格意义上的蚊子。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-85b9d0164da095ca84cfcab311f8f8de_720w.jpg?source=8673f162" alt=""><figcaption>大蚊不吸血，一般幼虫啃食植物，成虫吸食植物</figcaption></figure>
+<p>巨蚊体型比大蚊小，巨蚊不吸血，巨蚊的孑孓捕食小型蚊子的孑孓。与小型蚊子类似，弯折它们腿的股节，可能诱发它们自动断弃整条腿，且剩余的腿越少越舍不得放弃。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a3027ded3b67ce9239ed848a5bb269fc_720w.jpg?source=8673f162" alt=""><figcaption>华丽巨蚊与白纹伊蚊</figcaption></figure>
+<p>6．伊蚊、库蚊，被抓住过后，不必断腿，就会在丧失吸血的欲望 2 小时以上。若不抓住，而是用剃须刀断掉飞行中蚊子的一条腿的一部分，则不会丧失吸血的欲望；若断掉两条腿的一部分，则会自闭 0.5 小时以上。</p>
+<p>7．伊蚊、库蚊断掉两条最后的腿，不影响走路，刚开始蚊子会非常敏感。因为两条后腿平时抬起来感受气流，没后腿就没有安全感，变得神经兮兮，看到黑影靠近、感受到温血动物或二氧化碳就吓得飞走了。过几分钟后蚊子会变得迟钝很多，习惯了没有后腿。断其它的腿无此效果。</p>
+<p>8．库蚊各种断腿情况：</p>
+<p>6 腿健全➛可抬起 2 后腿靠前 4 腿行走，路况复杂时 2 后腿辅助行走</p>
+<p>断 1 条前腿➛两后腿参与走路，但依然行动略显笨拙，站稳后仍坚持抬起后腿</p>
+<p>断 2 条前腿➛两后腿改为支撑，但几乎无法行动。站立时尝试抬起后腿，屡败屡试，最终习惯将后腿用于支撑</p>
+<p>断 1 条中腿➛基本无影响</p>
+<p>断 2 条中腿➛两后腿可以代替中腿走路。站立时反复练习抬后腿，最终练成</p>
+<p>断 1 条后腿➛不影响站立与行走，持续抬后腿</p>
+<p>断 2 条后腿➛不影响站立，基本不影响行走</p>
+<p>断 2 条后腿和 1 条中腿➛基本可以站立和行走</p>
+<p>仅剩 2 条前腿➛可匍匐前进</p>
+<p>仅剩 1 条前腿➛能偶尔匍匐前进几步，易侧翻，可靠这条腿悬挂，可配合口器攀高。侧翻时常会向侧翻一侧展翅维持平衡。</p>
+<p>仅剩 2 条中腿➛容易两脚朝天，翻身比仅剩 1 条中腿困难，但是翻身后比仅剩 1 条中腿更易维持稳定。基本丧失行走能力，但偶尔能将腹部抬离地面。</p>
+<p>仅剩 1 条中腿➛可以翻身，但不能行走</p>
+<p>仅剩 2 条后腿➛作防侧翻支撑架用，放弃抬腿</p>
+<p>仅剩 1 条后腿➛几乎没有用处，放弃抬腿</p>
+<p>仅剩同侧 3 条腿➛可朝有腿侧横向行走。</p>
+<p>仅剩同侧的中腿和后腿➛可以翻身，但不能行走。</p>
+<p>仅剩同侧的前腿和中腿➛可朝有腿侧横向行走</p>
+<p>仅剩同侧的前腿和后腿➛偶尔能匍匐前进</p>
+<p>仅剩同侧的前腿、中腿和异侧的后腿➛能跛行</p>
+<p>仅剩同侧的前腿、后腿和异侧的中腿➛能较好地跛行</p>
+<p>仅剩同侧的中腿、后腿和异侧的前腿➛能跛行</p>
+<p>仅剩异侧的前腿、中腿➛能跛行</p>
+<p>仅剩异侧的前腿、后腿➛能偶尔跛行</p>
+<p>仅剩异侧的中腿、后腿➛不能行动</p>
+<p>（伊蚊难以参加此项实验，因为 1 伊蚊数量较少；2 伊蚊更柔弱，难以承受截肢手术；3 伊蚊摆腿更快；4 伊蚊不停止扑翅；5 总体上伊蚊比库蚊主动弃腿更干脆，但也有伊蚊一腿不拔，宁愿被扯腿分尸）</p>
+<p>重复实验者提示：透明盒可无伤捕蚊。以蚊子主动弃腿为主、被动拉断为辅。诱使主动弃腿的方法是弯折而不是拉扯。蚊子有很明显的“腿越少，越惜腿”现象，增加弯折点即可。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f58b384df51f22e0485b82934670ab75_720w.jpg?source=8673f162" alt=""><figcaption>防侧翻展翅</figcaption></figure>
+<p>9．风扇吹蚊子 1～2 小时，蚊子会干瘪脱水而死。空调只需 5～15 分钟。除了阴雨天，除了洗手间，未吸血的蚊子在房间里也很难过夜，一般 6～12 小时会干瘪脱水而死，所以蚊子会在凌晨前躲到湿润阴蔽的地方，若被蚊帐困住会特别不安。这就是房间里蚊子数量变化周期与日夜周期一致，而不会因被人吸引而越来越多的原因。</p>
+<p>10．用巴掌重拍飞行中的<strong>库蚊、按蚊</strong>，手掌会明显感受到与蚊子的碰撞。蚊子被打落在地，会眩晕 2 秒以上，并将永久失去吸血的欲望，不一定丧失飞行能力。力量足够大可持续昏迷直至死亡。被重拍后，能活上半天的已经是少数了，有一小半头歪腹折的。人往往会大大低估蚊子被重拍后所受内伤的严重程度，而吸血又是步骤复杂的主动过程，需要精致、完好的多种口部设备以及健康的体魄。重拍是避免传统灭蚊掌法拍爆蚊子脏手的好办法，但要留心不要拍到家具，不然手会很痛。此法经本人 20 余年亲测效果拔群，但是本人父母 20 年来不予置信，固守传统合掌灭蚊原教旨主义。要是他们信了，不就证明他们一辈子洗被子上、衣服上的蚊子血的精力都白费了么。</p>
+<hr>
+<p>回复评论区：</p>
+<p>1．重拍一定要让蚊子撞到刚性物体上才有效吗？</p>
+<p>不需要。对蚊子来说，被手掌拍的伤害大，之后撞上硬物伤害小；对苍蝇来说，被被手掌拍的伤害小，之后撞上硬物伤害大。</p>
+<p>2．无专业道具捕虫方法：</p>
+<p>苍蝇、蚊子、蜜蜂：用透明的扁盒子，开盖移到发呆的虫子上方，然后合上，虫子只会往盒子里飞。</p>
+<p>螳螂、蜈蚣、蝎子：不宜手抓，手抓会遭受反击，可驱赶到某器物上。若两手空空，也可以温柔驱赶到手上。</p>
+<p>蝗虫：弹跳敏捷，跳后可飞远，难以手抓。可拿棍棒瞄准蝗虫砸去。一般砸不中蝗虫，但是蝗虫会陷入 2 秒钟以上眩晕，此时手拿即可。(有 5%的概率砸残了蝗虫)</p>
+<p>蟋蟀、蛐蛐：跳不远、飞不远，直接用手按住</p>
+<p>蝈蝈、纺织娘、箭角蝗：由于体型较大，用捕蝗虫法很容易砸残。虽跳得远、飞得远，但起飞时速度慢于普通蝗虫。故逃到虫子面前，预判虫子向前起跳的路径，手挥与虫跳双向奔赴。</p>
+<p>金龟子、天牛等大型甲虫：飞到身边时极易拍落。在树上的可摇树掉落。金龟子抓树力巨大，掉落是因为正在发呆。警惕后摇树不会掉落。</p>
+<p>蜻蜓：预判、起跳、轻轻捏住（须有矫健身手 + 总结蜻蜓飞行习惯，难度较大，但掌握后成功率 60%左右，第一次失败后，抓受惊后警惕的蜻蜓成功率降至 20%左右）</p>
+<p>蝙蝠：竹竿在空中快速随意挥舞，蝙蝠会主动撞上。（不应尝试，不应伤害益兽）</p>
+<p>蝉：摇树即飞走。视力敏锐，徒手应自下而上迅速握住。够不到的建议放弃，以免被蝉尿射眼。</p>
+<p>蝴蝶：在细线上挂纸片，左右摇动即可吸引蝴蝶飞来，可用脚对着蝴蝶往草丛踢晕，蝴蝶数秒后苏醒，无可见的受伤。停在那的可自后方捏住翅膀。</p>
+<p>豆娘：一般不飞行大于 2 分钟，待落脚后自后方捏住翅膀。</p>
+<p>蟑螂、毛虫、蛾子等脏虫：盒子盖住，插入纸板封住盒子。</p>
+<p>3．扇晕蚊子后是否需要补刀</p>
+<p>主观的经验总结，最容易被<strong>手掌</strong>扇伤的就是库蚊、按蚊这个量级的。对于更重或更轻的飞虫，手掌对它们的杀伤力都减弱。如果用更硬的东西扇，比如亚克力、木板，则飞虫越重，受伤也越重。如果被扇到地上的是未吸血的<strong>伊蚊</strong>，可补刀以求稳妥。伊蚊更轻，更耐扇。</p>
+<p>4．蚊子怎么吸血</p>
+<p>下唇：平时呈鞘状包裹口器，吸血时作口器的支撑架</p>
+<p>上颚：一对，末端带刺刀，刺刀上方有锯子，先用刺刀破皮肤，再用锯子上下提拉扩大切口，最后停留在伤口处横向撑开伤口。</p>
+<p>舌：感知温度、博动、寻找血管</p>
+<p>下颚：一对，末端带柳叶刀，伸入伤口切割皮肤组织，在舌的指引下切割血管</p>
+<p>唾液腺导管：在人皮肤组织内分泌麻醉剂，减少人的刺痛感；在血管内分泌抗凝剂，维持血液流动</p>
+<p>上唇：卷成吸管状，用于吸血</p>
+<p>口管：输送血液进入食道</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-841b110c6df4a6b3fae4562952fbf1bd_720w.jpg?source=8673f162" alt=""><figcaption>雌蚊的口器</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/27451726">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/399852621">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786858</guid><pubDate>Tue, 20 Jan 2026 18:28:48 GMT</pubDate></item><item><title>猪一生都被关在猪圈里，但为什么没有抑郁症的表现行为？</title><link>http://daily.zhihu.com/story/9787052</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-8839db435459c19f06e133a5886e34ba.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786873</guid><pubDate>Wed, 21 Jan 2026 01:20:38 GMT</pubDate></item><item><title>人为什么需要睡觉？人睡觉的时候身体都在做什么？</title><link>http://daily.zhihu.com/story/9786881</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7c28121d4762870b2737023d934ae1bc.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -164,93 +210,109 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/539a00e25_l.jpg?source=8673f162">
-<span class="author">unclean，</span><span class="bio">压抑的创伤是症状之源</span>
-<a href="https://www.zhihu.com/question/48551274/answer/1976289169174194096" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/21619571/answer/1918596481088221579" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先说结论，猪一样会有抑郁样行为。<sup>[1]</sup>且与高规癖行为（规癖行为，stereotypic behavior，指的是动物身上的刻板行为）呈正相关。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6f2955226cc23ee5f76b1a8d9d47295c_720w.jpg?source=8673f162" alt=""></figure>
-<p>在我小时候，娱乐远没有现在这么发达，想看个动画片都得蹲点儿在电视机前等着。</p>
-<p>去动物园看动物，也算是节假日重要的消遣项目之一。</p>
-<p>小时候总去的是家小型动物园，常规的老虎、大象、长颈鹿是有的。但是，和现在的动辄几百公顷的大型动物园肯定是比不了。</p>
-<p>小动物园是没有那种开阔的虎园的，除了一个较大的“猴山”（感觉看什么都会更“夸张”一些，我怀疑，要是放现在看，也许就是个中号的池子），其他的动物多是养在一个个的小笼子里。</p>
-<p>猴山自然是最好玩的，因为可以看群猴乱舞。</p>
-<p>老猴子给小猴子捉虱子，猴子在锁链间打闹嬉戏，时不时还有猴子抢夺食物的武打戏可以看。</p>
-<p>不过给我留下最深印象的，反倒是只瘦削的、没什么精神的“大灰狼”。</p>
-<p>印象里每次看见它，它都是在那个狭小逼仄的笼舍深处，时刻不停的、来来回回的踱步，仿佛是被上了发条一样。</p>
-<p>这只狼日复一日的来回徘徊，就像人类焦虑时会不安的巡逻一样。</p>
-<p>如果狼也会说话，我甚至有种感觉，它是一面走，一面口中在喃喃自语：“怎么办，我该怎么办？”。</p>
-<p><strong>在动物行为学里，这样的行为被称作刻板行为（stereotypic behavior）。</strong></p>
-<p>像狼、猩猩、大象这样的高社会性、高智力的哺乳动物，它们拥有着与人类高度同源的情绪相关的脑区，比如杏仁核、前扣带回（或同源区域）、岛叶。</p>
-<p>这种沿着围栏反复踱步、转圈的行为，本质上和人类反复咬指甲一样，是动物内在心理、生理压力的外在表现。</p>
-<p>值得一提的是，在动物身上，尤其是大规模养殖场的动物身上，这种刻板行为一旦形成，是很难彻底改变的。</p>
-<p>说起来，人们在骂其他人笨时候，总会是对方是其笨如猪。</p>
-<p>细究起来，这种表达并不合理。</p>
-<p>除了人类外，猪在自然界里得算是 T0 级的动物了。猪的智力、心智水平是和狗相近的，部分认知能力甚至可以接近黑猩猩。</p>
-<p>猪还能通过基础的镜像实验，理解镜子中的镜像是对应空间关系，比起猪来说，狗和猫就很难通过。</p>
-<p>复杂学习和操纵任务上（比如 Joystick‑Operated Video Task 实验），猪的表现并不逊于狗。</p>
-<p>猪甚至可以用灵活的鼻子操纵摇杆，从而进行简单的游戏，而且猪也具备较为强烈的学习动机，还会主动去解决问题。从实验结果来看，经过长期训练后，猪的表现还比狗要好那么一点。</p>
-<p>不过在理解人类社交行为上，特别和人类的交互能力上，狗的理解能力就远超猪和猩猩了。在现实里，人们更倾向于以动物与人类互动的能力来判断这个动物是否聪明，而不是去看它解决问题的能力到底有多强。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cf0a2d2416914f865e2a46e4f20b155a_720w.jpg?source=8673f162" alt=""><figcaption>动物的刻板行为种类多样</figcaption></figure>
-<p>猪的这种互相啃咬尾巴的行为，也叫做反不适综合症。咬断其他猪的尾巴，正是猪的应激综合症的临床表现形式之一，这是一种环境因素、心理因素刺激引发的应激反应。</p>
-<p><strong>抑郁症是人类医疗的临床诊断，动物虽然不能被诊断为抑郁症，但是同样可以观测到类似人类的“抑郁样行为”。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6ddfc50214e82c978933d51287a22b2_720w.jpg?source=8673f162" alt=""><figcaption>动物的应激模型常用于研究人类抑郁症的病理生理学</figcaption></figure>
-<p>HPA 轴由下丘脑、垂体和肾上腺组成，HPA 轴是神经内分泌反馈调节系统的构成部分。</p>
-<p>动物的应激模型常用于研究人类抑郁症的病理生理学，抑郁症是一种心理和生理压力共同作用的疾病，HPA 轴在其中扮演了关键角色：当个体感受到过度失控、无法预测的压力、慢性应激、社交挫败、习得性无助的时候，HPA 轴可能会出现过度的激活。</p>
-<p><strong>尽管不同动物应对痛苦的行为反应模式不同，但人们确实在猪身上发现了类似人类抑郁的表现。</strong></p>
-<p>虽然相对于其他野生动物，猪在野外的活动范围相对较小，通常只有几平方公里，且天性喜欢在固定区域觅食、休息、打滚。</p>
-<p>在长期不良饲养环境下，猪也会表现出类似嗜睡、不动，长时间躺卧、对外界刺激无反应的表现，很像是人类抑郁症患者的“精神运动迟滞”。</p>
-<p>也有一些猪会表现出明显食欲下降或异常进食，咬围栏杆、啃咬隔壁猪尾巴这样的行为。</p>
-<p>看到这，可能有人会问了，<strong>人类的抑郁症都研究不过来，科学家们无聊到什么程度了，怎么还有精力研究上动物了？</strong></p>
-<p>研究动物的心理、行为表现，到底对人类自身有什么用？</p>
-<p>其实，人类大部分的精神药物，在最开始测试新药安全性和有效性的时候，都是以动物作为实验对象的。比如最经典的“强迫游泳实验”<sup>[2]</sup>、“悬尾实验”<sup>[3]</sup>、“糖水偏好实验”<sup>[4]</sup>，常被用来做抗抑郁药物的动物验证。</p>
-<p>神经生物学基础是共通的，动物模型虽然不能完全替代人类，但依旧可以在药物测试的早期提供可量化、可重复的证据，防止把无效、甚至可能是有害药物最开始直接用在人类身上。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6384d0d477b93298972923d87f14e0e8_720w.jpg?source=8673f162" alt=""><figcaption>当代的精神药物以动物作为精神药物实验对象</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-54b6a2ba1f36994baa6d032d0290bc94_720w.jpg?source=8673f162" alt=""><figcaption>抗抑郁药物可以有效缓解动物产生的刻板行为</figcaption></figure>
-<p>肉猪通常在半年左右出栏了（上餐桌了），这样的时间跨度，大部分的猪可能不足以发展出典型的慢性抑郁症状。</p>
-<p>不过，我们依然会看到：</p>
-<p>在自然环境下生长的猪喜欢拱地，喜欢洗泥巴浴，然而在现代化的养殖环境中，它们往往失去了这些条件，无法去拱地、洗泥巴浴、到处乱窜了。</p>
-<p>久而久之，部分猪会进入到一种“行为抑制”状态：</p>
-<p><strong>虽然尚且没有达到“抑郁样行为”的程度，但可能会呈现一种习得性无助的特质，反复尝试这些天性行为，又经过反复的失败后，不再试图去改变现状了。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e431e6bc8ef323cb9955420b56576e5b_720w.jpg?source=8673f162" alt=""><figcaption>甚至行为疗法对黑猩猩一样有效</figcaption></figure>
-<p><strong>除了养殖场外，在如今的现代化动物园中，又是如何去避免动物产生刻板行为，保证动物心理健康的呢？</strong></p>
-<p>答案是“丰容”（Enrichment）。</p>
-<p>丰荣是动物园学、动物行为学中的重要概念，通过通过食物以及人造的环境，模拟动物本身在自然中生活的环境，促使动物恢复诸如觅食、探索、攀爬、社群等自然的行为。</p>
-<p>值得一提的是，相对于其他动物，灵长类动物在圈养条件下是很难满足基本需求的。</p>
-<p>在动物园中，适当增加饲养环境中的设施，例如攀爬装置、藏匿的洞穴、简单的木质玩具等等，让动物有更丰富的探索区域和更大的活动空间。</p>
-<p>猴山就是一个很好的例子，用自然组成的群体模式进行饲养，并且有更丰富的玩具设施，比如攀爬架、锁链架、岩石、梯子、水池等。</p>
-<p><strong>如果动物的生存的时间足够长呢，这种情况下又会发生什么？</strong></p>
-<p>卡拉贾贝伊熊避难所有一只叫做阿布迪的灰熊，在它被解救之前，阿布迪长期被猎人用铁索拴着，生存环境很恶劣。</p>
-<p>在进入熊避难所后，阿布迪出现了和我们前面说过的那只狼一样的刻板动作：一刻不停的踱步。工作人员尝试介绍另一只熊给阿布迪，阿布迪依旧不为所动。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e8722cad867937b18b0f680c67bdd08b_720w.jpg?source=8673f162" alt=""></figure>
-<p>在避难所的工作人员给灰熊阿布迪服用了对症药物后，它才开始渐渐地停止踱步这样的刻板行为，也逐渐适应了与其他熊在一起共同生活。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-288dadd5ee53d6c83cd7d46dbbe3b94a_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>动物不仅会有生理上的痛苦，也会有像人类一样持久的、弥漫性的心理伤痕。</strong></p>
-<p>十几年过去了，阿布迪的身体早已恢复了健康，可心理创伤却依旧还在。</p>
-<p>尽管此前阿布迪已经意识到自己和其他熊都是同类，但它依旧无法长久地注视其他同伴，这种行为很像人类处于社交焦虑时的回避反应。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a6bb0485a520407e64d219c98c06704_720w.jpg?source=8673f162" alt=""><figcaption>黑猩猩小弗林特的故事</figcaption></figure>
-<p><strong>当高等哺乳动物陷入极度抑郁的时候，又会发生些什么呢？</strong></p>
-<p>动物行为学家珍妮·古道尔（Jane Goodall）<sup>[5]</sup>在研究野生黑猩猩时记录的一只著名雄性黑猩猩“小弗林特”。小弗林特在母亲去世后，陷入抑郁之中，拒绝进食和社交，不久后就去世了。</p>
-<p>这里，我确实有一个猜想，像黑猩猩这样的社会性的动物，是否也是当环境较为安全、稳定的时候才会更多的表现出更多同情心来？</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-77fd08590c6da9ac9cc48672e9f65366_720w.jpg?source=8673f162" alt=""><figcaption>古道尔使用自然观察法研究黑猩猩的行为</figcaption></figure>
-<p>复杂意识和情感并非哺乳动物独有，一些鸟类，比如高智商的乌鸦或者渡鸦，雁形目的灰雁，也会表现出复杂的情绪。</p>
-<p>不只是哺乳动物，灰雁、乌鸦这样的鸟类动物，也会出现“抑郁样行为”，其表现与人类抑郁症患者相似：沉默、无精打采、失去活力。<sup>[6]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bda68bc0b8e4f04e2504d677c9bced92_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>拓展阅读</strong></p>
-<p>什么是习得性无助：<a class="internal" href="https://www.zhihu.com/question/576011192/answer/49406391414">《骆驼祥子》为什么三次买车以后人就颓了？</a></p>
+<p>是啊，人类为什么要睡觉？</p>
+<p>如果你怀着这个疑问，去查其它动物是怎么睡觉的，你会越查越气。</p>
+<p><strong>你发现，很多动物的睡眠机制都很牛：</strong></p>
+<p>长颈鹿每天只需要 20-30 分钟的睡眠，而且每次只需要睡 5 分钟，就可以续航 6 小时。</p>
+<p>如果你拥有长颈鹿的睡眠机制……那简直是先天 996 圣体。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f440f5679f41cc50b227f97a854372e2_720w.jpg?source=8673f162" alt=""></figure>
+<p>海豚和雨燕可以使用半脑睡眠<sup>[1]</sup>，当一个大脑半球睡觉时，另一个大脑半球可以继续工作，从而可以在睡觉时保持清醒。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-81a630bcfe0fc2d7f4f29718f70e9443_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果你拥有海豚的睡眠机制……那你可以在 996 的时候，睡觉摸鱼。</p>
+<p>不过，你也发现，再牛的睡眠机制，那也是需要睡眠的。</p>
+<p><strong>睡眠这个东西进化出来，似乎天生就充满了 BUG。</strong></p>
+<p>首先睡觉的时候，整个身体处于挂机状态，很容易遭到掠食动物的攻击。其次，在自然资源匮乏的年月，过多的睡眠也会降低觅食效率。</p>
+<p>看起来，睡眠机制似乎在拉低生存优势。</p>
+<p>很多时候事实也的确如此，其实圈养状态下的长颈鹿，一天的总睡眠可以达到 4 个小时以上<sup>[2]</sup>。野生长颈鹿为了生存，不得不减少了睡眠时间。</p>
+<p>人类睡眠周期，其实和早期演化压力有关。我们的睡眠呈现周期波动，且每个周期都有一个容易清醒的浅睡阶段，这更有利于警觉危险和清醒。</p>
+<p>可以推测，相比起可以在家放心睡觉的现代人，在山洞里睡觉的原始人类可能睡眠更短，也更容易惊醒<sup>[3]</sup>。</p>
+<p><strong>既然，睡眠真的会影响生存，那睡眠机制，又是怎么进化出来的呢？</strong></p>
+<p>无论动物、植物，还是部分真菌和细菌，绝大多数的生命都具有昼夜节律。</p>
+<p>昼夜节律正是睡眠产生的前提条件。</p>
+<p>23 亿年前，单细胞生物中便产生了决定昼夜节律的关键蛋白质分子<sup>[4]</sup>。</p>
+<p>这个时间点，正好对应地质年代的大氧化事件。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bcbdafc9f84dc4fc0eab193f12c798ae_720w.jpg?source=8673f162" alt=""></figure>
+<p>氧气在生物体内产生大量的活性氧，使得大量单细胞生物被毒死，迫使活下来的演化出了有氧呼吸能力。但付出的代价，就是必须演化出专门的机制来抵消身体内活性氧。</p>
+<p>从此以后，生物的身体与氧气展开了长达 20 多亿年的斗智斗勇。</p>
+<p>太阳东升西落，蓝藻在白天光合作用，积累有机质。消费者也跟随蓝藻的生长周期，在白天增加活动量，这也在体内积累了更多活性氧和损伤。晚上活动量减少，机体通过超氧化物歧化酶（SOD）等多种生化机制来清除活性氧，同时修复损伤，代谢和排出有害物质，使得胞体恢复如初。</p>
+<p>随着多细胞动物的产生，整体新陈代谢加快，原始的昼夜节律已经无法解决体内积累的活性氧。因此演化出，昼夜节律的更高级形态——睡眠。</p>
+<p><strong>有人说，呼吸是慢性自杀。</strong></p>
+<p><strong>那我想说的是，睡眠就是这场慢性自杀的唯一解药。</strong></p>
+<p>其实，早在 6.5 亿年前，最开始出现原始网状神经系统的水母等刺胞动物，就已经有了睡眠。</p>
+<p>虽然水母没有大脑，但研究人员发现水母同样存在睡眠周期，且神经机制与高等动物同源<sup>[5]</sup><sup>[6]</sup>。对水母进行睡眠剥夺实验，也即强制它们不睡觉，发现有害物质会在它们体内积累，并对细胞造成损害，同时影响神经功能<sup>[7]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-10863f11bd82769b550744510d01e96d_720w.gif?source=8673f162" alt=""><figcaption>"倒地”睡觉的仙女水母</figcaption></figure>
+<p>这意味着，为了应对氧化损伤，在动物进化出大脑之前，就已经有了睡眠机制。</p>
+<p>5.4 亿年前，进化军备竞赛促使寒武纪物种大爆发，动物进化出了大脑和眼睛，它们同时和睡眠绑定在了一起。</p>
+<p>早期脊椎动物不仅头颅两侧有一双眼睛，额头上还有一个特殊的器官——顶眼，也即俗称的第三眼<sup>[8]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-90e7841772cc98bafcb39d8999d737c2_720w.jpg?source=8673f162" alt=""><figcaption>牛蛙的顶眼 VS 古爬行动物顶眼眼窝</figcaption></figure>
+<p>顶眼并不能分辨实物，不过却可以通过光信号来分泌褪黑素，与眼睛里的黑视蛋白一起调节昼夜节律。</p>
+<p>顶眼通过三叉神经、交感神经、副交感神经与中枢神经发生联系。随着早期爬行动物进化成鸟类和哺乳动物，顶眼内陷演化成了松果体，失去了感光能力。不过下丘脑发展出了视交叉上核，向其传递感光信息，保证了睡眠调节机制。.</p>
+<ul>
+<li>这个神经机制，也是部分人群强光导致偏头痛的生理基础。</li>
+</ul>
+<p>至少从鱼类开始，哺乳动物的睡眠节律就基本上定型，在后来漫长的演化过程中，不同物种的睡眠机制，都为了适应自己所处的环境，而发生适应性的变化。</p>
+<p><strong>高等动物的大脑，发展出了专门的开关来控制睡眠：</strong></p>
+<p>清醒和睡眠之间存在一个内稳态（homeostasis），调节这个内稳态的内源性物质多达数十种。</p>
+<p>其中最为重要的，便是遍布人体的细胞的内源性核苷——腺苷<sup>[9]</sup><sup>[10]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-da6a9273651f9b3d2db632c8d630ac2f_720w.jpg?source=8673f162" alt=""></figure>
+<p>它是合成 ATP、腺嘌呤等重要物质的中间体，但它本身也对心血管系统、睡眠发挥着重要作用，是所有生命不可缺少的物质。</p>
+<p>当人处在清醒状态时，神经元种含有较少的腺苷，但随着清醒状态的持续，腺苷会在神经元突触中不断积累。腺苷与腺苷受体的结合，会产生相应的细胞反应，从而作用于中枢神经系统，增加睡意。在睡眠过程中，大脑会不断清除腺苷，睡意便会逐渐减少。当恢复至清醒状态的水平，便会引发觉醒<sup>[11]</sup>。</p>
+<p>腺苷往往作用在多个脑区，但主要作用在前脑基底部。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c27701fa95cfc19c3977415b3ba0c20e_720w.jpg?source=8673f162" alt=""></figure>
+<p>在前脑基底部中，腺苷通过腺苷 A1 受体抑制胆碱能神经元，来抑制觉醒状态。</p>
+<p>腹外侧视前区(VLPO)的腺苷 A2 受体，则能激活其γ- 氨基丁酸（GABA）能，从而抑制多个脑区的促眠活动<sup>[12]</sup>。尤其是对下丘脑乳头体核组胺释放的抑制，对入睡发挥着重要贡献。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a8aaef9b7bd23e56a0435e5011c62fb4_720w.jpg?source=8673f162" alt=""></figure>
+<p>除了腺苷外，其它的睡眠稳态调节物质还有前列腺素 D2(PGD2)、生长激素等等。</p>
+<p>总的来说，腺苷这样的睡眠调节子因子，其实相当于身体内活性氧的指标，活性氧超标了，意味着该睡觉休息了。</p>
+<p>咖啡之所以有提神作用，便是因为其所含的咖啡因，能够阻断结合位置来阻止腺苷受体的激活<sup>[13]</sup>。</p>
+<p>喝咖啡抑制腺苷熬夜，本质上相当于对身体的透支。</p>
+<p><strong>那睡觉的时候，我们的身体在做什么？</strong></p>
+<p>首先经过一天的能量消耗，肝脏、骨骼肌会在夜晚合成糖原，给身体“充能”，当然，心脏和大脑也会合成少量的糖原。充能的同时，身体也在积极排出一天所产生的废物。</p>
+<p>我们以大脑来举例。</p>
+<p>大脑内充盈着流动的脑脊液，睡觉时会发生周期性的震荡。</p>
+<p>大脑细胞缩水 60%，大大增加细胞间隙，来帮助脑脊髓液更自由地通过大脑组织间隙，最终通过淋巴管流出，排出活性氧、β- 淀粉样蛋白等有害废物<sup>[14]</sup><sup>[15]</sup><sup>[16]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-90acf55c00f8e57cf3d6e41644f04e1b_720w.gif?source=8673f162" alt=""></figure>
+<p>这个过程，血液（红色标记）流出，脑脊液（蓝色标记）流入。</p>
+<p>当处于清醒状态时，这种有规律的清除活动会随之消失。</p>
+<p>主要原因在于，清醒状态下，大脑需要足够的血液来给大脑供氧、供能，血液充盈着大脑，脑脊液只能活动在大脑的表面，很难有进入大脑内部的机会。</p>
+<p>人体废物清除和损伤修复，肝脏和心脏功不可没。一个是关键功能的执行者，一个提供源源不断的动力。</p>
+<p>废物清除了，从细胞到组织，再到器官的自然损伤，才能得到修复和维护。不仅我们的免疫系统、消化系统、内分泌系统等多个系统的功能可以得到正常维持，还能保证机体健康，促进身体的生长发育。</p>
+<p>大脑也会在睡觉的时候，整理信息，强化并巩固记忆，有利于认知功能的发展。</p>
+<p><strong>如果我们通过长期熬夜对身体透支，又会发生什么？</strong></p>
+<p>人类经过长达 300 万年的进化，面对恶劣的环境时，总是有熬夜的需求，人体早就对熬夜有了适应性的改变。当你第一天进行熬夜后，第二天你睡觉时，机体会进行代偿，通过更深度的睡眠来废物清理、修复损伤。</p>
+<p>1964 年，美国人对 17 岁高中生兰迪·加德纳（Randy Gardner）进行了一场著名的睡眠剥夺实验<sup>[17]</sup>。他连续 11 天 24 分钟（264.4 小时）没有睡觉，打破了当时的世界纪录。</p>
+<p>虽然加德纳熬夜到第 10 天后，出现了认知和记忆障碍、幻觉和偏执行为。但经过 14 小时 46 分钟的代偿睡眠后，他们的健康状态得到了完全的恢复。</p>
+<p>可见人类睡眠的代偿能力是很强大的。</p>
+<p>不过，这种弹性适应能力也是有上限的。长期熬夜，会摧毁这种代偿能力。</p>
+<p>活性氧不断积累会进一步产生氧化应激，损伤的不断积累则会产生炎症作用。这两种作用可能触发细胞因子风暴，诱导多器官损伤。</p>
+<p>首当其冲的便是大脑、心脏、肝脏，以及肾脏、胰脏等等。</p>
+<p>作用于大脑，会导致情绪和功能障碍，作用于肝脏，会破坏肝细胞，作用于心脏对导致心肌受损、节律失调。严重时，甚至会导致死亡。</p>
+<p>《Cell》上的一篇论文显示，对小鼠进行为期 4 天的长期睡眠剥夺，80%的小鼠会因为产生细胞因子风暴，多器官损伤而死亡<sup>[18]</sup>。</p>
+<p>针对人类的统计学研究也表明，每天睡眠不足 6 小时会使得心肌梗死风险增加 20%，熬夜是心源性猝死越来越年轻化的原因之一！<sup>[19]</sup></p>
+<p>熬夜除了会对大脑、心脏、肝脏进行直接损伤外，还可能因为附带的不良生活习惯所带来的更多损害。</p>
+<p>熬夜时抱着奶茶、咖啡、零食、外卖是大多数人的常态，再加之部分人烟酒不断，都可能对机体和脏器带来长期的负面影响。</p>
+<p>人类的肝脏可以说是名符其实的六边形战士，拥有消化、营养转化、储能、代谢、解毒、造血等多种多样的功能，它无怨无悔地进行着超级 996（绝对无休）的工作……</p>
+<p>但如果六种工作，都超过肝脏的极限。那么，大量的代谢损伤、毒理损害，便会很快破坏身体和器官。肝脏自然是损害最严重的器官之一，统计表明，熬夜等不良习惯带来的非酒精性肝损伤是我国最大慢性肝病！</p>
+<p>其次受损的便是心脏，抽烟、体重过重、运动不足、高胆固醇血症，使得心血管疾病成为全球最常见的死因，大约占了 30%的死亡人数。</p>
+<p>当今时代，睡眠不足是一个公认的健康问题，平均每 10 个成年人中就有 3 个睡眠不足 7 小时。</p>
+<p>如何保证正常睡眠，避免诸多相关慢性疾病的发生，是当代人类所共同面临的世界难题之一。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/48551274">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/21619571">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787052</guid><pubDate>Tue, 20 Jan 2026 18:28:49 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787007</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786881</guid><pubDate>Wed, 21 Jan 2026 01:20:39 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787014</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-aa0f225d4932354c05172f6ab8c7d192.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -265,29 +327,28 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 一个成年人不幸掉落动物园老虎山，该如何保命？</h2>
+<h2 class="question-title">瞎扯 · 为什么学霸不喜欢给学渣讲题？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a href="https://www.zhihu.com/question/298596635/answer/44242314502">一个成年人不幸掉落动物园老虎山，该如何保命？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/78838e25cabc8f1fcfc747ee294ccca9">@智慧明净</a> ：一定要淡定<br>装作什么都没发生一样<br>拿旁边的扫把扫扫地<br>装成是新来的饲养员</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/12446778792/answer/1905990139475371999"> 侄子初三整天研究微积分啥的咋整?</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/d41ae0e68c0f94ed7439d4c58fef444c">@绫小路</a> ：该治疗了，给他服下这个问题，包治百病</blockquote>
-<p><img src="https://pic-out.zhimg.com/v2-b99215f6dcfca57d2bbaba7ccda8bf34~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768544276-0-0-baf4e5a6d9f9522d3b3f44dfbb933f5e&bizSceneCode=article_draft&expiration=1768544276&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/61348692/answer/3434456426">为什么说男人至死都是少年？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/0db0e4359c64b6fc6ec7c917fc8bd77b">@天使</a> ： 62 岁的副总在大扫除期间<br>抢到了水枪扫地面的任务</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/658936021/answer/3557591414">宝妈们，你会介意「你的名字」被「xx妈妈」代替吗？ </a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/2126a23368342da3d4b6a9883184a8ff">@今晚的月光好美</a> ：大家好，我是镇子上卖面包的。我的工商营业执照上写的我店铺的名字，也写着我的名字。<br>可是我的邻居、朋友、乡亲们都叫我面包。连个姓都没有，就面包。<br>对，就是五菱宏光那个面包。<br>我一开始不习惯，后来我习惯了。我给别人打电话，都说：歪!我是面包!<br>现在不光同龄人叫我面包，小孩子们也叫我面包。在我面前会有点礼貌，面包后面加个叔叔。</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/665418546/answer/119967369401">怎样把躺平的年轻人拉起来？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/b57f6910515a993d7bf871f3ee0f7604">@A型人格</a> :现在的福利太好，年轻人承受不了啊</blockquote>
-<p><img src="https://pic-out.zhimg.com/v2-eb552eeb643ca62929ce4c0c3dd19ef8~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768544276-0-0-23790f83acacc0aa33d3ef94e8186f77&bizSceneCode=article_draft&expiration=1768544276&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p> Q：<a href="https://www.zhihu.com/question/386950653/answer/3124209536">为什么学霸不喜欢给学渣讲题？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/70cb292a4d77847c9d36f401291a19c7">@宇宙帝王芙莉莲</a> ：都是属玻璃啤酒瓶的，往里灌水的时候就是懂懂懂懂懂，往出倒水就是不懂不懂不懂不懂……</blockquote>
+<p>Q<a href="https://www.zhihu.com/question/49890632/answer/46917053334">：为什么郑州不跨黄河发展？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/9829855cd90372f34c6fe8a2651548d3">@一线广泽</a> ：近年来黄河不跨郑州发展已经很给面子了……<br>懂不懂地上河的含金量啊</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/305891585/answer/3596424390">你知道哪些部队里有趣奇葩的故事? </a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/943128be143a576e7c5a9d6f6f50da5f">@Benzine</a> ：「喂，赵连长吗？啊，没事没事，这么晚还没睡呀，你们哨兵都睡了你怎么还没睡呢？」</blockquote>
+<p>Q：<a href="https://www.zhihu.com/question/1950331979691176064/answer/1953911760319915977">全是预制菜的萨莉亚，为什么不被骂？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/1836385221372c2227f648a4e644c369">@活着</a> ：上次和同学吃人均 90 ，吃到最后大概是这样的</blockquote>
+<p><img src="https://pic-out.zhimg.com/v2-b25cd313a2857cc44cc028eb05e76eb5~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768544423-0-0-6cf5611f4f0f7a852aaadf2292db0859&bizSceneCode=article_draft&expiration=1768544423&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p>Q：<a href="https://www.zhihu.com/question/1908102066179663619/answer/1908893156851824401">鸡那么脏，那为啥鸡巢几乎没有蟑螂？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/25d86f1592a51ab0f0f825058574fe4a">@lihao</a> :鸡：要不你多投放几斤试试呢？兴许我吃饱了就有了。</blockquote>
 <p> </p>
 <p> </p>
 </div>
@@ -298,4 +359,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787007</guid><pubDate>Tue, 20 Jan 2026 18:28:50 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787014</guid><pubDate>Wed, 21 Jan 2026 01:20:40 GMT</pubDate></item></channel></rss>
