@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 21 Jan 2026 18:36:18 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ICU 的可怕之处在哪？</title><link>http://daily.zhihu.com/story/9786868</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7dcdde47c72561fda6a78f74c3df5d16.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 22 Jan 2026 01:20:48 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为啥动物会被制定「死亡很痛苦」这个生物机制？</title><link>http://daily.zhihu.com/story/9786889</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0ffa69abbf2f916aed0842d89f32fd31.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,71 +19,57 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/14b7e360da81f8effdba2deedf0cb78b_l.jpg?source=8673f162">
-<span class="author">快乐的874，</span><span class="bio">Not yet, Further more.</span>
-<a href="https://www.zhihu.com/question/565514654/answer/1911576002452227330" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-87b18bdc95435825026850880891179a_l.jpg?source=8673f162">
+<span class="author">HimalayaMosaurus，</span><span class="bio">异军突起的白垩纪海皇、鳞龙之光、海爬的后起之秀</span>
+<a href="https://www.zhihu.com/question/6115394288/answer/1975338885157519787" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>我一般是这么跟普通人形容 ICU 的：</p>
-<p>ICU 是现代科学设置在死界的站点，位于忘川的彼岸，奈何桥的另一端。</p>
-<p>那里的病人，除去观察过渡的那种，有一个算一个，不说放在古代，就算是在 100 年前，那也都是死人。只不过现代的科技还拽着他，和人世有些勾连罢了。</p>
-<p>既然是死地，自然要吃死地的苦。ICU 的苦，活人想象不到，其实也受不了。</p>
-<p>ICU 的可怕之处并不在于死，而是卡在生死之间，无尽的痛苦和恐惧，却又完全无助。</p>
-<p>那些真的很危重的，都在深度镇定上，这种约等于死亡的状态并不可怕。因为你什么都感觉不到，时间不再存在，一切都是虚无。在这种状态下死了也就死了，平行过度而已。</p>
-<p>但问题是如果一下没死成，被 ICU 拽住了呢？总得想办法把你拉回来吧？可是要穿越生死的边界，怎么可能不扒几层皮。</p>
+<p><strong>因为其他动物并不痛苦</strong></p>
+<p><strong>高赞回答很多都在说痛苦来自看着自己衰老、无力，最终死去。</strong></p>
+<p><strong>但是有没有可能，其他羊膜动物相比之下，都不会“衰老”。</strong></p>
+<p><strong>在羊膜动物中，不论代谢快与慢，智商高与低，只有我们哺乳动物会“衰老”</strong></p>
+<p>至于为什么，你应该怪肯德基里的那一只只炸鸡</p>
+<p>（的祖先）</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-91c37ac311da00650291c486c7cf351c_720w.jpg?source=8673f162" alt=""></figure>
+<p>2022 年 6 月 23 日，一篇发表在《科学》杂志上的文章，一组国际研究团队收集了全球 77 种爬行动物和 107 个两栖动物种群的野外数据，发现这些物种中大约有四分之三的衰老速度缓慢到可以忽略不计[1]，以及远超它们体型应该有的寿命。</p>
+<p>那些衰老忽略不计的动物，指的是它们过了繁殖期之后，它们死亡的可能性就不会随着年龄增长而改变，<strong>比如动物在 10 岁时一年内死亡的几率为 1%，那么它活到 100 岁时，死亡几率仍为 1%。</strong></p>
+<p>就单拿我们哺乳动物的亲戚，羊膜动物的另一个分支：蜥形纲来说</p>
+<p>蜥形纲的壮年和老年分界不明显，只有在死亡前最后几年身体机能才会急剧下降。</p>
+<p><strong>相当于人类 3 岁开始变成青壮年，一壮就壮到 97 岁，在此期间身体机能还在不断强化，最后 3 年才变成老年，100 岁才自然死亡，可以享受漫长的青壮年时光，不用被衰老折磨。</strong></p>
+<p><strong>那么，你觉得它们老死的过程“痛苦”吗？</strong></p>
+<p><strong>显然不会</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bee2ee836405fa14ee0f1277a5dabe37_720w.jpg?source=8673f162" alt=""></figure>
+<p>至于为什么哺乳动物会迅速衰老，研究人员给出了两个解释，一个是“体温调节模式假说”，变温动物拥有更低的新陈代谢带来更长的寿命，也许是其中一个原因，但<strong>显然不是主因，鸟类的新陈代谢比哺乳动物还要旺盛，但是寿命仍然比同体型哺乳动物长的多</strong>，参考被自己宠物鹦鹉熬死的丘吉尔（那只鹦鹉出生于 1899 年，出生时清朝还没灭亡，经历一战、二战一直活到现代 21 世纪，甚至熬过了苏联，熬死了好几代人），而且同样遵循上述衰老模式，体能不会随着时间下降，反而越来越强壮。</p>
+<p>第二个解释是“寿命瓶颈假说”，认为哺乳动物独特的衰老模式和过去的生态位有关系，是因为恐龙让哺乳动物祖先彻底抛弃了长寿的基因，而且直到现在都受到遗传困扰[2]。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b0583b2978678ae41921abec06ed7b61_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>这个假设有不少证据可以证明，例如哺乳动物失去无限再生牙齿的时间段，恰好就在中生代的侏罗纪，也是在中生代，哺乳动物祖先丢失了三色视觉（灵长类除外，它们因为蛇的威胁重新演化回了三色视觉）</strong></p>
+<p><a class="internal" href="https://www.zhihu.com/question/1943226982423851033/answer/1973805568243291831?share_code=i8JTu3glYOkC&utm_psn=1975342333240308596">有没有跟人类趋同进化的生物？</a></p>
+<p><strong>而论文显示，“光裂解酶 DNA 保护系统”也在恐龙时代的真兽类哺乳动物谱系中消失了。</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-94d83ec61da51c8c6dd0db2d0d1ad5b6_720w.jpg?source=8673f162" alt=""></figure>
+<p>恐龙的压制导致哺乳动物演化出更小的体型、少命多生等特征，即使（非鸟）恐龙已经灭绝，它们统治地球的一亿多年仍然在我们的基因里留下了烙印。</p>
+<blockquote>速生速死可以让哺乳动物的亲代把子代养大就直接老死，这样子代们就不需要和其他亲代竞争食物、资源。<br>种群更新加快，不适合环境的老死的也快，减少了与适应环境的后代的竞争，这样适应环境的个体有更多的可能把基因传递下去。</blockquote>
+<p>恐龙压制了哺乳动物祖先的 1 亿多年，它们就只能靠这种方式苟且偷生。</p>
+<p>哺乳动物丢掉的不止是长寿，还有视觉相关的基因也丢了不少，目的应该是为了节能而且用不着，因为哺乳动物当时主要夜行，和恐龙错峰出行避免竞争。</p>
+<p>不过也因祸得福，恐龙的压迫帮我们优化掉了卵生（被迫），顺带解决了尿酸这一不利因素。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/279604772/answer/1974616266443600637?share_code=18F6JiTWlTvV6&utm_psn=1975338784972366179">人类进化为什么不卵生？</a></p>
+<p>最后再来对比一下我们哺乳动物和隔壁蜥形纲的衰老模式，以及各物种寿命。</p>
+<blockquote>合弓纲（哺乳动物）：普遍雄性更大，大部分物种为雌性平均寿命更长，两性之间寿命差值在圈养和野外寿命的比值为 1.5 倍。[3]<br><br>大部分哺乳动物表现出清晰的壮年和老年分界，随着年龄增长，体力和繁殖能力衰退明显，随着年龄增长会出现皮肤老化发皱、肌肉萎缩和脊柱后凸等衰老表现。<br><br>小体型普遍短命（蝙蝠除外），大体型相较长寿。<br>小家鼠、褐家鼠、仓鼠只能最多活两年左右。<br>猫狗圈养情况平均寿命 10～15 岁，最长为 31～33 岁。<br>老虎圈养可以活到最多 25 岁，棕熊 50 岁。<br>估测最长大概为 70+ 岁（鲸类、大象）。上限为 130～200 岁（弓头鲸，存疑）</blockquote>
 <hr>
-<p>如果你很好奇，想看看具体怎么个可怕，那就请继续往下看。</p>
-<p>你要回到人间，就肯定要减少你的镇定，让你逐渐醒来。于是你的感觉开始回到你的身体里。</p>
-<p>呼吸系统是首先恢复感觉的系统之一</p>
-<p>你感觉到有个东西在给你的肺打气(那是呼吸机)，你刚刚想缓慢的吸一口气，一股气流就急速冲向你的肺，你本能的想要对抗，结果气流又忽然消失。你喘不上气，想要做个深呼吸，结果这次气流更强烈，不管不顾的几乎要把你的肺吹炸。你拼命挣扎，那股气流也随着你的呼吸紊乱而变本加厉的紊乱，你的呼吸机不能很好的同步你的呼吸，开始哔哔大叫。</p>
-<p>你感觉你的气管中有很多的异物，你不由自主的开始咳嗽，但气管导管的球囊封闭了你的气道，你的咳嗽动作被呼吸机放大，每次咳嗽都让你痛苦万分，却无法清除那些分泌物。你的脸涨的通红，口腔莫名其妙的出现大量的口水，你不能呼吸，不能吞咽，你觉得你快死了。</p>
-<p>护士听到了呼吸机的警报，也看到了你的窘迫，她向你走来。你感觉到有一些水进到了你的气管里，你呛住了，拼命的咳嗽。然后忽然又有个东西沿着你的气管向下移动，疼得像是刀割，又痒的像是塞进一把鸡毛。你难受的泪水喷涌而出，你想躲开，却毫无办法。终于，随着呼哧呼哧的声音，你觉得刺激你的气管的东西好像稍微少了一点 ----- 这是在吸痰。不吸，你就会在剧烈的呛咳和窒息感中苦熬；吸，就是针刺刀割般的痛苦。这样的反复折磨，多的话十几分钟就要来一两次 (吸痰管还可能会割破你的气管，让每次的痛苦加倍)，少的话一天也要来个几次。</p>
-<p>气管导管经过你的会厌，然后球囊堵在你的声门下方。你的口腔分泌物不能正确下到消化道，会堆积在球囊那里，你永远都觉得喉咙里有一滩水，即使是带抽吸的 CASS 导管也不能完全解决问题。你感觉要窒息了，要呛死了，你恐慌，但是你无能为力。</p>
-<p>时不时的，会有另一根塑料管伸进你的嘴，吸走你的口腔分泌物的同时，这跟管子会在你的喉咙里捅来捅去。你的腹部在抽动，你要吐了。同时你听到有人在满意的说“嗯，有喉咽反射”，你不明白他们在说什么，也不明白为什么他们要一次次的捅你的喉咙，你腹部抽动的时候带动全身都剧痛无比，你只想尽快停下，但是你无能为力。</p>
-<p>你本能的想要伸手拔掉那根可恨的管子，但是你发现你的手被绑住了。你想，但是你不能，你无能为力。</p>
-<p>为了结束你的痛苦，让你摆脱呼吸机的控制，他们决定测试 / 训练你的自主呼吸。他们调低了呼吸机的参数，强迫你用自己的肌肉来呼吸。你觉得呼吸瞬间就变得沉重了。你在努力，但是你无比虚弱，你在窒息中坚持了一个小时，再也喘不动气了，呼吸机的潮气量开始报警。你听到一个声音说，今天到这儿吧，明天再试。</p>
-<p>每天，你都要在这种窒息感中挣扎，都要重新体验一次死亡的恐惧。你现在不能喘气，其实就是个死人。但你要是想重回人间，这个坎你又不能不迈。多久能迈过去？不知道，有的人抬脚就过去了，有的人永远都迈不过去。</p>
-<p>然后是疼痛，随着镇定和镇痛药物的减少。你的疼痛也回来了。你觉得浑身到处都在疼。时不时的，有人会用圆珠笔或者注射器一类坚硬的东西像上刑一样用力夹住你的手指，你疼的大叫，但是你浑身无力，拼尽全力也只是睁开了眼睛。你听到一个声音说，“对疼痛没反应吗？再试试”。你感觉到有人在用坚硬的东西揉搓你的胸骨，剧痛阵阵传来，你的心率和血压飙升。你想结束这一切，但是你无能为力。终于，他们放弃了，你听到他们说：“我刚次好像看到他的脸抽动了一下... 等会儿再试试吧....”。你想说，求你了让我死了吧，但是你无能为力。</p>
-<p>疼痛是一个活人必须的感觉，你从死地返回，必然要经历疼痛越来越多的过程。慢慢的，你有了力气对疼痛做出反应，你现在能挤眉弄眼，能定位疼痛的位置了，他们不再频繁测试你的疼痛。但是你出现戒断反应了。</p>
-<p>之前给你输的那些止痛药，全是阿片类药物。你的镇定药物中可能有苯二氮卓类药物，还有那种曾经让你拥有死亡般睡眠的“小牛奶” propofol... 都会成瘾。你焦虑，你烦躁，你看见了奇怪的东西，听到了可怕的声音，你万蚁噬心，恨不得化作一团火焰把自己烧死了账。但是如果你连这点苦都吃不下，你怎么可能从死界重回人间。</p>
-<p>你想动动手指，但是你的手指肿的无法移动。其实你全身都是肿的，当初为了支持你的血压给你输了大量的液体，还有所有的药物，营养... 全是液体。但是你的肾功能不行，几十升的额外液体都堆积在你的体内。你的皮肤肿的透明，像饱和的海绵一样向外渗出粘滑的水滴。柔软容易膨胀的地方，比如子孙袋，肿的像手球一样大，晶莹剔透吹弹欲破。</p>
-<p>胃管倒是不怎么痛苦，因为那是在你没有知觉的时候放下去的。但问题是你无法控制你的排便。为了减轻你的肠道负担，不让你被塞住，他们用各种药物确保了你一直处在腹泻的状态。你根本无法控制。你会时不时的就泡在自己的排泄物里，唯一的希望就是护士有时间来帮你收拾。粪便给皮肤带来强烈的刺激，你的整个私处都是红肿甚至破溃的，又疼又痒，就像被天山童姥种下了生死符。如果你碰巧是个肝硬化失代偿的患者，为了排泄大量的血氨，你的腹泻会更加频繁，说不定还会经历一天若干次的乳果糖灌肠。你被扒光，翻面，体验着奇妙的灌肠的耻辱，然后一泄千里。每天，若干次。既耻辱又痛苦。但是你无能为力，只能像一块没得感情的肉一样任人摆布。</p>
-<p>你浑身都是伤口，脖子上有管子，手腕上有管子，腹股沟有管子... 它们要么是在你的中央静脉里，要么是在你的动脉里，它们倒是算不上巨痛，但是疼痛感还是有的。还有各种引流管，随着你的呼吸和移动，会摩擦你娇嫩的脏器... 为了不让你碰这些管子，你的手被牢牢的绑住。你的皮肤可能脆弱的像泡过水的纸巾，护士给你换敷料的时候，皮肤就会随着胶布大片的撕裂和脱落。如果你是创伤病人，或者有什么坏死性筋膜炎之类的问题... 那还是不说了，会影响食欲。总之你无能为力，你什么都不能做，只能由他去。</p>
-<p>你睡的床和枕头，为了方便擦洗消毒，都是不透气的。你永远都不能获得一个舒服的姿势，永远都没有一个舒适的温度。护士给你翻身是为了保护的你的皮肤，不是为了让你舒服。他们永远都要优先考虑那些管子(那就是你的命)，而不是优先考虑你的舒适度。你不舒服，7x24 的不舒服，但是你无能为力。</p>
-<hr>
-<p>曾有一个朋友问我 ICU 有多惨。我说别的都不提，不透气的床和枕头，双手绑起来，永远躺不舒服，就这一条，你觉得你能坚持多久？我朋友说，一晚上应该没问题，但是三天估计就已经疯了。</p>
-<p>是的，对于患者来说，ICU 最可怕的地方，就是无能为力。那里所有的折磨，耻辱，痛苦... 你躲不开，也不能反对。</p>
-<p>有多少人，在 ICU 里挣扎着想活，但其实我们都知道他毫无希望。又有多少人，在 ICU 里只求速死，却又无法主张自己的生命，只能忍受那无尽的折磨。</p>
-<p>正如但丁描绘的地狱之门上所书：到了此处，就要舍弃一切的希望。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-427f1d9dd084b6151a3f0314c2e6de7a_720w.jpg?source=8673f162" alt=""></figure>
-<p>因为 ICU 里的一切，都不再由你做主。你想活也罢想死也好，都是别人说了算。</p>
-<p>你就是一条躺着砧板上的鱼，疾病在宰杀你，但是 ICU 拖着不让你死。不管你想什么做什么，你都是那条无能为力的鱼。你的死亡被人为的延长了，你会不间断的经历死亡的痛苦，一遍又一遍，直到你真的死去，或者重回人间。</p>
-<p>然而就算你重回人间，你也是死过至少一次的人了。你的肉体大概率已经残破不堪，你的魂魄可能不再完整，如果你回来之前已经喝了孟婆汤... 那还能叫“回来”吗？</p>
-<p>Post ICU syndrome，重症后综合征。包括但不限于身体机能障碍，认知障碍，情绪障碍... 发生率高达 75-80%。去 ICU 住两个月，遭受到心理创伤比你在战场上待两年都要大得多。战场虽然惨烈，但最多也只是人间地狱，但 ICU 可是真的真的不在人间。</p>
-<p>最后，我想用我院 ICU 墙上的一句箴言作为结尾：</p>
-<p>God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.</p>
-<p>愿上苍赐予我平和的心灵，能够接受那些我无法改变的事情；赐予我勇气，去改变我所能改变的一切；并且赐予我智慧，令我能够知道两者之间的区别。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d9f09e0ee256cb2b1a0524d2332a084_720w.jpg?source=8673f162" alt=""></figure>
-<hr>
-<p>补充：</p>
-<p>评论区有人说自己住过 ICU (或者家人住过 ICU)，没什么感觉，认为我是在臆想。</p>
-<p>嗯...</p>
-<p>1. 我在文章开头的地方就已经说了，要“除去观察过渡的那种”。那些患者未入死地，体验和真正的重症病人是不一样的。</p>
-<p>2. 我在文章接近结束的地方也说了，重症后综合征的发生率大概是 75-80%。也就是说在存活的 ICU 患者中，有大概 20-25% 的患者能全须全尾，心理健康的从 ICU 里出来，这个我也不否认。</p>
-<p>3. 然而我要强调的是：很多“没什么感觉”的患者，并不是没有经历地狱，而是他们不记得。这些患者当时表现出来的 烦躁，挣扎，反抗，痛苦的面容，僵直紧绷的身体，还有迅速变化的生理指标，都清楚的表明了痛苦的真实存在。</p>
-<p>4. 作为患者本人或者患者家属，也许你可以说“我不记得就相当于没有痛苦”，但是我不能。我们不能因为患者不会记得就忽略这些痛苦的存在。那不道德，也不人道。</p>
+<blockquote>蜥形纲：普遍雄性更大，大部分物种为雄性平均寿命更长。两性之间寿命差值在圈养和野外寿命的比值为 5 倍。[3]<br>蜥形纲的壮年和老年分界不明显，只有在死亡前最后几年身体机能才会急剧下降。<br><br>相当于人类 3 岁开始变成青壮年，一壮就壮到 97 岁，在此期间身体机能还在不断强化，最后 3 年才变成老年，100 岁才自然死亡，可以享受漫长的青壮年时光<br><br>普遍比同体型合弓纲长寿。<br>壁虎科大部分成员都能活到 7 岁，豹纹守宫平均寿命 15 岁左右。<br>圈养泽巨蜥寿命可以达 20 多岁，科莫多龙预期寿命 30 岁，雄性寿命最长可达 62 岁。<br>寿命最长的尼罗鳄亨利现今寿命 124 岁，仍未过世。湾鳄寿命上限为 120 岁的卡修斯。雌性尼罗鳄寿命上限目前为一只 56 岁的个体。一部分品种的鹦鹉可活到 100+ 岁。<br>估测最长 193+ 岁（名叫乔纳森的雄性塞舌尔巨龟，今年仍然健在），上限未知。</blockquote>
+<p>参考文献：</p>
+<blockquote>[1]<a class=" external" href="http://link.zhihu.com/?target=https%3A//www.science.org/doi/10.1126/science.abm0151" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://www.</span><span class="visible">science.org/doi/10.1126</span><span class="invisible">/science.abm0151</span><span class="ellipsis"></span></a><br>[2]<a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1002/bies.202300098" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1002/bies.20</span><span class="invisible">2300098</span><span class="ellipsis"></span></a><br>[3]Sexual selection drives sex difference in adult life expectancy across mammals and birds</blockquote>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/565514654">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/6115394288">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786868</guid><pubDate>Wed, 21 Jan 2026 18:36:15 GMT</pubDate></item><item><title>只切掉蚊子的全部腿，而不破坏蚊子其他身体部分，蚊子还能飞起来么？</title><link>http://daily.zhihu.com/story/9786873</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-df9854f16322272fabb7d6c6b1f26536.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786889</guid><pubDate>Thu, 22 Jan 2026 01:20:45 GMT</pubDate></item><item><title>为什么家鸭没有了孵蛋行为，而家鸡依旧保留了这一习惯?</title><link>http://daily.zhihu.com/story/9786899</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-547996e4cfe790ef08e05d0fd2e3297c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -103,94 +89,76 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-24701a3dfa6a626e783c64fda2cb91cf_l.jpg?source=8673f162">
-<span class="author">南官竹，</span><span class="bio">医学</span>
-<a href="https://www.zhihu.com/question/399852621/answer/3501484445" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-4e340f36684bbae6619008a0222a2f6f_l.jpg?source=8673f162">
+<span class="author">奔奔马，</span><span class="bio">可在淘宝搜索小店“奔奔马90后养蜂人”购买自家蜂蜜、红枣核桃</span>
+<a href="https://www.zhihu.com/question/9413764603/answer/79665248286" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>1．库蚊被剪断所有腿后不仅会飞，而且还能用嘴插进蚊帐的孔竖挂着。伊蚊无此能力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc540127b11a3d6e473cfa5cdb8bc639_720w.jpg?source=8673f162" alt=""><figcaption>库蚊，比伊蚊强壮</figcaption></figure>
-<p>2．被剪断所有腿后，库蚊平地起飞的成功率降至 75%，伊蚊降至 30%。两者降落起飞的成功率都为 100%，但丧失了吸血的欲望。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2999958089517068acf97fe6a3457695_720w.jpg?source=8673f162" alt=""><figcaption>伊蚊，比库蚊勇敢</figcaption></figure>
-<p>3．将成熟的摇蚊蛹放到岸上，它能够在扭动几秒～几分钟后瞬间破壳羽化飞走。伊蚊、库蚊都无此能力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-db85ec706a2e7d35770c449f0ad7eb21_720w.jpg?source=8673f162" alt=""><figcaption>摇蚊并不吸血</figcaption></figure>
-<p>4．寻血飞行中被触碰后，伊蚊能立即重新寻血，库蚊则需 1～5 分钟调整心态。</p>
-<p>5．大蚊被抓住腿后不必掰扯就自动断腿。大蚊不属于严格意义上的蚊子。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-85b9d0164da095ca84cfcab311f8f8de_720w.jpg?source=8673f162" alt=""><figcaption>大蚊不吸血，一般幼虫啃食植物，成虫吸食植物</figcaption></figure>
-<p>巨蚊体型比大蚊小，巨蚊不吸血，巨蚊的孑孓捕食小型蚊子的孑孓。与小型蚊子类似，弯折它们腿的股节，可能诱发它们自动断弃整条腿，且剩余的腿越少越舍不得放弃。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a3027ded3b67ce9239ed848a5bb269fc_720w.jpg?source=8673f162" alt=""><figcaption>华丽巨蚊与白纹伊蚊</figcaption></figure>
-<p>6．伊蚊、库蚊，被抓住过后，不必断腿，就会在丧失吸血的欲望 2 小时以上。若不抓住，而是用剃须刀断掉飞行中蚊子的一条腿的一部分，则不会丧失吸血的欲望；若断掉两条腿的一部分，则会自闭 0.5 小时以上。</p>
-<p>7．伊蚊、库蚊断掉两条最后的腿，不影响走路，刚开始蚊子会非常敏感。因为两条后腿平时抬起来感受气流，没后腿就没有安全感，变得神经兮兮，看到黑影靠近、感受到温血动物或二氧化碳就吓得飞走了。过几分钟后蚊子会变得迟钝很多，习惯了没有后腿。断其它的腿无此效果。</p>
-<p>8．库蚊各种断腿情况：</p>
-<p>6 腿健全➛可抬起 2 后腿靠前 4 腿行走，路况复杂时 2 后腿辅助行走</p>
-<p>断 1 条前腿➛两后腿参与走路，但依然行动略显笨拙，站稳后仍坚持抬起后腿</p>
-<p>断 2 条前腿➛两后腿改为支撑，但几乎无法行动。站立时尝试抬起后腿，屡败屡试，最终习惯将后腿用于支撑</p>
-<p>断 1 条中腿➛基本无影响</p>
-<p>断 2 条中腿➛两后腿可以代替中腿走路。站立时反复练习抬后腿，最终练成</p>
-<p>断 1 条后腿➛不影响站立与行走，持续抬后腿</p>
-<p>断 2 条后腿➛不影响站立，基本不影响行走</p>
-<p>断 2 条后腿和 1 条中腿➛基本可以站立和行走</p>
-<p>仅剩 2 条前腿➛可匍匐前进</p>
-<p>仅剩 1 条前腿➛能偶尔匍匐前进几步，易侧翻，可靠这条腿悬挂，可配合口器攀高。侧翻时常会向侧翻一侧展翅维持平衡。</p>
-<p>仅剩 2 条中腿➛容易两脚朝天，翻身比仅剩 1 条中腿困难，但是翻身后比仅剩 1 条中腿更易维持稳定。基本丧失行走能力，但偶尔能将腹部抬离地面。</p>
-<p>仅剩 1 条中腿➛可以翻身，但不能行走</p>
-<p>仅剩 2 条后腿➛作防侧翻支撑架用，放弃抬腿</p>
-<p>仅剩 1 条后腿➛几乎没有用处，放弃抬腿</p>
-<p>仅剩同侧 3 条腿➛可朝有腿侧横向行走。</p>
-<p>仅剩同侧的中腿和后腿➛可以翻身，但不能行走。</p>
-<p>仅剩同侧的前腿和中腿➛可朝有腿侧横向行走</p>
-<p>仅剩同侧的前腿和后腿➛偶尔能匍匐前进</p>
-<p>仅剩同侧的前腿、中腿和异侧的后腿➛能跛行</p>
-<p>仅剩同侧的前腿、后腿和异侧的中腿➛能较好地跛行</p>
-<p>仅剩同侧的中腿、后腿和异侧的前腿➛能跛行</p>
-<p>仅剩异侧的前腿、中腿➛能跛行</p>
-<p>仅剩异侧的前腿、后腿➛能偶尔跛行</p>
-<p>仅剩异侧的中腿、后腿➛不能行动</p>
-<p>（伊蚊难以参加此项实验，因为 1 伊蚊数量较少；2 伊蚊更柔弱，难以承受截肢手术；3 伊蚊摆腿更快；4 伊蚊不停止扑翅；5 总体上伊蚊比库蚊主动弃腿更干脆，但也有伊蚊一腿不拔，宁愿被扯腿分尸）</p>
-<p>重复实验者提示：透明盒可无伤捕蚊。以蚊子主动弃腿为主、被动拉断为辅。诱使主动弃腿的方法是弯折而不是拉扯。蚊子有很明显的“腿越少，越惜腿”现象，增加弯折点即可。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f58b384df51f22e0485b82934670ab75_720w.jpg?source=8673f162" alt=""><figcaption>防侧翻展翅</figcaption></figure>
-<p>9．风扇吹蚊子 1～2 小时，蚊子会干瘪脱水而死。空调只需 5～15 分钟。除了阴雨天，除了洗手间，未吸血的蚊子在房间里也很难过夜，一般 6～12 小时会干瘪脱水而死，所以蚊子会在凌晨前躲到湿润阴蔽的地方，若被蚊帐困住会特别不安。这就是房间里蚊子数量变化周期与日夜周期一致，而不会因被人吸引而越来越多的原因。</p>
-<p>10．用巴掌重拍飞行中的<strong>库蚊、按蚊</strong>，手掌会明显感受到与蚊子的碰撞。蚊子被打落在地，会眩晕 2 秒以上，并将永久失去吸血的欲望，不一定丧失飞行能力。力量足够大可持续昏迷直至死亡。被重拍后，能活上半天的已经是少数了，有一小半头歪腹折的。人往往会大大低估蚊子被重拍后所受内伤的严重程度，而吸血又是步骤复杂的主动过程，需要精致、完好的多种口部设备以及健康的体魄。重拍是避免传统灭蚊掌法拍爆蚊子脏手的好办法，但要留心不要拍到家具，不然手会很痛。此法经本人 20 余年亲测效果拔群，但是本人父母 20 年来不予置信，固守传统合掌灭蚊原教旨主义。要是他们信了，不就证明他们一辈子洗被子上、衣服上的蚊子血的精力都白费了么。</p>
-<hr>
-<p>回复评论区：</p>
-<p>1．重拍一定要让蚊子撞到刚性物体上才有效吗？</p>
-<p>不需要。对蚊子来说，被手掌拍的伤害大，之后撞上硬物伤害小；对苍蝇来说，被被手掌拍的伤害小，之后撞上硬物伤害大。</p>
-<p>2．无专业道具捕虫方法：</p>
-<p>苍蝇、蚊子、蜜蜂：用透明的扁盒子，开盖移到发呆的虫子上方，然后合上，虫子只会往盒子里飞。</p>
-<p>螳螂、蜈蚣、蝎子：不宜手抓，手抓会遭受反击，可驱赶到某器物上。若两手空空，也可以温柔驱赶到手上。</p>
-<p>蝗虫：弹跳敏捷，跳后可飞远，难以手抓。可拿棍棒瞄准蝗虫砸去。一般砸不中蝗虫，但是蝗虫会陷入 2 秒钟以上眩晕，此时手拿即可。(有 5%的概率砸残了蝗虫)</p>
-<p>蟋蟀、蛐蛐：跳不远、飞不远，直接用手按住</p>
-<p>蝈蝈、纺织娘、箭角蝗：由于体型较大，用捕蝗虫法很容易砸残。虽跳得远、飞得远，但起飞时速度慢于普通蝗虫。故逃到虫子面前，预判虫子向前起跳的路径，手挥与虫跳双向奔赴。</p>
-<p>金龟子、天牛等大型甲虫：飞到身边时极易拍落。在树上的可摇树掉落。金龟子抓树力巨大，掉落是因为正在发呆。警惕后摇树不会掉落。</p>
-<p>蜻蜓：预判、起跳、轻轻捏住（须有矫健身手 + 总结蜻蜓飞行习惯，难度较大，但掌握后成功率 60%左右，第一次失败后，抓受惊后警惕的蜻蜓成功率降至 20%左右）</p>
-<p>蝙蝠：竹竿在空中快速随意挥舞，蝙蝠会主动撞上。（不应尝试，不应伤害益兽）</p>
-<p>蝉：摇树即飞走。视力敏锐，徒手应自下而上迅速握住。够不到的建议放弃，以免被蝉尿射眼。</p>
-<p>蝴蝶：在细线上挂纸片，左右摇动即可吸引蝴蝶飞来，可用脚对着蝴蝶往草丛踢晕，蝴蝶数秒后苏醒，无可见的受伤。停在那的可自后方捏住翅膀。</p>
-<p>豆娘：一般不飞行大于 2 分钟，待落脚后自后方捏住翅膀。</p>
-<p>蟑螂、毛虫、蛾子等脏虫：盒子盖住，插入纸板封住盒子。</p>
-<p>3．扇晕蚊子后是否需要补刀</p>
-<p>主观的经验总结，最容易被<strong>手掌</strong>扇伤的就是库蚊、按蚊这个量级的。对于更重或更轻的飞虫，手掌对它们的杀伤力都减弱。如果用更硬的东西扇，比如亚克力、木板，则飞虫越重，受伤也越重。如果被扇到地上的是未吸血的<strong>伊蚊</strong>，可补刀以求稳妥。伊蚊更轻，更耐扇。</p>
-<p>4．蚊子怎么吸血</p>
-<p>下唇：平时呈鞘状包裹口器，吸血时作口器的支撑架</p>
-<p>上颚：一对，末端带刺刀，刺刀上方有锯子，先用刺刀破皮肤，再用锯子上下提拉扩大切口，最后停留在伤口处横向撑开伤口。</p>
-<p>舌：感知温度、博动、寻找血管</p>
-<p>下颚：一对，末端带柳叶刀，伸入伤口切割皮肤组织，在舌的指引下切割血管</p>
-<p>唾液腺导管：在人皮肤组织内分泌麻醉剂，减少人的刺痛感；在血管内分泌抗凝剂，维持血液流动</p>
-<p>上唇：卷成吸管状，用于吸血</p>
-<p>口管：输送血液进入食道</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-841b110c6df4a6b3fae4562952fbf1bd_720w.jpg?source=8673f162" alt=""><figcaption>雌蚊的口器</figcaption></figure>
+<p>这个问题比较复杂，确实与人类上千年的选育有关，但也和家禽本身的特性有一定关系。</p>
+<p>在解决“<strong><em>为什么鸭子失去了孵蛋能力，鸡还保留了孵蛋能力</em></strong>”这类问题之前，还需要了解另一个概念：<strong>就巢性。</strong></p>
+<p><strong>就巢性</strong>可以简单理解为家禽的<strong>抱窝习性</strong>。农村养过土鸡的朋友都有体会，土鸡很喜欢自己孵蛋，小鸡出壳后，母鸡会领着一群小鸡到处找吃的。母鸡孵蛋行为在每年春天尤其常见，除了土鸡，还有些品种的母鸡对孵蛋的欲望特别强（比如<strong>乌鸡</strong>），这样的鸡，<strong>就巢性</strong>就强。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3db8be25045af0614c6de00575d0ce38_720w.jpg?source=8673f162" alt=""><figcaption>一只正在孵蛋的母鸡</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3a9c999564d056055d087df3607a9492_720w.jpg?source=8673f162" alt=""><figcaption>小鸡已经出壳（2023 年 3 月，摄于我岳母家的核桃园）</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ab0dc67c94f3150ebfc8b98370189856_720w.jpg?source=8673f162" alt=""><figcaption>第二天，还是那只母鸡，已经在带着小鸡仔外出觅食了，正好本人在收拾蜂箱，割了一大块雄蜂蛹给这些小鸡吃</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0f6a42dde200ad176543bc1caa4f1773_720w.jpg?source=8673f162" alt=""><figcaption>我岳母家核桃园里养的土鸡，都是母鸡自己孵蛋，今年陆续养成了了四、五十只小土鸡，晚上都飞到核桃树上过夜</figcaption></figure>
+<p>反之，有些品种的母鸡很少抱窝，或抱窝次数很少，这样的鸡就是就<strong>巢性弱</strong>。</p>
+<p>就巢性是家禽为了繁殖后代与生俱来的天性，但家禽在抱窝期间，是不会再产蛋的，只有在抱窝结束一段时间后，家禽才会再次恢复产蛋的能力。</p>
+<p>因此，<strong>抱窝与产蛋是矛盾的，专业养殖户都不希望家禽有抱窝习性，因为这样会影响产蛋量。</strong></p>
+<p>鸡的祖先是产自中国云南和东南亚地区的<strong>原鸡</strong>，鸭的祖先是广泛分布于全世界的野鸭，也就是<strong>绿头鸭，</strong>鹅的祖先是<strong>大雁，</strong>中国是这 3 种家禽最早，也是最重要的驯化地之一。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-eb682727f803d02f53f1f702a5361b99_720w.jpg?source=8673f162" alt=""><figcaption>中国家鸭的祖先——绿头鸭</figcaption></figure>
+<p>古人在驯化并饲养了鸡、鸭、鹅等家禽后，会刻意地选择<strong>产蛋多、抱窝性相对弱</strong>的个体进行留种，古人的这种选择留种行为，是家禽育种的基础，经过几千年的选育，让家禽的产蛋力整体都得到了提高。</p>
+<p>在野生情况下，鸡、鸭、鹅的祖先每年仅繁殖 1~2 次，年产蛋很难超过 20 枚。经过几千年的人工选择，现在的专业蛋鸡每年可产蛋 300 枚，蛋鸭每年可产蛋约 250 枚。也正因为产蛋量的提高，家禽的就巢性也越来越低，尤其是蛋用型品种，如<strong>白来航鸡、高邮鸭、四川白鹅、日本鹌鹑</strong>等所有蛋用型家禽品种，完全丧失了就巢性。</p>
+<p>我们常见的<strong>农村土鸡</strong>，其实并不属于蛋鸡品种，并没有经过专门的选育，每年产蛋量只有 100~150 枚，生长速度也慢，养一年也长不到 2 公斤重，出肉率还低，显得瘦嘎嘎的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ccc0126dba04b1f0e6dc3984cfde879_720w.jpg?source=8673f162" alt=""><figcaption>我父亲今年养的土鸡，是我收集岳父家的土鸡蛋，再用孵化器孵出来的，土鸡都是瘦瘦高高的，没有多少肉，长得还特别慢。优点是只不生病，还容易养活，不挑食</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1a87b411e76d32b087e959b74a36eb52_720w.jpg?source=8673f162" alt=""><figcaption>土鸡炖的汤</figcaption></figure>
+<p>但农村土鸡具有<strong>野性强、不易生病、不挑食</strong>的优点，还能自己“野外刨食 ”，肉味还紧实，这些优势是养鸡场里的鸡难以比拟的，因此土鸡在农村还有一定的饲养规模。</p>
+<p>同时，土鸡自己会抱窝孵小鸡的特点，在农村反而成了优点，很多农户也乐意自家的土鸡每隔一段时间能孵出一批小鸡，补充了鸡群中被宰杀的个体，农户还省去了购买鸡苗的麻烦。</p>
+<p>另外，鸡的品种很多，用途也多种多样，除了产蛋和产肉，一些品种的鸡还兼有观赏（如<strong>贵妃鸡、元宝鸡</strong>）、娱乐（<strong>斗鸡</strong>）、药用（<strong>乌鸡</strong>）、兼用型（<strong>芦花鸡等</strong>），公鸡在古代还有“<strong>闹钟</strong>”的功能。</p>
+<p><strong>鸡的多种用途，让鸡的价值并不完全体现在产蛋上，这些品种的鸡至今都具有很强的就巢性，也不妨碍农村有一定的饲养规模。</strong>因此，鸡也就给大家留下了“是鸡都会抱窝”的错觉。</p>
+<p>只是在专业的养鸡场里，产蛋成了鸡唯一的主业，经过精心改良培育的蛋鸡品种，如<strong>来杭鸡</strong>，就完全丧失了抱窝的习性。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a753014088673e24fee55f9c30d59ac5_720w.jpg?source=8673f162" alt=""><figcaption>白来航鸡，原产意大利，是世界上著名蛋用型品种，19 世纪育成，以产蛋多，饲料消耗少而著名。母鸡年平均产蛋量为 200 个以上，优秀品系可超过 300 个，无就巢性。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ede58639df537b77e9917feeebaa0b39_720w.jpg?source=8673f162" alt=""><figcaption>产蛋高手——高邮鸭</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca4432dcc5653ec508bd8e399e253d4f_720w.jpg?source=8673f162" alt=""><figcaption>豁眼鹅专业养殖场，又称五龙鹅、疤拉眼鹅，为白色中国鹅的小型品变种之一，以优良的产蛋性能著称。这种鹅产蛋很强，年产蛋可超过 100 枚，也丧失了孵蛋的习性</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-42a8779be832c9cca1ab2f16a19738b7_720w.jpg?source=8673f162" alt=""><figcaption>鹌鹑，可以说是产蛋能力最强的家禽了，一只蛋用鹌鹑年产蛋能超过 300 枚，几乎每天都在下蛋。</figcaption></figure>
+<p>同样的情形也存在于鹅这种常见的家禽中，<strong>鹅</strong>也有很多品种，除了产蛋，鹅在农村还有<strong>看家护院、婚丧风俗、提供鹅绒</strong>等价值，农村养鹅也就并不看重产蛋量，也让不同地方的鹅品种有着不同的习性差异，鹅的抱窝习性也是千差万别，<strong>大部分的鹅品种也保留着抱窝的习性。</strong></p>
+<p><strong>鹅</strong>的祖先是大雁，其中我国的鹅基本都是用<strong>野生鸿雁</strong>培育的（<strong>伊犁鹅</strong>祖先是灰雁），欧洲的鹅均是用<strong>野生灰雁</strong>培育的。产蛋量最少的鹅品种，是<strong>伊犁鹅</strong>，这也是我国唯一一种用灰雁培育的鹅品种，驯化时间仅有 200 多年，这种鹅每年只产蛋 1~2 批，年产蛋量仅有 20 枚，自己孵蛋自己带雏鹅，基本习性类似于野生灰雁；</p>
+<p>产蛋量最多的当属东北的<strong>豁眼鹅</strong>，年产蛋量为 100 枚以上，在产蛋多的同时，也让豁眼鹅这个品种丧失了抱窝性；</p>
+<p>最有意思的是<strong>浙东白鹅</strong>，这个品种每年产蛋约 40 枚，产蛋量一般，但具有孵化一批鹅仔就再产一批蛋的习性，甚至整年都在产蛋孵小鹅，很适合农户自繁自养，因此这一品种在南方很常见。</p>
+<p>反观鸭子，鸭子的用途并不多，鸭子也不具备观赏、娱乐、报晓、看家等功能，<strong>人们饲养鸭子只有产蛋和吃肉这两个目的</strong>，事实上由于鸭子“合群性”好，鱼、虾、田螺等天然饲料来源广，在古代更容易规模化饲养，尤其在湖泊、河流密布的江浙一带，明、清时期鸭蛋的消费量和普及程度要远高于鸡蛋。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f614522377e2c185bb1756b4c992b77a_720w.jpg?source=8673f162" alt=""><figcaption>高邮咸鸭蛋，以双黄蛋多而闻名</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9f1c914efdb8144bffbf6aa7b820f58e_720w.jpg?source=8673f162" alt=""><figcaption>北京烤鸭</figcaption></figure>
+<p>我国早在明朝就研究出了松花蛋、咸鸭蛋等利于鸭蛋长期保存又美味的加工方法，使得鸭蛋的长途运输能力大大增强，鸭蛋的消费量激增，更刺激了鸭子的规划化养殖和专业育种，<strong>人们为了让鸭子多产蛋，有就巢性的鸭子会被早早淘汰，久而久之鸭子完全成了产蛋的工具，完全丧失了负担的习性。</strong></p>
+<p>当然，也有少量鸭品种还保留着孵蛋的习性，如<strong>番鸭</strong>，这货一听名字就知道是外来的，跟我国的鸭子没什么关系，原产南美洲，只有 300 年的驯化时间，因此保留抱窝习性也就很正常了。</p>
+<p>本人 2015 年用孵化器也孵化过番鸭蛋，孵了 30 天仍不见出壳，还以为是蛋坏了呢，一查资料才知道番鸭孵化期竟要 35 天，比鹅 31 天的孵化时间都长。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c1a6d354cca85b4c373ee6efceb60b7a_720w.jpg?source=8673f162" alt=""><figcaption>番鸭，和普通家鸭完全不是一个物种，具有就巢性，不过一听名字就知道这货并不是我国原产的</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bbe834d573128fcbbe0a810e507cf520_720w.jpg?source=8673f162" alt=""><figcaption>今年 6 月份，偶尔在我一起养蜂的朋友家碰见的，他家的番鸭孵了一窝小番鸭，特别可爱。</figcaption></figure>
+<p>还有网上“炒”得挺火的“<strong>柯尔鸭</strong>”，据说能当宠物，一只要成千乃至上万，也有抱窝习性，我查了一下，原产地是荷兰，有抱窝能力也就不奇怪了。只不过，我根本不信鸭子这种管不住自己排泄的动物，真能当家庭宠物？</p>
+<p>那失去孵化习性的鸭子会绝种吗？当然不会，因为我国劳动人民早在宋代就已经成功摸索出了家禽的<strong>人工孵化</strong>，宋朝罗愿所著《尔雅翼》中就记载了利用牛粪发酵的热量，孵化家禽蛋的办法。</p>
+<p>大规模的人工孵化在明清两代真正成熟，还出现了专业孵化的“<strong>哺坊</strong>”，清初黄百家所著的《哺记》是我国最早的人工孵化专著。之后，人工孵化技术进一步发展，民间出现了炕孵、桶孵等各种简易又有效的方法，在没有温度计的时代，古人用眼皮就能精确调节孵化温度。</p>
+<p><strong>正是人工孵化技术的推广，让家禽即使不会抱窝也不会绝种，人们可以不断“发掘”鸭子的产蛋能力。</strong></p>
+<p>因此，鸡、鹅由于品种多、用途多元化，多数品种仍然保留着抱窝习性；而鸭、鹌鹑则由于用途过于单一，所有品种无一例外在追求产蛋能力，经过人工长期选择，也就彻底丧失了抱窝的习性。</p>
+<p>万一哪天人类灭绝了，不会孵蛋的家鸭肯定也会跟着灭绝，但鸡和鹅估计还能完成物种延续。看来，“艺多不压身”、“多条门路、多条活路”的哲理不单单对人有用呀！</p>
+<p>由于本人父母很喜欢养家禽，家里有一个泡沫孵化器，每年春天都会孵一批鸡、鹅、鹌鹑等家禽，让父母饲养，年终宰杀，因此对家禽孵化略知一二。</p>
+<p>最后，晒一晒本人业余利用孵化器孵化家禽的图片：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-70da1f6a9dd46be77aede2179978058a_720w.jpg?source=8673f162" alt=""><figcaption>正在出壳的雏鹅</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a4f6e347286f4492c2c76f89ad668e53_720w.jpg?source=8673f162" alt=""><figcaption>孵化器里正在出壳的鹌鹑</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-54b2d89ca0c01e6a5542876592616bf4_720w.jpg?source=8673f162" alt=""><figcaption>正在出壳的鹌鹑</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-971418d83d160fd14539d2434404b9fe_720w.jpg?source=8673f162" alt=""><figcaption>正在出壳的小鸡，鹅蛋、鸡蛋在一起孵化，由于鹅的孵化期比鸡多 10 天，鹅还需要再过 10 天才能出壳</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-df0c312e841898515a201239c22ffd8a_720w.jpg?source=8673f162" alt=""><figcaption>刚出壳的 7 只小鹅</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-937217f070e559315e9ae57a9910ea10_720w.jpg?source=8673f162" alt=""><figcaption>小孩子对小动物很感兴趣</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-90da4efcf64a29e42af0f3537d1a209a_720w.jpg?source=8673f162" alt=""><figcaption>刚出壳不久的小鸡</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/399852621">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/9413764603">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786873</guid><pubDate>Wed, 21 Jan 2026 18:36:16 GMT</pubDate></item><item><title>人为什么需要睡觉？人睡觉的时候身体都在做什么？</title><link>http://daily.zhihu.com/story/9786881</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7c28121d4762870b2737023d934ae1bc.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786899</guid><pubDate>Thu, 22 Jan 2026 01:20:46 GMT</pubDate></item><item><title>为什么植物没有进化出「智慧」？</title><link>http://daily.zhihu.com/story/9786908</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d5af9c722fd683dc6db8696573476da9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -210,109 +178,45 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/21619571/answer/1918596481088221579" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a4517bdbb89e85d85a57b2c23bec678d_l.jpg?source=8673f162">
+<span class="author">shawn</span>
+<a href="https://www.zhihu.com/question/1928639177899106926/answer/1928800740656285541" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>是啊，人类为什么要睡觉？</p>
-<p>如果你怀着这个疑问，去查其它动物是怎么睡觉的，你会越查越气。</p>
-<p><strong>你发现，很多动物的睡眠机制都很牛：</strong></p>
-<p>长颈鹿每天只需要 20-30 分钟的睡眠，而且每次只需要睡 5 分钟，就可以续航 6 小时。</p>
-<p>如果你拥有长颈鹿的睡眠机制……那简直是先天 996 圣体。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f440f5679f41cc50b227f97a854372e2_720w.jpg?source=8673f162" alt=""></figure>
-<p>海豚和雨燕可以使用半脑睡眠<sup>[1]</sup>，当一个大脑半球睡觉时，另一个大脑半球可以继续工作，从而可以在睡觉时保持清醒。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-81a630bcfe0fc2d7f4f29718f70e9443_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果你拥有海豚的睡眠机制……那你可以在 996 的时候，睡觉摸鱼。</p>
-<p>不过，你也发现，再牛的睡眠机制，那也是需要睡眠的。</p>
-<p><strong>睡眠这个东西进化出来，似乎天生就充满了 BUG。</strong></p>
-<p>首先睡觉的时候，整个身体处于挂机状态，很容易遭到掠食动物的攻击。其次，在自然资源匮乏的年月，过多的睡眠也会降低觅食效率。</p>
-<p>看起来，睡眠机制似乎在拉低生存优势。</p>
-<p>很多时候事实也的确如此，其实圈养状态下的长颈鹿，一天的总睡眠可以达到 4 个小时以上<sup>[2]</sup>。野生长颈鹿为了生存，不得不减少了睡眠时间。</p>
-<p>人类睡眠周期，其实和早期演化压力有关。我们的睡眠呈现周期波动，且每个周期都有一个容易清醒的浅睡阶段，这更有利于警觉危险和清醒。</p>
-<p>可以推测，相比起可以在家放心睡觉的现代人，在山洞里睡觉的原始人类可能睡眠更短，也更容易惊醒<sup>[3]</sup>。</p>
-<p><strong>既然，睡眠真的会影响生存，那睡眠机制，又是怎么进化出来的呢？</strong></p>
-<p>无论动物、植物，还是部分真菌和细菌，绝大多数的生命都具有昼夜节律。</p>
-<p>昼夜节律正是睡眠产生的前提条件。</p>
-<p>23 亿年前，单细胞生物中便产生了决定昼夜节律的关键蛋白质分子<sup>[4]</sup>。</p>
-<p>这个时间点，正好对应地质年代的大氧化事件。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bcbdafc9f84dc4fc0eab193f12c798ae_720w.jpg?source=8673f162" alt=""></figure>
-<p>氧气在生物体内产生大量的活性氧，使得大量单细胞生物被毒死，迫使活下来的演化出了有氧呼吸能力。但付出的代价，就是必须演化出专门的机制来抵消身体内活性氧。</p>
-<p>从此以后，生物的身体与氧气展开了长达 20 多亿年的斗智斗勇。</p>
-<p>太阳东升西落，蓝藻在白天光合作用，积累有机质。消费者也跟随蓝藻的生长周期，在白天增加活动量，这也在体内积累了更多活性氧和损伤。晚上活动量减少，机体通过超氧化物歧化酶（SOD）等多种生化机制来清除活性氧，同时修复损伤，代谢和排出有害物质，使得胞体恢复如初。</p>
-<p>随着多细胞动物的产生，整体新陈代谢加快，原始的昼夜节律已经无法解决体内积累的活性氧。因此演化出，昼夜节律的更高级形态——睡眠。</p>
-<p><strong>有人说，呼吸是慢性自杀。</strong></p>
-<p><strong>那我想说的是，睡眠就是这场慢性自杀的唯一解药。</strong></p>
-<p>其实，早在 6.5 亿年前，最开始出现原始网状神经系统的水母等刺胞动物，就已经有了睡眠。</p>
-<p>虽然水母没有大脑，但研究人员发现水母同样存在睡眠周期，且神经机制与高等动物同源<sup>[5]</sup><sup>[6]</sup>。对水母进行睡眠剥夺实验，也即强制它们不睡觉，发现有害物质会在它们体内积累，并对细胞造成损害，同时影响神经功能<sup>[7]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-10863f11bd82769b550744510d01e96d_720w.gif?source=8673f162" alt=""><figcaption>"倒地”睡觉的仙女水母</figcaption></figure>
-<p>这意味着，为了应对氧化损伤，在动物进化出大脑之前，就已经有了睡眠机制。</p>
-<p>5.4 亿年前，进化军备竞赛促使寒武纪物种大爆发，动物进化出了大脑和眼睛，它们同时和睡眠绑定在了一起。</p>
-<p>早期脊椎动物不仅头颅两侧有一双眼睛，额头上还有一个特殊的器官——顶眼，也即俗称的第三眼<sup>[8]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-90e7841772cc98bafcb39d8999d737c2_720w.jpg?source=8673f162" alt=""><figcaption>牛蛙的顶眼 VS 古爬行动物顶眼眼窝</figcaption></figure>
-<p>顶眼并不能分辨实物，不过却可以通过光信号来分泌褪黑素，与眼睛里的黑视蛋白一起调节昼夜节律。</p>
-<p>顶眼通过三叉神经、交感神经、副交感神经与中枢神经发生联系。随着早期爬行动物进化成鸟类和哺乳动物，顶眼内陷演化成了松果体，失去了感光能力。不过下丘脑发展出了视交叉上核，向其传递感光信息，保证了睡眠调节机制。.</p>
-<ul>
-<li>这个神经机制，也是部分人群强光导致偏头痛的生理基础。</li>
-</ul>
-<p>至少从鱼类开始，哺乳动物的睡眠节律就基本上定型，在后来漫长的演化过程中，不同物种的睡眠机制，都为了适应自己所处的环境，而发生适应性的变化。</p>
-<p><strong>高等动物的大脑，发展出了专门的开关来控制睡眠：</strong></p>
-<p>清醒和睡眠之间存在一个内稳态（homeostasis），调节这个内稳态的内源性物质多达数十种。</p>
-<p>其中最为重要的，便是遍布人体的细胞的内源性核苷——腺苷<sup>[9]</sup><sup>[10]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-da6a9273651f9b3d2db632c8d630ac2f_720w.jpg?source=8673f162" alt=""></figure>
-<p>它是合成 ATP、腺嘌呤等重要物质的中间体，但它本身也对心血管系统、睡眠发挥着重要作用，是所有生命不可缺少的物质。</p>
-<p>当人处在清醒状态时，神经元种含有较少的腺苷，但随着清醒状态的持续，腺苷会在神经元突触中不断积累。腺苷与腺苷受体的结合，会产生相应的细胞反应，从而作用于中枢神经系统，增加睡意。在睡眠过程中，大脑会不断清除腺苷，睡意便会逐渐减少。当恢复至清醒状态的水平，便会引发觉醒<sup>[11]</sup>。</p>
-<p>腺苷往往作用在多个脑区，但主要作用在前脑基底部。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c27701fa95cfc19c3977415b3ba0c20e_720w.jpg?source=8673f162" alt=""></figure>
-<p>在前脑基底部中，腺苷通过腺苷 A1 受体抑制胆碱能神经元，来抑制觉醒状态。</p>
-<p>腹外侧视前区(VLPO)的腺苷 A2 受体，则能激活其γ- 氨基丁酸（GABA）能，从而抑制多个脑区的促眠活动<sup>[12]</sup>。尤其是对下丘脑乳头体核组胺释放的抑制，对入睡发挥着重要贡献。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a8aaef9b7bd23e56a0435e5011c62fb4_720w.jpg?source=8673f162" alt=""></figure>
-<p>除了腺苷外，其它的睡眠稳态调节物质还有前列腺素 D2(PGD2)、生长激素等等。</p>
-<p>总的来说，腺苷这样的睡眠调节子因子，其实相当于身体内活性氧的指标，活性氧超标了，意味着该睡觉休息了。</p>
-<p>咖啡之所以有提神作用，便是因为其所含的咖啡因，能够阻断结合位置来阻止腺苷受体的激活<sup>[13]</sup>。</p>
-<p>喝咖啡抑制腺苷熬夜，本质上相当于对身体的透支。</p>
-<p><strong>那睡觉的时候，我们的身体在做什么？</strong></p>
-<p>首先经过一天的能量消耗，肝脏、骨骼肌会在夜晚合成糖原，给身体“充能”，当然，心脏和大脑也会合成少量的糖原。充能的同时，身体也在积极排出一天所产生的废物。</p>
-<p>我们以大脑来举例。</p>
-<p>大脑内充盈着流动的脑脊液，睡觉时会发生周期性的震荡。</p>
-<p>大脑细胞缩水 60%，大大增加细胞间隙，来帮助脑脊髓液更自由地通过大脑组织间隙，最终通过淋巴管流出，排出活性氧、β- 淀粉样蛋白等有害废物<sup>[14]</sup><sup>[15]</sup><sup>[16]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-90acf55c00f8e57cf3d6e41644f04e1b_720w.gif?source=8673f162" alt=""></figure>
-<p>这个过程，血液（红色标记）流出，脑脊液（蓝色标记）流入。</p>
-<p>当处于清醒状态时，这种有规律的清除活动会随之消失。</p>
-<p>主要原因在于，清醒状态下，大脑需要足够的血液来给大脑供氧、供能，血液充盈着大脑，脑脊液只能活动在大脑的表面，很难有进入大脑内部的机会。</p>
-<p>人体废物清除和损伤修复，肝脏和心脏功不可没。一个是关键功能的执行者，一个提供源源不断的动力。</p>
-<p>废物清除了，从细胞到组织，再到器官的自然损伤，才能得到修复和维护。不仅我们的免疫系统、消化系统、内分泌系统等多个系统的功能可以得到正常维持，还能保证机体健康，促进身体的生长发育。</p>
-<p>大脑也会在睡觉的时候，整理信息，强化并巩固记忆，有利于认知功能的发展。</p>
-<p><strong>如果我们通过长期熬夜对身体透支，又会发生什么？</strong></p>
-<p>人类经过长达 300 万年的进化，面对恶劣的环境时，总是有熬夜的需求，人体早就对熬夜有了适应性的改变。当你第一天进行熬夜后，第二天你睡觉时，机体会进行代偿，通过更深度的睡眠来废物清理、修复损伤。</p>
-<p>1964 年，美国人对 17 岁高中生兰迪·加德纳（Randy Gardner）进行了一场著名的睡眠剥夺实验<sup>[17]</sup>。他连续 11 天 24 分钟（264.4 小时）没有睡觉，打破了当时的世界纪录。</p>
-<p>虽然加德纳熬夜到第 10 天后，出现了认知和记忆障碍、幻觉和偏执行为。但经过 14 小时 46 分钟的代偿睡眠后，他们的健康状态得到了完全的恢复。</p>
-<p>可见人类睡眠的代偿能力是很强大的。</p>
-<p>不过，这种弹性适应能力也是有上限的。长期熬夜，会摧毁这种代偿能力。</p>
-<p>活性氧不断积累会进一步产生氧化应激，损伤的不断积累则会产生炎症作用。这两种作用可能触发细胞因子风暴，诱导多器官损伤。</p>
-<p>首当其冲的便是大脑、心脏、肝脏，以及肾脏、胰脏等等。</p>
-<p>作用于大脑，会导致情绪和功能障碍，作用于肝脏，会破坏肝细胞，作用于心脏对导致心肌受损、节律失调。严重时，甚至会导致死亡。</p>
-<p>《Cell》上的一篇论文显示，对小鼠进行为期 4 天的长期睡眠剥夺，80%的小鼠会因为产生细胞因子风暴，多器官损伤而死亡<sup>[18]</sup>。</p>
-<p>针对人类的统计学研究也表明，每天睡眠不足 6 小时会使得心肌梗死风险增加 20%，熬夜是心源性猝死越来越年轻化的原因之一！<sup>[19]</sup></p>
-<p>熬夜除了会对大脑、心脏、肝脏进行直接损伤外，还可能因为附带的不良生活习惯所带来的更多损害。</p>
-<p>熬夜时抱着奶茶、咖啡、零食、外卖是大多数人的常态，再加之部分人烟酒不断，都可能对机体和脏器带来长期的负面影响。</p>
-<p>人类的肝脏可以说是名符其实的六边形战士，拥有消化、营养转化、储能、代谢、解毒、造血等多种多样的功能，它无怨无悔地进行着超级 996（绝对无休）的工作……</p>
-<p>但如果六种工作，都超过肝脏的极限。那么，大量的代谢损伤、毒理损害，便会很快破坏身体和器官。肝脏自然是损害最严重的器官之一，统计表明，熬夜等不良习惯带来的非酒精性肝损伤是我国最大慢性肝病！</p>
-<p>其次受损的便是心脏，抽烟、体重过重、运动不足、高胆固醇血症，使得心血管疾病成为全球最常见的死因，大约占了 30%的死亡人数。</p>
-<p>当今时代，睡眠不足是一个公认的健康问题，平均每 10 个成年人中就有 3 个睡眠不足 7 小时。</p>
-<p>如何保证正常睡眠，避免诸多相关慢性疾病的发生，是当代人类所共同面临的世界难题之一。</p>
+<p>其实答案就在你嘴边了，你再想一想就应该能想明白。</p>
+<p>你提到植物和动物的细胞区别不大，那么你再想一想，植物细胞和动物细胞的最核心区别是什么呢？</p>
+<p>没错，就是细胞壁！</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-08e3e1a4001eac6f48121e15c5fc8199_720w.jpg?source=8673f162" alt=""><figcaption>植物细胞示意图，b- 细胞膜，c- 细胞壁</figcaption></figure>
+<p>所有植物细胞外面都包裹着一层由纤维素组成的细胞壁。 这个细胞壁也是宏观上人们最直观感觉到的植物。</p>
+<p>植物进化出细胞壁是为了保护自己，细胞壁隔绝了大部分物质，使得物质不容易进入细胞 ，同时也带来了另外一个效果，<strong>绝缘</strong>！</p>
+<p>我们日常生活中最常见的绝缘物质，木头，橡胶，其实都是植物，这都是细胞壁带来的效果，不导电。</p>
+<p>在最一开始，这一进化是比没有细胞壁的生物要先进的，就好像是你穿上了一个强大的铠甲，封闭外界，隔绝一切有害物质。</p>
+<p>然而，没有细胞壁的生物，由于细胞膜经常和外界环境接触，环境中的各种粒子通过细胞壁进出细胞内部，肯定会使得细胞紊乱。于是细胞膜进化出了选择性通过的能力，离子泵。</p>
+<p>正是因为离子泵的出现，可以使得离子选择性通过，常见的钾离子，钠离子 通道，使得细胞膜有了静息电位！</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bdf308a6793f3ebee08c17c6dcba083a_720w.jpg?source=8673f162" alt=""></figure>
+<p>离子通道使细胞膜内外有了电位差，进一步就能通过极化使电位发生变化，这就产生了神经元进化的基础。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d0d19297e9da283ce38026c4c5d49c9e_720w.gif?source=8673f162" alt=""><figcaption>神经元细胞的动作电位</figcaption></figure>
+<p>正是细胞进化出了这种可以产生电位差的能力，才使得动物变成了动物！</p>
+<p>动物可以自由行动， 有神经元，最终神经元形成大脑，都是因为动物细胞进化出了利用电位差的能力！</p>
+<p>所以，植物细胞没有进化出智慧，完全就是因为细胞壁这个铠甲的存在！</p>
+<p>1 因为绝缘的细胞壁，使得植物很难进化出带电的神经细胞和肌肉细胞</p>
+<p>2 即使植物细胞膜也存在电位差，但是因为细胞都是被细胞壁包裹着的，细胞之间也根本无法传递电信号。</p>
+<p>3 植物细胞之间通过胞间连丝传递物质，细胞之间的交流十分有限，使得像动物神经那样，直接在细胞间质中释放神经递质变的不可能，所以就不可能有复杂的神经网络。</p>
+<p><strong>所以，因为没有可以传递电信号的细胞，所以植物也就没有大脑，没有智慧。</strong></p>
+<p><strong>同时，因为没有可以传递电信号的细胞， 所以植物也就没法有通过 电刺激来运动的肌肉细胞，植物只能简单的通过液体压力的变化来进行微弱的运动，不能像动物一样自由运动。</strong></p>
+<p><strong>反过来说，一棵植物想要有智慧，可以运动，那么他就必须去掉绝缘的细胞壁。 去掉了细胞壁，那么植物就变成了动物。</strong></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/21619571">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1928639177899106926">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786881</guid><pubDate>Wed, 21 Jan 2026 18:36:17 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787014</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-aa0f225d4932354c05172f6ab8c7d192.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786908</guid><pubDate>Thu, 22 Jan 2026 01:20:47 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787015</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -327,30 +231,31 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 为什么学霸不喜欢给学渣讲题？</h2>
+<h2 class="question-title">瞎扯 · 能看一下你相册里的小动物吗？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p> Q：<a href="https://www.zhihu.com/question/386950653/answer/3124209536">为什么学霸不喜欢给学渣讲题？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/70cb292a4d77847c9d36f401291a19c7">@宇宙帝王芙莉莲</a> ：都是属玻璃啤酒瓶的，往里灌水的时候就是懂懂懂懂懂，往出倒水就是不懂不懂不懂不懂……</blockquote>
-<p>Q<a href="https://www.zhihu.com/question/49890632/answer/46917053334">：为什么郑州不跨黄河发展？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/9829855cd90372f34c6fe8a2651548d3">@一线广泽</a> ：近年来黄河不跨郑州发展已经很给面子了……<br>懂不懂地上河的含金量啊</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/305891585/answer/3596424390">你知道哪些部队里有趣奇葩的故事? </a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/943128be143a576e7c5a9d6f6f50da5f">@Benzine</a> ：「喂，赵连长吗？啊，没事没事，这么晚还没睡呀，你们哨兵都睡了你怎么还没睡呢？」</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/1950331979691176064/answer/1953911760319915977">全是预制菜的萨莉亚，为什么不被骂？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/1836385221372c2227f648a4e644c369">@活着</a> ：上次和同学吃人均 90 ，吃到最后大概是这样的</blockquote>
-<p><img src="https://pic-out.zhimg.com/v2-b25cd313a2857cc44cc028eb05e76eb5~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768544423-0-0-6cf5611f4f0f7a852aaadf2292db0859&bizSceneCode=article_draft&expiration=1768544423&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/1908102066179663619/answer/1908893156851824401">鸡那么脏，那为啥鸡巢几乎没有蟑螂？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/25d86f1592a51ab0f0f825058574fe4a">@lihao</a> :鸡：要不你多投放几斤试试呢？兴许我吃饱了就有了。</blockquote>
-<p> </p>
-<p> </p>
+<p>Q：<a href="https://www.zhihu.com/question/660502046/answer/1907664314434819745">能看一下你相册里的小动物吗 ？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/83f8c672f6f8c8d876bc099b76cf4ec7">@像他一样开心</a> ：昨天在知乎上看见的这一张图，笑死我了，凌晨把我笑醒了</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-4d7ea88c6d938603574c44da558c1856~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768545317-0-0-852c09546f4593fa24adaf2bd8899bb7&bizSceneCode=article_draft&expiration=1768545317&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p><a href="https://www.zhihu.com/question/4119801561/answer/1971952671452817006">Q：你在部队捅过最大的娄子是什么？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/b105681bcdd31d370c015981cdbfa400">@Eleven</a> ：其他的回答下看到的：<br>无奈的班长，气愤的连长，不知所措还有点无语的排长，以及睡觉都不忘站岗的共和国战士</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-defeff422d5cee1c1233d44312844fda~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768545317-0-0-53067659527251d2add26fa011f01828&bizSceneCode=article_draft&expiration=1768545317&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p>Q：<a href="https://www.zhihu.com/question/5135609594/answer/41631175533">你知道哪些因文化不同而产生的难绷误解？</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/648cbd853170d219d29a96f8f024f977">@树袋鼠阿帕奇</a> ：俄罗斯人把「子在川上曰：逝者如斯夫」理解成了「你不用动，在河边等着，你的敌人的尸体会顺着河流从你面前飘过。」<br>然后因为这句话看起来和孔子气质不合，他们又张冠李戴到孙子头上了。</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-c7124b5ac01a560e4586a50596e74b9a~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768545317-0-0-626a25a343b653efffaa903150a0760c&bizSceneCode=article_draft&expiration=1768545317&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p>Q：<a href="https://www.zhihu.com/question/5405716334/answer/1970100443716747888">可以分享一下你们猫猫的可爱瞬间吗？ </a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/78fb054660cc9218429351b1c5ea54fe">@白皮小脸</a> ：找姥姥要零食未果，就这样了哈哈</blockquote>
+<p><img class="content-image" src="https://pic-out.zhimg.com/v2-7ac0a33fd2f80c1a62eff554dde3fe5c~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768545317-0-0-4339f50fa2893a8824777f7411db0fd0&bizSceneCode=article_draft&expiration=1768545317&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p>Q：<a href="https://www.zhihu.com/question/378849971/answer/1943716394224050518"> 天津市民有多搞笑?</a></p>
+<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/ae82921b0cfcddaccf4b1851812475c5">@跃迁</a> ： 19 年去天津玩，住在天津之眼附近，<br>中午去旁边一个挺有名的包子馆吃饭，忘了叫啥名了。<br>店里卖包子，也卖拉面。我要了几个包子，一碗拉面。<br>旁边一位天津土著大爷主动和我说话，客气极了。<br>看我吃面条，他说，<br>您要把介包子泡面条汤里吃...........<br>我就把咬了一口的包子泡进去了，<br>大爷：那就很难吃了......</blockquote>
 </div>
 </div>
 
@@ -359,4 +264,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787014</guid><pubDate>Wed, 21 Jan 2026 18:36:18 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787015</guid><pubDate>Thu, 22 Jan 2026 01:20:48 GMT</pubDate></item></channel></rss>
