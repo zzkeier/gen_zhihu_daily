@@ -1,5 +1,270 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Fri, 23 Jan 2026 18:26:27 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么人类不可以断臂再生？</title><link>http://daily.zhihu.com/story/9786910</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e41918ced3e43f2afe0270e8d66c619a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 24 Jan 2026 01:16:36 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么灰尘会团在一起？</title><link>http://daily.zhihu.com/story/9786926</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-357daa1b6b44b86cc0e0cd39f7e41795.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/43823203/answer/1993490186370318626" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>你一定在床底下发现过它们：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-29b7a40593ae6863102307eabf22d2a7_720w.jpg?source=8673f162" alt=""></figure>
+<p>它们不是乱七八糟散落的沙砾，而是纠缠在一起、蓬松且略带灰色的团块。在英语里，人们给它起了一个听起来莫名可爱的名字：“Dust Bunny”（尘兔）。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-78249ab361546779b1bc293efc512651_720w.jpg?source=8673f162" alt=""></figure>
+<p>名字可爱，成分一点不可爱。它的核心成分是你的皮屑毛发、你的床单纤维、以及数以百万计的螨虫排泄物。在 40 倍放大镜下，可以看到一团乱七八糟的物质，乍一看非常像是一个长了严重头皮屑的马蜂窝<sup>[1]</sup>：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a2396b4e7abd6a47c91e361d5c5467ec_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，这一团毛球怎么絮在一起的？</p>
+<p>首先你得知道，你就是它的主要制造商。</p>
+<p>一个成年人每天大约脱落 0.5 到 1 克皮肤角质细胞 。这些微小的皮屑在气流中飘荡，最终受重力牵引沉降。床铺是你每天停留时间最长的地方，因此床底不仅是睡眠的港湾，也是皮屑的乱葬岗。</p>
+<p>但这还不足以形成团块。如果没有粘合剂，灰尘只会均匀地铺在地板上，像一层薄薄的霜。让它们聚集成团的“胶水”，源自一种看不见的生态系统。1981 年，《自然》杂志发表的一项研究指出<sup>[2]</sup>，屋尘螨的排泄物，那些直径约 20 微米的微小颗粒，被一层富含粘性蛋白的粘液包裹 。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4bb382fc14805dbf8711577ab95d3389_720w.jpg?source=8673f162" alt=""></figure>
+<p>当这些具有吸湿性的粪便颗粒落入纤维网中，它们就扮演了水泥的角色，将松散的皮屑、头发和棉絮粘结在一起。核磁共振光谱分析曾对“尘兔”进行过分析，结果显示其光谱特征与烘干机里的线头高度一致，同时混合了大量生物蛋白 。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b2390a0305e8003086ceffab901b6f14_720w.jpg?source=8673f162" alt=""></figure>
+<p>为什么它们偏偏喜欢床底？</p>
+<p>这涉及到室内流体力学中的“停滞点”（Stagnation Point）<sup>[3]</sup>概念 。</p>
+<p>当你在房间里走动，或者空调吹风时，空气在流经地板时会形成边界层。床体作为一个巨大的障碍物<sup>[4]</sup><sup>[5]</sup>，迫使气流分离。在床底深处，空气流动速度急剧下降，形成了一个流速几乎为零的死水区。</p>
+<p>根据流体力学原理，流速降低导致空气携带颗粒的能力丧失，悬浮的灰尘便在此处发生“斯托克斯沉降<sup>[6]</sup>”，像雨点一样落下。</p>
+<p>并且，你睡觉时散发的体热（75-100 瓦特）会加热床垫上方的空气，形成热羽流（Thermal Plume）<sup>[7]</sup> 。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-919fd6b031f2fd85ffd5078495b367db_720w.jpg?source=8673f162" alt=""></figure>
+<p>这股上升的热气流会在床面造成局部低压，从而像吸尘器一样，源源不断地把地面冷空气层中的灰尘抽吸进床底。一旦进入这个停滞区，灰尘就再也出不去了<sup>[8]</sup>。</p>
+<p>如果只是堆积，灰尘也就是一堆散沙。让它们变成毛茸茸团块的，是静电和一种被称为“分形生长”的机制<sup>[9]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e76aa656ff2f7e08b9b92437dddc100_720w.jpg?source=8673f162" alt=""></figure>
+<p>这正是天体物理学家感兴趣的地方。在行星形成的理论中，有一个被称为“弹跳壁垒”（Bouncing Barrier）的难题<sup>[10]</sup>：在原行星盘中，微米级的宇宙尘埃可以互相粘连，但当它们长到毫米级时，彼此碰撞就会像台球一样弹开，无法继续变大 。</p>
+<p>2007 年，IEEE 发表的一篇关于“宇宙尘兔”（Cosmic Dust Bunnies）的研究论文<sup>[11]</sup>，揭示了其中的奥秘 。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e7ab83da07002e4b5021741ec0e2875_720w.jpg?source=8673f162" alt=""></figure>
+<p>科学家在微重力实验中发现，尘埃颗粒在碰撞中会产生摩擦电荷。下图中，当在微小玻璃珠微重力舱中被摇晃和抛掷时，它们会通过强静电荷聚集在一起。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a1441472e6b55a0af3da57bf3c8e5e0b_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种静电力非常强大，足以克服颗粒间的弹跳，将它们强行拉在一起，形成蓬松、多孔的分形结构。</p>
+<p>你床底下的灰尘团，实际上是在重现 46 亿年前太阳系行星诞生的初始过程。下图这张根据哈勃空间望远镜获取的数据制作的图像，揭示了 NGC 1316 的尘埃带和星团……</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-34fce4c9bc5e380ed25f9830e8db5201_720w.jpg?source=8673f162" alt=""></figure>
+<p>头发和长纤维充当了骨架，带正电的皮毛与带负电的合成纤维（如聚酯）相互吸引，像滚雪球一样扫荡沿途的微粒。这种结构极其蓬松，孔隙率极高，像是一个个微型的过滤网，进一步捕获空气中的悬浮物。</p>
+<p>1994 年，科学家 Kindratenko 甚至在研究气溶胶时发现，这些不规则的聚集体在显微镜下呈现出一种复杂的几何形状，他幽默地将其命名为“分形兔子”（Fractal Rabbits）<sup>[12]</sup>，因为它们总是突然出现在数据模型中，就像变魔术一样。</p>
+<p>虽然“尘兔”这个名字听起来人畜无害，但在特定环境下，它是致命的。</p>
+<p>最著名的案例发生在 1987 年 11 月 18 日。英国伦敦国王十字地铁站（King's Cross）的一部木质自动扶梯下发生了火灾，最终导致 31 人死亡<sup>[13]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b485a83574740dcac5793c3cf3562567_720w.jpg?source=8673f162" alt=""></figure>
+<p>随后的调查发现，长期以来，扶梯底部的运行轨道上积累了大量的“油脂、灰尘和纤维绒毛”（Grease, dust and fluff）<sup>[14]</sup>。这些混合物形成了极易燃的燃料层。当一根未熄灭的火柴掉进扶梯缝隙后，并没有直接熄灭，而是引燃了这层“毛毡”。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b0138cca2ffded6deefa3c626f362178_720w.jpg?source=8673f162" alt=""></figure>
+<p>更可怕的是，调查人员发现了一种此前未知的“沟槽效应”（Trench Effect）。火焰并没有向上燃烧，而是紧贴着扶梯的 30 度斜坡，像喷火器一样高速喷射，瞬间吞噬了整个售票大厅。那层不起眼的、由灰尘和纤维组成的“毛团”，是这场灾难最初的助燃剂。</p>
+<p>在精密设备领域，灰尘团同样是噩梦。2014 年，关于美国国家点火装置（NIF）的一份报告中提到，在其巨大的激光放大器内部，甚至也发现了“尘兔凝结物”（dust bunny condensate）。这些微小的污染物会吸收高能闪光灯的能量，瞬间变成微型等离子体，并在昂贵的激光玻璃上炸出比自身面积大 50 倍的弹坑<sup>[15]</sup>。</p>
+<p>回到床底下那坨小毛絮，虽然美国人叫它“尘兔”，但在德国，它被称为“Wollmäuse”（羊毛老鼠）；在法国，它是“moutons”（绵羊）；而在匈牙利，人们管它叫“porcica”，意思是“灰尘小猫” 。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-68426d8808bf79d9a6d967134e616483_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过，如果你不想在床底下养这些“宠物”，物理学不会建议你用扫帚。</p>
+<p>因为扫帚的清扫动作会打破灰尘团脆弱的静电平衡和机械纠缠，让里面的致敏颗粒重新悬浮到空气中。对付它们，你唯一可靠的工具是带有 HEPA 过滤网的吸尘器。</p>
+<p>或者，干脆别趴到床底下去看，毕竟眼不见为净，也是一种生活智慧。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd304d88154605e35fd2804cca97747e_720w.jpg?source=8673f162" alt=""></figure>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/43823203">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786926</guid><pubDate>Sat, 24 Jan 2026 01:16:34 GMT</pubDate></item><item><title>如果吃一小勺太阳会如何？</title><link>http://daily.zhihu.com/story/9787033</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-fc4ba2fe4e14a14435c701a81283c286.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/52419881/answer/3380704164" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p><strong>吃太阳最外层，问题还真的不大。吃核心的话，你喷出的高能 X 射线，都能杀死五公里外的人。</strong></p>
+<p>首先请出我们的镇店之宝——知牌如意勺。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-764cb24365e291de058d8794cf08a577_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是太阳结构：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-01bc79a3f52d330b720a9b2da353998d_720w.jpg?source=8673f162" alt=""></figure>
+<p>我们一层层从外吃到内。</p>
+<p><strong><strong>◀ 光球层▶</strong></strong></p>
+<p>先上难度最低的「光球层」作为开胃菜。</p>
+<p>虽然太阳没有绝对的边缘，但通常认为从核心到光球层为它的半径。</p>
+<p>光球层粒子密度为 10^23/m^3。</p>
+<p>假设知牌如意勺的大小是标准汤勺，那么容量为 15ml。</p>
+<p>这一勺的原子总数为：</p>
+<p>1.5×10^18</p>
+<p>也即，约 2.5×10^-4 mol</p>
+<p>如果强大的知牌如意勺，把太阳物质约束在理想状态。</p>
+<p>那么内能为：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=U%3D3%2F2nRT" alt=""></p>
+<ul>
+<li>n 为物质的量（mol），R 为气体常量 8.31451J/(mol·k)，T 为气体的热力学温度。</li>
+</ul>
+<p>光球层温度为温度 5777 K，人的正常体温为 310K 左右。</p>
+<p>如果这些太阳物质温度降低到 310K，那么释放出来的能量……</p>
+<p>非常巨大。</p>
+<p>仅仅为：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+U%3D3%2F2nR%5Ctriangle+T%3D17+J" alt=""></p>
+<p>你心中：？？？</p>
+<p>才 17 焦耳。</p>
+<p>哪怕这一勺是馒头，那也得有 10 多万焦耳的热量了。</p>
+<p><strong><em>这吃太阳吃了个寂寞吗？</em></strong></p>
+<p>你仔细一想，不禁回味过来。</p>
+<p>这光球层一立方的粒子数量，连小小的阿伏伽德罗常数（6.02214076×10^23）都没有，大约为地球海平面空气密度的 0.37%。</p>
+<p>这一勺子能释放的热能，自然是相当低了。</p>
+<p>嗯，这个开胃菜，看起来的确挺寡淡的样子。</p>
+<p>这些热量大约只能把 1g 水加热 4℃，再加上嘴里还有空气，可以认为，如果知牌如意勺释放太阳物质的时候，没有与你的口腔内部接触，那就基本上没啥危害。</p>
+<p>即便接触，也只会有非常浅层的灼烧。</p>
+<p>辣正好是一种痛觉，我们可以认为，略微有一点点微辣的感觉。</p>
+<p>考虑到原味太阳物质还存在一定的高能射线（比较幸运的是太阳风是日冕产生的，因此光球层没有太阳风），大约是地表的 4.6 万倍，高能射线的穿透辐射，可能会在一定程度上增加你的辣感，让你寡淡口感增添一丝风味。</p>
+<p>太阳表面的味道的确不太过瘾，你决定继续往下。</p>
+<p><strong><strong>◀对流层▶</strong></strong></p>
+<p>对流层为太阳半径 70%到光球层以下的表面范围，密度随着深度的增加而增加。</p>
+<p>对流层物质往上，一直到达光球层；往下一直到达辐射层，不断循环。</p>
+<p>它的密度上限为辐射层，下限接近光球层，温度同样如此。</p>
+<p>密度范围为 0.2 g/m^3~200kg/m^3。</p>
+<p>尝了一次寡淡的太阳，这一次你决定来点挑战，直接吃对流层最底层的物质。</p>
+<p>对流层最底层密度 200kg/m^3，温度 200 万 K。</p>
+<p>15ml 便是 3g。</p>
+<p>在太阳光球层中，氢氦比例为 74.9%和 23.8%，随着深入内部，氦的比重增加，最终在核心达到接近 60%。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ba6e4c9b4c1078992d8715741fc3b559_720w.jpg?source=8673f162" alt=""></figure>
+<p>在对流层底部，氢的比例估计在 70%左右。</p>
+<p>那么这一勺太阳物质，则有 2.1g 氢，0.9g 氦，物质的量大约 2.3mol。</p>
+<p>易得，太阳物质进入你的口腔，你获得的能量为：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+U%3D3%2F2nR%5Ctriangle+T%3D5.74%C3%9710%5E7+J" alt=""></p>
+<p>你心中感受到一点欣慰，似乎有点吃太阳的感觉了。</p>
+<p>但你仔细一想，还是有点不对劲啊。</p>
+<p>5.74×10^7 J 如果是电量的话，仅仅相当于 16 度电。</p>
+<p>这么少……</p>
+<p>吃下去会不会也有点不过瘾的呢？</p>
+<p>嗯？</p>
+<p>不过这一口吃下去，你顿时有感觉了。</p>
+<p>这些太阳物质，放在嘴里的刹那，太阳物质单位面积释放出来的热功率（也即，辐射通量密度），遵守斯特藩 - 玻尔兹曼辐射定律：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+j%2A%3D%5Cvarepsilon%5Cdelta%28T_%7B1%7D%5E%7B4%7D-T_%7B2%7D%5E%7B4%7D%29" alt=""></p>
+<ul>
+<li>为辐射系数，黑体辐射即为 1。</li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=%CE%B4" alt=""> 为斯特藩 - 玻尔兹曼常量，取值 5.67×10−8W/m^2·K^4</li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=T_%7B1%7D" alt=""> 为光源温度 200 万 K。</li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=T_%7B2%7D" alt=""> 为环境温度 310K。</li>
+</ul>
+<p>可得，单位面积释放的辐射功率高达：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+j%2A%3D9.1%5Ctimes+10%5E%7B17%7D+W%2Fm%5E2" alt=""></p>
+<p>也即达到 91 亿亿 W/m^2。</p>
+<p>考虑到人的口腔具有一定的空间大小，半径大约是小球的 4 倍。</p>
+<p>那么，口腔接收到的最低辐射通量密度为 5.67 亿亿 W/m^2。</p>
+<p><strong><em>大家可能对这个数据没有什么概念，举例一些数据作为对比。</em></strong></p>
+<p>夏天正午太阳的辐射通量密度（太阳常数）为 1367W/m^2。</p>
+<p>把你的手伸进典型的橙黄色火焰中（1000K），接收到的辐射通量密度为 5.6 万 W/m^2，比刚才的下限都低了 1 万亿倍。</p>
+<p>一般来说，任何宇宙物质充分接触 6000K 以上的光源，就可以完全被等离子体化。</p>
+<p>那么在地球表面，直接得到的效果就是——</p>
+<p>boom。</p>
+<p>爆炸。</p>
+<p>至于爆炸威力，相当于 14kgTNT。</p>
+<p>威力具体有多大，可以参考这个，这是 1kgTNT 的爆炸威力：</p>
+<p>当然作为一个打算吃到太阳核心的人，你怎么可能在这里倒下。</p>
+<p>看来，你并不是碳基生物，强大的口腔收纳了这些太阳物质。</p>
+<p><strong><em>那这一口会是什么味道呢？</em></strong></p>
+<p>根据维恩位移定律<strong>，</strong>黑体辐射光谱的峰值波长与温度有这样的关系：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda_%7Bmax%7D%3D%5Cfrac%7Bb%7D%7BT%7D" alt=""></p>
+<p>b 为维恩位移常数<strong>，</strong>大小 2.897771955 x 10^-3mK</p>
+<p>求得，这些太阳物质辐射出来的峰值波长为 1.45nm。</p>
+<p>已经进入了 X 射线的范围。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1832a9618903c2f0576f3fb555859200_720w.jpg?source=8673f162" alt=""></figure>
+<p>至于味道，根据峰值光谱来看，大约相当于蓝超巨星的味道。</p>
+<p>在你的口腔里不仅有爆炸感，甚至还有轰击感。</p>
+<p>或许作为强大的非碳基生命的，这在你的嘴里可能相当于喝下了一口碳酸饮料。</p>
+<p>当然，你还是得当心一点，你口里的碳酸饮料，飞射出去一点点飞沫，对于他人来说就是非死即伤。</p>
+<p>因为 X 射线，具有强大的电离能力，能对人体造成致命的辐射伤害。</p>
+<p>1kg 人体组织吸收 1 焦耳辐射剂量为 1Sv（西弗），那么对于 60kg 的人体来说，大约吸收 60 焦耳的辐射能量为 1Sv。</p>
+<p>X 射半致死量为 4.5Sv，全致死量为 8Sv。</p>
+<p>那么，造成致命伤害的 X 射线能量吸收量为 270 J。</p>
+<p>为你这一勺太阳物质总辐射能量 5.74×10^7 J 的 21.25 万分之一。</p>
+<p>在真空中，X 射线（光）随着距离的平方衰减。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ffc382e16e251a3c46216f8159585f35_720w.jpg?source=8673f162" alt=""></figure>
+<p>人体横截面积大约 0.5m^2。</p>
+<p>一个人在足够远正面接受辐射，易得他的半致死照射距离为 92m。</p>
+<p>在这一刹那，围观者可以看到在你在吃进太阳物质的刹那，嘴里发出耀眼的光球。</p>
+<p>考虑到 X 射线在空气中存在一定的吸收率，但并不高，如果在地球上吃下太阳物质，对他人的致死距离会比 92m 略微短一些。</p>
+<p>这一次你终于吃出来了一点点感觉，你决定继续往下。</p>
+<p><strong>◀辐射层▶</strong></p>
+<p>辐射层的温度最高达到 700 万 K，密度最高 20000kg/m^3。</p>
+<p>这下，15ml 太阳物质的质量达到了 300g。</p>
+<p>辐射层中的氢元素依旧会稍多一些，预估 60%，氦 40%，物质的量则为 210mol。</p>
+<p>易得，这一次释放的热量为：1.8×10^10 J，相当于 4.3 吨 TNT。</p>
+<p>辐射通量密度高达：1.36×10^20W/m^2。</p>
+<p>依据维恩定律，峰值波长为 0.4nm。</p>
+<p>同样是 X 射线，但能量更高。</p>
+<p>如果你是在太空中吃这部分物质，嘴角溢出的高能射线，则足足可以在 1600m 之外对他人造成致命伤害。</p>
+<p>这都已经达到巴雷特的有效射程了。</p>
+<p>虽然这一勺太阳物质的能量级别远远达不到原子弹，但爆炸 + 远距离辐射伤害，可等效微型原子弹的威力。</p>
+<p>此时的味道，可能已经有了吃微型核弹的感觉。</p>
+<p>味道比较 boom。</p>
+<p>最后， 你终于把手伸向了太阳的核心区。</p>
+<p><strong>◀核心▶</strong></p>
+<p>太阳核心温度高达 1500 万 K，密度高达 150000kg/m^3。</p>
+<p>15ml 太阳物质的质量达到 2250g。</p>
+<p>我们假设取的是太阳最最最核心的物质，氦比例最终达到了 60%。</p>
+<p>那么，总物质的量为 1237.5mol。</p>
+<p>释放总热量为 2.3×10^11 J，相当于 48 吨 TNT。</p>
+<p>辐射通量密度：2.87×10^22W/m^2。</p>
+<p>峰值波长为 0.2nm。</p>
+<p>虽然同样是 X 射线，但这个峰值波长已经相当短，这意味着光谱中的γ射线比例，已经非常大。</p>
+<p>这一次吃下太阳核心，嘴角溢出的射线，对他人的致死距离则达到了 5800m。</p>
+<p>也就是说，在你吃太阳的过程中，嘴里射出的高能 x 射线、γ射线，可以杀死 5 公里外的人。</p>
+<p>这个范围都可以覆盖一些小县城的城区全境了。</p>
+<p>太阳核心的压强高达 3×10^16pa。</p>
+<p>这个压强相当于特种钢材抗压强度的 3000 万倍。</p>
+<p>在你吃太阳的过程中，不再存在引力维持，这些太阳核心物质膨胀的瞬间就会在你的口腔内产生 3×10^16pa 的压强。</p>
+<p>太阳的口感在你的嘴里也达到了极致的 boom。</p>
+<p>既然太阳核心你都能吃下，还完好无损。</p>
+<p>我不禁在想，你究竟是什么人。</p>
+<p>你作为正常活动的人，不应该住在太阳的内部。</p>
+<p>白矮星表面的压强至少要达到 1400000 个大气压下（10^11pa），碳的电子才能从原子中挤出，从而形成白矮星。</p>
+<p>而白矮星的平均压强高达 10^22Pa。</p>
+<p>这正好包含你所能抗压的 3×10^16pa。</p>
+<p>就是你了！</p>
+<p>白矮星人。</p>
+<p>现在我也终于能理解你为什么要吃恒星了。</p>
+<p>白矮星作为恒星的「死星」，核聚变物质早已经耗尽，你吃太阳其实就是为了补充能量的。</p>
+<p>记得悠着点，省着点吃。</p>
+<p>别把太阳吃完了，不然，我们人类就要真的流浪地球了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/52419881">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787033</guid><pubDate>Sat, 24 Jan 2026 01:16:35 GMT</pubDate></item><item><title>既然人的体温为 37℃，那为什么在 35℃ 的气温下，人们觉得很热而不是凉快？</title><link>http://daily.zhihu.com/story/9787056</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d64a580b504e652f7249449bbc6acc67.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -21,109 +286,77 @@
 <div class="meta">
 <img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
 <span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/15377181189/answer/1897993007485137316" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/546132320/answer/2607801141" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>断臂再生没有，但断指再生能力有一点点。</strong></p>
-<p><em>「图片预警」</em></p>
+<p><strong>热量从高温传向低温，人体要散热，就必须形成一个温度梯度。</strong></p>
+<p><strong>从舒适环境进入 35℃的环境，人体不仅不会散热，反而会吸热。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d82d3b94f58692f0792536db56b307af_720w.jpg?source=8673f162" alt=""></figure>
+<p>人体正常活动时，仅仅一个细胞内就发生着千万次的生化反应<sup>[1]</sup>，从而源源不断地产生热量。</p>
+<p>这些热量从核心部位不断向外传递，会形成一个逐步降低的温度梯度。</p>
+<p>不仅人体存在温度梯度，人体皮肤要把热量不断释放到空气里，与空气也会存在一个温度梯度。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-54145cb02c9d50b74c1711eee4529ac7_720w.jpg?source=8673f162" alt=""></figure>
+<p>也即：<strong>人体核心温度＞皮肤温度＞空气温度。</strong></p>
+<p>当人体不存在明显机械功时，人体的热平衡满足这样的关系：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=M%3DQ_%7Bb%7D%3DQ_%7Bsk%7D" alt=""></p>
 <ul>
-<li><strong><em>成年人指尖断裂再生过程：</em></strong></li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=M" alt=""> 是人体新陈代谢总功率，躺平 70W 左右，看书写字等正常活动 100W 左右。</li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7Bb%7D" alt=""> 为人体向皮肤的热传导总功率。</li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7Bsk%7D" alt=""> 是皮肤总散热功率，包括皮肤辐射散热、空气对流散热、皮肤蒸发散热三个部分。</li>
+<li>由于呼吸散热很小，本公式已忽略。</li>
 </ul>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4c06dade1cf3e576aaa736e329b64548_720w.jpg?source=8673f162" alt=""><figcaption>成年人指尖断裂再生过程</figcaption></figure>
+<p>我们的皮肤之所以要通过感受器感觉热和冷，本质上是通过这样的机制，提醒人避开高温和低温，让人体的散热，保持在一个最适宜的程度<sup>[2]</sup>。</p>
+<p>当人处于最适宜的冷热状态时，皮肤温度大约为 33℃左右。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d8923b89c5bdc20a81780f0c1dcb376_720w.jpg?source=8673f162" alt=""><figcaption>＜13℃和＞50℃以痛觉为主；33~46℃只有温觉；＜25℃只有冷觉；33℃为舒适状态。</figcaption></figure>
+<p>由于皮肤要不断向环境散热，当人处于最适宜状态时，环境温度大约 28℃左右。</p>
+<p>28℃比起 35℃，足足低了约 7℃。</p>
+<p><strong>当人从 28℃的舒适环境走到 35℃的环境内，由于环境温度高于皮肤温度。</strong></p>
+<p><strong>人体不再是对外散热，而是直接从环境吸收热量，导致体表温度升高。</strong></p>
+<p>人体皮肤温度要一直升高到，释放的热量等于人体新陈代谢热量才会停止。</p>
+<p>建立新平衡后，人体皮肤温度达到多少呢？</p>
+<p>不放计算一下：</p>
+<p>皮肤对外释放的总量热量，主要为辐射散热、对流散热，以及蒸发散热，总平衡关系有：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7Bsk%7D%3DQ_%7B%E8%BE%90%E5%B0%84%7D%2BQ_%7B%E6%8D%A2%E7%83%AD%7D%2BQ_%7B%E8%92%B8%E5%8F%91%7D" alt=""></p>
+<blockquote>根据斯特藩 - 玻尔兹曼定律： <img class="content-image" src="https://www.zhihu.com/equation?tex=j%2A%3D%CE%B5%CE%B4%CE%A4%5E4" alt=""> <br><strong>人体辐射散热为： </strong><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7B%E8%BE%90%7D%3DA%5CDelta+j%2A%3DA%CE%B4%EF%BC%88T_%7B1%7D%5E4-T_%7B0%7D%5E4%EF%BC%89" alt=""><br><img class="content-image" src="https://www.zhihu.com/equation?tex=%CE%B5" alt=""> 为辐射系数，取值为 1。<br><img class="content-image" src="https://www.zhihu.com/equation?tex=%CE%B4" alt=""> 为斯特藩 - 玻尔兹曼常量，取值 <img class="content-image" src="https://www.zhihu.com/equation?tex=5.67%C3%9710%5E%7B-8%7D+W%2Fm%5E2%C2%B7K%5E4" alt=""> ， <img class="content-image" src="https://www.zhihu.com/equation?tex=%CE%A4" alt=""> 为热力学温度。<br><br><strong>根据，牛顿冷却定律，皮肤表面空气对流散热为： </strong><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7B%E6%8D%A2%E7%83%AD%7D+%3D+hA%CE%94T" alt=""> <br> <img class="content-image" src="https://www.zhihu.com/equation?tex=h" alt=""> 为自然对流换热系数，有经验公式：<img class="content-image" src="https://www.zhihu.com/equation?tex=h%3D1.48%C3%97%5CDelta+T%5E%7B0.25%7D" alt=""> <sup>[3]</sup><br>人体表面积 <img class="content-image" src="https://www.zhihu.com/equation?tex=A" alt=""> 为 1.5~2m^2，不妨取个中值 1.75m^2<br><br><strong>皮肤蒸发散热： </strong><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7B%E8%92%B8%E5%8F%91%7D%3DSWr" alt=""> <br><img class="content-image" src="https://www.zhihu.com/equation?tex=r" alt=""> 为水的汽化潜热。<br>SW 为皮肤出汗速率，有经验公式<sup>[4]</sup>： <img class="content-image" src="https://www.zhihu.com/equation?tex=SW%3D8.47%5Ctimes10%5E%7B-5%7D%5Ctimes%5Cleft%5B+%EF%BC%880.1%5Ctimes+T_%7Bs%7D%2B%EF%BC%880.9%5Ctimes+T_%7Bc%7D%EF%BC%89-36.6+%5Cright%5D" alt=""></blockquote>
+<p>根据以上三个公式，可计算出环境温度为 35℃、人体热功率 100W 时。</p>
+<p>皮肤表面温度为：</p>
+<p><strong>36.7℃</strong></p>
 <ul>
-<li><strong><em>儿童断指再生：</em></strong></li>
+<li>此时，辐射散热约 19W。</li>
+<li>对流散热 5W。</li>
+<li>皮肤蒸发散热 76W。</li>
 </ul>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e780b61b6aa8754b17652d700336c1b0_720w.jpg?source=8673f162" alt=""></figure>
-<p>可以看出，儿童的断指再生能力，明显比成年人更强。</p>
-<p>……</p>
-<p>当我们还在妈妈肚子里时，一开始我们和蝾螈一样，拥有完全的断臂 / 肢再生的完全能力<sup>[1]</sup>。</p>
-<p>但随着肢体完全发育，这个能力会迅速衰退。</p>
-<p>出生后的婴儿时期，通常也具有一定的再生能力<sup>[2]</sup><sup>[3]</sup>。不过，只有指尖很小的一部分可以，通常需要不伤害到甲床。</p>
-<p>少部分成年后还具有一定这样的能力。</p>
-<p>虽然指端再生，通常哺乳动物都具有<sup>[4]</sup>：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5c8d944f9c01da6e9a4abe4716f99472_720w.jpg?source=8673f162" alt=""><figcaption>截肢后组织再生的小鼠指端（正常，轻度破坏，较重破坏）</figcaption></figure>
-<p>但也有一些突变个体会发生失败<sup>[5]</sup>：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4dddd57513d760f420c3e3c82ddc0aef_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>世界上没有哪一种生物，没有再生能力。</strong></p>
-<p>区别在于再生能力的强弱。</p>
-<p>人类的再生能力，限于皮肤、黏膜、肝脏、指尖、体液相关系统等等。和演化树更加基干的一些动物相比，这种再生能力，的确太拉胯了，聊胜于无。</p>
-<p>壁虎可以再生出阉割版的尾巴。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2950be9b474deac8626fbb3f5c8606fd_720w.jpg?source=8673f162" alt=""></figure>
-<p>蝾螈不仅可以再生尾、爪、四肢、眼睛，损伤的大脑也能再生<sup>[6]</sup><sup>[7]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fd6322269454690f09bff8fb7a9c43c5_720w.jpg?source=8673f162" alt=""><figcaption>蝾螈的断指再生过程</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-da1838f90486ce19a3a7ae2b631595df_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个温度，足足比皮肤舒适温度高了 3.7℃。</p>
+<p>低于适宜温度时，人体几乎不怎么发汗，稍高于舒适温度，通常蒸发散热 25%的总热量。</p>
+<p>此时的蒸发散热超过了 75%。</p>
+<p>这还是考虑人体发出的汗液，全部被蒸发的情况。如果湿度过高，皮肤汗液蒸发不及时，皮肤温度可超过 37℃。</p>
+<p>在这样的皮肤温度下，人体核心温度也会大大升高。</p>
+<p><strong>人体的热传导，根据傅里叶定律，有：</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=M%3DQ_%7Bb%7D%3D%5Clambda+A%5Cfrac%7B%5CDelta+T%7D%7BL%7D" alt=""></p>
 <ul>
-<li><em>损伤的蝾螈脑可能诱导神经干细胞逆转化，从而回到年轻状态，启动再生过程。</em></li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda+" alt=""> 为皮肤热导率。人体含水 70%，皮肤热导率约 0.432 W/（m·k）</li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=A" alt="">为皮肤表面积。</li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+T" alt=""> 为核心温度与皮肤表面的温差。</li>
+<li><img class="content-image" src="https://www.zhihu.com/equation?tex=L" alt=""> 为皮肤平均导热厚度，非寒冷状态下约为 3cm。</li>
 </ul>
-<p>斑马鱼同样再生能力强大，无论鱼鳍、心脏、脊髓，还是肠道等重要器官，都具有再生能力。</p>
-<p>一般来说，比起哺乳动物，两栖动物和鱼类具有更强的器官再生能力。</p>
-<p><strong>断指再生，一般是这样的过程</strong><sup>[8]</sup><sup>[9]</sup><strong>：</strong></p>
-<p>发生断肢损伤后，伤口表皮会迅速覆盖断肢表面，随后间充质细胞去分化形成干性更强的芽基。芽基细胞具有位置记忆，可以不断向外完成断肢的再生修复。</p>
-<p>这个过程一般由多个 hox 基因（同源异形基因，通常多组决定肢体的分化和发育）一起调控。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4240e611e230e5eabcff615e20a668cc_720w.jpg?source=8673f162" alt=""><figcaption>斑马鱼尾鳍修复过程</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5521ba4df2b6fa87124175f4ad7f0fad_720w.jpg?source=8673f162" alt=""><figcaption>b、传统观点；c、最新发现</figcaption></figure>
-<p><strong>演化支更加基干的动物，再生能力会更强。</strong></p>
-<p>深缘海天牛可自我斩首和再生。</p>
-<p>摩尔根曾把一条 2cm 的涡虫，被切成 279 块后（约 10000 个细胞），一周后得到的 279 条完成活体。</p>
-<p>纽虫可以被切成二十万分之一<sup>[10]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f2f797f699d11f32a726ef4b46975a7a_720w.jpg?source=8673f162" alt=""></figure>
-<p>而比水螅更加基干的动物，干细胞部分通常认为再生能力的限制非常低。例如，最简单的多细胞动物海绵，能做到碎末再生。</p>
-<p>从门或者纲的大分类来说，动物基本上复合再生能力从简单到复杂的规律。</p>
-<p>同一个门或者纲内，则可能表现出比较大的再生差异。</p>
-<p><strong>这样的再生差异，体现出演化上的「鱼和熊掌不可兼得」。</strong></p>
-<p>最早的多细胞动物基本上都是一些干细胞团，它们是十分脆弱的。</p>
-<p>面对环境中的化学危害、紫外线危害、机械应力危害，自然而然有两条路摆在它们的面前。</p>
-<p><strong><strong>1、要么不对抗危害，不断用干细胞修复，只要修复的速度快于损伤，就能继续生存。</strong></strong><strong><strong>2、要么分化干细胞，发展成具有各种功能的细胞，例如发展出表皮隔断外部化学危害，发展出黑色素细胞抵抗紫外线，发现出外骨骼、鳞片降低机械应力损伤。</strong></strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a852de21ecd0fae064fe529c8747104f_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果我们把再生能力给个 0~100 分，0 分和 100 分的动物基本上没有，都在这个区间内，只不过分数有高有低。</p>
-<p><strong><strong>是什么力量决定了不同动物再生能力的高低？</strong></strong></p>
-<p>答案是——</p>
-<ul>
-<li><strong><em>繁殖。</em></strong></li>
-</ul>
-<p>这或许是很多人都不想到的答案。</p>
-<p><strong>任何理论永生的个体，都可能因为意外而死亡。只有通过繁殖，基因才能不断存续下去。</strong></p>
-<p>对于一个有生存个体上限的环境来说，亲代和子代其实是竞争关系。对于分化越高的动物来说，当环境变化时，基因保守的亲代是竞争不过具有基因多样性的子代的。</p>
-<p>这就会造成亲代死亡，留下子代继续繁衍生息。</p>
-<p>水螅的繁殖正是这样的过程。</p>
-<p>环境优渥时，它们进行出芽繁殖，当环境恶劣时，它们进行有性繁殖，从而渡过干旱或严寒。</p>
-<ul>
-<li>所以，水螅虽然是一种理论上永生的动物，但并不能真正永生。</li>
-</ul>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-45bafe6a66fa04e58e86eb53c793ae24_720w.jpg?source=8673f162" alt=""></figure>
-<p>处于有性繁殖和无性繁殖之间的水螅，其实很好地预示了，具有更高分化的动物，为什么大多失去了无性繁殖，最终都只保留了有性繁殖。</p>
-<ul>
-<li>值得注意的是，孤雌繁殖并不是无性繁殖。</li>
-</ul>
-<p>比水螅具有更高分化的动物，不仅细胞干性的逆转成本更高，也意味着个体更加难以适应恶劣的环境变化（高分化的动物，对适应的环境往往具有性状特化现象）。</p>
-<p>演化压力，自然给到了有性繁殖。</p>
-<p><strong>即便一开始它们是完全再生的，然而当资源有限时，牺牲个体再生能力把资源分配到有性繁殖的分支，会因为表现出更强种群优势，而得到繁衍生息的机会。</strong><strong>经过长期演化，随着动物分化程度越来越高，繁殖策略不断更新，个体再生能力自然而然变得更弱。个体再生能力变差之后，体现出来的便是衰老。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f4a68ccac18867e46b6e314779b913d0_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong><strong>当然，种内竞争也促使着这个过程的发生发展。</strong></strong></p>
-<p>当亲代生下第一批子代，这些年轻、健康、强壮、繁殖能力强的子代，不仅和亲代是竞争关系和第二批、第三批子代也是竞争关系。</p>
-<p>当然，竞争关系的强弱，取决于内部资源的大小。</p>
-<p>然而随着每一次种群瓶颈的到来，竞争关系都会白热化。</p>
-<p>对于衰老程度足够高的亲代，不仅它们自身竞争不过年轻的后代，繁殖能力下滑后产生的新后代竞争能力也会更低。</p>
-<p>在不断淘汰的过程中，演化压力会促使种群朝着成本更低的方向发展：</p>
-<p><strong>衰老的亲代不仅不会高成本的逆转干细胞，还会丧失繁殖能力，繁殖能力丧失后还会加速衰老和死亡。大多数昆虫正是这种状态的极端表现，交配 / 繁殖后即尘归尘、土归土。</strong><strong>虽然大多数脊椎动物表现会好一些，但繁殖能力丧失后，往往都会快速衰老和死亡。人类同样具有这样的规律（尤其是女性）。</strong></p>
-<p>人类衰老后之所以还有长达 1/3 的寿命，则可能源于隔代照顾和知识传承的演化压力。</p>
-<ul>
-<li><em>见“祖母假说”</em><sup>[11]</sup><em>。</em></li>
-</ul>
-<p>正是因为子代竞争，高分化的动物才没有保留或发展出高再生能力，反而保持甚至促进衰老和死亡的发生。</p>
-<p>从某种意义上来说，一个人的生、老、病、死的本源动力，都是来源于数亿年演化压力，对基因一代代的不断雕刻。</p>
+<p>由于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7Bb%7D" alt=""></p>
+<p>与温差成正比，那么皮肤温度升高多少，核心温度就会升高多少。</p>
+<p><strong>核心温度将高达：</strong>40.7℃（37+3.7）</p>
+<p>而轻症中暑体温超过 38­°C，重度中暑可达 41­°C。</p>
+<p>可知<strong>长期</strong>（静息状态＞3h，运动状态＜3h）呆在 35℃环境下，在没有其它降温措施的情况下，至少会出现轻度中暑，部分超重甚至肥胖人群（人体散热更差）甚至可能重度中暑。若通风严重不良，且无其它降温措施，所能待的时间将大大降低，严重可出现热射病。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/15377181189">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/546132320">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786910</guid><pubDate>Fri, 23 Jan 2026 18:26:25 GMT</pubDate></item><item><title>自然界中，哪些植物的「生存智慧」最让你感到惊叹？</title><link>http://daily.zhihu.com/story/9786915</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-0e6eeeb3b99523f74aa95327465f19e7.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787056</guid><pubDate>Sat, 24 Jan 2026 01:16:35 GMT</pubDate></item><item><title>为什么很少看到鸟类吃鸟类？</title><link>http://daily.zhihu.com/story/9787061</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-46539e70a3363503c63f68d2239f9929.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -143,170 +376,107 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/1972623600809902653/answer/1986468457504601120" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
+<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
+<a href="https://www.zhihu.com/question/350630268/answer/1984598957112972890" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>看过科幻电影《湮灭》（<em>Annihilation</em>）吗？</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b9946cb882d680bc5e7c0ece16bc09b6_720w.jpg?source=8673f162" alt=""></figure>
-<p>电影中有一处令人毛骨悚然的设定：在一个被称为“闪光”（The Shimmer）的神秘区域内，外星力量像棱镜折射光线一样“折射”了生物的 DNA。探险队在旷野中看到了一组像人类一样站立的灌木，它们不仅仅是修剪成了人的形状，而是植物本身的生长结构就在模仿人类的形态。简直不能更诡异了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8ae20cbfcdd12b054062b179d07ebc38_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果告诉你，这种近乎魔幻的“形态复制”能力在现实中是真实存在的，你会怎么想？</p>
-<p>在南美洲智利和阿根廷的温带雨林深处，就潜伏着这样一种打破了生物学常识的植物：避役藤（<em>Boquila trifoliolata</em>）<sup>[1]</sup>。</p>
-<p>是不是看上去平平无奇？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2549130c8f39ab986361cb5c9dc8264d_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种被称为“变色龙藤”的植物，拥有着与电影中“闪光”区域生物极其相似的能力。它是一种攀援藤本植物，通过缠绕其他树木向上生长。为了躲避草食动物的啃食，它演化出了一种极为罕见的策略：将自己的叶子长得和宿主树的叶子一模一样。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d07cbd9513f34dfc0ccdb0126649fada_720w.jpg?source=8673f162" alt=""></figure>
-<p>自然界中存在许多拟态大师，如枯叶蝶或兰花螳螂，但它们终其一生只能模仿一种固定的对象。避役藤的恐怖之处在于它的“流动性”。当它爬上叶片圆润的树木时，它的叶子就会变得圆润。当它攀附在叶片细长的灌木上时，它的叶子就会拉长。2014 年，科学家野外调查记录显示，该物种能够模拟超过 20 种不同科属的木本植物，涵盖了从阔叶树到针叶树的广泛形态<sup>[2]</sup>。</p>
-<p>避役藤模仿其他植物叶子的例子。黄色箭头指向避役藤的叶子，它们在 A-G 中模仿其他物种。图片 H 显示了避役藤的叶子在不模仿其他植物时的样子：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d3e62215d8f6921c184c02f84c653448_720w.jpg?source=8673f162" alt=""></figure>
-<p>更令人惊叹的是，如果一根藤条同时跨越了两三棵不同的树，它能在同一根茎上依次长出两三种截然不同的叶子，分别对应每一位宿主的特征 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fec78ec9b9e5d841f7dc92d686d0e83e_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就好比一个人的左手皮肤像树皮，右手皮肤像鱼鳞，完全取决于手放在哪里。这种在个体层面上实时改变物理形态的能力，被称为“拟态多态性”，在植物界是独一无二的。</p>
-<p>这种伪装极其有效。研究表明，成功模仿了宿主的避役藤，其叶片被昆虫或蜗牛啃食的概率显著降低<sup>[3]</sup>。它就像一个隐形的间谍，通过彻底融入背景来确保存活。</p>
-<p>长久以来，科学家试图用传统的“化学嗅探”理论来解释这一现象。主流观点认为，宿主植物会释放挥发性有机化合物（VOCs），避役藤通过“闻”到这些气味信号来调控自身的基因表达 。也有人猜测是细菌充当了搬运工，在植物间进行了基因水平转移。</p>
-<p>然而，2021 年的一项研究让事情变得更加科幻<sup>[4]</sup>，甚至触及了“植物智能”的边界。研究人员雅各布·怀特（Jacob White）和费利佩·山下（Felipe Yamashita）进行了一个大胆的实验：他们让避役藤攀爬完全人造的塑料植物。塑料不会释放植物的化学信号，也没有基因可供窃取。</p>
-<p>下图中，四株避役藤并排摆放在窗前，上面有塑料叶片（红色标注），中间有架子隔开作为对比：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a6a6517608980585c8c1b9d2085fb3f6_720w.jpg?source=8673f162" alt=""></figure>
-<p>结果令人咋舌，藤蔓竟然尝试模仿了塑料叶子的形状和颜色。这项发现直接挑战了化学信号假说，并为两人赢得了 2024 年的搞笑诺贝尔植物学奖。</p>
-<p>下图中，A 是非模仿叶片，B 是模仿叶片，C 是塑料叶片：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9ca601ee39caaf6d55776c425d00687f_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果植物能模仿塑料，唯一的解释似乎指向了一个百年前就被提出、但在现代生物学中一直处于边缘的理论：植物视觉<sup>[5]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7e7caf6e8100635841ece3e26d3908d3_720w.jpg?source=8673f162" alt=""></figure>
-<p>早在 1905 年，植物学家戈特利布·哈伯兰特就提出了“植物单眼”假说，认为表皮细胞的透镜状结构可以聚焦光线，使植物能够感知模糊的形状和阴影<sup>[6]</sup> 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-961633cf0e2a4a06ee99f9336ba64c2b_720w.jpg?source=8673f162" alt=""><figcaption>衣藻的眼点</figcaption></figure>
-<p>虽然主流科学界对“植物能看见形状”这一结论仍持保留态度，并指出实验方法存在争议，但避役藤的存在本身就已经足够震撼。所以，尽管生态功能得到了确认，但这种植物究竟如何感知宿主特征并启动形态改变，至今仍是植物学界的未解之谜。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9271d050c2d04064d9ad2137833e1f5a_720w.jpg?source=8673f162" alt=""></figure>
+<p>首先，猛禽吃鸟，但是猛禽少见。</p>
+<p>其次猛禽也可以是一种处境，其他很多鸟包括你觉得熟悉的鸡，也可以同类相食，甚至生啖其肉。只是很多时候，它们没那个机会罢了。</p>
+<p>所以鸟吃鸟的时候没被你看见，比如猫头鹰，隼、鹰等：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5a431d4070be8363fb487d937b24b5fd_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d8100875ea2d415eac38e89d1d3a30c_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过鸡要是有机会逮到麻雀也会大快朵颐</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ee418da9902eee69b6458701eaf656c6_720w.gif?source=8673f162" alt=""></figure>
+<p>有些人很巧的拍到各种隼趴在窗口上看自己家鹦鹉的样子：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-21dd2a19b192ebf6e38632153267a445_720w.gif?source=8673f162" alt=""></figure>
+<p>还天真的配文：“这只小鸟想跟我家 XX 交朋友。”</p>
+<p>实际是<strong>隼隼</strong>在疑惑：“明厨亮灶为什么不出餐？”</p>
+<p>有个专业的词汇叫做“食鸟性”Avivore，是指专性以鸟为食物的物种。</p>
+<p>这些专门以鸟为食的猛禽，鸟类在其食谱中占比极高。</p>
+<ol>
+<li><strong>游隼</strong><br>世界上飞行速度最快的鸟类，俯冲速度可超过 300 公里 / 小时。它们几乎只在空中捕食其他鸟类，从麻雀到野鸭甚至小型猛禽都是它们的猎物，只偶尔捕食小型哺乳动物。</li>
+</ol>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-111fe69ab0ce5ae371d8911243107da8_720w.jpg?source=8673f162" alt=""></figure>
+<p>其他回答也提到，放飞鹦鹉最大的风险就是被各种隼、鹰叼走。</p>
+<p>有经验的鸟友不会在空旷地带放飞</p>
+<p><strong>2 雀鹰 与 苍鹰</strong></p>
+<p>都属于鹰形目鹰属。这类猛禽是典型的“林地杀手”。雀鹰主要捕食小型鸣禽（如山雀、麻雀）；苍鹰体型更大，能捕食野鸡、野兔和乌鸦。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-96fe81c1c145ed2a9a314b4c7b43945d_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>3 燕隼 </strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7ea5096f3d6b33377593bdf3c0b71897_720w.jpg?source=8673f162" alt=""></figure>
+<p>飞行极快且灵活，擅长在空中抓捕燕子和雨燕这种高机动性的鸟类。</p>
+<p><strong>4 库氏鹰雕 与 纹腹鹰 </strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8cfc88965f453b79add3e9587596d680_720w.jpg?source=8673f162" alt=""></figure>
+<p>分布于美洲，生态位分别对应苍鹰和雀鹰，专门在茂密的树林中追击小型鸟类。</p>
+<p>除了这些鸟食性的猛禽以外，你看见其他隼形目、鹰形目、鸮形目吃鸟都不用惊讶。</p>
+<p>哺乳动物能吃，鸟有什么不能吃的。</p>
+<p>另外，还有些鸟，食性比较广，偶尔也会吃鸟。</p>
+<p>这些鸟是机会捕食者，食谱很杂，包括昆虫、小型哺乳动物、腐肉、鱼类、果实等，但在机会合适时（尤其是针对受伤成鸟、雏鸟或鸟蛋）会毫不犹豫地捕食鸟类。</p>
+<p><strong>1 大型鸥类</strong></p>
+<p>比如楼上提到的大黑背鸥、贼鸥等等。</p>
+<p><strong>大黑背鸥</strong>简直是海鸟中的海盗。它们偶尔捕食海雀、燕鸥，甚至海鹦，还会生吞鸽子或掠夺其他海鸟的雏鸟。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0eadab5fae134ba4aa62dc0234457b18_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>2 鸦科鸟类</strong></p>
+<p><strong>比如乌鸦</strong>、<strong>喜鹊 </strong>、<strong>松鸦</strong>。</p>
+<p>这些都是著名的“偷蛋贼”。它们主要攻击鸟巢，吃鸟蛋和雏鸟，但大型渡鸦也能围攻受伤或生病的成鸟。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ea131155366cdd182709129f1caaa234_720w.jpg?source=8673f162" alt=""></figure>
+<p>一群鸦科甚至敢对战猫头鹰等猛禽：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-325d253d7a24ab2d44f02a1e3ae40694_720w.gif?source=8673f162" alt=""></figure>
+<p>这个之前写过，乌鸦骚扰猫头鹰主要是为了赶走它们，但是如果是比较弱的猫头鹰可能会被直接吃掉：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/1977797611835650911/answer/1978593936525263531">天坛公园来了只雕鸮，被乌鸦、灰喜鹊连番驱赶表情淡定，双方战斗力对比如何？有可能打起来吗？ - 知乎</a></p>
+<p><strong>3 伯劳 </strong></p>
+<p>伯劳是伯劳属鸟类的统称，被称为“屠夫鸟”。虽然是雀形目小鸟，但生性凶猛。它们会捕捉小型鸟类，并将其挂在带刺的树枝或铁丝网上撕扯食用。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-44b8d105a4586ec2368bc890319460aa_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>4 大型涉禽</strong></p>
+<p><strong>比如苍鹭</strong>、<strong>大蓝鹭</strong>、<strong>秃鹳等</strong>。</p>
+<p>通常吃鱼，但如果一只小鸭子或秧鸡游得太近，会被它们一口吞下。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0c87e33213200c066bffbb298846a281_720w.jpg?source=8673f162" alt=""></figure>
+<p>很多人会低估涉禽的战斗力，以为它们真的是闲云野鹤，气淡神闲呢。</p>
+<p>不要说秃鹳这种接近小型盗龙的大鸟了，就是普通的白鹭等常见涉禽，在争夺领地的时候都能表现出极强的攻击性：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-368b6f61541a38dbdab28977f162556e_720w.gif?source=8673f162" alt=""></figure>
+<p>最后被攻击的这只白鹭溺死在水里了。</p>
+<p><strong>5 巨嘴鸟与犀鸟</strong></p>
+<p>人们印象中它们吃果实，但实际上它们是热带雨林中主要的巢穴掠食者，非常喜欢吃其他鸟类的蛋和雏鸟以补充蛋白质。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c3e2253e128d0907229908960ddbfd45_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过一般来说，吃肉还是吃素从鸟类的喙和爪子能管中窥豹：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5f6070c99b4f33e84083c9c164ad604d_720w.jpg?source=8673f162" alt=""></figure>
+<p>总的来说，能捕食其他鸟类的一般具有这些特征。</p>
+<p><strong>特化的喙与特化的爪 ：</strong></p>
+<p>注意上图中猛禽的喙，猛禽（鹰、隼、鸮）的喙前端有锐利的下钩，用于撕开皮肉和拔除羽毛。</p>
+<p>而<strong>隼类</strong>特有齿突的结构配合下喙的凹槽，能像剪刀一样瞬间切断猎物的颈椎，使其立毙。这是为了适应高速空战中快速处决猎物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0d0375ed6252f3b6d9cc24e14c35ae3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3fbad93a6cf50643088b64868fdd4c2b_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>另外，利爪也很重要。</strong></p>
+<p>鹰属的某些鸟类，<strong>中趾</strong>特别长。这是为了在半空中穿过飞鸟厚实的羽毛，直接扣入皮肉抓取猎物。</p>
+<p>比如刚才提到的雀鹰：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7015662b27ad8e7d44dbacb731c938ae_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>对比一下其他鹰形目的爪子：</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b5541d0109517a6160e04fea47d5a50_720w.jpg?source=8673f162" alt=""></figure>
+<p>而且要吃鸟（吃肉）的鸟需要比较强的咬合力或者吞咽能力，比如伯劳，虽然喙不如猛禽巨大，但尖端带钩且咬合力强，能咬碎小型鸟类的头骨。</p>
+<p>鸥和鹭等涉禽，喙大且长，喉部扩张性极好，往往不是用撕咬而是直接吞的方式吃下整只小鸟。</p>
+<p>另外，有机会的情况下，什么动物都有可能会吃鸟。</p>
+<p>比如，螳螂捕杀蜂鸟：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-47f455fe5ed357953007a56f0b54ff0e_720w.gif?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6979618e031dab57d8d418b3cb0aa188_720w.jpg?source=8673f162" alt=""></figure>
+<p>松鼠吃鸟：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-42f9494171921458eef8b0dd5ccc536f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6de05df37ddf56a8a1015ba5a5eda4ab_720w.jpg?source=8673f162" alt=""></figure>
+<p>研究人员早就观察到了松鼠会吃鸟甚至其他松鼠。</p>
+<p>甚至牛羊等草食动物也会吃鸟：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7e9e2ceddc0ba7d85088efca4ffa4a16_720w.gif?source=8673f162" alt=""></figure>
+<p>最关键是鸟类会飞，所以导致很多动物平时没有机会吃到。</p>
+<p>有机会的情况下，鸟类又没毒，为什么不吃？</p>
+<p>以上~</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1972623600809902653">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786915</guid><pubDate>Fri, 23 Jan 2026 18:26:26 GMT</pubDate></item><item><title>动物能不能感受到不公平？比如养两条狗，一只每天给一个鸡腿，另一只给两个鸡腿，少的那个会对主人不满吗？</title><link>http://daily.zhihu.com/story/9786925</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6a9821eed4c1982711f9c7d6dc18c59d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/1964006792280376443/answer/1964726121129026156" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>有个很出名的“公平”实验。</p>
-<p>视频里，左边那只卷尾猴，我们姑且称它为“黄瓜”，它和伙伴“葡萄”并排坐在笼子里。</p>
-<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1964712966311097298" target="_blank"> <img class="content-image" src="https://picx.zhimg.com/v2-ee4968b6a6d57ce047b2c43d965ebb02.jpg?source=382ee89a" alt=""> <span class="content"> <span class="title"><span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1964712966311097298</span> </span> </a></p>
-<p>它们的工作很简单，把一块小石头交给实验人员，换取食物奖励。起初，一切都很和谐，“黄瓜”每次交出石头，得到一片黄瓜，它都愉快地吃掉了 。</p>
-<p>转折点发生在它的伙伴“葡萄”身上。当“葡萄”完成同样的工作后，实验人员递给它的不是黄瓜，而是一颗更甜美的葡萄。“黄瓜”亲眼目睹了这一切。</p>
-<p>下一轮，当它再次交出石头，实验人员依然递给它黄瓜时，它愣住了。它拿起黄瓜，仔细看了看，然后毫不犹豫地将其扔向了实验人员，并开始用力摇晃笼子以示抗议 。</p>
-<p>这是 2003 年，由科学家弗兰斯·德瓦尔 (Frans de Waal) 和莎拉·布洛斯南 (Sarah Brosnan) 设计的实验<sup>[1]</sup>。</p>
-<p>这种对不平等结果的消极反应，在科学上被称为<strong>不公平厌恶</strong>。它指的是当个体察觉到自己与他人在付出相同努力后，所获报酬却不对等时产生的抵制行为。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1b1293dd662681d1fe5b68f7b1bf748d_720w.jpg?source=8673f162" alt=""><figcaption>在公平条件下（ET），猴子的合作度最高，拒绝率接近于零。当伙伴因相同工作获得更好奖励时（IT），其拒绝率显著上升。最关键的发现是在“努力控制”条件下（EC），当伙伴不劳而获地得到优厚奖励时，猴子的拒绝率飙升至最高点，接近 90%。</figcaption></figure>
-<p>最初，人们很自然地将猴子的行为解读为“嫉妒”。但后续的研究让问题变得更加复杂。</p>
-<p>猴子的愤怒，真的是因为伙伴得到了更好的奖励吗？还是因为它自己没能得到期望中的葡萄而感到失望？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca17052ac1d0c3715b2491bcd7ce927d_720w.jpg?source=8673f162" alt=""></figure>
-<p>一项后续研究发现，即使把葡萄放在一个空笼子里，让猴子看得见却得不到，它在换回黄瓜时也会表现出类似的拒绝行为<sup>[2]</sup> 。</p>
-<p>这让一些科学家提出，猴子的反应可能源于一种更简单的机制，即“期望落空”带来的挫败感，而非复杂的社会比较 。</p>
-<p>为了厘清这一点，研究人员设计了更精巧的实验。在针对黑猩猩和猕猴的研究中，奖励有时由人类分配，有时则由一个看不见的机械装置分配。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ea1be0dcacbc28418d7ee0fc048b71be_720w.jpg?source=8673f162" alt=""><figcaption>实验采用了一个精巧的“2x2”设计，旨在系统性地分离出影响黑猩猩行为的两个关键因素：奖励分配者（是人类还是机器）和社交环境（是否有同伴在场）。</figcaption></figure>
-<p>结果发现，当奖励由人类分配时，动物拒绝接受较差奖励的频率要高得多 。这催生了一个名为“社交失望”的假说：动物的抗议并非针对同伴，而是针对那个本可以给予更好奖励却选择不这么做的人类实验员 。它们的行为，更像是在对一个不守信用的“合作伙伴”表达不满。</p>
-<p>其他动物呢？比如题目问到的狗子。</p>
-<p>2009 年有一个实验就是针对狗的<sup>[3]</sup>。狗在被要求“握手”时，如果看到伙伴因此得到奖励而自己没有，它会很快停止合作。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-949f1c987bf77f70166abb6a5321984f_720w.jpg?source=8673f162" alt=""></figure>
-<p>但奇怪的是，它们似乎并不在意奖励的质量。比如，伙伴得到香肠而自己只得到面包，它们并不会有太大反应 。<strong>它们的抗议主要集中在“凭什么它有我没有”。</strong></p>
-<p>为了探究这种公平感是否是人类驯化的结果，2017 年，研究人员对狼群进行了同样的测试<sup>[4]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9dd793d203e4e67db29e94cd5b873957_720w.jpg?source=8673f162" alt=""></figure>
-<p>结果有一点不一样，狼不仅表现出不公平厌恶，而且比家养狗敏感得多。它们不仅会在“无奖励”时罢工，也会在自己得到较差食物时表示抗议 。</p>
-<p>这一发现有力地表明，对公平的敏感性可能源自犬科动物共同的、有合作行为的祖先，而非人类的“教导” 。更有趣的是，地位越高的狼，对这种不平等待遇的反应越强烈，它们似乎将此视为一种轻视 。</p>
-<p>以高智商著称的乌鸦和渡鸦，在代币交换任务中也表现出了同样的行为<sup>[5]</sup>。当它们获得的食物不如伙伴时，会拒绝交换。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ad180b22840287a72ed7284802d254b5_720w.jpg?source=8673f162" alt=""></figure>
-<p>并且，它们对“努力”的公平性极为敏感。如果伙伴什么都没做就白白得到了奖励，而自己却需要辛苦工作才能换取同样的奖励，它们会立刻停止合作 。</p>
-<p>最令人意想不到的或许是啮齿类动物。在一项为大鼠设计的双 T 型迷宫实验中，一只“决策者”大鼠的选择，会同时决定自己和伙伴的食物分配<sup>[6]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-877de811fe2f6828856bb19d8bc56521_720w.jpg?source=8673f162" alt=""></figure>
-<p>实验设置是，无论“决策者”怎么选，它自己得到的奖励都是完全相同的。唯一的区别在于，一个选项会给伙伴带来同等奖励，而另一个选项则会给伙伴带来更多奖励。</p>
-<p>结果，大鼠们系统性地避开了那个让伙伴占便宜的选项，主动选择了公平的结果。它们宁愿不要额外的“人情”，也要维持一种平衡。</p>
-<p>为什么不同动物对不公平这件事都这么敏感？</p>
-<p>对于所有社会性动物而言，合作是生存的关键，但合作也伴随着被欺骗或被“搭便车”的风险 。</p>
-<p>因此，一种能够评估合作关系是否平等的认知机制就显得至关重要。不公平厌恶，本质上可能是一种“合作质量探测器” 。它允许个体比较自己与他人的付出与回报，当天平严重失衡时，及时止损，或者寻找更可靠的合作伙伴 。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fc1a4f6553a5c0df9dd6ee6026ba0024_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，那些需要与非亲属成员进行灵活合作的物种，对公平尤为敏感 。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1964006792280376443">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/350630268">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786925</guid><pubDate>Fri, 23 Jan 2026 18:26:26 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787021</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title">瞎扯 · 天津市民有多搞笑?</h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>Q：<a href="https://www.zhihu.com/question/378849971/answer/1977753490584515305">天津市民有多搞笑? </a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/b775b27ac57d12b70fe68f51994bd949">@八级钳工毛师傅</a> ：前两天给一个家在天津的老大爷做手术，术前谈话签字的时候我说一句，老大爷就接一句，画风大概是：<br>我：您明天的手术时间大概是上午九点……<br>老大爷：嘿，还挺早；<br>我：您这个发病的原理是 blabla ……<br>老大爷：呦，还真是；<br>我：您这个手术的原理是 blabla ……<br>老大爷：呦呵，真奇妙；<br>我：您术后可能会感觉到 XX 这样的不适，但是我们的措施是 blabla ；<br>老大爷：您猜怎么着，我能忍；<br>我：您预计出院的时间是周五或周六……<br>老大爷：您瞅瞅，可真快；<br>我：您出院后复查的时间是 12 月 X 日，我们会给您约好，不必自己挂号；<br>老大爷：还别说，真不错。<br>……<br>签完字，扭头看看，旁边两张床的病人和家属就差把瓜子茶水搬出来了。<br>天津大爷们是不是都有点相声的基因啊……</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/437311484/answer/3541599568">有没有可以笑上一年的笑话？ </a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/1dfc7fa382434d88a984b64a98fd21fa">@勇闯 AI 区</a> :当我爸把第一次自己坐飞机的我提前五个小时送到机场时，终于轮到我用这张图了：</blockquote>
-<p><img class="content-image" src="https://pic-out.zhimg.com/v2-e4edd34287924ba6336e468ba961f9f1~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768545475-0-0-4083a89ccf66d8c972bba56ceff4c339&bizSceneCode=article_draft&expiration=1768545475&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/46788310/answer/1971309979026818243">你见过哪些奇奇怪怪的猫？ </a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/3c5a42941aa29dcd4430207a48848126">@橘叶</a> :这只小猫神似教科书的那一位。</blockquote>
-<p><img class="content-image" src="https://pic-out.zhimg.com/v2-4b601b5b4167be59e84b5ffb59d90940~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768545475-0-0-f4b4892fdc100f3be5fa9e69289f6ffa&bizSceneCode=article_draft&expiration=1768545475&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/620622224/answer/63991302725">如何用 你 值得 被爱 造句？ </a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/b2f4a3c08ecaa27a550c81c70e081fb0">@米卡</a> ：你这幅字画要是没被爱新觉罗弘历盖过章，价值得再翻一番。</blockquote>
-<p><img class="content-image" src="https://pic-out.zhimg.com/v2-f6f7db5aec91523d889c9fb7ffe23472~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1768545475-0-0-c2787f85afe9d29f3a39689dbba485f9&bizSceneCode=article_draft&expiration=1768545475&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/784489052/answer/107296891708"> 可以说一个比较小众的冷知识吗？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/292c0c7468c443bc878c9a64a8ce9198">@爱吃秋鱼</a> ：「换肾」其实是「加肾」<br>第一次知道这个的时候还是很震惊的</blockquote>
-</div>
-</div>
-
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787021</guid><pubDate>Fri, 23 Jan 2026 18:26:27 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787061</guid><pubDate>Sat, 24 Jan 2026 01:16:36 GMT</pubDate></item></channel></rss>
