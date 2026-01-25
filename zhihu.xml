@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 24 Jan 2026 18:23:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么灰尘会团在一起？</title><link>http://daily.zhihu.com/story/9786926</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-357daa1b6b44b86cc0e0cd39f7e41795.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 25 Jan 2026 01:26:17 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>理论上一个行星上最大的陨石坑能达到行星的什么比例？</title><link>http://daily.zhihu.com/story/9786958</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0b69be9d87e1f67da42c6a24bfba7d07.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,68 +19,76 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/43823203/answer/1993490186370318626" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-82831dc7692bfaa59bc6ede35d5db762_l.jpg?source=8673f162">
+<span class="author">snowtree，</span><span class="bio">用科幻的眼睛看世界</span>
+<a href="https://www.zhihu.com/question/1910816297513654154/answer/1986442955855270440" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>你一定在床底下发现过它们：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-29b7a40593ae6863102307eabf22d2a7_720w.jpg?source=8673f162" alt=""></figure>
-<p>它们不是乱七八糟散落的沙砾，而是纠缠在一起、蓬松且略带灰色的团块。在英语里，人们给它起了一个听起来莫名可爱的名字：“Dust Bunny”（尘兔）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-78249ab361546779b1bc293efc512651_720w.jpg?source=8673f162" alt=""></figure>
-<p>名字可爱，成分一点不可爱。它的核心成分是你的皮屑毛发、你的床单纤维、以及数以百万计的螨虫排泄物。在 40 倍放大镜下，可以看到一团乱七八糟的物质，乍一看非常像是一个长了严重头皮屑的马蜂窝<sup>[1]</sup>：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a2396b4e7abd6a47c91e361d5c5467ec_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，这一团毛球怎么絮在一起的？</p>
-<p>首先你得知道，你就是它的主要制造商。</p>
-<p>一个成年人每天大约脱落 0.5 到 1 克皮肤角质细胞 。这些微小的皮屑在气流中飘荡，最终受重力牵引沉降。床铺是你每天停留时间最长的地方，因此床底不仅是睡眠的港湾，也是皮屑的乱葬岗。</p>
-<p>但这还不足以形成团块。如果没有粘合剂，灰尘只会均匀地铺在地板上，像一层薄薄的霜。让它们聚集成团的“胶水”，源自一种看不见的生态系统。1981 年，《自然》杂志发表的一项研究指出<sup>[2]</sup>，屋尘螨的排泄物，那些直径约 20 微米的微小颗粒，被一层富含粘性蛋白的粘液包裹 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4bb382fc14805dbf8711577ab95d3389_720w.jpg?source=8673f162" alt=""></figure>
-<p>当这些具有吸湿性的粪便颗粒落入纤维网中，它们就扮演了水泥的角色，将松散的皮屑、头发和棉絮粘结在一起。核磁共振光谱分析曾对“尘兔”进行过分析，结果显示其光谱特征与烘干机里的线头高度一致，同时混合了大量生物蛋白 。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b2390a0305e8003086ceffab901b6f14_720w.jpg?source=8673f162" alt=""></figure>
-<p>为什么它们偏偏喜欢床底？</p>
-<p>这涉及到室内流体力学中的“停滞点”（Stagnation Point）<sup>[3]</sup>概念 。</p>
-<p>当你在房间里走动，或者空调吹风时，空气在流经地板时会形成边界层。床体作为一个巨大的障碍物<sup>[4]</sup><sup>[5]</sup>，迫使气流分离。在床底深处，空气流动速度急剧下降，形成了一个流速几乎为零的死水区。</p>
-<p>根据流体力学原理，流速降低导致空气携带颗粒的能力丧失，悬浮的灰尘便在此处发生“斯托克斯沉降<sup>[6]</sup>”，像雨点一样落下。</p>
-<p>并且，你睡觉时散发的体热（75-100 瓦特）会加热床垫上方的空气，形成热羽流（Thermal Plume）<sup>[7]</sup> 。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-919fd6b031f2fd85ffd5078495b367db_720w.jpg?source=8673f162" alt=""></figure>
-<p>这股上升的热气流会在床面造成局部低压，从而像吸尘器一样，源源不断地把地面冷空气层中的灰尘抽吸进床底。一旦进入这个停滞区，灰尘就再也出不去了<sup>[8]</sup>。</p>
-<p>如果只是堆积，灰尘也就是一堆散沙。让它们变成毛茸茸团块的，是静电和一种被称为“分形生长”的机制<sup>[9]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e76aa656ff2f7e08b9b92437dddc100_720w.jpg?source=8673f162" alt=""></figure>
-<p>这正是天体物理学家感兴趣的地方。在行星形成的理论中，有一个被称为“弹跳壁垒”（Bouncing Barrier）的难题<sup>[10]</sup>：在原行星盘中，微米级的宇宙尘埃可以互相粘连，但当它们长到毫米级时，彼此碰撞就会像台球一样弹开，无法继续变大 。</p>
-<p>2007 年，IEEE 发表的一篇关于“宇宙尘兔”（Cosmic Dust Bunnies）的研究论文<sup>[11]</sup>，揭示了其中的奥秘 。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e7ab83da07002e4b5021741ec0e2875_720w.jpg?source=8673f162" alt=""></figure>
-<p>科学家在微重力实验中发现，尘埃颗粒在碰撞中会产生摩擦电荷。下图中，当在微小玻璃珠微重力舱中被摇晃和抛掷时，它们会通过强静电荷聚集在一起。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a1441472e6b55a0af3da57bf3c8e5e0b_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种静电力非常强大，足以克服颗粒间的弹跳，将它们强行拉在一起，形成蓬松、多孔的分形结构。</p>
-<p>你床底下的灰尘团，实际上是在重现 46 亿年前太阳系行星诞生的初始过程。下图这张根据哈勃空间望远镜获取的数据制作的图像，揭示了 NGC 1316 的尘埃带和星团……</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-34fce4c9bc5e380ed25f9830e8db5201_720w.jpg?source=8673f162" alt=""></figure>
-<p>头发和长纤维充当了骨架，带正电的皮毛与带负电的合成纤维（如聚酯）相互吸引，像滚雪球一样扫荡沿途的微粒。这种结构极其蓬松，孔隙率极高，像是一个个微型的过滤网，进一步捕获空气中的悬浮物。</p>
-<p>1994 年，科学家 Kindratenko 甚至在研究气溶胶时发现，这些不规则的聚集体在显微镜下呈现出一种复杂的几何形状，他幽默地将其命名为“分形兔子”（Fractal Rabbits）<sup>[12]</sup>，因为它们总是突然出现在数据模型中，就像变魔术一样。</p>
-<p>虽然“尘兔”这个名字听起来人畜无害，但在特定环境下，它是致命的。</p>
-<p>最著名的案例发生在 1987 年 11 月 18 日。英国伦敦国王十字地铁站（King's Cross）的一部木质自动扶梯下发生了火灾，最终导致 31 人死亡<sup>[13]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b485a83574740dcac5793c3cf3562567_720w.jpg?source=8673f162" alt=""></figure>
-<p>随后的调查发现，长期以来，扶梯底部的运行轨道上积累了大量的“油脂、灰尘和纤维绒毛”（Grease, dust and fluff）<sup>[14]</sup>。这些混合物形成了极易燃的燃料层。当一根未熄灭的火柴掉进扶梯缝隙后，并没有直接熄灭，而是引燃了这层“毛毡”。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b0138cca2ffded6deefa3c626f362178_720w.jpg?source=8673f162" alt=""></figure>
-<p>更可怕的是，调查人员发现了一种此前未知的“沟槽效应”（Trench Effect）。火焰并没有向上燃烧，而是紧贴着扶梯的 30 度斜坡，像喷火器一样高速喷射，瞬间吞噬了整个售票大厅。那层不起眼的、由灰尘和纤维组成的“毛团”，是这场灾难最初的助燃剂。</p>
-<p>在精密设备领域，灰尘团同样是噩梦。2014 年，关于美国国家点火装置（NIF）的一份报告中提到，在其巨大的激光放大器内部，甚至也发现了“尘兔凝结物”（dust bunny condensate）。这些微小的污染物会吸收高能闪光灯的能量，瞬间变成微型等离子体，并在昂贵的激光玻璃上炸出比自身面积大 50 倍的弹坑<sup>[15]</sup>。</p>
-<p>回到床底下那坨小毛絮，虽然美国人叫它“尘兔”，但在德国，它被称为“Wollmäuse”（羊毛老鼠）；在法国，它是“moutons”（绵羊）；而在匈牙利，人们管它叫“porcica”，意思是“灰尘小猫” 。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-68426d8808bf79d9a6d967134e616483_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过，如果你不想在床底下养这些“宠物”，物理学不会建议你用扫帚。</p>
-<p>因为扫帚的清扫动作会打破灰尘团脆弱的静电平衡和机械纠缠，让里面的致敏颗粒重新悬浮到空气中。对付它们，你唯一可靠的工具是带有 HEPA 过滤网的吸尘器。</p>
-<p>或者，干脆别趴到床底下去看，毕竟眼不见为净，也是一种生活智慧。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd304d88154605e35fd2804cca97747e_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>行星级的碰撞事件非常常见，而且极端暴力</strong>。这些撞击不止让天体变成到处乱飞的流体，还会改变整个恒星系的轨道分布。</p>
+<p>朱诺号于 2016 年抵近木星，它传回的引力场数据显示木星的内核是碎的。近一步分析是 46 亿年前有一颗比地球大 10 倍的岩质行星撞击了木星的正中间，完全击碎了木星的岩质内核。按照当量来说比忒弥亚大了好几个数量级，是太阳系形成至今的最大撞击。<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//eos.org/articles/massive-collision-cracked-young-jupiters-core" target="_blank" rel="nofollow noreferrer">链接</a></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-684929f920c75c0b983d101f5398979b_720w.jpg?source=8673f162" alt=""><figcaption>这次撞击把木星岩石内核给撞没了，木星内部现在没有成型的岩石核心，重元素残骸弥散在金属氢的海洋之中</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1362838eedfe16a09bd4b0d21c45a2a7_720w.jpg?source=8673f162" alt=""><figcaption>太阳系形成之初的木星大撞击</figcaption></figure>
+<p>天王星的自转倾角高达 98 度，几乎是躺在轨道上转动，这是因为至少有一颗 2 倍于地球的冰石质行星把天王星给撞翻了，并改变了天王星的轨道。从撞击物相对于天王星比例来看，比忒弥亚相对于地球还要大。<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.cbc.ca/news/science/uranus-pushed-over-by-giant-rock-1.4955991" target="_blank" rel="nofollow noreferrer">链接</a></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3ea92db990248ab4288ec3bbe918f274_720w.jpg?source=8673f162" alt=""><figcaption>天王星大撞击的模拟图</figcaption></figure>
+<p>水星的铁核占了它体积的 85%，这意味着曾经有一个水星质量一半以上的行星撞击过它，剥去了它绝大部分岩石地幔并抛撒到太空。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-91d066c85933fb39a9dc7e91741d8fa4_720w.jpg?source=8673f162" alt=""></figure>
+<p>45 亿年前地球被忒弥亚撞击后抛出物形成了月球。值得注意的是，这颗火星大小的天体是以一个非常微妙的角度撞击才能同时形成月球和地球板块，我有在另外一个回答中提到过这个意外对于地球生命起源的关键作用。没有这次撞击，就没有地球生物。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/540221705/answer/34003994385?share_code=LNDInciMwLG4&utm_psn=1986454091002573816">如何看待费米悖论认为的最可怕的事实是宇宙根本没有外星人？</a></p>
+<p>金星的自转方向是反的，这有可能是 45 亿年前一颗火星大的行星把它给撞翻了 180 度，上下颠倒了。这目前只是其中一个假说，有可能撞击规模比较小，只是减慢了金星的转速。<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//earthsky.org/space/volcanism-on-venus-geology-plate-tectonics/" target="_blank" rel="nofollow noreferrer">链接</a></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-44a5344b5ef38c4255c98d6b867293cc_720w.gif?source=8673f162" alt=""><figcaption>有可能是一颗 3000 公里直径天体的高速撞击让金星变成一个炼狱星球</figcaption></figure>
+<p>所以在太阳系内，大撞击就已经多次发生。<strong>这些大撞击剧烈到不可能形成陨石坑，而是完全重新塑造了行星外观。</strong></p>
+<p>陨石坑？穿甲弹打西瓜，瓜都没了还哪来的坑。</p>
+<p>所以这就有个问题：</p>
+<p>这些大撞击那么剧烈，会让行星的轨道变成椭圆，<strong>为什么太阳系行星的公转轨道还那么圆</strong>？</p>
+<hr>
+<p>这是因为三个原因，但最后一个原因最重要：<strong>主要是因为我们人类运气好。</strong></p>
+<p>首先，上面的撞击事件基本都发生在 45 亿年前，也就是太阳系形成之初，当时原行星盘还没有完全消失。大撞击后行星的轨道确实椭圆化了，但它在新轨道上会很快被气体消耗动能，从而把轨道圆化——很显然，圆形的轨道气体已经被清空，行星能够在这个圆轨道上稳定的运行下去。</p>
+<p>但是，这种星际气体对行星轨道的圆化作用只发生在太阳系形成的头几千万年，之后太阳系中的气体消失，就没有这种轨道圆化效应了。</p>
+<p>第二个原因是太靠近恒星的行星，会因为潮汐力的作用把椭圆轨道给圆化。因为潮汐力不断把行星拉长，行星内部物质受到摩擦加热，这部分热能就来源于轨道改变损失的机械能。水星就是因为这个效应轨道圆化了。不过，这个理由解释不了水星之外行星轨道为什么是圆的。</p>
+<p>第三个原因最重要，我们看到太阳系行星的轨道都很圆，是因为我们只能在这种太阳系中生存下来。<strong>这就是一种幸存者偏差。</strong></p>
+<p>排除公转周期过短的行星（小于 10 天），我们太阳系行星的平均偏心率是 0.06（中位数 0.48），目前发现的几千颗系外行星的平均偏心率是 0.28（中位数 0.22），太阳系行星轨道比系外行星圆 4.6 倍。</p>
+<p>考虑到现在发现的系外行星大多数是凌日法发现的，这些行星离恒星较近，前面说过它们会受到潮汐力影响轨道圆化。如果把未发现的较远行星加入统计，那系外行星的轨道椭圆化趋势就更离谱，相比之下太阳系真的就是一个另类。</p>
+<p>而且我们还发现了很多类似彗星的行星，比如 HD80606b 这颗气态巨行星偏心率高达 0.93，远日点 0.88 个天文单位，近日点才 0.03 个天文单位，简直就是一头朝恒星扎下去。<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.nasa.gov/image-article/hd-80606b-light-curve/" target="_blank" rel="nofollow noreferrer">NASA 链接</a><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/HD_80606_b" target="_blank" rel="nofollow noreferrer">喂鸡链接</a></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5fdf387ce00d564f799277a23d9aff27_720w.jpg?source=8673f162" alt=""><figcaption>鬼畜的椭圆轨道</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-82f63b41ebca713f85c8083b5ffa8f5f_720w.jpg?source=8673f162" alt=""><figcaption>光变曲线</figcaption></figure>
+<p>想想看，如果我们地球轨道类似它，会在靠近太阳时升温八百多度，然后在一天后又下降 800 多度……</p>
+<p>这些行星的数量不多，但是我们太阳系有八大行星，只要其中有一颗和它一样走这么扁的轨道，那总会引起多米诺骨牌效应，把太阳系行星平衡搅成一锅粥。</p>
+<hr>
+<p>为什么说我们人类幸运呢？</p>
+<p>我们地球轨道的平均偏心率是 0.0167，这个椭圆轨道导致地球出现几万到几十万年的米兰科维奇气候周期。<strong>如果地球轨道变成像那些系外行星一样椭圆，地球会变成什么样？</strong>（偏心率 0.28）</p>
+<p>那么在近日点时海水会被加热到局部沸腾，远日点时全球海水会被冰冻，由于大部分时期会运行在远日端，所以会是一个长期的冰河期和短暂的酷夏，怕是没有植物能够适应。</p>
+<p>而且地球近日点已经到达金星轨道，远日点到达火星轨道，地球要么撞上金星，要么撞上火星，要么地球先和月球先撞成一坨，再撞上金星火星两者之一，要么由于极致的引力弹弓效应，地球被弹到水星轨道以内或是行星轨道之外，或是干脆被弹出太阳系。<strong>总之就是不会有人活下来了</strong>。</p>
+<p>我们太阳系行星之所以那么圆，就是因为不圆的话就不会有生命诞生，即使生命诞生了也演化不了多久就被灭绝了。</p>
+<hr>
+<p>既然恒星系中的大撞击这么频繁的发生，行星被撞得到处乱飞，而太阳系行星的圆轨道只是个小概率的意外，那么其它恒星与太阳具体有什么不同？</p>
+<p><strong>首先恒星系大概率是多体星系</strong>，多体恒星会长期对行星实施引力扭曲（参考《三体》中的乱纪元）。即使是现在观察到的单恒星系，大概率之前也是位于多体星系之中，后来才被甩出去孤零零一颗星的，我们太阳系是个非常难得的至始至终的单恒星系，从来没有被其它恒星近距离影响过。</p>
+<p><strong>其次是其它恒星系被周围恒星引力干扰过。</strong>太阳系位于银河系荒凉稀疏的外围，银河悬臂这个密度波扫过太阳系时，会压缩周围恒星与太阳的距离，从而扰乱行星的轨道。我们是运气比较好，45 亿年来，太阳系行星至始至终没有被邻近恒星引力影响过。要知道太阳诞生于一个密度不算小的星团中，这真是比中彩票还难。</p>
+<p><strong>再次其它恒星系的原初气体被吸收得比较快</strong>，行星之间的撞击发生得比较晚，就没有了原行星盘对轨道的圆化作用。</p>
+<p>那么为什么太阳系的原行星盘消失得慢呢？因为太阳是少有的 G 型主序星，早期演化比较温柔，不像其它恒星爆发太猛烈，一下就把气体吹跑了。而且太阳系原行星盘气体的粘滞力比较适中，其它恒星气体要么太强要么太弱。</p>
+<p><strong>最后，木星和土星维持了太阳系行星轨道的圆形。这种动力机制是个非常小的概率事件。</strong></p>
+<p>在太阳系形成的最初几百万年，木星就已经形成并向内侧迁移到了火星轨道位置，它清空了这些地方的原行星盘从而阻止太阳系内侧出现更多大天体。要不是这样，地球有可能会被其它忒弥亚多撞好几次。</p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.pnas.org/doi/10.1073/pnas.1503865112" target="_blank" rel="nofollow noreferrer">链接</a></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-81950550e213298bd7ed56469cc2a680_720w.jpg?source=8673f162" alt=""><figcaption>木星的迁移过程</figcaption></figure>
+<p>木星在清空火星轨道之后，土星开始把它往回拉到了现有的轨道上。这个过程中太阳系内侧的水、金、地、火四颗行星也被往外拉，它们四者的轨道在扩大后距离变得疏远，从而更难碰撞。</p>
+<p><strong>自此，土星和木星就让太阳系的内部大撞击事件在很早期就结束了</strong>。不像其他恒星系，原行星盘消失后还长期有大撞击的发生几率。</p>
+<p>之后木星和土星之间形成了 5：2 的轨道周期，既木星公转 5 圈时土星刚好公转 2 圈，这种共振效应让它们维持了彼此的近圆轨道。如果没有这种效应，哪怕木星的离心率只是增加到 0.15，地球和火星都会被甩出太阳系。如果没有土星和木星这两个稳定器，那么其它恒星接近时，太阳系天体会更容易受到引力扰动，银河系悬臂密度波经过时就是人类的末日。</p>
+<p>而这种机制在目前已知的系外行星上还没发现。发现最多的行星还是热木星，也就是大型行星形成后向内迁移的过程没有受到制约，一直抵近到离太阳很近的程度（大多比水星还近太阳）。</p>
+<p>目前我们看到那些偏心率很高的系外行星，除了大撞击改变了它们的轨道外，还有一个很重要的原因，就是那些行星是把之前的行星给甩出了恒星系，自己给留下了。</p>
+<p>所以当我们看到类似弗里德堡陨石坑的时候该感到幸运。我们真是走了狗屎运，才没一头撞到木星或是被甩出太阳系。</p>
+<p>每当我们人生陷入低谷，就想想我们有多幸运。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0258ec94f737be842c13c4929027608b_720w.jpg?source=8673f162" alt=""><figcaption>太阳系已知的最大撞击坑，月球艾特肯盆地</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/43823203">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1910816297513654154">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786926</guid><pubDate>Sat, 24 Jan 2026 18:23:25 GMT</pubDate></item><item><title>如果吃一小勺太阳会如何？</title><link>http://daily.zhihu.com/story/9787033</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-fc4ba2fe4e14a14435c701a81283c286.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786958</guid><pubDate>Sun, 25 Jan 2026 01:26:14 GMT</pubDate></item><item><title>「时间」到底是物质概念还是哲学概念，如果没有「时间」概念，世界会是什么样的状态？</title><link>http://daily.zhihu.com/story/9786964</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-51e7742ef3ae120a8cfca8768beb8202.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -100,171 +108,47 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/52419881/answer/3380704164" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-2af481d1db0ae0c504fb2411e1548f92_l.jpg?source=8673f162">
+<span class="author">赵泠，</span><span class="bio">衣沾不足惜，但使愿无违。</span>
+<a href="https://www.zhihu.com/question/1976092213206348950/answer/1978853957095932055" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>吃太阳最外层，问题还真的不大。吃核心的话，你喷出的高能 X 射线，都能杀死五公里外的人。</strong></p>
-<p>首先请出我们的镇店之宝——知牌如意勺。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-764cb24365e291de058d8794cf08a577_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是太阳结构：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-01bc79a3f52d330b720a9b2da353998d_720w.jpg?source=8673f162" alt=""></figure>
-<p>我们一层层从外吃到内。</p>
-<p><strong><strong>◀ 光球层▶</strong></strong></p>
-<p>先上难度最低的「光球层」作为开胃菜。</p>
-<p>虽然太阳没有绝对的边缘，但通常认为从核心到光球层为它的半径。</p>
-<p>光球层粒子密度为 10^23/m^3。</p>
-<p>假设知牌如意勺的大小是标准汤勺，那么容量为 15ml。</p>
-<p>这一勺的原子总数为：</p>
-<p>1.5×10^18</p>
-<p>也即，约 2.5×10^-4 mol</p>
-<p>如果强大的知牌如意勺，把太阳物质约束在理想状态。</p>
-<p>那么内能为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=U%3D3%2F2nRT" alt=""></p>
+<p>时间不是物质，时间是物质的运动模式体现的非物质事物之一。</p>
+<p>各种哲学谈论的词语“时间”往往和我们真正经验的时间无关。</p>
+<p>爱因斯坦说，<strong>时间是时钟测量的东西 /Time is what a clock measures</strong>。时钟可以是任何正在经历不可逆变化的事物，是一种热力学装置。无论某人对“时间”这个词语有没有概念，某人的生物身体是时钟。</p>
 <ul>
-<li>n 为物质的量（mol），R 为气体常量 8.31451J/(mol·k)，T 为气体的热力学温度。</li>
+<li>人、猫、狗、鼠等动物可以表现出估测特定时长的能力，这些动物的脑包含与此有关的细胞<sup>[1]</sup>。</li>
+<li>而且，计测时间并不总是需要脑。实验显示，大鼠在被<strong>完全移除大脑皮层</strong>后仍然表现出“可以估计约 40 秒的时间间隔”<sup>[2]</sup>。</li>
+<li><strong>绝对准确地计测时间，需要无限的能量，并产生无限的熵</strong><sup>[3]</sup>。</li>
 </ul>
-<p>光球层温度为温度 5777 K，人的正常体温为 310K 左右。</p>
-<p>如果这些太阳物质温度降低到 310K，那么释放出来的能量……</p>
-<p>非常巨大。</p>
-<p>仅仅为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+U%3D3%2F2nR%5Ctriangle+T%3D17+J" alt=""></p>
-<p>你心中：？？？</p>
-<p>才 17 焦耳。</p>
-<p>哪怕这一勺是馒头，那也得有 10 多万焦耳的热量了。</p>
-<p><strong><em>这吃太阳吃了个寂寞吗？</em></strong></p>
-<p>你仔细一想，不禁回味过来。</p>
-<p>这光球层一立方的粒子数量，连小小的阿伏伽德罗常数（6.02214076×10^23）都没有，大约为地球海平面空气密度的 0.37%。</p>
-<p>这一勺子能释放的热能，自然是相当低了。</p>
-<p>嗯，这个开胃菜，看起来的确挺寡淡的样子。</p>
-<p>这些热量大约只能把 1g 水加热 4℃，再加上嘴里还有空气，可以认为，如果知牌如意勺释放太阳物质的时候，没有与你的口腔内部接触，那就基本上没啥危害。</p>
-<p>即便接触，也只会有非常浅层的灼烧。</p>
-<p>辣正好是一种痛觉，我们可以认为，略微有一点点微辣的感觉。</p>
-<p>考虑到原味太阳物质还存在一定的高能射线（比较幸运的是太阳风是日冕产生的，因此光球层没有太阳风），大约是地表的 4.6 万倍，高能射线的穿透辐射，可能会在一定程度上增加你的辣感，让你寡淡口感增添一丝风味。</p>
-<p>太阳表面的味道的确不太过瘾，你决定继续往下。</p>
-<p><strong><strong>◀对流层▶</strong></strong></p>
-<p>对流层为太阳半径 70%到光球层以下的表面范围，密度随着深度的增加而增加。</p>
-<p>对流层物质往上，一直到达光球层；往下一直到达辐射层，不断循环。</p>
-<p>它的密度上限为辐射层，下限接近光球层，温度同样如此。</p>
-<p>密度范围为 0.2 g/m^3~200kg/m^3。</p>
-<p>尝了一次寡淡的太阳，这一次你决定来点挑战，直接吃对流层最底层的物质。</p>
-<p>对流层最底层密度 200kg/m^3，温度 200 万 K。</p>
-<p>15ml 便是 3g。</p>
-<p>在太阳光球层中，氢氦比例为 74.9%和 23.8%，随着深入内部，氦的比重增加，最终在核心达到接近 60%。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ba6e4c9b4c1078992d8715741fc3b559_720w.jpg?source=8673f162" alt=""></figure>
-<p>在对流层底部，氢的比例估计在 70%左右。</p>
-<p>那么这一勺太阳物质，则有 2.1g 氢，0.9g 氦，物质的量大约 2.3mol。</p>
-<p>易得，太阳物质进入你的口腔，你获得的能量为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+U%3D3%2F2nR%5Ctriangle+T%3D5.74%C3%9710%5E7+J" alt=""></p>
-<p>你心中感受到一点欣慰，似乎有点吃太阳的感觉了。</p>
-<p>但你仔细一想，还是有点不对劲啊。</p>
-<p>5.74×10^7 J 如果是电量的话，仅仅相当于 16 度电。</p>
-<p>这么少……</p>
-<p>吃下去会不会也有点不过瘾的呢？</p>
-<p>嗯？</p>
-<p>不过这一口吃下去，你顿时有感觉了。</p>
-<p>这些太阳物质，放在嘴里的刹那，太阳物质单位面积释放出来的热功率（也即，辐射通量密度），遵守斯特藩 - 玻尔兹曼辐射定律：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+j%2A%3D%5Cvarepsilon%5Cdelta%28T_%7B1%7D%5E%7B4%7D-T_%7B2%7D%5E%7B4%7D%29" alt=""></p>
+<p>在量子力学里，时间是量子力学方程中一个平滑变化的参数，用于衡量可观测物体的演化。基本粒子上没有可以通过测量读取的“精确的、固有的时间戳”。时间的方向可以是暧昧的（Rubino, G., Manzano, G. & Brukner, Č. Quantum superposition of thermodynamic evolutions with opposing time’s arrows. Commun Phys 4, 251 (2021). <span class="nolink">https://doi.org/10.1038/s42005-021-00759-1 ）。</span></p>
+<p>在广义相对论里，时间是时空的维度之一，与空间不可分割，时空会受到物质和能量的影响而弯曲。</p>
+<p>试图协调上述二者的理论，例如宇宙学全息原理，试图将四维时空结构解释为由量子信息构成的全息图，时间类似空间。</p>
+<p>霍金 - 哈特尔无边界条件下，宇宙涌现时，时间的举动类似空间。这个宇宙的时间不能追溯到“宇宙出现前”，大爆炸不能有“大爆炸奇点”，因为霍金 - 彭罗斯奇点定理显示<strong>时空无法从一个点里平滑而稳定地展开</strong>。热大爆炸现在描述暴胀结束后宇宙的演化。</p>
+<p>至少在可观测宇宙的范围内，“时间的起源”是宇宙涌现相关的量子事件。</p>
+<p>“时间不存在”的想法自古有之，爱因斯坦也说过“时间是幻觉”——那是为了构建他比较喜欢的永恒存在的宇宙模型。近年来，一些物理模型不含时间，至少不含“有方向性、平滑、不可逆”的时间。不过，<strong>这类模型普遍假设因果关系仍然存在</strong>，你大可<strong>将因果顺序重命名为时间</strong>。拿这些模型来宣称“时间不存在”更多地算是惊吓一般读者的噱头。</p>
+<p>卡洛·罗威利称时间出现在热力学背景下（也就是几十年前时髦过的“热力学时间之箭”思想），是“派生概念”而不是“客观存在”。看起来，他在这里忽略了世界是否真实之类问题。</p>
+<p>人们有时会误以为“普朗克时间”是时间的最小单位，其实并非如此。在普朗克时间内发生的事件是无法通过已知的物理原理进行观测的，但霍金辐射之类假说依赖那些事件。量纲分析建议，对于普朗克时间之内发生的事件，量子力学与引力的效应都有很大的影响，需要完善的量子引力理论。</p>
+<p>如果普朗克时间是时间的最小单位、普朗克长度是空间的最小长度单位，那么量子泡沫的涨落应当让哈勃空间望远镜之类观测到的极遥远的天体呈现模糊不清的状态，与观测事实不符<sup>[4]</sup>。有几种模型能将上述模糊效应压缩 10^15 到 10^30 倍来强行兼容现在的观测事实<sup>[5]</sup>，我认为那并不可靠。</p>
+<p>关于时空连续的观测数据：</p>
 <ul>
-<li>为辐射系数，黑体辐射即为 1。</li>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=%CE%B4" alt=""> 为斯特藩 - 玻尔兹曼常量，取值 5.67×10−8W/m^2·K^4</li>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=T_%7B1%7D" alt=""> 为光源温度 200 万 K。</li>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=T_%7B2%7D" alt=""> 为环境温度 310K。</li>
+<li>2011 年，ESA 的 Integral 天文卫星（国际伽玛射线天体物理实验室）测定了伽马射线暴 GRB 041219A 放出的不同能量伽马射线的偏振程度差异，未找到空间离散的证据。如果空间离散，那么其基本单位的长度不会超过 1e-48 米，这远低于普朗克长度<sup>[6]</sup> <sup>[7]</sup>。</li>
+<li>2020 年，欧洲南方天文台甚大望远镜的 ESPRESSO 光谱仪观测了一团共动距离 180 亿光年以上的气体云，它后面有个明亮的光源。气体云中存在铁原子，能以特定的波长吸收背景光。从地球上的我们看来，如果时空是连续的，那么由气体云导致的吸收线应该和气体云就在我们旁边时一样狭窄。如果时空是离散的，那么在数十亿光年范围内传播的光将会扩散开来，改变吸收线的宽度。结果是，<strong>ESPRESSO 没有发现任何时空离散的迹象</strong><sup>[8]</sup><strong>。</strong></li>
+<li>2022 年 10 月 9 日，我国的高海拔宇宙线观测站（LHAASO，“拉索”）探测到来自伽马暴 GRB 221009A 的约 65000 个能量范围在几百 GeV 到十几 TeV 的高能光子，首次精确测量伽马暴甚高能余辉辐射的全过程。对这些甚高能观测数据的能谱时延进行的分析没有发现任何时空离散的迹象，不同能量的光子抵达地球的时间未表现出时空量子化导致的延迟。doi: 10.1103/PhysRevLett.133.071501</li>
 </ul>
-<p>可得，单位面积释放的辐射功率高达：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+j%2A%3D9.1%5Ctimes+10%5E%7B17%7D+W%2Fm%5E2" alt=""></p>
-<p>也即达到 91 亿亿 W/m^2。</p>
-<p>考虑到人的口腔具有一定的空间大小，半径大约是小球的 4 倍。</p>
-<p>那么，口腔接收到的最低辐射通量密度为 5.67 亿亿 W/m^2。</p>
-<p><strong><em>大家可能对这个数据没有什么概念，举例一些数据作为对比。</em></strong></p>
-<p>夏天正午太阳的辐射通量密度（太阳常数）为 1367W/m^2。</p>
-<p>把你的手伸进典型的橙黄色火焰中（1000K），接收到的辐射通量密度为 5.6 万 W/m^2，比刚才的下限都低了 1 万亿倍。</p>
-<p>一般来说，任何宇宙物质充分接触 6000K 以上的光源，就可以完全被等离子体化。</p>
-<p>那么在地球表面，直接得到的效果就是——</p>
-<p>boom。</p>
-<p>爆炸。</p>
-<p>至于爆炸威力，相当于 14kgTNT。</p>
-<p>威力具体有多大，可以参考这个，这是 1kgTNT 的爆炸威力：</p>
-<p>当然作为一个打算吃到太阳核心的人，你怎么可能在这里倒下。</p>
-<p>看来，你并不是碳基生物，强大的口腔收纳了这些太阳物质。</p>
-<p><strong><em>那这一口会是什么味道呢？</em></strong></p>
-<p>根据维恩位移定律<strong>，</strong>黑体辐射光谱的峰值波长与温度有这样的关系：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda_%7Bmax%7D%3D%5Cfrac%7Bb%7D%7BT%7D" alt=""></p>
-<p>b 为维恩位移常数<strong>，</strong>大小 2.897771955 x 10^-3mK</p>
-<p>求得，这些太阳物质辐射出来的峰值波长为 1.45nm。</p>
-<p>已经进入了 X 射线的范围。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1832a9618903c2f0576f3fb555859200_720w.jpg?source=8673f162" alt=""></figure>
-<p>至于味道，根据峰值光谱来看，大约相当于蓝超巨星的味道。</p>
-<p>在你的口腔里不仅有爆炸感，甚至还有轰击感。</p>
-<p>或许作为强大的非碳基生命的，这在你的嘴里可能相当于喝下了一口碳酸饮料。</p>
-<p>当然，你还是得当心一点，你口里的碳酸饮料，飞射出去一点点飞沫，对于他人来说就是非死即伤。</p>
-<p>因为 X 射线，具有强大的电离能力，能对人体造成致命的辐射伤害。</p>
-<p>1kg 人体组织吸收 1 焦耳辐射剂量为 1Sv（西弗），那么对于 60kg 的人体来说，大约吸收 60 焦耳的辐射能量为 1Sv。</p>
-<p>X 射半致死量为 4.5Sv，全致死量为 8Sv。</p>
-<p>那么，造成致命伤害的 X 射线能量吸收量为 270 J。</p>
-<p>为你这一勺太阳物质总辐射能量 5.74×10^7 J 的 21.25 万分之一。</p>
-<p>在真空中，X 射线（光）随着距离的平方衰减。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ffc382e16e251a3c46216f8159585f35_720w.jpg?source=8673f162" alt=""></figure>
-<p>人体横截面积大约 0.5m^2。</p>
-<p>一个人在足够远正面接受辐射，易得他的半致死照射距离为 92m。</p>
-<p>在这一刹那，围观者可以看到在你在吃进太阳物质的刹那，嘴里发出耀眼的光球。</p>
-<p>考虑到 X 射线在空气中存在一定的吸收率，但并不高，如果在地球上吃下太阳物质，对他人的致死距离会比 92m 略微短一些。</p>
-<p>这一次你终于吃出来了一点点感觉，你决定继续往下。</p>
-<p><strong>◀辐射层▶</strong></p>
-<p>辐射层的温度最高达到 700 万 K，密度最高 20000kg/m^3。</p>
-<p>这下，15ml 太阳物质的质量达到了 300g。</p>
-<p>辐射层中的氢元素依旧会稍多一些，预估 60%，氦 40%，物质的量则为 210mol。</p>
-<p>易得，这一次释放的热量为：1.8×10^10 J，相当于 4.3 吨 TNT。</p>
-<p>辐射通量密度高达：1.36×10^20W/m^2。</p>
-<p>依据维恩定律，峰值波长为 0.4nm。</p>
-<p>同样是 X 射线，但能量更高。</p>
-<p>如果你是在太空中吃这部分物质，嘴角溢出的高能射线，则足足可以在 1600m 之外对他人造成致命伤害。</p>
-<p>这都已经达到巴雷特的有效射程了。</p>
-<p>虽然这一勺太阳物质的能量级别远远达不到原子弹，但爆炸 + 远距离辐射伤害，可等效微型原子弹的威力。</p>
-<p>此时的味道，可能已经有了吃微型核弹的感觉。</p>
-<p>味道比较 boom。</p>
-<p>最后， 你终于把手伸向了太阳的核心区。</p>
-<p><strong>◀核心▶</strong></p>
-<p>太阳核心温度高达 1500 万 K，密度高达 150000kg/m^3。</p>
-<p>15ml 太阳物质的质量达到 2250g。</p>
-<p>我们假设取的是太阳最最最核心的物质，氦比例最终达到了 60%。</p>
-<p>那么，总物质的量为 1237.5mol。</p>
-<p>释放总热量为 2.3×10^11 J，相当于 48 吨 TNT。</p>
-<p>辐射通量密度：2.87×10^22W/m^2。</p>
-<p>峰值波长为 0.2nm。</p>
-<p>虽然同样是 X 射线，但这个峰值波长已经相当短，这意味着光谱中的γ射线比例，已经非常大。</p>
-<p>这一次吃下太阳核心，嘴角溢出的射线，对他人的致死距离则达到了 5800m。</p>
-<p>也就是说，在你吃太阳的过程中，嘴里射出的高能 x 射线、γ射线，可以杀死 5 公里外的人。</p>
-<p>这个范围都可以覆盖一些小县城的城区全境了。</p>
-<p>太阳核心的压强高达 3×10^16pa。</p>
-<p>这个压强相当于特种钢材抗压强度的 3000 万倍。</p>
-<p>在你吃太阳的过程中，不再存在引力维持，这些太阳核心物质膨胀的瞬间就会在你的口腔内产生 3×10^16pa 的压强。</p>
-<p>太阳的口感在你的嘴里也达到了极致的 boom。</p>
-<p>既然太阳核心你都能吃下，还完好无损。</p>
-<p>我不禁在想，你究竟是什么人。</p>
-<p>你作为正常活动的人，不应该住在太阳的内部。</p>
-<p>白矮星表面的压强至少要达到 1400000 个大气压下（10^11pa），碳的电子才能从原子中挤出，从而形成白矮星。</p>
-<p>而白矮星的平均压强高达 10^22Pa。</p>
-<p>这正好包含你所能抗压的 3×10^16pa。</p>
-<p>就是你了！</p>
-<p>白矮星人。</p>
-<p>现在我也终于能理解你为什么要吃恒星了。</p>
-<p>白矮星作为恒星的「死星」，核聚变物质早已经耗尽，你吃太阳其实就是为了补充能量的。</p>
-<p>记得悠着点，省着点吃。</p>
-<p>别把太阳吃完了，不然，我们人类就要真的流浪地球了。</p>
+<p>一些在这种情况下坚持时空离散的假说诉诸“洛伦兹不变性是在低能下涌现的现象，在普朗克能量的水平上才能观察到明显的时空离散”。我认为这已经跟被观测赶出可观测宇宙的各种神仙妖怪类似。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/52419881">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1976092213206348950">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787033</guid><pubDate>Sat, 24 Jan 2026 18:23:26 GMT</pubDate></item><item><title>既然人的体温为 37℃，那为什么在 35℃ 的气温下，人们觉得很热而不是凉快？</title><link>http://daily.zhihu.com/story/9787056</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d64a580b504e652f7249449bbc6acc67.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786964</guid><pubDate>Sun, 25 Jan 2026 01:26:15 GMT</pubDate></item><item><title>为什么只有中国发明了皮蛋?</title><link>http://daily.zhihu.com/story/9786974</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-5b5a645413efd9062b31f72837b7a517.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -284,79 +168,59 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/546132320/answer/2607801141" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-97e92f7ff7354ae4287d8a0734af1133_l.jpg?source=8673f162">
+<span class="author">李明殊，</span><span class="bio">搞过数码硬件，肝过互联网产品，懂点AI，会点摄影</span>
+<a href="https://www.zhihu.com/question/1989391043876107240/answer/1992063819640506202" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>热量从高温传向低温，人体要散热，就必须形成一个温度梯度。</strong></p>
-<p><strong>从舒适环境进入 35℃的环境，人体不仅不会散热，反而会吸热。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d82d3b94f58692f0792536db56b307af_720w.jpg?source=8673f162" alt=""></figure>
-<p>人体正常活动时，仅仅一个细胞内就发生着千万次的生化反应<sup>[1]</sup>，从而源源不断地产生热量。</p>
-<p>这些热量从核心部位不断向外传递，会形成一个逐步降低的温度梯度。</p>
-<p>不仅人体存在温度梯度，人体皮肤要把热量不断释放到空气里，与空气也会存在一个温度梯度。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-54145cb02c9d50b74c1711eee4529ac7_720w.jpg?source=8673f162" alt=""></figure>
-<p>也即：<strong>人体核心温度＞皮肤温度＞空气温度。</strong></p>
-<p>当人体不存在明显机械功时，人体的热平衡满足这样的关系：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=M%3DQ_%7Bb%7D%3DQ_%7Bsk%7D" alt=""></p>
-<ul>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=M" alt=""> 是人体新陈代谢总功率，躺平 70W 左右，看书写字等正常活动 100W 左右。</li>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7Bb%7D" alt=""> 为人体向皮肤的热传导总功率。</li>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7Bsk%7D" alt=""> 是皮肤总散热功率，包括皮肤辐射散热、空气对流散热、皮肤蒸发散热三个部分。</li>
-<li>由于呼吸散热很小，本公式已忽略。</li>
-</ul>
-<p>我们的皮肤之所以要通过感受器感觉热和冷，本质上是通过这样的机制，提醒人避开高温和低温，让人体的散热，保持在一个最适宜的程度<sup>[2]</sup>。</p>
-<p>当人处于最适宜的冷热状态时，皮肤温度大约为 33℃左右。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d8923b89c5bdc20a81780f0c1dcb376_720w.jpg?source=8673f162" alt=""><figcaption>＜13℃和＞50℃以痛觉为主；33~46℃只有温觉；＜25℃只有冷觉；33℃为舒适状态。</figcaption></figure>
-<p>由于皮肤要不断向环境散热，当人处于最适宜状态时，环境温度大约 28℃左右。</p>
-<p>28℃比起 35℃，足足低了约 7℃。</p>
-<p><strong>当人从 28℃的舒适环境走到 35℃的环境内，由于环境温度高于皮肤温度。</strong></p>
-<p><strong>人体不再是对外散热，而是直接从环境吸收热量，导致体表温度升高。</strong></p>
-<p>人体皮肤温度要一直升高到，释放的热量等于人体新陈代谢热量才会停止。</p>
-<p>建立新平衡后，人体皮肤温度达到多少呢？</p>
-<p>不放计算一下：</p>
-<p>皮肤对外释放的总量热量，主要为辐射散热、对流散热，以及蒸发散热，总平衡关系有：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7Bsk%7D%3DQ_%7B%E8%BE%90%E5%B0%84%7D%2BQ_%7B%E6%8D%A2%E7%83%AD%7D%2BQ_%7B%E8%92%B8%E5%8F%91%7D" alt=""></p>
-<blockquote>根据斯特藩 - 玻尔兹曼定律： <img class="content-image" src="https://www.zhihu.com/equation?tex=j%2A%3D%CE%B5%CE%B4%CE%A4%5E4" alt=""> <br><strong>人体辐射散热为： </strong><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7B%E8%BE%90%7D%3DA%5CDelta+j%2A%3DA%CE%B4%EF%BC%88T_%7B1%7D%5E4-T_%7B0%7D%5E4%EF%BC%89" alt=""><br><img class="content-image" src="https://www.zhihu.com/equation?tex=%CE%B5" alt=""> 为辐射系数，取值为 1。<br><img class="content-image" src="https://www.zhihu.com/equation?tex=%CE%B4" alt=""> 为斯特藩 - 玻尔兹曼常量，取值 <img class="content-image" src="https://www.zhihu.com/equation?tex=5.67%C3%9710%5E%7B-8%7D+W%2Fm%5E2%C2%B7K%5E4" alt=""> ， <img class="content-image" src="https://www.zhihu.com/equation?tex=%CE%A4" alt=""> 为热力学温度。<br><br><strong>根据，牛顿冷却定律，皮肤表面空气对流散热为： </strong><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7B%E6%8D%A2%E7%83%AD%7D+%3D+hA%CE%94T" alt=""> <br> <img class="content-image" src="https://www.zhihu.com/equation?tex=h" alt=""> 为自然对流换热系数，有经验公式：<img class="content-image" src="https://www.zhihu.com/equation?tex=h%3D1.48%C3%97%5CDelta+T%5E%7B0.25%7D" alt=""> <sup>[3]</sup><br>人体表面积 <img class="content-image" src="https://www.zhihu.com/equation?tex=A" alt=""> 为 1.5~2m^2，不妨取个中值 1.75m^2<br><br><strong>皮肤蒸发散热： </strong><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7B%E8%92%B8%E5%8F%91%7D%3DSWr" alt=""> <br><img class="content-image" src="https://www.zhihu.com/equation?tex=r" alt=""> 为水的汽化潜热。<br>SW 为皮肤出汗速率，有经验公式<sup>[4]</sup>： <img class="content-image" src="https://www.zhihu.com/equation?tex=SW%3D8.47%5Ctimes10%5E%7B-5%7D%5Ctimes%5Cleft%5B+%EF%BC%880.1%5Ctimes+T_%7Bs%7D%2B%EF%BC%880.9%5Ctimes+T_%7Bc%7D%EF%BC%89-36.6+%5Cright%5D" alt=""></blockquote>
-<p>根据以上三个公式，可计算出环境温度为 35℃、人体热功率 100W 时。</p>
-<p>皮肤表面温度为：</p>
-<p><strong>36.7℃</strong></p>
-<ul>
-<li>此时，辐射散热约 19W。</li>
-<li>对流散热 5W。</li>
-<li>皮肤蒸发散热 76W。</li>
-</ul>
-<p>这个温度，足足比皮肤舒适温度高了 3.7℃。</p>
-<p>低于适宜温度时，人体几乎不怎么发汗，稍高于舒适温度，通常蒸发散热 25%的总热量。</p>
-<p>此时的蒸发散热超过了 75%。</p>
-<p>这还是考虑人体发出的汗液，全部被蒸发的情况。如果湿度过高，皮肤汗液蒸发不及时，皮肤温度可超过 37℃。</p>
-<p>在这样的皮肤温度下，人体核心温度也会大大升高。</p>
-<p><strong>人体的热传导，根据傅里叶定律，有：</strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=M%3DQ_%7Bb%7D%3D%5Clambda+A%5Cfrac%7B%5CDelta+T%7D%7BL%7D" alt=""></p>
-<ul>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda+" alt=""> 为皮肤热导率。人体含水 70%，皮肤热导率约 0.432 W/（m·k）</li>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=A" alt="">为皮肤表面积。</li>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+T" alt=""> 为核心温度与皮肤表面的温差。</li>
-<li><img class="content-image" src="https://www.zhihu.com/equation?tex=L" alt=""> 为皮肤平均导热厚度，非寒冷状态下约为 3cm。</li>
-</ul>
-<p>由于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=Q_%7Bb%7D" alt=""></p>
-<p>与温差成正比，那么皮肤温度升高多少，核心温度就会升高多少。</p>
-<p><strong>核心温度将高达：</strong>40.7℃（37+3.7）</p>
-<p>而轻症中暑体温超过 38­°C，重度中暑可达 41­°C。</p>
-<p>可知<strong>长期</strong>（静息状态＞3h，运动状态＜3h）呆在 35℃环境下，在没有其它降温措施的情况下，至少会出现轻度中暑，部分超重甚至肥胖人群（人体散热更差）甚至可能重度中暑。若通风严重不良，且无其它降温措施，所能待的时间将大大降低，严重可出现热射病。</p>
+<p>这是一道农业地理题。</p>
+<p>把你扔回古代的江南水乡，你也会发明皮蛋。</p>
+<p>你需要解决一个只有在特定地理环境下才会出现的麻烦：鸭蛋实在是太多了，而且太难吃了。</p>
+<p>很多人以为皮蛋是古人为了追求风味特意研发的，这就把因果搞反了。</p>
+<p>皮蛋的本质，是蛋白质的强制防腐，是想方设法把一种腥味重、口感糙、极易变质的劣质蛋白质，强行转化成能长期保存的食物。</p>
+<p>看看环境。</p>
+<p>中国南方种水稻，水稻田里会有害虫，会有螺蛳，会有杂草。</p>
+<p>养鸭子是最高效的除害方式。</p>
+<p>鸭子不跟人抢粮食，它吃田里的虫子和草，还能给稻田排泄施肥，这种稻鸭共生的模式，导致了一个结果：农民手里会有大量的鸭蛋。</p>
+<p>这点跟西方完全不同。</p>
+<p>西方农业文明的核心是小麦和牧草，配套的动物是牛羊，牛羊产奶，所以他们多出来的蛋白质是牛奶。</p>
+<p>为了保存牛奶，他们发明了奶酪。</p>
+<p>中国没有大规模的草场，养不起牛，但水网密布，鸭子成群。</p>
+<p>多出来的蛋白质就是鸭蛋。</p>
+<p>这里可能就有人要问了，为什么西方人不养鸭子呢，大规模鸭蛋应该也有吧，应该也有类似环境吧。</p>
+<p>有，但是不太多比如法国西南角上的加斯科涅，其他地方就是东欧北欧，那里气候偏冷，冬天鸭子受不了。要不就是从荷兰往大西洋一路到大西班牙那种沿海盐沼湿地，也不太适合。</p>
+<p>这时候问题来了。</p>
+<p>鸭蛋和鸡蛋不一样。</p>
+<p>鸡蛋煮熟了很香，鸭蛋煮熟了有一股极其浓烈的腥味，而且质地很粗糙，口感很差。</p>
+<p>在没有冰箱的年代，夏天一到，这些本就难吃的鸭蛋几天就会坏掉。</p>
+<p>扔了可惜，吃又下不去嘴。</p>
+<p>这就逼着人想办法。</p>
+<p>这时候你手边有什么？</p>
+<p>你刚烧完柴火，灶膛里有的是草木灰。</p>
+<p>你做饭用了盐，一部分用来搞咸鸭蛋，但是另一部分呢？</p>
+<p>屋外就是黄泥和石灰，草木灰和石灰混在一起，就是强碱，强碱能杀菌，这解决了防腐的问题。</p>
+<p>强碱环境渗透进蛋壳，把蛋清和蛋黄里的蛋白质分解了，腥味被分解掉了。</p>
+<p>原本粗糙的口感变成了弹性的胶状。，蛋白质分解产生了氨基酸，这带来了像肉一样的鲜味。</p>
+<p>这跟西方人做奶酪的逻辑是一模一样的。</p>
+<p>奶酪是用凝乳酶和细菌去分解牛奶里的蛋白质，把液态的奶变成固态，为了存得久，为了更香。</p>
+<p>皮蛋是用碱性物质去分解鸭蛋里的蛋白质，为了存得久，为了更香。</p>
+<p>西方人有牛奶，所以发明了奶酪。</p>
+<p>中国人有鸭蛋，所以发明了皮蛋。</p>
+<p>这就是为什么只有中国有皮蛋。</p>
+<p>因为只有这片土地上的人，需要在高温高湿的水稻田边，面对着成千上万个腥味扑鼻的鸭蛋发愁。</p>
+<p>所谓的饮食文化，最开始都是穷出来的办法。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/546132320">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1989391043876107240">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787056</guid><pubDate>Sat, 24 Jan 2026 18:23:27 GMT</pubDate></item><item><title>为什么很少看到鸟类吃鸟类？</title><link>http://daily.zhihu.com/story/9787061</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-46539e70a3363503c63f68d2239f9929.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9786974</guid><pubDate>Sun, 25 Jan 2026 01:26:16 GMT</pubDate></item><item><title>为什么内蒙古大草原上以羊肉为主食，有那么好的羊，却很少听说内蒙古的羊汤有什么名气？</title><link>http://daily.zhihu.com/story/9787030</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4bfbd48bdfb549b36a0788e91e1dcb5f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -376,107 +240,34 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
-<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/350630268/answer/1984598957112972890" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-782b18032c84ccf456228b3e0d508c72_l.jpg?source=8673f162">
+<span class="author">穆然，</span><span class="bio">安非他命可待因</span>
+<a href="https://www.zhihu.com/question/1892923522994635566/answer/1987609878416618441" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>首先，猛禽吃鸟，但是猛禽少见。</p>
-<p>其次猛禽也可以是一种处境，其他很多鸟包括你觉得熟悉的鸡，也可以同类相食，甚至生啖其肉。只是很多时候，它们没那个机会罢了。</p>
-<p>所以鸟吃鸟的时候没被你看见，比如猫头鹰，隼、鹰等：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5a431d4070be8363fb487d937b24b5fd_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d8100875ea2d415eac38e89d1d3a30c_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过鸡要是有机会逮到麻雀也会大快朵颐</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ee418da9902eee69b6458701eaf656c6_720w.gif?source=8673f162" alt=""></figure>
-<p>有些人很巧的拍到各种隼趴在窗口上看自己家鹦鹉的样子：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-21dd2a19b192ebf6e38632153267a445_720w.gif?source=8673f162" alt=""></figure>
-<p>还天真的配文：“这只小鸟想跟我家 XX 交朋友。”</p>
-<p>实际是<strong>隼隼</strong>在疑惑：“明厨亮灶为什么不出餐？”</p>
-<p>有个专业的词汇叫做“食鸟性”Avivore，是指专性以鸟为食物的物种。</p>
-<p>这些专门以鸟为食的猛禽，鸟类在其食谱中占比极高。</p>
-<ol>
-<li><strong>游隼</strong><br>世界上飞行速度最快的鸟类，俯冲速度可超过 300 公里 / 小时。它们几乎只在空中捕食其他鸟类，从麻雀到野鸭甚至小型猛禽都是它们的猎物，只偶尔捕食小型哺乳动物。</li>
-</ol>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-111fe69ab0ce5ae371d8911243107da8_720w.jpg?source=8673f162" alt=""></figure>
-<p>其他回答也提到，放飞鹦鹉最大的风险就是被各种隼、鹰叼走。</p>
-<p>有经验的鸟友不会在空旷地带放飞</p>
-<p><strong>2 雀鹰 与 苍鹰</strong></p>
-<p>都属于鹰形目鹰属。这类猛禽是典型的“林地杀手”。雀鹰主要捕食小型鸣禽（如山雀、麻雀）；苍鹰体型更大，能捕食野鸡、野兔和乌鸦。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-96fe81c1c145ed2a9a314b4c7b43945d_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>3 燕隼 </strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7ea5096f3d6b33377593bdf3c0b71897_720w.jpg?source=8673f162" alt=""></figure>
-<p>飞行极快且灵活，擅长在空中抓捕燕子和雨燕这种高机动性的鸟类。</p>
-<p><strong>4 库氏鹰雕 与 纹腹鹰 </strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8cfc88965f453b79add3e9587596d680_720w.jpg?source=8673f162" alt=""></figure>
-<p>分布于美洲，生态位分别对应苍鹰和雀鹰，专门在茂密的树林中追击小型鸟类。</p>
-<p>除了这些鸟食性的猛禽以外，你看见其他隼形目、鹰形目、鸮形目吃鸟都不用惊讶。</p>
-<p>哺乳动物能吃，鸟有什么不能吃的。</p>
-<p>另外，还有些鸟，食性比较广，偶尔也会吃鸟。</p>
-<p>这些鸟是机会捕食者，食谱很杂，包括昆虫、小型哺乳动物、腐肉、鱼类、果实等，但在机会合适时（尤其是针对受伤成鸟、雏鸟或鸟蛋）会毫不犹豫地捕食鸟类。</p>
-<p><strong>1 大型鸥类</strong></p>
-<p>比如楼上提到的大黑背鸥、贼鸥等等。</p>
-<p><strong>大黑背鸥</strong>简直是海鸟中的海盗。它们偶尔捕食海雀、燕鸥，甚至海鹦，还会生吞鸽子或掠夺其他海鸟的雏鸟。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0eadab5fae134ba4aa62dc0234457b18_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>2 鸦科鸟类</strong></p>
-<p><strong>比如乌鸦</strong>、<strong>喜鹊 </strong>、<strong>松鸦</strong>。</p>
-<p>这些都是著名的“偷蛋贼”。它们主要攻击鸟巢，吃鸟蛋和雏鸟，但大型渡鸦也能围攻受伤或生病的成鸟。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ea131155366cdd182709129f1caaa234_720w.jpg?source=8673f162" alt=""></figure>
-<p>一群鸦科甚至敢对战猫头鹰等猛禽：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-325d253d7a24ab2d44f02a1e3ae40694_720w.gif?source=8673f162" alt=""></figure>
-<p>这个之前写过，乌鸦骚扰猫头鹰主要是为了赶走它们，但是如果是比较弱的猫头鹰可能会被直接吃掉：</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1977797611835650911/answer/1978593936525263531">天坛公园来了只雕鸮，被乌鸦、灰喜鹊连番驱赶表情淡定，双方战斗力对比如何？有可能打起来吗？ - 知乎</a></p>
-<p><strong>3 伯劳 </strong></p>
-<p>伯劳是伯劳属鸟类的统称，被称为“屠夫鸟”。虽然是雀形目小鸟，但生性凶猛。它们会捕捉小型鸟类，并将其挂在带刺的树枝或铁丝网上撕扯食用。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-44b8d105a4586ec2368bc890319460aa_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>4 大型涉禽</strong></p>
-<p><strong>比如苍鹭</strong>、<strong>大蓝鹭</strong>、<strong>秃鹳等</strong>。</p>
-<p>通常吃鱼，但如果一只小鸭子或秧鸡游得太近，会被它们一口吞下。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0c87e33213200c066bffbb298846a281_720w.jpg?source=8673f162" alt=""></figure>
-<p>很多人会低估涉禽的战斗力，以为它们真的是闲云野鹤，气淡神闲呢。</p>
-<p>不要说秃鹳这种接近小型盗龙的大鸟了，就是普通的白鹭等常见涉禽，在争夺领地的时候都能表现出极强的攻击性：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-368b6f61541a38dbdab28977f162556e_720w.gif?source=8673f162" alt=""></figure>
-<p>最后被攻击的这只白鹭溺死在水里了。</p>
-<p><strong>5 巨嘴鸟与犀鸟</strong></p>
-<p>人们印象中它们吃果实，但实际上它们是热带雨林中主要的巢穴掠食者，非常喜欢吃其他鸟类的蛋和雏鸟以补充蛋白质。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c3e2253e128d0907229908960ddbfd45_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过一般来说，吃肉还是吃素从鸟类的喙和爪子能管中窥豹：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5f6070c99b4f33e84083c9c164ad604d_720w.jpg?source=8673f162" alt=""></figure>
-<p>总的来说，能捕食其他鸟类的一般具有这些特征。</p>
-<p><strong>特化的喙与特化的爪 ：</strong></p>
-<p>注意上图中猛禽的喙，猛禽（鹰、隼、鸮）的喙前端有锐利的下钩，用于撕开皮肉和拔除羽毛。</p>
-<p>而<strong>隼类</strong>特有齿突的结构配合下喙的凹槽，能像剪刀一样瞬间切断猎物的颈椎，使其立毙。这是为了适应高速空战中快速处决猎物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0d0375ed6252f3b6d9cc24e14c35ae3_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3fbad93a6cf50643088b64868fdd4c2b_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>另外，利爪也很重要。</strong></p>
-<p>鹰属的某些鸟类，<strong>中趾</strong>特别长。这是为了在半空中穿过飞鸟厚实的羽毛，直接扣入皮肉抓取猎物。</p>
-<p>比如刚才提到的雀鹰：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7015662b27ad8e7d44dbacb731c938ae_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>对比一下其他鹰形目的爪子：</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b5541d0109517a6160e04fea47d5a50_720w.jpg?source=8673f162" alt=""></figure>
-<p>而且要吃鸟（吃肉）的鸟需要比较强的咬合力或者吞咽能力，比如伯劳，虽然喙不如猛禽巨大，但尖端带钩且咬合力强，能咬碎小型鸟类的头骨。</p>
-<p>鸥和鹭等涉禽，喙大且长，喉部扩张性极好，往往不是用撕咬而是直接吞的方式吃下整只小鸟。</p>
-<p>另外，有机会的情况下，什么动物都有可能会吃鸟。</p>
-<p>比如，螳螂捕杀蜂鸟：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-47f455fe5ed357953007a56f0b54ff0e_720w.gif?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6979618e031dab57d8d418b3cb0aa188_720w.jpg?source=8673f162" alt=""></figure>
-<p>松鼠吃鸟：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-42f9494171921458eef8b0dd5ccc536f_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6de05df37ddf56a8a1015ba5a5eda4ab_720w.jpg?source=8673f162" alt=""></figure>
-<p>研究人员早就观察到了松鼠会吃鸟甚至其他松鼠。</p>
-<p>甚至牛羊等草食动物也会吃鸟：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7e9e2ceddc0ba7d85088efca4ffa4a16_720w.gif?source=8673f162" alt=""></figure>
-<p>最关键是鸟类会飞，所以导致很多动物平时没有机会吃到。</p>
-<p>有机会的情况下，鸟类又没毒，为什么不吃？</p>
-<p>以上~</p>
+<p>因为我国存在两种不同动物的肉，都被称为羊肉。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-47c9b2ec94db8367ff7acc2254a0966c_720w.jpg?source=8673f162" alt=""></figure>
+<p>我感觉大部分人都能意识到，上面这两只不是一种动物，驴和马都是马属的，而山羊和绵羊连一个属的动物都不是，这基本也意味着，山羊肉和绵羊肉的差别可能比马肉和驴肉还大，事实也是如此。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3924facbcb64b020ff5e1302e04d812_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-09fc8adba1a81911f6da6ccb1eab83e5_720w.jpg?source=8673f162" alt=""></figure>
+<p>上面的是山羊腿，下面的是绵羊腿。</p>
+<p>在绝大部分语言中，包括蒙语和维语这些我国少数民族语言，山羊和绵羊都是两个完全不同的词汇，没有任何共同点。</p>
+<p>绵羊胃细，只能吃草叶，草叶营养丰富，所以绵羊长得快肉鲜肉嫩，相对来说味道轻，讲究的是稍加烹饪，烤羊肉串，涮火锅，这都必须是绵羊肉，手把肉讲究的也是做熟就吃，长时间烹饪不好吃。</p>
+<p>山羊胃糙，草根秸秆什么都能吃，这些粗饲料营养相对差一些，所以山羊长得慢，肉硬肉香，富含胶质，相对来说味道重，讲究的是长时间烹饪，加料炖煮，或者熬成浓汤，都是不错的选择，山羊不适合切片涮肉或者烧烤，肉硬味道膻。</p>
+<p>再说分布范围，受限于两者食性不同，农耕区域几乎养不了绵羊，都是耕地没有草原，只能喂秸秆，因此在农耕区域，山羊占比几乎都超过 80%，河南、四川、安徽、山东、湖北这些都是山羊大省。所以你看这些地方烹饪羊肉，都是讲究长时间烹饪，因为山羊肉味更重，熬成汤性价比非常高，可以让更多的汤带有肉香，浓郁程度是绵羊汤比不了的。</p>
+<p>草原区域虽然能养山羊，但是不爱养，因为山羊啃草根，破坏草原，拿内蒙古来说，呼伦贝尔和锡林郭勒等东部地区，90% 以上都是绵羊，西蒙产羊绒，山羊相对多一些，但是也没有绵羊多。新疆 95% 是绵羊，甘肃和青海也超过 80%，这些地方吃羊，就讲究的是稍加烹饪，不光涮羊肉和烧烤，就连手把肉也是，羊肉切开不渗血，那就是熟了。</p>
+<p>像之前有人问，新疆内蒙天天吃羊肉，不上火吗？上火的是山羊这种动物，人家吃的是绵羊，怎么会上火呢？传统的维族地区，也有专门经营小山羊的饭店，但是对他们来说属于是特色菜，维族人认为山羊肉吃了壮阳，这点和我们的观点一致，但是壮阳的东西肯定不能总吃，总吃肯定上火。</p>
+<p>这也就解释了为啥内蒙羊汤不出名，因为绵羊不适合做汤，绵羊汤不浓郁，你们去内蒙吃手把肉的时候，可以和老板要一碗煮肉汤，都是免费的，你就知道了，和内地浓郁的山羊汤不一样。</p>
+<p>内地很多人说绵羊肉不好吃，但是去了新疆内蒙后又对当地的羊肉非常惊艳，这是什么原因呢？因为他们拿了做山羊肉的方法做绵羊肉，这又不是一种动物，你说烹饪方式用错了，怎么能好吃呢？</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/350630268">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1892923522994635566">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787061</guid><pubDate>Sat, 24 Jan 2026 18:23:28 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787030</guid><pubDate>Sun, 25 Jan 2026 01:26:17 GMT</pubDate></item></channel></rss>
