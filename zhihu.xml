@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Tue, 27 Jan 2026 18:31:43 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>猫科动物的眼睛为什么能在夜间反光？</title><link>http://daily.zhihu.com/story/9787066</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8d00ebc4a90f091e6a35e897a5299a0b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 28 Jan 2026 01:20:10 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>恐龙憋得住屎吗？</title><link>http://daily.zhihu.com/story/9787109</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-25f57375caf5530829abe8e9d19668ab.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,118 +19,232 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/1929562360022041578/answer/1952884080162104212" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
+<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
+<a href="https://www.zhihu.com/question/1934388563895615673/answer/1935066009812829089" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>因为猫科动物的眼睛里，都有一面“镜子”。</p>
-<p><strong>明毯 / 照膜</strong>（tapetum lucidum）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-951fa09a038f2f8212027606cf83aa43_720w.jpg?source=8673f162" alt=""></figure>
-<p>我们知道夜行动物，眼睛普遍能反光。</p>
-<p>所以，它们普遍具有这种叫作明毯的“镜子”。</p>
-<p>狗的祖先灰狼也是夜行动物，所以狗也有明毯。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1a748714def8863ce3632118a9ac22ee_720w.gif?source=8673f162" alt=""></figure>
-<p>猫狗的明毯，是一层细胞反光层。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-20cf0d6fe08849c548c11374b5e1efd3_720w.jpg?source=8673f162" alt=""></figure>
-<p>猫的明毯，比狗的密度更大，反射率更高。</p>
-<p>与没有明毯的人类眼睛相比，猫眼的反射率强了 130 倍。</p>
-<ul>
-<li><em>虽然人眼缺乏明毯，但脉络膜仍然表现出微弱的反射，但主要对红光反射，所以一般具有红眼效果和近红外眼光摄影才能看到。</em></li>
-</ul>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-473a2ee10f65a7f8a8e0e74d8f2ee0f0_720w.jpg?source=8673f162" alt=""></figure>
-<p>幼猫的明毯，通常是蓝色的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a4e6d7be4cac4c3a2148eb13acf6a701_720w.jpg?source=8673f162" alt=""></figure>
-<p>随着年龄的增长，黄色逐渐增多。</p>
-<p>成年猫的颜色从浅橙色到绿色不等。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-cb8ee92743e4cd46173493000352aaa4_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ac33c35e75ccddc8707f0654f1bde93f_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>猫科等夜行动物为什么要进化出明毯来反光？</strong></p>
-<p>之所以夜行动物需要明毯。</p>
-<p>是因为夜里的光线太暗了，为了让视网膜能够接收到足够多的光线。</p>
-<p>因此在视网膜的后面发展出了这样的结构。</p>
-<p>这样光线进入眼睛，到达视网膜之后，还能再反射回来。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-728b3261e75803d0b7efe07f2d84648b_720w.jpg?source=8673f162" alt=""><figcaption>明毯视觉原理</figcaption></figure>
-<p>明毯的半圆形结构，类似于凹面镜，也决定了它不仅仅具有反射光的能力，还具有聚光能力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1d0c0fd5fb198a579ac1c966d45af21b_720w.jpg?source=8673f162" alt=""></figure>
-<p>对于哪些没有与视细胞接触而穿过视网膜的光，聚光反射回来后，自然会增加二次感光的机会，从而使得眼睛在黑暗中能看得更加清楚。</p>
-<p>也正是因为光反射回来了，所以当我们用光源照射这些动物的眼睛时，会发现它们的眼睛在发光。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-08529e1f02bc37d784ae12fbbcdedcf7_720w.jpg?source=8673f162" alt=""><figcaption>狗明毯反射的光，照射在视网膜上</figcaption></figure>
-<p>即便我们手上没有明确的光源，对于明毯反射率足够高的一些动物，我们也可能因为月色、人造环境光源等较弱的光，看到它们的眼睛发光。</p>
-<p>例如，猫。</p>
-<p>仅仅窗户、显示器等较暗光源，就能看到猫明显的眼睛反光。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1f3893ac4d60b8c4bfc807a9f8f4c853_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个过程，不仅增加了视网膜上的光通量，而且还增加了对比度。</p>
-<p>通过明毯，夜行动物获得了优秀的夜晚视觉。</p>
-<p>在一些鱼类的眼睛里也有明毯<sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-89bacc167b01a8e09262311ccf78ec95_720w.jpg?source=8673f162" alt=""></figure>
-<p>可以合理的推测，明毯出现的最早时间可能非常早，有可能有长达 4 亿年的时间。</p>
-<p>有研究认为，明毯结构的演化，是“倒置视网膜<sup>[2]</sup><sup>[3]</sup>”的补偿适应机制<sup>[4]</sup>，因为章鱼等头足类动物的眼睛，全都没有明毯结构。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-16d1386fd04928771c19b8ec48899771_720w.jpg?source=8673f162" alt=""><figcaption>头足类和脊椎动物（人类）视网膜对比，后者视神经反向阻挡光源，存在视觉盲点</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7eb52a030497c6399778db37bc5c7aa6_720w.gif?source=8673f162" alt=""><figcaption>脊椎动物视网膜发展时的翻转倒置</figcaption></figure>
-<p>这样的话，明毯的最早时间，甚至可以追溯到眼睛演化之处，也就是 5 亿年前。</p>
-<ul>
-<li><em>当然，明毯这样的结构很难留下化石，尤其是古老的地质年代。所以，这仅仅是我个人的合理推测。</em></li>
-</ul>
-<p>今天很多动物的眼睛里都有明毯，除了诸多具有夜行性的哺乳动物、鱼类外，还有鳄鱼。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9eff1ef95200dd4dfa6af703a6ac8c4e_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4a2ef67f252edeb4d02159b3e12ea8ae_720w.jpg?source=8673f162" alt=""></figure>
-<p>通过对组织来源和成分的研究，可以发现，不同动物的明毯起源是不同的<sup>[5]</sup>，尤其是鱼类和鳄鱼，主要是鸟嘌呤结晶的反光层，和哺乳动物很不相同。</p>
-<p>在漫长的地质年代中，明毯至少发生了数次以上的独立演化。</p>
-<p>明毯的演化动力，其实很容易解释。</p>
-<p>在深水、密林、夜晚等光暗环境中的生活的动物，通过明毯，获得更优秀的视觉能力，不仅有利于摄食，也更有利于躲避天敌。</p>
-<p>哺乳动物演化出明毯，或许和恐龙直接相关。</p>
-<p>在恐龙鼎盛的侏罗纪和白垩纪王朝，我们的哺乳动物祖先，为了适应夜行，退化成了二色视觉<sup>[6]</sup>。</p>
-<p>不仅它们眼中的视觉变成了黑白色，甚至就连它们的肤色和毛发都显得非常单调。</p>
-<p>长期的夜行性生活，使得哺乳动物祖先演化出更大的眼睛，以及更多的杆状细胞。</p>
-<p>在恐龙灭绝的前后，随着演化压力变得大，各支哺乳动物都不约而同的发展出了明毯<sup>[7]</sup>。</p>
-<p>一类是视网膜型明毯（retinal tapetum），例如，负鼠、果蝠，一些原始灵长类。</p>
-<p>一类发展出了脉络膜纤维型明毯（choroidal tapetum fibrosum），例如牛、羊、鹿、马等偶蹄目动物。</p>
-<p>一类发展出了脉络膜细胞型明毯（choroidal tapetum cellulosum），例如猫科、犬科、鼬科等。</p>
-<p>不同动物，往往拥有不同的明毯颜色。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d6a021b3dfe078d8983fad02c4b10148_720w.jpg?source=8673f162" alt=""></figure>
-<blockquote><em>第 1 列：无明毯型→ 鸟类、白化大鼠、花斑大鼠、红袋鼠、猪、恒河猴、人类。<br>第 2 列：视网膜型明毯→ 鳄鱼、负鼠、果蝠。<br>第 3 列：细胞型明毯 → 小狗、狗（3 例）、猫、美洲虎、豹。<br>第 4 列：纤维型明毯→ 小马、马、羊、山羊、牛、鹿、盘羊。</em></blockquote>
-<p>通常，老虎是绿色的。</p>
-<p>4 个月以下的幼犬呈蓝色，成年呈黄色。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a2a7411c823bd0a75e87c33c658ca97b_720w.jpg?source=8673f162" alt=""></figure>
-<p>牛羊等反刍动物颜色可能比较复杂，金绿蓝白等多种颜色都有可能。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-593526802b0b6c0d9fb4fa7e55aa57b0_720w.jpg?source=8673f162" alt=""></figure>
-<p>驯鹿的颜色更是可以随季节变化。</p>
-<p>虽然明毯可以帮助这些动物，在光线不足的时候获得优势。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2389c309e9513dcb60a06e15fe0cfaa2_720w.jpg?source=8673f162" alt=""><figcaption>人类（上）和猫（下）夜视能力对比</figcaption></figure>
-<p>但同时也付出了一个特殊的代价——视力模糊。</p>
-<p>这是因为明毯会增加光的散色，从而降低视觉质量。</p>
-<p>猫狗的视力清晰程度，都远远逊色于人类。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4a0ab496ce856fa11407c7b60ebb6b86_720w.jpg?source=8673f162" alt=""><figcaption>人类（上）和猫（下）昼视能力对比</figcaption></figure>
-<p><strong>为什么人类没有明毯？</strong></p>
-<p>色彩视觉和视觉的清晰程度，对人类早期灵长类祖先非常重要。</p>
-<p>因此，虽然早期原始灵长类也拥有明毯。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e1e6720a0037c4dfe4ed3fe837604ce5_720w.jpg?source=8673f162" alt=""><figcaption>原猴的明毯</figcaption></figure>
-<p>但在演化过程中，逐渐消失了。</p>
-<p>3000 多万年前，在新世界猴和旧世界猴分化之际，X 染色体上的视蛋白基因发生了变异，重新发展出了三色视觉<sup>[8]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-12b7f27651cc658413a5d55fef7649b0_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fec02fe217a5be9be4caa2f9aee2be48_720w.jpg?source=8673f162" alt=""></figure>
-<p>三色视觉除了方便采集水果外，在繁衍上也起到重要中作用。</p>
-<p>除了人类外，狭鼻下目（猕猴、猿类素材）的灵长类发情时，都有着鲜艳的屁股。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-081b0a843cf7186eb77d81683b855106_720w.jpg?source=8673f162" alt=""></figure>
-<p>三色视觉出现的同一时期，明毯也逐渐消失了。</p>
-<p>一些新世界猴还拥有明毯，而旧世界猴和类人猿全都没有了明毯。</p>
-<p>在后来的演化过程中，三色视觉和更加清晰的视力，也给早期人类的发展，带来巨大的优势。</p>
-<p>甚至从某一种角度来说，明毯的退化，是后来人类获得巨大成功非常关键的一步。</p>
-<p>明毯是猫科动物的夜行利器，但为了白天活动的优势，人类祖先却反而把它抛弃了，失去了优秀的夜间视觉。</p>
-<p>生物演化很多时候就是这样，不能想要又要，鱼和熊掌不可兼得。</p>
+<p>哈哈哈哈哈，绷不住了，这个问题太有画面感了。</p>
+<p>在春暖花开的白垩纪大陆上，不管是几吨的霸王龙还是十几吨的三角龙都控制不住自己的便意互相喷屎尿混合物。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2cfa07d620c77cd7223b1b9e260d7028_720w.jpg?source=8673f162" alt=""></figure>
+<p>一次喷十几斤。</p>
+<p>简直是穿越者噩梦对吧？</p>
+<p><strong>但是好消息是这样的情况可能不太会发生：恐龙多少能存点屎。</strong><strong>坏消息是情况好不到哪里去：因为恐龙不像我们合弓纲这样有公共厕所。</strong><strong>要说明这个问题，我们先从鸟类为什么憋不住说起。</strong></p>
+<p>对于我们女性来说，泌尿、消化和生殖三大系统分为三个口（男性泌尿和生殖共享一个出口）。</p>
+<p>但是鸟不一样，它们下三路是三合一的，泄殖腔负责了所有的泌尿、消化和生殖行为（至于会不会交配的时候喷屎这个事情我们以后再讨论。）</p>
+<p>不但如此，因为飞行实在是太耗能了，所以它们的所有行为都旨在压缩一切成本。</p>
+<p><strong>包括能量成本和时间成本。</strong></p>
+<p>因此，它们的一切必须精简而高效。</p>
+<p>不存废气、不存尿、不存屎也不存蛋。</p>
+<p>呼吸系统超绝，每<strong>一次呼吸都是两次气体交换、肺内几乎没有废气残留（哺乳动物有死腔，有废气）。</strong></p>
+<p><strong>泌尿系统：</strong></p>
+<p><strong>鸟类没有膀胱，不存尿。</strong></p>
+<p>哺乳动物尿液里的代谢废物是尿素，而鸟类的是尿酸。</p>
+<p>尿酸在水中的溶解度极低，可以以白色糊状或半固态的结晶形式沉淀析出并排出。这极大地减少了排泄所需的水分，对于生活在干旱环境或需要长途飞行的鸟类来说至关重要。</p>
+<p><strong>它们还能把尿液逆向蠕动（Retrograde Peristalsis）</strong>“泵”回消化道末端的结肠和盲肠。在这里，肠壁细胞会进一步吸收尿液中剩余的水分和电解质，使最终排出的尿酸变得更加浓稠，从而最大限度地实现了水分回收。</p>
+<p>因此，即便鸟类的排泄物是屎尿混合物，但是总的来说还是糊糊状，对比一下猫，猫尿虽然比起很多哺乳动物来说已经算是浓缩尿了，不过体量仍然可观。</p>
+<p><strong>排便系统：</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-adc48f3b237f3891dd3c64573fe4ced2_720w.jpg?source=8673f162" alt=""></figure>
+<p>鸟类肠道很短，直肠不存便，而且没有哺乳动物这么有控制力的括约肌，所以基本上存不住便便。</p>
+<p>通常是有便便就排了。</p>
+<p>但是话虽这么说，也不是一点便都不能存。</p>
+<p>养过鹦鹉的朋友应该有感触，部分鹦鹉是可以训练定点排便的。</p>
+<p>虽然它们往往吃完饭半小时内就会排便，但是只要配合口令和奖励措施，从小训练也基本能实现定点排便，不会出现边飞边排便的情况：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9dec313b9fdf999682d1c6e787d568d6_720w.jpg?source=8673f162" alt=""><figcaption>仙鹤的腾云驾雾其实是对它们排便的写实</figcaption></figure>
+<p>所以其实鸟类随地大小便的原因跟它们的生活习性也有很大的关系。</p>
+<p>哺乳动物需要在特定地点排便、排尿，往往是出于生存的原因。</p>
+<p>比如大型的动物往往都需要尿液来标记领地，或者用便便来警示领地内的其他动物：</p>
+<p>（<a class="internal" href="https://www.zhihu.com/question/595774135/answer/3069425119">为什么狗上厕所不刨坑，而猫上厕所会刨坑埋掉，这是出于猫狗的什么心理？</a>）</p>
+<p>之前就写过一篇，猫是独居动物，体型比较小，所以会埋屎，隐藏自己的行踪。</p>
+<p>而狗群居，往往会扩散粪便的味道，警示其他动物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9e47df1d08fdebfedbdda4078a757b58_720w.gif?source=8673f162" alt=""></figure>
+<p>像河马这种没有什么天敌的就更没所谓了，不但随地大小便，而且喷得到处都是，跟鸟没啥区别了。</p>
+<p>鸟类正因为领地范围很大，而且会飞，地面上的敌人也很少能通过粪便追踪捕捉到鸟类。</p>
+<p>所以它们能肆无忌惮地在空中随地大小便，随机奖励一个陆地上的幸运儿。</p>
+<p>因此可以看出，鸟类随地大小便是一种为了飞行进化出来的精简体重的策略，而且跟它们的生活习性有关系。</p>
+<p>那么恐龙有这种需求吗？</p>
+<p>不需要飞行的恐龙则完全没有必要把日子过得这么节省。</p>
+<p>出土的恐龙化石里面，除了骨骼、身体、恐龙蛋化石外，还有恐龙粪化石（coprolite）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bfabeda7de9971d46e11747d7a8ffc6d_720w.jpg?source=8673f162" alt=""></figure>
+<p>科学家可以通过恐龙的粪化石了解它们的食性，肠道构造等信息，从另一个侧面也反映了至少相当多的恐龙排便是成型的，跟我们的便便区别也不大。</p>
+<p>国外甚至有专门的恐龙便便博物馆：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-608b9e8d9a0bc40d5f3bae89d7461d60_720w.jpg?source=8673f162" alt=""></figure>
+<p>你可以看见博物馆的招牌上有他们的核心卖点：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ade61e2d688c0f647ee80d62e1ba7d82_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>世界上最大的恐龙粪便化石，嗯，这是有吉尼斯世界记录的。</strong></p>
+<p>并且这坨屎还有名字。</p>
+<p>它叫做：Barnum。它来自霸王龙的肠道，被游客们普遍认为是力量的象征（bushi）</p>
+<p>总而言之，我们可以推测，虽然恐龙可能也只有泄殖腔：目前没找到膀胱、尿道的化石（蜥脚类恐龙可能有类似膀胱的一个盆形区域，但是没有膀胱这个器官），目前唯一确定的是找到了泄殖腔的化石证据：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1a698c629f54f1e3c89ca815e273f05d_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是根据恐龙比较干燥的粪便，和一些恐龙尿冲击形成的尿坑：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7f86197d2770fde5e624755675847949_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-15a955f729b4eb5388858070f55e2b25_720w.jpg?source=8673f162" alt=""></figure>
+<p>推测可能恐龙可能还是具有一定的屎尿分开排放的功能，就像鸵鸟和鳄鱼一样。</p>
+<p>鳄鱼虽然也是泄殖腔，但是有一定的憋屎能力。</p>
+<p>但是问题来了。</p>
+<p>恐龙即便是有一定的憋屎能力。</p>
+<p>它们也不需要定点排放。</p>
+<p><strong>三叠纪的公共厕所：</strong></p>
+<p>刚才提到，鸟类的生活习性决定了它们不需要定点排放屎屁尿。</p>
+<p>因为鸟类粪便里没有信息素。</p>
+<p>而哺乳动物则大不相同。</p>
+<p>首先食肉类哺乳动物粪便和尿液里都有丰富的信息素，狗狗互相嗅闻屁股也可以从肛门腺等处闻到大量信息素，了解对方的是否怀孕等信息。</p>
+<p>尤其是猫科这种独居动物，为了互相能找到彼此，繁殖季节尿液里面有浓厚的信息素，能给隔得非常远的另一半指明方向、</p>
+<p>所以它们排便和排尿的位置都比较讲究。</p>
+<p>草食动物虽然粪便尿液里的社交功能没有这么强烈，但是群居的食草动物往往还是有一个“公共厕所”的位置，这样可以减少疾病传播的风险。</p>
+<p>这不是新进演化出来的高级礼仪。</p>
+<p>而是在恐龙同时代的三叠纪就有的合弓纲祖征。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f9365ea78281e319b1b377f283d5d2b6_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是科学家在阿根廷查尼亚雷斯组（Chañares Formation）中 - 晚三叠世地层中发现的几处大型肯氏兽形二齿兽类（kannemeyeriiform dicynodonts 合弓纲动物）粪化石群，这些粪化石群基于高面积密度、小面积延伸和埋藏学属性，被认定为公共厕所化石遗址 *1。</p>
+<p>虽然目前哺乳动物里的大型草食动物普遍表现出在公共厕所排便的行为，但是远古时期的化石一直非常少。</p>
+<p>这个发现将其最早记录推前了 2.2 亿年前（三叠纪，跟恐龙同期。）</p>
+<p>除了这处遗址外，其他草食动物的公共厕所遗址仅在哺乳动物中有文献记录。</p>
+<p><strong>也就是说，目前还没有发现大型的恐龙集中排便的公共厕所。</strong></p>
+<p>这一点在鸵鸟身上也有所体现。</p>
+<p>鸵鸟是现存唯一尿液和粪便可以分开的鸟类。但是它们除非在圈养环境居住环境受限的情况下才会粪便堆在一起。</p>
+<p>在野生的环境不会固定去厕所拉屎，也是边走边拉的类型。</p>
+<p>所以由此反推的话，恐龙即便尿液和便便分开，也具有一定的憋尿憋屎能力，但是估计也都是走到哪拉到哪儿……毕竟都没有发现它们的公厕……</p>
+<p>（如果以后发现会给它们平反的。）</p>
+<p>而且更为糟糕的是，植食性的恐龙可能会放很多很多的屁！（参考牛羊放屁和嗳气加剧温室效应）</p>
+<p>甚至有研究人员推测这可能是恐龙时代气候一直比较温热的原因……</p>
+<p>总而言之，穿越回恐龙时代的人有福了！有机质管够，气候也很温和，种菜很方便！</p>
+<p>以上</p>
+<p>参考文献：1The oldest known communal latrines provide evidence of gregarism in Triassic megaherbivores</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1929562360022041578">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1934388563895615673">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787066</guid><pubDate>Tue, 27 Jan 2026 18:31:41 GMT</pubDate></item><item><title>走路时间长了大脚趾就不舒服，如果把大脚趾切了，是不是就没这个问题了？</title><link>http://daily.zhihu.com/story/9787076</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7dcea53b43bf3f3beb2beb27cc43f9f1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787109</guid><pubDate>Wed, 28 Jan 2026 01:20:07 GMT</pubDate></item><item><title>为什么奇蹄目和偶蹄目不叫食草目？</title><link>http://daily.zhihu.com/story/9787114</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8db04903eeba68db553412486ba49be9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-b64b13b88f3d3c1daf48d74a05b7159e_l.jpg?source=8673f162">
+<span class="author">犬君拌汪酱，</span><span class="bio">生态狗、小说狗 名为人生的冒险仍在继续</span>
+<a href="https://www.zhihu.com/question/1978497728242798844/answer/1987446666358449053" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>这个问题有点意思，虽然题目下的绝大部分回答都在拿鲸豚类嘲笑题主，但我个人是持不同观点的</p>
+<p>题主的思路并无问题，甚至可以说是很有实事求是的科学思维。不客气地说，将有蹄类定义为“食草目”其实是完全说得通也行得通的</p>
+<p>有蹄类（奇蹄目 + 偶蹄目）之所以是“有蹄类”而不是“食草目”，其本质是<strong>分类学的惯性</strong></p>
+<p>换句话说就是——<strong>最初的大佬决定喊这个玩意为“有蹄类”，于是有蹄类就成了“有蹄类”</strong></p>
+<p>而若是大佬当初把有蹄类命名“食草目”，那么我们现在在这看到的问题就会变成：</p>
+<p>为什么“食草目”不叫有蹄类呢？</p>
+<p>而底下怕是又会有一堆回答拿鲸豚类嘲笑题主，就像是——</p>
+<p><strong>鲸豚类：你才长蹄子！你全家都长蹄子！</strong></p>
+<p>而这种一边拿鲸豚类吃鱼 / 肉论证“食草目”的命名不科学，有蹄类的命名才更合理；一边选择性地忽视鲸豚类不长蹄子的行为…我个人认为实在是太双标了！</p>
+<p>下面让我们先来一起看一张有蹄类的系统演化图吧：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1588afdcb3debc422d624c63e0eb9906_720w.jpg?source=8673f162" alt=""><figcaption>参考文献[2]</figcaption></figure>
+<p>↑有蹄类的系统演化分支图，从上往下的几个框分别是：<strong>鲸豚类</strong>（Cetaceamorpha）、<strong>河马形类</strong>（Hippo）、除鲸豚类与河马之外的<strong>其它偶蹄类</strong>（绿色大框）、<strong>奇蹄目</strong>（Perissodactyla，可怜兮兮的红色小框）和不属于有蹄类的<strong>食肉类</strong>（底部的黑框，这是作为参考用的外群 /outgroup）。分支图里现存的分支用粗线表示，已完全灭绝的分支用细线表示，用来分类的彩色小框则是我自己加的</p>
+<p>根据美国哺乳动物学学会（American Society of Mammalogists）发表的 2024 年最新的哺乳动物多样性数据库（2024 Mammal Diversity Database）统计，现存一共<strong>383 种有蹄类动物</strong>，其中<strong>奇蹄目 3 个科 18 个物种</strong>，<strong>偶蹄目一共 23 个科 365 个物种</strong></p>
+<p>奇蹄目包括马科 9 种，犀科 5 种，以及貘科 4 种；偶蹄目则包括牛科 153 种，鹿科 57 物种，鲸豚类大约 90 种，猪科 18 种，骆驼科 7 种，麝科 7 种，长颈鹿科 5 种，西貒科 3 种，以及叉角羚科（1 种）等一些大多人不熟悉的科</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1b7eee3aa16405ec4342819bf69ebca0_720w.jpg?source=8673f162" alt=""><figcaption>https://www.pinterest.com/pin/350647521002885878/</figcaption></figure>
+<p>↑奇蹄目的所有物种（此处统计的是 17 种）</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-90ec5bfecb7c2b050287b0f18f7181f1_720w.jpg?source=8673f162" alt=""><figcaption>https://www.pinterest.com/pin/490259109419674708/</figcaption></figure>
+<p>↑偶蹄目动物（部分）一览</p>
+<p>接下讲<strong>有蹄类的命名逻辑</strong></p>
+<p>奇蹄目和偶蹄目加起来是有蹄类，有蹄类的命名依据是什么呢？——<strong>长蹄子</strong></p>
+<p>蹄子又是什么呢？——<strong>蹄子（hoof）是有蹄类动物足部的角质部分的称呼</strong></p>
+<p>而根据脚趾的数量，有蹄类中脚趾数量为奇数的被命名为奇蹄目，脚趾数量为偶数的被命名为偶蹄目</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9598b71d7082c2441fb175aaf288c330_720w.jpg?source=8673f162" alt=""><figcaption>https://www.beefmagazine.com/cattle-health/how-to-prevent-foot-rot-in-cattle</figcaption></figure>
+<p>↑牛蹄，牛蹄的脚趾数量为 2，是偶数，所以牛属于偶蹄目</p>
+<p>这个命名是绝对准确的吗？——<strong>当然不是，有蹄类中还存在鲸豚类这一异类，无论是鲸鱼还是海豚，都是不长蹄子的</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ae412ed48cf521ae6ef2b9b6462c2cc_720w.jpg?source=8673f162" alt=""><figcaption>https://nextlevelsailing.com/12-killer-whale-facts/</figcaption></figure>
+<p>↑隶属于有蹄类的虎鲸：哥们你看我长蹄子吗？</p>
+<p>有蹄类的中文命名是来自于英文单词 Ungulate，Ungulate 这一英文单词又是来自于拉丁文“ungŭlātus”，拉丁文“ungŭlātus”的意思是“有爪子或蹄子的”</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d282c27683fefa9ae824068ed0cbf0c4_720w.jpg?source=8673f162" alt=""><figcaption>https://www.online-latin-dictionary.com/latin-english-dictionary.php?parola=ungulatus</figcaption></figure>
+<p>所以有蹄类理所当然就应该被命名为“有蹄类 /Ungulate”吗？</p>
+<p>——不是的，最早的分类学老祖林奈并没有设置“有蹄类”这一单元，林奈老祖把有蹄类分成了几个类群，包括反刍兽（Pecora）和大型兽（Belluae）等</p>
+<p>直到十八世纪中后期，以乔治·居维叶 (Georges Cuvier)为代表的诸多博物学家们才开始使用“Ungulate”这一命名，比如居维叶和托马斯·亨利·赫胥黎就达尔文的进化论打嘴战的时候，就曾发表过如下论述：</p>
+<blockquote>“不难理解，有蹄类动物必然都是草食性的，因为它们并不具备捕获猎物的手段。”<br>"It is readily intelligible that Ungulate animals must all be herbivorous, since they possess no means of seizing a prey."</blockquote>
+<p>——看到了吗，“有蹄类命名之父”居维叶自己就认为“<strong>有蹄类动物必然都是草食性的</strong>”。如果居维叶当初宣传“有蹄类”的时候，灵机一动，决定通过食性命名，那么“有蹄类 /Ungulate”大有可能变成“食草目 /Herbivora”！</p>
+<p>（顺口一提，食草目 /Herbivora 是我现造的词，来源于英文单词草食性 /Herbivorous，命名规则则参考了肉食性 /Carnivorous 和食肉目 /Carnivora）</p>
+<p>将有蹄类命名为“食草目 /Herbivora”其实是符合科学规律，并有现成的参照例子——食肉目 /Carnivora 的</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1588afdcb3debc422d624c63e0eb9906_720w.jpg?source=8673f162" alt=""><figcaption>参考文献[2]</figcaption></figure>
+<p>↑这张有蹄类演化图最底部用于比较的外群就是食肉目 / 食肉类</p>
+<p>于是问题们来了：</p>
+<p><strong>食肉目可以叫食肉目，有蹄类为什么就不能叫食草目？</strong></p>
+<p><strong>有蹄类（食草目）并非都是吃草的，那么食肉目就都是吃肉的吗？</strong></p>
+<p>先回答第二个问题：<strong>食肉目并非都是吃肉的</strong></p>
+<p>再回答第一个问题：<strong>既然食肉目也有不吃肉的，绝大部分物种都吃草的有蹄类完全有理由命名为食草目！</strong></p>
+<p>让我们扫一眼有蹄类的主要动物类群吧：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b1fe46505039a7a3805fab3ea9d8fe85_720w.jpg?source=8673f162" alt=""><figcaption>https://animalfact.com/ungulate/</figcaption></figure>
+<p>骆驼、羊驼、鹿、牛、羊、马、长颈鹿、犀牛、貘…<strong>假如不考虑鲸豚类这一异类，有蹄类几乎所有物种都是植食性的！</strong></p>
+<p>只有猪（猪科 /Suidae）和西貒（西貒科 /Tayassuidae）等少数物种是杂食性的，而即使是猪和西貒，也依旧是以植食性为主的杂食性！</p>
+<p>再考虑到鲸豚类也不长蹄子，鲸下目的偶蹄目 / 有蹄类之名同样得位不正！</p>
+<p><strong>作为对比，食肉目里同样是存在植食性动物的！</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b733dfc89e8176787c975d4982474a9_720w.jpg?source=8673f162" alt=""><figcaption>https://www.pinterest.com/pin/363313894944173237/</figcaption></figure>
+<p>↑食肉目动物一览</p>
+<p>比如说食肉目灵猫科花面狸属的<strong>果子狸</strong>（<em>Paguma larvata</em>），作为食肉目的一员，<strong>果子狸的主食却是水果、树叶和各种小型动物！</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ef0b22f6adb4c416bda9f05f98bea344_720w.jpg?source=8673f162" alt=""><figcaption>https://www.inaturalist.org/taxa/41625-Paguma-larvata</figcaption></figure>
+<p>↑分布于东南亚的果子狸</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-893a65a1de6b4af9db949e68dda8276a_720w.jpg?source=8673f162" alt=""><figcaption>参考文献[10]</figcaption></figure>
+<p>↑果子狸取食血红肉果兰 (Cyrtosia septentrionalis)的果实</p>
+<p>又比如食肉目浣熊科的<strong>浣熊</strong>，这玩意同样是杂食性的，并且很喜欢蔬菜和水果！某种意义上，垃圾桶里有什么，浣熊就吃什么</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e4f558bff058996fcb47274eaaf49a62_720w.jpg?source=8673f162" alt=""><figcaption>https://www.pinterest.com/pin/3166662213378096/</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-437b6bdf7c3a307eadc1dedc0318204a_720w.jpg?source=8673f162" alt=""><figcaption>https://www.pinterest.com/pin/351912465636971/</figcaption></figure>
+<p>↑正在吃水果的浣熊</p>
+<p>既然食肉目里的果子狸和浣熊可以以水果为主食，所以食肉目这一命名真的就无懈可击吗？</p>
+<p>要知道，分类学老祖林奈最早给予食肉目的命名是“Ferae”，翻译为中文的话，就是——<strong>猛兽目</strong>！食肉目 /Carnivora 这一命名是 1821 年前后，通过英国的旅行者和作家托马斯·爱德华·鲍迪奇推广开来，并被广受认可的！</p>
+<p>换句话说，食肉目之所以现在被称为“食肉目”而不是“猛兽目”，单纯是因为分类学老祖林奈在大众流通上输给了旅行作家托马斯，之后大家习惯成自然了…</p>
+<p>总而言之：</p>
+<p>1.不要迷信权威啊！</p>
+<p>2.习惯成自然</p>
+<p>3.探索事物背后隐藏的真实是个好习惯。人云亦云并非就是正确的</p>
+<p>4.“要多想。”</p>
+<p>“想了以后呢？”</p>
+<p>“知友，我只能告诉你那以前要多想。”</p>
+<p>以上！！！</p>
+<p>一不小心又写了好多啊啊啊啊啊啊啊！！！</p>
+<p>©犬君拌汪酱 2024 年度新知答主，知乎认证生物学、动物学、昆虫学优秀答主，快来关注这条人畜无害的生态狗吧！！！</p>
+<p>喜欢这篇回答的话给个点赞分享喜欢关注四连吧谢谢！！！</p>
+<p>参考文献：</p>
+<ol>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.mammaldiversity.org/taxa.html" target="_blank" rel="nofollow noreferrer">2024 Mammal Diversity Database</a></li>
+<li>Relationships of Cetacea (Artiodactyla) among mammals: increased taxon sampling alters interpretations of key fossils and character evolution. M Spaulding, MA O'Leary, J Gatesy. Plos one. 2009.</li>
+<li>Bovids of the world: antelopes, gazelles, cattle, goats, sheep, and relatives. JR Castelló - Bovids of the World. 2016.</li>
+<li>The evolutionary strategy of the Equidae and the origins of rumen and cecal digestion. C Janis Evolution. 1976.</li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.nass.usda.gov/Newsroom/2024/01-31-2024.php" target="_blank" rel="nofollow noreferrer">United States Department of Agriculture National Agricultural Statistics Service</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//horsecouncil.org/economic-impact-study/" target="_blank" rel="nofollow noreferrer">American horse council</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//datapaddock.com/usda-horse-total-1850-2012/" target="_blank" rel="nofollow noreferrer">Data paddock the central source for horse data</a></li>
+<li>USDA APHIS Veterinary Services Center for Epidemiology and Animal Health: Demographics of the U.S. Equine Population, 2015</li>
+<li>Dietary Shifts in Relation to Fruit Availability among Masked Palm Civets (Paguma larvata) in Central China Y Zhou, J Zhang, E Slade, L Zhang… - Journal of …, 2008</li>
+<li>Further evidence for endozoochory in a mycoheterotrophic orchid Cyrtosia septentrionalis: seed dispersal by the masked palm civet Paguma larvata K Suetsugu Plant Biology, 2024</li>
+</ol>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1978497728242798844">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787114</guid><pubDate>Wed, 28 Jan 2026 01:20:08 GMT</pubDate></item><item><title>既然紫色不好染，古人能不能用红线做经线，蓝线做纬线，纺织出紫色的布料？</title><link>http://daily.zhihu.com/story/9787120</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-b5a4f80f2c574e88b4129bcd418c89df.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -152,122 +266,98 @@
 <div class="meta">
 <img class="avatar" src="https://picx.zhimg.com/v2-98f5ff14890d4945a6423ad7adfe7c1d_l.jpg?source=8673f162">
 <span class="author">祥昊，</span><span class="bio">疯狂或者死亡，主要看医生的证明</span>
-<a href="https://www.zhihu.com/question/1987443048699941485/answer/1990721278215206770" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/1918724078870717869/answer/1919185731001226765" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>啊这，不少动物确实是这么干的。</p>
-<p>比如猫和狗，通常后肢的脚趾只有四根，</p>
-<p>猪牛羊等偶蹄类动物也一样，都是退化掉了大脚趾。</p>
-<p>但是，人不行。</p>
-<p><strong>此时一群老甲方看到肯定有话说了：</strong></p>
-<p><strong>别的动物能行都能行你咋不行？</strong>你不干有的是人干!!</p>
-<p>这个，真不行，</p>
-<p>这还得从我们老祖宗说起。</p>
-<p>现存四足动物的爪子，都是来源于五根指 / 趾的模板。</p>
-<blockquote>别问为啥，用就完了。</blockquote>
-<p>动物们根据需求不同进行各种改造强化。</p>
-<p>有强化擅长挖掘的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-20b0bdf3f782e0d4da5ff5e40283575f_720w.jpg?source=8673f162" alt=""><figcaption>针鼹的小爪子</figcaption></figure>
-<p>有强化划水摸鱼的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8b8f59a9fc84a9250bf29062a2ecb683_720w.jpg?source=8673f162" alt=""><figcaption>鸭嘴兽 五根爪子</figcaption></figure>
-<p>有强化熊的力量，擅长抡起来拍人的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-75bcb12443ac9ebd1c1f80f04682a175_720w.jpg?source=8673f162" alt=""><figcaption>熊的爪子其实也蛮原始的</figcaption></figure>
-<p>还有强化抓握抱树的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fa6fcb59edc2b30265c3f71f212a932b_720w.jpg?source=8673f162" alt=""><figcaption>考拉的脚爪，强化抓握</figcaption></figure>
-<p>然而，在动物的进化过程中，总不乏各种卷王。</p>
-<p>不少动物发现，肌腱是个好东西，弹力十足还能蓄力，</p>
-<p>五根脚趾虽然挺全能，但是如果拿着当弹簧蓄力奔跑，不光容易分散蓄力，还更容易受伤。</p>
-<p>反倒是有点鸡肋了，于是就诞生了几大优化流派。</p>
-<p><strong>第一个是完全强化跳跃或者奔跑的节本增笑流。</strong></p>
-<p>我们可以试试用手指爬行，你会发现，如果不用大拇指支撑，</p>
-<p>以中指（第三指）为主，旁边俩指辅助支撑，刚好可以稳定活动。</p>
-<p>于是优化掉第一趾和第五趾的三趾流派诞生，</p>
-<p>比如袋鼠，犀牛，貘就是典型的三根脚趾。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5c0ff47fb675c89be75d4516b931a159_720w.jpg?source=8673f162" alt=""><figcaption>袋鼠的脚趾</figcaption></figure>
-<p>而在这个基础上，进一步开卷的驴，马则有点激进，</p>
-<p>只保留了第 3 趾，第 2，4 趾只剩退化痕迹，彻底在弹簧指的路上一去不复返。</p>
-<p><strong>第二个流派则是以鸟类为代表，</strong></p>
-<p>确切说是鸟类的祖先，在很久很久之前就直接优化掉了第 5 趾，也就是小脚趾。</p>
-<p>强化第 2,3,4 趾，第 1 指对生，用于辅助抓握。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fc84334e26a5cb87b1109706ffc99584_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后不少在这个基础上进行灵活更改。</p>
-<p>比如强化爬树的对趾形鸟爪。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6ada04fbfc6e870c406db92a068b81ce_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>第三个流派，需求是跑步，</strong></p>
-<p>即要速度，又要灵活稳定，还要多少保留点特殊功能，只有抓握用不着。</p>
-<p>所以用于抓握的第 1 趾就被优化掉，优先保留了 2，3，4，5 指。</p>
-<p>猫，狗，河马的脚趾都是这样的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-587d5c7e283fbee89baaea5fc1d5a569_720w.jpg?source=8673f162" alt=""><figcaption>河马的蹄子。四个脚趾，提供更强的支撑。</figcaption></figure>
-<p>在这个基础上，再次对 3,4 趾进行强化，</p>
-<p>4,5 趾慢慢悬空失去部分作用，也能强化奔跑。</p>
-<p>这就是牛羊猪这类偶蹄目动物的脚趾。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4bacc9654d4307c5349837b5f37d3b03_720w.jpg?source=8673f162" alt=""><figcaption>猪的蹄子结构</figcaption></figure>
-<p>而人类所在的灵长目，主要需求是抓握攀爬，所以通用模板是强化的是第 1 趾。</p>
-<p><strong>然而，这个世界最糟心的事莫过于甲方半路改需求，</strong></p>
-<p>人类不知道啥时突然变成双足在地面行走。</p>
-<p>全部推翻重来有点难办，只能在原来的模板上继续修改。</p>
-<p>我们从 366 万年前坦桑尼亚拉托利（Laetoli）古人类足迹和现代人以及黑猩猩足迹对比就能发现，<sup>[1]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2e9fe1a55fa3729a9e21eb62b54baea3_720w.jpg?source=8673f162" alt=""><figcaption>从左到右 人类 古人类 猩猩 脚掌印受力分析</figcaption></figure>
-<p>虽然大家都是依靠大脚趾作为受力点，</p>
-<p>但是古人类和黑猩猩的脚跟和内侧中足印记更深，</p>
-<p>脚趾相对深度更浅，而现代人的的脚趾更多的发挥了作用。</p>
-<p><strong>那到底发挥了什么作用呢？</strong></p>
-<p>我们都知道，脚掌实际是由众多骨头构成的。</p>
-<p>相对于猩猩，人类的大脚趾内敛，失去了抓握的作用，跟骨异常粗壮。</p>
-<p>且形成了明显的足弓结构。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd93634b1c6eddcb1979dcd444314d40_720w.jpg?source=8673f162" alt=""><figcaption>人和黑猩猩的脚掌结构，可以明显看到猩猩足弓结构并不明显，且第一趾对生</figcaption></figure>
-<p>由此，</p>
-<p>人类依靠足弓整出一套非常哇塞的足部绞盘机制（Windlass Mechanism）<sup>[2]</sup></p>
-<p>简单的说，就是依靠脚趾上弦。</p>
-<p>在我们的跟骨（就脚后跟）和前脚掌位置之间有一片宽韧带结缔组织，被称为足底腱膜（Plantar Aponeurosis）。</p>
-<p>当我们脚丫子开始蹬地的时候，脚趾就会自然上翘（背屈），</p>
-<p>在脚趾和脚掌连接处产生背屈力矩。</p>
-<p>这就会使足底腱膜拉紧，拽着脚后跟向着脚前掌牵拉，</p>
-<p>此时足弓上方的关节也被绷紧僵硬，</p>
-<p>整个足部就变成了一个刚性杠杆，</p>
-<p>就像给弓上弦一样，可以高效传递脚踝产生的推进力，走起来更省力。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-eb9c97786f2eb05daa51bbd44693c3d6_720w.jpg?source=8673f162" alt=""><figcaption>足部绞盘机制示意图</figcaption></figure>
-<p>这一套机制不仅仅是省力那么简单。</p>
-<p>不管是人和猩猩，双足行走的时候足跟着地都会产生冲击峰值。</p>
-<p>如果的跑步，足跟先着地产生的冲击峰值则会更大。</p>
-<p>而如果脚掌先着地，依靠足弓这套机制，则通常不会产生冲击。</p>
-<p>堪称天生的减震神器。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c31d5e95ebbbf85f1f76fbd7039d90ad_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就是为啥参军体检需要查扁平足的原因，</p>
-<p>扁平足足弓塌陷，会使长时间站立，跑步变的更困难，更容易疲惫，也更容易受伤。</p>
-<p><strong>那为啥我们脚趾会退化的变短呢？</strong></p>
-<p>这还是跟足弓这套机制有关，</p>
-<p>在蹬地的时候地面反作用力（GRF）会在跖趾关节（就是脚趾和脚掌之间的关节）产生力矩。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-eae3184c89a6587bc118343b7443692c_720w.jpg?source=8673f162" alt=""><figcaption>长脚趾和短脚趾的受力示意图， 长脚趾产生的力矩更大，需要更大的肌肉平衡。</figcaption></figure>
-<p>这就形成了一个关节杠杆。脚趾（R）越长，产生的力矩越大，</p>
-<p>而这个力矩需要长屈趾肌（FDL）产生力来平衡并拽回去。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ebd296b24120d4d968112a3e2bf835a3_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以为了更节省能量，提高行走效率，</p>
-<p>人类的脚趾只能慢慢的变短。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b15ff898eeb47d741201f221dc37ceac_720w.jpg?source=8673f162" alt=""><figcaption>人类脚丫子进化的三个阶段</figcaption></figure>
-<p>我们可以用脚模拟下蹬地阶段，</p>
-<p>你会发现，在蹬地阶段发挥主力作用的就是大脚趾。</p>
-<p>如果大脚趾没了，最直观的感受就是走路会额外费劲。</p>
-<p>而为了弥补蹬力的不足，你的步态也会发生变化，</p>
-<p>需要额外使用第 2,3 脚趾蹬地作为代偿，或者提前抬起足跟来减少脚掌受力。</p>
-<p>而且少了大脚趾支撑，</p>
-<p>单腿支撑期前足易外翻，行走时就需加宽步态增加稳定性。</p>
-<p><strong>直观表现就是走路外八还瘸腿。</strong></p>
-<p>所以，半道改需求是大忌啊，</p>
-<p>这个道理甲方啥时才能明白！！！</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d0843d876dffa630d290c4c85df6a052_720w.jpg?source=8673f162" alt=""></figure>
+<p>有意思的话题，咱先试试能不能整出紫色。</p>
+<p>这里使用红蓝俩色来组成像素点，颜色使用 CMYK 模式。</p>
+<p>我们来看看效果。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bd1aaeafe1ebabb7cad6af9c238666c9_720w.gif?source=8673f162" alt=""></figure>
+<p>别说，还真别说，确实产生了紫色，只是颜色有点脏，</p>
+<p>拿来做衣服有点埋汰。</p>
+<p>这是因为选错了颜色，</p>
+<p>我们都知道，美术里红黄蓝三原色可以混出其他颜色，</p>
+<p><strong>而在光谱里就有点不一样，需要</strong>集齐红蓝绿三原色才能混出来，</p>
+<p>由于这种方式是光相互叠合，所以亮度等于三种颜色的总和，越混合亮度越高。</p>
+<p>这就是加法混合，常用的标准为 RGB 模式。</p>
+<p>我们用的屏幕就是利用这个原理产生颜色的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ea11fb82ed758de8caf7d8e59da4f7d4_720w.jpg?source=8673f162" alt=""><figcaption>放大镜看手机屏幕效果，可以清晰看到三色 led 灯</figcaption></figure>
+<p><strong>而到了印刷里还有点不一样，</strong></p>
+<p>需要青色（C），洋红（M），黄色(Y)才能混出来。</p>
+<p>这是由于印刷制品并不会主动发光，我们想看到物体的颜色，需要先由光线照射在物体上，</p>
+<p>此时物体会先吸收一部分颜色，然后把剩下的颜色反射到眼睛里，我们才能看到。</p>
+<p>所以这三种颜色最后会混成黑色（实际多数是深棕色），这就是减法混合。</p>
+<blockquote>由于在印刷里黑色使用量非常大，依靠三色混黑色比较废油墨不说，颜色还不大纯，所以会额外添加黑色（K）用于调整，这就是 CMYK 模式。</blockquote>
+<p>所以想调出漂亮的亮紫色，我们需要将颜色转成 CMYK 颜色。</p>
+<p>使用 C:40%, M:100%两色混合，我们看下效果。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1a9e2381bcba73738c17abc7114b8458_720w.gif?source=8673f162" alt=""><figcaption>做这玩意太费时间，就简单做了一小块，别介意。</figcaption></figure>
+<p>效果确实不错，这路子应该是没问题的。</p>
+<p><strong>更有意思的是，按照古代织布机的工作原理，想织出这种布可以说非常简单。</strong></p>
+<p>只需要将竖着的经线分成两组，</p>
+<p>单数组提起，双数组落下，然后由横着的纬线穿过，</p>
+<p>之后再次交换单双组经线的位置，就可以轻松织出最基础的平纹组织。</p>
+<p>实际上这就是古代纺织机最基础的原理。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-41dc4921f7bb343aca1a539d4c5f7621_720w.jpg?source=8673f162" alt=""></figure>
+<p>然而，古人却没有使用这个方法混紫色，</p>
+<p>正常来说，300PPI（即每英寸 300 像素数）被视为人在 30cm 肉眼观测的临界值，</p>
+<p>一般现代高端床品的丝绸会用 60-80 支 300-400 根，完全够用。</p>
+<p>只是现代染色技术发达，压根用不着这种方式来混紫色。</p>
+<p>而在古代，能穿绫罗绸缎的都是名门望族，穿丝绸本身也是身份的象征。</p>
+<p>这种方式混出来的仔细看颜色会有点奇怪，不如直接染的效果好。</p>
+<p>也可能是压根就没发现，暂时没有找到相关资料。</p>
+<blockquote>像染紫色的紫草色素易溶于油和酒精，不易溶于水，<br>传统古法愣是一直使用水煮揉搓来提取，染完还不做固色。<br>要不说古代紫色难整呢。</blockquote>
+<hr>
+<p><strong>倒是老祖宗把织布给玩出花的东西真不少。</strong></p>
+<p>就拿前面的平纹组织来说，线是一根压一根，看起来很简单对吧？</p>
+<p>我们稍微改一改，变成一根压两根，或者一根压三根循环往复，</p>
+<p>这样面料就会看到明显的斜纹，就变成了斜纹组织。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-aa6d7554dcb5ad2cb983e054bc87cdde_720w.jpg?source=8673f162" alt=""></figure>
+<p>而如果每间隔最少四根的纱线才发生一次经纱与纬纱的交错，</p>
+<p>且这些交织点为单独的、互不连续的、均匀分布在一个组织循环内，这就是缎纹组织。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8f4bc952c22ce37979dd41affe41501e_720w.jpg?source=8673f162" alt=""><figcaption>为啥感觉缎纹有点像草席的织法</figcaption></figure>
+<p>以上三种是纺织行业最最最基础的三元组织，不难理解对吧。</p>
+<p>好了，下面是应用环节。</p>
+<p>这是平纹组织改</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0222d1199c2daa6b4089028848f64866_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是平纹组织组合改</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0d14f9a42c2c4e242263563db2e2b809_720w.jpg?source=8673f162" alt=""><figcaption>变化方平组织</figcaption></figure>
+<p>这是平纹改改改</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b970c7128bdfcc1e94e013e5640dde36_720w.jpg?source=8673f162" alt=""><figcaption>鲁锦，井字纹 没错，纺织的</figcaption></figure>
+<p>这是斜纹组织改</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d60b50f0b14c1d65bfaff7bcf7620547_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是斜纹组合改</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-28cbae058cb07a49ab050eb09b0d4f46_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是斜纹改改改</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f1602dd5a6f6c6952ae3c0945ca27bfe_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是缎纹组织</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f30238f0ee1d32842fe4103d62a0b5f6_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是缎纹改</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-46f4079a133eb798d29c50c63ffa56f6_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是缎纹改改改</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-97f3d902224515570b0f6972faa64985_720w.jpg?source=8673f162" alt=""><figcaption>重缎纹</figcaption></figure>
+<p>这是缎纹改改改改</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7cb56b34ca1e3ff83500ea3eaf133cda_720w.jpg?source=8673f162" alt=""></figure>
+<p>是不是感觉脑瓜子嗡嗡的。</p>
+<p>实际上，在服装专业新生苦逼的学最基础的三元组织时，</p>
+<p>早在几千年前先人们已经玩上更复杂的提花技术了。</p>
+<p>比如我们都知道新疆和田出土的五星出东方利中国是国宝，</p>
+<p>为啥珍贵呢？不仅仅是因为这玩意是东汉的。</p>
+<p>还因为这是用五种不同颜色丝线通过非常复杂的经线分区显花工艺织出来的，</p>
+<p><strong>包括顶上的字符也是织出来的图案，不是后天绣的。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3374aabee86377ef85c4d99c2c50de9c_720w.jpg?source=8673f162" alt=""></figure>
+<p>感情我们才是最菜的。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1987443048699941485">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1918724078870717869">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787076</guid><pubDate>Tue, 27 Jan 2026 18:31:42 GMT</pubDate></item><item><title>古代皇帝吃的御膳放到当今来是什么样的水平？</title><link>http://daily.zhihu.com/story/9787083</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7c9dbb0ac67a32ebd461f5df92a81b75.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787120</guid><pubDate>Wed, 28 Jan 2026 01:20:09 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787231</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aa0f225d4932354c05172f6ab8c7d192.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -282,57 +372,7 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-e9f8958e744db5e371a404affb325115_l.jpg?source=8673f162">
-<span class="author">古斯塔夫，</span><span class="bio">《制胜的科学：拿破仑战争中的俄军战术》、《库图佐夫传》译者</span>
-<a href="https://www.zhihu.com/question/26629165/answer/1984956947603137424" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>如果你能做到一整晚每隔半个小时点一只烤鸡，但只吃最后那一只，那就很接近拿破仑皇帝高强度脑力劳动时的工作餐了。</p>
-<p>如果还能做到独自一人用餐时速战速决，十分钟就完事儿，而且经常直接用手抓，不大使刀叉，餐巾也不怎么用，衣服则沾上食物残渣，那就很接近拿破仑的吃相了。<sup>[1]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-682df0be23bdac462bffa49f102527b5_720w.jpg?source=8673f162" alt=""></figure>
-<p>拉斯卡斯写道：</p>
-<blockquote>这张餐桌的开销高达一百万法郎，然而，皇帝本人的日常膳食费，在这笔总开销里仅占每日一百法郎……[拿破仑]一旦开始工作，就不知道什么时候才能结束。所以，到了用餐时间，每半个小时就得用烤叉给他烤一只鸡，曾有人见过，在最终把那只鸡端上桌之前，厨师已经整整烤了几十只（douzaines）。<sup>[2]</sup></blockquote>
-<p>这里不妨做个简单计算，假设某个晚上烤了 20 只鸡，以半小时烤一只鸡的速度，拿破仑得连续开夜车 10 个钟头，这样的作息对普通打工人来说绝对可谓折寿，对拿破仑这种精力充沛的军政领袖而言倒是常态。</p>
-<p>总而言之，定时烤鸡，却烤的很多、吃的很少的现象必然频频发生。</p>
-<p>当然，帝国的国宴场合还是相当隆重奢华的，以 1809 年 1 月 26 日在杜伊勒里宫宴请莱茵邦联各国使节为例，为 16 位赴宴人员准备的菜单如下：</p>
-<blockquote><strong>三式浓汤与两道头盘</strong><br>黄油时蔬浓汤<br>松露浓汤<br>细面条奶油汤<br>鳟鱼柳浇香槟<br>奶油脆皮烤鳎鱼和海螯虾<br><strong>三道烤肉主菜</strong><br>布雷斯产填馅肥肝阉鸡配松露<br>滨海牧场产羊腿配时蔬<br>山鹑肉配松露浇干邑<br><strong>五道间菜</strong><br>西蒙娜风味洋蓟布丁<br>嫩芦笋煎蛋卷<br>河虾酱汁配小薄片面包<br>奶油鸡蛋卷煎蘑菇夹心馅饼<br>鲜肥肝配无花果<br><strong>奶酪</strong><br>布里奶酪<br>卡门贝尔奶酪<br>利瓦罗奶酪<br>帕尔马奶酪<br>普罗旺斯山羊奶酪<br><strong>甜点</strong><br>香草风味冰镇煎蛋卷<br>奶油雪绒蛋羹<br>开心果巧克力奶油<br>蛋白霜梨挞<br><strong>酒水</strong><br>除全程供应的香槟外，另备以下佳酿：<br>伏旧园（Clos-Vougeot，克洛 - 武若）葡萄酒<br>香贝丹（Chambertin，尚贝尔坦）葡萄酒<br>波尔多葡萄酒<br>托卡伊（Tokay，现在一般写作 Tokaj，托考伊）葡萄酒<br>马拉加葡萄酒<br>吕内勒（Lunel）麝香葡萄酒<br>里韦萨尔特（Rivesaltes）葡萄酒<br>橘子利口酒<br>沃莱马鞭草利口酒<sup>[3]</sup></blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d8545497033d26902151767005d8885b_720w.jpg?source=8673f162" alt=""></figure>
-<p>这当中值得一提的是哈布斯堡王朝治下生产的托卡伊葡萄酒，1810 年法奥联姻后，这款匈牙利酒在餐桌上出现得越发频繁。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c4c40f260bca4fe1fe144fa820e37c42_720w.jpg?source=8673f162" alt=""></figure>
-<p>总的来说，第一帝国皇帝的国宴御膳放在现在固然昂贵奢华，但也不至于完全遥不可及。</p>
-<p>工作餐和吃相学起来就很方便了。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/26629165">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787083</guid><pubDate>Tue, 27 Jan 2026 18:31:43 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787230</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aa0f225d4932354c05172f6ab8c7d192.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title">瞎扯 · 如何评价猫这种动物？</h2>
+<h2 class="question-title">瞎扯 · 你做过最羞愧的事情是什么？</h2>
 
 <div class="answer">
 
@@ -343,32 +383,41 @@
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/418021726/answer/1966496284283208217" target="_blank">如何评价猫这种动物？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/24994059/answer/1971230014256186905" target="_blank">你做过最羞愧的事情是什么？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/376cf4c76c6586afba241d7645598dd7" target="_blank">@上单祢衡</a> ：猫属<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=%E5%AF%85%E6%9C%A8&zhida_source=entity" target="_blank">寅木</a>，开郁散瘀。</div>
-狗属<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=%E6%88%8C%E5%9C%9F&zhida_source=entity" target="_blank">戌土</a>，温阳驱恶。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8483c9a4e8d27d04ef456ef6c20b7cdd" target="_blank">@昂甲坦哥</a>：坟头长了一根巨大鸡纵。</div>
+自己没敢吃，拿去巿场卖，一个星期零花钱有了</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/268660866/answer/1971622208473366819" target="_blank">你见过的最神奇的朋友圈是什么？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/b4cb0168fd58510b501db56bff860857" target="_blank">@笔已沧桑</a>：看江苏的足球比赛，主打一个阵营灵活多变</div>
+</blockquote>
 <figure>
-<div><img class="content-image" src="https://pic3.zhimg.com/v2-46e293ccdea61ac7d08ab1e4fa5f591e_1440w.jpg" alt=""></div>
+<div><img class="content-image" src="https://pica.zhimg.com/v2-1860c1cfae68e3fdc9ffee7490177500_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/572065489/answer/3346812581" target="_blank">被公司卸磨杀驴能把代码删除吗？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ddaa0d6eaa468beef68a5e8367a44081" target="_blank">@痛苦轴心</a>：卧槽，你们都要埋雷给公司造成损失吗？</div>
-我当年正常写就行。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/26485884/answer/1892864440187209424" target="_blank">你知道的有哪些有趣或奇葩的名字？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/6d20b23aa8d29eec360350afabf42d0d" target="_blank">@夹心小饼干</a> ：我有一个哥们儿，认识好长时间了，只知道大家都叫他<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=%E6%96%B9%E4%B8%88&zhida_source=entity" target="_blank">方丈</a>，把真名忘记了。</div>
-有一次吃饭，趁着喝酒，我问他真名叫什么。<br>他打开手机，打开电子身份证给我看，上面写着：<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=%E9%82%B5%E6%9E%97%E5%AF%BA&zhida_source=entity" target="_blank">邵林寺</a></blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/603505009/answer/3542498492" target="_blank">怎么反驳差生文具多?</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/efab7fdc86c30d14a9a33434ff5fbd5c" target="_blank">@林沐沐</a> ：我写论文：</div>
-打开<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=%E7%9F%A5%E7%BD%91&zhida_source=entity" target="_blank">知网</a>，打开 Web of science ，打开 <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=sci-hub&zhida_source=entity" target="_blank">sci-hub</a> ,打开<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=%E6%9C%89%E9%81%93&zhida_source=entity" target="_blank">有道</a>，打开 <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=GPT&zhida_source=entity" target="_blank">GPT</a> ；戴上降噪耳机,订一杯<br><a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755816&content_type=Article&match_order=1&q=%E7%91%9E%E5%B9%B8&zhida_source=entity" target="_blank">瑞幸</a>,上厕所把尿排净,洗好水果放在手边.......<br>我老板写论文:<br>打开 word</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/588800887/answer/52197126492" target="_blank">哈尔滨真的很冷吗？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/b87c80a73e4ca81ac7679dc266474c17" target="_blank">@王立春</a> ：这破照片我估计能用好久</div>
-这不是哈尔滨<br>这是齐齐哈尔</blockquote>
 <figure>
-<div><img class="content-image" src="https://pic2.zhimg.com/v2-8ec5cf03d41f50c148fe0595cbb4c279_1440w.jpg" alt=""></div>
-</figure>
+<div><img class="content-image" src="https://pic4.zhimg.com/v2-a54e7ec9714887fab70400e0f918e6e9_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div><img class="content-image" src="https://pic2.zhimg.com/v2-66d2f777dff0e2d6a4e297d5e85ebc21_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/490141116/answer/1971692329258714678" target="_blank">最坑爹的题目你见过多少?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e6d25b6ff6fef5b534092f5a6e69bf89" target="_blank">@帅大虾</a>：这应该是最坑爹的学校，没有之一吧</div>
+</blockquote>
+<figure>
+<div><img class="content-image" src="https://pic1.zhimg.com/v2-b2afaea19d99e20ad41e8611efebae5e_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/658045420/answer/1962116634874455440" target="_blank"> 降水线真的北移了么？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/53122ff6ddceea798c55259858310953" target="_blank">@Ranguree</a> ：三十年后，知乎问题，明明北方不缺水，为啥当年要耗费巨甚搞<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755618&content_type=Article&match_order=1&q=%E5%8D%97%E6%B0%B4%E5%8C%97%E8%B0%83%E5%B7%A5%E7%A8%8B&zhida_source=entity" target="_blank">南水北调工程</a></div>
+</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/641372499/answer/1890822312556725722" target="_blank">在国外旅行时，你发现过哪些中国符号？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8c55c28433dbac3b31b45b122cf24d68" target="_blank">@泰姆雷</a>：在德国<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=268755618&content_type=Article&match_order=1&q=%E6%85%95%E5%B0%BC%E9%BB%91&zhida_source=entity" target="_blank">慕尼黑</a>的一家餐馆看到的，我都惊呆了。</div>
+</blockquote>
+<figure>
+<div><img class="content-image" src="https://pic1.zhimg.com/v2-6bf08ed5f1ab2d19835155b6d0135436_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
 </div>
 </div>
 
@@ -377,4 +426,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787230</guid><pubDate>Tue, 27 Jan 2026 18:31:43 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787231</guid><pubDate>Wed, 28 Jan 2026 01:20:10 GMT</pubDate></item></channel></rss>
