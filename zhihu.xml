@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 31 Jan 2026 18:24:53 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>我们看天上的太阳是 8 分钟前的太阳，还是此时的太阳？如果是 8 分钟前的，那么是否代表我们可以亲眼看到历史？</title><link>http://daily.zhihu.com/story/9787147</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-59b48ffeaf0e3b431f80458632b9ba02.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 01 Feb 2026 01:54:19 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么猫的颜色最多只有三种?</title><link>http://daily.zhihu.com/story/9787173</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-f4d5852209bb0eb35ce7a1a5a9ef1531.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,434 +19,339 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/614860173/answer/39420463535" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-38bfedba3ee7ba2c0317bbdf06a16105_l.jpg?source=8673f162">
+<span class="author">猫研所，</span><span class="bio">猫咪知识精准科普平台</span>
+<a href="https://www.zhihu.com/question/667381276/answer/1928092642849301068" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>你看到的所有都是历史，但你也永远看不清历史。</strong></p>
-<p>与你相隔 1 米的人交谈，他的嘴部动作传到你眼睛需要：</p>
-<p>1/299792458=0.000000003336s</p>
-<p>你的视细胞把光信号转化成电信号，再传递到大脑辨认所需要的时间大约为：</p>
-<p>1/10——1/20s</p>
-<p>也即最短需要 0.05s（所以动态迷糊的 24 帧以上，人眼就会觉得流畅）。</p>
+<p><strong>其实猫咪的基础颜色只有两种：</strong><strong><strong>一种是：黑色系，由「真黑素」产生</strong></strong></p>
+<p><strong>会让猫咪呈现黑色、巧克力色、肉桂色。</strong>由三个等位基因控制：</p>
+<p>▌<strong>表达顺序为 B>b>b'</strong></p>
+<p>当猫咪携带 B 基因 时，表现为纯黑色：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-afd10411c4ffc784d1a06adf063be303_720w.gif?source=8673f162" alt=""><figcaption>图自：giphy</figcaption></figure>
+<p>b 基因，表现为巧克力色：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-57247e0c1c1e501e06c215ac63ec4536_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska</figcaption></figure>
+<p>b' 基因，表现为肉桂色：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2a4405b12965fe51f42d8835434cf30b_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fcc1c8f76c576434ab29e778d3a5f454_720w.jpg?source=8673f162" alt=""><figcaption>图自：labgenvet.ca 译：猫研所</figcaption></figure>
+<p><strong><strong>另一种是：红 / 橘色系，由「</strong>棕黑素」产生</strong></p>
+<p>会让猫咪呈现为橘色。由两个等位基因控制：</p>
+<p>▌<strong>表达顺序为 O>o，存在于性染色体（X）上。</strong></p>
+<p>O 基因的存在会<strong>抑制真黑色素的合成，让猫咪表现出橘色</strong>。（橘猫的基因可太强大了）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-da078dc9625b4215677baf61c2ee6d1f_720w.jpg?source=8673f162" alt=""><figcaption>图自：猫研所</figcaption></figure>
+<p>猫咪也和人类一样，小母猫的性染色体为 XX，小公猫为 XY。</p>
+<p>XOXO，XOY 就是我们常见的小橘猫：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0a22a08a0bb88c6b816be32cb35ab901_720w.jpg?source=8673f162" alt=""><figcaption>图自：幺九家的小橘子</figcaption></figure>
+<p><strong>而只携带 o 基因的猫咪，就不会表现出橘色，还按照 B、b、b'基因型表现颜色。</strong></p>
+<p>如果有两条 X 染色体，一条上的是 O，一条上的是 o，会如何显色呢？</p>
+<p>答案是：获得一只<strong>玳瑁</strong>猫~</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e0dfbec2d0839e401add9dd3bd7e4f47_720w.gif?source=8673f162" alt=""><figcaption>图自：wiffle gif</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8f98548abf50b307fb72a7c74999df01_720w.jpg?source=8673f162" alt=""><figcaption>图自：labgenvet.ca 译：猫研所</figcaption></figure>
+<p>聪明的小伙伴马上就要反应过来了：不对啊，怎么只有这几个花色？明明还有白猫、蓝猫、奶牛猫…啊。</p>
+<p>没错，猫咪的所有颜色都是在这两种黑色素上演变的，<strong>但要形成如今我们看到的这么多种花色，还离不开这两种因素↓</strong></p>
+<p><strong>三，基础色系上的变化</strong><strong><strong>（1）稀释基因</strong></strong></p>
+<p>Dilution（稀释）基因，<strong>稀释基因将会以一己之力将猫咪的基础色系由四种扩充为八种。</strong></p>
+<p>▌<strong>表达顺序为 D>d</strong></p>
+<p>当猫咪携带 D 基因 时，颜色不会有变化。还是我们在前面提过的四种：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5c81218e78f2822116c8686a61fc771a_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska 译：猫研所</figcaption></figure>
+<p>但如果只有 d 基因，上面四种颜色的猫咪毛色都会被稀释：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-99e73a388cb48705c5429df1ea8e5abd_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska 译：猫研所</figcaption></figure>
+<p>形成很治愈的：</p>
 <ul>
-<li><em>其实这个过程视神经（髓鞘）传递信号用时低于 0.01s，主要耗时在信号转化和辨认上。</em></li>
+<li>蓝色</li>
 </ul>
-<p><strong>总用时，0.100000003336s</strong></p>
-<p>在大多数人的认知里，可能一定认为，看到人说话一定比听到人说话更快。</p>
-<p>但实际，并不一定。</p>
-<p>与你相隔 1 米的人交谈，他的声音传到你耳朵需要：</p>
-<p><strong>1/340=0.002941176471s</strong></p>
-<p>不过听觉信号，却是人辨认精度最高的信号之一，仅仅只需要：</p>
-<p>1/100s</p>
-<p>也即 0.01s</p>
-<p><strong>总用时 0.012941176471s</strong></p>
-<p>可以看出，在 1 米的范围内，我们听到声音的速度比看到人说话的速度还要快，而且快了 7 倍左右。</p>
-<p>容易得出：</p>
-<p>当超出 12.6 米距离之后，我们看到人说话才能比听到人说话更快。</p>
-<p>考虑到人视觉和听觉的辨认精度范围，通常在 20 米距离之内，我们都不会感知到音画的不同步。</p>
-<p><strong>既然我们看到的所有都是历史……</strong></p>
-<p><strong>那我们有没有可能看到秦始皇称帝呢？</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-69300374924a4a52fc879c456edac7c5_720w.jpg?source=8673f162" alt=""></figure>
-<p>理论上似乎可行……</p>
-<p>但难上登天！</p>
-<p><strong>固然，你看到的所有都是历史。</strong></p>
-<p><strong>但人类相比起宇宙尺度无比浅陋的天文观测技术，甚至导致你根本无法看清甚至看到 1 天之后的历史。</strong></p>
-<p>秦始皇称帝场景，所反射画面，至今刚好传播到 2000 多光年外。</p>
-<p>2000 光年，虽然对于人类来说是一个天文数字，但在宇宙尺度来说，似乎并不算多大。</p>
-<p>首先，我们需要打造一个超级望远镜。</p>
-<p>这个超级望远镜会十分巨大。</p>
-<p>但能打造这种望远镜的文明，在他们眼里，不说地球，哪怕太阳系也只是一粒尘埃罢了。</p>
-<p>要看清楚历史上发生的细节，分辨率至少也得有一个老式手机渣画质摄像头吧？</p>
-<p>诺基亚 7650 是 2002 年的初代摄像头手机之一，30 万像素，照片最高分辨率 640×480，最低分辨率仅仅 160×120。</p>
-<p>如果取景 4x3 米，可分辨尺度仅仅 2.5 厘米，甚至连手指都分不清。</p>
-<p><strong>这种渣画质，我们作为了解历史真相的最低下限。</strong></p>
-<p><strong>我们不妨来算算，看到地球历史这样的渣画质，需要多大的望远镜呢？</strong></p>
-<p>分辨相邻两个点的极限，为瑞利判据：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4a204eb7e64f54f18e817f8f1af5bc0_720w.jpg?source=8673f162" alt=""></figure>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cvarphi_%7B2%7D" alt=""></p>
-<p>为最低可分辨率角度。</p>
-<p>一架以角秒衡量的光学望远镜的理论分辨率为：13/L 角秒</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ce2ef9b4605c0e188dd06be621cce099_720w.gif?source=8673f162" alt=""><figcaption>图自：tenor</figcaption></figure>
 <ul>
-<li>L 为主镜口径，单位为厘米。单位转换为米，则为 0.13/L 角秒</li>
-<li>1 度=60 角分=3600 角秒，一个圆周等于 1296000 角秒</li>
+<li>浅紫 / 丁香色</li>
 </ul>
-<p>刚才已经探讨过了，了解地球历史的渣画质是 2.5cm（也即 0.025m）。</p>
-<p>那么我们可以得到：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0.025%2F2%5Cpi+S%3D0.13%2FL%5Ctimes%5Cfrac%7B1%7D%7B1296000%7D" alt=""></p>
-<p>，</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=S" alt=""></p>
-<p>为观测点与地球的距离。</p>
-<p>得到</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=L%3DS%2F39+666" alt=""></p>
-<p>秦始皇在公元前 221 年称帝，意味着我们需要在 2240 多光年外布置这个大型望远镜。</p>
-<p>易得，这个望远镜的大小约为：</p>
-<p><strong>0.0565 光年。</strong></p>
-<p>也即 5.345×10^14m</p>
-<p>相当于 3573 个天文单位（日地距离）</p>
-<p>也就是说，制造的天文望远镜口径达到 3573 个太阳到地球的距离，才能看到一个渣画质的地球历史。</p>
-<p>这比 100 个八大行星的最远轨道还要大。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-56933f77512f85c6adb6a668e9d81dd9_720w.jpg?source=8673f162" alt=""></figure>
-<p>可能有人会说，完全可以建设望远镜矩阵，来实现这么高的分辨率。</p>
-<p>例如，人类拍下黑洞的照片，就是利用地球上多个射电望远镜，等效组合成了地球这么大的望远镜才拍摄到的。</p>
-<p>然而，地球上光线太弱，不用足够多的望远镜，根本收集不到足够多的光线。</p>
-<p><strong>为了搜集足够多的光子，这些望远镜一一排列，需要多少质量的镜片呢？</strong></p>
-<p>如果这些镜片都是平均 10mm 的镜片组成。</p>
-<p>0.0565 光年光年直径的总面积是：</p>
-<p>2.235×10^29m^2</p>
-<p>总体积是：1.263×10^27m^3</p>
-<p>密度取 2500kg/m^3，计算得到重量为：3.156×10^30kg</p>
-<p>而太阳质量也才 1.9891×10^30kg</p>
-<p>也就是说建造一个这样渣画质的光学天文望远镜超级矩阵，需要的材料也相当于 2 个太阳的质量。</p>
-<p>不说太阳了，人类现在连月壤都只能带回月球质量的万亿亿分之一。</p>
-<p><strong>最关键的是，星际尘埃对可见光的遮挡，还可能让这个计划彻底破产。</strong></p>
-<p>我们人类通过电子设备重建画面，其实是根据单个光子能量（频率 / 波长），以及光子密度所展现出来的细节信息，来实现的。</p>
-<p>根据黑体辐射可以看出，无论不同光谱的单个光子能量差距，还是光的能量分布梯度，在可见光范围都具有最大的变化：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc56d1b7e86fce2caedffa1e130a9d7d_720w.jpg?source=8673f162" alt=""></figure>
-<p>这也注定了，可见光频段所记录的画面，才能展现出足够丰富的细节。</p>
-<p>为什么我们照 CT，无法像普通的拍照一样充满细节和分辨程度，本质上在于射线（光子或其它粒子）单一，以及起伏不大的能量分布，都决定了无法像可见光那样记录丰富的细节。</p>
-<p>而人类大部分事件都是在室内发生的，一面墙壁就能挡住所有的可见光谱，基本上只有能量低的电磁波能够穿透墙壁。</p>
-<p>在现代通讯时代，人类能够通过电磁波传递丰富的信息，本质上是通过调制与编码等手段，让不同频段的不同电磁波承载了丰富的信息量，可以包含足够多的细节。</p>
-<p>然而黑体辐射出来的光子，它本身是没有经过编码的。</p>
-<p>当滤过主要的可见光段，剩下的电磁波信息是残缺的，严重缺少细节的。</p>
-<p>即便你能完整收集到相关光子，你最终得到的画面也是这样的：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0ae2ac7a636640f09a4ff81b907ca406_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个画面，并不是你收集到的光子呈现的画面，而是宇宙背景辐射所产生的画面。</p>
-<p>你能收集到的原事件光子量，在宇宙背景辐射下，几乎可以忽略不计。</p>
-<p><strong>即便我们是在露天条件下，晴朗无云，能够收集足够到的画面吗？</strong></p>
-<p>其实也相当的够呛。</p>
-<p>要完整记录事件，我们至少需要能看清一个人的脸吧。</p>
-<p>我们在室外活动室，一张足够明亮的脸，照度可达到 1000 lux（勒克斯）</p>
-<p>我们假设一个人的头颅，相当于 20cm 直径的一个球，也即半径 0.1m。</p>
-<p>仅仅 8 小时之后，光已经走出了 8634022790.4 公里。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-60e30cbee2bc4c2eeab124441152badc_720w.jpg?source=8673f162" alt=""></figure>
-<p>散射出去的光，能量密度随着光球面积的增加而衰减。</p>
-<p>那么，对于长达 8 小时的事件来说，相同光子收集器能收集到的光子量，是事件最开始时的</p>
-<p>1/86340227904000^2。</p>
-<p>也即，1.34×10^-25 lux。</p>
-<p>很多人可能对照度单位 lux 没有什么概念，我们对比一下：</p>
-<blockquote>晴天室内：100—1000lux<br>阴天室外：50—500lux<br>阴天室内：5—50lux<br>月夜：0.02—0.3lux<br>黑夜：0.001—0.02lux</blockquote>
-<p>对于相同波长的光子来说，光子密度和照度是成正比的。</p>
-<p>也就是说，我们 1 秒钟在单位面积上能收集到的光子，甚至只有最黑黑夜的 100 万亿亿分之一左右。</p>
-<p><strong>这是什么概念呢？</strong></p>
-<p>当光子波长为 555nm，也即人眼最敏感的可见光波段时：</p>
-<p>1lux=1lm/m²=1/683 W/m²=0.001464 W/m²</p>
-<p>根据 E=hv ；v=c/λ（真空）</p>
-<p>易得，1lux 照度的可见光，大约每平米每秒钟会有 4.1×10^15 颗光子通过。</p>
-<p>那么，对于 1.34×10^-25 lux 来说，相当于 3×10^10 m^2（3 万平方公里）的范围内，足足需要 5 个上海的面积，才能在 1 秒钟内收集到 1 颗光子。</p>
-<p>单个或寥寥几个光子根本就没有成像的信息量。</p>
-<p>即便我们弄个地球直径这么大的光子接收器，也仅仅只能收集 4250.5 个光子。</p>
-<p>对于遥远的星空来说，由于固定位置不变，原本恒星的光芒也没有多少细节变化，所以我们可以通过长时间曝光来增加星星的亮度。但对于不断变化的事件来说，我们是无法增加曝光时间来增加亮度或者清晰度的。</p>
-<p>当然，在后期处理的时候，其实我们是可以增加亮度的。</p>
-<p>然而由于大量关键光子的丢失，我们依旧失去了大量的细节，我们最终看到的面孔，可能会是这样的：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be0fdf46e065293ebb46a482b9d33522_720w.jpg?source=8673f162" alt=""></figure>
-<p>最终，所有的光子组合起来，已经不足以展现足够的信息，毫无可辨识的细节。</p>
-<p>因为，哪怕是用所谓的单光子相机，你要做出 100×100 的像素，也至少需要 1 万颗光子。即便你弄个 2 个半地球截面积大小的光子接收器，你收集到的光子也是随机分布的，并不会像你像素绘画一样，总是落在你需要的像素点上，关键像素信息寥寥无几，这样的画面自然是一团浆糊。</p>
-<p>值得注意的时，这里所有的距离还仅仅只是 8 光时，难度就已经达到如此夸张的地步……对于 2000 多光年之外的秦始皇称帝，自然成了几乎不可能的事。</p>
-<p><strong>当然，你也可以脑洞再开大一点，一个能够收集到足够多可见光子的超级文明，来进行这样的操作呢？</strong></p>
-<p>如果要制一个高清画质，人眼能看清任何细节的 0.1mm 精度的分辨尺度，来欣赏秦始皇登基的高清画面。</p>
-<p>那么，至少需要在<strong>无可见光遮挡环境</strong>，建设<strong>25 光年口径的天文望远镜</strong>才行。</p>
-<p>至少需要<strong>几十万个太阳质量</strong>的材料。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3420b8efbb0c80237fb586f73954eaa8_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska</figcaption></figure>
 <ul>
-<li>卡尔达舍夫一级文明可以使用母星的所有能源。</li>
-<li>卡尔达舍夫二级文明可以使用母星所在恒星的所有能源。</li>
-<li>卡尔达舍夫三级文明可以使用母星所在星系的所有能源。</li>
+<li>浅黄褐色</li>
 </ul>
-<p>而银河系大约有 2000 亿颗恒星，如果打造这个天文望远镜使用了的能源少于当前文明的 1%，那么这个文明则相当于 2.5 级文明，介于卡尔达舍夫二级和三级文明之间。</p>
-<p>人类才 0.73 级文明，差了至少 20 几个数量级。</p>
-<p>对于这样的一个文明，三岁小孩的玩具枪，就可能把太阳系给灭了。</p>
-<p>当然，对于我们这样的一级文明上下的文明来说，要通过这样的方式看哪怕仅仅 1 天之外的历史，都只能是这样的结果：</p>
-<p><strong>由于丢失了大量光子所承载的信息，捕捉到的极少量光子淹没在了宇宙背景辐射中，最终导致我们根本就看不到相关事件的发生。</strong></p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/614860173">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787147</guid><pubDate>Sat, 31 Jan 2026 18:24:51 GMT</pubDate></item><item><title>《Science》论文研究进一步确认侧斑蜥蜴「石头剪刀布」机制，有哪些价值？</title><link>http://daily.zhihu.com/story/9787156</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c20f02b81a0d3906e427e46192dcf979.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-7dff06eb2ed7a794e1c4a026da091d3c_l.jpg?source=8673f162">
-<span class="author">浩浩耗，</span><span class="bio">我有屠龙之术，欲翻流云起舞；我有苍茫之志，欲煎七海成田；</span>
-<a href="https://www.zhihu.com/question/1992692966964290615/answer/1992696876739351439" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>博弈并没有被打破，只是背后的遗传机制被进一步认清了，发现原来比想象中的还要复杂<sup>[1]</sup>。</p>
-<p>你们听说过在自然界中，存在着一种“石头 - 剪刀 - 布”式的竞争模式嘛？而且还是普信男给霸道总裁带绿帽的那种。地球上有一种叫做侧斑蜥蜴的物种，这个物种的种群里存在着一个经典的生物"石头 - 剪刀 - 布"动态平衡机制。这种蜥蜴中，存在着三种不同喉部颜色的雄性形态，分别是橙色、蓝色和黄色。而这三种不同的雄性形态采用了截然不同的交配策略，在自然选择的平衡下形成了一个持续数百万年的动态平衡系统。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f72bccc0efe2bd00c505bf8a8a9daa78_720w.jpg?source=8673f162" alt=""></figure>
-<p>我先通俗的介绍一下侧斑鬣蜥的石头 - 剪刀 - 布博弈，我们可以把它想象成一场三种不同性格的“国王”之间的权力游戏。在这场游戏中，没有谁是绝对的弱者，也没有谁是永久的胜者，因为每种策略都恰好能克制其中一种，又被另一种所克制。基于它们三种不同的喉部颜色，我们可以给这三种蜥蜴分别起个代号，大橙、大蓝、和大黄。<strong>大橙是霸道总裁</strong>，个头大、侵略性强、睾酮水平高。大蓝和大黄都干不过它们，所以它们靠武力统治了大片领地，每个大橙都有一个“后宫”，能占有几十只雌性蜥蜴。而大蓝，<strong>属于纯爱战士</strong>，他们打不过大橙，所以地盘不大，但是领地的意识很强，同时他们也不贪多，每一个大蓝就守着自己的一两个妻子，所以因为看的紧，别的雄性也很难插足。</p>
-<p>而大黄是里面最弱的，不仅没有领地，长得也更接近雌性，<strong>属于女装大佬</strong>。所以它们基本上不动粗，因为动了也打不过。但是他们有一个癖好，就是喜欢趁乱溜进别人的领地，“偷”走交配机会。而这三者之间的精妙之处，就在于它们的循环克制关系：大橙可以凭借体型和耐力优势，强行冲进蓝色蜥蜴的领地，把蓝色蜥蜴赶走，抢走它们的配偶。但在这方面却被大黄克制，因为大橙虽然强壮，但因为领地太大、老婆太多，它们根本顾不过来。而大黄本身长得像雌性，所以可以大摇大摆地混进大橙的领地。等大橙在领地东头打架时，大黄已经在西头和它的配偶给它带绿帽了。但大黄的这个特点，就被纯爱战士大蓝克的死死的，想溜进来偷情？很多大蓝实行的是“一夫一妻制”，它们时刻盯着自己那几个配偶，大黄本身也干不过大蓝，所以根本没机会下手。</p>
-<p>这样解释，大家应该就能理解了吧？它们之间形成的动态平衡就是，如果橙色变得非常多，它们占领了所有地盘，黄色就会因为“可乘之机”太多而大量繁殖。而当黄色变多了，橙色就会因为总是给别人养孩子而逐渐衰落，这时蓝色守卫型就能凭借“防盗效果好”而崛起。当蓝色变多了，橙色又可以靠武力强抢蓝色的老婆，再次翻身。所以，没有任何一方能彻底消灭另外两方。种群中的比例会像时钟一样一直循环。<strong>你的优势完全取决于你的邻居是谁</strong>....</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e9eaeb948f158e5c069f86ff81908bac_720w.jpg?source=8673f162" alt=""></figure>
-<p>那最新这篇研究又新发现了什么呢？过去几十年，研究人员一直认为，这三种颜色的蜥蜴是由一个基因位点上的三种等位基因决定的，就像人类的 ABO 血型一样。</p>
-<p>但这项研究通过基因组测序发现，事实并非如此！研究团队首先组装了橙色和蓝色形态的参考基因组，随后对 44 个橙色和 45 个蓝色个体进行全基因组关联分析，发现了仅在 SPR(sepiapterin reductase) 基因上游调控区域存在显著关联。进一步的测序分析揭示，橙色和蓝色形态分别与两种高度分化的单倍型（O 型和 B 型）紧密相关：所有橙色个体都是 O 型纯合子，而蓝色个体通常携带至少一个 B 型单倍型。值得注意的是，在该区域发现了大量转座元件插入，且两个单倍型之间几乎没有发生重组，表明这是一个长期受平衡选择维持的区域。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1c3ff19b759a20aae7cb0e94b90df426_720w.jpg?source=8673f162" alt=""></figure>
-<p>更有意思的是，研究人员也只找到了橙色和蓝色这两种遗传背景。那黄色是从哪儿来的？<strong>答案是，“变出来”的</strong>，从遗传层面，大黄基本都携带 B 型单倍型，与大蓝具有同样的遗传背景，结合野外观察发现部分黄色个体可转变为蓝色形态（通常伴随领地获取,且不可逆）。这就意味着“初代”大蓝，如果没有抢到地盘，就会触发表型可塑性，变身为大黄，而成功获得领地的则发育为蓝色"纯爱战士"。.....是不是很疯狂？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6e47637a5b2c38f13e8478811091769a_720w.jpg?source=8673f162" alt=""></figure>
-<p>研究人员这次还锁定了一个关键基因 SPR，这个基因非常神奇，同时参与了两条通路的运作，第一条是制造皮肤中的橙色色素，另一条参与合成多巴胺、血清素和肾上腺素等，这些物质直接影响蜥蜴的攻击性和耐力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ce314304bde5f5494397045f7d0dd403_720w.jpg?source=8673f162" alt=""></figure>
-<p>为了进一步确认，为什么是这个机制，研究人员构建了数学模型发现比较两种遗传机制，发现这种“两个基因 + 一个可变身机制”的系统，比纯粹的“三个基因”系统在漫长的进化中更加稳定！</p>
-<p>（模拟结果显示，两等位基因模型在广泛参数范围内都能维持多态性，且与 14 年野外观察数据高度吻合—蓝色和黄色形态频率呈正相关，而它们与橙色形态频率呈负相关。更重要的是，引入遗传漂变后，两等位基因 + 表型可塑性模型在各种种群规模下都比三等位基因模型更稳定。在种群规模为 100 的模拟中，三等位基因模型 91%的试验失去多态性，而两等位基因模型（40%黄色比例）仅 3%失去多态性，优化版的两等位基因模型甚至能 100%维持多态性）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be49eb98142e2610d5638226da37e5c8_720w.jpg?source=8673f162" alt=""></figure>
-<p>基于此，我们可以推测，由于黄色是可以根据环境转换的，这种灵活性像是一个“缓冲器”，能让这种“石头 - 剪刀 - 布”的博弈在小种群中也不容易因为某个基因意外丢失而崩盘 。这种“看情况变身”的能力，正是这套博弈游戏能玩上百万年而不崩溃的终极秘诀。</p>
-<p>当然，这项研究也存在一定的局限行，如未能完全解析 SPR 是如何协调色素沉积与行为表现的，也尚未开展基因编辑实验直接验证 SPR 的功能。未来研究可进一步探索环境因素如何触发表型转换，以及这种遗传 - 可塑性组合在其他多态系统中的普遍性。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1992692966964290615">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787156</guid><pubDate>Sat, 31 Jan 2026 18:24:52 GMT</pubDate></item><item><title>为什么我们穿的都是塑料？</title><link>http://daily.zhihu.com/story/9787161</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0e04a0611ca1cb8200d34575e01f79e1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-cb08e5ecb316d209f09b7f619830d3fb_l.jpg?source=8673f162">
-<span class="author">知谦，</span><span class="bio">以富润屋，不如以德润身。</span>
-<a href="https://www.zhihu.com/question/1975144793609879746/answer/1976815976268990309" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>你没有听错，我们从内到外，从上到下，穿的大多都是高分子材料，但它们绝非廉价和低端。</p>
-<p><strong>啥是高分子材料？</strong></p>
-<p>高分子材料就是以高分子聚合物为基体，再加上其他添加剂（或助剂）所制成的材料<sup>[1]</sup>。</p>
-<p>在高分子材料的旗下，主要有“四大金刚”，它们是：</p>
-<blockquote>塑料、橡胶、纤维（化纤）和涂料。</blockquote>
-<p>其中，</p>
-<p>橡胶和涂料大家都比较清楚，汽车轮胎就是橡胶，装修时家里边也都会刷涂料。</p>
-<p><strong>本回答着重介绍一下塑料和纤维。</strong></p>
-<p><strong>首先，什么是塑料？</strong></p>
-<p>按照前面所述，塑料是高分子材料的一种，它是以高分子聚合物为主体，辅以各种添加剂混合而成的材料。</p>
-<p>它主要分为通用塑料、工程塑料和特种塑料，应用十分广泛。</p>
-<p>塑料中的主体成分——高分子聚合物，</p>
-<p>它是由许多相同的、简单的小分子<span class="nolink">结构单元</span>通过<span class="nolink">共价键</span>重复连接而成的、具有很高分子量的化合物（分子量通常可达 10⁴～10⁶，所以才叫做高分子）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-27a7d6b0ef1e89f59d6a447330615f54_720w.jpg?source=8673f162" alt=""><figcaption>高分子聚合物分子结构</figcaption></figure>
-<p>而这些构成高分子聚合物的最基本的、最简单的结构单元叫高聚物单体。</p>
-<p>比如，</p>
-<blockquote>乙烯、四氟乙烯、丙烯、苯乙烯，等等。</blockquote>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-3deab5bc0c21deb929e07bd754c36411_720w.jpg?source=8673f162" alt=""><figcaption>由小分子的聚四氟乙烯单体聚合成高分子的聚四氟乙烯高聚物示意图</figcaption></figure>
-<p>一种塑料，就以其高聚物主体来命名；而一种高聚物，就以组成它的单体来命名。</p>
-<p>称作：</p>
-<p>“聚 + 单体名称”，英文名则写作“P+ 单体英文缩写”。</p>
-<p>比如，</p>
-<p>聚乙烯（PE）、聚丙烯（PP）、聚苯乙烯（PS），等等。行业内，还把它们中常见的类型按数字进行分类标识↓。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3a7936619b7e6fe96d4f3e61e759d864_720w.jpg?source=8673f162" alt=""><figcaption>常见塑料及分类标识</figcaption></figure>
-<p>这种标识，大家都不陌生。</p>
-<p>比如，</p>
-<p>当我们翻看大部分饮料瓶底，会发现上面有 1 号塑料 PET（聚对苯二甲酸乙二醇酯）的标识。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2ee52bd0742e8c61752073e27d28192c_720w.jpg?source=8673f162" alt=""><figcaption>饮料瓶底的 PET 塑料回收标识</figcaption></figure>
-<p><strong>知道了什么是塑料，纤维就简单了。</strong></p>
-<blockquote>说白了，纤维就是塑料通过特殊加工工艺而纺成的丝，又叫化纤。</blockquote>
-<p>这个化纤再织成布，就可以做成服装面料，然后就可以用来加工成各式各样的纺织品了。</p>
-<p>这，就是大家说的“塑料”衣服的由来。</p>
-<p><strong>那么，我们平时用的高分子材料制品，如塑料瓶，化纤服装等，它们是怎么制作而成的呢？</strong></p>
-<blockquote>就以前面说的那个造饮料瓶的 1 号塑料 PET 为例来说明吧。</blockquote>
-<p>大家千万不要小瞧这个 PET，它既可以制成饮料瓶，还可以制成化学纤维，被我们穿在身上。</p>
-<p>具体怎么个事儿，请大家继续往下看。</p>
-<blockquote>PET，学名聚对苯二甲酸乙二醇酯（Polyethylene terephthalate，PET），简称聚酯， 是一种热塑性高分子材料，分子式为(C10H8O4)n，被广泛应用于纤维、薄膜、包装（如饮料瓶）等领域。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-97ce015cbad72d01681f4c1f5cd54bf8_720w.jpg?source=8673f162" alt=""></figure>
-<p>它一般为无色透明或者乳白色固体↓</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-05af11aafefe3abc73e4b852899465f5_720w.jpg?source=8673f162" alt=""><figcaption>PET 塑料颗粒</figcaption></figure>
-<p>这个 PET 的原料既然是固体，那它又是怎么制成瓶、纺成纤维的呢？</p>
-<blockquote>具体是这样的，如下图：</blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-423338e56f2f4c89d4650e6a17919f8f_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska</figcaption></figure>
 <ul>
-<li>首先，把 PET 塑料的颗粒原料放入螺杆挤出机中。</li>
-<li>然后，塑料会在挤出机的加热和螺杆的剪切作用下逐渐被加热熔融。</li>
-<li>接着，液状的熔融塑料会在螺杆的前推作用下从挤出机的前端挤进特定的模具中。</li>
-<li>最后，塑料在模具中冷却、成型，经过开模、脱模，就成为 PET 制品毛坯。 毛坯经过打磨、上色、印刷等工艺后，成为 PET 塑料件成品。</li>
+<li>奶油色</li>
 </ul>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f78067d34013725891e2b2a2fc6d470e_720w.gif?source=8673f162" alt=""><figcaption>塑料从螺杆挤出机中注入模具、冷却成型、脱模</figcaption></figure>
-<p>如果我们把模具换成饮料瓶那种形状，就可以制造 PET 饮料瓶↓。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c81b6204f4e25c56d521e51e98d2b00_720w.gif?source=8673f162" alt=""><figcaption>塑料瓶吹塑工艺示意图</figcaption></figure>
-<blockquote>在 PET 熔融塑料注入模具时，注入腔中会通气，让熔融态 PET 塑料紧贴着瓶状模具成型，开模后，就成了塑料瓶毛坯↓。去毛刺后，就可以制成各种饮料瓶。</blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8a6648fd64659c99c1ed7d371cd84719_720w.gif?source=8673f162" alt=""><figcaption>吹塑工艺示意简图（模具端）</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a5fbb387b353cf5e7a1874a06c719cad_720w.jpg?source=8673f162" alt=""><figcaption>各种 PET 饮料瓶</figcaption></figure>
-<p><strong>这就叫塑料的吹塑成型工艺。</strong></p>
-<p>同理，如果我们把模具换成多孔的纺丝组件↓，就会得到 PET 纤维。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-936cd8f67b681916cfc65712dad8f2f3_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-861f1f98e542e398b74b2bb36658a6c7_720w.jpg?source=8673f162" alt=""><figcaption>一种典型热塑型塑料纺丝工艺</figcaption></figure>
-<p><strong>这就叫塑料纺丝工艺。（我们制得的 PET 纤维，又叫涤纶↓）</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-96e64594f5c7a014fe156d0ddd8772d7_720w.jpg?source=8673f162" alt=""><figcaption>纺成丝的 PET 纤维——涤纶</figcaption></figure>
-<p>当我们制得 PET 纤维（涤纶）↑后，就可以纺成涤纶布料↓</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2fad25eadbc227b1c723e68be008b490_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后，就能根据不同需要制成各种成品衣物了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a1db8ed069d266313184cb8cc2c718d1_720w.jpg?source=8673f162" alt=""><figcaption>涤纶材质运动服</figcaption></figure>
-<p><strong>除了这种涤纶纤维以外，有没有其他纤维也可以制作服装呢？</strong></p>
-<blockquote>有的。</blockquote>
-<p>在化学纤维界，主要有“六大金刚”，它们就是我们通常见到的各种“纶”：</p>
-<blockquote><strong>1.涤纶。</strong>学名叫聚对苯二甲酸乙二酯（Polyethylene terephthalate，PET）纤维，简称聚酯纤维。这个聚对苯二甲酸乙二酯（PET）也用来制作饮料瓶。涤纶最大的特点是它的弹性很强，强度较好，耐酸碱性强，制成的面料牢固、挺括、不易变形，这就是所谓的“免烫”，缺点是吸湿性差，面料上身不那么透气，另外，摩擦易起毛、结球，常用于制作衬衫、T 恤、运动服等，通过混纺或后处理，可制成防水、拒油、抗静电等多功能服饰。 <br><br><strong>2.锦纶。</strong>学名叫聚酰胺（Polyamide，PA）纤维，又称“尼龙”，是世界上最早的合成纤维。锦纶强度高、耐磨性好，此二项指标几乎冠绝化纤领域。但锦纶面料吸湿性和通透性都较差，易产生静电，保形性较差，不如涤纶挺括，但它的贴附性很好，是制做各种贴身衣物的好材料，常用来生产袜子、运动服、内衣等。 <br><br><strong>3.腈纶。</strong>学名叫聚丙烯腈（PAN）纤维。又称“奥纶”“考特尔”“德拉纶”等。腈纶外观呈白色，卷曲、蓬松、手感柔软，酷似羊毛，多用来和羊毛混纺或替代羊毛，又被称为“合成羊毛”。<br><br> <strong>4.维纶。</strong>学名叫聚乙烯醇缩甲醛（Poly(vinyl formal)）纤维。又称“维尼纶”“维纳尔”等。维纶洁白如雪，柔软似棉，因而常被用作天然棉花的代用品，人称“合成棉花”。维纶的吸湿性能是合成纤维中最好的，耐磨性、耐光性、耐腐蚀性都较好。<br><br> <strong>5.氯纶。</strong>氯纶的学名叫聚氯乙烯（Polyvinyl chloride，PVC）纤维。氯纶耐化学腐蚀性强，导热性能比羊毛还差，因此有着较好的保温性能。其电绝缘性较高，阻燃性好，但耐热性较差，主要用于制作各种针织内衣、毛线、毡子和家用装饰织物。<br><br> <strong>6.氨纶。</strong>氨纶的学名叫聚氨基甲酸酯（PU）纤维，又称斯潘德克斯（Spandex）弹性纤维或莱卡棉（Lycra）。氨纶具有特别的弹性，强度好，且耐酸碱、耐汗、耐干洗、耐磨。氨纶纤维一般不单独使用，而是少量地掺入织物中，制成弹力织物。</blockquote>
-<p>请大家简单了解一下上面的各种“纶”吧↑</p>
-<p>要是把这几种“纶”的基本特性、中英文名称和大致用途都熟悉了，你就是一个鉴别纺织材料的高手。</p>
-<p>比如，</p>
-<p>下面这款羽绒服的面料、里料和内胆材料全是涤纶（PET）纤维的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-16646b1052563494ec94b17eaf80f7d9_720w.jpg?source=8673f162" alt=""></figure>
-<p>下面这款服装的面料就是几种化纤和纯棉组成的，里料则全是化纤。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-15589604651e8c91d8e0b506ad2287ae_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>其实，化纤（塑料纤维）并不代表低端、不健康，我们用它们，主要是用它们的功能性和优点。</strong></p>
-<p>一般情况下使用它们制成的服装，哪怕直接接触皮肤，也不会产生明显的危害。同时，它们的某些功能性，也是传统的棉麻丝织物不具备的。</p>
-<p>比如，</p>
-<p>冲锋衣要求防水透气防风防污，纯棉面料就做不到；</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-117485f9b7277d7b679f5d011f8a2cb2_720w.jpg?source=8673f162" alt=""></figure>
-<p>羽绒服内胆若用棉质的，会因为空隙太大而锁不住羽绒；</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0abfdcfd25087de432ef769568a33be3_720w.jpg?source=8673f162" alt=""></figure>
-<p>瑜伽裤需要弹力贴身，丝袜要紧致显瘦，这也是棉物等纤维无法办到的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-97959a75e08a08f5c90b411978a8b88c_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a20e0077fb3f62fdf20ba7887df93f77_720w.jpg?source=8673f162" alt=""></figure>
-<p>要是运动出汗多，贴身不穿件速干面料（也是化纤）的衣服打底，人会变成雨人、水人；</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a1d5f1265ee661e1d7e953f24c2b9802_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-77f3cf4503e5baacddea37acbfb3b5bd_720w.jpg?source=8673f162" alt=""><figcaption>速干面料示意图</figcaption></figure>
-<p>而且，有些高科技化纤面料，如防风防雨透气高强度的 GORE-TEX、Dry-Tec 等面料，还挺贵。</p>
-<p>一件好一点的冲锋衣，从里到外，几乎全是化纤（有的表面还会加上高分子涂层），但是却很不便宜。</p>
-<p>………</p>
-<p>以上种种，不一而足。</p>
-<p><strong><strong>当然，塑料纤维（化纤）还远不止制上面那些用途，我们只要记住一点就行：</strong></strong></p>
-<blockquote>在现实生活中，高分子材料尤其是塑料、纤维，几乎是无处不在，我们已经渐渐离不开它们了。</blockquote>
-<p>可能有人对使用化纤等高分子材料，尤其是用于服装等纺织品仍有些误解或偏见。</p>
-<p><strong>但是，</strong></p>
-<p>当前我们的很多问题都只有最合适的解而没有最正确的解。虽然高分子材料也存在这样或那样的一些问题，但它就是当前不少领域最合适的解。</p>
-<p>这一点，需要我们去理解和适应，直到它们某一天被另一种更加合适的材料所取代，就像高分子材料取代很多传统材料一样。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1975144793609879746">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787161</guid><pubDate>Sat, 31 Jan 2026 18:24:53 GMT</pubDate></item><item><title>为什么大部分塑料汽水瓶的底部是花瓣状的结构？</title><link>http://daily.zhihu.com/story/9787196</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-bb9ccea5f6bd9d1152aa9724f1aa4b53.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-98f5ff14890d4945a6423ad7adfe7c1d_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">疯狂或者死亡，主要看医生的证明</span>
-<a href="https://www.zhihu.com/question/1916812325740078199/answer/1916967669896286716" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>如果你仔细观察的话，甭管是矿泉水还是饮料瓶，</p>
-<p>底部正中都会凹进去。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b4a72a222d4abc6905a99d973785c36a_720w.jpg?source=8673f162" alt=""></figure>
-<p>没错，汽水瓶后腚开花的原因就在这里。</p>
-<p>想探究这个原因，咱得先了解下汽水瓶是咋做出来的。</p>
-<p>做汽水瓶的原料是聚对苯二甲酸乙二醇酯（polyethylene glycol terephthalate），简称 PET</p>
-<p>由于回收标识是 1，又俗称一号塑料，原料是一种透明颗粒。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c15c261897070529f4dff33eec67fc21_720w.jpg?source=8673f162" alt=""><figcaption>PET 颗粒</figcaption></figure>
-<p>拉到工厂后，会首先融化倒膜，</p>
-<p>做成一个试管状的瓶胚，可以看到，此时瓶口部分是已经完成了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6157ebbba4858522a8f6600db7048cf9_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后再次加热瓶胚顶部（就是圆形封闭区域），丢到模具里一吹。</p>
-<p>一个瓶子就做好了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-10410f56e55bdc3cd0a903cf6183ecfd_720w.jpg?source=8673f162" alt=""></figure>
-<p>那么问题来了，由于瓶壁太薄，</p>
-<p>软热的瓶身被吹起来后如果不能马上冷却硬化，</p>
-<p>就容易支撑不住塌下去。</p>
-<p>所以模具的内壁专门接通了冷水管进行快速冷却。</p>
-<p>这样瓶子只要接触到模具内壁就会快速硬化。</p>
-<p><strong>此时又发现一个更大的问题：</strong></p>
-<p>由于瓶胚吹起来之后会像气球一样均匀变大。</p>
-<p>有些地方会先碰到模具内壁冷却，而有些地方还没膨胀到模具内壁。</p>
-<p>这就会导致膨胀最快的腰部先凝固起来，占据过多材料。</p>
-<p>而最需要强度支撑的底部边缘由于材料不足被拉伸的过薄，</p>
-<p>这样的可能瓶子正常站着都费劲。</p>
-<p>肯定不合格。</p>
-<p>所以吹塑的时候不光需要在顶部有根长铁杆（拉伸杆（Stretch Rod），上杆）防止瓶子被吹歪，<sup>[1]</sup></p>
-<p>还需要在底部有根大铁棍子（也是伸拉杆，下杆）在半路顶一下。</p>
-<p>这样瓶胚就会先包着拉伸杆径向拉伸，给底部留出更多的材料。</p>
-<p>由于拉伸杆一般有加热装置，瓶胚并不会马上凝固，</p>
-<p>所以多出来的料会随着拉伸杆慢慢往后退，最终均匀的填充满底部。</p>
-<p>通过拉伸杆的轴向拉伸 + 高压吹塑的径向拉伸，</p>
-<p>这样吹出来的瓶子拉伸的更均匀，高分子链取向也更加充分，强度自然就高。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6f4044cb96bbb91d2252430797519b09_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就是注射拉伸吹塑（Injection Stretch Blow Molding, ISBM）工艺。</p>
-<p>这也解释了为啥几乎所有饮料瓶瓶底都会有个凹陷的原因。</p>
-<p>为了增加底部的强度，防止被挤扁，</p>
-<p>模具设计的时候往往会在底部加上几个放射形沟槽。</p>
-<p>至于那个肚脐眼，这是拉伸杆退出后留下的浇口痕迹（Gate Mark），甭管。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bed1cef81fa940f549ddaf2742d18d89_720w.jpg?source=8673f162" alt=""><figcaption>图自：creambel</figcaption></figure>
+<p><strong><strong>（2）白色基因</strong></strong></p>
+<p><strong>与很多人的认知不同，白色不是一种色素！而是由于色素缺失造成的。</strong></p>
+<p>能够让猫咪表现出白色的基因有两对，我们将第一对<strong>称为强力白（Dominant white，Ww）</strong>，<strong>第二对称为斑点白（Piebald-spotting，Ss）</strong>。</p>
+<p>▌<strong>强力白 W，w</strong></p>
+<p>强力白属于突变基因，一旦出现<strong>显性突变（w→W）</strong>，就会阻止色素到达皮肤，猫咪身上原本的颜色被白色覆盖，<strong>整只猫变成纯白色</strong>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b8ed4d92081e35e82655dedb469ca99b_720w.gif?source=8673f162" alt=""><figcaption>图自：tenor</figcaption></figure>
+<p>白色的猫咪刚出生时，脑门儿上面会有一些带颜色的斑点。斑点的颜色是猫咪本身的颜色。</p>
+<p>▌<strong>斑点白 S，s</strong></p>
+<p>另外一对能让猫咪出现白色的是斑点白，斑点白不像强力白那么霸道，具有亲民可调节的不同白档。</p>
+<p>当猫咪携带的是 ss 时，不会影响猫咪本身的颜色。</p>
+<p>而 Ss 会让猫咪全身的 50%以下出现白色：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e0ed335a53eb0c94d2f89c4126caecd8_720w.jpg?source=8673f162" alt=""><figcaption>50%以下白的车车 图自：猫研所</figcaption></figure>
+<p>SS 则会让猫咪全身出现 50%以上的白色：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-353f0095c11270fc7facbd2dca2e368d_720w.jpg?source=8673f162" alt=""><figcaption>图自：栗子家的瓜哥</figcaption></figure>
+<p>在这种基因的作用下，猫咪全身会出现各种不同白色块，演变成我们常见的：燕尾服、警长、奶牛、三花，传统的雪里拖枪、乌云盖雪、衔蝶等等。</p>
+<p>神奇的 Ss 基因才是猫界花色多样性的最大功臣。</p>
 <hr>
-<p>然而这事换成碳酸饮料就突然变的不好说话起来，</p>
-<p>为啥？碳酸饮料里有气儿，气会产生气压，</p>
-<p>气压一使劲容易把底部凹进去的地方顶出来。</p>
-<p>想不被顶出来就得加料加强度。</p>
-<p>加钱的事可是大事啊！！</p>
-<p>所以最优解是绕着瓶底折出一圈 W 形放射状凹槽。</p>
-<p>利用<strong>拱形结构效应</strong>，将压力转化为侧壁张力</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-90ef22a8c99294108dd52c16e845cf88_720w.jpg?source=8673f162" alt=""></figure>
-<p>为了防止应力集中导致的破裂伤人，</p>
-<p>所以边缘采用的是更圆滑弧形的设计。</p>
-<p>于是可乐瓶底的小花瓣，</p>
-<p>花瓣状底座（Petaloid Base）就诞生了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3390d4d008b0b86d5a5fa79da1557e2b_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，我还是感觉易拉罐的可乐更好喝点。</p>
-<p>（有关吗喂！！）</p>
+<p>所以，准确地说：猫咪的毛色由两种基础色素以及控制它们表达、分布、密度、图案的多个基因共同决定。白色是色素缺失的表现。</p>
+<p>我们看到的多种花色效果，特别是经典的“三色”，是这些基因相互作用的产物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d623d48540b8328cbfaed0aa39bc0cd_720w.gif?source=8673f162" alt=""><figcaption>图自：wiffle gif</figcaption></figure>
+<hr>
+<p>参考资料：</p>
+<p>[1] <a class=" external" href="http://link.zhihu.com/?target=http%3A//messybeast.com/colour-charts.htm" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">messybeast.com/colour-c</span><span class="invisible">harts.htm</span><span class="ellipsis"></span></a></p>
+<p>[2]<a class=" external" href="http://link.zhihu.com/?target=https%3A//vgl.ucdavis.edu/resources/coat-color" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">vgl.ucdavis.edu/resourc</span><span class="invisible">es/coat-color</span><span class="ellipsis"></span></a></p>
+<p>[3]<a class=" external" href="http://link.zhihu.com/?target=http%3A//www.bioinf.uni-leipzig.de/Leere/SS19/TBio//CatCoatColor18.pdf" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">bioinf.uni-leipzig.de/L</span><span class="invisible">eere/SS19/TBio//CatCoatColor18.pdf</span><span class="ellipsis"></span></a></p>
+<p>[4]<a class=" external" href="http://link.zhihu.com/?target=https%3A//kids.cfa.org/understanding-cat-colors.pdf" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">kids.cfa.org/understand</span><span class="invisible">ing-cat-colors.pdf</span><span class="ellipsis"></span></a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1916812325740078199">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/667381276">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787196</guid><pubDate>Sat, 31 Jan 2026 18:24:53 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787173</guid><pubDate>Sun, 01 Feb 2026 01:54:15 GMT</pubDate></item><item><title>海豹为什么拍肚皮?</title><link>http://daily.zhihu.com/story/9787178</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-721b5793ee9df0d75874cfcede2c1116.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
+<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
+<a href="https://www.zhihu.com/question/358308083/answer/1992250426049963652" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>噗，刷到这个有趣的问题，没想到还挺多人关注，可能因为海豹、海狮等有种神奇的魔力，刚开始看见觉得很丑，看久了就顺眼了：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-16253ca7e53543d6010691be509ec83d_720w.jpg?source=8673f162" alt=""></figure>
+<p>海豹喜欢拍<strong>豹腹</strong>是因为想要<strong>暴富</strong>吗？（bushi）</p>
+<p><strong>主要原因是为了表示威慑。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-681795c255c414cce81f7bee75f48866_720w.jpg?source=8673f162" alt=""></figure>
+<p>喜欢看动物世界的朋友会发现海豹好像很喜欢拍自己的肚子。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-99fe5ed466d648874a3e5385ac5626a4_720w.gif?source=8673f162" alt=""></figure>
+<p>而海象，海狮等动物则喜欢拍手：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1865a4751801ebd1a8cd437b8034423f_720w.gif?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d3fcf1a19ee026c49d90de47b60e9ca_720w.gif?source=8673f162" alt=""></figure>
+<p>拍手或者拍肚皮的本能都是为了发出声音，有人接近领地的时候就可以大声威胁。</p>
+<p>越大越健壮的海豹拍肚皮的速度越快，越响，所以能展示自己的核心优势，用来吓退竞争对手或者在繁殖季节吸引异性。</p>
+<p><strong>2024 年最新的研究表示这种节奏信号在动物界中广泛存在 *1</strong></p>
+<p><strong>海豹等鳍足类动物所有的亚成体和成年个体在争斗性或防御性情境下，无论在陆地还是水中，均会用前鳍状肢进行敲击信号传递。</strong></p>
+<p>在地面或身体上产生的鳍状肢拍打，其间隔持续时间往往高度规律，即很有节奏感。</p>
+<p>海豹的拍打速度为 200-600 拍 / 分钟。部分个体还表现出显著的拍打侧利性（左撇子或者右撇子）。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-351dd9d067ae2edec75fca379923c3ba_720w.gif?source=8673f162" alt=""></figure>
+<p>不过，陆地上雌性雄性都会拍打，但是在水下仅<strong>成年雄性</strong>会拍打，且速度慢一个数量级。</p>
+<p>这些海洋动物的拍打跟大猩猩捶足顿胸的目的接近：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a7032bd324ce818b69de10ae9bf04d79_720w.gif?source=8673f162" alt=""></figure>
+<p>都是释放一些威慑警惕的信号。</p>
+<p>当然如果威胁无效的话，战斗还会升级：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-177da52f7e3038dc60966821df634f45_720w.gif?source=8673f162" alt=""></figure>
+<p>科学家研究发现，除了拍肚皮外，海豹还会用一种叫做“Body slap”的方式发出声响：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b9d6bcd3813509fc89cb24b99f66895_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d2b2f1cc63bbc8a3a659d945cf85fd32_720w.gif?source=8673f162" alt=""></figure>
+<p>也就是说，如果单纯的拍肚皮不管用的话，它们还会用身体拍打地面（在地上蛄蛹）</p>
+<p>如果在地上蛄蛹还不能起到威胁作用的话，它们就要动真格了：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5c113ad989466232307398f1eec66ae8_720w.gif?source=8673f162" alt=""></figure>
+<p>流星大踏步的跑过来咬你一口！</p>
+<p>不过这都是自然情景下的拍打，人工饲养的鳍足类动物可以利用食物诱导它们做出这些行为，也就是饲养员做手势让它们拍手或者拍腹，然后给予食物奖励。</p>
+<p>所以海洋馆的海豹拍肚子，海狮鼓掌就没有威胁性。</p>
+<p>不过要注意的是不要认错动物了，如果你看见海獭在拍肚子，那是它拿着贝壳往自己肚子上的石头上砸开，准备吃饭呢：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8c405c740a17e54a0dbcf582c3a9db7f_720w.gif?source=8673f162" alt=""></figure>
+<p>其实不止鳍足类的动物，其他海洋动物也有拍打水面发出声响展示威胁的：</p>
+<p>比如鲸类动物就喜欢用尾鳍和胸鳍拍击水面产生低频、远距离传播的冲击声，在空中和水里都可以传播：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-43cfc76d0ca3b3440a2c19bd82020c4f_720w.gif?source=8673f162" alt=""></figure>
+<p>同样是为了对潜在对手威胁的行为。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d87b337a3a9e42fed19c9434ebc2bc6d_720w.gif?source=8673f162" alt=""></figure>
+<p>另外，鉴于第一张图其实是海狮但是很多人认成了海豹，这里简单做下区分：</p>
+<p><strong>如何区分海牛，海象，海狮，海豹？</strong></p>
+<p>这几个动物可能是大家经常混淆的</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-866655f7d7bf9161367bbbdb90a4a5f5_720w.jpg?source=8673f162" alt=""></figure>
+<p>海象，海狮，海豹，海狗等这些动物全都属于哺乳动物食肉目<strong>犬型亚目</strong>的鳍足类，而海牛属于食草性的<strong>海牛目，</strong>它们甚至都不是一个目的。所以海牛跟食肉的海洋动物应该不容易混淆。</p>
+<p>那我们重点说说食肉的鳍足类：</p>
+<p>鳍足类包括<span class="nolink">海</span>狮科(Otariidae)、<span class="nolink">海象</span>科(Odobenidae)和<span class="nolink">海豹</span>科(Phoeidae)三科</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c9b4d0e11f386de97f89c23d6f485b8e_720w.jpg?source=8673f162" alt=""></figure>
+<p>海狮和海狗都是有<strong>可见耳罩（耳朵）</strong>的海狮科成员（otariids）。</p>
+<p>在陆地上行走时使用所有鳍状四肢，游泳时使用前肢。</p>
+<p>它们的后鳍状肢很短，可以前后转动，对于在陆地上行走最有用。海狮科在陆地上的移动速度比海豹快得多。</p>
+<p>你在海洋哺乳动物表演中看到的表演特技的生物通常是海狮而不是海豹。（海狮更为细长，且手长脚长，比海豹灵活，能鼓掌，能接球。而海豹太肥了，且手短……）</p>
+<p>海狮这个名字来源于雄性的鬃毛。</p>
+<p>简单来说，海狮和海狗有耳朵罩，趴在地上是瑜伽姿势，海豹没有“耳朵”，趴在地上是个大香蕉</p>
+<p>海象非常好区分，它们有“象牙”</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-24a1885da7c1f89ceed86b21bb0ef73c_720w.jpg?source=8673f162" alt=""></figure>
+<p>上面几个都是肉食性鳍足类动物，而海牛和儒艮则是草食性海牛目动物。。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e3e55e82c0464140bad37d9adb9ab312_720w.jpg?source=8673f162" alt=""></figure>
+<p>牙齿和头型都有很大区别，所以仔细看还是很好区分的。</p>
+<p>以上~</p>
+<p>参考资料：</p>
+<p>1Harbour seals use rhythmic percussive signalling in interaction and display</p>
+<p>2Body slap: An innovative aggressive display by breeding male gray seals (Halichoerus grypus)</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/358308083">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787178</guid><pubDate>Sun, 01 Feb 2026 01:54:16 GMT</pubDate></item><item><title>灵长类以外有和人类趋同进化的动物吗？</title><link>http://daily.zhihu.com/story/9787184</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6602030d1bb28d124029348dba05525e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
+<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的退役士兵。</span>
+<a href="https://www.zhihu.com/question/1948119904894026353/answer/1986875828039074046" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p><strong>问：如果你想组织实施一场犯罪，谁会是你最得力的帮手？</strong></p>
+<p><strong>答：考拉。</strong></p>
+<p>因为考拉可以把警察变成猴子：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-63704833df234effc94ec0e5cdef24a7_720w.jpg?source=8673f162" alt=""></figure>
+<p>开个玩笑。</p>
+<p>在说明其原因前，我要先解释一下「趋同进化（Convergent evolution）」。</p>
+<p>它的定义是：源自不同祖先的生物，由于相似的生活方式或者环境压力，分别独立地进化出了相似的形态或者功能。</p>
+<p><strong>用我经常给人讲解的话讲，叫“自然界的英雄所见略同”。 </strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-17dcebbcba8f7de550f43a6393f0eba0_720w.jpg?source=8673f162" alt=""><figcaption>趋同进化</figcaption></figure>
+<p>比如，鲨鱼（鱼类）和海豚（哺乳动物）的流线型身体，以及鸟类和蝙蝠的翅膀，都是趋同进化的经典范例。</p>
+<p>大概知道了趋同进化的定义，让我们再来看看人类和考拉。</p>
+<p>如下，左边是考拉的指纹，右边是人类的：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-326448f657ce597126f6ec11d067a326_720w.jpg?source=8673f162" alt=""></figure>
+<p>考拉与人类的指纹在形态上，完全可以说“安能辨我是人拉”。</p>
+<p>肉眼上看，就已经高度相似了，考拉指纹的纹型结构（如弧形、螺旋形和环形）与人类高度相似。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9e958b1583d928a05a9b95bbe5cd8fdf_720w.jpg?source=8673f162" alt=""></figure>
+<p>在电子显微镜下，微观特征（脊线深度、间距）与人类相比，几乎无法区分。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-093c7a5c38dfe6f43ea347da7dd74688_720w.jpg?source=8673f162" alt=""></figure>
+<p>呐，左边是考拉的，右边是人类的，不加备注的话的确很难分辨，而且研究发现每一只考拉的指纹也是独一无二的。</p>
+<p>考拉的手摊开，是不是也很像人类？</p>
+<p>考拉也是唯一拥有指纹的有袋类动物，也是极少数拥有指纹的非灵长类动物。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-def67025fd3ddc37211a3fd313e0bd70_720w.jpg?source=8673f162" alt=""></figure>
+<p>新南威尔士州希托普斯地区的一个警察局曾经首例过一起内衣失窃案。</p>
+<p>当事人的损失并不多，只丢失了 1 件内衣，但是鉴定科的警员却从现场采集到了 8 份来自非家庭内成员的指纹。</p>
+<p>这事儿后来被认为是考拉进入了盗窃现场，其指纹对现场产生了污染。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bce8f8e9cbee951209c7d9fdcbb39392_720w.jpg?source=8673f162" alt=""></figure>
+<p>澳大利亚阿德莱德大学法医科学家和生物人类学家 Maciej Henneberg 表示，自己很早就向警方提醒过把考拉指纹混淆成人类指纹的可能。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-061e06bb861ae99a751c3adce8a15abd_720w.jpg?source=8673f162" alt=""></figure>
+<p>为了防止类似的情况发生，英国警察在 1975 年把伦敦动物园的黑猩猩全部做了指纹采集。</p>
+<p><strong>所以，考拉到底是为何与人类趋同进化出高度相似的指纹呢？</strong></p>
+<p><strong>科学界普遍认为，相似的功能需求，才会产生出相似的趋同进化。</strong></p>
+<p>考拉的功能需求：稳固地抓握树枝、灵活地牵引身体完成各种树上动作，以及...对食物挑肥拣瘦。</p>
+<p>没错，看起来考拉天天在吃树叶，但实际上它们真的很挑剔——只吃桉树叶，一种有毒、低营养的叶子。</p>
+<p>一种观点认为，考拉之所以只吃桉树叶，是因为它的竞争力太弱，无法与其他动物竞争无害的其他植物，所以选择了服毒的生活策略。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ccf352b792604a53ebc230f7a3388e7d_720w.jpg?source=8673f162" alt=""></figure>
+<p>顺带一提，考拉这种生物愚蠢到什么地步呢？</p>
+<p>它只能识别长在树枝上的桉树叶，如果你给它一筐摘好的桉树叶，它宁可饿死也不会把它当作食物...</p>
+<p>这种奇葩的饮食习惯，让考拉需要在树叶中挑挑拣拣，还会用手指去感受桉树叶的新老嫩否，这与我们人类使用手指从事精细劳作以及感受物体是不谋而合的。</p>
+<p>指纹能够增加皮肤表面的摩擦力，从而增强在抓握物体（无论是树枝还是工具）时的稳定性和精确性，让考拉与人类这种亲缘较远的生物与人类趋同进化出了高度相似的指纹。</p>
+<p>也因为这件事，呆萌的考拉在国外被蒙上了一层犯罪主义面纱，成为一种反差感极强的 meme。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ad4e4e87bc8e62e142db2799687aa17f_720w.jpg?source=8673f162" alt=""></figure>
+<p>把你逮捕咯：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-246936da710879749ba980f572044c4c_720w.jpg?source=8673f162" alt=""></figure>
+<p>以上</p>
+<p>参考内容：</p>
+<p>Owen, R., and Cooper, W.W. (1843). Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals: Delivered at the Royal College of Surgeons, in 1843 (Longman, Brown, Green, and Longmans).</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1948119904894026353">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787184</guid><pubDate>Sun, 01 Feb 2026 01:54:17 GMT</pubDate></item><item><title>为什么猫都不喜欢橘子味呢？</title><link>http://daily.zhihu.com/story/9787190</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-47bd5e998c49017a3ae95068f23427b2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/14227987634/answer/1994081378258675343" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>剥开一个橘子，凑到猫主子鼻尖，大概就是下面这个画面：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-018780828a0e0fa445b7d59d07c77323_720w.jpg?source=8673f162" alt=""></figure>
+<p>原本岁月静好的小猫咪瞬间像被电击了一样，皱鼻、眯眼、干呕，然后用看杀父仇人般的眼神瞪着铲屎官飞速逃离。</p>
+<p>甚至有商家做出了下面这种驱猫剂，就是橘子味的：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a3036f77ffcd7fb0e3580e1e06dbe5df_720w.jpg?source=8673f162" alt=""></figure>
+<p>对于猫来说，你手里那个橘子，对猫来说太刺激了。</p>
+<p>猫的鼻腔里塞满了 2 亿个嗅觉受体，而人类只有大概 500 万个 <sup>[1]</sup>。这意味着，当你觉得橘子味只是“淡淡清香”时，在猫的鼻子里，这股味道的浓度大概相当于把你关进了一个刚刷完漆且不通风的油漆房。但这不仅仅是难闻的问题，猫对柑橘的反应之所以如此剧烈，是因为这种气味“打”到了它们的痛觉神经。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-56479634bd531f89c4ae1fa92811dacc_720w.jpg?source=8673f162" alt=""></figure>
+<p>这要归功于一种叫做 D- 烯萜（Limonene）的化合物<sup>[2]</sup>，它是柑橘类果皮精油的主要成分。在 2016 年的一项研究中，科学家发现这种物质能直接激活猫体内的 TRPA1 通道 。TRPA1 有一个更形象的外号，叫“芥末受体”<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d57cce60f12dd9cf1cb7abad61cbfb3f_720w.gif?source=8673f162" alt=""></figure>
+<p>在人类身体里，当你吃芥末被呛得流泪，或者切洋葱感到刺痛时，就是这个受体在尖叫。对于猫而言，橘子皮里喷出的汁液飞沫，在接触到它们敏感的鼻粘膜时，产生的不是果香，而是类似于催泪瓦斯带来的烧灼感和刺痛。所以，猫眯眼睛不是在嫌弃，它是在保护眼睛免受化学刺激。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f66304eb3863ebc17abec3f3456a34ee_720w.jpg?source=8673f162" alt=""></figure>
+<p>重点是，这种让猫痛苦的物质，它们的身体根本处理不了<sup>[4]</sup>。下面是一个案例：</p>
+<blockquote>一只 2 岁已绝育的雌性家养短毛猫因表现出嗜睡、食欲不振、嚎叫以及异常攻击行为（持续 1 天）而接受检查。该猫在前一天曾使用含 D- 烯萜的杀虫香波进行美容。皮肤病变表现为融合性的红斑块。尽管进行了支持治疗，该猫的病情仍持续恶化。皮肤组织病理学变化包括多灶性急性凝固性表皮坏死。真皮层被密集的杆菌浸润。D- 烯萜中毒在犬猫中鲜有描述。据报道，其毒性反应包括流涎、共济失调、发抖、体温过低、阴囊刺激、低血压以及重症多形红斑。可能需要针对败血症和弥散性血管内凝血进行治疗，并配合强化支持护理。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7704fc689a9acf35b727153ebb78363a_720w.jpg?source=8673f162" alt=""></figure>
+<p>在哺乳动物的肝脏里，通常有一套垃圾处理系统，专门负责把脂溶性的毒素打包成水溶性的废物排出体外，这个过程需要一种关键的酶，叫做 UGT1A6<sup>[5]</sup>。然而，科学家在研究中发现，家猫以及它们在野外的亲戚（比如狮子、老虎）体内的这个基因是坏掉的。它变成了一个无法制造蛋白质的“假基因” <sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8841ae1b3fee16958d1660679b4c8810_720w.jpg?source=8673f162" alt=""></figure>
+<p>大概在 1100 万到 3500 万年前，猫科动物的祖先走上了一条极端的道路：肉食主义 。肉类是非常干净的能量来源，不像植物那样充满了各种防御性的化学毒素。既然世世代代都不吃草，身体觉得维持一套复杂的植物毒素解毒系统太浪费能量，干脆就让这套系统“停机”了。<sup>[7]</sup>这在自然界本来不是问题，毕竟没有哪只正常的野猫会去啃柠檬皮。</p>
+<p>它们偶尔“吃素”的行为其实并不违背肉食天性，吃草是为了“治病”<sup>[8]</sup>，吃哈密瓜是因为闻起来像肉<sup>[9]</sup>，吃橄榄是因为像猫薄荷<sup>[10]</sup>。这些行为本质上还是围绕着它们作为肉食动物的生存本能和感官特性展开的。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0ddc5444f4e602c8f7feda30f4023709_720w.jpg?source=8673f162" alt=""></figure>
+<p>直到它们遇到了喜欢清洁剂和香薰的人类。</p>
+<p>由于缺乏解毒酶，人类或狗几个小时就能代谢掉的柑橘精油成分，在猫体内会像幽灵一样长期滞留，引发蓄积性中毒。</p>
+<p>1980 年代，当时市面上流行一种号称“纯天然”的 D- 烯萜除蚤洗剂<sup>[11]</sup>。许多铲屎官觉得既然是“从橘子皮里提取的天然成分”，肯定安全无害。结果导致大量猫咪出现流口水、肌肉震颤、走路摇晃甚至体温过低的严重中毒症状 。兽医记录显示，当时按照推荐剂量给猫使用这种洗剂，依然导致了广泛的神经毒性反应，而同样的剂量用在狗身上却没事 。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-68c831147a1e137b8d17dc96ebd6ca54_720w.jpg?source=8673f162" alt=""></figure>
+<p>现在，一些家里的超声波香薰机或插电式空气清新剂对猫来说依然有威胁。当含有柠檬、甜橙或佛手柑精油的雾气喷洒在空气中，微小的油滴会落在猫的毛发上。猫在舔毛时，直接将这些毒素吃进肚子里。由于肝脏无法分解，这些化合物最终会导致肝衰竭 。</p>
+<p>下图这只猫因香薰精油中毒了，身体瘫软，几乎没有呼吸<sup>[12]</sup>，急救后捡回了一条命：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-308c15073c21fa9395e1c8094b81d2a8_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，当你下次剥橘子时，看到猫咪露出嫌弃甚至惊恐的表情，请不要强行把橘子皮凑到它鼻子底下开玩笑。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/14227987634">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787190</guid><pubDate>Sun, 01 Feb 2026 01:54:19 GMT</pubDate></item></channel></rss>
