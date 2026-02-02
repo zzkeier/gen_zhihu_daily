@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 01 Feb 2026 18:28:00 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么猫的颜色最多只有三种?</title><link>http://daily.zhihu.com/story/9787173</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-f4d5852209bb0eb35ce7a1a5a9ef1531.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Mon, 02 Feb 2026 01:47:13 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么有的人特别容易紧张？</title><link>http://daily.zhihu.com/story/9787204</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-86945f55ee6ff9922a0e5278ee3c7ce9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,98 +19,116 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-38bfedba3ee7ba2c0317bbdf06a16105_l.jpg?source=8673f162">
-<span class="author">猫研所，</span><span class="bio">猫咪知识精准科普平台</span>
-<a href="https://www.zhihu.com/question/667381276/answer/1928092642849301068" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-3685e1319de3eb20559968ceb55fa91b_l.jpg?source=8673f162">
+<span class="author">虞豁斐</span>
+<a href="https://www.zhihu.com/question/64747274/answer/1952671344945762837" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>其实猫咪的基础颜色只有两种：</strong><strong><strong>一种是：黑色系，由「真黑素」产生</strong></strong></p>
-<p><strong>会让猫咪呈现黑色、巧克力色、肉桂色。</strong>由三个等位基因控制：</p>
-<p>▌<strong>表达顺序为 B>b>b'</strong></p>
-<p>当猫咪携带 B 基因 时，表现为纯黑色：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-afd10411c4ffc784d1a06adf063be303_720w.gif?source=8673f162" alt=""><figcaption>图自：giphy</figcaption></figure>
-<p>b 基因，表现为巧克力色：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-57247e0c1c1e501e06c215ac63ec4536_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska</figcaption></figure>
-<p>b' 基因，表现为肉桂色：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2a4405b12965fe51f42d8835434cf30b_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fcc1c8f76c576434ab29e778d3a5f454_720w.jpg?source=8673f162" alt=""><figcaption>图自：labgenvet.ca 译：猫研所</figcaption></figure>
-<p><strong><strong>另一种是：红 / 橘色系，由「</strong>棕黑素」产生</strong></p>
-<p>会让猫咪呈现为橘色。由两个等位基因控制：</p>
-<p>▌<strong>表达顺序为 O>o，存在于性染色体（X）上。</strong></p>
-<p>O 基因的存在会<strong>抑制真黑色素的合成，让猫咪表现出橘色</strong>。（橘猫的基因可太强大了）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-da078dc9625b4215677baf61c2ee6d1f_720w.jpg?source=8673f162" alt=""><figcaption>图自：猫研所</figcaption></figure>
-<p>猫咪也和人类一样，小母猫的性染色体为 XX，小公猫为 XY。</p>
-<p>XOXO，XOY 就是我们常见的小橘猫：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0a22a08a0bb88c6b816be32cb35ab901_720w.jpg?source=8673f162" alt=""><figcaption>图自：幺九家的小橘子</figcaption></figure>
-<p><strong>而只携带 o 基因的猫咪，就不会表现出橘色，还按照 B、b、b'基因型表现颜色。</strong></p>
-<p>如果有两条 X 染色体，一条上的是 O，一条上的是 o，会如何显色呢？</p>
-<p>答案是：获得一只<strong>玳瑁</strong>猫~</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e0dfbec2d0839e401add9dd3bd7e4f47_720w.gif?source=8673f162" alt=""><figcaption>图自：wiffle gif</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8f98548abf50b307fb72a7c74999df01_720w.jpg?source=8673f162" alt=""><figcaption>图自：labgenvet.ca 译：猫研所</figcaption></figure>
-<p>聪明的小伙伴马上就要反应过来了：不对啊，怎么只有这几个花色？明明还有白猫、蓝猫、奶牛猫…啊。</p>
-<p>没错，猫咪的所有颜色都是在这两种黑色素上演变的，<strong>但要形成如今我们看到的这么多种花色，还离不开这两种因素↓</strong></p>
-<p><strong>三，基础色系上的变化</strong><strong><strong>（1）稀释基因</strong></strong></p>
-<p>Dilution（稀释）基因，<strong>稀释基因将会以一己之力将猫咪的基础色系由四种扩充为八种。</strong></p>
-<p>▌<strong>表达顺序为 D>d</strong></p>
-<p>当猫咪携带 D 基因 时，颜色不会有变化。还是我们在前面提过的四种：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5c81218e78f2822116c8686a61fc771a_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska 译：猫研所</figcaption></figure>
-<p>但如果只有 d 基因，上面四种颜色的猫咪毛色都会被稀释：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-99e73a388cb48705c5429df1ea8e5abd_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska 译：猫研所</figcaption></figure>
-<p>形成很治愈的：</p>
-<ul>
-<li>蓝色</li>
-</ul>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ce2ef9b4605c0e188dd06be621cce099_720w.gif?source=8673f162" alt=""><figcaption>图自：tenor</figcaption></figure>
-<ul>
-<li>浅紫 / 丁香色</li>
-</ul>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3420b8efbb0c80237fb586f73954eaa8_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska</figcaption></figure>
-<ul>
-<li>浅黄褐色</li>
-</ul>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-423338e56f2f4c89d4650e6a17919f8f_720w.jpg?source=8673f162" alt=""><figcaption>图自：Sonja Prohaska</figcaption></figure>
-<ul>
-<li>奶油色</li>
-</ul>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bed1cef81fa940f549ddaf2742d18d89_720w.jpg?source=8673f162" alt=""><figcaption>图自：creambel</figcaption></figure>
-<p><strong><strong>（2）白色基因</strong></strong></p>
-<p><strong>与很多人的认知不同，白色不是一种色素！而是由于色素缺失造成的。</strong></p>
-<p>能够让猫咪表现出白色的基因有两对，我们将第一对<strong>称为强力白（Dominant white，Ww）</strong>，<strong>第二对称为斑点白（Piebald-spotting，Ss）</strong>。</p>
-<p>▌<strong>强力白 W，w</strong></p>
-<p>强力白属于突变基因，一旦出现<strong>显性突变（w→W）</strong>，就会阻止色素到达皮肤，猫咪身上原本的颜色被白色覆盖，<strong>整只猫变成纯白色</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b8ed4d92081e35e82655dedb469ca99b_720w.gif?source=8673f162" alt=""><figcaption>图自：tenor</figcaption></figure>
-<p>白色的猫咪刚出生时，脑门儿上面会有一些带颜色的斑点。斑点的颜色是猫咪本身的颜色。</p>
-<p>▌<strong>斑点白 S，s</strong></p>
-<p>另外一对能让猫咪出现白色的是斑点白，斑点白不像强力白那么霸道，具有亲民可调节的不同白档。</p>
-<p>当猫咪携带的是 ss 时，不会影响猫咪本身的颜色。</p>
-<p>而 Ss 会让猫咪全身的 50%以下出现白色：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e0ed335a53eb0c94d2f89c4126caecd8_720w.jpg?source=8673f162" alt=""><figcaption>50%以下白的车车 图自：猫研所</figcaption></figure>
-<p>SS 则会让猫咪全身出现 50%以上的白色：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-353f0095c11270fc7facbd2dca2e368d_720w.jpg?source=8673f162" alt=""><figcaption>图自：栗子家的瓜哥</figcaption></figure>
-<p>在这种基因的作用下，猫咪全身会出现各种不同白色块，演变成我们常见的：燕尾服、警长、奶牛、三花，传统的雪里拖枪、乌云盖雪、衔蝶等等。</p>
-<p>神奇的 Ss 基因才是猫界花色多样性的最大功臣。</p>
+<p><strong>因为你的身体是设计出来打猎的。</strong></p>
+<p>人类脱离原始社会的时间约有 5000 年，而脱离农业社会（作为主导生产方式）仅仅只有 260 余年。</p>
+<p>人类可以发展到信息社会这个水平，大脑基本上就是一把手 MVP，双手就是二把手，其他身体器官都是躺赢狗，够用就行。</p>
+<p>也就是说，我们的身体在某种程度上用的是和原始人祖先差不多的生物配置。</p>
+<p><strong>在原始社会里，“麻烦的问题”和“重要的场合”基本上就会和打猎有关。</strong></p>
+<p>当我们的祖先还是原始人的时候，为了打猎到足够的猎物且不饿死整个部落。</p>
+<p>身体在战斗开始前，会先进入“<strong>交感模式</strong>”：</p>
+<p>此时交感神经会占据身体的主导地位，具体会表现为心跳加快、血压升高。</p>
+<p>这是为了给身体快速输送更多血液至大脑和肌肉，以应对潜在威胁，是应激状态下的本能调节。</p>
+<p>同时，呼吸加速会变浅，或突然屏住呼吸，​屏住呼吸则是远古人类隐藏自身的本能遗留，属于进化中遗留下来的防御机制。</p>
+<p>在身体上，我们肌肉还可能会变得紧张（颈、背部僵硬酸痛）、颤抖（如手抖）、坐立不安。</p>
+<p>​肌肉紧张是身体随时准备行动的应激反应；颤抖多由神经调节或肾上腺素分泌等内分泌异常导致。</p>
+<p>也就是说，当人类面临危险时，我们的交感神经会迅速激活，通过释放肾上腺素和去甲肾上腺素，引起<strong>心跳加快、血压升高、支气管扩张、瞳孔扩大</strong>等一系列生理变化，为应对威胁提供爆发性能量。</p>
+<p><strong>这都是为了在短时间内在猎场中决出生死，在这种原始语境下，它是绝对的优势。</strong></p>
+<p>但在现代，“思考”这种抽象运动才是社会主流。</p>
+<p>而考试、面试等抽象压力却同样会触发这套原始狩猎系统。</p>
+<p>如果我们在实际情况中<strong>既无法“战斗”也不能“逃跑”</strong>，那么这些激素能量就无法被最原始的活动所消耗。</p>
+<p><strong>此时，“解药”变成“毒药”。</strong></p>
+<p>交感神经系统就像是当年的李白一样，拔剑四顾心茫然了。</p>
+<p>这些能量（如肾上腺素、皮质醇）积聚在体内，进而导致了肌肉紧张、坐立不安、心慌气短，身体还可能会表现出持续的紧张、焦虑和躯体症状（如胃痛、头痛等）。</p>
+<p>有的人在紧张焦虑的时候，可能会在房间里一刻不停地来回走动或者无意识抖腿，这正是这种本能驱动的外在表现。</p>
+<p><strong>这种无目的运动，可以视为身体在自发地去消耗掉那些为行动而准备的过剩能量。</strong></p>
+<p>而跑步、游泳、健身等原始运动，则能自然消耗掉肾上腺素和皮质醇等应激激素，从而让身体在生理上就“累到放松”，这可能就是运动可以在一定程度上缓解紧张焦虑的原因。</p>
 <hr>
-<p>所以，准确地说：猫咪的毛色由两种基础色素以及控制它们表达、分布、密度、图案的多个基因共同决定。白色是色素缺失的表现。</p>
-<p>我们看到的多种花色效果，特别是经典的“三色”，是这些基因相互作用的产物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d623d48540b8328cbfaed0aa39bc0cd_720w.gif?source=8673f162" alt=""><figcaption>图自：wiffle gif</figcaption></figure>
+<p>在现代社会里，我们常常会遇到符合我们时代特色的“猎物”，例如学历、技能、资源等。</p>
+<p>但它们往往和在原始猎场中啖骨嚼肉的原始猎物不太一样，这些“<strong>现代猎物</strong>”还是太抽象了。</p>
+<p>现代猎人想要捕获“<strong>符号猎物</strong>”更多要靠脑子，身体的其他部位都是辅助位，这就带来了一个问题：</p>
+<p><strong>有没有得到“物质猎物”是即时的和可视化的；有没有得到“符号猎物”却是延迟的和难以名状的。</strong></p>
+<p>我们身体的狩猎设计更适合去获取“短期即时”的原始猎物，但现代猎物更喜欢让我们去延迟满足。</p>
+<p>延迟是真的，但不一定满足。</p>
+<p>对战类游戏之所以可以缓解焦虑，就在于敌人被可视化了，成长也被数值化了。</p>
+<p>它非常符合我们祖先在打猎时生物本能对“即时满足”的可视化需要。</p>
+<p>恐怖游戏就里面有一种叫“追逐战”的设计，它模拟了我们祖先们被各种野兽追逐猎杀的危险情景。</p>
+<p>现代社会中的压力（如工作指标、社交比较）就像是中子一样，是无形且渗透性极强的（符号森林）。</p>
+<p>它不像具体的物理威胁（如猛兽）那样容易被感知和定位，因为它们常常是一套隐蔽的符号规则和评价体系。</p>
+<p>我们仿佛置身于一个巨大的、没有明确规则的竞技场，不断接受着来自他人和社会的“符号性”评判。</p>
+<p><strong>这让我们从被“野兽们”追逐猎杀变成被“符号们”追逐猎杀。</strong></p>
+<p>这种压力不像猛兽那样有明确的形态和对抗方式，但它弥散在空气中，无处不在，却又难以抓住和反击，从而导致持续的紧张感。</p>
+<p>不仅如此，在那些通讯并不发达的年代里，大多数人基本上一下班就可以和自己的工作产生分解反应了，就像原始人从猎场回到山洞后就能体会到安全感一样。</p>
+<p>即使有什么事，也至少要等到明天上班才可以通知，而现在基本上发一条信息就可以把人搞应激了。</p>
+<p>以前的班，下班就散了。</p>
+<p>现在的班，像鬼一样缠着你，而且还吸人阳气。</p>
+<p><strong>风声鹤唳，草木皆兵。</strong></p>
+<p>本来上班就是在坐牢（一次伤害），现在待在家里也可以享受到监狱服务了（二次伤害）。</p>
+<p>居家办公的潜意思变成了随时可以加班，它模糊了“工作”和“生活”的心理边界。</p>
+<p>家作为“休息空间”的心理意义被削弱了，变成了另一间办公室。</p>
+<p><strong>就像是玩恐怖游戏的时候，刚刚进安全屋还以为可以喘一口气，没想到鬼也跟着进来了。</strong></p>
+<p>因此，大脑并不知道什么时候要关了战斗状态，什么时候又要打开战斗状态。</p>
+<p>只要有任何风吹草动，杏仁核甚至可以绕过负责理性思考的大脑皮层，直接向下丘脑发出信号，以求最快速度启动身体反应。</p>
+<p>下丘脑则可以通过自主神经系统向身体发出指令。</p>
+<p>在意识甚至还未反应过来之前，身体就启动了全身战备状态：</p>
+<p>心跳加速、血压升高、血糖上升，身体进入一种高耗能、高准备的“产热”状态，以应对未知的挑战。</p>
+<p><strong>而这可能就是只用“讲道理”缓解不了“紧张”的原因，“紧张”并不在“道理”的管辖范围之内。</strong></p>
 <hr>
-<p>参考资料：</p>
-<p>[1] <a class=" external" href="http://link.zhihu.com/?target=http%3A//messybeast.com/colour-charts.htm" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">messybeast.com/colour-c</span><span class="invisible">harts.htm</span><span class="ellipsis"></span></a></p>
-<p>[2]<a class=" external" href="http://link.zhihu.com/?target=https%3A//vgl.ucdavis.edu/resources/coat-color" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">vgl.ucdavis.edu/resourc</span><span class="invisible">es/coat-color</span><span class="ellipsis"></span></a></p>
-<p>[3]<a class=" external" href="http://link.zhihu.com/?target=http%3A//www.bioinf.uni-leipzig.de/Leere/SS19/TBio//CatCoatColor18.pdf" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">bioinf.uni-leipzig.de/L</span><span class="invisible">eere/SS19/TBio//CatCoatColor18.pdf</span><span class="ellipsis"></span></a></p>
-<p>[4]<a class=" external" href="http://link.zhihu.com/?target=https%3A//kids.cfa.org/understanding-cat-colors.pdf" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">kids.cfa.org/understand</span><span class="invisible">ing-cat-colors.pdf</span><span class="ellipsis"></span></a></p>
+<p>一些习惯去压力自己的人，可能会发现自己变得有些“不会休息”了，也就是逐渐对任何东西都提不起兴趣，身体经常处于一种应激敏感的状态。</p>
+<p>这是因为当交感神经过度兴奋时，身体容易持续透支自己的精力和健康。</p>
+<p>身体透支会导致人肉电池最大容量越来越小，最终表现为精力不济，更容易感到疲劳，过去能轻松应对的事情现在也觉得力不从心。</p>
+<p>与之相反，在我们的身体里，副交感神经系统扮演着“生理控制棒”的角色，负责让身体放松、修复、恢复平静。</p>
+<p>这会具体表现为：</p>
+<p>心血管系统：心率减慢、血压降低。</p>
+<p>呼吸系统：呼吸变得深长平稳（深呼吸）。</p>
+<p>肌肉系统：肌肉放松，张力降低。</p>
+<p>当系统回归稳定、有序、低耗能的运行模式时，能量就被用于内部修复和储存，而非对外反应。</p>
+<p>但在现代社会持续不断的压力机制下，我们的副交感神经往往无法被有效启动，就像是中子不能被有效吸收或慢化，过度增殖，身体就像一座失去了控制棒的反应堆。</p>
+<p><strong>本来在现代社会里输上几次，只是让出一部分资源，而在原始社会里，只要输一次，就会残疾或者死亡。</strong></p>
+<p>如果大脑的威胁识别系统难以区分“生存危机”与“发展压力”，就会将职场竞争判断为部落冲突，将经济波动等同于食物短缺。</p>
+<p>当杏仁核还由于过往创伤或持续压力，变得过度敏感，它就会像一台误报的烟雾报警器，不断拉响警报。</p>
+<p>我们开始真切感受到：</p>
+<p>心跳加速、肌肉紧张、出汗、恐惧和焦虑感。</p>
+<p><strong>这些反应是如此真实，仿佛威胁就在眼前。</strong></p>
+<p>经常性地焦虑失眠，就可能是杏仁核它“忘关了”，身体被持续耗能，陷入慢性疲惫和无效紧张 。</p>
+<hr>
+<p>综上所述，现代人不是变得更脆弱，而是我们面对的是一场没有明确终点的、无处不在的“隐形狩猎”，甚至还有人在火上浇油地贩卖焦虑。</p>
+<p><strong>不敢休息、不会休息，甚至出现越“休息”就越“累”的情况比比皆是，例如报复性熬夜刷手机，结果越看越空虚。</strong></p>
+<p>工作的目的本来是为了“更好的生活”，但是现在本末倒置了，生活的目的居然变成了“更好的工作”。</p>
+<p>工作摸鱼就像是核反应堆中的控制棒，其核心价值并非阻止反应发生，而是精准地吸收过多的任务中子，将剧烈的工作裂变反应调控在一个安全、稳定、可持续的运行状态。</p>
+<p>但如果我们把“生活”也变成了“工作”的一部分，我们的交感神经系统就会被长期、低度地激活，使我们的身体陷入一种持续的应激状态。</p>
+<p>对未来不确定性的过度思虑，或者对多个压力源的持续担忧，对工作或学习表现出长期自我怀疑，无数次小的挫败感和紧张元素就逐渐富集成了“焦虑矿床”。</p>
+<p>这将导致我们会永远在“备战”，却很少有机会“庆祝狩猎成功”并彻底放松。</p>
+<p>大脑（杏仁核）无法获得一个明确的“狩猎成功，可以休息”的信号。</p>
+<p><strong>它永远觉得“猎物”还没彻底到手，危险依然存在。</strong></p>
+<hr>
+<p>现代人大部分不会打猎，这不是因为他们不擅长，而是因为技能点从小到大就在学校里点到脑子里了，现代社会并不需要那么多的原始猎人。</p>
+<p>我们人类的身体配置更倾向于“高攻低防”，只要不小心挨大型猫科动物一巴掌就很容易废掉，以至于杏仁核出现负面偏好的个体更容易存活下来。</p>
+<p>你可以赢一千次，但你只要输一次，人生基本上就出局了。</p>
+<p>而这种个体的“脆弱”却恰恰让群体演化出通过<strong>数量优势</strong>和<strong>分工协作</strong>来分散风险的生产策略。</p>
+<p>很多身体方面的问题通过追根溯源，我们几乎都可以在祖先和演化那里得到答案。</p>
+<p>人类身体的许多基本“设计”，包括应激反应系统，是在长达数百万年的旧石器时代塑造完成的。</p>
+<p>当交感神经兴奋时，身体会抑制消化等非紧急功能，将能量集中供给心脏和肌肉，让人在危险面前反应更加敏捷、耐力更加持久。</p>
+<p>容易紧张的人，他们的祖先往往就是部落里的狩猎高手。</p>
+<p>这是因为他们的身体积累“激素能量”的速度比其他人更快，对原始战斗的反应也更加敏感。</p>
+<p>在原始狩猎中，这套交感系统能确保信号拉满、反应神速。</p>
+<p><strong>反之，当我们古老的生存本能与现代复杂环境出现一种“时代错配”时，紧张也就难以避免地变成了猪队友。 </strong></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/667381276">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/64747274">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787173</guid><pubDate>Sun, 01 Feb 2026 18:27:56 GMT</pubDate></item><item><title>海豹为什么拍肚皮?</title><link>http://daily.zhihu.com/story/9787178</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-721b5793ee9df0d75874cfcede2c1116.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787204</guid><pubDate>Mon, 02 Feb 2026 01:47:11 GMT</pubDate></item><item><title>恐龙真的和现在的复原图长得差不多吗？</title><link>http://daily.zhihu.com/story/9787211</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-420685e50d5914a1e2b40ec3cb7ebcee.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -130,85 +148,134 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
+<img class="avatar" src="https://pica.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
 <span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/358308083/answer/1992250426049963652" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/10215702819/answer/1894478543360070283" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>噗，刷到这个有趣的问题，没想到还挺多人关注，可能因为海豹、海狮等有种神奇的魔力，刚开始看见觉得很丑，看久了就顺眼了：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-16253ca7e53543d6010691be509ec83d_720w.jpg?source=8673f162" alt=""></figure>
-<p>海豹喜欢拍<strong>豹腹</strong>是因为想要<strong>暴富</strong>吗？（bushi）</p>
-<p><strong>主要原因是为了表示威慑。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-681795c255c414cce81f7bee75f48866_720w.jpg?source=8673f162" alt=""></figure>
-<p>喜欢看动物世界的朋友会发现海豹好像很喜欢拍自己的肚子。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-99fe5ed466d648874a3e5385ac5626a4_720w.gif?source=8673f162" alt=""></figure>
-<p>而海象，海狮等动物则喜欢拍手：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1865a4751801ebd1a8cd437b8034423f_720w.gif?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d3fcf1a19ee026c49d90de47b60e9ca_720w.gif?source=8673f162" alt=""></figure>
-<p>拍手或者拍肚皮的本能都是为了发出声音，有人接近领地的时候就可以大声威胁。</p>
-<p>越大越健壮的海豹拍肚皮的速度越快，越响，所以能展示自己的核心优势，用来吓退竞争对手或者在繁殖季节吸引异性。</p>
-<p><strong>2024 年最新的研究表示这种节奏信号在动物界中广泛存在 *1</strong></p>
-<p><strong>海豹等鳍足类动物所有的亚成体和成年个体在争斗性或防御性情境下，无论在陆地还是水中，均会用前鳍状肢进行敲击信号传递。</strong></p>
-<p>在地面或身体上产生的鳍状肢拍打，其间隔持续时间往往高度规律，即很有节奏感。</p>
-<p>海豹的拍打速度为 200-600 拍 / 分钟。部分个体还表现出显著的拍打侧利性（左撇子或者右撇子）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-351dd9d067ae2edec75fca379923c3ba_720w.gif?source=8673f162" alt=""></figure>
-<p>不过，陆地上雌性雄性都会拍打，但是在水下仅<strong>成年雄性</strong>会拍打，且速度慢一个数量级。</p>
-<p>这些海洋动物的拍打跟大猩猩捶足顿胸的目的接近：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a7032bd324ce818b69de10ae9bf04d79_720w.gif?source=8673f162" alt=""></figure>
-<p>都是释放一些威慑警惕的信号。</p>
-<p>当然如果威胁无效的话，战斗还会升级：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-177da52f7e3038dc60966821df634f45_720w.gif?source=8673f162" alt=""></figure>
-<p>科学家研究发现，除了拍肚皮外，海豹还会用一种叫做“Body slap”的方式发出声响：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b9d6bcd3813509fc89cb24b99f66895_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d2b2f1cc63bbc8a3a659d945cf85fd32_720w.gif?source=8673f162" alt=""></figure>
-<p>也就是说，如果单纯的拍肚皮不管用的话，它们还会用身体拍打地面（在地上蛄蛹）</p>
-<p>如果在地上蛄蛹还不能起到威胁作用的话，它们就要动真格了：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5c113ad989466232307398f1eec66ae8_720w.gif?source=8673f162" alt=""></figure>
-<p>流星大踏步的跑过来咬你一口！</p>
-<p>不过这都是自然情景下的拍打，人工饲养的鳍足类动物可以利用食物诱导它们做出这些行为，也就是饲养员做手势让它们拍手或者拍腹，然后给予食物奖励。</p>
-<p>所以海洋馆的海豹拍肚子，海狮鼓掌就没有威胁性。</p>
-<p>不过要注意的是不要认错动物了，如果你看见海獭在拍肚子，那是它拿着贝壳往自己肚子上的石头上砸开，准备吃饭呢：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8c405c740a17e54a0dbcf582c3a9db7f_720w.gif?source=8673f162" alt=""></figure>
-<p>其实不止鳍足类的动物，其他海洋动物也有拍打水面发出声响展示威胁的：</p>
-<p>比如鲸类动物就喜欢用尾鳍和胸鳍拍击水面产生低频、远距离传播的冲击声，在空中和水里都可以传播：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-43cfc76d0ca3b3440a2c19bd82020c4f_720w.gif?source=8673f162" alt=""></figure>
-<p>同样是为了对潜在对手威胁的行为。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d87b337a3a9e42fed19c9434ebc2bc6d_720w.gif?source=8673f162" alt=""></figure>
-<p>另外，鉴于第一张图其实是海狮但是很多人认成了海豹，这里简单做下区分：</p>
-<p><strong>如何区分海牛，海象，海狮，海豹？</strong></p>
-<p>这几个动物可能是大家经常混淆的</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-866655f7d7bf9161367bbbdb90a4a5f5_720w.jpg?source=8673f162" alt=""></figure>
-<p>海象，海狮，海豹，海狗等这些动物全都属于哺乳动物食肉目<strong>犬型亚目</strong>的鳍足类，而海牛属于食草性的<strong>海牛目，</strong>它们甚至都不是一个目的。所以海牛跟食肉的海洋动物应该不容易混淆。</p>
-<p>那我们重点说说食肉的鳍足类：</p>
-<p>鳍足类包括<span class="nolink">海</span>狮科(Otariidae)、<span class="nolink">海象</span>科(Odobenidae)和<span class="nolink">海豹</span>科(Phoeidae)三科</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c9b4d0e11f386de97f89c23d6f485b8e_720w.jpg?source=8673f162" alt=""></figure>
-<p>海狮和海狗都是有<strong>可见耳罩（耳朵）</strong>的海狮科成员（otariids）。</p>
-<p>在陆地上行走时使用所有鳍状四肢，游泳时使用前肢。</p>
-<p>它们的后鳍状肢很短，可以前后转动，对于在陆地上行走最有用。海狮科在陆地上的移动速度比海豹快得多。</p>
-<p>你在海洋哺乳动物表演中看到的表演特技的生物通常是海狮而不是海豹。（海狮更为细长，且手长脚长，比海豹灵活，能鼓掌，能接球。而海豹太肥了，且手短……）</p>
-<p>海狮这个名字来源于雄性的鬃毛。</p>
-<p>简单来说，海狮和海狗有耳朵罩，趴在地上是瑜伽姿势，海豹没有“耳朵”，趴在地上是个大香蕉</p>
-<p>海象非常好区分，它们有“象牙”</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-24a1885da7c1f89ceed86b21bb0ef73c_720w.jpg?source=8673f162" alt=""></figure>
-<p>上面几个都是肉食性鳍足类动物，而海牛和儒艮则是草食性海牛目动物。。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e3e55e82c0464140bad37d9adb9ab312_720w.jpg?source=8673f162" alt=""></figure>
-<p>牙齿和头型都有很大区别，所以仔细看还是很好区分的。</p>
+<p><strong>我觉得应该差很多，至少在颜色方面来说肯定是天差地别的。</strong></p>
+<p><strong>（关于评论说的恐龙没有羽毛，恐龙太大了颜色暗淡等等问题于最后补充回答）</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ac28fc7a4bdf152147ada26ffe96844_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是一般刻板印象的恐龙复原图，灰扑扑的，裸露的皮肤，丑陋的外表。</p>
+<p>但是仔细想想就会觉得有很大问题：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c919c7913846c0041661ea4487f86bdb_720w.jpg?source=8673f162" alt=""><figcaption>鸟类是恐龙后裔，霸王龙表亲</figcaption></figure>
+<p>鸟类作为恐龙后裔，它们可以绚丽多彩：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-66808d45b602ad84f08558b9cfe5bda6_720w.jpg?source=8673f162" alt=""><figcaption>佛法僧目下的翠鸟科</figcaption></figure>
+<p>恐龙作为曾经的地球霸主，又不需要像当时的哺乳动物那样狗苟蝇营（夜行性假说认为哺乳动物在恐龙时代过夜行性生活，所以对颜色不敏感，只有两三种色素而且除了灵长类几乎都是二色觉色盲），恐龙它们没有道理在颜色上那么吝啬，长得那么丑。</p>
+<p>复原恐龙颜色有个很大的问题就是：化石里的色素很不好保存。</p>
+<p>在带羽毛恐龙（如小盗龙、中华龙鸟）的化石中，已发现保存完好的黑素体（melanosomes）。黑色素分为真黑色素（黑色 / 棕色）和褐黑素（红黄色），这些结构通过电子显微镜可辨识，证实恐龙羽毛中存在黑色素。</p>
+<p>但是除了黑素体的色素外几乎无法保存，这就是复原颜色的难点所在。</p>
+<p><strong>目前我们知道，鸟类有七种色素：</strong></p>
+<p><strong>类胡萝卜素、黄素、黑色素、卟啉、鹦鹉黄素、蝶呤、嘌呤和羽红素</strong>（其中大多数都是鸟类独享的色素）</p>
+<p>另外鸟类还有复杂的结构色：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b408d368273ce0700eb0b9a334396d1_720w.jpg?source=8673f162" alt=""></figure>
+<p>当光照射到鸟类的羽毛表面或内部的纳米级结构（如角蛋白、空气层、周期性排列的微孔等）时，会发生以下光学现象：</p>
+<p><strong><strong>干涉</strong>：</strong></p>
+<p>多层薄膜或周期性结构导致不同波长的光波叠加或抵消。例如，孔雀羽毛的虹彩色由角蛋白层与空气层交替排列引发干涉（类似肥皂泡的彩色条纹）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cc647af17b3be4ba1f3687190e97a9a5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-20da56e4600765e76764c0b3b33cc524_720w.jpg?source=8673f162" alt=""><figcaption>来源于薄膜干涉效应的鸟羽毛颜色。羽毛在偏振光（CPL）照射下，并通过相反偏振光滤光片观察。A：绿头鸭羽毛，B：岩鸽羽毛，C：孔雀羽毛（a：眼状图案周围的绿色部分；b：眼状图案中心的蓝色部分）；D：长尾小鹦鹉羽毛（a：红色羽毛；b：蓝色羽毛）。左图：无滤光片；右通过 CPL 滤光片观察</figcaption></figure>
+<p>可以看见用偏振光滤光片观察的部分鸟类羽毛结构色消失，黯淡无光。</p>
+<p><strong><strong>散射</strong>：</strong></p>
+<p>羽毛内部的随机海绵状结构（如蓝山雀蓝色羽毛）或有序晶体（如蓝翅叶鹎的螺旋二十四面体）选择性散射特定波长光波。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-eaa68072c72cb88297e8caceac4290c4_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>衍射</strong>：</p>
+<p>规则排列的沟槽或突起使光发生偏折，形成特定颜色（常见于蜂鸟喉部羽毛）</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c997940e5c47cd218129080fdc541365_720w.jpg?source=8673f162" alt=""></figure>
+<p>由此鸟类的不同色素加上结构色可以呈现异常绚丽的颜色，甚至是五彩斑斓的黑，在不同视角有不同颜色。</p>
+<p><strong>那么问题来了，恐龙有没有这些色素和结构色呢？</strong></p>
+<p>还是先重复刚才那句话，目前在恐龙化石里发现的只有黑素体。其他的色素存在无法确定。</p>
+<p>首先七种色素里的 psittacofulvin(鹦<em>黄素</em>)是鹦鹉独有的，是鹦鹉发生变异后的色素，恐龙应该是没有的 *1。</p>
+<p>剩下的黑色素确定有。</p>
+<p>尽管动物不能合成类胡萝卜素，但它们可以通过摄入的方式展现在外表上。</p>
+<p>已有研究表明，只有黄色类胡萝卜素被动物吸收，并可以生物转化成红色类胡萝卜素。</p>
+<p>然后，不同类型的类胡萝卜素混合可以创造出中间色调。</p>
+<p>鸟类能通过食物获取类胡萝卜素，那么恐龙也可能通过捕食含类胡萝卜素的植物或动物间接获，这个应该不难，但是也不确定。</p>
+<p>部分鸟类（如蕉鹃）使用卟啉色素呈现绿色或红色，不过，某些恐龙可能通过黑色素与结构色叠加模拟绿色（如绿孔雀机制）。</p>
+<p>蝶啶和相关色素（例如某些嘌呤和黄素）是嘌呤核苷酸（腺苷三磷酸和 / 或鸟苷三磷酸）分解代谢的副产品，目前仅在鸟类的眼睛里发现，没有体现在羽毛色素上。</p>
+<p>由此可见，最有可能在恐龙身上的就是类胡萝卜了，所以至少红黄绿蓝我们还是可以在恐龙身上期待一下。</p>
+<p>另外，即便是最惨的情况，只有黑素体，也可以产生复杂的结构色。</p>
+<p><em>小盗龙</em>是一种发现于中国辽宁的小型兽脚类恐龙，刚开始复原出来的颜色是纯黑的：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f7c605f5faac2fd5fd751ee417e426a7_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是随着对其黑素体排列结构的研究，发现其排列方式可能会呈现蜂鸟喉部羽毛一样的彩虹色：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-85c78ab4f19e13b4867e29443f572e6c_720w.jpg?source=8673f162" alt=""><figcaption>A) Tufted titmouse - 冠山雀 B) Macaroni penguin - 长冠企鹅 C) Double-crested cormorant - 双冠鸬鹚 D) Palm cockatoo - 棕榈巴丹凤头鹦鹉 E) Brazil duck - 巴西凫 F) Microraptor - 小盗龙</figcaption></figure>
+<p>也就是说，它可能是这样的：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8022e88f1c2831f663bdeccc47282265_720w.jpg?source=8673f162" alt=""></figure>
+<p>另外有一点，恐龙在侏罗纪崛起，在白垩纪达到鼎盛，那会的温度可比现在高多了。</p>
+<p>白垩纪整体气温远超现代温带和热带，其高纬度地区呈现“亚热带化”，而赤道区域则达到现代难以企及的超高温。</p>
+<p>白垩纪大气 CO₂浓度约为现代 4-8 倍，全球平均气温比现今高 6-10℃，两极无永久冰盖（南北两极还有森林覆盖）。</p>
+<p>这种低纬度梯度、高基线温度的气候模式，与当前地球系统存在本质差异，可视为一种“超级温室”状态。</p>
+<p>那这又有什么意义呢？</p>
+<p>那就不得不提到彩色热带假说了:</p>
+<p>关于鸟类色彩丰富度的分布，当然有科学家好奇为什么有的地方鸟类异彩纷呈，而有的地方却暗淡无光。</p>
+<p>从明面上来看，好像热带的鸟类明显明艳夺目一些。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5d66bd89251be8915aea609594420138_720w.jpg?source=8673f162" alt=""><figcaption>一些热带鸟类标本</figcaption></figure>
+<p>早在 1800 年代，达尔文和 Alfred Russel Wallace 以及 Alexander von Humboldt 就联合提出了</p>
+<p><strong>“彩色热带假说”</strong></p>
+<p>该假说认为，生活在热带的鸟类比生活在靠近两极的鸟类颜色更加丰富多彩。</p>
+<p>在不同地区生活过的人肯定觉得这是个生物学上“易得”“容易证明”的问题，因为事实好像确实如此，不言自明。</p>
+<p>但是科学是要讲究依据的。</p>
+<p>现代的科学家一直在为这个假说找证据。</p>
+<p>近些年，利用大数据模型，科学家实证了这一观点：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-252411492d4a92596ca8c31a4944c3b5_720w.jpg?source=8673f162" alt=""></figure>
+<p>图中是以雀形目为例子的色彩梯度，明显热带地区的鸟类颜色颜色艳丽很多。</p>
+<p>那么为什么会这样呢？</p>
+<p>他们考虑了很多因素</p>
+<p><strong><strong>包括生物因素：吸引配偶、威慑或恐吓对手、逃避和 / 或成为成功的捕食者，以及调节体温。</strong></strong><strong><strong>还有一些非生物因素：如栖息地光的数量 / 光谱性质、视觉背景和关键营养素的获取。</strong></strong></p>
+<p>于是 2018 年又有科学家做了一个统计：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e942d822a793698728a7a55d989fc75d_720w.jpg?source=8673f162" alt=""></figure>
+<p>发现对鸟类颜色影响最大的几个因素分别是鸟类多样性、降雨和太阳辐射。</p>
+<p>这就可以解释为什么热带鸟类又多又艳丽了，因为热带地区一个生物多样性丰富，一个降水量充足，还有光照辐射。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fb9474da09119237a0606c0dd1a3e5bf_720w.jpg?source=8673f162" alt=""></figure>
+<p>光照辐射越强烈的地方蝴蝶和鸟类的颜色种类越少，越暗淡。</p>
+<p>另外一个就是植物高度，植物越高，颜色越丰富。这个很好理解，植物遮挡了太阳光，所以能够给下面的动物充分发育空间。</p>
+<p>由此，降雨充沛、阳光辐射不高，物种种群丰富的热带雨林和草原自然能够孕育出颜色最动人的鸟类。</p>
+<p>当然如果苔原带鸟类数量充沛，也会孕育出颜色丰富的鸟儿，毕竟颜色跟物种丰富程度最相关。</p>
+<p>但是遗憾的就是苔原带没有那么多初级生产者，无法提供大量食物和鸟儿栖息环境，所以那些高纬度地区无法孕育颜色艳丽的鸟儿的原因就在此。</p>
+<p>综上所述，温带和热带的鸟儿更容易出颜色艳丽的爆款。</p>
+<p>鉴于白垩纪的气温呈现出一个“超级温室的状态”，所以恐龙更没有理由是黑不拉几的了。</p>
+<p>所以恐龙爱好者请大胆假设吧！漂亮的彩色恐龙：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-381ffbbb6978d0978e64020f6154b8eb_720w.jpg?source=8673f162" alt=""></figure>
+<p>参考文献：</p>
+<p>1Discrimination of thin-film interference color of bird feathersusing circular polarized light</p>
+<p>2Recent advances in amniote palaeocolour reconstruction and a framework for future research</p>
+<p>3Abiotic and biotic predictors of macroecological patterns in bird and butterfly coloration</p>
+<hr>
+<p>评论区答疑：</p>
+<p>1 恐龙大多数是没有羽毛的：</p>
+<p>针对这个问题可以说说，目前已经发现超 50 种带羽毛恐龙，除了一些中小型的类鸟恐龙带羽毛外，还有一些超大型的恐龙也有羽毛。</p>
+<p>比如<strong>华丽羽王龙（Yutyrannus huali），</strong>它是暴龙超科羽王龙属的恐龙，体长 9 米，体重 1.4 吨，全身覆盖 20 厘米长丝状羽毛，为已知最大带羽毛恐龙。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-76aa6a433b067d6cc71a7b0465baee83_720w.jpg?source=8673f162" alt=""></figure>
+<p>羽王龙的一般复原图是灰色的。</p>
+<p>但是它稍微有点色彩也不是没可能：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c6ae941b799946a1bf514813e5f85225_720w.jpg?source=8673f162" alt=""></figure>
+<p>另外，即便是没有羽毛，也可以通过表面的鳞片呈现绚丽的颜色，就像变色龙那样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1b80491a8bad606aca78b6dc7e19efe7_720w.jpg?source=8673f162" alt=""></figure>
+<p>2 恐龙体型比较大，大鸟往往颜色暗淡，小鸟才颜色鲜艳。</p>
+<p>这完全是刻板印象啊。</p>
+<p>如果有这种观点的请复习一下刚才的“彩色热带假说”。</p>
+<p>通常来说，对于鲸等超大型动物来说，色素可能确实受到能量限制，但是对于鸟类来说，鸟类的颜色跟它所处的环境关系更大。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9e4b207c6e461d006cd5b19d1dc4d4cc_720w.jpg?source=8673f162" alt=""></figure>
+<p>比如属于中大型鸟的孔雀，色彩绚丽，而属于小型鸟的麻雀，颜色暗淡。</p>
+<p>归根到底还是因为孔雀的栖息地一般是云南、缅甸等温带地区海拔 2000 米以下的稀树草原、灌木丛、竹林以及针叶、阔叶林的开阔地带，偏好靠近水源的区域。</p>
+<p>这些区域方便隐藏，即便是有绚丽的颜色也容易融入环境。</p>
+<p>而麻雀除了在南方分布，在严寒的北方地区也有分别，除了在荒野外，在城市也有分布。</p>
+<p>正是为了应对不同的环境，才进化出跟泥土比较接近的颜色，方便隐藏。</p>
+<p>同样的道理，现在推断白垩纪陆地生态系统中，成熟森林的乔木层主体高度集中在<strong>30-50 米</strong>区间，与当代热带雨林近似，而且 20kg 以下的中小型恐龙占据已发现恐龙的数量也有 15%-20%。</p>
+<p>像孔雀这种一两米大的恐龙也挺多。</p>
+<p>所以恐龙有颜色这件事我几乎是肯定的。只是因为色素没法保存，以及我们目前的技术没法发现而已。</p>
 <p>以上~</p>
-<p>参考资料：</p>
-<p>1Harbour seals use rhythmic percussive signalling in interaction and display</p>
-<p>2Body slap: An innovative aggressive display by breeding male gray seals (Halichoerus grypus)</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/358308083">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/10215702819">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787178</guid><pubDate>Sun, 01 Feb 2026 18:27:57 GMT</pubDate></item><item><title>灵长类以外有和人类趋同进化的动物吗？</title><link>http://daily.zhihu.com/story/9787184</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6602030d1bb28d124029348dba05525e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787211</guid><pubDate>Mon, 02 Feb 2026 01:47:12 GMT</pubDate></item><item><title>地铁图为什么不按照真实比例和路线画？</title><link>http://daily.zhihu.com/story/9787354</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-6f1e6570840a4729435d919fa5cdbb71.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -228,69 +295,63 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
-<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的退役士兵。</span>
-<a href="https://www.zhihu.com/question/1948119904894026353/answer/1986875828039074046" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户，</span><span class="bio">建筑设计 | 留学咨询 | 私信合作</span>
+<a href="https://www.zhihu.com/question/8912249208/answer/86219241799" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>问：如果你想组织实施一场犯罪，谁会是你最得力的帮手？</strong></p>
-<p><strong>答：考拉。</strong></p>
-<p>因为考拉可以把警察变成猴子：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-63704833df234effc94ec0e5cdef24a7_720w.jpg?source=8673f162" alt=""></figure>
-<p>开个玩笑。</p>
-<p>在说明其原因前，我要先解释一下「趋同进化（Convergent evolution）」。</p>
-<p>它的定义是：源自不同祖先的生物，由于相似的生活方式或者环境压力，分别独立地进化出了相似的形态或者功能。</p>
-<p><strong>用我经常给人讲解的话讲，叫“自然界的英雄所见略同”。 </strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-17dcebbcba8f7de550f43a6393f0eba0_720w.jpg?source=8673f162" alt=""><figcaption>趋同进化</figcaption></figure>
-<p>比如，鲨鱼（鱼类）和海豚（哺乳动物）的流线型身体，以及鸟类和蝙蝠的翅膀，都是趋同进化的经典范例。</p>
-<p>大概知道了趋同进化的定义，让我们再来看看人类和考拉。</p>
-<p>如下，左边是考拉的指纹，右边是人类的：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-326448f657ce597126f6ec11d067a326_720w.jpg?source=8673f162" alt=""></figure>
-<p>考拉与人类的指纹在形态上，完全可以说“安能辨我是人拉”。</p>
-<p>肉眼上看，就已经高度相似了，考拉指纹的纹型结构（如弧形、螺旋形和环形）与人类高度相似。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9e958b1583d928a05a9b95bbe5cd8fdf_720w.jpg?source=8673f162" alt=""></figure>
-<p>在电子显微镜下，微观特征（脊线深度、间距）与人类相比，几乎无法区分。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-093c7a5c38dfe6f43ea347da7dd74688_720w.jpg?source=8673f162" alt=""></figure>
-<p>呐，左边是考拉的，右边是人类的，不加备注的话的确很难分辨，而且研究发现每一只考拉的指纹也是独一无二的。</p>
-<p>考拉的手摊开，是不是也很像人类？</p>
-<p>考拉也是唯一拥有指纹的有袋类动物，也是极少数拥有指纹的非灵长类动物。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-def67025fd3ddc37211a3fd313e0bd70_720w.jpg?source=8673f162" alt=""></figure>
-<p>新南威尔士州希托普斯地区的一个警察局曾经首例过一起内衣失窃案。</p>
-<p>当事人的损失并不多，只丢失了 1 件内衣，但是鉴定科的警员却从现场采集到了 8 份来自非家庭内成员的指纹。</p>
-<p>这事儿后来被认为是考拉进入了盗窃现场，其指纹对现场产生了污染。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bce8f8e9cbee951209c7d9fdcbb39392_720w.jpg?source=8673f162" alt=""></figure>
-<p>澳大利亚阿德莱德大学法医科学家和生物人类学家 Maciej Henneberg 表示，自己很早就向警方提醒过把考拉指纹混淆成人类指纹的可能。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-061e06bb861ae99a751c3adce8a15abd_720w.jpg?source=8673f162" alt=""></figure>
-<p>为了防止类似的情况发生，英国警察在 1975 年把伦敦动物园的黑猩猩全部做了指纹采集。</p>
-<p><strong>所以，考拉到底是为何与人类趋同进化出高度相似的指纹呢？</strong></p>
-<p><strong>科学界普遍认为，相似的功能需求，才会产生出相似的趋同进化。</strong></p>
-<p>考拉的功能需求：稳固地抓握树枝、灵活地牵引身体完成各种树上动作，以及...对食物挑肥拣瘦。</p>
-<p>没错，看起来考拉天天在吃树叶，但实际上它们真的很挑剔——只吃桉树叶，一种有毒、低营养的叶子。</p>
-<p>一种观点认为，考拉之所以只吃桉树叶，是因为它的竞争力太弱，无法与其他动物竞争无害的其他植物，所以选择了服毒的生活策略。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ccf352b792604a53ebc230f7a3388e7d_720w.jpg?source=8673f162" alt=""></figure>
-<p>顺带一提，考拉这种生物愚蠢到什么地步呢？</p>
-<p>它只能识别长在树枝上的桉树叶，如果你给它一筐摘好的桉树叶，它宁可饿死也不会把它当作食物...</p>
-<p>这种奇葩的饮食习惯，让考拉需要在树叶中挑挑拣拣，还会用手指去感受桉树叶的新老嫩否，这与我们人类使用手指从事精细劳作以及感受物体是不谋而合的。</p>
-<p>指纹能够增加皮肤表面的摩擦力，从而增强在抓握物体（无论是树枝还是工具）时的稳定性和精确性，让考拉与人类这种亲缘较远的生物与人类趋同进化出了高度相似的指纹。</p>
-<p>也因为这件事，呆萌的考拉在国外被蒙上了一层犯罪主义面纱，成为一种反差感极强的 meme。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ad4e4e87bc8e62e142db2799687aa17f_720w.jpg?source=8673f162" alt=""></figure>
-<p>把你逮捕咯：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-246936da710879749ba980f572044c4c_720w.jpg?source=8673f162" alt=""></figure>
-<p>以上</p>
-<p>参考内容：</p>
-<p>Owen, R., and Cooper, W.W. (1843). Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals: Delivered at the Royal College of Surgeons, in 1843 (Longman, Brown, Green, and Longmans).</p>
+<p>全世界一开始有地铁的城市的地铁图都是按照真实比例和路线所绘制的，真正改变这一切，形成今日我们所见到的只有走向、颜色与名称的地铁图，是源于<strong>1931 年的伦敦地铁图，由英国工程绘图师 Harry Beck 所完成。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1004be175a5f55c1647b295b38cac97c_720w.jpg?source=8673f162" alt=""><figcaption>Harry Beck（1902-1974）</figcaption></figure>
+<hr>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1d87233a1380c2e6f65cf6a40e06c7e9_720w.jpg?source=8673f162" alt=""><figcaption>1908 年伦敦地铁图，就是按照真实的地图绘制的线路走向与站点</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-227be7841e23c253d2c01492b4214714_720w.jpg?source=8673f162" alt=""><figcaption>1927 年伦敦地铁图，省略掉了城市背景，只留下泰晤士河，线路仍然保持现实走向</figcaption></figure>
+<p>看上面 1933 年前的伦敦地铁图，在 Beck 重新设计之前，地铁图主要以地理比例为基础绘制。早期<strong>地图通常直接叠加在城市街道图上</strong>，这种忠实于实际地理的设计使地图显得错综复杂：</p>
+<ul>
+<li>在伦敦市区，站点过于密集，难以辨认。</li>
+<li>在伦敦郊区，站点则显得过于稀疏，导致地图不易阅读。</li>
+</ul>
+<p>1920 年初期出现了由<strong>MacDonald Gill</strong>设计的简化单线地图以及市中心放大的地图，但仍无法有效解决地铁图的可读性问题：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f7b1aa8611177fa3d1b4cbfee0139e85_720w.jpg?source=8673f162" alt=""><figcaption>1920 年初的图纸，已简化许多</figcaption></figure>
+<p>贝克注意到，地铁乘客的主要需求是<strong>清晰的路线、站点之间的连接以及换乘信息</strong>，而非车站位置的地理精确度。这一洞见成为他设计新式地图的核心理念。</p>
+<p>写到这里，基本上本题“<strong>地铁图为什么不按照真实比例和路线画？</strong>”就已经回答了，因为对于有多条线路组成的地铁网，大家需要最快速度能明白自己在哪里，要去哪里以及如何换乘，而非花大量时间在密密麻麻的地图上找站点，尤其是市中心线路“扭麻花”一般的密集区域。</p>
+<hr>
+<p>1933 年，新版伦敦地铁图横空出世：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-00ef2357b17f2b76eb26cb0794383d45_720w.jpg?source=8673f162" alt=""><figcaption>1933 年由英国工程绘图师 Harry Beck 所重新设计的新伦敦地铁图</figcaption></figure>
+<p>首先介绍一下 Beck：于 1902 年 6 月 4 日出生在英国埃塞克斯郡莱顿（现属大伦敦），他的职业生涯早期以兼职绘图师的身份为伦敦地铁工作，但他的主要职责并不包括地图设计。他利用闲暇时间结合自己的专业技能与独特洞察，创造了这份开创性的地铁图。</p>
+<p>Beck 的地铁图设计灵感来源于电路图。他认为地铁网络与电路图有类似之处，可以通过规范化的设计提高图像的可读性：</p>
+<ul>
+<li>拓扑设计：<strong>舍弃伦敦城的地理比例</strong>以及大部分车站<strong>间距均等</strong>。</li>
+<li>简洁布局：<strong>路线以水平、垂直或 45°角呈现</strong>，避免复杂的曲线和实际地理形状。</li>
+<li>色彩分辨：使用<strong>不同颜色</strong>区分地铁路线，使乘客一目了然。</li>
+</ul>
+<p>不过 Beck 首次将设计提交给伦敦乘客运输委员会时，因设计过于颠覆传统而被拒绝，不符合人们对制图的认知。不过他没有放弃，而是对设计进行修改并再次提交。最终委员会制作了 1000 份折叠小册子并在部分地铁站分发。结果这张地图大受欢迎，甚至在 1 小时内被一抢而空。随后，委员会追加印刷了 75 万份。</p>
+<p>由于新地图获得空前的成功，Beck 于 1933 年重新回到伦敦地铁工作并继续更新他的设计。他为这份地铁图投入了 20 余年的心血，随着新线路的开通而不断改进和完善。最后于 1959 年贝克离开了伦敦地铁（<em>据说是因为 Beck 发现宣传部在未征求他意见的情况下推出了一份新地图，且设计风格与他极为相似，但署名却是宣传部负责人 Harold F. Hutchison，这一事件令贝克深感失望并最终选择离职</em>）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d2b2f8899f8a830bf650e394306e0da_720w.jpg?source=8673f162" alt=""><figcaption>1958 年的伦敦地铁图，由 Beck 设计，次年便离开了伦敦地铁。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9f79a5d64f4c1d024a1e36e0f6357b87_720w.jpg?source=8673f162" alt=""><figcaption>小册子背面的站点列表与图示</figcaption></figure>
+<p>之后，Beck 在 London College of Printing（伦敦印刷学院）全职教授文字编排，尽管离开伦敦地铁，但因为对职业的热爱，他仍继续更新自己的地图设计，并交给伦敦交通局进行审议，比如 1961 年，在 Victoria Line（维多利亚线）开通前，他已经绘制了包含该线路更新版本：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e3c7306daa735e834b14ddf909c5c497_720w.jpg?source=8673f162" alt=""><figcaption>由 Beck 于 1961 年设计的包含建设中的维多利亚线的伦敦地铁</figcaption></figure>
+<p>可 1961 年 12 月，交通局将地图连同一封简短的信一起退还给了贝克，显然伦敦地铁无意重新雇用他来绘制未来的地图。</p>
+<p>其实贝克设计地铁图时，多数是在空闲时间进行创作，并未获得高额酬劳。但他真正动力并非金钱，而是对设计和改进公共服务的热情。Beck1933 年版地铁图可谓是平面设计史上的里程碑之一，也极其深刻影响了世界各地的地铁图设计。他的<strong>拓扑式设计</strong>理念被广泛应用于其他城市的交通网络地图：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-beb148bb934f7eb513c485a690bea7b9_720w.jpg?source=8673f162" alt=""><figcaption>巴黎地铁 1945 年版本，仍然使用真实线路走向</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bd806caa17619423bdc0c53a76d94064_720w.jpg?source=8673f162" alt=""><figcaption>如今巴黎地铁图也改为水平垂直与 45 度角的 Beck 风格</figcaption></figure>
+<p>即便是密集如东京大都市圈，世界最密集的城市轨道交通网络，也是采用 Beck 设计的原则：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ccabf60258efe26075ddabfaa0a0f4ce_720w.jpg?source=8673f162" alt=""><figcaption>东京都市圈轨道交通图</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-978f8b87f59a742819c2e406efcd39c9_720w.gif?source=8673f162" alt=""><figcaption>上海地铁，4 号线环线走向并非如此规整，但采用 Beck 风格设计成这样，方便乘客快速阅读获取信息点</figcaption></figure>
+<hr>
+<p>建筑 城市 景观 | 作品集留学 感兴趣的小伙伴请咨询微信: <strong>lilexian_gf</strong></p>
+<p><a class="internal" href="https://www.zhihu.com/question/22698672/answer/621747875">建筑学学生如何制作作品集？</a><a class="internal" href="https://www.zhihu.com/question/323519382/answer/1275436268">如何做动态作品集?</a><a class="internal" href="https://www.zhihu.com/question/280465464/answer/1042230297?utm_source=zhihu&utm_medium=social&utm_oi=567968239125061632">请问建筑设计的必学软件有哪些呢？</a><a class="internal" href="https://www.zhihu.com/question/21318553/answer/1453795868">建筑设计如何从概念设计入手？</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1948119904894026353">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/8912249208">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787184</guid><pubDate>Sun, 01 Feb 2026 18:27:59 GMT</pubDate></item><item><title>为什么猫都不喜欢橘子味呢？</title><link>http://daily.zhihu.com/story/9787190</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-47bd5e998c49017a3ae95068f23427b2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787354</guid><pubDate>Mon, 02 Feb 2026 01:47:12 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787253</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aa0f225d4932354c05172f6ab8c7d192.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -305,53 +366,49 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 东北人为什么这么有趣？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">动物科学 / 分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/14227987634/answer/1994081378258675343" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>剥开一个橘子，凑到猫主子鼻尖，大概就是下面这个画面：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-018780828a0e0fa445b7d59d07c77323_720w.jpg?source=8673f162" alt=""></figure>
-<p>原本岁月静好的小猫咪瞬间像被电击了一样，皱鼻、眯眼、干呕，然后用看杀父仇人般的眼神瞪着铲屎官飞速逃离。</p>
-<p>甚至有商家做出了下面这种驱猫剂，就是橘子味的：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a3036f77ffcd7fb0e3580e1e06dbe5df_720w.jpg?source=8673f162" alt=""></figure>
-<p>对于猫来说，你手里那个橘子，对猫来说太刺激了。</p>
-<p>猫的鼻腔里塞满了 2 亿个嗅觉受体，而人类只有大概 500 万个 <sup>[1]</sup>。这意味着，当你觉得橘子味只是“淡淡清香”时，在猫的鼻子里，这股味道的浓度大概相当于把你关进了一个刚刷完漆且不通风的油漆房。但这不仅仅是难闻的问题，猫对柑橘的反应之所以如此剧烈，是因为这种气味“打”到了它们的痛觉神经。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-56479634bd531f89c4ae1fa92811dacc_720w.jpg?source=8673f162" alt=""></figure>
-<p>这要归功于一种叫做 D- 烯萜（Limonene）的化合物<sup>[2]</sup>，它是柑橘类果皮精油的主要成分。在 2016 年的一项研究中，科学家发现这种物质能直接激活猫体内的 TRPA1 通道 。TRPA1 有一个更形象的外号，叫“芥末受体”<sup>[3]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d57cce60f12dd9cf1cb7abad61cbfb3f_720w.gif?source=8673f162" alt=""></figure>
-<p>在人类身体里，当你吃芥末被呛得流泪，或者切洋葱感到刺痛时，就是这个受体在尖叫。对于猫而言，橘子皮里喷出的汁液飞沫，在接触到它们敏感的鼻粘膜时，产生的不是果香，而是类似于催泪瓦斯带来的烧灼感和刺痛。所以，猫眯眼睛不是在嫌弃，它是在保护眼睛免受化学刺激。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f66304eb3863ebc17abec3f3456a34ee_720w.jpg?source=8673f162" alt=""></figure>
-<p>重点是，这种让猫痛苦的物质，它们的身体根本处理不了<sup>[4]</sup>。下面是一个案例：</p>
-<blockquote>一只 2 岁已绝育的雌性家养短毛猫因表现出嗜睡、食欲不振、嚎叫以及异常攻击行为（持续 1 天）而接受检查。该猫在前一天曾使用含 D- 烯萜的杀虫香波进行美容。皮肤病变表现为融合性的红斑块。尽管进行了支持治疗，该猫的病情仍持续恶化。皮肤组织病理学变化包括多灶性急性凝固性表皮坏死。真皮层被密集的杆菌浸润。D- 烯萜中毒在犬猫中鲜有描述。据报道，其毒性反应包括流涎、共济失调、发抖、体温过低、阴囊刺激、低血压以及重症多形红斑。可能需要针对败血症和弥散性血管内凝血进行治疗，并配合强化支持护理。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7704fc689a9acf35b727153ebb78363a_720w.jpg?source=8673f162" alt=""></figure>
-<p>在哺乳动物的肝脏里，通常有一套垃圾处理系统，专门负责把脂溶性的毒素打包成水溶性的废物排出体外，这个过程需要一种关键的酶，叫做 UGT1A6<sup>[5]</sup>。然而，科学家在研究中发现，家猫以及它们在野外的亲戚（比如狮子、老虎）体内的这个基因是坏掉的。它变成了一个无法制造蛋白质的“假基因” <sup>[6]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8841ae1b3fee16958d1660679b4c8810_720w.jpg?source=8673f162" alt=""></figure>
-<p>大概在 1100 万到 3500 万年前，猫科动物的祖先走上了一条极端的道路：肉食主义 。肉类是非常干净的能量来源，不像植物那样充满了各种防御性的化学毒素。既然世世代代都不吃草，身体觉得维持一套复杂的植物毒素解毒系统太浪费能量，干脆就让这套系统“停机”了。<sup>[7]</sup>这在自然界本来不是问题，毕竟没有哪只正常的野猫会去啃柠檬皮。</p>
-<p>它们偶尔“吃素”的行为其实并不违背肉食天性，吃草是为了“治病”<sup>[8]</sup>，吃哈密瓜是因为闻起来像肉<sup>[9]</sup>，吃橄榄是因为像猫薄荷<sup>[10]</sup>。这些行为本质上还是围绕着它们作为肉食动物的生存本能和感官特性展开的。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0ddc5444f4e602c8f7feda30f4023709_720w.jpg?source=8673f162" alt=""></figure>
-<p>直到它们遇到了喜欢清洁剂和香薰的人类。</p>
-<p>由于缺乏解毒酶，人类或狗几个小时就能代谢掉的柑橘精油成分，在猫体内会像幽灵一样长期滞留，引发蓄积性中毒。</p>
-<p>1980 年代，当时市面上流行一种号称“纯天然”的 D- 烯萜除蚤洗剂<sup>[11]</sup>。许多铲屎官觉得既然是“从橘子皮里提取的天然成分”，肯定安全无害。结果导致大量猫咪出现流口水、肌肉震颤、走路摇晃甚至体温过低的严重中毒症状 。兽医记录显示，当时按照推荐剂量给猫使用这种洗剂，依然导致了广泛的神经毒性反应，而同样的剂量用在狗身上却没事 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-68c831147a1e137b8d17dc96ebd6ca54_720w.jpg?source=8673f162" alt=""></figure>
-<p>现在，一些家里的超声波香薰机或插电式空气清新剂对猫来说依然有威胁。当含有柠檬、甜橙或佛手柑精油的雾气喷洒在空气中，微小的油滴会落在猫的毛发上。猫在舔毛时，直接将这些毒素吃进肚子里。由于肝脏无法分解，这些化合物最终会导致肝衰竭 。</p>
-<p>下图这只猫因香薰精油中毒了，身体瘫软，几乎没有呼吸<sup>[12]</sup>，急救后捡回了一条命：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-308c15073c21fa9395e1c8094b81d2a8_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，当你下次剥橘子时，看到猫咪露出嫌弃甚至惊恐的表情，请不要强行把橘子皮凑到它鼻子底下开玩笑。</p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/428347449/answer/1969855230280729824" target="_blank">东北人为什么这么有趣？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/95dc39359e04cbfbe3c0dabccf3d60cb" target="_blank">@毛线 HR</a>： N 年前，去<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269078807&content_type=Article&match_order=1&q=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94&zhida_source=entity" target="_blank">齐齐哈尔</a>，一个当地的大姐姐带我吃烤肉。她咔咔一顿点，然后问我：</div>
+「烤肉你来几串？」<br>我看着旁边桌几个人举着撕咬的半米长、足有 3 厘米见方的烤肉坨坨，小心翼翼说了一句：<br>我不点了，待会儿你分我半、半串……」<br>「宾馆你也别去了呗，晚上我分你半边床得了」<br>……</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/4027905473/answer/50775085174" target="_blank">高铁上有人想和你换座态度恶劣，并砸 5 万让你滚，你该怎么办？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c2e7aac3e4e8205df269ae0ee59acade" target="_blank">@yoyo</a> ：收下 5 万块，麻溜的滚。</div>
+然后找个坐在好位子的大学生，给他 5000 块，让他起来。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/535225379/answer/3509694474" target="_blank">你被哪个后来知道很 sb 的 BUG 困扰过一周以上吗？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8ed93f059735f2c48d15f93273504cfd" target="_blank">@理想你几岁丶</a>：当时刚买车</div>
+天窗那一块异响,当当当当那种<br>去 4S 店，也检查不出来个啥，还给送了次保养<br>而且很奇怪，下雨响，出太阳不响，晚上也响。<br>如此了小半年<br>忍不了了，去了一家路边摊，抱着死马当活马医的心态<br>车打着火，开始当当当当<br>出来了个黄毛师傅，听了 2 分钟，打开了我的眼镜盒把我墨镜取了出来......<br>我：？<br>淦</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/46104045/answer/1892732167039210665" target="_blank">你见过最丑的车标是什么？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8b7d8d59692ca874eeb0f26dcf5ee96d" target="_blank">@观察者说</a> ：据说人在拉屎的时候灵感最多</div>
+<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269078807&content_type=Article&match_order=1&q=%E7%89%B9%E6%96%AF%E6%8B%89&zhida_source=entity" target="_blank">特斯拉</a></blockquote>
+<figure>
+<div><img class="content-image" src="https://pica.zhimg.com/v2-f4f8a9119507b1b222826bfa05ee621e_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/437311484/answer/1978126292714018409" target="_blank">有没有可以笑上一年的笑话？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/cc99234f48b882e9dec0657445825d14" target="_blank">@真理大教主</a> ：想到那个段子了，大意是一家医院在给狮子做核磁时候，发现狮子的脑子左右部分跟人类是相反的，还成立了课题组研究，最后研究半天发现狮子是趴着进去，人是躺着进去的</div>
+</blockquote>
+<figure>
+<div><img class="content-image" src="https://pic1.zhimg.com/v2-99b54484c08b11a1eaa3aa641de4b990_1440w.jpg" alt=""></div>
+</figure>
 </div>
 </div>
 
-
-<div class="view-more"><a href="https://www.zhihu.com/question/14227987634">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787190</guid><pubDate>Sun, 01 Feb 2026 18:28:00 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787253</guid><pubDate>Mon, 02 Feb 2026 01:47:13 GMT</pubDate></item></channel></rss>
