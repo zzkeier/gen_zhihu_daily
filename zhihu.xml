@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 07 Feb 2026 18:28:26 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么现在几乎不提臭氧层空洞了，是误解还是地球臭氧已修复？</title><link>http://daily.zhihu.com/story/9787438</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-35b20dbc5eab904296823b4ebba95ee2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 08 Feb 2026 02:05:46 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>请问为什么数学中不废除除号「÷」？</title><link>http://daily.zhihu.com/story/9787452</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-88253d439e127ff88a0ef6a5184ed8f2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,327 +19,96 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-8c94f6db06557d6acf2fb690abc430eb_l.jpg?source=8673f162">
-<span class="author">张武昌，</span><span class="bio">主要研究海洋浮游砂壳纤毛虫生态学</span>
-<a href="https://www.zhihu.com/question/638924212/answer/1977090443431932975" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户</span>
+<a href="https://www.zhihu.com/question/452379891/answer/1997061768292373148" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>臭氧空洞的总体发展趋势是正在缩小，会逐渐恢复正常。可以说地球臭氧正在恢复。</p>
-<p>臭氧层</p>
-<p>空气中氧气占 20%。氧在大气中有三种存在形式，氧原子 O,氧分子 O2, 臭氧 O3。其中 O2 是主要的成分，臭氧在大气中属微量气体，全球大气中臭氧总量约有 30 亿吨，只占大气的百万分之 0.4。臭氧的浓度表示除了常见的 ppb、μg/m3 外还有一个柱浓度。柱浓度用来表示大气臭氧总量的分布，大气中臭氧总量是指某地区单位面积上空整层大气柱中所含的臭氧总量。这个臭氧总量通常是用厚度（厘米）来表示:假设整层大气柱中所含的全部臭氧集中起来形成一个纯臭氧层，在标准状况下（即一个大气压，温度为 15℃），这个纯臭氧层的厚度即为大气臭氧总量，基本单位是“大气厘米”。在臭氧层研究中多使用多布森单位（Dobson unit，简称 D.U.）来表示，1DU=0.001 cm。正常大气中臭氧的柱浓度约为 300 D.U.，即 0.3cm，或 3 mm。你没有看错，是毫米。</p>
-<p>这三种成分在紫外线作用下进行光化学反应：紫外线把氧分子打裂形成两个氧原子，也能把臭氧打裂成氧原子和氧分子。</p>
-<p>氧原子不稳定，与氧分子结合成臭氧，两个氧原子结合成氧分子。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-80327ea609ec6923a32b9581c55d1897_720w.jpg?source=8673f162" alt=""></figure>
-<p>上述反应在大气的不同高度表现出一定的差异，</p>
-<p>在大气高层，紫外线将氧气分解成氧原子，由于空气过于稀薄，氧原子找不到氧分子，所以高空氧原子过剩，而氧分子和臭氧较少，氧的光化学反应不能持续，导致吸收紫外线的能力较弱。</p>
-<p>在 20-30 千米的高度，氧气浓度适中，氧的光化学反应持续进行，臭氧浓度最大。以此为核心，90％以上集中在 10-50 公里的高层大气之中。</p>
-<p>低于这个高度，紫外线因为被上层大气消耗而降低，氧的光化学反应不能持续，所以臭氧浓度较低。</p>
-<p>因此，臭氧并不是在我们生活的地表，它在大气中的分布也不均匀，在 20-30 千米的高空，臭氧浓度最大，称为臭氧层 ozone layer。</p>
-<p>臭氧层在全球各地分布不均匀，世界三极地区即<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E5%258D%2597%25E6%259E%2581/6459%3FfromModule%3Dlemma_inlink" target="_blank" rel="nofollow noreferrer">南极</a>、<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E5%258C%2597%25E6%259E%2581/130657%3FfromModule%3Dlemma_inlink" target="_blank" rel="nofollow noreferrer">北极</a>和<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E9%259D%2592%25E8%2597%258F%25E9%25AB%2598%25E5%258E%259F/849%3FfromModule%3Dlemma_inlink" target="_blank" rel="nofollow noreferrer">青藏高原</a>气候寒冷，臭氧层微薄。某处臭氧层中臭氧含量的减少等于在屋顶上开了天窗，如果减少到正常值的 30%（也有说 50%）以上，人们形象地说这是个臭氧空洞。</p>
-<p>大气分层（atmospheric subdivision）是指按照大气在垂直方向的各种特性将大气分成若干层次。</p>
-<p>按大气温度随高度分布的特征，可把大气分成对流层、平流层、中间层、热层和散逸层；</p>
-<p>按大气各组成成分的混和状况，可把大气分为均匀层和非均匀层。</p>
-<p>按大气电离状况，可分为电离层和非电离层；</p>
-<p>按大气的光化反应，可分为臭氧层；</p>
-<p>按大气运动受地磁场控制情况，可分有磁层。</p>
-<p>所以，大气的光化学反应是大气的重要特性之一，在高度上属于平流层。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7411566a55be63c620b4f1d62c80c4da_720w.jpg?source=8673f162" alt=""></figure>
-<p>沿西经 8 度线南半球（赤道 - 南极 - 赤道）臭氧层分布 2023 年 12 月 30 日</p>
-<p>南极的臭氧层高度较低</p>
-<p>臭氧是引起气候变化的重要因子。臭氧吸收了太阳光中的大部分的紫外线并将其转换为热能从而加热大气，也能吸收 9-10 微米的热红外线，使大气层加热。由于臭氧的这一特性，使得地球上空 15～50 公里的大气层中存在着升温层（逆温层），因此，臭氧对平流层的温度结构和大气运动起决定性的作用。</p>
-<p>南极的臭氧空洞</p>
-<p>20 世纪 50 年代，在南极哈雷科考站的科学家发现大气中臭氧含量降低， 1985 年，英国科学家法尔曼等人发现：1977-1984 年每到春天南极上空的臭氧浓度就会减少约 30%，正在逐渐生成臭氧空洞。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9388fd868dec3b3bf863f34c78c8ad9d_720w.jpg?source=8673f162" alt=""></figure>
-<p>后来确定臭氧含量的降低是由于氟利昂等一系列“破坏臭氧层物质”造成的。这些物质是人类工业生产产生的，但是他们上升到平流层后，在紫外线照射下，释放氯原子等。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e41808adcb98021cde5d7bf6051af5b1_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6c64a73f4b5135e473ab9881bcef101e_720w.jpg?source=8673f162" alt=""></figure>
-<p>氯原子是最爱干的事就是挑拨臭氧分子分解，而且效率特别高，1 个氯原子能分解 10 万个臭氧分子，使得臭氧浓度降低，但是这一过程却不吸收紫外线。</p>
-<p>现在科学家用卫星遥感观测臭氧空洞，研究臭氧空洞的动态变化。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0c1788c5ff6cba587a8d0bc4e3e80900_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cf313d2083fe056f3f808a10dde9d8fe_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9019775923fa06555b22ba5eb5fd5914_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-95a06e79ad0a7616defd1fc8015d3198_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a234edd6afcd106ec0bd8a107f4858f4_720w.jpg?source=8673f162" alt=""></figure>
-<p>问题是“破坏臭氧层物质”全球分布，为什么只在南极产生臭氧空洞呢？</p>
-<p>为什么只有南极的臭氧空洞</p>
-<p>这与南极地形和极寒天气造成的高空气旋有关。</p>
-<p>地球的大气的热源主要来自太阳，但是太阳光并不能直接加热大气，而是穿过大气照射到地面和海面，当地面和海面加热后，就会通过传导、对流和辐射三种方式加热大气，所以虽然太阳光来自大气层的上层，但是加热的却是大气层的底层。</p>
-<p>由于是从底层加热，热空气位于冷空气下边，于是产生强烈的对流。大气的对流作用在地球的南北两个半球各生成三个对流环，被称为 Hadley 环流，Ferrrel 环流，和极地环流，由于热带比极地获得的热量多，所以 Hadley 环比极地环的高度大一些。在 Hadley 环的高层大气从赤道向极地运动，Ferrel 环的左臂从低向高升腾的同时也向极地运动，这时科里奥利力发生作用，它们在高空形成沿地球纬度线环绕地球的很强的气流，叫做高空急流 jet stream。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-33d3f82400bccb12804b5a6a007a642f_720w.jpg?source=8673f162" alt=""></figure>
-<p>这两个高空急流一个叫亚热带急流，一个叫极地急流 polar jet，因其环状而成为极地涡旋 vortex。由于地球是个球体，在高纬度的科里奥利力比低纬度强，所以极地急流比亚热带急流强。</p>
-<p>南极的极地急流叫南极急流，北极的则为北极急流。极地急流将极地的大气和周围大气隔离开来，因此极地的温度很低。</p>
-<p>当平流层的温度低于零下 78 度后，就会出现平流层云，polar stratospheric clouds，这个云层中的冰晶使得氟利昂释放更多的氯原子，加快了消耗臭氧的反应，这时会出现臭氧空洞。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-415c0aeb35930660803ff72506f97031_720w.jpg?source=8673f162" alt=""></figure>
-<p>当急流强时，呈现较好的环形，对极地大气的隔离效果较好，容易产生低温；反之，急流弱时则会出现波动，对极地大气的隔离较弱，不易产生低温。所以急流强时容易产生低温，进而产生臭氧空洞。</p>
-<p>在北极有大陆和山脉，北极急流经常会受到扰动和减弱，所以大部分时间是较弱的。因此在北极产生臭氧空洞的时间较少或很少，参见“变化中的北极（57）退则炸弹气旋，进则臭氧空洞，进退两难的北极急流”。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9d73e71e0f8f2214a26ee724cc5ea2b6_720w.jpg?source=8673f162" alt=""></figure>
-<p>北极臭氧空洞</p>
-<p>在南极，极地旋涡围绕南极大陆，周围是环形的南大洋，所以极地旋涡受到的干扰很小，保持很强的姿态，所以南极出现臭氧空洞。</p>
-<p>南极臭氧空洞的季节性</p>
-<p>臭氧空洞并不是时刻都存在，而是有季节性。9 月 10 月 11 月最强。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cde5fcec868e264d11d5466918e43ebb_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c834fbd50e1a668cb3cf427f2ddef829_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a7cac985d0226ab615e299bc24051242_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f7d36e25e43e0ab93ebf3dd5a3a8d82e_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-bee793244f4938574c21ba6975e3c9f6_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d19437bb78d59b045a620425ea53a5f8_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f3b404d71cdda0e15bb46e7e10570e6b_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种季节性是怎么产生的呢？</p>
-<p>南极臭氧空洞的产生有三个条件：</p>
-<p>1， 平流层中有破坏臭氧层物质，这在全球都是均匀的，或者差别不大；</p>
-<p>2， 平流层中有紫外线；</p>
-<p>3， 平流层中有低温，这在南极有优势。</p>
-<p>平流层中的氟利昂气体在全球都是均匀的，或者差别不大；由于南极有极昼极夜现象，所以平流层的紫外线和温度有季节变化，这是造成南极臭氧空洞季节变化的原因。</p>
-<p>9 月，南极的冬季刚刚结束，气温处于全年最低，极地涡旋的势力最强，南极平流层的温度最低，这时极昼逐渐到来，紫外线逐渐进场，三个条件到齐，臭氧开始消耗，这时臭氧空洞最为显著。随着气温升高，南极涡旋势力减弱，加之氟利氧的消耗，对臭氧的消耗逐渐减弱，加之与周边的交换，臭氧空洞减弱。所以周年之中，10 月的臭氧空洞最强。</p>
-<p>我国的南极考察一般为 12 月进场，2 月撤离，正好避开了南极紫外线最强的时段。</p>
-<p>40 千米高空的逆时针气旋</p>
-<p>南极涡旋之内是南极的高压区，空气在此下沉，在漩涡的中心，高空冷空气一直降落的南极高原上的雪原上，形成了冷极和干极，然后向北返回。</p>
-<p>在南极漩涡的边缘，高层大气下沉时受此南极漩涡阻挡，在南极漩涡的上方（高度约 40 千米）向北返回。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-20225b93cefbc560c646c53e5d808e19_720w.jpg?source=8673f162" alt=""></figure>
-<p>这些低空和高空向北返回的气流，在柯氏力（南半球左手定则）的作用下形成了逆时针旋转的气旋，低空大气在南极大陆边缘形成了下降风，吹动海水在海里形成了南极陆坡流。高空大气也形成逆时针的气旋，这是南极高空大气的独特之处。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-98cc5823352d05b63af0f3f9b47295d6_720w.jpg?source=8673f162" alt=""></figure>
-<p>1988 年，麦克默多站的科学家利用高空气旋的这一特性，将高空气球释放到这一高度，气球会随着气旋返回麦克默多站附近，环绕一周大约 14-30 天。虽然会向北偏移，但是由于该站的西北方有陆地，气球还会停留在陆地之上，这时只要将气球引爆，就可以回收气球上的载荷。这一操作的目的是在南极上空大气层的边缘长期滞空进行宇宙射线的观测和反物质探测。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-67327768aad9640870670b65a8689d30_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d9aca140aa603362f4bf14828f948635_720w.jpg?source=8673f162" alt=""></figure>
-<p>共有约 50 次高空气球飞行，飞行轨迹如下。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-863c9de78b69a037b65534a6421dff30_720w.jpg?source=8673f162" alt=""></figure>
-<p>臭氧空洞的未来</p>
-<p>臭氧空洞的三个条件（极地涡旋、紫外线照射和破坏臭氧层物质）中，前两个是人类无法改变的。为了消灭臭氧空洞，人类只有停止排放破坏臭氧层物质。为此目的，人类签订了蒙特利尔议定书，1989 年 1 月 1 日起生效。</p>
-<p>此后，臭氧空洞依旧在变大，到 2005-2010 年间达到最大。2018 年开始变小。观测（下图中左图）和模拟的不限制排放破坏臭氧层物质的情形（右图）下对比，禁止排放是有效果的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-eec8290ce2381e3df963cce7ff439181_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-364f8217532890872491ff69af4f735a_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-32baf1bf6490b1c4b9f983574aa3a446_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6f8d1f06994f2da87e68c75ccd4b7014_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a2537c9ab5461d3d519fa8faf11d4dda_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e9de01bc113d67beb38bb22dfd3658ef_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fe82d6547446459b4f454f02f57b36c4_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-13cbfc8d3ecc6dfc92674cae781e4971_720w.jpg?source=8673f162" alt=""></figure>
-<p>2020 年以后，臭氧空洞会越来越小，估计在 2060 年前后恢复到 1970 年的状态。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cdbe7bc9f07e507526c3007716b0696a_720w.jpg?source=8673f162" alt=""></figure>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/638924212">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787438</guid><pubDate>Sat, 07 Feb 2026 18:28:23 GMT</pubDate></item><item><title>马的腿断了几乎必死，那么牛呢？</title><link>http://daily.zhihu.com/story/9787439</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-f4a071ccf363983538deceb620031d50.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
-<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的退役士兵。</span>
-<a href="https://www.zhihu.com/question/1923301003517751794/answer/1997094193529651785" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p><strong>马的进化悲歌：不能久躺。</strong></p>
-<p>都说伤筋动骨一百天，但是马静卧 2 小时都不行。</p>
-<p>无法久卧，就注定骨折后极难恢复。</p>
-<p>没错，马连睡觉，大部分都是站立完成的，一天可能只有半小时躺着，也叫“大卧”。</p>
-<p>当你看见一匹马闭着眼睛站在那，尾巴轻轻扫动，其实哥们已经睡着了：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7a34d226167a662e1de319fdf093609_720w.jpg?source=8673f162" alt=""></figure>
-<p>甚至为了站着休息，马进化出了一套锁止系统（Stay apparatus）：</p>
-<p>通过一系列肌腱和韧带的作用，让马在放松时能够稳定肩部、膝盖和踝关节，从而不费力地保持站姿：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-96a8319fefa651d5299a4a53fadb94c2_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>为什么要这样呢？</strong></p>
-<p>起因是，马的祖先最早生活在林地，是跟现代狗尺寸差不多的东西。</p>
-<p>但是，约 2000–4000 万年前开始，地球气候变干、森林缩减、草原扩展。</p>
-<p>草原缺乏遮蔽，食物也更加分散。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a8540445d19f3d48014dd3461f5a3c79_720w.jpg?source=8673f162" alt=""></figure>
-<p>面对如此环境压力，马的祖先不得不减少静止的时间，增加警觉性和快速启动身体的能力。</p>
-<p>躺着还要起身，那不如每天大部分时间都站着。</p>
-<p>于是乎，马的手指 / 趾骨逐渐退化，远端骨骼延长，肌腱 / 韧带增多，体型也越来越大。</p>
-<p>一切都往变得更加适合奔跑的方向发展，这被称作奔跑适应（Cursorial Adaptation）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8fa3e782d74411b2f2aa6d2cc7a24a03_720w.jpg?source=8673f162" alt=""></figure>
-<p>为了善于奔跑，马的脏器重心必须前移。</p>
-<p><strong>但有个 BUG，马是草食性动物，需要巨大的胃和肠道来反复消化高纤维素的草。</strong></p>
-<p>结果就变成了这个样子：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8df3208e80645d6cd63ba004abac7323_720w.jpg?source=8673f162" alt=""></figure>
-<p>如此身体构造，在马站立时，巨大的胃肠受重力影响向下，对马没什么影响。</p>
-<p>但一旦侧卧，这些内脏就会压迫肺叶，导致肺泡塌陷、通气灌注失衡，血氧下降。</p>
-<p>同时由于鼻孔接近地面，容易吸入马舍的灰尘、细菌等异物，非常容易产生「坠积性肺炎」。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0c22ff410b276ee893934b35cc8efe2a_720w.jpg?source=8673f162" alt=""></figure>
-<p>体内供氧下降，全身受牵累。</p>
-<p>哪怕只是侧卧几小时，马就会出现局部血流中断、神经受压引起的肌肉坏死和周围神经麻痹的问题。</p>
-<p>再加上马的皮脂不是很厚，久躺之后，很容易生褥疮。</p>
-<p>但是呢，成年马匹体重 500 斤，想给这玩意儿翻身，实在是太难了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-87a3b27fe497bfd3142654c431b45d61_720w.jpg?source=8673f162" alt=""></figure>
-<p>正因此，马的全麻手术难度在兽医临床上算高的。</p>
-<p>《瑞克和莫蒂》里的贝斯可以操纵马的全麻手术，其实已经非常厉害了，收入也不低。</p>
-<p>编剧给她安排个对职业失望的人设，算是个 Bug。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5f5a9d23e7b291faa6500e6dd2ac70c6_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>一生长期站立 + 大体重，马的每一条腿都承受着巨大的压力。</strong></p>
-<p>这种压力属于是，四条腿的时候刚刚好，但少了哪一条就不行。</p>
-<p>加上前面说的，马不能长期侧卧的巨大死穴，就注定了断腿的马没办法好好养伤。</p>
-<p>但是吧，一旦骨折就判一匹马死刑，确实有些不仗义。</p>
-<p>所以马兽医们也想了很多办法。</p>
-<p>比如吊起来：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-191bf4921806b6eb63e7d12cf0d10625_720w.jpg?source=8673f162" alt=""></figure>
-<p>再比如材料强度比较高的支具（骨折不太严重的）：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d9847aa7716776f5a794094b2ec7495f_720w.jpg?source=8673f162" alt=""></figure>
-<p>骨折痊愈后还要康复训练：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-16dd0d2efe0ac6ab1e818351777a47ac_720w.jpg?source=8673f162" alt=""></figure>
-<p>实践下来，能恢复吗？能。</p>
-<p>要三到四个月，严重一些要半年。</p>
-<p>再加上马腿的构造，一旦断腿几乎就是开放式的，所以即使恢复了，也很难达到断腿前的状态。</p>
-<p><strong>结果是，花了比马还贵的治疗 + 康复成本，换了一匹无法再好好奔跑的马。</strong></p>
-<p>所以，对于赛马来说，断腿就是死刑。</p>
-<p>当然，也有一些马主人认为生命价值高于经济价值。</p>
-<p>比如国内有匹名叫“憨子”的断腿马，十万买来，断腿后花了二十万治疗。</p>
-<blockquote>我也可以把它治病的钱去买一个更贵的，更好的，但它就不是我原来那匹马了——憨子的主人张敬宜</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-da935d9714eebb5788f2a01a4117a67f_720w.jpg?source=8673f162" alt=""><figcaption>接受治疗的憨子</figcaption></figure>
-<p><strong>马在进化中极端地押注了速度，还挺浪漫。</strong></p>
-<p>而牛选择了更多数量的群居 + 拥有一定战斗力。</p>
-<p>所以掠食者面对的，不是“一头逃得飞快的牛”，而是“一群不好下口、会反击、还挡路的牛”。</p>
-<p>也正因此，牛拥有不那么极端的躯体结构，也可以长时间的卧地休息。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-04f2e1e82a31957723d12f7f0142b7ca_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过，在人类社会中，牛的经济价值最为重要。</p>
-<p>所以即使是牛断腿后不需要像马那样折腾，但人们也会考虑成本与收益。</p>
-<p>像种牛和奶牛，一般会好好治疗，留着继续工作。</p>
-<p>耕牛的话随便治疗一下，听天由命。</p>
-<p>至于肉牛...</p>
-<p>真香。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7aad68da9563d80be79da8f2c22f4223_720w.jpg?source=8673f162" alt=""></figure>
-<p>以上</p>
-<p>参考文献：</p>
-<p>Thurman M L. Do Horses Sleep Standing Up or Lying Down?[J].</p>
-<p>Janis C M, Bernor R L. The evolution of equid monodactyly: a review including a new hypothesis[J]. Frontiers in Ecology and Evolution, 2019, 7: 119.</p>
-<p>Lull R S. Adaptations to aquatic, arboreal, fossorial and cursorial habits in mammals. IV. Cursorial adaptations[J]. The American Naturalist, 1904, 38(445): 1-11.</p>
-<p>Cirilli O, Machado H, Arroyo-Cabrales J, et al. Evolution of the family Equidae, subfamily Equinae, in North, central and south America, Eurasia and Africa during the plio-pleistocene[J]. Biology, 2022, 11(9): 1258.</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1923301003517751794">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787439</guid><pubDate>Sat, 07 Feb 2026 18:28:24 GMT</pubDate></item><item><title>如果每隔 100 年，淘汰人类中智商较低的 50%，人类整体智力水平会快速进化吗？</title><link>http://daily.zhihu.com/story/9787442</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-65ba34f62836b261153758bc730ca71b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/1983633027222507835/answer/1997412827745493559" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p><strong>会快速灭绝。</strong><strong>你这简直就是人类斩杀线。</strong></p>
-<p>你可能以为，规则斩杀 50%人口，人类平均智商就直接起飞了。</p>
-<p>但其实完全不是。</p>
-<p>这是人类的智商分布：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b96dc1ee381201fe2c86d5f661507912_720w.jpg?source=8673f162" alt=""></figure>
-<p>大约 95.4%的人智商在 70~130，大多数人的智商在 100 附近。</p>
-<p>当你用规则直接斩杀 50%人口，人类的平均智商也并没有起飞，只是增加到 110 附近。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dac1c03ceb9e6e1055767bf22518db9c_720w.jpg?source=8673f162" alt=""></figure>
-<p>智商的正态分布函数的性质，决定了清除较低智商的一半，平均值不可能起飞。</p>
-<p>其实，即便人类平均智商，真的全面起飞，人人都是 130 智商以上。</p>
-<p>每 100 百年规则斩杀 50%人口，也会快速导致人类灭绝。</p>
-<p><strong>人类脑容量的变化规律，告诉我们这样一个道理。</strong><strong>整个人类社会的压力，并不总是倾向于选择出高智商人群。</strong></p>
+<p>很多人有一种倾向，他们会把小学和初中学到的所有知识当作<strong>不容置疑的真理</strong>，或者至少也是<strong>前往真理的必须途径</strong>。以至于有人说可以废除“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”，就会出来说：</p>
 <ul>
-<li><em>虽然脑容量不直接等于智力，但在足够大的尺度下，它们高度正相关。智商为智力指数的测量值，虽然通常不能真实反应智力，但非测量值语境下，讨论智商一般等同于讨论智力。</em></li>
+<li>“这是数典忘祖”</li>
+<li>“这是断了奶就嫌母乳没用”</li>
+<li>“提出这种问题是教育学的悲哀”</li>
 </ul>
-<p>这是过去 1000 万年，人科的脑容量变化<sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9cde412e981791227e04a79d8750228d_720w.jpg?source=8673f162" alt=""></figure>
-<p>注意最后的几千年。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-47163c1de7bdd3327741c9700b449bc4_720w.jpg?source=8673f162" alt=""></figure>
-<p>在人类进入文明阶段后，平均脑容量反而有所降低。</p>
-<p>虽然总量降低不多，但降低速度非常快。</p>
-<p>而且随着脑容量下降，也能兼容存活脑容量更大变化的人种分布。</p>
-<p>关于人类脑容量的降低，大多研究显示<sup>[2]</sup><sup>[3]</sup><sup>[4]</sup>，人类从几千到数万年前脑容量就开始降低了，降低幅度 5~20%不等，平均 10%左右。</p>
-<p>传统观点认为，数万年以来，人类脑容量反而有所降低是体型缩小、转向农业饮食，以及自我驯化的结果。</p>
-<p>但也有研究认为，分布式认知社会系统的出现，及信息存储与共享才是关键。</p>
-<p>这使得人类以「集体认知体」的形式，获得生存优势，从而减轻了个体智力的存活压力。</p>
-<ul>
-<li><em>分布式认知社会系统，也即认知过程不再由单个个体的大脑独自完成，而是在群体中通过多人分工协作，把信息的存储、处理与决策外化到群体层面的一种认知系统。</em></li>
-</ul>
-<p>通俗点来说，人类文明出现以后，人类的生存模式，更加倾向于从个体或简单群体模式发展为典型的集体模式，从而减轻了个体压力。</p>
-<p>从某种意义上来说，或许是过去 1000 万年人科智力的飞速演化，所达到的高智力结果，对于现代人类社会来说，智力甚至已经处于冗余状态，可以兼容略微更低的平均智力。</p>
-<p>规则斩杀 50%人口后，平均智商 110，智商增益仅仅只有 10%。</p>
-<p>而且这里的智商增益，还不能直接等同于智力增益。</p>
-<p><strong>虽然大尺度下，人群智力可以约等于人群智商。但小尺度下，并不能等同。</strong></p>
-<p>20 世纪七八十年代，美国学者詹姆斯·弗林<strong>（<em>James Robert Flynn）</em></strong>发现了著名的心理学现象<strong>弗林效应</strong><em><strong>（</strong>Flynn effect</em><strong><em>）</em>。</strong></p>
-<p>也即，人类智商测试结果，具有逐渐增加的现象。</p>
-<p>过去几十年，人类智商测试的平均分值提升了几十分。例如， 韦氏儿童智力量表，平均每十年增加 3 个百分点。个别情形下，每十年增量甚至达到 7 个百分点。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-03b1f3e10fa2a51f0e9d4fc7e0732f05_720w.jpg?source=8673f162" alt=""><figcaption>如果智商测试结果代表着绝对智力，相比起今天，100 年前几乎是人均智障的水平</figcaption></figure>
-<p>不过这种现象在北欧地区已经出现了显著放缓甚至停止，个别国家甚至出现了反弗林效应，也即出现了一定程度的智商倒退。</p>
-<p>对于弗林效应，人们提出了各种理论来解释。</p>
-<p>例如，从社会学层面来说<sup>[5]</sup>，可能是因为人类平均教育水平得到迅速增加，以及社会复杂度提高，人们接受的刺激较多，甚至是更加熟练于智商类选择题，都可能使智商测试水平得到提高。</p>
-<p>如果有人做过智商测试，那么他第二次再进行测试，平均分数会高 5 或 6 点。同时，电视、电脑、智能手机等图形使用界面的增加，也可能使得智商测试水平有所增加。</p>
-<p>从生物学层面来说，则可能是人类普遍获得了更多的营养，保障了身体和大脑的发育。</p>
-<p>但作为一个人种，人类的智力在如此短时间是不会如此大幅度变化的。</p>
-<p>因此排除弗林效应的影响，你智商增益了 10%，可能人类总智力的增益远远小得多。</p>
-<p>考虑到数万年前，人类的脑容量是实实在在的比现在高出 10%左右。</p>
-<p>那么——</p>
-<p>首次规则斩杀 50%人口后，人类的智力表现，甚至可能还不如数万年前的古人类。</p>
-<p><strong>规则斩杀 50%人口的世界，我们可以进行以下预测：</strong></p>
-<p>每一次斩杀，整个社会没什么人均增益，总劳动力反而损失一半，而且损失的还是决定社会基础工作的基础劳动力。</p>
-<p>且首次斩杀后，整个社会的运转就会断崖式崩塌。</p>
-<p>当第一次斩杀规则发生了，接下来的人类世界，将陷入永无宁日的战乱。</p>
-<p>因为智商表现并非完全是先天决定的。</p>
-<p>为了避免 100 年后，后代被 50%的规则斩杀。</p>
-<p>有资源的人，显然会尽可能的垄断后天教育。为了垄断教育，也会尽可能的垄断更多的资源。</p>
-<p>整个社会将会变成一个极端分化的世界。</p>
-<p>考虑到人类智商是成百上千的基因决定，意图通过与高智商群体婚配改良后代基因的效果，是远远达不到直接后天教育、资源全面垄断效果的。</p>
-<p>如果此时依旧无法避免后代被规则斩杀，那么垄断资源的人会做什么？</p>
-<p>他们极有可能，蓄养大量更低智商的人，从适基础工作，当做完全的规则牛马，保证足够充分的低智商人群，避免自己的后代被规则斩杀。</p>
-<p>这样，牛马们，既可以为社会提供基础建设，100 年后，还能成为规则斩杀的牺牲品。考虑到动乱社会，人类平均寿命不可能太长，那么可以每两代牛马进行一个百年循环。</p>
-<p>另一方面，整个社会的智力主力群体，中高智商的这一部分人，会陷入巨大的压抑和焦虑之中，甚至会有大量的绝望人群。他们可能很难再有生育欲望，从而进一步造成人口的大衰退。</p>
-<p>总之，规则斩杀线下，整个社会注定将会以非常快的速度衰退。</p>
-<p>考虑到社会崩溃和战乱的残酷，人类可能在短短数百年的时间全面崩溃。</p>
-<p>文明全面衰退以后，灭绝便只是时间问题。</p>
-<p>毕竟，即便是没有规则斩杀线的人类，在过去数十万年、数万年之间<sup>[6]</sup><sup>[7]</sup><sup>[8]</sup>，人类都遭遇过多次人口瓶颈，好几次差点灭绝。</p>
-<p>现在有了斩杀线，整个人类极其的脆弱，只需要一点点的外部压力，便可能直接灭绝。</p>
+<p>很难想象真的有很多人在给上面的言论点赞，我不知道他们为什么会认为换一个数学符号能造成如此严重的后果。实际上，用“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”这个符号没有任何必然性，而只是一种选择。如果他们小时候用的是另一个国家的课本，里面用“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2F" alt=""></p>
+<p>”来表示除法，也许他们也会出来积极地维护“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2F" alt=""></p>
+<p>”。很明显，用“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2F" alt=""></p>
+<p>”替代“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”的生态位，而不是作为分数线的另一种写法，完全是可以的。</p>
+<p>“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”并不是一个很好的符号。从书写的角度，“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”非常不方便，它的复杂性比“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2B" alt=""></p>
+<p>”、“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=-" alt=""></p>
+<p>”、“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctimes" alt=""></p>
+<p>”高得多，不仅必须要三笔，而且上下两点用劣质一点的笔很难写清楚。这个符号的复杂性甚至给了某些小学老师在这件事上折磨学生的空间，让他们把两个点画成很圆的圆形。如果换成“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2F" alt=""></p>
+<p>”，老师最多也只能要求学生斜线必须维持某个角度。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/452000285">小学二年级数学老师，要求学生写 ÷ 时，必须横线尺子比着写、两个点特别圆，是不是有点过分？</a></p>
+<p>有一种找补的说法是，“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”表示的是<strong>带余除法</strong>。甚至还有回答煞有其事地写了一堆字来论证</p>
+<p>“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”和“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2F" alt=""></p>
+<p>”是不同的。他们但凡翻一下小学课本也知道小学数学根本不是这么教的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ec91eb62c10361fd45e1ea3083a4f4f_720w.jpg?source=8673f162" alt=""><figcaption>人教版小学数学五年级下册</figcaption></figure>
+<p>还有人说，“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2F" alt=""></p>
+<p>”是计算机里的用法，而且表示<strong>整除</strong>和数学里的除法不一样。前半句和后半句都是错误的，19 世纪数学家就在用“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2F" alt=""></p>
+<p>”表示除法了，计算机是后来的，而且计算机里的“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2F" alt=""></p>
+<p>”也不一定表示整除，</p>
+<p><code>1/3</code></p>
+<p>到底等于多少取决于编程语言和具体类型，它可能等于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7B3%7D" alt=""></p>
+<p>，可能等于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0" alt=""></p>
+<p>，也可能等于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0.3333333432674407958984375" alt=""></p>
+<p>。</p>
+<p>“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”在事实上就是一个几乎只存在于小学数学中的符号，无论是<strong>国家标准</strong>（<a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//sxqx.cnjournals.com/uploadfile/sxqx/20171130/GB%25203102.11%25E2%2580%25941993%2520%25E7%2589%25A9%25E7%2590%2586%25E7%25A7%2591%25E5%25AD%25A6%25E5%2592%258C%25E6%258A%2580%25E6%259C%25AF%25E4%25B8%25AD%25E4%25BD%25BF%25E7%2594%25A8%25E7%259A%2584%25E6%2595%25B0%25E5%25AD%25A6%25E7%25AC%25A6%25E5%258F%25B7.pdf.pdf" target="_blank" rel="nofollow noreferrer">GB/T 3102.11</a>），还是<strong>国际标准</strong>（<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//webusers.imj-prg.fr/%7Ejean-yves.ducloux/Typographie/ISO80000-2.pdf" target="_blank" rel="nofollow noreferrer">ISO 80000-2</a>）都要求用</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cfrac%7Ba%7D%7Bb%7D" alt=""></p>
+<p>或</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=a%2Fb" alt=""></p>
+<p>来表示</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=a" alt=""></p>
+<p>除以</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=b" alt=""></p>
+<p>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fbfe7498f6adbf5b9cdccf9d21177f9e_720w.jpg?source=8673f162" alt=""><figcaption>GB/T 3102.11</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a0b4ae42e4d1ac53f1edce605123ec51_720w.jpg?source=8673f162" alt=""><figcaption>ISO 80000-2</figcaption></figure>
+<p>小学数学不废除“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdiv" alt=""></p>
+<p>”本身并不是很大的问题，无非是历史惯性，而且这个符号只是书写起来麻烦，本身没什么歧义，比这糟糕的符号<sup>[1]</sup>多了去了。我真正反对的，是把现行的小学课本当作唯一可能的真理的观点。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1983633027222507835">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/452379891">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787442</guid><pubDate>Sat, 07 Feb 2026 18:28:25 GMT</pubDate></item><item><title>为什么中国式刺身（鱼脍）在明中期被逐渐淘汰了？</title><link>http://daily.zhihu.com/story/9787449</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8b733af2339e359a379203e9d69c234e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787452</guid><pubDate>Sun, 08 Feb 2026 02:05:43 GMT</pubDate></item><item><title>中国为什么不生产类似 gore-tex 的面料？</title><link>http://daily.zhihu.com/story/9787455</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8b7ee4439c5d0ac32c1c532f5a0c08a9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -359,77 +128,900 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
-<span class="author">知乎用户，</span><span class="bio">美食、故事和电影爱好者。临终关怀义工。</span>
-<a href="https://www.zhihu.com/question/470428983/answer/1996370903752263085" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-fb32fc943a6c867ea8c765c646a56b8f_l.jpg?source=8673f162">
+<span class="author">姚蔚铭，</span><span class="bio">纺织品化学工程师（神秘职业）</span>
+<a href="https://www.zhihu.com/question/509861898/answer/1994867982518732227" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先说结论，鱼脍在明朝中后期并没有被淘汰。</p>
-<p>生食部分食材的偏好，在古代南北多地都能见到，不是什么稀奇事。</p>
-<p>比如辽国，每年九月九日宗室打猎，打来了猎物，就把那些兔子肝脏生切，再搭配鹿舌酱拌食。</p>
-<blockquote>辽俗，九月九日打围，……射罢，于地高处卓帐，饮菊花酒，出兔肝生切，以鹿舌酱拌食之。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-81df3981dc52f40180e3afc797b26155_720w.jpg?source=8673f162" alt=""><figcaption>图片来自网络，供参考</figcaption></figure>
-<p>金国的食俗，偏爱烤和生吃，对应的食材很多，有猪羊鸡兔鹿等，“盛猪羊鸡鹿兔狼獐麂狐狸牛驴犬马鹅雁鱼鸭蛤蟆等肉，或燔或生脔，多芥蒜渍沃续供列。”</p>
-<p>在当时，金朝最知名的一种食物吃法是这样的，“肥猪肉或脂，阔切大片，一小盘子虚装架起，间插青葱三数茎。”这种吃法名叫肉盘子，还不是一般场合能吃的，得比较大型的宴会才行。“名曰肉盘子，非大宴不设，人各携以归舍。”</p>
-<p>南宋时期，曾有多位使臣到过金朝，金人招待时，也请使臣们一起吃肉盘子。这样的生肥猪肉，宋人吃不惯，见了也一样吐槽，说金人“好研芥子，和醋拌，肉食心血脏瀹羹，芼以韭菜，秽污不可向口，虏人嗜之。”</p>
-<p>当然，南宋也好，北宋也好，鱼生、醉虾、醉蟹一类的生食层出不穷，二哥大哥谁也别笑谁。从《吴氏中馈录》《东京梦华录》《岭外代答（南宋地理学家周去非的作品，此人在广西等地长期为官）》等古书来看，两宋的岭南地区、江浙地区，都有相当的鱼虾生食尝试，说是地方食俗之一，并不夸张。</p>
-<p>以下一则是《吴氏中馈录》记录的蟹生，这部书一般认为成书于宋末元初，反映了江浙一带的饮食厨事，</p>
-<blockquote>用生蟹剁碎，以麻油先熬熟，冷，并草果、茴香、砂仁、花椒末、水姜、胡椒俱为末，再加葱、盐、醋共十味，入蟹内拌匀，即时可食。</blockquote>
-<p>北宋时，都城开封“每日早惟新郑门、西水门、万胜门，如此生鱼有数千檐入门。”冬天天冷，所吃的鱼，多是从黄河远处运过来，“从冬月即黄河诸远处客鱼来，谓之‘车鱼’，每斤不上一百文。”这些信息也详细记载北宋晚清的孟元老《东京梦华录》里。</p>
-<p>两宋多个有名的大佬，欧阳修、苏轼、梅尧臣、黄庭坚等人都喜欢吃鱼生。</p>
-<p>梅尧臣的家里有个厨师刀工很好，很会做鱼生。欧阳修有时馋虫上来了，就自己买几条鱼到梅家谈聊，完了，再让他们家的厨师帮忙做些鱼生。</p>
-<p>生兔肝也好，肉盘子也好，鱼生，蟹生也好。</p>
-<p>彼之蜜糖，汝之砒霜。</p>
-<p>若是同时期的金人见了宋人的鱼生，指不定也吃不习惯，一样要抱怨，“秽污不可向口。”</p>
-<p>类似的饮食差异和争议，古人也有看得非常理性的，并呼吁大家求同存异，没必要搞地域攻击和鄙视链。</p>
-<p>生活在明朝中后期的地理学家王士性就说：“海南人食鱼虾，北人厌其腥；塞北人食乳酪，南人恶其膻；河北人食胡葱、蒜、薤，江南畏其辛辣；而身自不觉。<strong>此皆水土积习，不能强同。</strong>”</p>
-<p>王士性笔下的《广志绎》是一部全国性的地理学笔记，也是他为官多年，宦游全国的实地考察记录。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-1db078998a617335d33b6e1a415d1dfc_720w.jpg?source=8673f162" alt=""><figcaption>图片来自网络，供参考</figcaption></figure>
-<p>回到题主的问题。</p>
-<p>明朝时期，鱼生等生食，依旧在部分地区流行。</p>
-<p>像是李时珍写《本草纲目》时，也曾提当时部分地区的食鱼生鱼脍现象，说是“刽切而成，故谓之鲙。”吃的时候，可以薄切，洗净血腥，再搭配蒜齑、姜、醋等调味。</p>
-<blockquote>凡诸鱼之鲜活者，薄切，洗净血腥，沃以蒜齑、姜、醋，五味，食之。</blockquote>
-<p>宋诩是明朝中期的知名美食家，他写的《宋氏养生部》里，鱼生的做法十分详细，怎么去皮，怎么收尽血水，都一一道出。也是通过他的文字，我们更直观地看到，古人吃鱼生的时候，是会用到蒜片、橙皮丝、白萝卜丝等调味。</p>
-<blockquote>为生取活鱼，治洁去皮，绝薄为月枼，或绝细为脍，移绵纸间，收尽血水，和蒜片、橘丝或白萝卜丝，酽醋渍用。</blockquote>
-<p>宋是哪里人呢？松江府华亭县人，今天的上海松江人。</p>
-<p>关于鱼生。</p>
-<p>什么鱼才好吃。</p>
-<p>古人也是脑洞大开，尝试多多。</p>
-<p>唐代人推崇的是鲫鱼脍，唐时古书《膳夫经手录》说：“鲙莫先于鲫鱼，鲠、鲂、鲷、鲈次之，鲚、味、魿、黄、竹五种为下，其他皆强为之耳，不足数也。”</p>
-<p>前面提到的北宋大臣梅尧臣，他呢就觉得鲈鱼的口感很哇塞，不惜写诗发朋友圈官宣，“吴江下有鲈，鲈肥脍堪切。”</p>
-<p>当然，宋人有的喜欢鲈鱼生，有的喜欢鲤鱼生，大佬如黄庭坚就说，“飞雪堆盘脍鱼腹，明珠论斗煮鸡头。”这里的飞雪脍鱼腹，咏叹的是鲤鱼脍。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c583da04c71f1eeeae6e0cf9e88c2951_720w.jpg?source=8673f162" alt=""><figcaption>图片来自网络，供参考</figcaption></figure>
-<p>黄庭坚这人，除了嗜好吃苦笋，对鲤鱼也是真爱了。</p>
-<p>有一天，朋友张仲谟说是要送一些河鲤给他做鱼生吃。</p>
-<p>黄在家里左等右等，久等不见，忍不住写诗抱怨道，我饭菜材料什么的都搞好了啊，就差你那天杀的鲤鱼了。</p>
-<p>原文是，“盐豉欲催莼菜熟，霜鳞未贯柳条来。日晴鱼网应曾晒，风软河冰必暂开。莫误晓窗占食指，仍须持取报章回。”诗的题目也很直白，就叫《张仲谟送河鲤未至，戏督以诗》，900 多年过去了，今天重看名字和内容，我们仍能感受到一股强烈的吐槽催促感。</p>
-<p>屈大均是明末清初的广东人，他提到广东当地的吃鱼偏好，直接来了一句，“粤俗嗜鱼生，以鲈，以鱼吏，以鰽白，以黄鱼，以青鲚，以雪舲，以鲩为上。”</p>
-<p>地方对一些鱼材的推崇如此，屈大均自己呢，则认为鲥鱼、嘉鱼做鱼生时，尤其鲜美，“而鲥与嘉鱼尤美。予尝荡舟海目山下，取鲥为脍。”并说当时的岭南地区，有一句俗谚：冬至鱼生，夏至犬肉——足见这类食俗在地方的风气之浓，并非个别现象。</p>
-<p>吃鱼生要薄切，那么，要切多薄？</p>
-<p>屈大均给的评语是，“红肌白理，轻可吹起，薄如蝉翼，两两相比。”这样的切法，跟今天广东广西部分地区切鱼生时用的“蝴蝶刀法”高度相似。</p>
-<blockquote>粤俗嗜鱼生，以鲈，以鱼吏，以鰽白，以黄鱼，以青鲚，以雪舲，以鲩为上。鲩又以白鲩为上。以初出水泼剌者，去其皮剑，洗其血鮏，细刽之为片，红肌白理，轻可吹起，薄如蝉翼，两两相比，沃以老醪，和以椒芷，入口冰融，至甘旨矣。而鲥与嘉鱼尤美。</blockquote>
-<p>从屈大均的文字记录看，</p>
-<p>除了鱼生，岭南部分地区，也有“以鳝之乌耳者、藤者、黄者为生，亦有以蚝为生者。”</p>
-<p>乾隆时期，周硕勋也在《潮州府志》说起，潮州当地对鱼生、虾生等食物很是热衷，“蚝生，虾生，鱼生之类，辄为至味。”</p>
-<p>往前看，唐昭宗时期的广州司马刘恂，在个人作品《岭表录异》里就关注到，岭南一些地区的虾生等饮食。</p>
-<blockquote>南人多买虾之细者，生切倬莱兰香蓼等，用浓酱醋，先泼活虾，盖似生莱，以热釜覆其上……<br>唐代，刘恂，《岭表录异》</blockquote>
-<p>综合这些资料来看，明朝也好，清朝也好，南方部分地区吃鱼生鱼脍的现象，一如唐宋旧时，较为流行，并没有被淘汰。</p>
-<p>另有北方部分地区，因后期战乱等影响，原本的食鱼生习俗，式微不彰。</p>
-<blockquote><strong>三月一日，州西顺天门外，开金明池琼林苑，</strong>每日教习车驾上池仪范。<br>其池之西岸，亦无屋宇，但垂杨蘸水，烟草铺堤，游人稀少，多垂钓之士，必于池苑所买牌子，方许捕鱼，游人得鱼，倍其价买之，<strong>临水砟脍，以荐芳樽，乃一时佳味也。</strong><br>北宋晚期，孟元老《东京梦华录》</blockquote>
-<p>典型的是北宋开封，原本皇室、官员和老百姓是有许多吃鱼脍的，也有相当的诗文掌故留下。</p>
-<p>当时的金明池，是著名的皇家园林，平时不能随便进去。但每年春天，会对老百姓开放几天，钓鱼佬、吃鱼人可以携带厨具、调味啥啥的到池边钓鱼，完了再“临水斫鲙”，上演一番大快朵颐。经战乱变故后，古开封食鱼脍的风俗一变，到了明清时期，已很少记叙。</p>
-<p>主要参考资料：</p>
-<blockquote>唐朝，杨晔《膳夫经手录》；<br>唐代，刘恂，《岭表录异》；<br>北宋，黄庭坚《张仲谟送河鲤未至，戏督以诗》；<br>北宋晚期，孟元老《东京梦华录》；<br>宋末元初，《吴氏中馈录》；<br>明朝，宋诩《宋氏养生部》；明朝，李时珍《本草纲目》；<br>明朝，王士性《广志绎》；<br>明末清初，屈大均《广东新语》。<br>清朝，周硕勋《潮州府志》。</blockquote>
-<p>（图片来自网络，供参考）</p>
+<p>先说结论，如果说的是 GORE-TEX 一样类似材料的 ePTFE（膨体聚四氟乙烯）、ePE（膨体聚乙烯）防水透湿膜材面料的话，那国内还是有不少在做的；但是如果<strong>想要实现超越 GORE-TEX 的面料性能话目前还是有一定差距的。</strong></p>
+<p><strong>1）GORE-TEX 不是具体的一种面料材料</strong></p>
+<p>直接去评价 Gore-tex 性能到底如何是没有任何可比性的。因为它是基于 ePTFE/ePE 材料再<strong>通过不同加工方式</strong>做出的<strong>针对不同应用场景</strong>的防水透湿面料品牌</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-617a84421ac9fa69ed52f1cfd6bed4ed_720w.jpg?source=8673f162" alt=""><figcaption>" data-size=</figcaption></figure>
+<p>这么说可能有点绕口，我举一个简单的例子</p>
+<p><strong>“面条好吃” </strong> 但是面条还有更多的细分</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b0f4bbceb80ce87fbff44b23c41fe720_720w.jpg?source=8673f162" alt=""></figure>
+<p>你是爱吃兰州拉面还是爱吃意大利面？还是爱吃重庆小面？还是爱吃阳春面？还是爱吃打卤面？还是爱吃油泼面？</p>
+<p>他们虽然都是面条，但是烹饪方法是完全不同的，<strong>不具体到特定产品是无法对比评价的</strong></p>
+<p>那接下来我就用全网最通俗易懂的方式来科普下<strong>GORE-TEX 面料具体可以细分成哪些材料</strong></p>
+<p>其实很简单，别担心</p>
+<p>但在开始前请忘掉那些户外文章里关于 GORE-TEX 不同系列的笼统宣传</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e793a3dd509c9c16e4edf1c129042175_720w.jpg?source=8673f162" alt=""><figcaption>泛概念对选购无帮助意义</figcaption></figure>
+<p>泛概念对选购无帮助意义，我们直接切入冲锋衣材料学的最基本的逻辑原理</p>
+<p><strong>2）GORE-TEX 面料有哪些细分产品？</strong><strong>1.单组份 ePTFE 膜</strong></p>
+<p>这是一团发酵好的面团，用双手把它拉开，可以看到<strong>内部布满了非常多的纤维空隙</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-802ec7061040b33255d86924f18a1925_720w.gif?source=8673f162" alt=""></figure>
+<p>ePTFE 膨体聚四氟这个材料如果我们把它加热拉开，也会出现这样的样子</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-67e8afbf19e85a75a74b3100b903207f_720w.jpg?source=8673f162" alt=""></figure>
+<p>内部布满着纳米级的纤维网，看着像空气滤芯的过滤网，事实也确实这样<strong>它本质就是一个纳米级过滤网</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-47ef840ef86191294ba25eb59fe234a2_720w.jpg?source=8673f162" alt=""></figure>
+<p>雨水这类液态的水分子团大无法穿透，而人体分泌的汗液湿气是气态水分子团比较小，他又可以刚好穿过这层过滤网的孔隙，从而实现防水又透气的效果。</p>
+<p>不过注意我的措辞，说的是“<strong>膨体聚四氟乙烯 ePTFE”</strong>这个材料，“膨体”很关键。普通的 PTFE 的话是没有这个效果的，必须要像拉面团一样把它拉开，英文是 expanded 所以叫做“ePTFE”，拉伸成膨体形态很关键。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6c57101fe1c7b9806aa96283a26353cb_720w.jpg?source=8673f162" alt=""></figure>
+<p>比如爱喝啤酒的人会注意到，有种啤酒叫<strong>“纯生”</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-859e12bf3f39888d002be1065effdafa_720w.jpg?source=8673f162" alt=""></figure>
+<p>它既不是一个商标也不是酿造方法，<strong>反而是一种加工工艺的名称</strong>，最早期的纯生啤酒工艺就会用到 ePTFE 这类纳米级过滤网。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e6a3e15650a6e6f6ce151df8a4ec6a91_720w.jpg?source=8673f162" alt=""></figure>
+<p>新鲜啤酒的保质期很短也就一周时间，为了能把啤酒销往全国，甚至全球，<strong>就需要把啤酒内的酵母菌灭活延长保质期</strong>，最简单的灭活方法就是把啤酒加热，所以常见的啤酒也叫做<strong>“熟啤”</strong>。但这样的话也使得啤酒中的很多风味物质发生了变化，所以熟啤不如新鲜啤酒好喝</p>
+<p>高温可以灭活酵母菌，但想把酵母菌去掉并不只有高温这种方式，可以在新鲜的啤酒间加入一层 ePTFE 纳米过滤膜，啤酒可以正常过去，而酵母菌体积大会被卡主，这样就能实现不用高温，又能灭活细菌的目的，这便是啤酒的<strong>“纯生工艺”</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4b992c9099af861ee6d1bc334449538d_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过这种纳米过滤膜做啤酒可以但在做成防水透气的冲锋衣后就面临一个苛刻的问题，<strong>那就是衣服需要洗涤的</strong>，而洗涤就会用到洗衣液，即便多次漂洗总还是会有部分表面活性剂残留在这些纳米膜内部</p>
+<p>前面提到了 ePTFE 本质是一个过滤网，液态水分子团大无法穿透实现的防水，那问题来了！<strong>“这个液态水分子团的大小是由什么决定的呢？”</strong></p>
+<p>答案就是<strong>“表面能”</strong></p>
+<p>例如水的表面能很高，油的表面能很低，彼此间差值大于是水油就很难相互溶解</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4c8c06d5991d085564e74868a9e7d80f_720w.jpg?source=8673f162" alt=""></figure>
+<p>但如果往水里加入“表面活性剂”降低水的表面能，于是水和油就能彼此溶解了，洗碗、洗衣服的底层原理就是这样。</p>
+<p>刚买来还没有洗涤的冲锋衣，其中 ePTFE 膜材的表面能和水的差值很大，那么水就越接近一个更大的球形不容易通过；但洗涤后未漂洗干净，残留的的表面活性剂就会降低水的表面能削弱这两者间的差值，导致水分子团变得更小，更加容易穿透这层过滤膜，这也就是为什么冲锋衣多次洗涤后防水性能下降的根本原因。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3d49b0d59da82607dc35c68ab8d4b03f_720w.jpg?source=8673f162" alt=""></figure>
+<p>而这种常规的 ePTFE 膜就是 GORE-TEX 的白标系列，以前叫 INFINIUM，现在叫 WINDSTOPER，只宣传防水透气并不提及防水性能，常用于风壳、软壳这类衣物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5aab463ead8e7894b5af916f85bf9323_720w.jpg?source=8673f162" alt=""></figure>
+<p>因为刚买来时可以防水，但洗涤后防水性能就会出现很大的下降，所以无法宣传专业防水,只提及“抗水”（短暂防护小雨）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-555516b1b698374c892f0d5ea604c194_720w.jpg?source=8673f162" alt=""></figure>
+<p>说到防水透气它们彼此间并不矛盾，ePTFE 膜中纳米级的纤维孔隙并不是垂直贯通的，而是像迷宫一样内部弯弯曲曲的。当强风吹过来的时候，气流会在内部转圈彼此相互抵消削弱风速；而人体的皮肤分泌的湿气本身就是自由扩散的低速气流，可以走出这纳米纤维做成的迷宫。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2fb2b1bf2e11dd00275c40d44cc44fe5_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以防风是让高速风衰减为低速风并不是一点气不透，<strong>防风和透气并不矛盾</strong>，国标也有很多相关标准测试</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7dfde579f7a79a69c20d65d4633b59d0_720w.jpg?source=8673f162" alt=""><figcaption>单位 mm/s ；压降 100pa</figcaption></figure>
+<p><strong>2.双组份 ePTFE 膜</strong></p>
+<p>为了解决 ePTFE 材料在洗涤后防水性能骤降的问题，纺织材料工程师们想到了一种新的方法，<strong>那就是在 ePTFE 膜的表面上涂上一层也能透湿的 pu 膜。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e36c21c3fee14b482be28a2138a6b3b7_720w.jpg?source=8673f162" alt=""></figure>
+<p>PU 膜像一个会慢慢漏水的塑料袋，虽然没有孔隙，但皮肤湿气可以慢慢地浸润它透出去，而面对水量大的暴雨时，又不会立马穿透，这一下就弥补了 ePTFE 膜的劣势，从而实现洗后防水性能的问题</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-796b55c404bd1873d776bf295c0657a2_720w.jpg?source=8673f162" alt=""><figcaption>PU 膜透湿原理</figcaption></figure>
+<p>因为由两种材料共同组成，所以在纺织业内也常称呼为“双组分 ePTFE”，这便是 GORE-TEX 的黑标常规系列</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6419bdd1e0ee463486f5c5a1f61a8581_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过话说回来，这层 PU 膜是实心的没有孔隙，<strong>无法实现真正的透气</strong>所以舒适性不如单组份的 ePTFE。不过就我个人体感来说，舒适性还是要比常规的 TPU/PU 无孔透湿膜更好的</p>
+<p>因为纯的 TPU/PU 膜为了保证冲锋衣面料的力学性，不能做的很薄要不然加工时很容易就烂了，所以厚度相对较厚</p>
+<p>而双组份 ePTFE 膜上的 PU 层其实是涂上去的，只是为了堵住孔隙，并不需要考虑力学性能所以厚度可以做的很薄，皮肤湿气在从皮肤向面料外穿透的过程当中，先润湿扩散出去比较薄的 PU 膜，再穿透 ePTFE 膜孔隙，然这样的透湿阻力更小。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c317c251db3e78d490d6a58f8a1d4d06_720w.jpg?source=8673f162" alt=""></figure>
+<p>因为双组分 ePTFE 的洗后防水更加稳定，所以能作为真正的冲锋衣面料使用，<strong>通过牺牲舒适性来换来更加优异的防水性能保护</strong></p>
+<p><strong>3.单组份拒油改性 ePTFE 膜</strong></p>
+<p>双组份 ePTFE 防水更加稳定，但是牺牲了 ePTFE 过滤膜最亮点的直接透气性能</p>
+<p>例如到了雪线以上的雪山场景，这时候的降水已经从液态水变成了固态的雪，<strong>对防水性能的要求并不苛刻，反而是需要极佳的透气透湿性能避免失温。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9bfb35e56e63ae9e6035a008bdbe4c0e_720w.jpg?source=8673f162" alt=""></figure>
+<p>既然单组份 ePTFE 会被洗涤剂里的表面活性剂给润湿，导致防水性的下降，那我可不可以在其中加入能抵消表面活性剂润湿的物质呢？</p>
+<p>当然可以，而且原理很简单</p>
+<p>就是把冲锋衣面料上的 DWR 防泼水功能的拒水剂加在膜上即可，这便是<strong>“单组份拒油改性 ePTFE”</strong>，也是 GORE-TEX PRO\PERFORMANCE 里的部分面料</p>
+<p>PTFE 聚四氟乙烯，它的化学结构中只有一个朝外的氟碳链</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-35a24b5003db24c7d7e959e209657f8a_720w.jpg?source=8673f162" alt=""><figcaption>聚四氟乙烯化学式</figcaption></figure>
+<p>而防泼水剂可以像植物嫁接一样，在其结构上额外引入 6 个甚至 8 个全氟碳链</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-daf70120b4c11a615f67b65b20031be9_720w.jpg?source=8673f162" alt=""></figure>
+<p>此时经过改性的 ePTFE 不仅能疏水甚至表面能还能低到排斥油脂，这下就不用担心洗衣液残留带来的防水性能过渡下降问题了</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0b5054bc0e7587dee47ca40e8d6b2763_720w.jpg?source=8673f162" alt=""></figure>
+<p>说到改性，还记得文章最开始提到的<strong>“纯生啤酒”</strong>吗，<strong>“啤酒也是水它是怎么能穿透 ePTFE 过滤膜的呢？”</strong></p>
+<p>因为纯生工艺用的也不是普通的 ePTFE 膜，而是和冲锋衣逻辑相反，<strong>是经过亲水改性的</strong>，让水在接触到过滤膜时水分子团变得更小轻松穿透，但是酵母菌并不会因此而改变大小与就被阻挡在了外面</p>
+<p>所以<strong>只需要控制 ePTFE 膜本身的表面能高低</strong>，就可以控制液态水是能更好地穿透还是更加难以传透，<strong>这便是改性工艺的魔力</strong></p>
+<p><strong>4.双组份拒油改性 ePTFE</strong></p>
+<p>想要提高冲锋衣的防水性能，ePTFE 膜可以选择涂覆 PU 也可以选择用化学品进行低表面能改性。这两个工艺彼此之间完全不同所以并不是舍我其谁，两个工艺完全可以合并在一起获得 1+1＞2 的效果，于是又有了第四种 ePTFE 膜<strong>“双组份拒油改性 ePTFE”</strong>,通过牺牲透气性可以获得更加极致的冲锋衣防水性能，这便是 GORE-TEX PRO 中的部分产品</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6e0dabf08ebf019b21950e315c781152_720w.jpg?source=8673f162" alt=""></figure>
+<p>大家发现没有，能透气的<strong>“单组份改性 ePTFE”</strong>和不能透气的<strong>“双组份改性 ePTFE”</strong>都会在 GORE-TEX PRO 中用到，所以只了解宣传名称和广告语对我们消费者选购意义很小，<strong>理解面料的材料机理最关键。</strong></p>
+<p>冲锋衣面料的防水核心就是靠的是中间这层膜，但它是很脆弱一戳就破，所以需要再膜的表层和内部各加一块面料把它夹住保护起来，英文的层叫 Layer，所谓的 3L 面料指的就是 3 层面料结构，并不是衣服能装在 3L 容量的意思</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d1d43d6d8f102a9b30b96f1b3467f6e0_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过内层的面料通常都是和内衣这种相对柔软的面料接触，对于它的耐磨性要求就并不高，于是可以直接采用双组份 ePTFE 膜，因为贴身层还有一层薄薄的 PU 层</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7ae5467915840f7f96245d358b11e76f_720w.jpg?source=8673f162" alt=""></figure>
+<p>面料 1 层、ePTFE 膜 1 层、薄薄的 PU 算它 0.5 层，这便是 2.5L 面料，这就是主打轻薄便携的 GORE-TEX PACLITE</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c1e219fca6dd8dfcc7a4d793e01e7812_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>3）为什么国内做不出超越 GORE-TEX 的 ePTFE 冲锋衣面料</strong></p>
+<p>GORE-TEX 面料从材料底层原理来看其实也就这么 4 大类，所以国内的面料商、材料商想去纺制并不困难，所以目前这些材料品种国内也都出现了替代品。不过对于 ePTFE 冲锋衣面料来说，国内是很难很难仿制出超越 GORE-TEX 面料的</p>
+<p><strong>1.氟原料差异</strong></p>
+<p>首先是氟材料的供应商原料品质就有差异，GORE-TEX 的氟原料是杜邦特供的，而国内的材料商好的也就只能用到日本大金的或者东岳、巨化的氟原料。</p>
+<p>文章最开头提到了 GORE-TEX ePTFE 膜其实就像是一个发酵后的面团拉伸出来的，那你这个面团用的是低筋面粉还是高筋面粉，最终得出来的面包品质也肯定有差异</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-94526a2e45e2b39237db5b198398b5c7_720w.jpg?source=8673f162" alt=""></figure>
+<p>高品质的氟原料可以让材料聚合度更加集中稳定，这样在拉伸面团的时候，内部的纳米纤维网不会出现局部没拉开而其他部分又过度破裂的情况</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c17a7724117aee8dfdd35bf295d441e8_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以从原料供应上来说就已经弱了一道门槛</p>
+<p><strong>2.双组份 ePTFE 的技术难点</strong></p>
+<p>双组分 ePTFE 膜会涂覆一层能透湿的 PU 层。但就像粉刷墙一样，差的工艺过段时间就会脱层，部分国产的双组份 ePTFE 也常出现这样情况，导致多次洗涤后防水性能出现不稳定</p>
+<p>而 GORE-TEX 的双组份 ePTFE 可以把 PU 层较好的渗透入 ePTFE 纳米孔隙中，形成一种像钢筋混凝土类似的结构，即便最表层的 PU 降解脱落，但中间的混凝土部分是很牢固的，从而实现可靠的防水性能</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b16e7f2c88ec699186ba3940285b4ee_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>3.单组份改性 ePTFE 的技术难点</strong></p>
+<p>单组分改性 ePTFE 膜原理很简单，就是把防泼水剂加在膜上就行，但这些拒水剂剂本身也会自交连会堵住纤维间的孔隙，导致材料最想体现的透气性能无法全部发挥</p>
+<p>而且 ePTFE 本身是排斥水，那就会导致这层拒水剂无法均匀理想的浸润覆盖在所有的 PTFE 纤维表面上，所以这套工艺的核心难点除了化学品本身外，还在于有没有特殊的渗透剂，可以帮助拒水剂覆盖在面料表面上，同时在工艺结束后还能完全分离走，这是很难的技术点</p>
+<p><strong>4.面料与膜的复合工艺</strong></p>
+<p>想要把面料和 ePTFE 膜复合好也是门大学问，面料想要粘住 ePTFE 膜那肯定就需要用到胶水，那这部分胶水是会堵住 ePTFE 膜部分空隙的。膜材本身有 70%的透气率再胶水复合后就只剩 40%了，膜做的再好复合不好也是个问题</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ecd605a52895183abd573363e7940b68_720w.jpg?source=8673f162" alt=""><figcaption>堵住防水透湿膜的无效胶水</figcaption></figure>
+<p>而 GORE-TEX 的部分面料则会采用“可特上胶工艺”，可特就是经编网眼布 Tricot 的音译，多用在面料的贴身层。常规工艺是把胶水直接涂在膜上，这样最方便，但有些胶水既没有黏住面料还堵住了孔隙造成了浪费，而可特上胶是把胶水涂在面料上再复合，这样就能将复合后透气性的损失将的更小。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-833869cc6367d9873f4729c963e61f44_720w.jpg?source=8673f162" alt=""><figcaption>胶都在纱线下方，拍的不好凑换看下</figcaption></figure>
+<p>还有 GORE-TEX 的格子飘纱看着是格子，但实际上是两根双纱织造而成的，而且结构比较稀疏可以方便冲锋衣压胶时胶水更好的粘到膜上。而国产的格子飘纱大部分是用阳离子涤纶染个黑色的纱做个样式，导致复合飘纱的国产冲锋衣压胶经常不稳定</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ffc7bc932cfd24ef6dd85bc558a04e69_720w.jpg?source=8673f162" alt=""><figcaption>双股纱组成的，每根纱线间空隙很大方便胶水渗透</figcaption></figure>
+<p>还有一个有趣点，那就是 GORE-TEX 的复合胶会加入荧光增白剂，这样在复合机前加上紫外灯管就能方便工人实时查看透明胶点的工作情况</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-89bb43b6c439847c141f6597786d8da6_720w.jpg?source=8673f162" alt=""></figure>
+<p>而国产的很少会有这样操作，基本上都是老师傅思维，凭经验、凭感觉</p>
+<p>这些工艺点虽然很小很细节，但确实高品质面料的基石</p>
+<p><strong>5.产业的一体性</strong></p>
+<p>GORE-TEX 面料的母公司<strong>W. L. Gore & Associates, Inc</strong>它并不是一家主页生产重复因面料的企业这只占据它一小部分，还在很多精密仪器、医疗、航天、垃圾发电有 ePTFE 材料更广阔的应用场景，只是我们消费者有更多接触 GORE 的机会主要集中在民用纺织品上。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-32af10fb998523debee2e99141069d99_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以<strong>W. L. Gore & Associates, Inc</strong>掌握的是核心原料供应以及拉膜、涂覆、改性的一整套系统工艺</p>
+<p>而国内厂商是没有一家能做到如此全面的系统化全流程生产 ePTFE 面料的，做原料的是做原料的，拉膜的是拉膜的，做改性的是改性的，没有一家完全掌握全流程，而这对工程材料开发是非常致命的。</p>
+<p>好比一个早餐包子铺，包子皮如何发酵、肉馅配比如何调整都无法控制，那你再怎么会蒸包子也没用。</p>
+<p>所以国内的纺织面料商只能在单一的细节环节超越，但想复刻出全面超越 GORE-TEX 以 ePTFE 为主导的面料几乎是不可能的，这就是为什么现在国内面料厂商非常的积极拥抱，以欧洲为主导的无氟环保面料政策化，因为含氟冲锋衣这条路线实在是超越不过了，就像中国的油车产业从生产到技术难以超越欧美日，于是就走了另一条电动车的道路，这样彼此间的研发差距就缩小了可以实现弯道超车。</p>
+<p>GORE-TEX 在面对冲锋衣去氟化这样的环保政策，选择把聚四氟乙烯上的两个氟元素拿掉，也就是做聚乙烯 ePE 防水透湿膜，这样可以在他原本的产线没有剧烈变动的情况下，继续生产冲锋衣面料。这对于国内厂商反而是一个机会，大家起步时间都相差不大，而且有机会超越，所以最后需要加一个定语，如果是针对含氟材料的时代，那我们国内确实几乎很难做出超越 GORE-TEX 的面料，但在无氟冲锋衣的防水透湿膜上，我们国内还是有很多机会的</p>
+<p>道阻且长 与君共勉</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/470428983">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/509861898">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787449</guid><pubDate>Sat, 07 Feb 2026 18:28:26 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787455</guid><pubDate>Sun, 08 Feb 2026 02:05:44 GMT</pubDate></item><item><title>海狗、海豹、海狮、海牛、海象……分别是怎么跟狗、豹、狮、牛、象关联上的？</title><link>http://daily.zhihu.com/story/9787463</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-d102b63019de1680e515012c31781122.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-24701a3dfa6a626e783c64fda2cb91cf_l.jpg?source=8673f162">
+<span class="author">南官竹，</span><span class="bio">医学</span>
+<a href="https://www.zhihu.com/question/1951254471087731332/answer/1952550912003379856" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>你说的这些，除了海牛，都是狗子，最广义的狗，犬亚目，它们与家犬的亲缘关系都是一样远近的。在犬亚目内部与熊科关系最近，其次是鼬科、浣熊科。</p>
+<p>海狗(现存 9 种)是属于海狮(现存 18 种)的，亲缘关系上，海象(现存 1 种)比海豹(现存 21 种)更接近海狮。它们都属于鳍足类，是下海的狗子，虽然大部分(97.5%)被叫成喵星人。唯一名正言顺的是海熊，熊科是最接近鳍足类的科，可惜海熊整个科都被团灭了。再加上已灭绝的基干鳍足类，比如 Enaliarctos，就是鳍足类全家福了。</p>
+<p>至于为什么叫这些名字，我猜是因为找到一些共同特征吧。</p>
+<p>海狗与陆狗：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3cef1e270ff587f3e421de50fe431c4c_720w.jpg?source=8673f162" alt=""><figcaption>海狗陆狗，一目了然</figcaption></figure>
+<p>海狮与陆狮的鬃毛：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-756b5192c547ef0f5e386e22477e598c_720w.jpg?source=8673f162" alt=""></figure>
+<p>以下这些也都是狮子</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a7c821215884482217e356844597df62_720w.jpg?source=8673f162" alt=""></figure>
+<p>海象与陆象的獠牙：</p>
+<p>但弯曲方向相反，海象弯向身体，大象弯离身体。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2ddcb8e5ed0a4fd9bfb88487406c0d85_720w.jpg?source=8673f162" alt=""><figcaption>海象与非洲草原象</figcaption></figure>
+<p>大象的獠牙是门齿 / 切牙，是 2 号(齿式 2011)，这很特殊。哺乳动物的獠牙大多是尖牙 / 犬齿 / 虎牙，是 3 号(2 个门齿 / 切牙)或 4 号(3 个门齿 / 切牙)，连独角鲸看似长在正中的独角也是犬齿。海象的是 3 号(齿式情况复杂多样)，人也是 3 号（人、猿、猴都是 2123），猫是 4 号(3131)，狗是 4 号(3142,牙多所以狗子嘴筒子长)。</p>
+<p>（这方面知识有点复杂，还有点深刻，有历史的恢弘感和机遇的巧妙感，但是应该没人感兴趣）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0ef2642e5186771b3c47f2e59fefbd6_720w.jpg?source=8673f162" alt=""><figcaption>丰腴的美人鱼 ‍♀️</figcaption></figure>
+<p>海象确实像动画片里那样长时间地抱着幼崽，所以毫不意外地被眼神清澈的水手认作美人鱼了。</p>
+<p>海豹与豹，嘴筒子、斑点有点像：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-16bcd8f953eeafa5ffc84adcacb86869_720w.jpg?source=8673f162" alt=""><figcaption>斑海豹与非洲花豹</figcaption></figure>
+<p>豹豹幼崽：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d7f2a254e3cb773adf4fce3de63c0e01_720w.jpg?source=8673f162" alt=""><figcaption>斑海豹与非洲花豹</figcaption></figure>
+<p>象海豹不是海象，而是海豹，叫象海豹是因为长鼻子。成年雄性南象海豹体重也和亚洲象差不多，都是 4 吨左右。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3bb1c0eb2e033b5f442ffce043f2e9c1_720w.jpg?source=8673f162" alt=""><figcaption>雄性北象海豹和亚洲象</figcaption></figure>
+<p>幼年的象海豹是没有大鼻子的：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ae6fdb22bafa506138d1a4578e5cb904_720w.jpg?source=8673f162" alt=""><figcaption>幼年南象海豹与饲养员</figcaption></figure>
+<p>雄性北象海豹鼻子比雄性南象海豹更长，南象海豹的大鼻子呈球囊状。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-87f3d193ea777530773bf04c0bc9f7a1_720w.jpg?source=8673f162" alt=""><figcaption>成年雄性南象海豹的鼻子呈球囊状</figcaption></figure>
+<p>象海豹虽然脾气好，但也不要招惹它，它蛄蛹的速度并不慢。</p>
+<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1952721360473293692" target="_blank"> <img class="content-image" src="https://picx.zhimg.com/v2-868338dc00227553d81eed8f093cba9a_1440w.jpg?source=ccfced1a" alt=""> <span class="content"> <span class="title">落荒而逃<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1952721360473293692</span> </span> </a></p>
+<p>如果你觉得这个速度很慢，你可以想象一张 6 米长的水床向你翻腾而来。</p>
+<p>豹海豹长得并不像豹子，反而泳姿、捕食方式、头部形状都有点像上龙，有一定程度的趋同演化。豹海豹是最凶猛的海豹，可能因此得名。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-afbd33518d61146d2c055feaa585313c_720w.jpg?source=8673f162" alt=""><figcaption>豹海豹与上龙</figcaption></figure>
+<p>豹海豹经常投喂人类，但不意味它不危险</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca698e58348a228f85129112f97ad6b2_720w.jpg?source=8673f162" alt=""><figcaption>一头雌性豹海豹执着于投喂人类帽带企鹅</figcaption></figure>
+<p>当然，精神上龙还是没法碰瓷肉山大表哥的。</p>
+<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1952755999594219295" target="_blank"> <img class="content-image" src="https://picx.zhimg.com/v2-c87f8157bba9e74a34abec4914073700_1440w.png?source=ccfced1a" alt=""> <span class="content"> <span class="title">以豹制豹，南极暴君英名尽失<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1952755999594219295</span> </span> </a></p>
+<p>海牛是你提到的唯一不是鳍足类的。海象和象海豹都和大象攀不上亲戚，但是海牛、儒艮是大象的亲戚。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-59dc0ec5b26240b7de11ac2a150a596f_720w.jpg?source=8673f162" alt=""><figcaption>儒艮与海牛</figcaption></figure>
+<p>仔细观察，它们与大象确有些相似之处：海牛与大象的牙齿都像传送带一样后向前水平替换，都是具有象臼嵴的高冠齿，都有巨大化的物种，都有骨硬化征，都有同样的特殊的趾骨结构，都具有较高的智力，都有相同的乳房保留位置，皮肤与皮肤神经末梢的结构相似。海牛与儒艮的鼻子也比较灵活，历史上也有鼻子加长版的海牛。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e6545b377214742d7db994d3ac5151e5_720w.jpg?source=8673f162" alt=""><figcaption>相似的指部结构可略见端倪</figcaption></figure>
+<p>被叫牛是因为吃草吧</p>
+<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1952632139850940677" target="_blank"> <img class="content-image" src="https://pica.zhimg.com/v2-64f98db9c5b2c5377b1ab6da3e7ea700_1440w.png?source=ccfced1a" alt=""> <span class="content"> <span class="title">岸边吃草<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1952632139850940677</span> </span> </a></p>
+<p>其实儒艮埋头吃草的姿势更像牛，但是儒艮的嘴长得不像牛。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4454e0870d0b5ccefeaa12eff72b0806_720w.jpg?source=8673f162" alt=""><figcaption>儒艮吃海草</figcaption></figure>
+<p>海牛的乳房长在胸部，所以毫不意外地被眼神清澈的水手认作美人鱼了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d89dc5e2594c7f9b35f3238902b74a1f_720w.jpg?source=8673f162" alt=""><figcaption>喂奶</figcaption></figure>
+<p>作为海牛的亲戚，大象也是这样。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8491bbb55b78d2727f2de498f6043d23_720w.jpg?source=8673f162" alt=""><figcaption>非洲草原象</figcaption></figure>
+<p>但是人类也在这个位置纯属巧合，并不是亲缘关系，毕竟和人类比较近的是杰瑞。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-831e321c89932147a0aaac86764e804a_720w.jpg?source=8673f162" alt=""><figcaption>《猫和老鼠》也不全是纪录片</figcaption></figure>
+<p>哺乳动物在胚胎发育初期会出现两条乳腺嵴，从腋下延伸到腹股沟。在这两条乳腺嵴上，理论上可以出现八对(16 个)甚至更多乳房。这些潜在位点中的大多数都会在后续发育中凋亡退化，只保留特定数量和位置的乳房。有些人保留了过多的乳房，少数严重者甚至长成双排扣，根据临床特征分为多乳头症、多乳腺症、多乳房症。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b654ee2b5cb1b08a340ea9154ab6aa70_720w.jpg?source=8673f162" alt=""></figure>
+<p>保留相同的乳房位点，大多数情况下意味着亲缘关系近，比如食肉目的汪星人喵星人都长在胸腹部，奇蹄目全长在腹股沟；也有些不同目之间的是因为胎数少、天敌少的趋同演化，如灵长目与(长鼻目加海牛目)与鳞甲目都仅在胸位保留 1 对。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7b10d3ff5eb46fcda0eb47cccbe5b279_720w.jpg?source=8673f162" alt=""><figcaption>鳞甲目的穿山甲，每胎 1-2 只幼崽，与人的亲缘关系比老鼠远</figcaption></figure>
+<hr>
+<p>小结一下</p>
+<p>第一问：如何关联上的？</p>
+<ol>
+<li>海狗狗里狗气</li>
+<li>海狮狮鬃霸气</li>
+<li>海象象牙像象</li>
+<li>海豹豹头豹纹</li>
+<li>海牛埋头吃草</li>
+</ol>
+<p>第二问：各自的亲缘关系？</p>
+<p>专供不求甚解的好奇宝宝的<strong>粗陋</strong>概括：</p>
+<p>海狗是海狮</p>
+<p>海狮、海豹、海象、海熊都是下海的熊</p>
+<p>毛海豹是海狗，不是海豹</p>
+<p>象海豹是海豹，不是海象</p>
+<p>海牛是下海的象，天牛是甲虫，地牛是板车</p>
+<p>蜗牛是上岸的螺，也叫驼包蜒蚰</p>
+<p>蜒蚰=蛞蝓，蚰蜒是长了大长腿的蜈蚣</p>
+<p>牵牛是茄目番薯科开喇叭花(属于管筒状花)的缠绕性藤本植物</p>
+<p>水牛是爱水(散热能力差)的牛</p>
+<p>水豚是鼠，河豚是鲸，河鲀是鱼</p>
+<p>江豚是(鼠)海豚，海豚是鲸，鲸是下海的河马</p>
+<p>河马是下河的猪，水马是路障，角马是牛</p>
+<p>犀牛是马(胖如河马的马)，巨犀是巨马(瘦如长颈鹿但巨如腕龙的马)</p>
+<p>海马是海龙，海龙是海鱼</p>
+<p>马陆是千足虫，是吃素的蜈蚣，蜈蚣是百足虫</p>
+<p>马鹿是帅如骏马的大鹿，或是指鹿为马的蠢人</p>
+<p>海鹿、海兔、海羊都是海蛞蝓</p>
+<p>海兔是把鳃藏起来的海蛞蝓，是扔掉壳的海螺</p>
+<p>海羊是把鳃背身上的海蛞蝓，是扔掉壳的笠螺</p>
+<p>蛞蝓是鼻涕虫的大名，蛞蝓是扔掉外壳的蜗牛</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-be24780e7c45c0cd04c2e8dc18abd032_720w.jpg?source=8673f162" alt=""><figcaption>海兔、海羊、海鹿</figcaption></figure>
+<p>海参不是海蛞蝓，海参也叫海黄瓜</p>
+<p>海参、海星、海胆、海猪是一家，豪猪是鼠</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d11ca1f7d912923c057d11db55076cec_720w.jpg?source=8673f162" alt=""><figcaption>海参、海星、海胆、海猪</figcaption></figure>
+<p>海地瓜不是海里的地瓜，也不是海地的瓜</p>
+<p>海地瓜是廉价的胖海参</p>
+<p>海蜇是水母，水母、水螅、珊瑚、海葵是一家</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9a3e9d022a45169ecc98d9cbb1e35628_720w.jpg?source=8673f162" alt=""><figcaption>水母、水螅、珊瑚、海葵</figcaption></figure>
+<p>海狐狸是鬼头刀鱼，大名是鲯鳅</p>
+<p>魔鬼刀鱼是线翎电鳗，电鳗不是鳗，是会放电的鲇鱼</p>
+<p>狐狸鱼是鲈鱼</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a49b91b5ec23a4d694b804002f5a2957_720w.jpg?source=8673f162" alt=""><figcaption>狐狸鱼、海狐狸 / 鲯鳅 / 鬼头刀、魔鬼刀 / 线翎电鳗</figcaption></figure>
+<p>狐狸也是个令人迷惑的名称，现代汉语中的狐狸=狐，是根正苗红的汪星人，但狸是汪喵合体：犬科的貉、猫亚目的灵猫科的果子狸、猫科的豹猫都被古人称为狸。</p>
+<p>貉也叫浣熊狗，浣熊是犬亚目浣熊科。很多人分不清浣熊和小熊猫，小熊猫是犬亚目小熊猫科，而大熊猫是犬亚目熊科。</p>
+<p>小熊猫不是熊也不是猫，大熊猫是熊不是猫，大熊猫和小熊猫共同点是都会吃竹子，都是最广义的狗。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a6b404327ec042502a0df8eac313b273_720w.jpg?source=8673f162" alt=""><figcaption>豹猫、果子狸、貉、浣熊、小熊猫、大熊猫</figcaption></figure>
+<p>1、2 ∈ 猫亚目，3、4、5、6、7 ∈ 犬亚目</p>
+<p>1、2、3 ∈ 狸</p>
+<p>海狸是北美河狸，大名加拿大河狸，河狸是鼠</p>
+<p>海狸不是海獭，海獭、江獭、水獭都是鼬，鼬属于最广义的狗</p>
+<p>鼬和鼠在哺乳动物内部相距甚远，</p>
+<p>鼬科⊆犬亚目⊆食肉目⊆劳亚兽总目⊆哺乳动物；</p>
+<p>鼠类=啮齿目⊆灵长总目(人、鼠、兔都在这里)⊆哺乳动物。</p>
+<p>可能很多鼬科成员贼眉鼠眼的就加了鼠字旁。</p>
+<p><strong>基于解剖学</strong>(低冠齿、特化的尖锐裂齿、磨牙 / 臼齿改型、头骨形态、骨缝连结走形、四肢骨、趾间蹼)<strong>、形态学</strong>(流线型修长的身形)<strong>、行为学</strong>(捕鱼方式、社交方式)<strong>、古生物学</strong>(已灭绝的早期鳍足类动物 Puijila 十分像现存的水獭)<strong>、分子生物学</strong>(因为鳍足类也确实和鼬科的亲缘关系很近,所以有很多比较相似的基因突变序列、STR 和 SNP)<strong>的证据，曾经认为鳍足类是演化自类似海獭的鼬科动物。但是后来的分子生物学证据显示，这些大多是相似到令人震惊的趋同演化的结果，鳍足类其实演化自熊科。</strong></p>
+<p>旱獭是土拨鼠，土拨鼠是松鼠，松鼠是鼠</p>
+<p>黄鼠狼不是鼠，也不是狼，是鼬，大名黄鼬</p>
+<p>海狼是魣鱼，魣不读 máo，读 yú</p>
+<p>金刚狼(来自同名电影)不是狼，而是狼獾=貂熊，属于最广义的貂，但不是熊，属于鼬</p>
+<p>狗獾、狼獾、猪獾、羊獾、鼬獾、沙獾、蜜獾(平头哥)都属于鼬</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-15db66288ece2bcb7f71d06863e0813e_720w.jpg?source=8673f162" alt=""><figcaption>自上而下：狗獾、狼獾、猪獾、鼬獾、蜜獾</figcaption></figure>
+<p>鬣狗不是狗，属于最广义的猫</p>
+<p>渔貂、雪貂、石貂、松貂、紫貂、黄喉貂=青鼬=蜜狗也都属于鼬</p>
+<p>所以鲁迅笔下的猹是什么，永远也搞不清楚了</p>
+<p>海貂=海獭，属于鼬，海貂鼠是鼠不是貂</p>
+<p>海猫=海岛猫鼬=太阳猫=灰沼狸=狐獴=獴戈=獴猴=狐猴獴=细尾獴 ∋ 丁满，是獴，属于最广义的猫。海岛猫鼬不是鼬，来自沙漠与草原，不来自海岛，狐獴不是狐，獴猴不是猴。灰沼狸是不是狸就无从得知了，上面讲过“狸”很复杂，狗、猫、鼠俱全了，但灰沼狸不是灰的，而是棕黄色。</p>
+<p>下雨了，丁满来彭彭家躲雨。彭彭问“外面是谁呀？”丁满说：“海猫、海岛猫鼬、太阳猫、灰沼狸、狐獴、獴戈、獴猴、狐猴獴、细尾獴就是我。”彭彭说“回去吧，我家站不下这么多人。”</p>
+<p>众所周知，世间错杂混乱共一石，英国制造独占八斗，此事也不例外。Mona 长尾猴的有些亚种生活在海岛和沿海的森林中，脸略似猫，故被荷兰人命名为 meerkat，意为海猫。传入德国后转写为 Meerkatz，并在学术交流中逐渐演变为 29 种长尾猴的总称，其中大部分既不像猫，也不生活在海边。300 多年前的英国探险家无法预见 meerkat 在未来变成长尾猴的总称而为人熟知，也不知道 meer 是海，kat 是猫，看到细尾獴和荷兰文献描述的 meerkat 有诸多相似之处，如脸形似猫、行为像猴(荷兰作者当时不知道长尾猴就是猴,属于猕猴)、白额而棕黄身(荷兰文献记载身上一半棕一半黄,意指背部棕色而胸腹部黄色,英国人误解为又棕又黄的棕黄色)等，就将细尾獴对应为 meerkat。日本翻译者从英语文献中了解到细尾獴，并追溯 meerkat 的荷兰语词根意译为“海猫”，中国学者引入了日语“海猫”。日本学者发现英语文献的错误后，将“海猫”改为 meerkat 的音译“ミーアキャット”，终结了“海猫”一词带来的误导。由于德语 Meerkatz 和荷兰语 meerkat 已经是长尾猴的总称了，故没有受到英语的误导。德语用原创词 Erdmännchen(打地洞的似小矮人的兽)表示细尾獴，荷兰语使用南非荷兰语(Afrikaans)的原创词 stokstaartje(有细棍状尾的兽)。法语 suricate、西班牙语 suricato、希腊语σουρικάτα、俄语сурикат、格鲁吉亚语სურიკატა、阿拉伯语 都转写自拉丁学名 suricata，意为细棍尾兽(不是被忍界争夺的那种哈)，拉丁词不规则地转码自南非荷兰语。而日语ミーアキャット、韩语미어캣 、藏语 མི་ཀེ་ཊ、波斯语 、印地语 मीरकैट 、泰语 เมียร์แคท 、缅甸语 မီးကတ်ကောင် 都音译自英语 meerkat，追溯词源就会挖出这段尴尬的历史。</p>
+<p>至于被荷兰人叫成“海猫”的 mona 长尾猴，其学名是狼长尾猴 Cercopithecus wolfi，英语 wolf's mona，简称狼猴，到底是像猫还是像狼，各位见仁见智了，我瞅着都不咋像，只有一丁点儿像吧。</p>
+<p>金刚狼的英语指名道姓就是狼獾，但是有人觉得造型参考了狼猴。至于被英国人叫成“海猫”的细尾獴，虽然不住在海边，但误打误撞蒙对了“猫”，确实是猫亚目的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f0e9f796e8c6b62246ab7dd6417071b_720w.jpg?source=8673f162" alt=""><figcaption>金刚狼、狼猴、细尾獴</figcaption></figure>
+<p>荷兰人描述的狼猴，英国人觉得在讲细尾獴，最终害得汉语里给细尾獴起了 9 个名不副实的名字，各位觉得这两者像吗？也不必苛责 300 年前的英国人，细尾獴确实是食肉目现存约 300 种里最像猴的。</p>
+<hr>
+<p>头晕是正常的，尤其当 是什么、像什么、叫什么，三者割裂的时候。对比之下，“土拨鼠是松鼠，松鼠是鼠”、“银杏属于银杏属，银杏属属于银杏科，银杏科属于银杏目，银杏目属于银杏纲”就显得美好感人了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1951254471087731332">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787463</guid><pubDate>Sun, 08 Feb 2026 02:05:45 GMT</pubDate></item><item><title>数学是人类发明的，还是宇宙本身的语言？</title><link>http://daily.zhihu.com/story/9787473</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-4ca56523e2e2f30d971e608c5ea1f3f9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-a0608be21146fae8f669009467998dfa_l.jpg?source=8673f162">
+<span class="author">干货逻辑，</span><span class="bio">因真理，得自由，以服务</span>
+<a href="https://www.zhihu.com/question/14804346742/answer/1970293803148644585" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>我就举一个例子，欧拉公式，被数学界广泛公认的世界上最优美最伟大的公式，同时被称为“上帝公式”。</p>
+<p>数学家卡尔·弗里德里希·高斯曾说过这样的话：一个人能否感受到欧拉公式的魅力，决定了他是否有成为数学家的潜质。</p>
+<p>而本文，就是要让诸位读者具备数学家的潜质，下面会保姆式手把手的给大家推导出这个公式。</p>
+<p>这个公式其实很简洁：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bi%5Cpi%7D%2B1%3D0" alt=""></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D%3Dcosx%2Bi+sinx" alt=""></p>
+<p>这看似简洁的公式，却是公认的人类现代科技文明大爆炸的起点。</p>
+<p>因为没有这个公式的发明（或叫发现），就没有复分析，没有傅里叶变换，没有线性微分方程，那么电磁学就无法发展，雷达、反导技术、4G、5G 信号科技就不会存在，量子力学也会受到根本性阻碍，广义相对论的张量分析和量子场论中的路径积分也无法存在；拉普拉斯变换也不会存在，于是自动化系统设计困难，机器人、航空航天技术发展受限等等。</p>
+<p>总之，没有欧拉公式，就没有大部分的现代科技突破，人类对自然规律的理解更肤浅。</p>
+<p><strong>为什么欧拉公式被称之为“上帝公式”？</strong></p>
+<p>因为它以极致的简洁性，将数学中五个最核心的常数和三个基本运算完美统一，展现出一种近乎神性的和谐。 欧拉公式里面，一次性汇聚了数学史上最重要的五个常数，这五个常数分别来自算术、代数、几何、分析和复数理论，本属于完全不同的数学分支，却被欧拉公式用一个等式紧密联结，仿佛揭示了宇宙的某种终极设计。</p>
+<p>公式中隐含了数学的三种核心运算，它表明加法、乘法和指数运算在复数域中存在深层次的联系，这种统一性在数学中极为罕见。</p>
+<p>欧拉公式的推广形式</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D%3Dcosx%2Bi+sinx" alt=""></p>
+<p>，是描述旋转、波动和周期性的终极工具，而这三者正是自然界的基本现象，它暗示数学不仅是人类发明，更是宇宙的固有语言。</p>
+<p>数学家克莱因（Felix Klein）曾说：“这是数学中最神秘的公式，仿佛上帝在一瞬间将真理写给了欧拉。”</p>
+<p>物理学家费曼称其为“数学中最卓越的宝石”。</p>
+<p>欧拉公式之所以被称为“上帝公式”，是因为它像一把钥匙，打开了数学与自然之间的神秘之门。它的美不在于复杂性，而在于用最简单的符号揭示了最深刻的真理——仿佛宇宙的设计者悄悄留下的签名。正如数学家保罗·纳欣（Paul Nahin）所说：“如果你想用一句话向外星文明证明人类的智慧，就发送欧拉恒等式。”</p>
+<p>如果你是理科专业，你就知道欧拉公式有多重要，并且这也是很多理科生的瓶颈，如果无法理解这个公式，那么基本上你的理科探寻之路到此为止了。</p>
+<p><strong>而本篇文章，何老师我并不仅仅是让你知道这个公式，而是要让你彻底的理解与精通，让它成为你智慧的一部分，能够像数学家一样以高维视角看待事物。</strong></p>
+<p>首先第一个问题，什么是虚数 i？</p>
+<p>虚数 i 的定义很简单，就是它的平方就是 -1：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i%5E2%3D-1" alt=""></p>
+<p>因为实数里面没有这样的数能让这个式子成立，于是人类凭空定义了一个数，称之为虚数 i，你也可以理解成根号下 -1</p>
+<p>为什么人类要定义这样的一个数？</p>
+<p>在带大家探讨虚数 i 之前，我先带大家简单的思考下，数学的本质是什么？</p>
+<p>数学的其中一个本质，是人类为了描述客观世界规律而发明的一种语言（尽管后面人类愈发觉得并不是发明了数学，而是发现了数学）。</p>
+<p>就像 1，2，3，4，5，6 这样的自然数，最初是为了描述事物某方面属性而存在的。</p>
+<p>例如我们描述一个容器的容量是 2 升，意味着它可以装两个 1 升的水。</p>
+<p>你瞧，我们给事物贴上标量，1 个是 2 升，1 个是 1 升，仅仅贴上这两个数并不是目的，而是手段，通过这样我们知道，前者能装下两个后者，这才是目的。</p>
+<p>同样的，我们用数字来定义温度这样的标量，在标准大气压下，把水的冰点定义为 0℃，把沸点定义为 100℃，两者之间分为 100 等份。然后用水银这种具备<strong>均匀的热胀冷缩特性</strong>的物质，用它在不同温度下的膨胀度来对应不同的温度，我们就能知道不同地方不同时间的温度——温度这样的标量不是目的，而是手段，通过这样的手段，我们能预期到自己去到那地方或那时间会是怎样的感受。</p>
+<p>你可以看成数字是我们为了描述事物属性而建立的独立参照系，而这样的参照系虽然独立，但如果完全脱离现实事物，那它是没有意义的。</p>
+<p>想象一下，假如我们发现了远离太阳系的外星文明，并且彼此建立了沟通渠道。</p>
+<p>外星人问我们人类的身形大小是多少。</p>
+<p>如果我们回答我们地球人平均身高是 175cm，外星人是无法理解这个数字的。</p>
+<p>首先我们需要跟外星人表达我们的数学用的是十进制（其实应该说是九进制），我们对外星人那边发 9 次信号，告诉对方 9 次以后就开始进入下一个循环。</p>
+<p>于是外星人就能理解我们的运算体系最底层的逻辑。</p>
+<p>然后我们跟外星人说，你们能观测到太阳吗？并用你们的数学体系定义太阳大小吗？</p>
+<p>外星人回答说能。</p>
+<p>然后我们就可以说，我们地球人把太阳的直径大小定义为 1,392,700 km，而我们地球人的平均身高是 0.00175km。</p>
+<p>外星人：嗦嘎！那我们知道你们人类的大小了。并且我们也知道你们的单位长度 1km 是多长了。</p>
+<p>接下来外星人又问：那你们地球的温度是多少呢？</p>
+<p>当然你不能直接回答 28 摄氏度，而是要说“我们地球人把水的冰点定义为 0℃，把沸点定义为 100℃，两者之间分为 100 等份，而地球的平均温度就 28℃。”</p>
+<p>这样，外星人才能理解我们地球的状态。</p>
+<p>我想通过这例子，是为了让大家明白，数字存在的意义，就是为了建立一个参照系，从而能够描述不同事物的属性。你瞧，如果单单只给一个事物贴上标量，是没有意义的，你只说某样东西的温度是 10 摄氏度是没意义的，你只有给出了水的冰点是 0 摄氏度、沸点是 100 摄氏度这样的参考，你才能理解 10 摄氏度是怎样的状态。</p>
+<p>在讲虚数前我之所以做以上铺垫，只是像让大家深刻的明白一个道理——是数学为人类与现实客观规律服务，而不是人类与现实客观规律为数学服务。当人类发现了一个新的现象，而原来的数学体系里面没有对应的语言去描述新的现象或规律的时候，这时候人类就会发明新的数学规则，并且这个新规则是能够跟已有的体系自洽的。</p>
+<p>再讲一个冷知识，其实人类对负数（例如 -1）的接受，其实比微积分的发明还要晚。</p>
+<p>大家现在对负数习以为常了，但你能想象当初的人们对负数这个概念的难以理解程度，不亚于现在的你对虚数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7B-1%7D" alt=""></p>
+<p>的难以理解程度吗？</p>
+<p>那时候的人们都觉得，0 已经是最小的数了，就是代表没有了，有什么比 0 更小的吗？比没有更没有？</p>
+<p>负数的存在，是人类对数学本质的进一步理解与拓展。</p>
+<p>你瞧，上文说到，数字的意义就是为了建立一个参照系，来描述不同事物的某种属性。它的本质就是要通过参照来定义事物的标量，数字是为这个功能服务的，是数字成全了参照系，而不是参照系成全数字。</p>
+<p>例如我们定义了水的冰点温度是 0，那如果出现比水的冰点更低的温度呢？我们又该如何定义比 0 更低的温度？</p>
+<p>当然，你也可以修改水的冰点温度标量，你可以把水的冰点温度定义为 10、或者 20、100 都可以。但还是会出现，比 10 度低 11 度的温度，那该怎么定义？又要修改吗？</p>
+<p>何不把格局放高点，本来我们发明 1、2、3、4 这样的数字，就是为了参照而存在，那我们也可以定义新的数字，用来表示比 0 更低的标量啊！</p>
+<p>于是负数发明了。负数的出现，进一步深化了数字为参照而服务。</p>
+<p>并且接受了负数之后，后面人类才能发明坐标轴、向量这样的数学工具。</p>
+<p>我们研究运动状态的时候，把初始位置设为原点，也就是 0 点，如果把正东方视为正数方向，那么正西方就是负数方向，以此来记录物体的运动轨迹。当然你也可以不纳入负数的概念，把向东与向西分开两个独立的运算系统，只不过这样会很低效。</p>
+<p>然后到了虚数的提出，数学的语言库又再一次拓展。</p>
+<p><strong>虚数最初是怎么诞生的？</strong></p>
+<p>在 16 世纪，数学家们研究三次方程时，发现即使方程有实数解，计算过程中也会出现负数的平方根，这让他们非常困惑。</p>
+<p>意大利数学家卡尔达诺在《大术》（<em>Ars Magna</em>）中给出了三次方程的解法（卡尔达诺公式）（这里我们就不展开探讨了）</p>
+<p>他发现，对于某些方程如</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E3%3D15x%2B4" alt=""></p>
+<p>，解应该是实数（其中是 x=4)，但在用卡尔达诺公式的计算过程中却出现</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7B-121%7D" alt=""></p>
+<p>这样的无意义的数，虽然最终结果里我们看不到这个数。</p>
+<p>于是当时数学家们把这样的数称之为“虚数”，意思是虚构出来的不存在的数。</p>
+<p>用他们的话说，这些虚数如同幽灵一样鬼魅的出现，让计算得以推进，最后为了避免尴尬，又识趣的离开。（就像游戏辐射 4 里的神秘客那样。）</p>
+<p>（同时这也说明，数学乘法的背后，还有着人类未曾探索的空间，数学运算以一种人类并未完全知晓的方式运行，人类现在只看到了其中一面，这也是为什么从那以后人们开始觉得人类不是发明了数学，而是发现数学）</p>
+<p>直到一些不识趣的数学家，硬要较真，提出类似</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E2%2B1%3D0" alt=""></p>
+<p>这样的式子求解，硬要把虚数这个害羞的只想默默无闻的数推出大庭广众之下。</p>
+<p>我们知道</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E2%2B1%3D0" alt=""></p>
+<p>是没有实数解的，因为这推出</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E2%3D-1" alt=""></p>
+<p>，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%3D%5Csqrt%7B-1%7D" alt=""></p>
+<p>原本的数学体系里不存在能平方后等于负数的数。</p>
+<p><strong>但我们何不换个角度想，</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E2%2B1%3D0" alt=""></p>
+<p><strong>这样的式子本来也是虚构且无意义的啊！在当时这个式子能找到对应的现实意义不？既然是虚构且无意义的问题，那我给个同样是虚构且无意义的答案，很公平合理啊！</strong></p>
+<p><strong>但是！如果现实中确实有对应</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E2%2B1%3D0" alt=""></p>
+<p><strong>这样的式子的现实问题，那你就不能说它是无意义的了！那么它的解， </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%3D%5Csqrt%7B-1%7D" alt=""></p>
+<p><strong>，也同样具备了现实意义。那么这时候，数学的语言库不得不拓展，设立一个数对应这个解。</strong></p>
+<p><strong>还记得前面强调的吗？</strong><strong>是数学为人类与现实客观规律服务，而不是人类与现实客观规律为数学服务</strong>。</p>
+<p>就如同以前定义了负数一样，只需前面加个负号，人类可以同样定义这样的虚数，只需要加个 i，i 就是虚数单位。</p>
+<p>我们回想下，为什么说负数无法开平方根？</p>
+<p>那是因为平方根的结果，是两个相同的数相乘得出原来的数的那两个相同的数。</p>
+<p>而我们找不到两个相同的数相乘会得出负数的。</p>
+<p>为什么？</p>
+<p>因为负负得正，两个负数相乘只能得出正数，同样的，两个正数相乘还是等于正数。</p>
+<p>为什么两个负数相乘只能得出正数？</p>
+<p>因为不这样的话，原来的加减乘除运算就会出现矛盾。</p>
+<p>还记得小学知识不，一个数，不管是正数还是负数，只要乘上另一个负数，那么正负号就会发生改变。</p>
+<p>例如 4 乘以 -1，得 -4</p>
+<p>如果不这样设定，就会产生怎样得矛盾呢？</p>
+<p>举个例子，5=6-1，按既有的数学法则，也可以写成 5=6+（-1）</p>
+<p>4✖5=20，那么就可以写成 4✖[6+(-1)]=20</p>
+<p>按照既定的乘法分配律，上式就可以写成 4✖6+4✖（-1）=20</p>
+<p>这时候，你只能让 4✖（-1）=-4 ，才能让上式成立，否则原有的数学体系就存在矛盾了。</p>
+<p>你瞧，之所以任何数乘以负数后，原来的正负号就要发生变化，是为了成全原来的数学体系不让其产生矛盾，而推出的一个设定。</p>
+<p>那么，我们完全可以增加一个设定，只要这个设定不跟原来数学体系矛盾就行了。</p>
+<p>数学家们发现，一个数乘以 -1 后，就相当于在数轴上转了 180°，如下图：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5b3a31f751a9d02aed6de07c09600f4c_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果想让</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7B-1%7D" alt=""></p>
+<p>有意义，那么</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=4%5Ctimes%28-1%29%3D4%5Ctimes%5Csqrt%7B-1%7D%5Ctimes%5Csqrt%7B-1%7D%3D-4" alt=""></p>
+<p>乘两次根号下 1，就得出 -4，那么只乘一次根号下 -1 呢？</p>
+<p>是不是就可以看成，旋转了 90°？</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-65899cd9e5c63a53d99776846e7402e3_720w.jpg?source=8673f162" alt=""></figure>
+<p>可问题来了，这原本就是个一维数轴啊！这硬生生的变成了二维。</p>
+<p>是的，我们在一维数轴上，添加了一条新的数轴，这个数轴称之为虚数轴。</p>
+<p>这个虚数轴，跟实数轴共享一个原点，也就是 0 点是重合的。</p>
+<p>我们设一个 i，表示这个虚数轴的单位，并且这个 i 的模长，跟实数轴上 1 的模长是一样的（什么是模长，现阶段你就简单的理解成长度就行了。）</p>
+<p>那么上图就是：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9268d112297e65f5df248196805f832a_720w.jpg?source=8673f162" alt=""></figure>
+<p>你瞧，因为我们在实数域里找不到一个数对应 4✖</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7B-1%7D" alt=""></p>
+<p>的结果，于是我们虚构了一个数，并为这个数虚构了一个数轴。</p>
+<p>我们设</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7B-1%7D%3Di" alt=""></p>
+<p>, 那么</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=4%5Ctimes%5Csqrt%7B-1%7D%3D4%5Ctimes+i%3D4i" alt=""></p>
+<p>于是，我们把某个实数乘以虚数 i 后，定义为把数轴上 0 到某个实数的线段，逆时针转了 90°后的状态。</p>
+<p>例如，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%EF%BC%88-4%EF%BC%89%5Ctimes+i%3D-4i" alt=""></p>
+<p>，如图：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fa61b215a2ba246d58e2634638df1f16_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个虚数轴与实数轴形成的平面，我们称之为复平面。</p>
+<p>（我们默认这个虚数轴在这虚构的空间与实数轴垂直，但其实很多人不知道，这并不是一个强条件，我们可以设这个虚数轴从 0 点出发，与实数轴 0 点两边都同时呈 30°角，也就是同时与正数轴、负数轴呈 30°夹角，这在我们现实三维空间看似不可能，但别忘了毕竟这是我们虚构的亚空间，我们可以随意制定规则，实数乘以 i 后就是在复平面上旋转了 30°，再乘一次 i 就是又旋转了 30°，因为我们设定了这个虚数轴是同时与正数轴、负数轴呈 30°夹角，于是又回到了实数轴上，这与我们原来的数学体系依然是自洽的，并且你若要仔细深究的话，会发现这个系统依然可以运作，依然可以与后面要讲的欧拉公式自洽。</p>
+<p>关键是，必须有一个数轴，用来容纳虚数，因为这些虚数，实数轴上不收留它们，至于这个数轴怎么设定，只要能够自洽就行。之所以设定为与实数轴呈 90°，是因为这样更直观，运算更方便。）</p>
+<p>记住，数学是人类创造的语言，你可以大胆的进行创造。</p>
+<p>例如，你可以说我觉得实数乘以虚数就在复平面上转 90°，这个设定不好，我觉得设定成实数加虚数 i 就是在复平面上转 90°，再加一次 i 就是再转 90°，回到了实数轴上，我觉得这个设定也挺好。</p>
+<p>完全没问题。</p>
+<p>又或者，你可以设定一个数，规则就是，任何实数乘以它后就回回到数轴原点，再乘一次就是去到数轴另一边与原来的数对称。</p>
+<p>也可以啊。</p>
+<p>又或者创造一个新的数学符号，新的运算来表示复平面。</p>
+<p>这些都没毛病。</p>
+<p>数学是自由的，我鼓励大家大胆的去创造新的数学语言，新的运算法则。</p>
+<p>但上面这些都无法与原来的数学体系自洽，也会带来诸多矛盾，于是你只能在一个你创造的独立的运算系统里面反馈出结果后，再用这个结果值融入到公共数学体系中。这就类似计算机中用了两套互不兼容的程序或系统，可以是可以，但效率很低，也无法进行更有深度的运算。</p>
+<p>而把</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7B-1%7D" alt=""></p>
+<p>的结果设定成虚数 i，乘一次 i 就是原本在实数轴上的数作圆周运动移动了 90°，去到虚数轴上，再乘一次就是又旋转了 90°，去到了实数轴的另一边，与原数值形成原点对称。这个规则本身就跟原数学体系是自洽的。</p>
+<p>于是我们就有以下几种虚数运算规则：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i%5E2%3D-1" alt=""></p>
+<p>i 乘以一个实数，例如</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=a%5Ctimes+i%3Dai" alt=""></p>
+<p>, 它表示的是沿着与虚数轴平行的方向行进了 a，因为 i 的模长是 1，那么 ai 也可以称为是模长为 a 的虚数。</p>
+<p>i 乘以 0 等于 0。</p>
+<p>在此基础上，我们提出了复数这一概念（不是负数，我一直都吐槽为什么中文区要把负数跟复数用同一发音啊，这太容易混淆了，我真是吐了。）</p>
+<p>复数就是一个实数加一个虚数的组合，它的通用表达式是：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=a%2Bbi" alt=""></p>
+<p>其中 a 是实部，bi 是虚部。</p>
+<p>它表示的是复平面上的坐标，怎么理解呢？</p>
+<p>我们先回到一维数轴上，在一维数轴里面，我们怎么理解 3+2 这样的概念呢？</p>
+<p>就是数轴从原点先往右移动 3，再移动 2，最后到 5 这个点上：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2bf3da8588f43bade531b2309f050191_720w.jpg?source=8673f162" alt=""></figure>
+<p>那么如果是复数 3+2i 该怎么表示呢？</p>
+<p>就相当于在数轴上从原点先往右移动 3，然后把方向旋转 90°，沿着与虚数轴平行的方向移动 2，像这样：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-099b36bdab4a0a958b5fae3c27c84f87_720w.jpg?source=8673f162" alt=""></figure>
+<p>上面这个复平面里面的点，就是 3+2i</p>
+<p>其实你亦可以这样理解，原来的 3+2 里面的 2，乘以了一个虚数 i，于是它以它的起点（也就是 3 那个点）为圆心，沿着圆周运动逆时针旋转了 90°。像这样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6d8969a065bffe50fbd3a9f193d8c6ed_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>上面的两张图，你要抱着这样的心态，就是把这个坐标轴仍然视为一维坐标轴，只不过这些一维的存在似乎不甘于自己只是个一维生物，凭着自己的努力，愣是突破了维度壁垒。</strong></p>
+<p>就如同一般二维坐标轴一样，复平面上的坐标，亦可以表示为复平面上的向量，也就是 3+2i 也可以视为向量。但我为了让本篇内容的信息量不要太多，我后面会尽量避免用到向量这个概念。</p>
+<p>这时候，我们尝试把 3+2i 再乘以一个 i，看看会发生什么？</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i%283%2B2i%29%3D3i%2B2i%5E2" alt=""></p>
+<p>还记得前面说的，i 的平方等于什么？等于 -1，于是，上式就可以写成：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=3i%2B2i%5E2%3D-2%2B3i" alt=""></p>
+<p>我们看看 -2+3i 这个复数，在复平面上对应哪个点：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d1c3fc6abbc1e8973533a73a3db6a329_720w.jpg?source=8673f162" alt=""></figure>
+<p>你会发现，在复平面上 -2+3i 这个点，恰好是 3+2i 这个点，以原点为圆心，从原点到 3+2i 的连线为半径，逆时针旋转了 90°：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c456ce05c7f3f2aa63ea55859ba15ee3_720w.jpg?source=8673f162" alt=""></figure>
+<p>这很好证明，运用的是初中的几何知识，只需要证明从原点到 3+2i 跟到 -2+3i 的点的距离一样，并且原点跟这两个点的连线，与实数轴或虚数轴形成的夹角加起来是 90°，就可以证明出从 3+2i 到 -2+3i 是走了 1/4 圆弧，这种初中几何题就不在这里展开了。</p>
+<p>你瞧，这也跟我们一开始的设定，实数乘以 i 后，就是相当于以原点为圆心，原点到这个实数的线段为半径，在复平面上逆时针转 90°。</p>
+<p>现在我们神奇的发现因为虚数的运算法则，使得这个设定可以扩展到整个复数域，复平面上任意一个点，只要乘以 i，就是相当于以原点为圆心，旋转了 90°。</p>
+<p>这个与虚数相乘的结果，与原先的设定形成了自洽。</p>
+<p>同时，复数的表达式可以写成另一种形式，就是极坐标形式：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=r%28cos%5Ctheta%2Bisin%5Ctheta%29" alt=""></p>
+<p>为什么可以这样写，其实很简单，r 代表的是旋转半径，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta" alt=""></p>
+<p>就是旋转角度。</p>
+<p>复数坐标与原点的连线，跟实数轴上的实部线段、虚数部分的线段，形成了直角三角形：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a89900bb6dce3139aecfc05f1284542f_720w.jpg?source=8673f162" alt=""></figure>
+<p>那么</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=rcos%5Ctheta" alt=""></p>
+<p>其实就是实部，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=risin%5Ctheta" alt=""></p>
+<p>就是虚部，斜边长度就是 r。</p>
+<p>复数其实还有一种表现形式，就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i%5Ea" alt=""></p>
+<p>你瞧，乘以一个 i 就是旋转了 90°，那么很容易推出，乘以</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7Bi%7D" alt=""></p>
+<p>就是旋转了 45°</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7Bi%7D" alt=""></p>
+<p>亦可以写成</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i%5E%5Cfrac%7B1%7D%7B2%7D" alt=""></p>
+<p>同时，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i%5E%5Cfrac%7B1%7D%7B2%7D" alt=""></p>
+<p>亦可以用实部加虚部的表达式表示，只需要算出这个点到实数轴的距离、跟到虚数轴的距离就可以了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i%5E%5Cfrac%7B1%7D%7B2%7D" alt=""></p>
+<p>其实有正负两个解，所以，它两个解的点，以实部加虚部的表达形式就是：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Csqrt%7B2%7D%7D%7B2%7D%2B%5Cfrac%7B%5Csqrt%7B2%7D%7D%7B2%7Di" alt=""></p>
+<p>,</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=-%5Cfrac%7B%5Csqrt%7B2%7D%7D%7B2%7D-%5Cfrac%7B%5Csqrt%7B2%7D%7D%7B2%7Di" alt=""></p>
+<p>同样的，任意一个实部加虚部的原点距离为 1 的复数表达式，都可以写成</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i%5E%5Cxi" alt=""></p>
+<p>，字母</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cxi" alt=""></p>
+<p>的意思，是指必然存在一个实数，使等式两边成立。</p>
+<p>以上就是一维数轴下，虚数运算的最基本法则。</p>
+<p>下面我们进一步探讨，如果在二维平面坐标轴下，复数函数的表现形式。</p>
+<p>带虚部的二维平面坐标轴默认是这样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f4d7bd401d2b3a11efc785949455184e_720w.jpg?source=8673f162" alt=""></figure>
+<p>这时候有人要说了，何老师你是不是糊涂啦！说好的二维坐标系平面，可你画的是三维啊！</p>
+<p>那是因为原本是实数轴上的生物，不甘于自己只是个一维，硬生生的突破了维度壁垒，还记得吗？</p>
+<p>所以你看这个三维图像，你要心里默认成它是个二维坐标系。</p>
+<p>这个二维坐标系里，首先这个虚数轴，必须要明确是哪个轴的虚部。</p>
+<p>记住！虚数轴只能对应一个实数轴，它是不能够几个实数轴共享一个虚数轴的。</p>
+<p>如果我们视 y 为函数值，那么一般设定虚数轴就是 y 的虚部，虚数轴是属于 y 轴的，就像一夫一妻制一样，虚数轴嫁给了 y 轴，就跟 x 轴没关系了！</p>
+<p>但共享一个原点 0。</p>
+<p>我们知道虚数轴跟 y 轴相互垂直，那么虚数轴跟 x 轴是不是也相互垂直呢？其实这个是不确定的。因为虚数轴是 y 轴的，跟 x 轴是完全割裂的，除了共享同个原点。只不过我们为了直观的表示函数关系，把它画成也跟 x 轴垂直。</p>
+<p>那么在这个坐标轴，yoi 就形成了复平面，记住不存在 xoi 复平面。</p>
+<p>而复数 a+ib，就是复平面上的点：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-830fe82da0fa59ae573996abb4fa4df2_720w.jpg?source=8673f162" alt=""></figure>
+<p>好了，接下来一个重要的问题，带复数的函数图像，该如何呈现？</p>
+<p>例如最简单的：y=ix</p>
+<p>该如何画？</p>
+<p>首先我们知道 y=x 的函数图像是这样：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d5bec33bc3a093e379b176e2d80ac058_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个好理解，没毛病吧？</p>
+<p>那么 y=ix，就是把它转 90°，问题是以哪个轴为轴心转 90°呢？</p>
+<p>这也是刚开始学的同学们最容易犯浑的点。</p>
+<p>很多人以为是以 y 轴为轴心转 90°，其实是错的：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bcbcb00600a30562098e30f873b46afd_720w.jpg?source=8673f162" alt=""></figure>
+<p>正确的画法应该是这样，是以 x 轴为轴心，旋转 90°：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a31887446b1edd88dd22ca2c16819176_720w.jpg?source=8673f162" alt=""></figure>
+<p>很多人在这里就懵了！</p>
+<p>刚刚不是说好的，复数是在 yoi 平面上吗？？不是说好的 x 轴跟复平面无关吗？？你这怎么画到 xoi 平面上了？不是说好的不存在 xoi 复平面吗？</p>
+<p>首先我们重温下坐标的意义。</p>
+<p>就拿一般的二维平面坐标轴来看，某个点的坐标（x,y)</p>
+<p>其实可以看成是，从这个点，做一条线段垂直于 x 轴，这个线段上这个点到 x 轴的距离，对应的是 y 值；同理，做一条线垂直于 y 轴，这个线段上这个点到 y 轴的距离，对应的是 x 值。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a4744b8d18d15ea170636cfe7d02b3a2_720w.jpg?source=8673f162" alt=""></figure>
+<p>其实，我们可以看到，y 值其实是这条从坐标点出发垂直于 x 轴的线段在 y 轴的投影；而 x 值其实是从坐标点出发垂直于 y 轴的线段在 x 轴的投影。</p>
+<p>理解了这个，我们再来看看有复平面的二维坐标轴。</p>
+<p>函数 y=ix 的函数值 y，其实是这个往 x 轴方向的直线在复平面上的投影：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9b03e3099ada2c631c5faf7e777fbc3b_720w.jpg?source=8673f162" alt=""></figure>
+<p>为了方便大家理解，我再给一个函数图像，这次函数是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3D2%2Bix" alt=""></p>
+<p>这个函数图像应该是这么画：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-844d4fb1d77a519896a0432dc0a55e1e_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>而所有的 y 值，其实就是这个三维图像在复平面 yoi 的投影，记住这个，很重要。</strong></p>
+<p><strong>（但其实，用“投影”这个词是不太准确的，还记得前面说的，x 轴只与续重共享一个原点，但它们不在一个维度上，准确的说这个投影应该是“值域”，只不过为了大家更直观，我说成“投影”，所以后面出现“投影”这个词，其实是“值域”的意思）</strong></p>
+<p>如果还不明白的话，需要自己慢慢琢磨下。如果这个理解不了，那就先不要往下看了，后面你就更理解不了了。</p>
+<p>好了，理解了二维坐标轴下，带复数的函数图像后，接下来，我们证实开始讲欧拉公式了。</p>
+<p>欧拉公式的思想，其实是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>在一维坐标轴上的运动轨迹，其实是以原点为圆心，半径为 1 的圆周运动</p>
+<p>——该如何理解与证明，就是本文的重点。</p>
+<p><strong>首先 e 是自然常数，自然常数是一个在数学界里的重要程度不亚于 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpi" alt=""></p>
+<p><strong> 的无理数，但本文就不展开讲了，这里只需要知道并记住：函数 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5Ex" alt=""></p>
+<p><strong> 的导函数就是它自己 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5Ex" alt=""></p>
+<p><strong> ，这是这个自然常数最重要的性质。</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>在一维数轴的运动轨迹是这样：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1d22af85f51184d7ed889550c2dec616_720w.jpg?source=8673f162" alt=""></figure>
+<p>为什么呢？</p>
+<p>这就是欧拉最伟大的发现之一。</p>
+<p>其证明方法有几种，我后面会把几种证明方法都放出来。</p>
+<p>但最重要的一种，就是以直观的方式去理解，也是接下来的重点。</p>
+<p><strong>首先我需要说的是，网上一些视频的说法，其实是错的，或者说非常不严谨。</strong></p>
+<p>一些 up 主会这样说：</p>
+<p>因为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>的导函数是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bix%7D" alt=""></p>
+<p>(求导的链式法则）</p>
+<p>因为带着系数 i，乘以 i 就是表示旋转 90°，那意味着导数值总是垂直于这个点的运动方向，于是这个点的运动方向总是垂直于这个点与原点的连线。</p>
+<p>上述其实证明的方向，还有结果是对的，但过程错的很离谱，是把读者带到坑里。</p>
+<p>首先，导数的意义是什么？是两个变量的相互变化率</p>
+<p>它能在一维数轴上表示吗？</p>
+<p>不能！</p>
+<p>导数的意义，是函数图像中，代表着每一点的即时运动方向的切线的斜率，称之为导数，而由这些导数形成的函数称之为导函数。</p>
+<p>你在一维数轴上讨论导数，是没意义的！</p>
+<p>你看这个图：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1d22af85f51184d7ed889550c2dec616_720w.jpg?source=8673f162" alt=""></figure>
+<p>这图只有一个变量 x，并且 x 值对应的点在哪里？？一维数轴只能表示函数值！</p>
+<p>导数与导函数，只有在二维平面坐标轴，才有意义。</p>
+<p>所以对</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>求导，其实是对</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bix%7D" alt=""></p>
+<p>这个函数表达式求导</p>
+<p>而</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bix%7D" alt=""></p>
+<p>在二维平面坐标系的图像其实是这样：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-492219061cca4cdae3ea263f58add2f4_720w.jpg?source=8673f162" alt=""></figure>
+<p>它是一个以 x 轴为中心的无限延伸的螺旋体。</p>
+<p>而这个无限延伸的螺旋体，投影到 yoi 这个复平面上，会重合成一个半径为 1 的圆。</p>
+<p><strong>其实，这个在复平面上的圆的投影，就是所有 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p><strong> 的取值，这个圆包含了所有的 y 值。</strong></p>
+<p><strong>当然，上面的图像是我们现在要去证明的，只不过提前让大家知道我们的目的是什么。</strong></p>
+<p>而它的导函数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%27%3Die%5E%7Bix%7D" alt=""></p>
+<p>,其实是上图这个螺旋体里的点的即时运动方向所在的切线的斜率的函数。</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bix%7D" alt=""></p>
+<p>的函数图像上，某个点</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>的运动方向的切线，如下图，红色的那条线：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e5a544fe6fe2312164ed3858453e709_720w.jpg?source=8673f162" alt=""></figure>
+<p>而这条线的斜率，是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p>而现在我们的目的是，证明任意一点</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bia%7D" alt=""></p>
+<p>点的切线，在复平面 yoi 上的投影，是与复平面上原点至</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>点连线垂直，且经过复平面上</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>点，这样就能证明复平面上</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>是圆周运动。因为圆周运动的充要条件，就是它每一时刻的运动方向都是垂直于它与圆心的连线。</p>
+<p><strong>而很多人犯的另一个错误，就是以为只要带个虚数 i 作为系数，那它的运动轨迹就是圆周。</strong></p>
+<p>我随便举个反例就行了。</p>
+<p>例如前面的最简单的例子 y=ix</p>
+<p>它的导函数就是 i</p>
+<p>它是带着 i 啊，可原函数是螺旋体吗？不是。</p>
+<p>如果你说 i 后面必须带着由自变量 x 的函数表达式，也行。我举一个</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5Ex" alt=""></p>
+<p>它的导函数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%27%3Die%5Ex" alt=""></p>
+<p>可原函数是螺旋体吗？</p>
+<p>不是！</p>
+<p>所以重点不只是那个系数 i ,而是系数 i 与另一个复数的组合。</p>
+<p><strong>下面是正确的证明方法：</strong></p>
+<p>首先，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>是一个复数，于是它是可以用实部加虚部的表达式来表示：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=A%28x%29%2BiB%28x%29" alt=""></p>
+<p>它的实部与虚部，是随着 x 值得变化而变化，于是是自变量为 x 的函数。</p>
+<p>因为它的导函数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%27%3Die%5E%7Bix%7D" alt=""></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>又是一个复数，还记得前面怎么说的吗？复数乘以 i，就是把原先复平面上的点，以原点为圆心，这个点到原点的线段为半径，旋转 90°。</p>
+<p>我们取</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>的运动轨迹上的任意一点</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>在复平面的投影（其实就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>）来演示：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8374992116673af545e83e26414c483e_720w.jpg?source=8673f162" alt=""></figure>
+<p>你瞧，这个乘以 i 后得来的新的复平面上的点，与原点的连线，是垂直于原来的点与原点的连线。</p>
+<p>这时候恐怕有学渣跳出来说，妥了！这是不是就说明原来的点的运动方向就是垂直于与原点的连线！</p>
+<p>还没到那步！</p>
+<p>要知道，导数值，代表的是这个点的即时运动方向所在的切线的斜率！</p>
+<p>所以，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p>这个点，代表的是斜率值！而不是这个切线！</p>
+<p><strong>一条线的斜率是个复数，该如何理解呢？</strong></p>
+<p>其实，学过向量的就知道，一个点的坐标，也可以视为从原点到这个点的线段代表的向量，而这个向量所在的直线的斜率也可以用向量表示。还记得前面提到，复数本身也可以视为向量吗？如果向量 A 与向量 B 垂直，那么由向量 B 作为斜率的直线，是与向量 A 垂直的，于是就证明了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>这个点的即时运动方向垂直于它与原点连线。</p>
+<p>但我知道大家肯定对这种证明方法不满意，这就好像强行加了一个设定。</p>
+<p>不要紧！接下来我们抛开向量的概念，因为我前面承诺过尽量不用向量，下面就用上文已有的设定，去证明。</p>
+<p>我们回顾下，在一般的图像为直线的函数表达式里面，斜率是怎么表示？</p>
+<p>例如 y=kx+b</p>
+<p>这条直线的斜率就是 k</p>
+<p>那么，如果是斜率为 k，且经过原点的直线的函数表达式，就是：</p>
+<p>y=kx+0，也就是 y=kx</p>
+<p>如果斜率 k 是个复数，那会怎样呢？</p>
+<p>那就直接乘来看看呗。</p>
+<p>例如斜率是 3+2i 的且经过原点的直线</p>
+<p>那么函数表达式就是</p>
+<p>y=(3+2i)x</p>
+<p>它在二维坐标系的函数图像大概是这样：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-82652123fc6ed17104adb659d172bb61_720w.jpg?source=8673f162" alt=""></figure>
+<p>它的函数图像在复平面上的投影恰好就是：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bf3ac1133cd901d46182f7ea2386d1f6_720w.jpg?source=8673f162" alt=""></figure>
+<p>函数图像在复平面上的投影就是所有 y 值的取值，也就是值域，记得不？</p>
+<p>所以你瞧，斜率是复数的、经过原点的直线，在复平面上的投影，就是从原点出发经过这个复数的直线。</p>
+<p>这时候如果系数乘以个 i，也就是斜率乘上个 i，就变成了（-2+3i）x，这条线不就与原来的（3+2i)x 垂直嘛！</p>
+<p>回到</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>，我们在函数图像上任取一点</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>，我们从原点出发，做条直线连上</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>，那么这条直线的函数表达式，是不是就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bia%7Dx" alt=""></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b104d0c9310292a3cea6122aad83f017_720w.jpg?source=8673f162" alt=""></figure>
+<p>我们取这条直线从原点到</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>点的线段，投影到复平面 yoi 上的图像，是不是就是从原点到</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>:</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1510db8a8a7ceef98b39671d5fdefd22_720w.jpg?source=8673f162" alt=""></figure>
+<p>而斜率是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p>且经过原点的直线</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7Dx" alt=""></p>
+<p>，在复平面上的投影，就是从原点出发，经过</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p>这个点的直线。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-521cd9c54cb1b5462d663a05f6173a97_720w.jpg?source=8673f162" alt=""></figure>
+<p>因为前面我们已经知道了，根据复数乘法的性质，在复平面上，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p>这个点至原点的连线，与</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>点至原点的连线是垂直的！因为前者是后者乘以 i 得出的嘛！相当于后者</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>以原点为圆心逆时针转了 90°得出</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p>这个点，那么自然原点与这两个点的连线是相互垂直的。</p>
+<p>而</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p>至原点的连线，恰好是与在二维平面坐标系中斜率为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p>的经过原点的直线</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7Dx" alt=""></p>
+<p>在复平面的投影重合。</p>
+<p><strong>但注意！</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7Dx" alt=""></p>
+<p><strong> 这条直线，还不是</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bix%7D" alt=""></p>
+<p><strong> 的函数图像上某个点 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p><strong> 的运动方向的切线。</strong></p>
+<p><strong>真正切线的函数表达式，高中学过了，是：</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Df%27%28a%29%28x-a%29%2Bf%28a%29" alt=""></p>
+<p>那么在这里，切线的表达式就是：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7D%28x-a%29%2Be%5E%7Bia%7D" alt=""></p>
+<p><strong>因为这个表达式里面 x 的系数跟 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7Dx" alt=""></p>
+<p><strong> 是一样的，都是 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=ie%5E%7Bia%7D" alt=""></p>
+<p><strong> ，所以这两条直线是平行的！</strong></p>
+<p><strong>那么 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7D%28x-a%29%2Be%5E%7Bia%7D" alt=""></p>
+<p><strong> 这条直线在复平面上的投影，与直线</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7Dx" alt=""></p>
+<p><strong>在复平面的投影是平行的！</strong></p>
+<p><strong>所以，</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7D%28x-a%29%2Be%5E%7Bia%7D" alt=""></p>
+<p><strong> 这条直线在复平面上的投影，是与复平面上原点到 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p><strong> 点的连线垂直！并且经过 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p><strong> 点。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3fce1b2701bb45b38505e147b2f57533_720w.jpg?source=8673f162" alt=""></figure>
+<p>这就相当于把线这</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3Die%5E%7Bia%7Dx" alt=""></p>
+<p>在复平面的投影平移到刚好经过复平面上</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>点。</p>
+<p><strong>所以，最终我们证明出，复平面上 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p><strong> 点的运动方向，是垂直于复平面上原点与</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p><strong> 点的连线。</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b12584ef34c897cb5cedee0e473bda61_720w.jpg?source=8673f162" alt=""></figure>
+<p>而</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>运动轨迹在复平面上投影的每个点都可以用上述方法证明，于是它在复平面上的的运动轨迹必然是个圆！因为圆的性质，就是每个点的运动切线方向都是垂直于这个点与圆心连线的半径。</p>
+<p>而当 x=0 时，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bi0%7D%3D1" alt=""></p>
+<p>, 这时候这个点落在了实数轴上 1 的位置。</p>
+<p>可以得出，这个圆的半径就是 1.</p>
+<p><strong>其实上面我为了让大家不要太过懵逼，故意少了一步，现在大家理解了整个证明思路后，我下面再加上这一步。</strong></p>
+<p>复平面上从原点到函数图像</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bix%7D" alt=""></p>
+<p>运动轨迹在复平面投影的某个点</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>的连线，其实是在二维坐标系里从原点出发，连到</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bia%7D" alt=""></p>
+<p>的点的连线，其实它有无穷多条，而这无穷多条连线在复平面上的投影恰好重合成一条：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-435e3199c3fea09628a86c65d5b7e423_720w.jpg?source=8673f162" alt=""></figure>
+<p>而这无穷多个</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bia%7D" alt=""></p>
+<p>的点，在复平面上的投影都重合成一个点，就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>而所有</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bia%7D" alt=""></p>
+<p>点的运动方向的切线，在复平面上的投影都重合成一条垂直于从原点到</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>的直线并经过</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bia%7D" alt=""></p>
+<p>点。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d7135e021d88f36ac5de7dd0541f4436_720w.jpg?source=8673f162" alt=""></figure>
+<p>以上才是完整的证明过程。</p>
+<p>现在我们回到复平面上。</p>
+<p>我们成功证明了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bix%7D" alt=""></p>
+<p>在复平面的投影是个半径为 1 的标准圆。</p>
+<p>那么我们就可以在一维数轴上用一个半径为 1 的标准圆表示</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1d22af85f51184d7ed889550c2dec616_720w.jpg?source=8673f162" alt=""></figure>
+<p>到这里，很多人以为就大功告成啦！</p>
+<p>错啦！</p>
+<p>欧拉公式的思想，除了推导出</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>是个单位圆，还有一个更重要的定理，就是 x 的取值恰好就是等于弧长。</p>
+<p>欧拉公式是这样：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bi%5Cpi%7D%2B1%3D0" alt=""></p>
+<p>或</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bi%5Cpi%7D%3D-1" alt=""></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D%3Dcosx%2Bi+sinx" alt=""></p>
+<p>看到其中的特点没？x 的取值就是半径为 1 的单位圆的弧长，而 x 取值</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpi" alt=""></p>
+<p>的时候，恰好就是个半圆，去到了 -1 的位置</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-51884a8693f26a98fd49fc9c8089b5c0_720w.jpg?source=8673f162" alt=""></figure>
+<p>很多视频 up 主只讲到了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>是个单位圆，然后就直接给出了 x 的取值就是弧长的结论，这直接跳过了证明。</p>
+<p>但其实上面证明过程，只证明到</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y%3De%5E%7Bix%7D" alt=""></p>
+<p>的值域是复平面上的单位圆。</p>
+<p>单位圆的意思就是半径为 1.</p>
+<p>为什么半径为 1 呢？</p>
+<p>很简单，当取 x=0 的时候，i0=0，于是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bi0%7D%3De%5E0%3D1" alt=""></p>
+<p>所以，当 x=0 的时候，y 值就落在了实数轴上的 1 的位置，这时候是没有虚部的。</p>
+<p>而根据上文的推导，y 值的运动方向在复平面上的投影，就是在复平面上垂直于它与原点连线的方向，也就是圆周运动。</p>
+<p>所以这个圆周运动的半径为 1.</p>
+<p>于是可以推出</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D%3Dcost%2Bi+sint" alt=""></p>
+<p>为什么可以写成这样？</p>
+<p>因为在过去学二维直角坐标系的时候，以坐标轴原点为圆心，半径为 1 的圆弧上，每个点的坐标都可以用（sin t，cos t)来表示。</p>
+<p>其中 t 为自变量，它可以视为半径的旋转角度。</p>
+<p>因为 sin t 的取值就是这个角度对应的对角边与作为斜边的半径形成的比值，而因为半径为 1，所以这个角度 t 对应对角边长度就是 sin t，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3f8dc1d95711bbe8846bce9a3a3b98e8_720w.jpg?source=8673f162" alt=""></figure>
+<p>于是，圆弧上的点的纵坐标就是 sin t。</p>
+<p>而横坐标，自然就是 cos t 啦。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cb79983ed1164ab5f06a783a9d242f96_720w.jpg?source=8673f162" alt=""></figure>
+<p>于是，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D" alt=""></p>
+<p>在复平面上的值域，亦可以用</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=cost%2Bi+sint" alt=""></p>
+<p>来表示：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=e%5E%7Bix%7D%3Dcost%2Bi+sint" alt=""></p>
+<p>只是现在还差最后一步，就是 x 与 t 的关系到底是什么？</p>
+<p>而欧拉公式的最终形态可以看到，x=t</p>
+<p>——而这个就是要接下来证明的。（但如果是直接用泰勒展开的方式推导欧拉公式，这步是不需要的了）</p>
+<p>这个需要严谨证明的，也是欧拉公式最重要的部分，下面就给出证明。除此之外，还有另外一种更简单的方式推导出欧拉公式的方法</p>
+<p>除此之外，后面还会给出欧拉公式另一种更简单的推导，也就是泰勒展开公式。</p>
+<p>在此之前如果没了解过泰勒展开的，推荐阅读以下这篇：</p>
+<p><a class="internal" href="https://zhuanlan.zhihu.com/p/1947860798975239578">大学数学路上的第一个大魔王，泰勒展开公式、佩亚诺与拉格朗日余项</a></p>
+<p>欲看完全文，请前往以下链接：</p>
+<p><a class="internal" href="https://zhuanlan.zhihu.com/p/1947858186544587421">深入骨髓的解剖欧拉公式，能否直观的理解它决定了你是否有成为数学家的潜质</a></p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/14804346742">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787473</guid><pubDate>Sun, 08 Feb 2026 02:05:46 GMT</pubDate></item></channel></rss>
