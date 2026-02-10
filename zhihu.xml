@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Mon, 09 Feb 2026 12:58:23 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>做完考试卷子，检查的时候发现两个答案不知道选哪个，该不该改答案？</title><link>http://daily.zhihu.com/story/9787478</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-99868bcae80c14a830150ac19d6cc5a1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Tue, 10 Feb 2026 08:53:38 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>自然界广泛存在食用动物排泄物的现象，那么对吃排泄物的动物来说，他们吃排泄物算素食还是肉食？</title><link>http://daily.zhihu.com/story/9787497</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-459e52e85dec7558f165579915fcf8c6.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,87 +19,67 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-5d8d2b5698ad3b9b58b581c67a60dfe2_l.jpg?source=8673f162">
-<span class="author">解磊，</span><span class="bio">格物当澄明似镜，处世可烂漫如诗</span>
-<a href="https://www.zhihu.com/question/577652403/answer/2865715861" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-b64b13b88f3d3c1daf48d74a05b7159e_l.jpg?source=8673f162">
+<span class="author">犬君拌汪酱，</span><span class="bio">生态狗、小说狗 名为人生的冒险仍在继续</span>
+<a href="https://www.zhihu.com/question/1994082185209204923/answer/1995437953242128655" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这道题是有<strong>诺奖级别</strong>的正确答案的。</p>
-<p><strong>先说结论：</strong></p>
-<p>假设你完全不知道答案，改答案与不改答案答对题目的概率完全一样的情况下。</p>
-<p>结论 1：如果该考试只是一场普通考试，对你的未来没有太大影响，那么你不应该改答案。</p>
-<p>结论 2：如说这是一场可以决定你人生重大决策的考试，比如高考，而这道题正确与否又有关键决定作用，那么你应该修改答案。</p>
-<p>结论 3：无论以上哪种决策，都是次优解。最优解是： 抛一枚密度均匀的硬币，如果正面，则修改答案；如果反面，则不修改答案（反之也可，看你的习惯和心情）。走出考场后，把这事儿忘掉。</p>
-<p><strong><strong>目标：最大程度上避免后悔</strong></strong></p>
-<p>得出以上结论的逻辑是这样的。</p>
-<p>首先，所有三个决策，主要目的都是为了<strong>最大程度上避免后悔</strong>。</p>
-<p>讨论“选错后后悔”而非讨论“选对后高兴”，是因为<strong>人们面对客观上同等数量的收益或损失时，损失更加令人们难以承受</strong>，同样的损失带来的负效用是同样收益的正效用的 2.5 倍。<sup>[1]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c8b975955bc6f9181970a21db88a548f_720w.jpg?source=8673f162" alt=""><figcaption>收益 / 损失价值曲线</figcaption></figure>
-<p>放到这个场景中，就是<strong>答错题带来的不爽的感觉是答对题带来爽感的 2.5 倍</strong>。因而我们更应该讨论如何避免答错题带来的不爽。</p>
-<p>这个现象叫做“<strong>损失厌恶（loss aversion）</strong>”，是<strong>前景理论（prospect theory）</strong>中一个非常重要的结论，其提出者丹尼尔·卡尼曼（Daniel Kahneman）正是由于提出该理论获得了 2002 年诺贝尔经济学奖。</p>
-<p><strong>结论 1 的导出：</strong></p>
-<p>既然确定了我们的议题是讨论如何最大程度上避免后悔，再回到这个场景中，我们会发现做错题目的可能性其实有两种。</p>
-<p><strong>A 本来的选择是错的，不改选项，还是错的。（不行动导致后悔） </strong></p>
-<p><strong>B 本来的选择是正确的，改了选项，结果改错了。（行动导致后悔） </strong></p>
-<p>那么 A、B 两种情况下，哪一种会更加后悔呢？</p>
-<p>卡尼曼教授在前景理论中同样给出了答案，是 B。</p>
-<p><strong>相比不行动，人们对行动导致的消极结果会更加后悔。</strong>这个现象叫做“<strong>行动效应（action-effect）</strong>”，是“后悔研究”中最著名的，可复现的，且在跨文化场景中均得到验证的结论。</p>
-<p>由以上，我们可以得出结论 1，为了最大程度上避免后悔，你不应该修改答案。</p>
-<p>拓展讲一下，卡尼曼教授设计的“行动效应”的经典场景是这样的：</p>
-<blockquote>场景 A： <br>保罗先生拥有 a 公司的股票，过去一年时间里，他考虑过换持 b 公司股票，但是他决定不这么做，现在他发现，如果当时他换持 b 公司股票，他的收入会比现在高出 1200 美元。 <br><br>场景 B： <br>乔治先生拥有 b 公司股票，在过去一年时间里，他转投 a 公司的股票，结果他发现，如果他继续持有 b 公司股票，他的收入会比现在高出 1200 美元。</blockquote>
-<p>针对以上 A、B 两个场景，138 名参与者中有 92%的人认为乔治先生（行动者）要比保罗先生（不行动者）产生更强烈的后悔情绪（虽然客观上讲，两个场景的损失是完全相同的）。</p>
-<p>对比这个问题的 A、B 两个可能，是不是几乎一模一样？</p>
-<p>这个实验还有诸多延伸，最切题的，是一项以香港大学生为样本的研究<sup>[2]</sup>。在这项研究中使用了如下场景：</p>
-<blockquote>“约翰正在参加一场考试，考试结束后，约翰检查了自己的答案，考虑是否更换一个答案。约翰需要做出决定，是保留自己的第一选择不更换，还是改变自己的选择换一个选项。”</blockquote>
-<p>对比一下这个场景设计和这个问题，是不是连“几乎”都可以去掉了？它们就是一模一样。</p>
-<p>不仅如此，这个研究中，研究者的目的并非仅仅在不同的文化场景中简单复现行动效应，而是让试验参与者针对是否后悔的结果反推约翰的决策。</p>
-<p>这个实验场景接下来的描述是这样的：</p>
-<blockquote>“约翰最终做出了更换选项或不更换选项的决定，但我们不知道他究竟做了哪种决策，我们知道的是，在知道考试结果前，约翰对自己的决定感到后悔 / 不后悔。”，然后让参与者判断约翰是改了答案还是没改答案。</blockquote>
-<p>请品鉴，这个问题是不是简直就是为了回答这个问题量身定制的？</p>
-<p>这个实验的结果，是再后悔的情况下，<strong>80%的参与者认为约翰改了答案；而在不后悔的情况下，只有 51%的参与者认为约翰改了答案，从而进一步证明了在人们普遍认知中，令人后悔的决策往往与行动有关。 </strong></p>
-<p>既然已经讲到这里，就再扩展讲一个场景，还是卡尼曼和米勒的研究：</p>
-<blockquote>场景 A：“琼斯先生开车从来不载搭便车的人，昨天他破例载了一个，结果被抢劫了。” <br>场景 B：“史密斯先生开车经常载搭便车的人，昨天他载了一个，结果被抢劫了。”</blockquote>
-<p>在以上两个场景中，你认为琼斯先生更加后悔，还是史密斯先生更加后悔？</p>
-<p>结果正如你所预期，88%的参与者认为琼斯先生更加后悔，因为与他平时的行为相比，在这个场景中导致后悔的行为更加异常（abnormal）。</p>
-<p>放到这个题目里，则可有推论：<strong>“如果你平时遇到同样的场景习惯不改答案，那么这次也不要改。” </strong></p>
-<p>类似的延伸场景设计非常丰富，可以给这个题目添加很多条件修订，例如“中国人对于行动导致的后悔效应更加明显”<sup>[3]</sup>、“日本人对于对他人造成负面结果的行为更加后悔”<sup>[4]</sup>等等，然而无论以上哪种补充，都没有动摇行动比不行动带来的后悔更大这个前提。</p>
-<p><strong><br>结论 2 的导出：</strong></p>
-<p>直到 2003 年的一项研究<sup>[5]</sup>，有了不一样的结论。</p>
-<p>在这个研究中，研究者通过电话调查的方法，探索了当人们回想过去的事件时，针对自己的行动或不行动，哪一种决策会更加后悔。</p>
-<p>实验的结果是，<strong>75%的受访者认为，回想过去时，他们会对自己本可以做但没有做的事情更加后悔。 </strong></p>
-<p>我们换种形象化的方式表述，你就懂了：</p>
-<p><em>“许多年之后，当你再回想起考场中为选项纠结的那个下午，如果当时你改了选项，你的命运也许就与今天大不相同。可当时你什么都没做，就盯着那道题目，纠结着，直到交卷铃声响起。随着试卷被收走，你改变命运的机会也被上帝收回。每每想起这个场景，你都恨不得给自己两个大嘴巴子，<strong>如果当时我改了题目就好了，哪怕改了是错的，至少我也为改变我的命运努力尝试过。</strong>” </em></p>
-<p>这也与我们日常的直觉和观察相符。你可以尝试问一下身边的人他们生活中最大的遗憾是什么，大概率得到的会是<strong>“如果……就好了”</strong>的句式。</p>
-<p>例如：“如果年轻时我遵从自己的内心去学音乐就好了。”，“如果我能多花些时间陪陪我的家人就好了”。这也是这个研究设计的初衷。</p>
-<p>这就是我们得出结论 2 的依据，也是为何在描述结论 2 时，要在前面加上一大堆的状态限定。</p>
-<p>只有这个没发生的动作足够重要，足够让你铭记相当长时间，在未来回想时，才更加会体验到这种不行动所带来的后悔感。</p>
-<p><strong>为何会不同？</strong></p>
-<p>那为什么会有结论 1 与结论 2 的不同呢？</p>
-<p>这就要从后悔产生的根本原因讲起了。</p>
-<p>人们产生后悔情绪最核心的原因是“<strong>反事实思维（counterfactual thinking）</strong>”，即事情发生后，人们会倾向于为已经发生的生活事件创造可能的替代方案，从而产生与实际发生结果相反的事情。</p>
-<p>反事实思维会引发后悔、内疚、不满等负面情绪，是最常见的非理性偏见产生的原因之一。</p>
-<p>一个已经发生的事件，通常包含行动和结果两个部分。</p>
-<p>在结论 1，也就是行动效应模型中，反事实思维更多聚焦于行动这个部分。</p>
-<p>而在结论 2 中，反事实思维则更多聚焦于不好的结果。</p>
-<p><strong>对行动的记忆和感受通常是短暂的，而对结果的记忆和感受则是长久的。随着时间的推移，那些导致后悔结果的，本可以做但是没做的事情，会引起更大的负面情绪体验。 </strong></p>
-<p><strong><br>结论 3 的导出：</strong></p>
-<p>然而，无论在结论 1 还是结论 2 中，后悔这个负面情绪状态的产生，是不可避免的，只是强度强弱的问题。这就是为何会有结论 3 这个最优解。</p>
-<p>反事实思维产生的一个重要的前提，是有“我”这个因素存在，“我”是行动的发起者，同时“我”也是结果的承担者。</p>
-<p><strong>结论 3 的本质，是将“我”的责任转移掉。 </strong></p>
-<p>如果”我“本来就完全不知道答案，如果改不改答案答对的概率是一致的，那<strong>最理性的决策，就是将本来就是随机的决策交于随机，让“我”不必承担决策的责任，以及决策的后果。</strong>（虽然客观上，承担后果的还是“我”，这就是为何，我建议你出考场后，直接把这事儿忘掉。）</p>
-<p>因而，在这个题目中，结论 3 才是最优的解法，从根本上避免了后悔的产生。</p>
+<p>问：食粪动物吃的是素食还是肉食？</p>
+<p>答：吃的是预制菜</p>
+<p>问：那食粪动物属于素食还是肉食？</p>
+<p>答：那得看预制菜料理包里放的是什么原材料了~</p>
+<p>俗话说得好，“我家孩子是我一把屎一把尿辛辛苦苦喂大的”</p>
+<p>对于人类而言，这句话属于“比喻”；但对于食草、吃树木的动物而言，很多时候这句话属于“白描”</p>
+<p>——食草、吃木头的动物里，有大量的动物会以自己的粪便喂崽，比如最经典的兔形目的兔子：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a2532e724458d10a928b3faf13a89cb9_720w.jpg?source=8673f162" alt=""><figcaption>https://www.youtube.com/watch?v=2Ul7QR0Ky3s</figcaption></figure>
+<p>兔子会拉两种便便，一种是干巴巴的，已经完成消化的硬便便；另一种则是消化不完全，富含营养和肠道菌群的软便——<strong>兔宝宝会吃软便，营养好易消化，还能帮助兔宝宝建立肠道菌群</strong></p>
+<p>植物的纤维素是很难消化分解的，很多食草动物的消化系统没法一次性把营养分解吸收干净，只好使用重新吃进去二次消化的办法，这本质是一种“<strong>体外反刍</strong>”</p>
+<p>类似的，啮齿目的水豚，即俗称的动物之友卡皮巴拉，同样也会拉两种便便：一种是彼此分离的单个的椭圆形便便，一种是颜色较浅的糊状便便。前者是消化的最终产物，有较高比例的细胞壁成分；<strong>后者尚未彻底消化的盲肠粪，富含营养，平均比前者的蛋白质含量高出约 37%</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c1dacc9b3331420a5e173168b331da99_720w.jpg?source=8673f162" alt=""></figure>
+<p>↑水豚一家</p>
+<p>作为一种植食性动物，水豚本身的消化能力并不强，而植物性食物又不容易消化，于是大多时候，水豚食物中的营养物质尚未被完全消化吸收，就被水豚拉了出来——<strong>而这些经过初步消化的水豚便便，营养丰富，蛋白质高，还更容易吸收</strong></p>
+<p>在自然环境中，水豚爸妈加工过的预制便便会成为小水豚的营养伙食；而在动物园里，水豚一便便，就会有许多食草动物朋友们凑过去猛抢！</p>
+<p>也因此，水豚在动物园里的朋友多，本质是送预制小零食交朋友（</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-748e59f5f88586d447577b9cb1ade848_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c86b6d45c8362142a74c0d46842e17b0_720w.jpg?source=8673f162" alt=""></figure>
+<p>↑动物园里的水豚和朋友们</p>
+<p>类似的，啮齿目的裸鼹鼠会在地下筑巢，以植物的块根和块茎为食，然后用初步消化后的营养便便喂小裸鼹鼠</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-43ffab66859cdd14194a1866e99b31ba_720w.jpg?source=8673f162" alt=""><figcaption>https://www.the-scientist.com/digging-the-underground-life-40923</figcaption></figure>
+<p>↑裸鼹鼠的地下巢穴和作为主食的植物块根 / 块茎</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-131b55f68c47ebc3bb29cb7357cb38f0_720w.gif?source=8673f162" alt=""></figure>
+<p>↑我在费城动物园里看到的跑滚轮的裸鼹鼠，这家子裸鼹鼠生活在玻璃墙里</p>
+<p>而很多昆虫，包括黑蜣、食木性蟑螂等，都会拿自己的初步消化的粪便喂幼虫</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7c89678aa5c5e483c188da74317dc222_720w.jpg?source=8673f162" alt=""></figure>
+<p>↑我从腐木里拆出来的黑蜣，这玩意是鞘翅目黑蜣科（Passalidae）的，和鞘翅目金龟科（Scarabaeidae）下的蜣螂（屎壳郎）不是一个科的</p>
+<p>因为木头是非常难以消化分解的，这些食木昆虫消化木头的本质是在体内让微生物帮忙分解木屑。而在体内的微生物种群建立成熟之前，这些食木昆虫是完全无法直接取食木头的，必须通过食用成虫消化过的粪便才能生存。而食用这些消化过的粪便，能帮助幼虫在体内建立自己的微生物种群</p>
+<p>像上面这些父母以植物性食物为主食，初步分解加工后，再把预制便便喂给孩子的行为，我认为通过审阅配料表，可以将吃素的父母列为初级素食者，吃屎的孩子列为二级素食者</p>
+<p>而除此之外，也有另外一些动物会吃一些原材料并不是植物的便便，比如吃人屎的狗，和吃同伴便便的猩猩</p>
+<p>但问题是以蛋白质为主的肉类是非常好消化的，在被吃进去消化完再拉出来后，其实已经算不上是“肉”了</p>
+<p>对于这些动物的吃屎行为，emmmm，我觉得既不是素食也不是肉食，而是杂食</p>
+<p>总结一下：</p>
+<p><strong>1.自然界里的素食吃屎动物还是很多的，尤其是拿营养便便喂崽的行为非常常见</strong></p>
+<p><strong>2.肉类容易分解，拉出来后已经不算肉了，我觉得这种便便属于杂食便便（</strong></p>
+<p>最后，<strong>我个人还是不推荐大家吃屎的（</strong></p>
+<p>以上！</p>
+<p>©犬君拌汪酱 2024 年度新知答主，知乎认证生物学、动物学、昆虫学优秀答主，快来关注这条人畜无害的生态狗吧！！！</p>
+<p>喜欢这篇回答的话给个点赞分享喜欢关注四连吧谢谢！！！</p>
+<p>参考文献：</p>
+<ol>
+<li>A note on the cecotrophy behavior in capybara (Hydrochaeris hydrochaeris) A Mendes, SS da C Nogueira, A Lavorenti… - Applied Animal …, 2000</li>
+<li>Hatching asynchrony, survivorship, and development in young colonies of the subsocial cockroach Cryptocercus punctulatus (Dictyoptera: Cryptocercidae) CA Nalepa, DE Mullins - Sociobiology, 2009</li>
+</ol>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/577652403">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1994082185209204923">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787478</guid><pubDate>Mon, 09 Feb 2026 12:58:20 GMT</pubDate></item><item><title>为什么眼睛眯成缝看灯会看到射线一样的光线？</title><link>http://daily.zhihu.com/story/9787488</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6c5a5a0beac7126c489f72bd45ef6add.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787497</guid><pubDate>Tue, 10 Feb 2026 08:53:35 GMT</pubDate></item><item><title>为什么欧洲面包这么硬而无味，欧洲人仍然把他们当主食呢，面包的配食又是什么？</title><link>http://daily.zhihu.com/story/9787503</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-db53cf2958ac5e94c57f70d5a8ed30f6.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -119,63 +99,368 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/26747947/answer/1996019344099021920" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-e7ed0feef38858e465aa37fe0c303268_l.jpg?source=8673f162">
+<span class="author">Mourad Bey，</span><span class="bio">阿拉伯语鼠人，问性别的一概不回，宝宝辅食，不加V。</span>
+<a href="https://www.zhihu.com/question/1898030003909813770/answer/1926388655301334788" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>深夜独自走在街头，也许是出于无聊，也许是因为近视没戴眼镜，你试着眯起眼睛看向远处的路灯。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e628cda0773ceca1b607faa35cf851a1_720w.jpg?source=8673f162" alt=""></figure>
-<p>突然间，那原本模模糊糊的光晕变成了一道道锐利的光束，像漫画里的“星芒”。</p>
-<p>之所以会这样，是因为当你眯起眼睛时，上下眼睑会通过肌肉收缩靠拢，将原本圆形的瞳孔遮挡成一条水平方向的狭缝。此时，衍射发生了。这个现象早在 1660 年，就被一位名为弗朗切斯科·玛丽亚·格里马尔迪（Francesco Maria Grimaldi）的意大利物理学家详细记录。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8178b8f2007e91e7c58ca4e926cd6f57_720w.jpg?source=8673f162" alt=""></figure>
-<p>光本质上是一种波。当光波遇到障碍物或者穿过狭缝时，它不会乖乖地走直线，而是会发生弯曲和扩散。根据惠更斯菲涅耳原理<sup>[1]</sup>，狭缝限制了光波的传播，导致光在垂直于狭缝的方向上发生扩散。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-18aa7ebc9cb95114deb1ea6d64a99373_720w.jpg?source=8673f162" alt=""></figure>
-<p>既然你的眼睑构成的狭缝是水平的（左右方向），那么光线就会在垂直方向（上下方向）产生最强烈的衍射<sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b54f6c0427df6e7483fe667c85ab9c64_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就是为什么你眯眼时，首先看到的是一条贯穿天地的垂直光柱<sup>[3]</sup>。这和你透过窗帘缝隙看阳光会看到垂直光带是同一个道理。从数学上讲，这其实是你的眼睑在对入射光做一维傅里叶变换，频域的延展方向与空域的压缩方向刚好垂直<sup>[4]</sup>。</p>
-<p>但事情没那么简单。如果你仅仅是用两张扑克牌模拟狭缝放在眼前，你会发现虽然也有衍射，但光柱并没有那么“油润”和拉长。</p>
-<p>这就涉及到了流体力学。你的眼球表面并非干燥的，覆盖着一层泪膜。当你眯眼时，上下眼睑的挤压会导致泪液在眼睑边缘积聚，形成一个弯月面（Tear Meniscus）。根据 2006 年发表在《Ophthalmic Surgery, Lasers and Imaging》上的研究，这个弯月面在光学上等效于一个柱面透镜<sup>[5]</sup> 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d249e6cd7287a6229e1456e3cc5a93ae_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个液体柱面透镜在垂直方向上有很强的屈光力，但在水平方向几乎没有。它就像是你临时给眼睛戴上了一副做工极差的散光眼镜，把点光源在视网膜上强行拉伸成了一条垂直的线 。所以，那道垂直的“圣光”，很大程度上是你的泪水扭曲了世界。</p>
-<p>如果你眯眼的程度再精细一点，或者你的睫毛比较长，你会发现光芒不仅仅是垂直的，而是呈放射状的“海胆”形态。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ab5598ff41c78837b6f9876911501b94_720w.jpg?source=8673f162" alt=""></figure>
-<p>这时候，你的睫毛充当了光栅（Diffraction Grating）的角色。人类的睫毛并不是整齐排列的，它们杂乱无章、粗细不一，且向各个方向生长。根据巴比涅原理（Babinet's Principle）<sup>[6]</sup>，一根阻挡光线的睫毛产生的衍射图样，与一个同样形状的透光狭缝是一样的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ee4ff3ad749aca9f0af24d1c83dcece3_720w.jpg?source=8673f162" alt=""></figure>
-<p>每一根睫毛都会产生一条垂直于它生长方向的衍射光刺。因为你有大约 100 到 150 根随机取向的睫毛，这些光刺在视网膜上叠加，就形成了向四面八方炸裂的星芒 。</p>
-<p>更有趣的是，这其实是一种“内视现象”（Entoptic Phenomenon）<sup>[7]</sup>，也就是你看到的图像反映了你眼睛内部的结构 。如果你在有风的夜晚观察，或者快速眨眼，你会发现那些星芒在闪烁、跳动。那不是路灯在动，而是风吹动了你的睫毛，或者眨眼改变了泪膜和睫毛的排列组合 。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-40261b1d1794957dfd111689ee7f4a1c_720w.jpg?source=8673f162" alt=""></figure>
-<p>有人可能会问，为什么看日光灯管或大面积光源时这种现象不明显，而看远处的路灯特别明显？</p>
-<p>这涉及光的空间相干性（Spatial Coherence）<sup>[8]</sup><sup>[9]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fde9f19d30c33a9bfd4d51d9a735931b_720w.jpg?source=8673f162" alt=""></figure>
-<p>衍射条纹的清晰度取决于入射光的相干性。远处的路灯对人眼而言近似为点光源，其发出的光波在到达瞳孔时具有较高的空间相干性。这使得来自狭缝上下边缘的波列能够产生高对比度的干涉条纹。相反，大面积光源由无数个互不相干的点源组成，它们产生的衍射图样在视网膜上相互重叠、平均化，导致条纹模糊或消失。</p>
-<p>有时候，你不必眯眼也能看到“星星”，但这是有条件的，那就是距离。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cb0a3705b681d95a9e5ecd4e3b528b60_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果你盯的对象是夜空中的金星或远处极亮的车灯，那么你依然可能看到微弱的星芒，通常是五角星或六角星的形状。这解释了为什么人类几千年来画星星都要画成尖角的，而不是圆点的。</p>
-<p>这锅得由你的晶状体来背。晶状体并非一块完美的玻璃，它是由蛋白质纤维层层包裹生长而成的，结构有点像洋葱。这些纤维在汇聚点会形成“缝线”（Sutures）。在胚胎发育期，这些缝线通常呈“Y”字形（前表面是正 Y，后表面是倒 Y）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-98e5a5439f4d93a66b7c157bed9d9893_720w.jpg?source=8673f162" alt=""></figure>
-<p>这些微米级的 Y 型结构破坏了光学的完美对称性。光线通过时会在这些缝线处发生衍射。根据傅里叶光学，一个 Y 型孔径会产生对应方向的星芒。这就是为什么我们每个人眼中都有自带的“星光滤镜”，而且随着年龄增长，晶状体纤维密度的变化会让这种散射变得更加明显。</p>
-<p>这种光学缺陷并非人类独有。</p>
-<p>哈勃太空望远镜拍出的照片中，明亮的恒星周围总是有十字形的星芒（下图<sup>[10]</sup>）。那不是恒星的喷流，而是望远镜内部支撑副镜的十字支架（Spider Vanes）造成的衍射。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8ea44b940c17e6eaeebc32f7abb232eb_720w.jpg?source=8673f162" alt=""></figure>
-<p>那不是恒星的喷流，而是望远镜内部支撑副镜的十字支架（下图，Spider Vanes）造成的衍射。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d3a4828c4daa9b158ce02a721769cb3e_720w.jpg?source=8673f162" alt=""></figure>
-<p>而最新的詹姆斯·韦伯太空望远镜（JWST），它的星芒则是六角形的（下图<sup>[11]</sup>）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4215f3cd7907b4dc07f9c6bf653c1b6_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是因为它那巨大的主镜是由 18 块六边形镜片拼接而成的，再加上三根支撑杆的衍射效应叠加，最终形成了独特的八角星芒（其中两根重合看起来像六角加小刺）。</p>
-<p>从某种意义上说，你可以看见星芒，其实是在用自己的身体模拟一台生物版的低分辨率哈勃望远镜。</p>
+<p>泻药，但我是学阿拉伯语出身的，不太懂欧洲的情况，我就从中东地区这个角度说说吧，因为内容里面也涉及一些欧洲面食或改良版的内容，因为中东现代饮食鉴于历史的欧洲国家殖民，其实是有很多欧洲元素的，也挺值得说一说的。</p>
+<p><strong>本篇旨在做成类似“中东面食观止”的全面详细的百科和辞典向内容，尝试概括中东地区国别流行的全部种类面食，各位看官只需要看这一篇，就能了解该地区绝大多数，覆盖 99.99%场合的面食。本篇和本人此前回答的内容有些重合，但也有大量修订和新内容，老朋友也可再次阅读，欢迎收藏和批评指正！</strong></p>
+<p>本文很长，希望有兴趣的读者也能有耐心看完，内容除了介绍阿拉伯世界几个国别特色的国民大饼之外，也会讲一讲欧洲风格的面包在中东地区的流行度和生态。</p>
+<p>根据你的问题描述，我想解释一下的是：中东地区的人民大多数情况下吃的是大饼，偶尔也吃面包，但普遍也是没什么味道的，必须搭配一些蘸料或配菜，大多是糊糊、泥状物或是酱类食用，整体来说和欧洲饮食的契合度要比和东方世界大一些。</p>
+<p>很多答主认为：只有无味的主食才能被当作“主食”，不会被吃腻，我觉得有道理，但更重要的可能还是根深蒂固的饮食习惯了——就像东亚人喜欢吃没有味道的白米饭，这是中东人和拉美人绝对不能接受的！他们必须要米饭有些味道才能吃下；就像东亚人吃的馒头和馍馍也是没有味道的，中东人的大饼也没有味道，但互相都是吃不惯的，不过中东人倒是能吃得惯欧洲的硬面包，但也不会经常吃，大多都会本土改良一下——最常见的改良是把面包做得软一些~</p>
+<p>如果从历史传统角度，主食没味道也可能是物资匮乏的一个原因，盐和糖油都很珍贵，也许祖先留下的这种无味主食的长期存在，也构造了一个民族的主食习惯——有个例子能证明：日本的面包大多是甜的，是因为是后产生的食物，没有被寄希望于成为日常的主食，所以可以甜一些；再或者很多人会发现美国人吃欧式传统硬面包的次数要远低于欧洲，反而吃那种调味面包的频率高很多，这也和其较短的历史和历史时期内的文化融合有关系。</p>
+<p>而中东地区的人民吃大饼的历史应该有至少两千多年了，从古埃及、古巴比伦到《圣经》时代出现的面食一般都是无味的，古代也许是因为物质匮乏，当今则可能是一种历史与文化传承，而民族的味蕾早已因千年历史沿革而潜移默化，这也是哪怕中东地区，各个国家的大饼也是各有千秋。</p>
+<p>下面，我就按照国别的方式介绍一下吧，本文的底稿写于 24 年，本回答则为修订与补充后的内容：</p>
+<p><strong>一、中东地区的大饼</strong><strong>1、埃及的大饼</strong></p>
+<p>埃及最重要的食物是大饼，在埃及能吃到的大饼也分成以下几类：埃及大饼（aish baladi）、上埃及大饼（aish Saeedi）、贝都因饼（aish badawi）、叙利亚大饼（aish suri）、伊拉克大饼（aish iraqi）、阿富汗 / 伊朗大饼 / 也门馕（tamiz）、乌兹别克面包（khubz uzbiki）。存在感逐次下降。除此之外，埃及还有很多油酥馅饼（fitirah）、油饼，沙姆特产<em>Manakish</em> 饼也很流行，几乎每个餐厅都能吃到。值得一提的还有，那就是埃及人和阿拉伯人都超级喜欢吃披萨饼或 diy 的本地披萨饼 safihah，这边的披萨饼很喜欢本地化，加了许多埃及人喜欢吃的橄榄、熏牛肉之类，有的则是意式披萨或美式披萨，只要价格不贵，生意都很好。</p>
+<p><strong>1.1 埃及国民大饼 aish</strong></p>
+<p>埃及大饼大概是手掌大小，比较有嚼劲，中间开口，可以在里面夹杂其他食物。埃及大饼被称作“aish baladi”，其中的“aish”意思是“生活”，也是国内有关埃及自媒体老生常谈的陈词滥调了，我不再赘述，“baladi”意思类似“国货”，但未必做到“身土不二”——因为这类大饼的原料小麦几乎都是俄乌进口的。埃及的许多食物都会加“baladi”，比如沙拉，牛肉等，多指代埃及本土风味或埃及本土自产。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-699afc057db9f77247c08697d9ab2bfd_720w.jpg?source=8673f162" alt=""><figcaption>图是网上随便找的，大概是这个样子</figcaption></figure>
+<p>埃及饼的特点是口感劲道，饼上会撒一些褐色的大麦粉、麸皮或类似植物籽的东西，按照政府提供的配方，大概是六成“白面粉”，也就是精面粉，四成“棕色面粉”，也就是全麦粉制作。这些麦渣特别容易洒落，所以吃埃及大饼经常会掉一桌子或裤子的饼渣，<strong>正确的吃法为：拿起饼子不断对折碰撞，将饼渣掸落，然后用手揪下一部分蘸焖蚕豆等当地配菜食用。</strong>埃及大饼直径大致在 10 多厘米，在埃及任何一家餐厅吃都是免费赠送的，在上菜前就会端到你面前让你垫肚子——但我不建议直接吃，因为两点：第一点是这种饼并不好吃（我出国前对之寄予厚望，现在看到就反胃），又冷又硬，除非你运气爆棚能吃到新出炉的饼，那就很好吃了；第二点是大饼可以无限续，而且非常占肚子，吃了这个后面就没有食欲了。一般来说，大饼都是最后吃的，比如主菜没吃饱靠这个填饱肚子。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5d0e182ec228f3359fb506e2ecc622f7_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b23b93b09a7f0cdabac51422117f9a51_720w.jpg?source=8673f162" alt=""></figure>
+<p>埃及大饼在埃及非常便宜，大概 1 块钱甚至几分钱就能买一大袋子，是埃及各个阶级每日三餐都会吃的东西，上到塞西总统，下到街头捡垃圾的老大爷，都是靠饼子生活的。大饼也是埃及数目庞大的乞丐能够维生的仰仗，因为几乎不要钱。许多乞丐基本全靠大饼过日子，吃饭的话基本上只吃大饼，或是几个人凑点钱买一份埃及国民菜焖蚕豆 ful（一碟差不多人民币一块多点），蘸着把大饼吃下肚。如我所见，我之前住在新开罗，会发现小区的物业保安常常提着一大袋子大饼，配着一个塑料袋打包的焖蚕豆和埃及的泡菜（和韩国泡菜完全两回事，是酸咸的）就是一顿饭，这样吃的话每个人的消费也不过是几毛钱。如果人在埃及，去饭店浪费了大饼无须担心，因为这些被拆包或吃一半的饼会给乞丐吃，或者投入食物银行，没有必要为了避免浪费强行吃掉，因为有的服务员看到你吃完了会再上一盘，那就可谓苦如黄莲了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9a3bdb4e2b44ceb79d392dd47069edbd_720w.jpg?source=8673f162" alt=""></figure>
+<p>这就是埃及大饼的绝配和情侣焖蚕豆 Ful，由焖制数个小时直到焖碎的蚕豆 + 一些番茄（和蚕豆一起焖碎）+tahina 芝麻酱 + 菜籽油制成，吃的时候可以自行加一些辣椒面和盐和姜黄粉调味，是埃及最国民的菜了，也是埃及人民 90%以上概率一顿吃的食物，更是最经济实惠的菜了，其垄断性的饮食地位，在我国找不到任何一道家常菜能媲美，大概是类似西红柿炒蛋之类的所有家常菜加起来的地位。</p>
+<p>埃及人最常吃的显然就是这类本地的大饼，他们有的人会在家自己做饼，但多数人多数情况下更愿意去外面的饼店买现成的。埃及这边的饼店星罗棋布，每个小区旁边都会有几家，这种烤饼的地方有自动化的揉面机和烤炉，里面使用的面粉不会特别好，而且是大概 50kg 的袋子。这种埃及饼子一般不会涨价，价格很稳定，属于政府管控的基础食品，同样其配方也是政府干预的：即各种质量的面粉有特定的配比，一般来说都是全麦饼，饼上会加一些碎麦麸。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-26f9b5712c574fe90e7adbdcd419d4e2_720w.jpg?source=8673f162" alt=""><figcaption>这是烤饼的炉子，也是网上的图，大致如此</figcaption></figure>
+<p>除此之外，超市也有各种打包的大饼出售，大多是工厂流水线产品，味道很寡淡，普遍是冷的，最好加热一下，价格要比街上或者小区现烤的大饼贵一些。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d2a279038c7847a27edb548a128ad508_720w.jpg?source=8673f162" alt=""><figcaption>大概是这样的，几乎没有什么味道</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a0b4d3dbf79b2e5e3951eef03371e9af_720w.jpg?source=8673f162" alt=""></figure>
+<p>有些高级饭店会自己做饼，通常使用纯小麦制作的精面粉，也会加些糖和盐调味，再撒点黑芝麻等等，味道有点淡淡的甜味和浓郁的麦香，一般都是刚出炉就上桌，也是这些饭店招徕顾客的方法：我们用的大饼和外面的粗糙的大饼不是一个东西，而且同样免费管够！高级饭店除了卷菜品，也会卷主食，这就是个例子。</p>
+<p>这种埃及大饼对于国人来说不太容易接受，可能偶尔吃两次还好，但每天都吃真可谓是一种酷刑。埃及人一日三餐都会吃这种大饼，无论是白天配着焖蚕豆和泡菜，还是晚上配着烤鸡烤肉或是炖菜都是如此，甚至点一份肉配米饭的套餐，也可能需要吃两个大饼营造仪式感或垫肚子。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a633364f7bae957ba0768989a8423d80_720w.jpg?source=8673f162" alt=""></figure>
+<p>在埃及，没有比大饼和 tahina 芝麻酱更好的烤肉伴侣了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b02265bc3b70be60d5e24583e980dad8_720w.jpg?source=8673f162" alt=""></figure>
+<p>尼罗河下游的一些地区，也有些地域特色的饼子，比如此图是达米埃特风格的埃及饼，用纯精白面，口感比较细腻。</p>
+<p>因篇幅有限，对埃及主食有兴趣的可以跳转此文了解更多详情：</p>
+<p><a class="internal" href="https://zhuanlan.zhihu.com/p/1888708545312191433">埃及的国民饭“焖蚕豆”及大众早餐的介绍</a></p>
+<p><strong><strong>1.2、上埃及与埃及南方地区流行的地方大饼“太阳饼”Aish Shamsi</strong></strong></p>
+<p>埃及南方地区的人民——也就是开罗以南从艾布·苏韦夫和法尤姆开始一直到阿斯旺一带的上埃及地区传统的面食了，其流行度自南向北逐次递减，在阿斯旺出现的几率较高。</p>
+<p>其实严格来说，这种“太阳饼”才是埃及大饼的正统，是传统食物，历史可以追溯至法老时代。这种饼子是埃及南方特色饮食的象征，更是古埃及文化的一大遗产，上埃及的穆斯林和科普特人都常吃这种饼子，但随着时代变迁，我们能看到的是楼上的国民大饼在城市完全取代了前者，因为楼上的大饼制作更方便，味道相对好一点，“太阳饼”如今大多被城市人民视为一种“怀旧”的象征，只有在上埃及的一些小城镇和村子里不难找到专门制作此类饼子的作坊。</p>
+<p>如今，即便在埃及南方的饭店，默认赠送的也是楼上的大饼，除非你执意要求“太阳饼”，否则很少会主动提供——在阿斯旺的一些努比亚餐厅倒是还好，默认提供的可能是特色的“太阳饼”，很多游客会误认为这是西方风格的面包，其实是一种埃及特色的饼子了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a5e1be8a5169036088292d29e4ab1917_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种饼子，顾名思义需要借助太阳光制作，首先需要用酵母和水和面，然后捏饼，放到石头上再阳光下暴晒发酵，然后烤制。“太阳饼”一般使用全麦粉，口感比较酸，类似国内放得久一些干掉的发糕。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-47bd1a0c45163d8f27b1feec78d385a7_720w.jpg?source=8673f162" alt=""></figure>
+<p>成品比较厚重，一般都是切块分食。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e82e876e596ce659f2638ee7c51df77b_720w.jpg?source=8673f162" alt=""></figure>
+<p>如图所示，面团需要放在石头上暴晒发酵，然后在饼体画一个圈，在上面写数字 11，这是拉神的象征，也是当今埃及留存的古埃及文化遗产特色。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-99dd6b9b4c30e82ec692caa7d717f03b_720w.jpg?source=8673f162" alt=""></figure>
+<p>上埃及的农村地区仍然以此类饼子为主食，但城区大概是埃及国民大饼多一些，农村很多家庭还保留着传统的“太阳饼”的制法。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8005728d91108b7d7340efd452325f81_720w.jpg?source=8673f162" alt=""></figure>
+<p>可以看到做饼的妇女都没有穿鞋——穆斯林群体和我国的一些观念不太一样的是，他们认为光脚更为清洁，做饭也是如此，不能穿鞋做饭，所以能看到很多巴基斯坦和中东地区的厨房和饼坊，厨师都没有穿鞋，是很正常不过的。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-391eb24d9d2e3a38cde9484ff9936594_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，“太阳饼”需要烤制，用的也是此图类型的泥炉 tandor，外观和名字源自中亚，但也许古埃及已有此类炉具。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-09557877fb8ddd7829db849005d98427_720w.jpg?source=8673f162" alt=""></figure>
+<p>餐厅一般是这样提供的，外壳很硬，里面酸酸的，有些韧性。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c4572bca1a1d1318e8921f3d18d55a14_720w.jpg?source=8673f162" alt=""></figure>
+<p>南方的一些餐厅有时候也会两种饼子一起端上来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-857dbe51226a2f3544ad4aea36ff1044_720w.jpg?source=8673f162" alt=""></figure>
+<p>“太阳饼”最好的搭配就是炖菜了，此图是典型的努比亚餐，都是当地努比亚农民亲自种的蔬菜和自养的动物和自制的面包，这些加起来差不多是人民币 30 多块钱，除了鸡腿和饮料，都是免费赠送的。</p>
+<p><strong>2、叙利亚饼：李逵和李鬼</strong></p>
+<p>然后再说说叙利亚饼（aish suri/shami），叙利亚大饼广义而言只有一种就是 saj 大饼，又薄又有韧性，这种一般在阿拉伯国家会用来做肉卷沙威玛 shawarma，或者在沙姆地区，是搭配蘸碟比如胡姆斯酱的主食。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1cfcb2d42938e096f7da06f605854ec7_720w.jpg?source=8673f162" alt=""></figure>
+<p>这就是叙利亚大饼 saj，祖先据说来自亚美尼亚或土耳其，是奥斯曼帝国传过来的，用平底铁锅煎制，是沙威玛最正宗的饼坯。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a1a6017997ab21bb3d462cbc5647443a_720w.jpg?source=8673f162" alt=""><figcaption>这是 aish suri，意为“叙利亚大饼”，也就是肉卷（shawarma）最受欢迎的饼坯</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-144af2644b2b0264ceb80dc97098faad_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种叙利亚大饼一般直径比较大，可能有三四十公分，在叙利亚也是靠政府补贴的国民最重要的食物，公民靠大饼票子低价购买。这种大饼不会像埃及大饼一样掺粗面粉，全部都是精细面粉制成，制作者一般都是政府管控下的饼坊，遵循特定的制作标准。</p>
+<p>叙利亚大饼除了沙姆地区，在中东其他地区不算普遍，但叙利亚风格的卷饼沙威玛在阿拉伯世界非常流行，基本有几种吃法：1.烤牛肉卷（lahm 一般会把芝麻酱卷进去，外加烤过的西红柿）2.烤鸡肉卷（埃及这边只有烤鸡肉片，没有蔬菜，沙姆地区可能加些酸黄瓜，都不加西红柿，必加大蒜酱）3.肉丸卷（kofta，比较小众，夹一种肉泥捏制的烤肉块）4.鸡 / 羊肉块卷（shish tawooq 是鸡肉的，shoqaf 是羊瘦肉烤肉）5.土豆卷（里面夹薯条，外加大蒜酱和一些卷心菜洋葱等等）6.鹰嘴豆丸子 / 泥卷 7.鸡蛋卷（里面夹煎鸡蛋或煮鸡蛋），后三种主要是早餐吃。上述是任何打着叙利亚快餐旗号餐厅能做的款式，此外还有香肠沙威玛（Sujuk）。这种卷饼按照 24 年初埃及的价格，大份足够一人吃饱的牛肉的是 12-15 元一个，鸡肉是 8-10 元一个，素的卷饼大概是 3-4 块一个，如果在约旦地区价格翻倍或三倍，如果在海湾地区大概价格是三到四倍，一般都是大致是 20 多厘米的长度，足够一个成年男子吃到八分饱了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ab511b8eeb55c9f3b5a02d918a105871_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是鸡肉沙威玛，据我观察比红肉沙威玛更欢迎，有时候也会把炸土豆条卷进去，口感焦香，有点点干。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-90397f1307086c4bbe22f54465412366_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是牛肉 / 羊肉沙威玛，一般约旦和黎巴嫩地区羊肉的沙威玛比较流行，价格不一定比鸡肉的贵，因为里面的肉量通常比鸡肉少，蔬菜较多，一般加了酸甜味的紫色醋泡洋葱、西红柿、玉米粒、卷心菜等配菜，红肉的油香更足，汁水感更强，有酸甜咸和油香的复合味道。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e30924b20c60eb2047be99e7755627cc_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有香肠沙威玛，比前面两种出场率低一点，一般是黎巴嫩风格，是香肠去掉肠衣的肉团堆叠而成，特点是红彤彤的，在黎巴嫩饭店容易找到。</p>
+<p>此外，埃及还有一种李鬼叙利亚饼叫“沙姆饼”（aish shami），在埃及一般楼上的大饼叫叙利亚饼（aish suri），这种小号的白面饼叫沙姆饼。这种饼子其实在叙利亚和沙姆地区很少见，原型可能是约旦地区大一点的白面大饼，埃及这边尺寸小了点。</p>
+<p>这种白面饼一般直径在 10 公分左右，纯白面制成，有的比较厚，类似发面饼，有的比较薄，大概是一张干豆腐的样子，也是中心开口的，可以和 pita 饼类比一下。这种饼子口感比埃及大饼好些，能挂住更多配菜的汤汁，当然价格也贵一些，不会像埃及大饼一样近乎白送。这种饼子一般都是用来夹三明治，或者在一些叙利亚餐厅成为免费赠送的主食。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fa0aeee5898808e90ebe6f24547336b6_720w.jpg?source=8673f162" alt=""></figure>
+<p>外观大概是这样的，亚历山大的一些早餐店也会用这种饼子而不是埃及饼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b139e1ee15676e471f5d4f998ea77063_720w.jpg?source=8673f162" alt=""></figure>
+<p>超市也有卖现成的，一般价格会贵一点，胜在材质好些。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6c6843a065f2260390ab76066dbb930a_720w.jpg?source=8673f162" alt=""><figcaption>这是埃及的叙利亚风格的素三明治</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0fa6665bae35517311990107aa253143_720w.jpg?source=8673f162" alt=""><figcaption>这是埃及原版风格的素三明治</figcaption></figure>
+<p>埃及人同样喜欢在早餐吃这种伪叙利亚三明治，基本是吃素的，其实荤的也能供应，但因为肉三明治确实贵，条件好一点的人无非是吃个带鸡蛋的（叙利亚的三明治喜欢用煎蛋，埃及的直接煮鸡蛋捣碎），其中埃及火遍全国的连锁三明治店叫做 Gad，去埃及各个城市都能看到这家，但开罗解放广场的总店最受欢迎，每次去吃都要排队。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1abc5a79142f678a383bc46dc4230d27_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>3、埃及的假法棍（aish faransawy/fino）</strong></p>
+<p>埃及日常饮食中，法棍也算是比较常见的。但埃及的法棍有别于法国和其他北非国家的比较硬的法棍，埃及的法棍通常非常软嫩，但比较硬质的法棍在家乐福也可以买得到。埃及的法棍通常长度在 10-20cm，纯白面制成，和面加了糖甚至有时会加牛奶，吃起来很绵软，属于精致碳水了，价格也比前面几种饼要贵一些。这种法棍常见于小吃摊和卷饼店，如上文所及的 shawarma，除去选择传统的阿拉伯饼，也可以选择法棍，且选择法棍的人不算少，法棍夹肉是很受欢迎的吃法。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f2be2849b6228695c8ce34f9361dddf8_720w.jpg?source=8673f162" alt=""><figcaption>生坯是这样的，价格比埃及饼和叙利亚饼略贵一点，通常是包装出售</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9274cca10987e9da130f14442a99df98_720w.jpg?source=8673f162" alt=""></figure>
+<p>fino 在埃及最常见的搭配是夹牛肝，成为埃及人最常接触的荤食快餐牛肝三明治，一个价格很便宜，大概是一块五的样子，是最亲民的肉食了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-967cdda0a421dc387146c53749873525_720w.jpg?source=8673f162" alt=""></figure>
+<p>其实埃及这边的饭店，点沙威玛和三明治，饼子和面食是可以自选 diy 的，也可以选择 fino 作为夹肉的面包。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8b7146f73cdd286c43b21474937ea2c1_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>4、中东特色小汉堡 kaysr</strong></p>
+<p>这个 kaysr 就是 kaiser，也就是凯撒的同义词，在中东这边专指一种比美式汉堡包小一号的小汉堡坯，表面很滑，口感松软，有点甜，一般用来做沙威玛小汉堡。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9af969d93bd6e6fc8e1cdb7cf7f12e8e_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种沙威玛小汉堡几乎没有单点，都是这种套餐形式。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b22d3eb1c182b25abb2bd2cfabcf8d0d_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>5.伊拉克饼</strong></p>
+<p>伊拉克大饼在中东地区不算主流，但有些卖饼的面食店会有，主要出现在伊拉克餐厅。这种饼一般较大，可能直径会有 40-50cm，一般在小区的饼店有卖，在饭店较少。这种大饼私以为是生服味道最好的，所以能看到一些人自带这种大饼去饭店点菜的。这种饼在非伊拉克的阿拉伯国家受众都不算大，但是很有特色，一般在饼店都是冷饼，很少能吃到新出炉的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0cfeacd2d4f0db1adacce76f2bcd2ce_720w.jpg?source=8673f162" alt=""><figcaption>大概是这样的大饼，一般端上桌的时候可能会给你裁开，也有可能没有剪裁，以供手撕食之</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1dba355f6f3f825c7b27a1b94fabf502_720w.jpg?source=8673f162" alt=""></figure>
+<p>伊拉克大饼一般没有味道，有些韧性，比较劲道，能挂住很多汤汁。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0994b20c9b51a8506bd9286c7b1a81c1_720w.jpg?source=8673f162" alt=""></figure>
+<p>伊拉克大饼的绝配是伊拉克烤鱼 maskuf，要用刀叉把鱼肉从鱼体剔除，然后不断捣碎去掉鱼刺，在鱼肉里加柠檬汁，用大饼夹之服用。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0438c3337f1d5ccc9dde4b480f8f7abc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f8aeb71842922398547cd5106aab9903_720w.jpg?source=8673f162" alt=""></figure>
+<p>伊拉克地区还有一种船型饼，如图所示，叫 samoon。这种饼子比较厚，口感其实更类似面包了，有点粗糙。</p>
+<p><strong>6、也门馕 tameez</strong></p>
+<p>这种馕的祖先其实是伊朗 / 阿富汗大饼，在也门餐厅会出现，一般叫做“tamiz”，其实类似我国新疆地区或中亚地区的馕饼，此类大饼在小区的大饼店会有，但存在感不强。在埃及这种饼会分成干饼，类似新疆的干馕、或不太干的大饼，类似伊朗吃的那种、以及添加奶酪等配料的饼。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e874ce381255e023f21708cf2d7a7036_720w.jpg?source=8673f162" alt=""><figcaption>大概是这样的，吃起来和新疆的馕区别不大，一张直径 30cm 以上，饭店单点大概是 3-5 元一张</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fb0c942aa6b06644302124945cac354c_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种馕饼在海湾国家和也门比较流行，在其他中东国家相对猎奇。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b488b9726f0d642c975ce71b4bddad3c_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong><strong>7.摩洛哥和阿尔及利亚饼，北非的法棍</strong></strong></p>
+<p>摩洛哥饼：这种饼只能在摩洛哥餐厅吃到，口感比较硬，很噎人，我不是很喜欢吃。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b64dff7efea995d506e72604914caf5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-873f4d7d52dab839a3f7002667b89cec_720w.jpg?source=8673f162" alt=""></figure>
+<p>口感类似死面饼或者我国西部地区的馍馍和“杠子头”，没有任何味道，有点粗糙。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6130e8f9311c8f5dadb3309bd98fc4be_720w.jpg?source=8673f162" alt=""></figure>
+<p>外皮比较硬，内部比较糙。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e203c58c9754b69c7757906971bb0cde_720w.jpg?source=8673f162" alt=""><figcaption>但这种摩洛哥小饼（matbut）很好吃，可惜只能在摩洛哥餐厅吃到</figcaption></figure>
+<p>但也有些外观精细的小饼，比如如图所示的 matbut 饼，但口感也比较粗糙。</p>
+<p>阿尔及利亚饼比较流行的国民饼是 matlou，是一种粗面粉制成的柏柏尔特色饼子，外观类似年轮，一般用北非特色塔吉锅煎成。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5ecd67192b8fbd1057e2c4181b023166_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1aa2a277dda4ff4c3829726e341b8681_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-29d42d9d4315e7812ccd915ce39f0322_720w.jpg?source=8673f162" alt=""></figure>
+<p>阿尔及利亚饼外观类似我国的大祺烧饼，口感差别较大，有点粗糙。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-99ef6d95091773a58a5aa05b9e7746fd_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过北非马格里布地区，鉴于其曾受法国长期殖民统治，法棍早已根深蒂固于国民的日常了，上述的民族面包可能总体出场率和地位是不如楼下的这种法棍的。</p>
+<p>北非的法棍比较硬，接近法国的做法，和埃及的那种甜软假法棍 fino 完全不是一种东西。这种法棍在摩洛哥、突尼斯、阿尔及利亚、利比亚都是日常的主食，是老百姓每天——或者保守点三两天肯定会吃一次的食物。北非这边的法棍也常以三明治的性质被食用，就不找图了，反正类似越南法棍三明治的样子，卷烤肉和蔬菜而已。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f4409c936854dc63cc70d5b610048f0d_720w.jpg?source=8673f162" alt=""></figure>
+<p>北非地区的法棍的绝配是浓稠的汤，比如摩洛哥国菜之一的“哈里拉汤”（al-ḥarīra），或是“利比亚汤”，北非风格的汤配料一般不超过这个范畴，主要有：番茄膏、肉丁、鹰嘴豆、洋葱、香料、姜黄粉、红椒粉、橄榄油、欧芹碎、干薄荷、米粒面（Orzo）等——其中后二者是北非汤的一大特色配料。</p>
+<p><strong>8.苏丹饼</strong></p>
+<p>苏丹饼口感和埃及饼有所不同，在苏丹餐厅可以吃得到，很有嚼劲，外壳比较硬，很筋道，我觉得很好吃，一般配着苏丹豆泥吃（苏丹的豆泥和埃及不同，豆子不会煮得特别碎，且会在豆泥上撒一些白奶酪）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8e7847f8cc9d59d1c323fa64d7213c28_720w.jpg?source=8673f162" alt=""><figcaption>这是苏丹饼</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-940b044631bbb6c4c481b7856c31db60_720w.jpg?source=8673f162" alt=""></figure>
+<p>苏丹饼外观类似我国的烧饼或酥饼，其实口感略接近于火烧或烧饼，比较劲道，有一点点韧性。</p>
+<p>还有一种值得一提的苏丹面食叫 kisrah，味道类似埃塞俄比亚的英吉拉，吃起来很软嫩，有一股酸味，通常和苏丹特色的炖菜和汤汁一起吃，适合用手吃而不是用餐具。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e919babb8aa5b5a4d76e61e5bcc963b6_720w.jpg?source=8673f162" alt=""><figcaption>大概是这样的，开罗的一些苏丹餐厅可以吃到</figcaption></figure>
+<p><strong>9.一些中东馅饼</strong></p>
+<p>中东地区也有些带馅的主食，比如埃及的馅饼“Fitirah”和“Ruqaq”，和一种沙姆特色的带馅料的饼“manakesh”、或者类似披萨饼的“safihah”，再或者是欧式的披萨饼（披萨在埃及很受欢迎，价格很便宜），上述这些面食也是埃及人常吃的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-807caa49c9ef60e8490be94c23a8c8fe_720w.jpg?source=8673f162" alt=""><figcaption>这是 safihah，大概是一张大饼上铺满各种菜，但和比萨的饼坯和调味不太一样</figcaption></figure>
+<p>这是沙姆特色的改良披萨饼 safihah，意为“碟子”，即大面饼上面加一些肉馅和蔬菜。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-140e486b7bb2440667f1d7788af75dcb_720w.jpg?source=8673f162" alt=""></figure>
+<p>肉和碳水也可以堆叠搭配，如此图是巴勒斯坦的国菜 musakhkhan，下面的是当地特色的 taboun 饼，鸡肉汤将之泡软。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-643928b18fc806437e6e23afdfbda3bc_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是 taboun，是巴勒斯坦的一种特色坑烤饼子。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-27be15a55a3f3b7143e974cfaa78efec_720w.jpg?source=8673f162" alt=""></figure>
+<p>沙姆地区也有一种特色肉馅饼，叫 arayees。</p>
+<p>埃及这边有一种特色的油酥馅饼叫 fitirah，是一种尼罗河中下游农家特色的面食，需要在饼子上涂满满一层酥油和黄油，然后烤制，农家的版本会很大，城市版本一般长度在 30-50 厘米之间。这种油酥饼在超市有饼坯卖，除了可以直接吃，还可以填充肉馅奶酪等物做成埃及著名点心 gulash。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-be1040c40233129c5d6de60239f625f7_720w.jpg?source=8673f162" alt=""><figcaption>这是 fatirah，特点是比较油，有酥皮，里面可以有馅料，以奶酪、菠菜为主</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-73c35befb34e5fc8c51ded92591a9644_720w.jpg?source=8673f162" alt=""></figure>
+<p>fitirah 也是埃及人的心头爱，是斋月必备的食品，绝配是蜂蜜和奶油，或者搭配果酱，一般不搭配咸味的蘸碟。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cedef70b3c123415a0347075ba8d76a2_720w.jpg?source=8673f162" alt=""></figure>
+<p>fitirah 有个进阶版的食物叫 gulash，也是埃及人的心头爱，是斋月的家常菜，热量很高，需要在 fitirah 饼坯内填充奶酪和肉馅，再烤制一次。这道菜在饭店不太好见到，不过尼罗河的游艇比如法老号的自助餐，还是能吃到的。这道菜一般在家庭出场率较高。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9f1b7e49138d0119e0bd16733e15887f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6217165fe43bae270dced565a738b407_720w.jpg?source=8673f162" alt=""></figure>
+<p>埃及下游尼罗河三角洲还有一种农家馅饼 ruqaq，表面的面坯涂抹过酥油，还需要油炸一下，里面是加了油炒熟的牛肉馅，比较油腻，但是很香，以至于吃完了一张盘底都是凝固的牛油。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6cdd7cad52ff2d753c0b720329137d1e_720w.jpg?source=8673f162" alt=""><figcaption>这是 manakesh，黑色的是百里香，我个人吃不惯</figcaption></figure>
+<p>沙姆地区的头号带馅面食是 manakeesh，最经典的馅料是百里香 zaatar 和番茄肉。</p>
+<p>然后，还有一个值得一提的面食，是埃及特色，叫 hawawshi，类似国内的牛肉馅饼。这种食物起源于上世纪七八十年代，是一个名叫 hawawsh 的屠夫发明的，做法很简单，就是把埃及饼切口，在里面填满牛肉馅，然后在饼表面涂油烤制 20 分钟左右。hawawshi 比较油腻，很多开罗的名店都以使用的牛肉肥腻而受欢迎（比如解放广场的 shalaby），但也有一些名店会用瘦肉，会在肉馅里加一些蔬菜（比如 rifai）。实际上，很多肉铺也做卖这种馅饼的生意，你能看到旁边挂着的牛肉，不一会就成了肉馅，进了馅饼的肚子里。这种肉馅饼比较油腻，一般配芝麻酱吃。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fdf6a0a5bc70efdf48978e9244b53086_720w.jpg?source=8673f162" alt=""><figcaption>这是烤制时的样子</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-955a817d90601d5526bc465dad725424_720w.jpg?source=8673f162" alt=""><figcaption>这是烤熟了的样子，一般会给切开</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5c78d6d98004f5a5f97ae0186582de7d_720w.jpg?source=8673f162" alt=""></figure>
+<p>亚历山大的牛肉馅饼不太一样，饼坯类似国内的烤包子，一个直径十多公分的只要人民币四五块钱。</p>
+<p>篇幅有限，埃及牛肉馅饼的详情可以看这一篇：<a class="internal" href="https://zhuanlan.zhihu.com/p/1919316580308845816/preview?comment=0&catalog=0">记埃及的牛肉馅饼：“哈瓦乌希”Hawawshi 肉馅饼</a></p>
+<p><strong>10.中东地区饼类主食的消费生态</strong></p>
+<p>埃及的面食消费点，大多是下图所示的饼坊，欧洲比较现代化、干净整洁、装修雅致的面包房极少。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-547204acac8fad477091b1fc29fc958f_720w.jpg?source=8673f162" alt=""></figure>
+<p>饼坊一般是这样的，除了提供最经典的埃及大饼（Aish baladi）外，也会制作一些埃及的油酥饼（Fitirah）或是叙利亚饼等种类。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8091ebdd3502cfd2d20f322ccc6d5cab_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，也有一些少数族裔或难民会开本国风格的饼店，供本国侨民食用，如此图是在开罗吉萨区的 al-Haram 大街，此处叙利亚和苏丹难民很多，这是一家苏丹饼店。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0903816cf0c72895e5740bfe5a4b3dee_720w.jpg?source=8673f162" alt=""></figure>
+<p>也有些卖西方特色本地化面食的面包房，但大多装修比较接地气。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-539e69677984686d094bbdf29d731fec_720w.jpg?source=8673f162" alt=""></figure>
+<p>新鲜烤制的大饼是很好吃的，麦香味十足，这是一种叙利亚的白面饼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4840d0bab66c042d56d6d253868b6057_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种就是埃及的大饼了，烤熟了会鼓起来，中心开口，可以做夹心三明治。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0b94e9db1a749723148b83111d66a5a3_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种选料普通、制作粗糙的，才是真正名副其实的埃及大众主食。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3c38c60063b858d7a8ceb27358d2417e_720w.jpg?source=8673f162" alt=""></figure>
+<p>埃及的大饼都会用这种架子铺开摆放在光天化日之下，吸收各种粉尘与杂质，但没有人在乎。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cd59f6398296151c92d252bf687bdb47_720w.jpg?source=8673f162" alt=""></figure>
+<p>这些大饼在烈日暴晒下会变干瘪，以至于贫民都未必愿意吃掉，最终的归宿可能是喂牲口或是被流浪狗吃掉。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2302643130fa162cc1aa33e2c56027c9_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种发霉干瘪的饼子，怕是乞丐也不会过问，因为他们不难找到充饥的新鲜饼子——毕竟在开罗也许什么都缺，缺钱、缺肉、缺油、缺房子，最不缺的就是大饼了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-32d74ba063a1c9ba4469f55e9a111368_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，埃及也是有很多袋装的饼子的，这种一般都是纯白面制作，主要是中产阶级食用，比如这张图的饼子是黎巴嫩风格，叫“雪松饼”（Khubz al-Araz）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-16d755e29a4f4e025f99b31c8c7acd74_720w.jpg?source=8673f162" alt=""></figure>
+<p>小卖店（Kushk）也会出售一些袋装的面包，这些面包的口感也好过大众的低价大饼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bcf1679bd2ba9a552d7c4bcc9bc7e855_720w.jpg?source=8673f162" alt=""></figure>
+<p>在新开罗的富人区，也会有世界各地风格的饼子，或是魔改的本地大饼，如图所示的是：坚果碎埃及大饼、燕麦片大饼、印度馕等等。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7a626a6d5395b3e85447bd916d543049_720w.jpg?source=8673f162" alt=""></figure>
+<p>值得一提的是，鉴于现在在埃及生活的外国人越来越多，许多外来饼子也很受欢迎，比如此图是几个乌兹别克斯坦人经营的烤肉店 + 饼坊，但似乎后者销量更好，埃及人还是很喜欢吃这种乌兹别克馕的。</p>
+<p><strong>11、也门和海湾地区的主食大饼</strong></p>
+<p><strong>11.1 .也门大饼 Mulawah/Rushush</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-737f30a0f8c0aa2f9680f1ba265fb855_720w.jpg?source=8673f162" alt=""></figure>
+<p>Mulawah（也被叫做“Rushush”）是也门的国饼，意为“被平坦铺开的”，是一张直径 30-40cm 的大饼，比较酥脆，需要用到酥油制作。Mulawah 顾名思义，做法类似印度飞饼，厨师用手在半空将面团不断铺开，然后在饼的表面涂抹酥油和黑芝麻，然后进行烤制。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-642b93284b5442ccec4471ea212375b0_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b3cc12fef3c93f7a5fa78a4345106a1_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种大饼口感酥脆，烤制成功的成品满满都是酥皮，需要搭配蜂蜜和奶油食用，也可搭配炖锅。</p>
+<p><strong>11.2 .也门湿饼（Khubz al-Rutab）</strong></p>
+<p>这种饼顾名思义，比较湿润松软，和 Mulawah 这种干硬酥脆的饼口感是完全不一样的。这种饼的口感类似我国的一些饼，但更油一点。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c3f5da255a8035cdc722604380d82e05_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种饼的做法和前者类似，需要加大量酥油，主要用平底锅煎制（传统做法还是用烤箱），然后在做熟的饼上加一些芝麻粒，一般与蜂蜜或炖锅搭配食用。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b53937c24c840b29b7503fadc1dbefd5_720w.jpg?source=8673f162" alt=""></figure>
+<p>煎成的 Rutab 大概是这样的形状，但一般都会将之捣碎然后再食用。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6f37cfe397fbde3c9297d436e4b0296_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是 Rutab 的成品，味道介于国内的油饼和春饼之间。</p>
+<p><strong>11.3 .也门馕（Tameez/Tamees）</strong></p>
+<p>Tameez 在阿拉伯语指的就是中亚地区的馕，有别于中东地区的大饼，特指那些比较干硬的中亚馕。这种 Tameez 在阿拉伯国家通常有时被叫做“阿富汗大饼”，很多都是中亚餐厅 / 面包坊出售，比较多见的是乌兹别克人或阿富汗人或印巴人经营的，价格要比阿拉伯大饼贵一些，毕竟前者是几乎免费的存在。</p>
+<p>Tameez 在阿拉伯国家本地的特色菜中很少出现，但在也门和海湾地区算是一个特色，在也门餐厅也是可以吃到的。</p>
+<p>这种也门馕无论从外观还是味道上和中亚地区或我国新疆地区的无甚区别。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aca2f7b0ef05f394a3063df401391edf_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果说也门的馕饼有什么特色呢，说来牵强，可能也就是他们有时喜欢在烤馕的时候加一些酥油，并且在烤熟后再表面再涂一层。</p>
+<p><strong>11.4 .也门的“英吉拉”——拉胡赫饼（Lahuh）</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ee56f528f3d9c64298e614a621ca8dd9_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种饼其实就是埃塞俄比亚主食英吉拉和苏丹的 kisrah 的一种也门版本。这种饼在赤道地区，如索马里、埃塞俄比亚等地通常用苔麸制作，在苏丹和海湾地区可能用全麦粉、小麦粉或玉米粉制作，特点是孔洞很多，吃起来比较湿润，有一点酸甜味。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0561d636bc32638e95f4d21f9b692301_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种饼的酸味来自于长时间的发酵，可能在制作前需要将面团发酵整整一天。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ea2e5597e455b159aeaa23144d500aae_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-db327fdab4155f14c802d05fbe0dafaa_720w.jpg?source=8673f162" alt=""></figure>
+<p>也门当地的传统做法大概是这样的，主要靠炉火低温慢烤，直到上面的面浆成为固体。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a361867443441b5da76b4cb59ba107bb_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-971a7db446203fe6b580afdb24cf361a_720w.jpg?source=8673f162" alt=""></figure>
+<p>也门餐厅一般都有卖这种饼。</p>
+<p>这种饼通常搭配牛奶食用，是也门斋月的一道菜，比较好消化。 此外，这种饼在斋月的时候通常会被再加工，成为一道宴席的大菜，</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d202367cafc926d4ab1d356012255f8b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0a010ea01ea1f241115134cfc02f46a2_720w.jpg?source=8673f162" alt=""></figure>
+<p>也门当地的特色菜之一，就是将这种饼撕碎成块，加入到牛奶 / 酸奶里做成阿拉伯地区各国家喻户晓的 Fettah（饼块泡汤 / 牛奶），然后在表面加上干薄荷、西红柿丁、青椒丁、辣椒粉、孜然粉、香菜欧芹末等等。</p>
+<p><strong>11.5 .也门麦粥 Asidah</strong></p>
+<p>Asidah 是一种大麦或小麦揉成的团子，在阿拉伯语的意思就是“粥”，做法类似国内的粥，即在水中加入麦粉，但不同的是 Asidah 的水比较少，成品外观类似土豆泥，需要不断地搅拌，然后用手捏成中间空心的团子，在上面洒酥油就可以吃了。这种 Asidah 在国内的阿拉伯语科班教材被翻译成“粥”，但和国内的粥外观上区别很大。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-adf041d91391bda263e21426b593ff2f_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是 Asidah 的成品，这个单词的阿拉伯语词根“asada”，就是“扭转”、“拧压”的意思，也基本符合其制作方法，即煮好的面团要用手不断揉搓，用手指不停地在揉成圆形的面团上画圈，直到在中部形成一个窝眼，然后将汤汁注入其中。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-de3901cbeaaca4e417ccd6d368be7ccf_720w.jpg?source=8673f162" alt=""></figure>
+<p>Asidah 的吃法即是：将肉汤倒入窝眼，并在盘子四周洒上一些汤汁，用手揪团搭配汤汁食用，肉（如果是肉汤的话，煮熟的肉单独捞出）则与肉汤分离单独取食；或在窝眼倒入一些其他甜味的浇汁，如蜂蜜、奶油等等也是可以的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2419c8fe6ddb0b74aed0551bff3cf8fa_720w.jpg?source=8673f162" alt=""></figure>
+<p>揉好的团子是这样的，这道菜的面团可以是棕色的，也可以是白色的，前者用全麦粉，后者用白面粉，也有一些是黄色的，那就是用了玉米粉，这种在苏丹多一些。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd052940ed3a4a1553669f908ca01bc7_720w.jpg?source=8673f162" alt=""></figure>
+<p>浇汁之后的成品是这样的。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-162bdbd998723b72dfc271a9d4d9f764_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然 Asidah 未必都是荤食，因为这本就是一道主食，主要用作早餐食用，热量较高，适合满足一天的体能需求。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d08d3527535252cb894381095ddcfa21_720w.jpg?source=8673f162" alt=""></figure>
+<p>有些也门餐厅会用普通的盘子上菜，有些也会用这种炖锅，这种炖锅的用途类似我国朝鲜族的石锅，端上来会比较烫。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e2a17bee2a90ed0ae1543db05dce5fec_720w.jpg?source=8673f162" alt=""></figure>
+<p>这就是一道非常考究的也门早餐了，显然而然的是，Asidah 更像是一个主食而非一道菜。</p>
+<p><strong>11.6 沙特阿拉伯的几种面食</strong></p>
+<p>沙特的面食种类比较丰富，一般分为本土贝都因特色 + 外来种类。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-371302407b56b399d864dd5e064eedc4_720w.jpg?source=8673f162" alt=""></figure>
+<p>沙特这边有几种面食，上图是 masah，是一种地方特色薄饼。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-563a8df50270c939af4718b40f4be7e3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-99430e64785fffd143820972151518a2_720w.jpg?source=8673f162" alt=""></figure>
+<p>此图为 qursan，是一种加了油的薄饼。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0d25aa0f9f5bea4358877d5051142fd5_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是沙特大众最常吃的饼，其实和也门的 Mulawah 差不多。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-344756081f1fc372996af52ac89421e1_720w.jpg?source=8673f162" alt=""></figure>
+<p>同样，沙特人也吃也门式的馕饼 tameez，此外沙姆地区的大饼也是经常食用的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-42693c4fbc1c9da6f5270a313d7c5f5a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-708f2aebb10992be911b6ad8960aba73_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有贝都因特色的 raqouq，是沙特人斋月常吃的面食。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3e68a4c94d7a0bf50a6b16c40aefc08c_720w.jpg?source=8673f162" alt=""></figure>
+<p>沙特这边也流行亚美尼亚特色的 lavash 饼，此图是哈立德国王机场的自助早餐。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6388882126f5dd6e29b071651488a895_720w.jpg?source=8673f162" alt=""></figure>
+<p>阿联酋这边还有一种很流行的早餐饼子 chebab，是一种当地特色的煎饼，被认为是阿联酋最著名的国民特色食物之一。</p>
+<p>这种煎饼的原料有：面粉、奶粉、鸡蛋、藏红花丝、糖、酵母、玫瑰水、豆蔻、黄油。需要用热水将面粉、奶粉、鸡蛋、藏红花和酵母、豆蔻、糖融合在一起，结成面团，然后发酵静置，直到面团出现气泡，然后在煎锅表面涂抹酥油或黄油，将面糊倒入煎制。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-22f45158a9b9d36634dc0ef1ce268453_720w.jpg?source=8673f162" alt=""></figure>
+<p>成品大概是这样的，黄色来源于鸡蛋、藏红花。这种食物通常搭配蜂蜜、奶酪、奶油、果酱食用。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-449dd918ca48bf19b6da19a836860f4e_720w.jpg?source=8673f162" alt=""></figure>
+<p>蜂蜜是最传统的搭配 chebab 的配料，和原料中的藏红花和豆蔻都算是阿联酋的特产。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dda679fc45a0a91623d5b3d567a25a63_720w.jpg?source=8673f162" alt=""></figure>
+<p>这道食物大多情况下出现在阿联酋的早餐，是早餐常见的选择，这种做法也能体现出阿联酋人相对富裕的生活水平。</p>
+<p><strong>12、约旦的大饼</strong></p>
+<p>约旦的主食是大饼，早餐则 100%如此。约旦大饼外观上和其他阿拉伯国家无甚区别，实则有之：约旦的大饼由纯小麦粉制成，口感厚实且松软，很好吃，不同于埃及的全麦粉和小麦粉混合、口感糙砺的 aish 饼，也不同于质地更薄的叙利亚大饼 saj。约旦的大饼比较大，直径能达到 30 公分左右，要比埃及的大很多，一般以袋装形式出售，价格很便宜，但和埃及那种几乎白送的价格相比，还是高一些的。在约旦的餐厅，大饼通常是白送的。</p>
+<p><strong>12.1 约旦饼</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1361d19bbaf38fa5bc36a1a91741b77b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d09630ccbb3b5bea036484358d9326ac_720w.jpg?source=8673f162" alt=""></figure>
+<p>约旦大饼外观大概是这样的，口感很好，即便是干吃也是好吃的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-51bc8c43a71b66791ed9534f058022b4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-46861731d3a2e1913c65961c8066e7a6_720w.jpg?source=8673f162" alt=""></figure>
+<p>约旦的饼坊也会将大饼用袋子打包出售，卫生环境还行，至少比埃及的好很多。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e2808b487070ec1642aac457a2fbf98e_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有一种比较薄的约旦饼子，类似埃及的小饼 aish shami（沙姆饼），口感就不太松软了，主要用来夹三明治吃。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-facd731da06b78be8f9b49ee23e9b707_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>11.2 贝都因大饼 shirak</strong></p>
+<p>此外，约旦还有一种贝都因特色的大饼 shirak，一般用一种凸形的锅煎制。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d35c705178f60ab596816bfe7655508d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7506525c6b45287f93aa141663fbdeb6_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种饼据说是奥斯曼帝国传来的，又是一种贝都因食物（看似矛盾，但阿拉伯文词条如此介绍，我也有些费解），做法和叙利亚及土耳其地区的 saj 大饼差别不大，甚至和约旦国饭 mansaf 垫饭和肉的 raqouq 大饼（看我前面 mandi 那篇有介绍）也没什么区别。这种大饼一般在斋月食用，我在约旦北部的 al-salt 也见过，比如图二拍摄于此。</p>
+<p><strong>11.3 土耳其风格的面包</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-95cec59654d4dfee7e7c4b413350ab0c_720w.jpg?source=8673f162" alt=""></figure>
+<p>另外，约旦民众也常吃土耳其风格的面包，比如这种中间开口的，可能是土耳其贫民阶级代表的 samit 面包的变形，这种袋装面包在小卖店能买到。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f9372395bbc6a90f32130442474dd174_720w.jpg?source=8673f162" alt=""></figure>
+<p>这些则是 al-salt 城的面包房卖的，鉴于此地曾是奥斯曼帝国在约旦的首府，所以有些土耳其面包不足为奇。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-15146ec1dc4e413a0b60f0575018cf66_720w.jpg?source=8673f162" alt=""></figure>
+<p>同上，这座城市的主食比较有特色的就是土耳其风格的面包比较多，当然在约旦全境，这类面包也是民众常吃的，但频率一定不如大饼。</p>
+<p><strong>13.一些其他国家和文化的影响</strong></p>
+<p>中东地区的人民观念里认为面食才是亲民的主食，米饭是一种物质享受，大饼才是生活，大米饭不是。所以，中东人民对面食多样性的追求也是其追求美好生活的一个表现——最标志性的就是对外来面食的包容和兼容，这些外来面食也成为中东人民偶尔调剂饮食的选择，越发达、开放程度越高的中东国家，面食多样性越强，以至于跨越种族和文化圈。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c406898a02d77800200a1f35899d2595_720w.jpg?source=8673f162" alt=""></figure>
+<p>中东地区一些开放度较高的国家，如埃及、海湾几个国家、以色列、沙姆地区的约旦、黎巴嫩都有麦当劳门店，但类似阿尔及利亚、苏丹、巴勒斯坦、叙利亚这类国家就没有了。麦当劳在中东地区的本地化还算彻底，基本上开进一国市场，就能遍地开花，门店随处可见。比如埃及富人和中产阶级社区几乎一两公里就有一家，只不过把原版麦当劳的猪肉材料都换成了鸡肉和牛肉，比如此图就是中东特供的麦满分早餐辣鸡麦满分，把猪肉饼换成了辣味油炸鸡肉饼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-086e5afc884709e9c109af532421856c_720w.jpg?source=8673f162" alt=""></figure>
+<p>埃及是个中产阶级极其西化的国家，以至于市中心的富人区遍地都是西餐厅，如图所示的西式早餐也是当地富人热衷的，其实历史也有一百多年了，可以看到主食是阿西合璧的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fa55b92941d9a1d0fb0e6357bf3c6a0b_720w.jpg?source=8673f162" alt=""></figure>
+<p>中东这边很喜欢吃可颂面包，在任何一家咖啡厅和面包房都不难找到，比如此图是新达米埃特一家餐厅的“西班牙早餐”，特色是把面包换成了可颂，哈哈。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c875dc587fc433b8964ed9005c00ed65_720w.jpg?source=8673f162" alt=""></figure>
+<p>此外，希腊文化在埃及和沙姆地区的影响很大，以至于当地不难找到希腊特色的餐厅，比如此图是开罗市中心的希腊餐厅 greek club 的希腊早餐，饼子是希腊的 pita 饼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fc33a32994b0a9794c2ce5e216123d2d_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，西方风格的三明治也是成功输出到中东地区了，这种三明治在一些阿拉伯国家性价比极低，一个的价格足够买两三个沙威玛，一般都是西方连锁咖啡店星巴克、咖世家等售卖，主打健康和小资，但我没看到什么人买过，因为性价比实在太低。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-67d3531487694d512ee355e93ab13feb_720w.jpg?source=8673f162" alt=""></figure>
+<p>在一些海湾国家，因为印巴孟人几乎成了前三大民族，所以南亚食物也是随处可见的，阿联酋的印度餐厅比较多，沙特的巴基斯坦餐厅比较多，在寸土寸金的迪拜，印度人开的餐厅和小吃摊是你能解决一顿饭最便宜的方式了，没有之一。此图的印度黄油馕饼，大概也就是人民币 7 元。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6ab401fd65a5925fc436fd62f9c80f08_720w.jpg?source=8673f162" alt=""></figure>
+<p>lavash 是亚美尼亚的传统饼子，在中东地区也很流行，是一种日常的主食。在伊朗更受欢迎，算国民主食了，以此类推伊朗餐厅也会卖 lavash 大饼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-da1520c82929beecc91b9fd419bb0f18_720w.jpg?source=8673f162" alt=""></figure>
+<p>埃及这边也有卖欧式的冰激凌坯和脆饼的，如图所示还有卖德式碱水面包 Pretzel 的，这种碱水包在中东地区极为流行，不过其缩小版的零食更流行一点。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c7c03a2f7d384c5c64bcf1576205cb37_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个属于中东爆款零食了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-11f26dc13a2d5beee9cff3beea3a4d78_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种甜酥饼在中东地区也挺受欢迎的，按照图中的说明书，里面放了糖和香草，需要搭配蜂蜜吃，是一种零食。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bd0d63d75c2abbc21bcd630251f6fade_720w.jpg?source=8673f162" alt=""></figure>
+<p>中东人对披萨饼的热爱是超乎想象的，甚至要比欧洲人还要热爱，披萨饼也是当地外卖的爆款。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ac405ce4a7bdd4da0731ccd9a304a90c_720w.jpg?source=8673f162" alt=""></figure>
+<p>值得一提的是，乌兹别克饮食为代表的中亚食物在中东地区的地位也不低，这种涂油的乌兹别克面包近年来也异军突起。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6781209acfebb3a809b4f5738e4e2773_720w.jpg?source=8673f162" alt=""></figure>
+<p>一般在埃及和阿联酋，乌兹别克面食店比较多，除了面包还卖烤包子、薄皮包子、手抓饭之类的基本食物。与此配套，开在隔壁的大概率会是一个乌兹别克餐厅 / 小茶馆 chaikhona，能提供一些类似拉面、抓饭、卷饼之类的中亚家常菜。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-59e556d6003a1d0c7cbb4bead3e6e95b_720w.jpg?source=8673f162" alt=""></figure>
+<p>乌兹别克面包个头大小不一，外观金黄，有点韧性，吃起来很筋道，更类似面包，有微微的甜味。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dc2de1625e448c84650f7e9ef3cddf0e_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，乌兹别克面包的绝配是乌兹别克的肉汤，反而不太适合中东特色的类似胡姆斯酱之类的蘸碟。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4d9b6a5cdc0ca7f4e842c2b8ee0ab1bb_720w.jpg?source=8673f162" alt=""></figure>
+<p>如图所示，中东地区的面食选择非常丰富，几乎西方有的面包，这边都能找到。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e49a4d01a31dbfc66f1d0f47e4ae4a5a_720w.jpg?source=8673f162" alt=""></figure>
+<p>欧洲特色的小圆面包也不难找到。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-253d45b19ad739ee6396e94d1b299ce0_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种传统的硬欧包也能买到，在任何一个好一点的酒店的早餐，都是供应的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d9284a2bf99d41629acdaebf9c8d2f3_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，外来面食的第一影响因子就是移民，印度面食和菜肴在绝大多数阿拉伯国家挺受欢迎，但没有一国比得上迪拜的独尊地位。一般来阿联酋打工的印巴人，一日三餐都在此类小摊解决，一顿饭不过几块钱，在迪拜算是非常不容易了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1cfad3e723d663c3295f30f542f2f8a7_720w.jpg?source=8673f162" alt=""></figure>
+<p>迪拜的 lulu 超市本身就是印度人开的，里面也有很多印度速食，比如此图的土豆饼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b588db837c2f673e4d237bfe6573585d_720w.jpg?source=8673f162" alt=""></figure>
+<p>作为一个国际大都市，迪拜的超市有世界上各种各样的面食。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b92e4042405f5735124bc4c70236131_720w.jpg?source=8673f162" alt=""></figure>
+<p>甚至多元到印度各个邦的、欧洲各个国家的特色面食都能买到。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e40c4fa03dd1a151acfd95f7e657646a_720w.jpg?source=8673f162" alt=""></figure>
+<p>据我观察，埃及这边买这种大号欧包的人很少，但在迪拜就很多了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d780ea855f78db9da97dece481fda1c5_720w.jpg?source=8673f162" alt=""></figure>
+<p>其实公平地说，在阿联酋务工的国人，一顿选择在类似本图的家乐福超市面包房和快餐店解决之，花销不会超过 40 元，是极其经济实惠的选择。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dfaf68aca78fecba3196b0f12c9f98ee_720w.jpg?source=8673f162" alt=""></figure>
+<p>迪拜规模大一点的家乐福超市，也能找到各个派系的阿拉伯大饼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a018b3abd85ffa6e1b56a520141820f1_720w.jpg?source=8673f162" alt=""></figure>
+<p>以上就是中东地区面食的全部情况介绍了，因为篇幅有限，写到这里网页已经很卡了，实在是不能面面俱到，如有遗漏，日后会另开帖子更新之，敬请关注。</p>
+<p>还请各位看客不要找茬，不喜勿喷，遇到抬杠的、炫技的、秀优越感、拉踩的评论一概拉黑，望理解。</p>
+<p>以上。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/26747947">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1898030003909813770">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787488</guid><pubDate>Mon, 09 Feb 2026 12:58:21 GMT</pubDate></item><item><title>为什么猪的脂肪只有白色的？人和牛羊的脂肪却有黄色的？</title><link>http://daily.zhihu.com/story/9787496</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8117d5e0c684e607fff848c0c38c1a51.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787503</guid><pubDate>Tue, 10 Feb 2026 08:53:36 GMT</pubDate></item><item><title>为什么古今中外原型为蜘蛛的怪物基本都是女妖/女怪？</title><link>http://daily.zhihu.com/story/9787506</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7f2b079a33eda302d68d3934d0e384d4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -195,52 +480,54 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-2af481d1db0ae0c504fb2411e1548f92_l.jpg?source=8673f162">
-<span class="author">赵泠，</span><span class="bio">衣沾不足惜，但使愿无违。</span>
-<a href="https://www.zhihu.com/question/1995461358527985313/answer/1995495818950637077" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-eb665fa780d6c2ffe7908debeb029b04_l.jpg?source=8673f162">
+<span class="author">斜绿天蛾，</span><span class="bio">点进主页你会发现，这人真就只在乎虫子</span>
+<a href="https://www.zhihu.com/question/549934494/answer/1994831817707107970" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>不是那样</strong>。食物富含类胡萝卜素<sup>[1]</sup>（尤其是 β- 胡萝卜素<sup>[2]</sup>）时，猪的脂肪可以像牛、羊、人的脂肪那样呈现淡黄色。食物搭配不当、药物中毒或患病时，猪的脂肪还能黄得很严重。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b46f4be9efdc7336df1cd3c7a49b01d_720w.jpg?source=8673f162" alt=""><figcaption>百度还没有死透</figcaption></figure>
-<ul>
-<li>正常情况下，一些哺乳动物脂肪的淡黄色来自食物所含的类胡萝卜素，主要是 β- 胡萝卜素，这颜色不是动物的基因直接控制的。</li>
-<li>食物相同的时候，某些基因及其表达水平可以通过影响消化吸收、影响代谢、影响色素沉着的倾向来间接影响哺乳动物脂肪的颜色。某些代谢疾病同理。</li>
-<li>人的皮下脂肪的颜色主要涉及 β- 胡萝卜素摄入量、叶黄素摄入量。人的遗传背景、年龄、生活习惯、疾病等因素通过影响积累和代谢间接影响人脂肪的颜色。</li>
-<li>猪的食物类型和单胃消化系统与牛、羊明显不同。猪的肠道相对牛羊较短，相对降低了对 β- 胡萝卜素的吸收率。</li>
-<li>大量喂食黄玉米、胡萝卜、南瓜、苜蓿等可以导致猪的脂肪变黄，屠宰后获得黄膘猪肉。鉴于顾客可能将黄膘猪肉当成病猪肉，一些工业化养殖用的猪饲料倾向于使用白玉米或添加抗氧化剂来避免这种情况。</li>
-<li>养殖业者和兽医注意到，食物所含的多不饱和脂肪酸<sup>[3]</sup>过多且缺乏维生素 E，可能在包括猪在内的家畜身上引起脂肪组织炎，导致家畜的脂肪组织变为黄色（脂质过氧化，这可能产生异味、让商品价值下降）或黄褐色（脂褐素沉积）。缺硒可以加剧脂肪组织炎。这类问题可以改变饲料配方、改善饲料储藏条件来处理。</li>
-</ul>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-349839323f5c2e1b6d6d7bdb1730bdbe_720w.jpg?source=8673f162" alt=""><figcaption>10.5555/19611401759</figcaption></figure>
-<ul>
-<li>此外，磺胺过量、锥虫病、非洲猪瘟、猪嗜血支原体病、钩端螺旋体病等可以在猪身上引发全身性黄疸<sup>[4]</sup>，胆红素让猪脂肪变黄。</li>
-</ul>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e21b9fe7722fdc0532a6bbe4dfc5cd4a_720w.jpg?source=8673f162" alt=""><figcaption>Dugan, L.R., Petheram, M. & Kraybill, H.R. The composition of fat from icterus swine. J Am Oil Chem Soc 29, 161–162 (1952). https://doi.org/10.1007/BF02643538</figcaption></figure>
-<p>未被其他物质染色时，融化的脂肪是无色的，凝固的脂肪中的一些脂肪酸、一些甘油三酯等分子会形成大小不一的晶体，这些晶体对光的散射在宏观上让凝固的脂肪看起来浑浊而不透明。</p>
-<p>以白光照明时，凝固的纯净脂肪散射了白光所含的各个波长的色光，在人肉眼看来便是白色。</p>
-<p>这不限于动物油脂，你可以看看在低温下凝固的植物油、看看积雪。</p>
-<ul>
-<li>许多植物油含类胡萝卜素而呈黄色。精炼橄榄油（常因叶绿素而偏绿）、精炼花生油等颜色较浅，椰子油、棕榈仁油在精炼后几乎无色。</li>
-</ul>
-<p>下图是偏光光学显微镜下从植物油取得的硬脂酸、硬脂醇及其混合物形成的晶体：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ac7d0cff0045d79405c7d9d0c38e62cc_720w.jpg?source=8673f162" alt=""><figcaption>硬脂酸与硬脂醇的比例依次为 1:0、7:3、1:1、3:7、0:1 https://www.researchgate.net/figure/Polarized-optical-microscopy-POM-images-of-the-crystals-of-stearic-acid-stearyl_fig2_283879510</figcaption></figure>
-<p>以传统方法用牛奶制作的一些黄油是凝固的动物脂肪，其淡黄色主要来自牛从饲料摄入的 β- 胡萝卜素。β- 胡萝卜素会吸收蓝紫光，从而让反射光和透射光里的黄橙光相对偏多。未去除水和乳蛋白的黄油里有大量油包水液滴，使它看起来不透明，如图：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff54dc534ae0be084aa73b74e0a9889e_720w.jpg?source=8673f162" alt=""><figcaption>黄油 by Searobin - Searobin，CC BY-SA 3.0，https://commons.wikimedia.org/w/index.php?curid=504871</figcaption></figure>
-<p>去除水、乳清蛋白、酪蛋白的“无水黄油”的黄色来自 β- 胡萝卜素。液态与固态下透明度的差异来自晶体，如图：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1cf56b09e4550b7ef0f6e225782d72c9_720w.jpg?source=8673f162" alt=""><figcaption>凝固的无水黄油 By Rainer Z ... - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5639258</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b044e27a4993fa6387fc9e35cec9f85_720w.jpg?source=8673f162" alt=""><figcaption>加热融化的无水黄油 By Rainer Z ... - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5639242</figcaption></figure>
-<p>人造黄油可以人为添加胡萝卜素、胭脂红等来呈现与天然黄油相似的颜色。</p>
+<p>不是错觉。</p>
+<p>蜘蛛目 Aranea 乃至蛛形纲 Arahchnida 的词源，就是一位女性（罗马神话人物阿拉克涅），你可以说从生物学角度上蜘蛛都被赋予了雌性的印象……</p>
+<p>至于这种印象是如何形成的，那可能有很多重的原因；</p>
+<p>首先是身材。</p>
+<p>虽说人们应该很熟悉蜘蛛的典型外观，不过这里还是复习一下：<strong>蜘蛛目动物的身体分为两个节段，头胸部和腹部</strong>。</p>
+<p>中间由极细的“腰部”连接；这个部位是如此狭窄，以至于蜘蛛的大多数器官难以通过，消化道都很窄，以至于它们只能取食被溶解的液态食物或细小颗粒。算是蜘蛛的一大特色。</p>
+<p>而集中了绝大多数内脏的腹部肥硕且柔软。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d7f3dd2b0a37ef62370bc643ee103213_720w.jpg?source=8673f162" alt=""><figcaption>蜘蛛的身体解剖图</figcaption></figure>
+<p>由八条细长的步足支撑身体。而且和其它节肢动物不同，是黑科技液压驱动，没有一丝赘肉</p>
+<p>这叫啥朋友们，细腰，长腿，大屁股。至于这会联想到雌性还是雄性，智人的性癖自然会做出选择。</p>
+<p>另一大关键词是丝。</p>
+<p>蛛形纲并不是只有蜘蛛目演化出了丝腺，但蜘蛛无疑是把纺丝能力开发到极致的类群。蜘蛛会用丝筑巢、捕猎、做卵囊、当安全绳等等。</p>
+<p>由于蜘蛛在几乎一切陆地生态系统中都很常见，蛛丝和蛛网也属于直立猿生活中无处不在的物体，都很熟悉的。</p>
+<p>而文化中，“丝”代表啥嘛，在直立猿自古以来的性别分工生存方式中，纺织工作长时间以来都是雌性直立猿的专利。所以古今中外都会把纺丝的蜘蛛比喻成女性是不奇怪的。传说中的阿拉克涅就是个极擅长纺织的人物。</p>
+<p>不过，虽然人们熟悉蜘蛛，不代表很喜欢它们。</p>
+<p>由于蜘蛛目的用毒天赋，和难以预料的行为模式，直立猿通常不太喜欢它们……因此蜘蛛的文艺形象往往不太友好，多是反派，女妖怪为多。</p>
+<hr>
+<p>以上只是表象。如果想更进一步，看看蜘蛛的生态学特性呢……</p>
+<p>嗯…假设古人有认真观察过的话，会发现……<strong>刻板印象有时候还是符合现实的</strong>。</p>
+<p>蜘蛛或许是常见动物中雌雄地位，最悬殊、最直观的类群之一；蜘蛛的雌虫绝大多数情况下都比雄虫大、而且可以大很多。而且，许多蜘蛛是真的存在“性食同类 Sexual cannibalism”的现象的动物。雄虫是真的存在被吃的风险…。</p>
+<p>不像螳螂那样大多只是巧合。</p>
+<p>蜘蛛的雄虫如果不能向雌虫证明自己的身份（通过振动或舞蹈等），或者在某些物种，如银鳞蛛 <em>Leucauge mariana ，</em>雄蛛的那活不行，不能让雌蛛满意，就有被当成猎物干掉的风险。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-31f07f3e66d953b8eb45aef1f7a7477a_720w.jpg?source=8673f162" alt=""><figcaption>斑络新妇 Nephila pilipes。橙色的是雄虫。</figcaption></figure>
+<p>络新妇这个名字就来自日本的一种蜘蛛精。嗯，是女妖怪。</p>
+<p>嗯……不害怕的话，可以仔细看看这张图上的雄虫在哪里。</p>
+<p>- 至于古人 <strong>是不是真的知道 </strong>这些大个儿的是雌性，也是有一些线索的。雌性蜘蛛往往会在身上携带，或在蛛网上悬挂卵囊。</p>
+<p>也正是因为这种卵囊的存在，蜘蛛往往在大众文化中留下了“繁殖能力强”、会“爆卵”的印象。。嘛，所以，即使是不拟人的怪物也可以有育母蜘蛛这样的选择</p>
+<p>话说，其实蜘蛛雄虫被吃的概率倒也没那么高，即使是在恶名昭著的黑寡妇（寇蛛属）中，雄虫被吃的概率也就……百分之十几吧。嗯，只要雌蛛并不饿。</p>
+<p>蛛形纲的基础配置很差劲，感官很烂，大多数蜘蛛视力很差，所以很多时候性食同类只是当成了猎物……嗯，在视力较好的跳蛛等类群中，情况会稍微好一点。</p>
+<hr>
+<p>当然，雄性气质的蜘蛛怪肯定也是有不少的，直立猿的想象力还是摆在那里的。比如，嗯，某个红色紧身衣、会荡来荡去的角色就是雄性。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1995461358527985313">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/549934494">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787496</guid><pubDate>Mon, 09 Feb 2026 12:58:22 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787287</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aa0f225d4932354c05172f6ab8c7d192.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787506</guid><pubDate>Tue, 10 Feb 2026 08:53:37 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787296</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aa0f225d4932354c05172f6ab8c7d192.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -255,49 +542,44 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 能看一下你相册里的小动物吗 ？</h2>
+<h2 class="question-title">瞎扯 · 有哪些看似精妙实则很蠢的设计？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/660502046/answer/1907664314434819745" target="_blank">能看一下你相册里的小动物吗 ？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/33110020/answer/1978035769013723945" target="_blank">有哪些看似精妙实则很蠢的设计？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/83f8c672f6f8c8d876bc099b76cf4ec7" target="_blank">@像他一样开心</a> ：昨天在知乎上看见的这一张图，笑死我了，凌晨把我笑醒了</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/b713cfa81823811fccda986d3d2b8386" target="_blank">@三两老友面加煎蛋</a>：这种<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%E5%8A%A9%E5%8A%9B%E9%92%A9&zhida_source=entity" target="_blank">引体向上助力钩</a></div>
 </blockquote>
 <figure>
-<div><img class="content-image" src="https://pic3.zhimg.com/v2-4d7ea88c6d938603574c44da558c1856_1440w.jpg" alt=""></div>
+<div><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-6b50e166db6d349215affc5c6fd8bc2d_1440w.jpg" alt="" width="720"></div>
 <figcaption></figcaption></figure>
-<p><a class="internal" href="https://www.zhihu.com/question/4119801561/answer/1971952671452817006" target="_blank">Q：你在部队捅过最大的娄子是什么？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/61348692/answer/1978159489854232435" target="_blank">为什么说男人至死都是少年？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/b105681bcdd31d370c015981cdbfa400" target="_blank">@Eleven</a> ：其他的回答下看到的：</div>
-无奈的班长，气愤的连长，不知所措还有点无语的排长，以及睡觉都不忘站岗的共和国战士</blockquote>
-<figure>
-<div><img class="content-image" src="https://pica.zhimg.com/v2-defeff422d5cee1c1233d44312844fda_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/5135609594/answer/41631175533" target="_blank">你知道哪些因文化不同而产生的难绷误解？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/648cbd853170d219d29a96f8f024f977" target="_blank">@树袋鼠阿帕奇</a> ：俄罗斯人把「子在川上曰：逝者如斯夫」理解成了「你不用动，在河边等着，你的敌人的尸体会顺着河流从你面前飘过。」</div>
-然后因为这句话看起来和孔子气质不合，他们又张冠李戴到孙子头上了。</blockquote>
-<figure>
-<div><img class="content-image" src="https://pic3.zhimg.com/v2-c7124b5ac01a560e4586a50596e74b9a_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/5405716334/answer/1970100443716747888" target="_blank">可以分享一下你们猫猫的可爱瞬间吗？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/78fb054660cc9218429351b1c5ea54fe" target="_blank">@白皮小脸</a> ：找姥姥要零食未果，就这样了哈哈</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8302e5492066dbd5c21678d8efff3188" target="_blank">@飞翔的企鹅</a>：回村看到这一幕，我就知道剑道已经失传了！</div>
 </blockquote>
 <figure>
-<div><img class="content-image" src="https://pica.zhimg.com/v2-7ac0a33fd2f80c1a62eff554dde3fe5c_1440w.jpg" alt=""></div>
+<div><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-a47baae72eac0b51f4306cd198daf0e1_1440w.jpg" alt="" width="720"></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/378849971/answer/1943716394224050518" target="_blank"> 天津市民有多搞笑?</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/620361959/answer/3199903997" target="_blank">建筑不住人会腐朽得快，有没有什么科学依据？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ae82921b0cfcddaccf4b1851812475c5" target="_blank">@跃迁</a> ： 19 年去天津玩，住在天津之眼附近，</div>
-中午去旁边一个挺有名的包子馆吃饭，忘了叫啥名了。<br>店里卖包子，也卖拉面。我要了几个包子，一碗拉面。<br>旁边一位天津土著大爷主动和我说话，客气极了。<br>看我吃面条，他说，<br>您要把介包子泡面条汤里吃...........<br>我就把咬了一口的包子泡进去了，<br>大爷：那就很难吃了......</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bb15cc6dfe00e8daff1d87ecd31649a8" target="_blank">@康员外</a>：人就是一大号传感器，会尽力把住人的建筑物内部维持在一个适宜人居住的温和环境，建筑出了问题还会及时察觉及时维修，这对建筑物的益处就不可小觑了。</div>
+</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1977701333365702968/answer/1979599699653728036" target="_blank">我的日语名是“浅野盛长”为什么我接触到的日本客户和日本人都以为我很老啊？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/34cda1a78b639c390ed99483636c8cc5" target="_blank">@Krak</a>：你是一个幼儿园老师，这将是你带的第一届小朋友，尽管还没有见到他们，但你刚从园长那领到了他们的花名册，现在的你已经迫不及待的读出这些可可爱爱的名字，分别是：</div>
+<br><a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E5%A7%AC%E6%88%A2%E6%88%8E&zhida_source=entity" target="_blank">姬戢戎</a>、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E9%AB%98%E5%BA%B8%E7%89%A7&zhida_source=entity" target="_blank">高庸牧</a>、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E8%BE%9F%E5%B0%81%E6%AE%B3&zhida_source=entity" target="_blank">辟封殳</a>、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E5%AE%B0%E7%94%AB%E6%88%90&zhida_source=entity" target="_blank">宰甫成</a>、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E9%84%97%E7%A5%93&zhida_source=entity" target="_blank">鄗祓</a>、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E6%95%94%E7%B1%A5&zhida_source=entity" target="_blank">敔籥</a>、邘伯彤、斟火正、邢司啟、夒司翊、鬲大卣、卬士咸、延公翊、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E4%B8%8A%E5%B7%AB&zhida_source=entity" target="_blank">上巫</a>、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E4%B8%8A%E7%83%9C&zhida_source=entity" target="_blank">上烜</a>、瞽师窅、殷侯冥、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E9%82%9B%E5%B8%88%E6%B1%9C&zhida_source=entity" target="_blank">邛师汜</a>、丰伯矞、卿禺扈、邛堇、甲禘、各伯黻、公夔、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=269435167&content_type=Article&match_order=1&q=%E7%BE%B2%E6%97%B8&zhida_source=entity" target="_blank">羲旸</a>、旻仲筮、虢方禔、终伯掞、朔师翮、司翕、师阼尘、甫旻、依方馗、廪伯秉、宓司旻、尨侯遹、敦卜昉、越方缜、允侯庾、士菑、仇翮、卬兕、邘鬯、阼斝、夤公瞻、瞽卿莘、汧仲翥、郯上躔、允士砺、卬方澹、甫仲藜</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1978803728749463065/answer/1979672001179321633" target="_blank">如何评价良子 12 月 1 日最新公开的体检报告？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ec7b66af7cd513fd3659d3c3ee347a77" target="_blank">@半佛仙人</a>：说明对健康影响最大的不是暴饮暴食，而是情绪差和上班。</div>
+上班比暴饮暴食可怕多了。</blockquote>
+<p> </p>
 </div>
 </div>
 
@@ -306,4 +588,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787287</guid><pubDate>Mon, 09 Feb 2026 12:58:23 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787296</guid><pubDate>Tue, 10 Feb 2026 08:53:38 GMT</pubDate></item></channel></rss>
