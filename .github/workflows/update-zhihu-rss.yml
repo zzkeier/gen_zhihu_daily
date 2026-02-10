@@ -30,7 +30,7 @@ jobs:
         
     - name: Add hosts entry for zhihu API
       run: |
-        echo "59.36.100.84 news-at.zhihu.com" | sudo tee -a /etc/hosts
+        echo "183.232.189.90 news-at.zhihu.com" | sudo tee -a /etc/hosts
         cat /etc/hosts
         
     - name: Run script
