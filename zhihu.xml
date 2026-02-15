@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 14 Feb 2026 18:27:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>天津一公园海水结冰大量鱼群被冻住，冰不是一瞬间冻成的，这些鱼为什么没能逃生？</title><link>http://daily.zhihu.com/story/9787585</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-f68e70b8c5960c5b7b217270844e3732.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 15 Feb 2026 01:50:49 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>腊肉吃了对身体不好，为什么还有那么多人热衷于烘腊肉？</title><link>http://daily.zhihu.com/story/9787647</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-610de62ea6a0fa2b20ae98c00ba38b41.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,296 +19,105 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
-<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/1996628992971780515/answer/1996930347074623392" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-b6986ff5dff6503712e84c042ef366e0_l.jpg?source=8673f162">
+<span class="author">秋食爱吃饭，</span><span class="bio">资深烹饪爱好者·精打细算的吃货·能在这里相遇就是一场缘分</span>
+<a href="https://www.zhihu.com/question/1994564999134343291/answer/1999501489761178571" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先说结论：</p>
-<p>这些鱼可能是因为入夜后降温，表层结冰后水里氧气消耗后下降，所以缺氧不得不浮到浅水处，随着夜晚进一步降温又<strong>被冻晕</strong>，然后水面进一步降温原本流动的浅水变成了冰才<strong>结冰冻死</strong>的。</p>
-<p>所以实际上冻得没那么快。</p>
-<p>但是水有没有可能在很短的时间冻住？</p>
-<p>水还真可能在很短的时间冻住：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a390b4fd6e11d3e8a9487b2d1f73fe43_720w.gif?source=8673f162" alt=""></figure>
-<p>视频中的小姐姐把金鱼养在办公室，此时室温已经零下，但是水并没有结冰，当她准备用滴管清理金鱼的粪便的时候，地狱的事情发生了，水桶迅速结冰，然后金鱼就冻住了。</p>
-<p>这条鱼能多活几天完全要感谢自然选择，让大多数鱼都是不会放屁的，它但凡在小姐姐不上班的时候蹦个 P 出来，它早就冻死了。</p>
-<p>自然界有类似的冰堆叠 / 冰推（ice stacking）现象：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bd357af34a394e891acc7c395d390fdc_720w.gif?source=8673f162" alt=""></figure>
-<p>前面的浪还在流动，后面的浪已经冻上了：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0ecdaf73a23813daf19c976e7382ee14_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-03dfbdc051de0f545f8dff1a20904b5c_720w.gif?source=8673f162" alt=""></figure>
-<p>甚至还会发生把鱼冻在浪里面，形成鱼墙的奇异景观：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-92349fbb450b51383feaf15d15bfa0f4_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c16d5e9029e8dcebd6ddd233c77e39d7_720w.jpg?source=8673f162" alt=""></figure>
-<p>极端一点的，海底的<strong>死亡冰柱</strong>：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d153cbba4dbabc63f92dba81adbeef7e_720w.gif?source=8673f162" alt=""></figure>
-<p>这种死亡冰柱往往会对海底生物造成灾难性后果。</p>
-<p>冰柱触及海底后，扩散的低温盐水（-2℃至 -5℃）迅速冻结行动缓慢的生物，如海星、海胆和海绵。例如，南极小雷泽贝克岛附近观测到冰柱在 6 小时内冻结直径 5 米区域内的所有底栖生物。</p>
-<p>为什么会发生这样的事情呢？</p>
-<p>这个我们分成两部分解释：</p>
-<p><strong>1 为什么有时候水会快速结冰？</strong><strong>2 为什么鱼会在表面被冻成冰？</strong></p>
-<p>先来解释为什么有时候水会快速结冰？</p>
-<p>自己做过冻饮料的小伙伴可能深有体会，在家里想要做一杯冰冻的饮料或者冰淇淋什么的，把常温水放在 -18 度的冰箱，需要等待至少几个小时才慢慢有结冰的迹象，完全冻透可能需要更长的时间。</p>
-<p>但是神奇的是，如果矿泉水放在 0 到 -4℃的冷柜里，它可能一直都不结冰，这个时候你只需要拿出来摇一摇，它就快速结冰了：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ccdb487d38292131a644997ec95d5bf_720w.gif?source=8673f162" alt=""></figure>
-<p>在零下还不结冰的水就叫做过冷水。</p>
-<p>这就跟我们通常认知不一样了，水为什么零下不结冰呢？</p>
-<p>其实结冰还是个有点复杂的事情，对于纯水来说，在非常光滑的容器里面，实验室条件下可在 -48℃的时候还不结冰，而一般来说，在零下 20 度时，在光滑的容器里，想要纯水自发结冰，可能需要 1 秒。</p>
-<p>但是零下 15 度时，想要<strong>纯水</strong>自发结冰，可能需要等大爆炸到今天那么长的时间。</p>
-<p>而在零下 5 度时，你可能要等上宇宙年龄的 10²⁰倍！</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e90611e270553c772931dbaf1af1ff55_720w.jpg?source=8673f162" alt=""><figcaption>这是自发成核时间核和温度的关系，可以看出在 -20°C 以下的时候，这个时间相当长</figcaption></figure>
-<p>这里说的纯水就是没有任何杂质的水。</p>
-<p>而水结冰，需要冰核，这个冰核可以是气泡、灰尘、或者说已经形成的冰晶。</p>
-<p>但是在连冰晶都没有的纯水里，0 到 -5℃单纯只是降温的话，很难让纯水自发形成冰晶。</p>
-<p>简单来说，相当于你要冻一杯水，第一步就是形成冰核，这一步好比打开冰箱的过程，打开冰箱放进去以后冰冻起来就会自发进行，但是如果没有冰核，相当于你冰箱都没法打开，后面的过程自然没法进行了。</p>
-<p>因为在等温、等压的封闭体系内，倘若非体积功为零，则任何自发过程的吉布斯自由能总是减小的（∆G＜0）。</p>
-<p>也就是说自发的反应总是朝着朝吉布斯自由能减小的方向进行。</p>
-<p>虽然冰的自由能比水的小，理论上来说结冰是自发的物理过程。</p>
-<p>但是！还有界面能这个守门人等在水变冰的前进之路上。</p>
-<p>刚开始的水分子想要结冰异常困难，因为形成冰核的时候要克服界面能。</p>
-<p>也就是说，纯水结冰的时候自由能是先增大后减小的：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c720196210a4db23009d6f1663a9e960_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以在 0℃以下，水分子需要找到合适的冰核，才能开启结晶的连锁反应。</p>
-<p>如果是没有任何外界冰核的情况下，也没有外力作用（对矿泉水瓶摇一摇水分子就能迅速找到组织，结成冰核），就需要水分子靠无规则运动形成冰核，并且达到临界成核半径以后，后面的冰核才会自发形成，水才能自发结成冰。</p>
-<p>这个临界成核半径就像是推到的多米诺骨牌，一旦倒下，反应就摧枯拉朽地进行。</p>
-<p><strong>这样也就能解释矿泉水摇晃结冰和冰推等现象了</strong></p>
-<p>这种快速结冰的现象前提条件必须是气温较低导致水温略低于冰点（过冷水），水体仍在流动或被风浪搅动，这个时候湍流阻止表面形成完整冰盖，但是因为水体整体过冷 ，所以随时有大量微小冰晶在水体中析出， 看起来有点像“冰沙汤”</p>
-<p>这些冰沙会在水面互相粘连 ，形成薄冰片，然后在浪中碰撞，形成冰片。</p>
-<p>当出现强风持续向岸吹、水位快速上升、潮汐推进岸边等现象，就会发生大面积浮冰整体被推向岸边， 相互挤压后形成冰墙。</p>
-<p>甚至出现鱼冻在冰墙里面的现象。</p>
-<p>但是需要区分的是，这些鱼不太可能是游动的时候直接被冻成冰。</p>
-<p>而可能是之前已经冻晕或者冻死了，然后随着进一步降温才冻住的。</p>
-<p><strong>这就是第二个问题：为什么鱼会在表面被冻成冰？</strong></p>
-<p>先说说新闻里的梭鱼，我们通常说的梭鱼是一类泛指，身体长像梭子的都可以叫梭鱼。</p>
-<p>北半球冷水区域的淡水梭鱼大概率是指的狗鱼：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d87a526cc8f7cbe5f76ca46afef86d7f_720w.jpg?source=8673f162" alt=""></figure>
-<p>而新闻里这个南湾公园的梭鱼看图片像是鲻鱼：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b2cc3323f180b895abf25151dae39b81_720w.jpg?source=8673f162" alt=""></figure>
-<p>鲻鱼是一种广盐性鱼类（既能在海里也能在淡水河口生活，能在盐度变化大的水域生活）</p>
-<p>虽然鲻鱼能适应<strong>3℃ ～ 35℃</strong>温度变化较大的水域，但是最适应的温度还是 18-25。</p>
-<p>而且鱼是一种变温动物，当水温降低时，它们的体温也会降低，当水温降到 10℃左右时，鲻鱼的摄食量会急剧减少，如果继续下降，它们基本停止进食，代谢变得非常缓慢，行动变得迟缓。</p>
-<p>尤其是 4℃以下的时候，几乎停止活动。</p>
-<p>不过还好，水有反常膨胀现象，结冰后冰块会覆盖住表面，阻止进一步的热交换，从而使得底层的水体仍能保持一定的温度：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3298752f9f33c288919a55c1c6712741_720w.jpg?source=8673f162" alt=""></figure>
-<p>只要气温不是下降太多，零下的天气水底的鱼也能存活。</p>
-<p>但是这几天天津气温骤降：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-796501d15bb494b0ef7e1542b6fad48f_720w.jpg?source=8673f162" alt=""></figure>
-<p>夜间温度从 -1 降到 -11℃，所以导致湖面结了浅层的冰，夜间结冰后没有氧气交换，水里的溶氧会越来越少，鲻鱼作为一种中上层鱼，需氧量比较大，会被迫游到含氧量相对较高的表层水域，甚至聚集在冰裂缝处、未结冰的边缘呼吸（即“浮头”）。</p>
-<p>这种现象在夏天即将暴雨等天气变化比较大的情况下也会发生：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2adec057b87c91f1751f17fb0b37f961_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是问题来了，后半夜如果气温越来越冷，那么这些浮头的鲻鱼很快会被冻晕过去（即使还没死也无法游动），然后还没结冰的地方开始结冰的时候，它们也跑不掉了。</p>
-<p>所以这些鱼不是被瞬时结冰的水冻住的，是冻晕后水才结冰的。</p>
-<p>这种现象在气温骤降，尤其是降到往年没有的低温的时候最容易发生。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ac08a188306d924d6d83c1ec1301a8ab_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>美国德克萨斯州极寒风暴（2021）导致至少 380 万条鱼死亡。</strong></p>
-<p><strong><strong>不过也有游动中的鱼被冻上的奇观：</strong></strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f3f13a84f7c20203ef1cfc8bd719b22b_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是 2014 年一月挪威洛文岛海岸附近，一群鲱鱼被鸬鹚追向岸边。</p>
-<p>当时气温低至 -7.8°C，伴有强劲的东风，海水迅速冻结，导致这些鱼被困在“游动中”的姿态。</p>
-<p>总的来说，自然界还是很神奇的，不过去抓鱼的小伙伴小心不要掉下去了，看新闻已经有不少人被化开的冰面小小戏弄了一下。</p>
-<p>毕竟白天温度还是零上，冰层冻得不是很稳固，不要直接走过去哦。</p>
-<p>以上~</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1996628992971780515">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787585</guid><pubDate>Sat, 14 Feb 2026 18:27:47 GMT</pubDate></item><item><title>「闹钟」一词为何用「闹」字，这个名字有何深意？</title><link>http://daily.zhihu.com/story/9787579</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-8d48917e264828991e0fe68bba8d83e8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-cef37bf0392e114344d6b861bb1ba938_l.jpg?source=8673f162">
-<span class="author">晴耕雨读的浣熊君，</span><span class="bio">在知乎撂地的闲散科普创作者，争取每周双更</span>
-<a href="https://www.zhihu.com/question/1996628814894216400/answer/1996932244800037880" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>我先回答问题描述中的问题，闹钟这个翻译大概起源于江南制造总局的翻译馆，1871 年左右，由徐寿、华蘅芳、傅兰雅等中外学者共同翻译的《汽机发轫》一书中有所记载。</p>
-<p>这套书籍一共八卷，原著就是一部当时用于科学和工程学的汇编著作，对于蒸汽机技术的发展历程有着很高的总结作用，也是英国本土维多利亚时代工科生的参考书目之一。</p>
-<p>其中卷四描述锅炉的自动供水系统时，书中提到我们可以用一个闹钟结构来触发阀门</p>
-<blockquote>“如欲令其（指锅炉）每点钟内进水若干，可于<strong>闹钟</strong>上作一机关，至时则钟内发条转动，将汽机前进后退之柄移动，则全器皆动矣。”</blockquote>
-<p>这里的闹钟显然是锅炉系统的一部分，但其实际含义其实已经跟日常生活中使用叫醒、计时用的闹钟别无二致，而这个翻译出现的时间是在同治十年，公元 1871 年，事实上相比于翻译文学名著，这类工程学书籍在当时的翻译过程中很容易创造新词，并随着工业化就这样确定下来，比如说“真空”、“膨胀”、“马力”等称呼也都来自此书。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c976aa875673888d82cde22492d3b91d_720w.jpg?source=8673f162" alt=""></figure>
-<p>但显然欧洲具有报时功能的钟表传入中国这件事要远远早于晚清，此时在故宫博物院的钟表馆收藏里可见一斑，从明朝开始这类物件就以贸易商品的方式流入。</p>
-<p>但就和欧美社会经历工业革命时一样，工业化讲究的效率和理性不只是针对机器，也是针对人本身的，人又不是机器不是铁打的，没人天生的生物钟是为了早期设计的。</p>
-<p>所以我们在维多利亚时代的英国街头可以看到，有人专职叫醒服务，其工作方式除了在公寓楼下大喊外，还有用竹竿或者吸豌豆的吹管打顾客的玻璃。</p>
-<p>之所以叫醒服务能变成个正当职业，就是因为工人阶级在当时还难以承受高强度工作，天不亮就起的作息确实让人难以克服的。</p>
-<p>这和农业时代日出而作日入而息的作息有着翻天覆地的区别，那人起不来怎么办呢？这时候就必须得借助外力，故而在此之后能计时的闹钟也广受城市居民的欢迎。</p>
-<p>甚至我们可以在当时访欧的使团记述中看到，中国人对闹钟被使用在生活中的态度，1877 年张德彝《随使英俄记》中记述</p>
-<blockquote>“西人起居饮食，皆按时刻。闺中设有<strong>闹钟</strong>，至其时则铮铮然鸣。”</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-348c1f7a2b692369e7b0590e1e4c1146_720w.jpg?source=8673f162" alt=""></figure>
-<p>但英文中的闹钟叫做“Alarm clock”，clock 大家知道这是钟表的意思，而 Alarm 这个词的词源其实很简单，就是“<em>alle arme</em>”的缩写，大概含义就是喊弟兄们抄家伙，是发现敌人或者紧急情况时摇人让士兵全副武装准备作战的意思。</p>
-<p>而后续这一词组也演化为了单独的一个单词，意思是因为危险而感到惊讶和紧张，有 Alarmed、alarming 等用法，闹钟这词也是借用的这层含义，所以起初传入中国时，这个东西还被翻译为另一个我们也很熟悉的词叫“警钟”，除此外还有像“醒时表”、“鸣钟”等等称呼。</p>
-<p>但问题在于“警钟”这个词，在中文里实际上还被另一个事物所代替了，那就是 19 世纪末还在使用的信号钟，或者叫野战钟“<strong>Field Bell</strong>”，再或者这东西叫“<strong>Camp Bell</strong>”营地钟也可以，其大概样子是这样的</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-20025c1894fdd9a6b6050a375a9aa840_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c6836e7ad762c818b61342a1d8a0176d_720w.jpg?source=8673f162" alt=""><figcaption>19 世纪这玩意才卖不到 3 美元，考虑到防锈工艺以及这东西是金属制品，好像也不是非常贵</figcaption></figure>
-<p>这个东西最早也是用于军事用途，顾名思义敲钟是为了拉响警报或集结士兵，在农场牧场也有开饭信号的作用，城市生活中这种钟也有报告火灾等突发情况的用途，所以我们才会说一些危险案例给人警示叫做“敲响警钟”。</p>
-<p>而 Bell 这个东西，在中文里也是钟，不过是钟鸣鼎食的那个钟，所以在租界的码头等地看到这玩意时就把警钟的名字给了它，就像中国传统的铜钟一样，警钟长鸣说的也是这个玩意。</p>
-<p>说回闹钟这件事，其实最关键的还是，因为洋务运动的翻译模版，他是给当时的知识分子学习使用的，所以那一代人看书上翻译成啥他们就记住了啥，于是到了 20 世纪初，光绪年间前后，我们在报纸广告和小说里明显能发现大家接受这个称呼的速度是很快的。</p>
-<p>甚至当时是中国人已经可以理解，闹钟这玩意可以被作为密室杀人的机关使用这件事，当然这件事出现是在小说里，可能年纪大点的朋友们听过一个广播剧叫《霍桑探案集》，其作者程小青是中国最早翻译福尔摩斯系列的翻译者，有着中国侦探小说之父的称号。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-56c49971fc6eea3e579f0e533305a423_720w.jpg?source=8673f162" alt=""></figure>
-<p>而程小青本人相传早年就在上海的亨达钟表店学徒，他对转心螺丝机械结构简直太熟悉了。</p>
-<p>所以 1914 年之后，当他开始模仿西方侦探小说搞创作投稿时，他就写了一篇《别墅之怪》的故事，讲的就是一起用闹钟和皮筋做机关的密室杀人案，有兴趣大家可以招来读读。</p>
-<hr>
-<p>这里是浣熊君，一个在知乎撂地的闲散作者</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1995393209921193958/answer/1995775222129914201">“谣”的意思被歪曲为“谎”了吗？</a><a class="internal" href="https://www.zhihu.com/question/612685709/answer/1995438529921163850">丧尸本来就是虚幻的为什么非要用科学去论证？</a><a class="internal" href="https://www.zhihu.com/question/1994389687033411281/answer/1995039561978504056">为什么科学已经证实天空上没有天堂，但信宗教的人依旧相信有神的存在？</a></p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1996628814894216400">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787579</guid><pubDate>Sat, 14 Feb 2026 18:27:48 GMT</pubDate></item><item><title>人为什么要睡觉？是人体需要休息还是灵魂意识要休息?</title><link>http://daily.zhihu.com/story/9787582</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-4800a01c76cf51b606750c12834f7343.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/383603649/answer/1999565659508609658" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>是啊，人类为什么要睡觉？</p>
-<p>如果你怀着这个疑问，去查其它动物是怎么睡觉的，你会越查越气。</p>
-<p><strong>你发现，很多动物的睡眠机制都很牛：</strong></p>
-<p>长颈鹿每天只需要 20-30 分钟的睡眠，而且每次只需要睡 5 分钟，就可以续航 6 小时。</p>
-<p>如果你拥有长颈鹿的睡眠机制……那简直是先天 996 圣体。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f440f5679f41cc50b227f97a854372e2_720w.jpg?source=8673f162" alt=""></figure>
-<p>海豚和雨燕可以使用半脑睡眠<sup>[1]</sup>，当一个大脑半球睡觉时，另一个大脑半球可以继续工作，从而可以在睡觉时保持清醒。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-81a630bcfe0fc2d7f4f29718f70e9443_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果你拥有海豚的睡眠机制……那你可以在 996 的时候，睡觉摸鱼。</p>
-<p>不过，你也发现，再牛的睡眠机制，那也是需要睡眠的。</p>
-<p><strong>睡眠这个东西进化出来，似乎天生就充满了 BUG。</strong></p>
-<p>首先睡觉的时候，整个身体处于挂机状态，很容易遭到掠食动物的攻击。其次，在自然资源匮乏的年月，过多的睡眠也会降低觅食效率。</p>
-<p>看起来，睡眠机制似乎在拉低生存优势。</p>
-<p>很多时候事实也的确如此，其实圈养状态下的长颈鹿，一天的总睡眠可以达到 4 个小时以上<sup>[2]</sup>。野生长颈鹿为了生存，不得不减少了睡眠时间。</p>
-<p>人类睡眠周期，其实和早期演化压力有关。我们的睡眠呈现周期波动，且每个周期都有一个容易清醒的浅睡阶段，这更有利于警觉危险和清醒。</p>
-<p>可以推测，相比起可以在家放心睡觉的现代人，在山洞里睡觉的原始人类可能睡眠更短，也更容易惊醒<sup>[3]</sup>。</p>
-<p><strong>既然，睡眠真的会影响生存，那睡眠机制，又是怎么进化出来的呢？</strong></p>
-<p>无论动物、植物，还是部分真菌和细菌，绝大多数的生命都具有昼夜节律。</p>
-<p>昼夜节律正是睡眠产生的前提条件。</p>
-<p>23 亿年前，单细胞生物中便产生了决定昼夜节律的关键蛋白质分子<sup>[4]</sup>。</p>
-<p>这个时间点，正好对应地质年代的大氧化事件。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bcbdafc9f84dc4fc0eab193f12c798ae_720w.jpg?source=8673f162" alt=""></figure>
-<p>氧气在生物体内产生大量的活性氧，使得大量单细胞生物被毒死，迫使活下来的演化出了有氧呼吸能力。但付出的代价，就是必须演化出专门的机制来抵消身体内活性氧。</p>
-<p>从此以后，生物的身体与氧气展开了长达 20 多亿年的斗智斗勇。</p>
-<p>太阳东升西落，蓝藻在白天光合作用，积累有机质。消费者也跟随蓝藻的生长周期，在白天增加活动量，这也在体内积累了更多活性氧和损伤。晚上活动量减少，机体通过超氧化物歧化酶（SOD）等多种生化机制来清除活性氧，同时修复损伤，代谢和排出有害物质，使得胞体恢复如初。</p>
-<p>随着多细胞动物的产生，整体新陈代谢加快，原始的昼夜节律已经无法解决体内积累的活性氧。因此演化出，昼夜节律的更高级形态——睡眠。</p>
-<p><strong>有人说，呼吸是慢性自杀。</strong></p>
-<p><strong>那我想说的是，睡眠就是这场慢性自杀的唯一解药。</strong></p>
-<p>早在 6.5 亿年前，最开始出现原始网状神经系统的水母等刺胞动物，就已经有了睡眠。</p>
-<p>虽然水母没有大脑，但研究人员发现水母同样存在睡眠周期，且神经机制与高等动物同源，主要通过阳光来决定昼夜节律<sup>[5]</sup><sup>[6]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-10863f11bd82769b550744510d01e96d_720w.gif?source=8673f162" alt=""><figcaption>「倒地」睡觉的仙女水母</figcaption></figure>
-<p>对水母进行睡眠剥夺实验，也即通过强光照射，强制它们不睡觉，它们便会像高等动物那样，出现昼夜节律紊乱。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-382e56e494b7037c812f80344d1be757_720w.jpg?source=8673f162" alt=""></figure>
-<p>随着昼夜节律紊乱，有害物质会在它们体内积累，并对细胞造成损害，同时影响神经功能<sup>[7]</sup>。</p>
-<p>5.4 亿年前，进化军备竞赛促使寒武纪物种大爆发，动物进化出了大脑和眼睛，它们同时和睡眠绑定在了一起。</p>
-<p>3 亿多年前的早期脊椎动物不仅头颅两侧有一双眼睛，额头上还有一个特殊的器官——顶眼，也即俗称的第三眼<sup>[8]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-90e7841772cc98bafcb39d8999d737c2_720w.jpg?source=8673f162" alt=""><figcaption>牛蛙的顶眼 VS 古爬行动物顶眼眼窝</figcaption></figure>
-<p>顶眼并不能分辨实物，不过却可以通过光信号来分泌褪黑素，与眼睛里的黑视蛋白一起调节昼夜节律。</p>
-<p><strong>也即，感受到的光线减少，褪黑素分泌，增加睡意。感受到的光线增多，褪黑素抑制，保持清醒。</strong></p>
-<p>随着早期爬行动物进化成鸟类和哺乳动物，顶眼内陷演化成了松果体，失去了感光能力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5941f003158c3581eed7ce03142c4be0_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过下丘脑发展出了视交叉上核，向松果体传递来自眼睛的感光信息，保证了睡眠调节机制。.</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0fe13f6b4bcadb29fa65e3a9485b3017_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>简单回答：古代人制腊味，是为了多吃一口肉，现代人烘腊味，是就想吃这一口肉。</strong></p>
+<p>作为一个存在了 2000 多年，古人们为了解决“肉食易腐”而发明的、最简单又最有用的延长肉类保质期的“干肉”方法；</p>
+<p>当它的名字和象征着年终祭祀的“腊”相融合，成为人们在节庆期间必备的重要年货之一，被叠满了春节、家乡、人情、回忆等多重 buff 后；</p>
+<p>喜欢吃“腊味”，就不单纯只是一种味觉选择了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6fbde06a6562351043f1ca927441b7b_720w.jpg?source=8673f162" alt=""><figcaption>我国的腊味种类非常多，不仅是腊肉哦</figcaption></figure>
+<p><strong>古代人为啥要吃腊味？</strong></p>
+<p>腊味的出现，本质上<strong>是古代先民用来解决“保鲜缺失”这个事的。</strong></p>
+<p>这很好理解吧，咱就算是有冰箱，你买块儿肉回来搁冷藏室（2-4 度），放个 3-5 天也到头了，更别提古代春夏秋的常温天气了。</p>
+<p>想多吃一口肉，就得靠点儿智慧和运气的加持。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2badce7e160c30ea987906de8f4daf65_720w.jpg?source=8673f162" alt=""><figcaption>左：丰子恺《护生画集》中的配图《肉》</figcaption></figure>
+<p>咱把时间倒回周代，《周礼》的“膳夫”、“醢人”、“廛人”篇里均有<strong>关于“肉类加工延长食用期”的记载</strong>。</p>
+<p>除了做成肉酱，<strong>另一个重要技法就是“干肉”</strong>了。</p>
+<p>周天子御用膳夫团队里，还专设了“腊人”部门来制作、储存和管理“干肉”。</p>
+<blockquote>《周礼·天官》：“腊人，下士四人,府二人,史二人,徒二十人。…掌乾肉，凡田兽之脯腊膴胖之事。凡祭祀，共豆脯荐脯膴胖凡腊物。宾客、丧纪，共其脯腊，凡乾肉之事。”</blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-340383eb2bce486c914b1c0d0ec6694d_720w.jpg?source=8673f162" alt=""><figcaption>左：古代称肉酱为“肉‌醢‌（hǎi）”，右：《易经·噬嗑篇》中曾出现的腊肉，先晒后烤。</figcaption></figure>
+<p>这种“干肉”，在做法上均以“盐 / 酱腌渍后风干”为核心，其分门别类也非常清晰：</p>
 <ul>
-<li>这个神经机制，也是部分人群强光导致偏头痛的生理基础。</li>
+<li>牛羊等大动物将瘦肉切成薄片，曰<strong>“脯”</strong>，</li>
+<li>稍加捶打并加入香辛料入味的，曰<strong>“脩”</strong>，</li>
+<li>鸡鸭等小禽去其表及脏器后整个的，曰<strong>“腊”</strong>。</li>
 </ul>
-<p>至少从鱼类开始，哺乳动物的睡眠节律就基本上定型，在后来漫长的演化过程中，不同物种的睡眠机制，都为了适应自己所处的环境，而发生适应性的变化。</p>
-<p><strong>高等动物的大脑，发展出了专门的开关来控制睡眠：</strong></p>
-<p>清醒和睡眠之间存在一个内稳态（homeostasis），调节这个内稳态的内源性物质多达数十种。</p>
-<p>其中最为重要的，便是遍布人体的细胞的内源性核苷——腺苷<sup>[9]</sup><sup>[10]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-da6a9273651f9b3d2db632c8d630ac2f_720w.jpg?source=8673f162" alt=""></figure>
-<p>它是合成 ATP、腺嘌呤等重要物质的中间体，但它本身也对心血管系统、睡眠发挥着重要作用，是所有生命不可缺少的物质。</p>
-<p>当人处在清醒状态时，神经元种含有较少的腺苷，但随着清醒状态的持续，腺苷会在神经元突触中不断积累。腺苷与腺苷受体的结合，会产生相应的细胞反应，从而作用于中枢神经系统，增加睡意。在睡眠过程中，大脑会不断清除腺苷，睡意便会逐渐减少。当恢复至清醒状态的水平，便会引发觉醒<sup>[11]</sup>。</p>
-<p>腺苷往往作用在多个脑区，但主要作用在前脑基底部。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c27701fa95cfc19c3977415b3ba0c20e_720w.jpg?source=8673f162" alt=""></figure>
-<p>在前脑基底部中，腺苷通过腺苷 A1 受体抑制胆碱能神经元，来抑制觉醒状态。</p>
-<p>腹外侧视前区(VLPO)的腺苷 A2 受体，则能激活其γ- 氨基丁酸（GABA）能，从而抑制多个脑区的促眠活动<sup>[12]</sup>。尤其是对下丘脑乳头体核组胺释放的抑制，对入睡发挥着重要贡献。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a8aaef9b7bd23e56a0435e5011c62fb4_720w.jpg?source=8673f162" alt=""></figure>
-<p>除了腺苷外，其它的睡眠稳态调节物质还有前列腺素 D2(PGD2)、生长激素等等。</p>
-<p>总的来说，腺苷这样的睡眠调节子因子，其实相当于身体内活性氧的指标，活性氧超标了，意味着该睡觉休息了。</p>
-<p>咖啡之所以有提神作用，便是因为其所含的咖啡因，能够阻断结合位置来阻止腺苷受体的激活<sup>[13]</sup>。</p>
-<p>喝咖啡抑制腺苷熬夜，本质上相当于对身体的透支。</p>
-<p><strong>那睡觉的时候，我们的身体在做什么？</strong></p>
-<p>首先经过一天的能量消耗，肝脏、骨骼肌会在夜晚合成糖原，给身体“充能”，当然，心脏和大脑也会合成少量的糖原。充能的同时，身体也在积极排出一天所产生的废物。</p>
-<p>我们以大脑来举例。</p>
-<p>大脑内充盈着流动的脑脊液，睡觉时会发生周期性的震荡。</p>
-<p>大脑细胞缩水 60%，大大增加细胞间隙，来帮助脑脊髓液更自由地通过大脑组织间隙，最终通过淋巴管流出，排出活性氧、β- 淀粉样蛋白等有害废物<sup>[14]</sup><sup>[15]</sup><sup>[16]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-90acf55c00f8e57cf3d6e41644f04e1b_720w.gif?source=8673f162" alt=""></figure>
-<p>这个过程，血液（红色标记）流出，脑脊液（蓝色标记）流入。</p>
-<p>当处于清醒状态时，这种有规律的清除活动会随之消失。</p>
-<p>主要原因在于，清醒状态下，大脑需要足够的血液来给大脑供氧、供能，血液充盈着大脑，脑脊液只能活动在大脑的表面，很难有进入大脑内部的机会。</p>
-<p>人体废物清除和损伤修复，肝脏和心脏功不可没。一个是关键功能的执行者，一个提供源源不断的动力。</p>
-<p>废物清除了，从细胞到组织，再到器官的自然损伤，才能得到修复和维护。不仅我们的免疫系统、消化系统、内分泌系统等多个系统的功能可以得到正常维持，还能保证机体健康，促进身体的生长发育。</p>
-<p>大脑也会在睡觉的时候，整理信息，强化并巩固记忆，有利于认知功能的发展。</p>
-<p><strong>如果我们通过长期熬夜对身体透支，又会发生什么？</strong></p>
-<p>人类经过长达 300 万年的进化，面对恶劣的环境时，总是有熬夜的需求，人体早就对熬夜有了适应性的改变。当你第一天进行熬夜后，第二天你睡觉时，机体会进行代偿，通过更深度的睡眠来废物清理、修复损伤。</p>
-<p>1964 年，美国人对 17 岁高中生兰迪·加德纳（Randy Gardner）进行了一场著名的睡眠剥夺实验<sup>[17]</sup>。他连续 11 天 24 分钟（264.4 小时）没有睡觉，打破了当时的世界纪录。</p>
-<p>虽然加德纳熬夜到第 10 天后，出现了认知和记忆障碍、幻觉和偏执行为。但经过 14 小时 46 分钟的代偿睡眠后，他们的健康状态得到了完全的恢复。</p>
-<p>可见人类睡眠的代偿能力是很强大的。</p>
-<p>不过，这种弹性适应能力也是有上限的。长期熬夜，会摧毁这种代偿能力。</p>
-<p>活性氧不断积累会进一步产生氧化应激，损伤的不断积累则会产生炎症作用。这两种作用可能触发细胞因子风暴，诱导多器官损伤。</p>
-<p>首当其冲的便是大脑、心脏、肝脏，以及肾脏、胰脏等等。</p>
-<p>作用于大脑，会导致情绪和功能障碍，作用于肝脏，会破坏肝细胞，作用于心脏会导致心肌受损、节律失调。严重时，甚至会导致死亡。</p>
-<p>《Cell》上的一篇论文显示，对小鼠进行为期 4 天的长期睡眠剥夺，80%的小鼠会因为产生细胞因子风暴，多器官损伤而死亡<sup>[18]</sup>。</p>
-<p>针对人类的统计学研究也表明，每天睡眠不足 6 小时会使得心肌梗死风险增加 20%，熬夜是心源性猝死越来越年轻化的原因之一！<sup>[19]</sup></p>
-<p>当今时代，睡眠不足是一个公认的健康问题，平均每 10 个成年人中就有 3 个睡眠不足 7 小时。</p>
-<p>如何保证正常睡眠，避免诸多相关慢性疾病的发生，是当代人类所共同面临的世界难题之一。</p>
-<p>希望人人都能好好睡觉，好好保护自己的身体。</p>
+<blockquote>郑玄注：“薄析曰脯。棰之而施姜桂曰锻脩。腊，小物全乾也。”</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5b9add6a919b06a32402bcf7fb2928ae_720w.jpg?source=8673f162" alt=""><figcaption>汉代孙琮墓出土的庖厨场景刻石拓图，上面一排疑似为“各种腊味”</figcaption></figure>
+<p>咱就看这些吃法和形态，是不是和现代很多地区的腊味品种“非常相似”？</p>
+<p>所以学者们普遍认为，<strong>周代的“干肉”系列可以算作是后世国产腊味的雏形了</strong>。</p>
+<p><strong>腊味是自上而下的流行。</strong></p>
+<p>但古代生产力低下、肉类来源和供应也有限呐。</p>
+<p>故此很长一段时间里，<strong>这些“古早腊味”</strong>更多是作为天子祭祀、朝堂宴请或缴纳贡品存在，<strong>仅限皇室、贵族阶级食用</strong>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d3567e768cd761944bf734f1b8de432_720w.jpg?source=8673f162" alt=""><figcaption>古代平民家庭，可能没有这么盛况的腊味，哈哈</figcaption></figure>
+<p>比如说，周天子的宴请讲究<strong>“列鼎而食”</strong>，鼎的多少表明主客身份、宴请规格和丰盛程度。</p>
+<p>而只要能上席的诸侯大夫士，面前的鼎里一定会有“腊味”，天子则多加一鼎“鲜腊”，可见其在古代上层阶级里的膳食地位了。</p>
+<blockquote>《春秋公羊传·桓公二年》“‌天子九鼎，诸侯七鼎，卿大夫五鼎，士三鼎‌。”</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-872ea67a781b969fa892554d56c075dd_720w.jpg?source=8673f162" alt=""><figcaption>周天子宴请用的鼎和鼎里的吃食，仔细看都有干肉</figcaption></figure>
+<p>还有《论语》里记载的<strong>一个“孔子收学费“的故事，也和“腊味”有关</strong>。</p>
+<blockquote>《论语·述而》“子曰：‘自行束脩以上，吾未尝无诲焉。’”</blockquote>
+<p>前面提到“脩”是一种调味腊肉嘛，那孔子的意思是：主动给 10 条（束）腊肉做见面礼，那我一定会给予教诲的啊~</p>
+<p>可见，孔子他老人家也逃不过“腊味诱惑”，后<strong>面再提到“束脩六礼”就变成了拜师必备的礼节了。</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fdee4708e50aca0971ad829eacecdba3_720w.jpg?source=8673f162" alt=""><figcaption>右图拜师礼第一个就是“肉干”</figcaption></figure>
+<p>当然，后世很多学者认为，“束脩”或指代礼物，并不一定非得是腊肉。</p>
+<p>不过，宋代的大儒朱熹却深以为然，甚至觉得“束脩其至薄者”，就是用腊肉做学费，礼轻了。</p>
+<p>这就说明啥？</p>
+<p><strong>说明在南宋，腊肉已经“飞入寻常百姓家”，成为民间寻常可得的美食，算不上“贵礼”了</strong>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4139dc6bc27f4521ce5387807d28e78e_720w.jpg?source=8673f162" alt=""><figcaption>《宋宴》里关于腊肉的部分镜头截图</figcaption></figure>
+<p>同期的《东京梦华录》、《梦梁录》里，都有关于腊味在民间普及的描写。</p>
+<p>特别是冬季快到年底时，集市上贩卖“年货”的清单里，均可见“腊味”的身影。</p>
+<blockquote>宋代吴自牧《梦粱录・十二月》：“自此入月，街市尽卖撒佛花、韭黄、生菜、兰芽、勃荷、胡桃、泽州饧，及南北珍羞，果品、腊味、糍糕、团子之类，以备除夕筵席之用。”</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ab1cc405eee34571e821dd582e43037a_720w.jpg?source=8673f162" alt=""><figcaption>现代画家王绍基，温州民俗图 - 晒腊肉</figcaption></figure>
+<p><strong>腊味和年味的建联。</strong></p>
+<p>既然宋代的腊味就以年货身份出现了，那它俩到底是怎么绑定关系的呢？</p>
+<p>前文提到的<strong>周代的“腊”，其实念做 xi</strong>，就单指一种肉类加工方法，本没有季节和时令之分；</p>
+<p>而由“腊人”的职责也可知，这些“腊味”早期的主要价值，就是祭祀供品。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-159d171abcd0af5beacdac875172da9a_720w.jpg?source=8673f162" alt=""><figcaption>现代也有地区真的用整个腊味来祭祀的</figcaption></figure>
+<p>在<strong>东汉的《说文解字・肉部》里出现的“臘”</strong>（简化后也写作“腊”），<strong>念做 là</strong>，</p>
+<p>本意是年终祭祀拜神的仪式“腊祭”，由于其举办时间一般为农历十二月，故此也称为“腊月”。</p>
+<blockquote>《说文》：“臘，冬至后三戌腊祭百神。从肉，巤声。”</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d9e53c80e7bf6f4fbdddb5a3e92b567_720w.jpg?source=8673f162" alt=""></figure>
+<p>那么，在腊月腊日的祭祀仪式中，“腊味”作为核心肉食供品，完成后被分而食之，这多正常的流程啊，非常符合人类的思维逻辑了。</p>
+<p>在南朝《荆楚岁时记》里也是这么体现的，从此<strong>“吃腊味”也就慢慢被披上了一层“仪式感”，和春节绑定在了一起。</strong></p>
+<blockquote>“十二月八日，为腊日。谚云：‘腊鼓鸣，春草生。’村人并击细腰鼓，戴胡头，及作金刚力士以逐疫。”</blockquote>
+<p>所以宋代“腊味”在民间发展成型后，毫无疑问地出现在了“年货必备清单”上，逐渐有了“无腊不成冬，无腊不成年”的传统。</p>
+<blockquote>宋末元初《岁时广记·煮腊肉》“去岁腊月糟豚肉挂灶上，至寒食取以啖之，或蒸或煮，其味甚珍。”</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b26566862c38ca98f61e4a61531f8f88_720w.jpg?source=8673f162" alt=""><figcaption>现在春节前夕，赶大集或去菜市场也都是腊味了</figcaption></figure>
+<p><strong>现代人为啥爱吃腊味？</strong></p>
+<p>那么，众所周知，春节是咱们中国“最能体现家文化，最易传承和延续情感”的一个大节日。</p>
+<p>当腊味的香气被打上年味的标记，成为春节限定版家的味道，<strong>那它就变成了一个“年味基因”，深深地刻在国人的骨子里了。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1b245c0145574bb781f7835e62b9f66e_720w.jpg?source=8673f162" alt=""></figure>
+<p>比如说，在很多地区的传统习俗里，“岁寒腊味浓，应是年来到”，家家户户在冬日里悬挂的腊味制品，是象征家庭团圆的仪式感。</p>
+<p>毕竟，制作腊味的过程耗时耗力，一家人通力合作的十几天，就是家人团聚、共同创造美味的美好体验和回忆。</p>
+<p>在这个过程里，长辈手把手教会晚辈如何制作“家庭秘方”的腊味，不仅是技巧的传授，更多是一种包含了家风延续和亲情传递的继承。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-77b9c1bdcbe45528954d825de731c0e0_720w.jpg?source=8673f162" alt=""></figure>
+<p>当年夜饭餐桌上，看着一盘盘腊味或腊菜端上桌，闻着一缕缕独特且浓郁的腊香，吃着那一块块包含辛劳和情感的腊肉，就是一年中年味最足，幸福感最强的时刻了。</p>
+<p>有这份记忆植根在脑海里，<strong>人们会自然把“腊味”与“家味”、“年味”划上等号了</strong>，这份味觉记忆甚至会伴随一生哦。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-46d5198732def874480d4cd24b4c850d_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，<strong>在这种前提下，“腊味”的含义真就不只是好吃了</strong>。</p>
+<p>特别是身在异乡的游子，没办法回家过年，忽然收到家里寄来的各种腊味，血液里的 DNA 马上就会被触动，感慨万分。</p>
+<p>因为，<strong>你收到的是一份割舍不下的乡愁、一份充满情怀的回忆，一份安抚人心的挂念</strong>啊。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a4c6498441ec3bfd45fc480707edeb0f_720w.jpg?source=8673f162" alt=""><figcaption>这是我今年收到老家寄来的腊肉，非常珍惜吃了半年啊~</figcaption></figure>
+<p>《舌尖上的中国》里对于“腊味”的描述，就足以说明一切了：</p>
+<blockquote>“这是盐的味道、风的味道、阳光的味道、也是时间的味道、人情的味道、这些味道交织在一起，从舌尖浸入心间，早已分不清哪一种是滋味，哪一种是情怀。</blockquote>
+<hr>
+<p>谢谢你看到这里，我是<a class="internal" href="https://www.zhihu.com/people/9186d7285d15c32e1f147428fddce4af">@秋食爱吃饭</a>，一个爱吃喜欢下厨偶尔话痨的人。</p>
+<p>感兴趣的关注一下，一键三连也不嫌多，咱们随缘再聊啦。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/383603649">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1994564999134343291">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787582</guid><pubDate>Sat, 14 Feb 2026 18:27:49 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787321</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aa0f225d4932354c05172f6ab8c7d192.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787647</guid><pubDate>Sun, 15 Feb 2026 01:50:47 GMT</pubDate></item><item><title>店里单曲循环的广告歌，长年累月下来会对店员产生心理影响吗？如果会，那店员怎样才能缓解这种「精神污染」？</title><link>http://daily.zhihu.com/story/9787656</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-2255230cc2f76363d6ffb197ef693757.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -323,41 +132,291 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 ·  如果进化论是对的，植物为何不进化得很难吃？</h2>
+<h2 class="question-title"></h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-5d8d2b5698ad3b9b58b581c67a60dfe2_l.jpg?source=8673f162">
+<span class="author">解磊，</span><span class="bio">格物当澄明似镜，处世可烂漫如诗</span>
+<a href="https://www.zhihu.com/question/1999154193311690902/answer/2000615197728085675" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p> </p>
-<p>Q：<a href="https://www.zhihu.com/question/663413105/answer/1950966832900051943"> 如果进化论是对的，植物为何不进化得很难吃？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/4ad982b1a948d24a582fe3bd3add1052">@无路赛</a> ：如图所示，欢迎补充</blockquote>
-<p><img src="https://pic-out.zhimg.com/v2-a786ff737b4427d84688008727dbd2dd~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1770375161-0-0-326f14182c7a694fddf7b506b74b28b2&bizSceneCode=article_draft&expiration=1770375161&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""><img src="https://pic-out.zhimg.com/v2-aed58f6955361c40120dcacc0e9bb88e~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1770375161-0-0-04f6e80d6252b1e23abf230d4e0e6663&bizSceneCode=article_draft&expiration=1770375161&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/656676848/answer/94869021128">你见过的最有笑点的图片是什么？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/545f34aca300a968ae8f7fe7256fff1b">@芭三爱舞</a> ：看到这问题下有个高赞的，我也发一个关于物业类型的。<br>恩怨分明<br>能收到赞和关注，感激不尽。</blockquote>
-<p><img src="https://pic-out.zhimg.com/v2-2bbe617c84d1ce160e21ece1ec28549e~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1770375161-0-0-d46cab1fdf929326f01a28937144a362&bizSceneCode=article_draft&expiration=1770375161&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/29554848/answer/1981361690277860417">如何不吹牛地形容北京有多大？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/d875f7d1e14a50661abadb33e0996697">@林三菇凉</a> ：我住亦庄,周末的时候一个住西直门+附近的朋友说好久没见了,约本着一起吃个饭。算了半天去哪里碰头,最终我们一致决定......<br>去天津!<br>我从家打车到亦庄火车站 10 分钟,高铁 26 分钟到天津;<br>她坐四号线 20 多分钟到北京南,高铁 35 分钟到天津。<br>天津吃饭还便宜<br>真是一个愉快的周末!</blockquote>
-<p>Q：<a href="https://www.zhihu.com/question/301693251/answer/3539407873">你见过最脑残的设计是什么？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/e6904dad0ead7fd4f71fb5b8a523065c">@说实话的小仙姑</a> ：满心欢喜订购移动和视频无限流量套餐后发现，「和视频」是个 app</blockquote>
-<p><img src="https://pic-out.zhimg.com/v2-3fed0fbb4bf4a8af64b9c81f26722a41~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1770375161-0-0-fe4ef9bb3b928c5cbda389b4d5526a7e&bizSceneCode=article_draft&expiration=1770375161&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
-<p>Q：<a href="https://www.zhihu.com/question/7846282477/answer/1979851306358310685">你用AI编程用到什么深度了？</a></p>
-<blockquote><a class="member_mention" href="https://zhuanlan.zhihu.com/people/672879d41320e9aab0e1e41b82d7c9d8">@啦不啦咯</a> ：看看2025年度最热编程语言就知道了！！！</blockquote>
-<p><img src="https://pic-out.zhimg.com/v2-2512439041cde1698cc42611fe1a9306~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1770375161-0-0-75fe1a063426da2f52c45d10f37da189&bizSceneCode=article_draft&expiration=1770375161&incremental=false&mid=b267e0c0b0e4862799a1f6967c10cbb2&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1" alt=""></p>
+<p><strong>是的。</strong></p>
+<p><strong>这在零售行业中，是一个非常正经的员工福祉议题。</strong></p>
+<p>音乐可以改变人们的情绪状态，这是个没有争议的事实。主要的讨论主要集中在音乐是如何改变人们心境或情绪、歌词的影响大还是旋律的影响大，会不会有个体差异的不同等等。</p>
+<p>这个技术叫做<strong>音乐心境诱导程序（MMIP，Musical Mood Induction Procedure）</strong>，是一种在实践中广泛应用的技术，也是这些广告歌曲和氛围音乐在这些场合播放这些音乐的初衷<sup>[1]</sup>。</p>
+<p>不过，像是奶茶店这样如此密（sang）集（xin）频（bing）繁（kuang）的反复播放同一首歌，这种情况就得另说了。</p>
+<p>这<strong>大抵</strong>上可以看作是一种营销推广行为，将企业的品牌与一段旋律或一段音乐联系起来，让消费者听到这段旋律就能自动联想到品牌。</p>
+<p>最典型的，就是<strong>Intel 的那著名的五个音符：灯，等灯等灯</strong>。</p>
+<p>知道的朋友，应该读到这几个字就能回忆起那段旋律，同时直接想到 Intel 这个品牌。</p>
+<p>这个东西叫做<strong>「声音标志（Sonic Logo）」或「音频标志（Audio Logo）」</strong>，在很多国家是可以注册声音商标（Sound Trademark）的，一些大公司（如 Inter、可口可乐等）都会建立专门的 Sonic Logo 系统，对应视觉上的 VI 体系。</p>
+<p>而奶茶店的操作，之所以加上「大抵」二字，是因为它是用了一整首歌，通过反复播放并作为氛围音乐的方式，实现了 Sonic Logo 的效果。</p>
+<p>怎么说呢，倒是也做到了，<strong>只是属于那种纯粹的力大砖飞的手段，十分不优雅。</strong></p>
+<p><strong>并且，就像题目中提到的，会对员工的心理产生不利的影响。</strong></p>
 <hr>
-<p> </p>
-<p> </p>
+<p>回到开始讲到的音乐心境诱导程序的研究，研究发现，积极的音乐确实能诱发人们的积极情绪，导致更多的亲社会行为；同样，消极的音乐也会诱发人们的消极情绪<sup>[2]</sup><sup>[3]</sup>。</p>
+<p>甚至，<strong>暴力的歌词可能直接诱发人们可观察到的攻击行为。</strong><sup>[4]</sup>。</p>
+<p>不过，<strong>音乐体验是一种主观性很强的过程</strong>，同一首歌或旋律，对于不同的个体产生的影响是不同的。</p>
+<p>简单讲，就是一首歌是大调旋律且有快乐的歌词，这个通常会被认为是一首积极情绪的歌曲，可只要你认为它是悲伤的，无论这种悲伤感觉是源于这首歌是让你想起了你的白月光，还是纯粹是听不懂这首歌的歌词，它对你就是一首悲伤的歌曲。</p>
+<p>知道这个道理，你就会发现奶茶店的场景，<strong>同一首歌对于来消费的人和店内的员工，也一定是两种不同的体验。</strong></p>
+<p><strong>对于偶尔来购物的消费者，这首反复播放的热热闹闹你好我好的曲子能让人快乐，可对于反复听这首曲子的员工，大概率，会让他们烦躁抓狂。</strong></p>
+<hr>
+<p>我不太能找到国内奶茶店员工的抱怨，倒是能从 reddit 上找到不少某洋奶茶店员工的吐槽。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2434f559e1287ebdf2f8f97f6655f927_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-19c882a2797dcf76d7cdd3107485487d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-61d1d4b3902736213f7eb4ddf2a0b825_720w.jpg?source=8673f162" alt=""></figure>
+<p>要知道，这家洋奶茶店平时一般是随机放一些 Jazz 风格的氛围音乐，只是在特定的节假日才会如此反复播放同一首歌，就引起如此之多的吐槽。</p>
+<p>你再看看这些员工吐槽的内容，就知道他们对这些反复播放的洗脑歌曲有多反感了。</p>
+<p>与此类似的，在圣诞节等节假日，国外很多大商场也会反复播放类似的圣诞歌曲，以营造节日气氛。</p>
+<p>这些音乐，对于只是来偶尔购物的人们而言，是非常不错的气氛烘托，但对于这些场所的工作人员而言，就堪称灾难了。</p>
+<p><strong>一些员工会为了避免听到这些音乐，偷偷带着消音耳机工作；也有人发起了「自选歌单」活动，希望能拿回选择工作氛围音乐的主动权。</strong></p>
+<p>所以，如何才能缓解这个问题呢？</p>
+<p>首先，<strong>得大家都意识到这确实是个问题，才能谈下一步的策略，你说是吧？</strong></p>
 </div>
 </div>
 
 
+<div class="view-more"><a href="https://www.zhihu.com/question/1999154193311690902">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787321</guid><pubDate>Sat, 14 Feb 2026 18:27:50 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787656</guid><pubDate>Sun, 15 Feb 2026 01:50:47 GMT</pubDate></item><item><title>为什么无人机外形为什么不直接等比例缩放有人驾驶的战斗机/直升机？</title><link>http://daily.zhihu.com/story/9787660</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7731d0ed800c2fd75366b8ce9944dd52.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">为什么无人机外形为什么不直接等比例缩放有人驾驶的战斗机/直升机?</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户</span>
+<a href="https://www.zhihu.com/question/668978332/answer/3679810424" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p><strong><strong>因为没有了“人”的束缚，无人机实际上有着更大的设计自由度</strong></strong></p>
+<p>很多很有潜力的布局是只有在没有人在飞机上的情况下才能实现的，毕竟人类还是“被重力束缚”的血肉苦弱罐装猴子，不仅对加速度的大小有要求，对加速度的方向也有要求。</p>
+<p>比如，我要设计一架隐身超巡的飞机，但是同时又要起降性能好。这种需求在有人机上非常难以实现，因为二者的需求完全自相矛盾——隐身要求把进气道和尾喷管等开口都尽可能藏在背面，靠机腹遮挡来避开地面雷达照射；而起降对低速大攻角性能的要求则希望进气道在机体腹部，大攻角时不会被机身遮蔽。</p>
+<p>但如果是无人机，上述需求就可以轻松得到满足——</p>
+<p><strong>我把起落架、进气道、尾喷管的开口全部设计在机体的一面不就完了？</strong></p>
+<p>反正<strong>无人机没必要分出个上下</strong>，我把进气道尾喷管起落架这些开口通通扔机背上，起降的时候飞机直接滚转 180 度过来用机背降落，巡航的时候再翻回去让机腹对地保持隐身。麻烦的也就是发动机供油要做正反两套而已。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-99ba3bde4ed93a97c7790b07bf0033f2_720w.jpg?source=8673f162" alt=""><figcaption>因为见过的类似概念找不到了所以自己瞎几把建了个模，总之懂我什么意思就行</figcaption></figure>
+<p>这样一来，所有的问题都得到了完美的解答，而这是有人机根本做不到的事——除非学高达搞个会沿着过载方向转的座舱，但那样一来重量和复杂度都会上天，还不如直接无人机拉倒。</p>
+<p>这是往简单了说。</p>
+<p>往复杂了说，那就是：</p>
+<p><strong>由于流动性相似原理和平方立方反比定律等因素，小型飞机的布局和结构不可能简单地由大型飞机等比例缩小得到。</strong></p>
+<p>前一点的具体解释会非常复杂，但总的来说可以用下面的说法粗线条地概括。</p>
+<p>首先我们需要知道，现实中的流体是有粘性的，这当然也包括空气。所以当空气流过物体表面的时候，必然会在粘性力的作用下产生摩擦。</p>
+<p>这样一来，物体表面就会有一层空气，在粘性力的作用下贴在物体的外表面。从外界自由流动的气流开始，越接近物体表面，粘性和摩擦对气流的减速程度就越大，直到最下面紧贴物体表面的一层，处于与物体本身相对静止、没有任何摩擦的状态。从紧贴物体表面的这一层开始，到速度与环境空气相同、不受影响的位置为界，这中间夹着的这样一层受到摩擦和粘性作用而相对物体表面减速乃至静止的气流，就被称为<strong>附面层</strong>或<strong>边界层。</strong>从理想无粘流体的角度来看，附面层就相当于在物体表面附着了与之厚度相同的一层粘着物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0a7ef755a15ee16effbd1a6fcfc5a76e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-510bc7abb8bcb6406310cc4a105f61d2_720w.jpg?source=8673f162" alt=""><figcaption>连你的手伸到风中都会产生附面层</figcaption></figure>
+<p>理想情况下，当物体表面足够光滑时，粘性力应该能够让附面层紧贴其表面流动，因此从内到外，气流是沿着垂直于表面方向按速度依次分层流动的，这被称为<strong>层流（Laminar）附面层</strong>。但当情况没那么理想的时候，各层之间就会发生分离并互相掺混，形成<strong>湍流（Turbulence）附面层</strong>。上面的照片中，在手的下半部分产生的就是层流附面层，而从指尖离开时的气流则是湍流附面层。</p>
+<p>在某些情况下，可能是由于表面粗糙度过大，或者是由于表面曲率过大，层流附面层会在沿着物体表面流动一段距离后分离并变为湍流附面层，这被称为<strong>转捩</strong><em>（lie）</em><strong>（Transition）</strong>，就像上图中气流流过指尖后发生的变化那样。</p>
+<p>均匀平滑的层流显然造成的扰动和产生的阻力都比较小，所以在设计飞机时，几乎所有人都会尽可能追求在机身表面保持尽可能大面积的层流附面层，并尽量推迟层流附面层转捩为湍流的位置。</p>
+<p>总的来说，很明显，对于表面摩擦系数相同的物体，在同样的速度、同样的气流流速和流量，以及同样的其他环境因素下，它们产生的附面层厚度应该是相同的。</p>
+<p><strong>而这就是小型飞机的气动外形不能简单粗暴地直接由大型飞机等比例缩小得到的核心原因——</strong>虽然外形整体缩小了，但飞行时在其表面堆积的附面层厚度却不会随之以相同的比例缩小，这样一来堆积的附面层就会破坏原有的气动外形。</p>
+<p>最极端的情况就是昆虫和许多小型鸟类，在这一尺度下，附面层厚度几乎与它们自身的尺度处于同一数量级，以至于它们的翅膀几乎完全就是在附面层里工作的：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5be2ff4284055f98da2754c622698a5d_720w.gif?source=8673f162" alt=""><figcaption>蜂鸟扑翼过程的仿真，可以看到附着在翅膀上厚厚的附面层（出处：https://www.wired.com/2014/07/science-graphic-hummingbird-wings/）</figcaption></figure>
+<p>在现实中，如果你仔细观察大多数飞机，那么你会发现，发动机的进气道唇口总是会离其安装的位置（机身或机翼上）有一定间隔，这个间隔就是为了让其安装的机身或机翼上的附面层可以流过，确保发动机吸入的是没有受到机身 / 机翼扰动的干净空气。在战斗机或其他超声速飞机上，这个特征会比较明显：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-67e13a7967e67005331f2415a7b637b9_720w.jpg?source=8673f162" alt=""><figcaption>从这个角度可以直观地看到 F-16 的附面层隔道是如何将机头附面层向两侧”劈开”的</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f40de230b98e3742d2e9fb73a8dbb876_720w.jpg?source=8673f162" alt=""><figcaption>鹰狮的附面层隔道</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d3e211c3eaad5ca34b5bd8ea8238d52f_720w.jpg?source=8673f162" alt=""><figcaption>协和的发动机舱也有，只不过由于其的安装位置很贴近机翼前缘，附面层不会堆积得很厚，所以只有很难看出来的一点点间隔（顶部前端阴影处）</figcaption></figure>
+<p>在民航客机上则似乎找不到附面层隔道，因为它们的发动机舱都是用挂架连接在机身 / 机翼上的。但同样你会发现，挂架本身实际上就起到了附面层隔道的作用，让发动机远离机身或机翼。</p>
+<p>对于尾吊发动机的飞机来说，这种间隔会非常明显，因为附面层的堆积显然是从机头开始一点点累积的，随着气流流过整个机身长度，最后到达机尾时的附面层厚度会非常厚。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-43b190ad2a590aa4c347d562c7beb11a_720w.jpg?source=8673f162" alt=""><figcaption>克兰菲尔德大学使用其由 BAe146 改装而成的 FAAM 试飞平台测量的机体表面附面层情况，可以看到附面层从机头到机尾逐步累积，最终在机尾末端分离，形成了机身的大多数尾流</figcaption></figure>
+<p>在下图中的 DC-9 上，就能明显地看到这种间隔：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-eb716d5ab66afaf62e433786c6a17df6_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种情况在更大的尾吊发动机飞机上更是显而易见：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ce8f66f40fcbb8f46e51a771280acdc9_720w.jpg?source=8673f162" alt=""><figcaption>L1011 的机尾发动机进气道，和机身之间同样留出了相当之大的间隔</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-34abb893d3e52d656753d691188815d5_720w.jpg?source=8673f162" alt=""><figcaption>同为机尾布置三发的 MD-11 也是一样</figcaption></figure>
+<p>而为榨取每一点经济效益而不懈努力的民航界也因此盯上了机身附面层。NASA 目前有几个项目，研究通过在机尾加装电动风扇或干脆直接将发动机装在机尾正中，利用其抽吸掉机尾堆积的附面层来降低巡航阻力的可能性。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2e6753305d7dc993904d065a43f8c613_720w.jpg?source=8673f162" alt=""></figure>
+<p>上图是 NASA 正在研究的“带尾附面层推进的单通道涡电混动飞机”<strong>（Single-aisle Turboelectric Aircraft with Aft Boundary-Layer Propulsion，STARC-ABL，</strong>这名字真是又臭又长）概念方案，在机尾安装一台电动涵道风扇，其动力既可以在巡航时抽吸掉机身后段的附面层，也可以在必要时作为助推。</p>
+<p>某种程度上说，对附面层和其带来的一切效应是否了解，可以说算是判断一个人是不是真懂飞机的试金石——如果你仔细观察，会发现许多一般通过“科幻概念原画”作者画的酷炫架空飞机，<strong>都会忘记设计附面层相关装置，或者出现明显错误的设计。</strong></p>
+<p>我们以皇牌空战 7 中出现的三架（部分）架空机为案例：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-01fb692279eae2d83cdbe53e32825431_720w.jpg?source=8673f162" alt=""><figcaption>FB-22：荷叶你给我干哪来了，这还是 DSI 吗</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6fd5f6f10ddf09827a51abf69f365926_720w.jpg?source=8673f162" alt=""><figcaption>X-02S：我不造啊</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dad74b11a30d5dae321b60c588f39a2e_720w.jpg?source=8673f162" alt=""><figcaption>震电 II：什么是附面层？</figcaption></figure>
+<p>这三架飞机，至少在创作者的意图中，都采用了所谓的无隔板超音速进气道（<strong>Diverterless Supersonic Intake，也就是大名鼎鼎的 DSI 进气道）</strong>。这种进气道的原理是，通过在进气道中部设计一个外形精确符合计算结果的鼓包，可以像传统的附面层隔板那样，将前方的附面层向两侧推开，确保只有干净气流进入发动机。鼓包同时也能对前方的干净空气进行减速增压，由此产生的高压区会进一步将附面层向四周推走。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1e5bcb435381763cb3a300ff83f1b3da_720w.jpg?source=8673f162" alt=""></figure>
+<p>相比常规设计，这种进气道由于没有附面层隔道和隔板可能造成的散射，也不需要设计附加的进气道调整和排气装置，因此隐身性能更好、重量更轻，故此已经成为了新一代战斗机进气道设计的标准相。</p>
+<p>但是很显然，对于上面这三架架空机来说，作者只知道有 DSI 这种进气道，却完全不知道它是如何工作的，因此只是照猫画虎反类犬。细看我们会发现，这三架飞机的鼓包看似有模有样，实则根本起不到将附面层推开的作用。</p>
+<p>更气人的是，PA 本来并不是真的不懂，他们的其他较早推出的架空机上明明都有好好的附面层隔道：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1120bbf0fe4ca86a2ee4b8cbc9eb6f6e_720w.jpg?source=8673f162" alt=""><figcaption>CFA-44，附面层隔道非常明显</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-02c3ee23c197bc0614e0cb4d9473bb2d_720w.jpg?source=8673f162" alt=""><figcaption>ADF 系列看似非常科幻且不合常理，但人家一样有好好的附面层隔道，唯一的问题可能是进气道长度是否过短</figcaption></figure>
+<p>扯远了。</p>
+<p>总之，流体的粘性会对流动状况造成显著的影响，附面层本身就是这样一个例子。因此，在流体力学中会有这么一个系数，用来表达粘性力对流体流动的影响程度。这就是雷诺数<strong>（Reynolds number，常用符号是</strong><em>Re</em><strong>）</strong>，其是一个无量纲系数，是流体流动过程中惯性力与粘性力之比。</p>
+<p>显然，<strong>雷诺数越低，流体的粘性和与物体表面的摩擦力就越是占据主导地位，气流倾向于附着在物体表面，并形成厚重的附面层堆积；反之，雷诺数越高，气流流动时的惯性力或者说势能就越是占据主导地位，气流越容易从物体表面分离。</strong></p>
+<p>对于大型和小型飞机来说，它们的雷诺数很轻易就能达到数个数量级的差距——绝大多数大型飞机的雷诺数在数十万甚至上百万量级，而较小的飞机往往只有几万或十几万。换句话说，这二者的流动特性有着巨大的差别，因此自然不可能通过简单缩放外形来满足不同尺寸飞机的设计要求。</p>
+<p>至于航模尺寸乃至更小的无人机，雷诺数往往只有数万，已经和大型飞机的流动特性几乎完全不同了。也因此，大多数航模像真机都不得不对参考原型的气动布局做出一些调整，才能维持其飞行性能，而这已经是最接近题主“等比例缩小大型飞机气动布局”的东西了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5926692b3335facf96b4344f682017f4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b34b2eb8adb2a9f966dbe3a75b0db46_720w.jpg?source=8673f162" alt=""><figcaption>幻影 2000 实机（上）和航模（下）的对比，航模版本的前缘明显变钝，机翼和尾翼的厚度都增加了不少</figcaption></figure>
+<p>这样一来，题主认为的<em>“反正气动外形在有人驾驶飞机的时候是经过验证的呀”</em>就不成立了。</p>
+<p>实际上，真正的风洞试验当中，如何确保缩比模型的流动性与实际飞机一致，是个很困难的事情，不仅仅是简单把来流速度也等比缩小那么简单。这时候我们就要用到流动性相似定律，即控制包括雷诺数在内的几个无量纲系数与预想的实际流动状况也呈对应的比例，那么这时候模型的吹风才能真正等比例缩放并反应实际飞机的表现。</p>
+<p><strong>这是从气动上说。从结构上说，我们还有平方立方反比定律。</strong></p>
+<p>通俗地说就是，随着物体的尺寸越变越大，<strong>其表面积和体积之比会越来越小</strong><em>（因为一个是平方，而另一个是立方）</em>。这就意味着，较大的飞机<em>（实际上对任何载具或结构都是如此）</em>容易拥有较轻的结构重量，因为其单位体积对应的表面积会更小，也就需要更少的支撑结构；而较小的飞机则反之，结构重量的占比会更高。</p>
+<p>这方面一个明显的体现就是双发重战对单发轻战，重战可以拥有轻战两倍的发动机推力，但空重却不会因此而同样增加一倍。也因此，在空战中重型机往往会占有明显的航程和能量优势。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d54ee44e1dd9f72793e7e388d4df0566_720w.jpg?source=8673f162" alt=""><figcaption>F-15C 空重 12.7 吨，F-16C 空重 8.3 吨，F-15 的空重仅增加了一半，而不是一倍，但拥有两倍于 F-16 的发动机推力。固然这里有 F-15 在设计上极致减重的因素在，但归根结底还是得益于平方立方反比定律</figcaption></figure>
+<p>这一原则也适用于所有的大型结构或载具——只要其他方面跟得上，体型越大，结构重量的占比就越小，结构效率就越高。“大就是美”并不是没有道理的。</p>
+<p>反过来，如果要把飞机整体缩小，那么内部结构并不能简单地跟着等比缩放，不然你的结构强度怕不是也要被等比缩小了。</p>
+<p>最后总结：</p>
+<p><strong>由于流动相似性原理和体积平方立方反比定律的影响，飞机设计并不能简单地通过等比缩放来获得大型和小型飞机的气动与结构布局，并且也无法做到“使用经过验证的气动外形”这一可能。</strong></p>
+<p>实际上，等比缩放恰恰是在飞行器乃至其他任何载具和结构设计中最不可能的选择，因为它看似简单粗暴，实则会由于上述的原因而让与原有布局的继承性变成笑话。</p>
+<p>最明显的例子就是经典虫和超虫，这俩飞机猛看起来一模一样，实际上超虫的布局等比放大了大约 30%，<strong>结果这一缩放就让它身上和经典虫通用的部件基本上只剩下了座舱和起落架。</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-38f60da737135abfbe4587d0c13021e1_720w.jpg?source=8673f162" alt=""></figure>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/668978332">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787660</guid><pubDate>Sun, 15 Feb 2026 01:50:48 GMT</pubDate></item><item><title>太阳、地球、月亮哪个看起来更圆些？</title><link>http://daily.zhihu.com/story/9787665</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e56b4b097c76508be402194e082aec78.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/a568fe3a1_l.jpg?source=8673f162">
+<span class="author">七小七，</span><span class="bio">脚踏实地，仰望星空。心有猛喵，细嗅鱼干。</span>
+<a href="https://www.zhihu.com/question/10275765802/answer/1999822999495405935" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>从理论上谁更圆的角度来比较的话，太阳最圆，其次是月球，最扁的是地球。</p>
+<p>直接看三者的扁率就可以了。</p>
+<p>扁率的定义：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4d93d10729b02dc15063c42358b5dd3c_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>三者的扁率：</strong></p>
+<p><strong>太阳：0.00001（接近于完美球体）</strong></p>
+<p><strong>月球：0.0012（也非常圆了）</strong></p>
+<p><strong>地球：0.00335（跟上面两个相比稍微显得椭圆，但实际上仍然非常圆）</strong></p>
+<p>三者扁率的不同，主要是性质和自转决定的。</p>
+<p>对于大质量天体来说，受到引力影响，它们会达到或接近流体静力平衡的状态（也就是个球）。而自转越快，越容易把自己拉扁，也就更接近椭球体。</p>
+<p>太阳是个等离子体的气体球，与一般恒星相比，自转算是比较慢的了，赤道附近的自转周期约为 25 天（较差自转）。由于它是个流体球体，非常容易达到流体静力平衡，如此慢的自转会导致它非常接近球形。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cf5d1a8d44b358b48da92d9aa8f47c9a_720w.jpg?source=8673f162" alt=""><figcaption>帕克太阳探测器拍摄到的太阳</figcaption></figure>
+<p>地球和月球则主要由岩石构成，它们比太阳更难以达到流体静力平衡。其中月球的自转周期约 27.3 天，地球的自转周期是 23.93 小时。因此月球比地球更圆。</p>
+<p>眼尖的小伙伴可能发现了，月球自转不是比太阳更慢吗？怎么它反而没有太阳圆呢？</p>
+<p><strong>原因是，月球现在并非是流体静力平衡的状态。它比流体静力平衡的体型要更扁一些。</strong></p>
+<p>月球没有达到流体静力平衡的原因，可能跟它的形成与演化历史有关。</p>
+<p>根据目前主流的理论，大约在 45.5 亿年前，也就是太阳形成后 5000 万年左右，一颗火星大小的天体“<span class="nolink">忒伊亚</span>”撞击了原始地球，撞击将物质抛射到地球轨道上，这些物质在地球周围形成了一个巨大的<span class="nolink">碎片环</span>，随后<span class="nolink">吸积</span>形成了月球。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-290db7719d40cf7a90840701873efa89_720w.jpg?source=8673f162" alt=""><figcaption>月球形成过程的示意图</figcaption></figure>
+<p>月球刚刚形成时，比现在更靠近地球，受到的潮汐力更大，它本身的自转速度也更快。因此比如今更扁。随着时间推移，它被地球的潮汐力拉扯，自转越来越慢，轨道也逐渐升高，远离地球，最终被地球潮汐锁定，自转变成了如今的 27.3 天。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-95a78f593fbdd956c6f0021c56bd2f28_720w.gif?source=8673f162" alt=""><figcaption>月球被潮汐锁定了，因此只能看到月球的一面。由于天平动的原因，我们大概能看到 59%的月面。</figcaption></figure>
+<p>但是，在远离的过程中，月球逐渐冷却，内核引力不足以再改变它的体型，最后就被“冻住了”。因此，月球并没有达到流体静力平衡，而是保持了当年自转较快时更椭圆的体型。</p>
+<p>有关月球是如何形成的，可以看这里：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/48048701/answer/1989355777513768062">月球到底是如何形成的？</a></p>
+<p>此外，太阳是流体，质量也更大，因此更容易把自己“拉圆”，而地球和月球质量较小，还是岩石组成的固体，是否能足够圆，还得考虑内部结构。这也是太阳更圆的一个原因。</p>
+<p><strong>最后是冷知识时间：</strong></p>
+<ul>
+<li><strong>太阳系行星中，自转最快的是木星，自转周期是 9.9 小时。但扁率最大的是土星，为 0.0987。土星比木星更扁的原因，是因为它的密度小，因此更容易被拉成椭球形。</strong></li>
+</ul>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0dd0e33f157ad4dc683d26d2faa193ba_720w.jpg?source=8673f162" alt=""><figcaption>土星肉眼看上去就挺扁的</figcaption></figure>
+<ul>
+<li><strong>恒星转的太快，真的会把自己拉扁。比如牛郎星，织女星，狮子座的一等星轩辕十四，都是有名的小陀螺，因为转的太快而把自己拉成了一个椭球体。</strong></li>
+</ul>
+<p>织女星 12.5 小时就能转一周，比太阳快得多，因此扁的很明显。</p>
+<blockquote>想了解更多织女星的故事，可以戳这里的小传：<a class="internal" href="https://zhuanlan.zhihu.com/p/138441594">满天星斗呼唤我（2）——织女星</a></blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ddabaf28d113032b44029d58e397b155_720w.jpg?source=8673f162" alt=""><figcaption>牛郎星，太阳和织女星</figcaption></figure>
+<p>牛郎星 8.9 小时就能转一圈，因此比织女星更扁。</p>
+<blockquote>牛郎星的小传：<a class="internal" href="https://zhuanlan.zhihu.com/p/556645803">满天星斗呼唤我（11）——牛郎星</a></blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac86395cc1fd4d573d06e9f3613fd927_720w.jpg?source=8673f162" alt=""><figcaption>牛郎星的真·高清大图。它是侧着身子对着我们的</figcaption></figure>
+<ul>
+<li><strong>最扁的恒星是波江座的一等星水委一，赤道直径比两极直径大了 56%。它位于南半球，北方小伙伴看不到它。</strong></li>
+</ul>
+<blockquote>水委一的小传：<a class="internal" href="https://zhuanlan.zhihu.com/p/581370649">满天星斗呼唤我（15）——水委一</a></blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-76a2a150c66c98dd782a05281158da0b_720w.jpg?source=8673f162" alt=""><figcaption>水委一非常的扁</figcaption></figure>
+<ul>
+<li><strong><span class="nolink">光谱类型介于 O5 和 F5 之间的主序</span>星自转速度通常都很快，并且质量更大的恒星往往自转更快。</strong></li>
+</ul>
+<p>恒星平均自转速度顶峰位于 B 型星，而不是更大的 O 型星。B 型星的平均线速度可以达到 200 公里~210 公里 / 秒。前面提到的水委一就是 B 型星。线速度达到了 250 公里 / 秒。</p>
+<p>B 型星轩辕十四转的更快，自转速度高达 318 公里 / 秒。赤道直径比两极的直径大 32%，把自己转成了纺锥形。</p>
+<blockquote>轩辕十四的小传：<a class="internal" href="https://zhuanlan.zhihu.com/p/598624356">满天星斗呼唤我（24）——轩辕十四</a></blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9c40b4c9747d89a37f371df05ffa40a9_720w.jpg?source=8673f162" alt=""><figcaption>轩辕十四与太阳的对比</figcaption></figure>
+<p>A 型星也有许多转的特别快，平均线速度为 160 公里~190 公里 / 秒，牛郎织女都是 A 型星。</p>
+<p>G 型星转的很慢，平均约 12 公里 / 秒，但是太阳在 G 型星里也算是转的慢的了，只有 2 公里 / 秒。</p>
+<ul>
+<li><strong>随着年龄增长，恒星的自转速度会越来越慢。</strong></li>
+</ul>
+<p>这是因为恒星会通过光球层向外喷射恒星风，这会缓慢损失质量，恒星风也同时带走了恒星的角动量。损失了角动量的恒星自然就转的慢了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b695a8a9bfc8bd49d6c3346d88f8212a_720w.gif?source=8673f162" alt=""><figcaption>太阳的恒星风</figcaption></figure>
+<ul>
+<li><strong>小质量恒星死亡后的残骸白矮星，自转速度普遍不快，约为数小时到数天之间。</strong></li>
+</ul>
+<p>白矮星自转慢是因为它在星生末期恒星风特别猛烈，带走了大部分的角动量。</p>
+<p>这些恒星风扫过之前抛出的物质，会在白矮星周围形成一个小小的发射星云，叫做行星状星云。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9590ff69fbac9db642f20b519de34d7a_720w.jpg?source=8673f162" alt=""><figcaption>小质量恒星生命末期抛出的物质会围绕在白矮星周围，形成行星状星云</figcaption></figure>
+<ul>
+<li><strong>大质量恒星死亡后的残骸中子星，自转速度反而非常快，通常在毫秒级。</strong></li>
+</ul>
+<p>这是因为中子星是由超新星爆发形成，速度很快，来不及带走大部分角动量，导致角动量都被残留到了中子星上。而中子星的体积又特别小，根据角动量守恒，它的自转速度就会特别快。</p>
+<p>高度磁化的旋转<span class="nolink">中子星</span>，会从<span class="nolink">磁极发射电磁辐射</span>束。这样的中子星也被称为“脉冲星”。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-02cbec2da73daa74c482dce237bde695_720w.gif?source=8673f162" alt=""><figcaption>脉冲星产生的“灯塔”效应示意图</figcaption></figure>
+<ul>
+<li><strong>黑洞也有自转。</strong></li>
+</ul>
+<p>黑洞只有三个独立的物理特性：<strong><span class="nolink">质量</span>、<span class="nolink">电荷</span>、和<span class="nolink">角动量</span>。</strong></p>
+<p>没有电荷，也没有角动量的黑洞被称为<strong><span class="nolink">史瓦西黑洞</span>。</strong></p>
+<p>有电荷，没有角动量的黑洞被称为<strong>赖斯纳–诺德斯特伦黑洞。</strong></p>
+<p>有电荷，有角动量的黑洞被称为<strong>克尔–纽曼黑洞。</strong></p>
+<p>没有电荷，有角动量的黑洞被称为<strong>克尔<span class="nolink">黑洞</span>。</strong></p>
+<p>前三种黑洞都只存在于理论中，现实观测到的黑洞都是克尔黑洞。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-55eaa5140ee22b6dd4b8612e85622761_720w.jpg?source=8673f162" alt=""><figcaption>克尔黑洞边界的数学解</figcaption></figure>
+<hr>
+<p>最后的最后，是给自己的专栏打广告的时间。目前有以下专栏在更新，欢迎喜欢天文的小伙伴关注呀！</p>
+<p><strong><strong>专栏目录：</strong></strong></p>
+<p><strong>★收录关于天文的各种奇妙问题：</strong></p>
+<p>专栏（欢迎订阅）：<a class="internal" href="https://www.zhihu.com/column/c_1996004090837222172">星汉万里</a></p>
+<p><strong>★星星小传，将星星们的前世今生一网打尽：</strong></p>
+<p>专栏（欢迎订阅）：<a class="internal" href="https://www.zhihu.com/column/c_1245711541737582592">满天星斗呼唤我</a></p>
+<p>目录（欢迎收藏）：<a class="internal" href="https://zhuanlan.zhihu.com/p/655900102">满天星斗呼唤我——目录</a></p>
+<p><strong>★天文科普，从零开始看星空：</strong></p>
+<p>专栏（欢迎订阅）：<a class="internal" href="https://www.zhihu.com/column/c_1682160813425778688">且放远目观玄黄</a></p>
+<p>目录（欢迎收藏）：<a class="internal" href="https://zhuanlan.zhihu.com/p/655898131">且放远目观玄黄——目录</a></p>
+<p><strong>★每日天文大片，宇宙精彩瞬间定时放送：</strong></p>
+<p>专栏（欢迎订阅）：<a class="internal" href="https://www.zhihu.com/column/c_1990457525028546353">满船清梦压星河</a></p>
+<p>目录（欢迎收藏）：<a class="internal" href="https://zhuanlan.zhihu.com/p/1990459100803404481">满船清梦压星河 —— 目录</a></p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/10275765802">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787665</guid><pubDate>Sun, 15 Feb 2026 01:50:49 GMT</pubDate></item></channel></rss>
