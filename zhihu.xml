@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Mon, 16 Feb 2026 18:36:19 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么考拉的指纹和人类极其相似？</title><link>http://daily.zhihu.com/story/9787613</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-139357608abde7a085fde4c7c7e4db43.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Tue, 17 Feb 2026 01:45:20 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>猪的尾巴为什么卷卷的？</title><link>http://daily.zhihu.com/story/9787678</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aa56e90237ed3cdef072ed650cb69b1d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,53 +19,54 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
 <span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/1908066972450653969/answer/2000134784471540734" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/2000668780972508050/answer/2000678675482429141" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这是考拉的指纹<sup>[1]</sup>：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0d4311980b86832735bc712011170923_720w.jpg?source=8673f162" alt=""></figure>
-<p>准确来说，这是考拉足趾第一趾（a） 和手指第四指（b）。</p>
-<p>在扫描电镜下，如果拿人类的（下图 a、c，两种放大倍数）做对比：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-204677196108c0393835cbae60abb130_720w.jpg?source=8673f162" alt=""></figure>
-<p>你会发现考拉指尖（b、d）的斗型纹、箕型纹以及细微的特征点与人类如出一辙 。</p>
-<p>这种相似性在生物学上被称为趋同演化，即两个亲缘关系极远的物种为了解决类似的生存问题，独立演化出了相同的方案。人类的灵长类近亲大多有指纹，但考拉的近亲如袋鼠、袋熊则皮肤平滑， 这说明考拉并非靠继承“祖传代码”获得指纹。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-19d88d793b76a33ddce5475523dbd6d7_720w.jpg?source=8673f162" alt=""></figure>
-<p>要想知道为什么不同物种会产生相似的图案，得先知道指纹怎么来的？</p>
-<p>根据最新的生物学分析，指纹的形成遵循图灵反应扩散系统，这是一种通过化学信号相互作用产生重复图案的数学模型 。在胚胎发育期，皮肤表面的 WNT 通路诱导生长，而 BMP 通路负责抑制，两者博弈的结果决定了脊线的走向 <sup>[2]</sup><sup>[3]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dcb458200d527a4ba1cdefd1be6528ed_720w.jpg?source=8673f162" alt=""></figure>
-<p>有趣的是，指纹原本是一套试图制造毛囊的程序，但该程序在早期被强行中止，导致皮肤没有凹陷成毛囊，而是留下了突起的隆起 。这种被截断的程序意外地为考拉提供了生存工具。</p>
-<p>那么指纹有什么用呢？长期以来，人们认为指纹的作用是增加干摩擦力。</p>
-<p>然而，2009 年生物学家罗兰·恩诺斯（Roland Ennos）的研究推翻了这一直觉。他发现，脊线实际上减少了皮肤与平滑表面的接触面积，按物理公式计算，这反而会降低摩擦力。</p>
-<p>指纹的真正价值在于应对“湿润”和“不规则”表面<sup>[4]</sup>。当考拉在垂直、光滑且常常伴有露水或雨水的桉树干上攀爬时，指纹间的沟壑起到了排水渠的作用。</p>
-<p>它们通过微小的管道将多余的汗液或雨水引走，防止在皮肤和树皮之间形成润滑水膜（类似汽车轮胎在雨天发生的“水滑”现象）。同时，水分的排出让脊线处的皮肤保持适度的柔软和黏性，从而维持了最有效的抓握力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fc8e0871ccd506b35fd30f8613c97c9f_720w.jpg?source=8673f162" alt=""></figure>
-<p>考拉是极端的“挑食者”，它们仅采食少数几种桉树的叶片，且对叶片的成熟度有极高的要求。桉树叶含有大量的纤维素和有毒的酚类化合物，考拉必须精准筛选出那些能量高、毒素低的嫩叶。</p>
-<p>它的指纹在这里充当了“信号放大器”<sup>[5]</sup>。当脊线掠过物体表面时，会产生特定频率的振动，这些振动被脊线下的神经末梢感知。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b7fc1aeb52a204dc11361ffd46131d0f_720w.jpg?source=8673f162" alt=""></figure>
-<p>研究表明，摩擦脊能将触觉灵敏度提高多倍。考拉利用这种精微的触觉，可以在无需视觉完全参与的情况下，仅凭手指的触摸感知叶片的质地、厚度和含水量，从而完成复杂的筛选动作。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f77a5242d6ff3635dff4cff382efc7f_720w.gif?source=8673f162" alt=""></figure>
-<p>同样，人类的灵长类祖先也需要通过这种被指纹放大的振动信号，在茂密的树冠中判断果实的成熟度或树枝的承重能力 。</p>
-<p>至于树懒，尽管它和考拉都过着树栖生活，但在生物演化的道路上，它们选择了完全不同的参考答案。树懒依靠的是“钩爪策略”，其四肢演化成了长而弯曲的钩状结构，直接通过强力的爪子物理性地钩住树枝。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e9c4fd51ddc775d310499b0edf238535_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种结构更强调机械性的稳定，而非精细的触觉或复杂的摩擦力调节，因此它们的指尖并没有演化出摩擦脊纹 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca9e5aabc360e7f18ea7c3691cac9684_720w.jpg?source=8673f162" alt=""></figure>
-<p>考拉和人类两个物种在形态上的这种极端趋同，说明了生物演化的解决方案往往是有限的。</p>
-<p>既然双方的祖先都曾在多雨的树冠里讨生活，都需要面对垂直爬树不打滑、精准采摘不抓瞎的硬性挑战，物理法则最终就会把大家都推向同一个标准答案。说白了，只要考试题目完全相同，哪怕是分在两个教室里独立闭卷考了一亿年，大家最后交出的答卷也难免会一模一样 。</p>
-<blockquote>附：“考拉指纹骗过警察”是一个在网络上广为流传的轶闻。</blockquote>
+<p>如果把时间倒推回大约 9000 年前，你会发现猪的祖先欧亚野猪（<em>Sus scrofa</em>）并不具备这种特征<sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ba2080fb64e2ad4b17dbddc3f32a5dc_720w.jpg?source=8673f162" alt=""></figure>
+<p>野猪的尾巴是直的，这不仅符合空气动力学，还能在它们穿过灌木丛时充当某种信号旗，或者用来驱赶蚊虫。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1f276910cb98db925fc05da9d7f67004_720w.jpg?source=8673f162" alt=""></figure>
+<p>那么家猪的卷尾巴是怎么来的？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5e4f95bcad040699ff319fccb173fd1a_720w.jpg?source=8673f162" alt=""></figure>
+<p>查尔斯·达尔文在 1868 年就注意到了这个问题，他发现被人类驯化的动物往往会出现一套相似的特征，比如耷拉的耳朵、变短的吻部、出现白斑以及卷曲的尾巴 。这种现象后来被称为驯化综合征<sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-de2550c811f5680a7c6d1f2191232397_720w.jpg?source=8673f162" alt=""></figure>
+<p>直到 2014 年，亚当·威廉姆斯（Adam Wilkins）等人提出神经嵴细胞假说<sup>[3]</sup>，才算真正从发育生物学角度解释了这个问题 。故事的开头我们都熟悉：人类为了获得性格温顺的猪，无意中筛选了肾上腺发育较弱的个体。</p>
+<p>但关于尾巴的具体卷曲机制，故事比我们最初想象的更复杂。猪尾卷曲实际上是一个<strong>多基因控制的数量性状</strong>，虽然受环境影响，但遗传力中等偏高。现代基因组学并没有发现是神经嵴细胞直接“打印”错了尾巴，而是锁定了一些关键的遗传因子，其中最著名的就是 <strong><em>Brachyury</em>（意为“短尾”）基因</strong>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-df9c3a32ea96f85428fdc9c0d1f32e21_720w.jpg?source=8673f162" alt=""></figure>
+<p>研究表明，<em>Brachyury</em> 基因或其调控区域的特定等位基因变异，与尾椎的楔形化（Wedge-shaped）密切相关。</p>
+<p>这种突变导致尾椎骨化中心的形成发生改变，使得椎体无法生长为完美的圆柱形，而是像被切了一刀的积木一样被迫弯曲。这恰恰为神经嵴细胞假说提供了分子层面的证据，并非神经嵴细胞直接变成了尾骨，而是因为在胚胎发育中，神经管和脊索（脊柱的前身）的发育是紧密耦合的，牵一发而动全身。</p>
+<p>此外，控制体长的 <strong>NR6A1</strong>、以及和毛发卷曲有关的 <strong>KRT 与 KRTAP（角蛋白基因）</strong>、甚至 <strong>HOX 基因簇</strong>也都在这场“卷尾行动”中发挥了作用。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d135764a16f3d8975afb1b6a5a5e5bdb_720w.jpg?source=8673f162" alt=""></figure>
+<p>很多人误以为猪尾巴卷曲是因为肌肉在用力，就像人握紧拳头一样。如果这种逻辑成立，那么死猪的尾巴应该像绳子一样直。但事实并非如此，即便是在屠宰后，大多数家猪的尾巴依然保持着一定的卷曲度 。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-97021cf2a3ec85baa95baffaba0bbe5e_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是一种结构性的固化。解剖学研究显示，卷尾猪的尾椎骨并不是标准的圆柱体，而是呈现出梯形或楔形 ，通常位于中段（Ca4-Ca10 区域）。</p>
+<p>这种楔形变异（Wedge-shaped）就像拱桥的石块一样，天生就带有弧度。这种骨骼结构迫使尾巴在放松状态下依然保持螺旋状 。当然，肌肉张力确实参与了维持更紧密的卷曲，但这更多是骨骼形态决定的物理属性<sup>[4]</sup><sup>[5]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-92ce26429652d8c7a95a5c74a28636e4_720w.jpg?source=8673f162" alt=""></figure>
+<p>在现代养猪场里，一根笔直下垂的猪尾巴通常是麻烦的信号。</p>
+<p>动物行为学家发现，猪尾巴的姿态是其心理和生理状态的晴雨表。一条紧紧卷起的尾巴通常代表这只猪处于健康、兴奋或高唤醒度的状态 。相反，如果尾巴像被雨淋湿的绳子一样直直地垂在两腿之间，这被称为夹尾（Tucked tail），通常意味着猪正在遭受寒冷、疾病、或是社交压力<sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a1043806eb263ff1fddb06b716ccd410_720w.jpg?source=8673f162" alt=""></figure>
+<p>2018 年的一项研究指出<sup>[7]</sup>，观察到夹尾现象时，这只猪遭受同伴攻击或患病的概率显著增加 。在拥挤的猪舍中，直尾巴更容易成为其他无聊猪只的啃咬对象，这种行为被称为咬尾症（Tail Biting），一旦发生往往会导致严重的感染甚至引发同类相食 。</p>
+<p>当然，如果你想的话，可以手动拉直它。</p>
+<p>就像这样<sup>[8]</sup>：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b88dfdde3e9e59d88a975230989c5951_720w.gif?source=8673f162" alt=""></figure>
+<p>农夫用手指沿着猪的脊背中线向后抚摸，猪的尾巴就会神奇地像卷尺一样慢慢伸直，几秒钟后又会自动卷回去 。</p>
+<p>这种抚摸模拟了某种特定的感官刺激，可能触发了抑制背侧肌肉张力的反射弧，或者仅仅是一种类似被安抚后的放松反应 。对于兽医来说，这是一个实用的小技巧，不用把猪按在地上就能检查尾巴的皮肤状况。</p>
+<p>不过，并非所有猪都卷。越南大肚猪（Vietnamese Potbellied Pig）按照品种标准，其尾巴就是直的 。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-016c9f4195d33d242cf39fe20ee25a7e_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1908066972450653969">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2000668780972508050">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787613</guid><pubDate>Mon, 16 Feb 2026 18:36:16 GMT</pubDate></item><item><title>直接晒太阳可以补钙吗?</title><link>http://daily.zhihu.com/story/9787618</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ee9bc50a6df05c682133de2404a1de54.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787678</guid><pubDate>Tue, 17 Feb 2026 01:45:18 GMT</pubDate></item><item><title>对于昆虫的变态发育，如何能证明它们的意识前后是统一的，保留了发育前的它，而不是被夺舍？</title><link>http://daily.zhihu.com/story/9787636</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5549ca3c7a88ccf8ab6acf7b598070a5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -85,138 +86,49 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-034eb062452f94c605ce1a4e2ad25662_l.jpg?source=8673f162">
-<span class="author">孙悦礼，</span><span class="bio">临床 | 科研 | 运动｜科普</span>
-<a href="https://www.zhihu.com/question/1903257652500345652/answer/2000603006673101148" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-eb665fa780d6c2ffe7908debeb029b04_l.jpg?source=8673f162">
+<span class="author">斜绿天蛾，</span><span class="bio">点进主页你会发现，这人真就只在乎虫子</span>
+<a href="https://www.zhihu.com/question/1943642977269452921/answer/1943701299674710911" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>谢邀。这个问题提得非常好，作为骨科，我想客观中立的谈谈我的见解和观点。</p>
+<p>证明很简单啊，做个实验就行。</p>
+<p>而且早就有科学家做过了。</p>
+<p>2008 年对烟草天蛾 <em>Manduca sexta，</em>的研究证实，全变态发育的昆虫，幼虫在实验中学会的回避行为，<strong>会一直记忆到成年后</strong>。</p>
+<p>烟草天蛾是一种常见的实验动物。属于天蛾科天蛾亚科，和答主属于不同亚科，体型更大。幼虫是光滑无毛的肥硕毛虫。它的优点是可以用人工饲料很容易地养活。</p>
+<p>用的 y 型管实验，很简单的原理：两条管气味或其它要素不同，实验动物自己选择往哪边走，如果它移动到了特定的一侧，就会受到惩罚（通常是轻微的电击）。久而久之它就会选择不会被电的那一边。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b0e1faf8ce477a200dddb6b881b00a1e_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，选的气味是对毛虫来说无害的，这里是乙酸乙酯。在学习之前，毛虫不会讨厌这种气味，也不喜欢。</p>
+<p>而对照组在两边都会被电，或都不会被电。还有一组是先被电再给气味，这一组没有选择权，结果也是不会回避气味的。</p>
+<p>首先得到的结果当然是 - 即使是天蛾幼虫，看起来一大坨浑身是肉的进食机器，<strong>也有学习和记忆能力。</strong>有 81%的幼虫选择没有乙酸乙酯的那边，以免被电，这不算太多，但和对照组比还是很明显的。对照组是完全不打算回避，选哪条路是纯随机。</p>
+<p>羽化后，77%的成虫继续保持对乙酸乙酯的厌恶。</p>
+<p>也就是说，幼虫时经受的训练，即使经历了蛹期，它们还记着。<strong>意识和记忆是统一的</strong>。</p>
 <hr>
-<blockquote>不晒太阳，可以保护皮肤不受损伤，但却会引起营养不良。<br>多晒太阳，维生素 D 得到很好的补充，但却会带来皮肤癌的风险。<br>在阳光照射与否的问题上，皮肤癌和骨质疏松症似乎成了一个“二选一”的题目。</blockquote>
-<p>真的是这样吗？</p>
-<p>要讲明白这个问题，我们先要从对<strong>骨骼有帮助的维生素 D</strong>以及<strong>合成它们的皮肤“工厂”</strong>说起——</p>
-<p>阳光照射会让我们得到维生素 D 的活性物质（Cholecalciferol，又称为维生素 D3 或胆钙化固醇），作为维生素 D 家族的一种，维生素 D 是一种脂溶性维生素，也被看作是一种作用于钙、磷代谢的激素前体，它与阳光有密切关系，所以又被称为「阳光维生素」。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f06c5e9fa75e25c8db833a1bdf1f590a_720w.jpg?source=8673f162" alt=""><figcaption>维生素 D2 在皮肤经过紫外线照射合称为维生素 D3，然后进入体内参与重要的生理过程</figcaption></figure>
-<p>目前已知的维生素 D 至少有 10 种，但最重要的是维生素 D2（麦角骨化醇）和维生素 D3（胆钙化醇）。维生素 D3（胆钙化醇）主要是由人体自身合成的，人体的皮肤含有一种胆固醇，经阳光照射后，就变成了维生素 D3。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-17cf58a7f280bf88a040d6d9da376de3_720w.jpg?source=8673f162" alt=""><figcaption>维生素 D2 和维生素 D3</figcaption></figure>
-<p>如果皮肤充分接受阳光照射，太阳中的紫外线 B (UVB)与皮肤中一种叫做 7-DHC 的蛋白质相互作用，并将其转化为维生素 D3，即维生素 D 的活性形式，目前人们所说的维生素 D 也大多特指它的活性成分维生素 D3，日照促进人体自身合成的维生素 D 足以满足人体基本生理功能的需求，当维生素 D 缺乏，就会给我们带来骨质疏松症等病的高风险。此外，维生素 D 对人体免疫系统也有重要的促进作用。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-baadf1c2fb904378da1b87b820e502b8_720w.jpg?source=8673f162" alt=""><figcaption>维生素 D3 通过 RAS 系统，参与人体内的生理过程</figcaption></figure>
-<p>随着空气的污染、各地阴雨天气变化等问题的影响下，各国人群接受日照的时间都在减少，因此全世界范围内（尤其是高纬度低日照地区）人群的维生素 D 均呈现广泛缺乏的现象。由此人们就下了结论，<strong>认为只有充分的阳光照射才能获得足够的维生素 D，也因此大多的人很少采取防晒霜等防晒措施，希望阳光直射，多多益善。（？？？）</strong></p>
-<p>于是问题又回到了刚开始的地方——</p>
-<blockquote><strong>为了获得足够的维生素 D，值不值得不受保护的被太阳持续直射呢？</strong></blockquote>
-<p>这个权衡的问题，需要从两个方面分别论证，即<strong>缺乏维生素 D 的优劣</strong>以及<strong>阳光过度照射的优劣。</strong></p>
-<p><strong>维生素 D 的获益以及维生素 D 缺乏的风险</strong></p>
-<p>维生素 D 通过调节钙的水平来帮助保持骨骼强壮。保持足够的维生素对骨骼健康至关重要。缺乏维生素的人会出现肌肉疼痛、肌肉无力和骨骼疼痛等症状。在严重的情况下，缺钙会降低钙的吸收，导致生长缓慢、骨软化和骨结构减弱，增加骨骼畸形、骨质疏松和骨折的风险。</p>
-<p>虽然研究发现高纬度、高污染的地区因为光照不足会导致该地人群维生素 D 不足，但没有研究发现每天使用防晒霜会导致维生素 D 不足。<strong>事实上，每天使用防晒霜的人反而可以保持他们的维生素 D 水平。</strong></p>
-<p>近年来，维生素 D 对人体生理功能的益处也在不断地被发掘，一些研究表明维生素 D 还可以降低癌症死亡率、心脏病发生率，并抑制 I 型糖尿病和类风湿关节炎，<strong>但这些结论只是基于观察性研究，研究结论只代表「相关性」而非「因果假设」</strong>。也就是说，研究人员只是观察到，拥有足够维生素 D 的人患这些疾病和 / 或死于这些疾病的几率较低，但并不能说明维生素 D 是降低这些几率的原因。虽然观察性研究可能是一个良好的起点，但它们不是医学建议循证的基础。</p>
-<p><strong>防晒的获益和阳光直射的风险</strong></p>
-<p>相比维生素 D 益处的结论证据水平，<strong>有大量证据表明，防晒具有更大更明确的好处。</strong></p>
-<p>其中，一项对照研究表明，通常使用的 SPF15 或更高等级的广谱防晒霜可以将鳞状细胞癌的发病率降低约 40%，黑色素瘤的发病率降低 50%，以及皮肤早衰的概率降低 24%。</p>
-<p>同时也有研究从分子水平证明，太阳紫外线可损害皮肤细胞的 DNA，产生基因突变，并可导致皮肤癌。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-af41326e425c211a6b3b0ddb003100ef_720w.jpg?source=8673f162" alt=""><figcaption>紫外线照射可损害皮肤中异常细胞 DNA，促使其增殖并导致皮肤癌（图片来源：Front Biosci 1997; 2:D538-D551）</figcaption></figure>
-<p>目前世界卫生组织(World Health Organization)已确认太阳紫外线是一种经证实的人类致癌物，研究表明，太阳紫外线与约 90%的非黑色素瘤皮肤癌、86%黑色素瘤以及皮肤早衰有关。此外，紫外线辐射还对眼睛有害，可导致白内障、眼睑癌以及其他眼部皮肤癌等疾病。</p>
-<p><strong>总之，不受保护的阳光直射会让你暴露在各种各样紫外线的风险中，这些风险可能会永久性地损害你的皮肤，让你变老变丑，有时甚至会带来癌症，危及生命。</strong></p>
-<p><strong>防晒霜会引起维生素 D 缺乏吗？</strong></p>
-<p>高 SPF 等级的防晒霜可过滤掉阳光中大部分紫外线 UVB 辐射。因为紫外线 UVB 是皮肤晒伤的“罪魁祸首”，并可由此导致皮肤癌。而紫外线 UVB 又恰好是触发皮肤维生素 D 自我合成的特定波长。尽管如此，临床研究却仍未发现每天使用防晒霜过滤掉大部分 UVB 会导致维生素 D 缺乏。事实上，目前流行病学研究恰恰表明，每天使用防晒霜的人可以保持正常的维生素 D 水平。</p>
-<p>原因在于，无论用的防晒霜 SPF 值有多高，都无法完全过滤掉阳光中所有的紫外线进入你的皮肤。SPF15 可以过滤掉 93%的 UVB，SPF30 可以过滤掉 97%，SPF50 可以过滤掉 98%，由此可见，再高 SPF 的防晒霜，都无法挡住所有紫外线。而这些“漏网之鱼”紫外线的剂量就可以在避免皮肤损伤的风险下，维持维生素 D 在皮肤内合成。</p>
-<p><strong>如何保证维生素 D 合成的情况下防晒？</strong></p>
-<p>其实身体不需要太多的阳光就能产生维生素 D。一般建议一天不超过 10-15 分钟让手臂、腿等暴露的皮肤接受到阳光照射，每周 2 到 3 次。皮肤接受到这些剂量的阳光照射后，就能使身体自我合成并聚集的每日所需的维生素 D。此后再继续晒太阳合成的维生素 D 都不再被需要了，除了会给你带来阳光损伤，没有任何好处。</p>
-<p><strong>那么维生素 D 在体内健康水平是多少呢？</strong></p>
-<blockquote>当低于 30，体内维生素 D 缺乏，需要通过维生素 D 补剂来额外补充；<br>当介于 30-50 之间，体内维生素 D 水平正常，足以维持骨代谢和全身健康；<br>当高于 50，体内维生素 D 水平足够，但体内维生素 D 冗余且不必要；<br>当高于 125，体内维生素 D 水平过高，可能会带来不良作用。</blockquote>
-<p>阳光中有两种紫外线，短波紫外线 UVB 和长波紫外线 UVA。这两种紫外线照射到皮肤，所引起的 DNA 损伤，这些损伤产生累积效应，引起越来越多的基因突变，不断增加你患皮肤癌的终生风险。正如上文所述，使人体合成维生素 D 的紫外线 UVB 波长(290-320nm)也恰恰是产生晒伤和导致皮肤癌基因突变的特定波长。更不用说太阳长波紫外线 UVA 辐射(320-400nm)所造成的损害了，这是引起皮肤过早老化的关键紫外线，也是皮肤癌的致病原因之一。</p>
-<p>一项发表在 Science 杂志的研究发现，UVA 的损害可以在暴露在阳光下不到 1 分钟的时间内就开始，而且其对皮肤黑素细胞的损害在阳光照射结束后的数小时内仍持续。黑素细胞损伤可导致黑色素瘤。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-498c5c3391a0616c38e285b1dc3b0f1f_720w.jpg?source=8673f162" alt=""><figcaption>阳光中的紫外线 UVA 对皮肤的致癌作用及累积效应（图片来源：Science 2015; 347(6224):842-47）</figcaption></figure>
-<p>光照中的 UVA 和 UVB 暴露会迅速引起 DNA 损伤并造成累积效应，这也是医生建议做好防晒的主要原因。说到防晒措施，除了每天要使用 SPF 15 以上的广谱(UVA-UVB)防晒霜以外，还可以通过遮阳帽、遮阳伞、太阳镜和防晒服等其他形式的进行日常防晒。</p>
-<p><strong>需要晒多久太阳才能合成足够的维生素 D?</strong></p>
-<p>大家都知道，我们人体合成维生素 D，依赖于阳光，皮肤里的 7-dehydrocholesterol 需要吸收阳光里的紫外线才能生成维生素 D 前体，再经过肝和肾的代谢，最终发挥作用。</p>
-<p>通常认为血清里的 25-hydroxyvitamin D 水平要在 30ng/ml 才算是有了足够的维生素 D，而一般推荐的维生素 D 摄入量，却是 400IU 或 1000IU。</p>
-<p>那，一个普通人，每天要晒多久太阳才能合成足够的维生素呢？</p>
-<p>找到了一篇 2010 年发表在 J Am Acad Dermatol 杂志上的，计算人们需要接受多少日晒、才能通过皮肤合成足够的维生素 D 的论文来做参考（PMID: 20363523）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-10acc7f48da0bb5d4230c63b77703c1b_720w.jpg?source=8673f162" alt=""></figure>
-<p>这篇论文提到，将 7-dehydrocholesterol 转化为维生素 D 的能力，取决于一个人的年龄、皮肤类型、所在的地理位置和季节。因此，研究人员利用一个叫做 FastRT 的计算工具来计算了不同皮肤类型的人，在不同的时间地点，需要晒多长时间的太阳来合成足够的维生素 D。</p>
-<p>不同颜色的皮肤合成维生素 D 的能力不同。可以根据 Fitzpatrick 分类法，把不同肤色分成六大类型。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-51b6c87abdd4580578d9ad2ebfdc1045_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b4d2d5fa9ccc3f5dbe40e2439c1b4eb2_720w.jpg?source=8673f162" alt=""></figure>
-<p>而不同的地理位置，在不同的季节里，阳光的紫外线指数也有所不同。这篇论文选取的两个美国城市——迈阿密和波士顿——在不同季节、以及一天的不同时段，UVB 的强度很不一样哦。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f7733281ad5d5ac10432f0bbffd8cd30_720w.jpg?source=8673f162" alt=""></figure>
-<p>论文作者就根据这些 UVB 强度，假设一个人有全身 25.5%的皮肤曝露在阳光下（相当于脸 + 颈 + 手 + 手臂），计算出了三种不同的肤色，在四个不同季节里、一天的不同时段里，为了合成足够维生素 D、需要晒太阳的大致时间。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fa002f13fe8d2a7a45f814a8b2cbac5e_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ae938144c60064c368b140c3d2ff36d8_720w.jpg?source=8673f162" alt=""></figure>
-<p>在这三种肤色里，Fitzpatrick III 型（浅橄榄色皮肤）最接近中国人的黄种肤色，就用它来作为参考好了。</p>
-<blockquote>比如说，一月份在迈阿密，一个人上午 10 点出门晒太阳，需要 14 分钟就能合成 400 IU 的维生素 D、需要 30 分钟来合成 1000 IU 的维生素 D；如果连续晒 1 小时 22 分钟，就会造成晒伤。<br>如果这个人是在下午 3 点才出门晒太阳，那么就需要 17 分钟来合成 400 IU 的维生素 D、需要 59 分钟来合成 1000 IU 的维生素 D；不过呢，这个时间点的 UVB 不够强烈，不会造成晒伤。</blockquote>
-<p>如果这个人搬到了波士顿，同样在一月里，</p>
-<blockquote>上午 10 点出门晒太阳的话，由于波士顿冬天的阳光比较弱，需要晒太阳 36 分钟才能合成 400 IU 的维生素 D、需要 76 分钟来合成 1000 IU 的维生素 D<br>考虑到波士顿在一月份的平均温度在 -5~2 摄氏度，在这种温度下裸露着脖颈、手和手臂出门晒太阳是不现实的，“连续晒 3 个小时 22 分钟就会造成晒伤”就基本上没有什么实际意义了吧？</blockquote>
-<p>另外呢，如果这个人，在波士顿，下午三点才出门晒太阳的话。。。对不起，阳光不够强，就算晒两三个小时，也没办法合成维生素 D 的。</p>
-<p>江浙沪阴雨连绵，如果整天晒不到太阳的话，可能需要补点维生素 D 吧？</p>
-<p><strong>不晒太阳，还能怎么获取维生素 D？</strong></p>
-<p>人体自身合成维生素 D，需要阳光里的紫外线。如果不爱晒太阳，或者没机会晒到充足太阳的人群，没法自身合成就需要额外补充一些，一般 70 岁以下每天摄入 600IU 维生素 D，71 岁以上每天 800IU 就够了，补了太多（超过 4000IU）可能会有毒副作用。</p>
-<p>脂肪含量高的鱼类（三文鱼、鲭鱼和金枪鱼）、蛋黄、奶酪、牛奶等常见饮食中都含有维生素 D。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e331af58a053e03f43c6a6d599f98906_720w.jpg?source=8673f162" alt=""></figure>
-<p>关于维生素 D 膳食补充剂，NEJM 新英格兰医学杂志就对其提出了质疑，标题起得简单粗暴：“No Value for Routine Vitamin D Supplementation（日常服用维生素 D 膳食补充剂没有意义）”</p>
-<p>首先，是 NEJM 新英格兰医学杂志发表的来自 The VITamin D and OmegA-3 TriaL (VITAL)临床研究的论文（PMID: 30415629）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2119653cb7e5ad09409ca650832e113b_720w.jpg?source=8673f162" alt=""></figure>
-<p>VITAL 是一项涉及 25871 名美国参试者的大型随机、双盲、安慰剂对照、2x2 的临床研究，旨在分析维生素 D3 和海洋鱼油(EPA 和 DHA)在预防癌症和心血管疾病方面的效果，参试者来自美国的不同种族，49%男，51%女，男性不小于 50 岁，女性不小于 55 岁。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c25108da2ddd5fcbc88ad921848cf7c2_720w.jpg?source=8673f162" alt=""></figure>
-<p>在 VITAL 实验中，给参试者使用了 2000 IU/ 天的高剂量维生素 D3，通过六年与安慰剂的比较，未见维生素 D 在预防癌症或预防心血管疾病方面起到改善。不论是癌症也好（A），心血管疾病也好（B），维生素 D 和安慰剂的两条曲线真是相当重合、难分伯仲了。。。</p>
-<p>因此，VITAL 研究团队总结认为，维生素 D 与安慰剂相比，并不能降低癌症和心血管疾病的发生率。</p>
-<p>这一结果，与前段时间在新西兰进行的 The Vitamin D Assessment 五千人随机安慰剂实验取得的结果，是一致的（PMID: 28384800，30027269）。</p>
-<p><strong>然后，根据机制，维生素 D 不是长期以来都被用于预防和治疗骨骼相关疾病吗？</strong></p>
-<p>JAMA 在 2017 年 12 月发表的一篇论文，研究的就是维生素 D 对于预防骨折的作用，研究对象是居住在社区里（而不是养老院或者其它护理机构里）的老年人。</p>
-<p>这项研究对 33 项、共涉及 51145 名参试者的随机临床试验进行了荟萃分析，结果发现，补钙或维生素 D 的膳食补充剂，无论是单用也好，还是两者合用，都没能降低在社区居住的老年人的骨折发生率（PMID: 29279934）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d94880a66a03cf2879fb42156329e770_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过，本文分析的是居住在社区里的老年人，对于居住在养老院或者其它护理机构中、比较缺少阳光、骨质疏松多发的老年人，补钙或维生素 D 也有可能会起到不同的效果。</p>
-<p>在以下这项研究、以及其它的类似研究的基础上，美国预防医学工作组 USPSTF 更新了关于维生素 D 膳食补充剂的推荐（PMID: 29677309）：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-15bc37d8d384f4500927a1674ae1179d_720w.jpg?source=8673f162" alt=""></figure>
-<p>- USPSTF 得到足够的证据，认为<strong>每天服用不超过 400IU 的维生素 D 和不超过 1000mg 的钙不能对在社区居住的、绝经后女性起到骨折的一级预防作用</strong>；</p>
-<p>- USPSTF 没有足够的证据来推测超过 400IU 的维生素 D 和超过 1000mg 的钙能否对在社区居住的、绝经后女性起到骨折的一级预防作用；</p>
-<p>- USPSTF 得到足够的证据，认为<strong>维生素 D 和钙的膳食补充剂会增加肾结石的风险</strong>（！！！）；</p>
-<p>- USPSTF<strong>不建议在社区居住的绝经后女性通过每天服用不超过 400IU 的维生素 D 和不超过 1000mg 的钙来进行骨折的一级预防</strong>；</p>
-<p><strong>- 但以上建议不适用于有骨质疏松性骨折史、跌倒风险较高、经诊断患有骨质疏松症、或经诊断患有维生素 D 缺乏症的人。（！！！！！）</strong></p>
-<p>对于实际上并不缺乏维生素 D 的人来说，出于预防疾病的目的、额外使用维生素 D 膳食补充剂的合理性，着实遭受了不少的质疑。</p>
-<p>还是用 NEJM 杂志观察栏目的话来说吧，就是——</p>
-<blockquote>“Enthusiasm for recommending vitamin D supplementation to prevent a wide range of skeletal and extraskeletal disorders was diminished considerably by three publications in 2018.”</blockquote>
-<p>估计在不久的将来，VITAL 试验会有除癌症和心血管疾病以外的次要终点 / 观察结果陆续公布。且拭目以待。</p>
-<p>综上所述，</p>
-<p><strong>1. 维生素 D 的来源很多，食物，补剂以及有保护的阳光照射都会给你每日所需的维生素 D。</strong></p>
-<p><strong>2. 人非草木，虽然“光合作用”是免费的，但代价却是那些无保护暴露在阳光下的多重皮肤疾病风险。</strong></p>
+<p>其它一些间接的证据包括，蛾子或蝴蝶更倾向于在它幼虫时吃的同种植物上产卵。这并不局限于鳞翅目，对果蝇和甲虫的研究也得出了同样的结果。</p>
+<p>昆虫的学习和记忆能力很普遍，尽管它的表现因种类和个体，以及学习对象，存在巨大的差异。有的可能只会记住几分钟，而蟋蟀对盐水的记忆可以超过两个月</p>
 <hr>
-<p>参考文献：</p>
-<ol>
-<li>Vitamin D Fact Sheet for Health Professionals. National Institutes of Health Office of Dietary Supplements. <a class=" external" href="http://link.zhihu.com/?target=https%3A//ods.od.nih.gov/factsheets/VitaminD-HealthProfessional" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">ods.od.nih.gov/factshee</span><span class="invisible">ts/VitaminD-HealthProfessional</span><span class="ellipsis"></span></a>. Accessed April 26, 2016.</li>
-<li>Wolpowitz D, Gilchrest BA. The vitamin D questions: how much do you need and how should you get it? <em>J Am Acad Dermatol</em> 2006; 54(2):301-17<em>.</em></li>
-<li>Heaney RP. Long-latency deficiency disease: insights from calcium and vitamin D. <em>Am J Clin Nutr</em> 2003; 78(5):912-919.</li>
-<li>Holick MF. Sunlight and vitamin D for bone health and prevention of autoimmune diseases, cancers, and cardiovascular disease. <em>Am J Clin Nutr</em>2004 (6 suppl); 80:1678S-1688S.</li>
-<li>Holick MF. Vitamin D: a millenium perspective. <em>J Cell Biochem</em> 2003; 88(2):296-307. <a class=" external" href="http://link.zhihu.com/?target=http%3A//www.ncbi.nlm.nih.gov/pubmed/12520530" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">ncbi.nlm.nih.gov/pubmed</span><span class="invisible">/12520530</span><span class="ellipsis"></span></a>. Accessed April 26, 2016.</li>
-<li>Grant WB, Holick MF. Benefits and requirements of vitamin D for optimal health: a review. <em>Altern Med Rev</em> 2005; 10(2):94-111.</li>
-<li>Narayanan DL, Saladi RN, Fox JL. Ultraviolet radiation and skin cancer. <em>Int J Dermatol</em> 2010; 49(9):978-986.</li>
-<li>Gilchrest BA, Eller MS, Geller AC, Yaar M. The pathogenesis of melanoma induced by ultraviolet radiation. <em>N Engl J Med</em> 1999; 340(17):1341-1348.</li>
-<li>Koh HK, Geller AC, Miller DR, Grossbart TA, Lew RA. Prevention and early detection strategies for melanoma and skin cancer: Current status. <em>Arch Dermatol</em> 1996; 132(4):436-443. doi:10.1001/archderm.1996.03890280098014.</li>
-<li>Parkin DM, Mesher D, Sasieni P. Cancers attributable to solar (ultraviolet) radiation exposure in the UK in 2010. <em>Br J Cancer</em> 2011; 105 Suppl 2:S66-S69. doi: 10.1038/bjc.2011.486.</li>
-<li>Taylor CR, Stern RS, Leyden JJ, Gilchrest BA. Photoaging/photodamage and photoprotection. <em>J Am Acad Dermatol</em> 1990; 22(1):1-15.</li>
-<li>Van der Pols JC, Williams GM, Pandeya N, Logan V, Green AC. Prolonged prevention of squamous cell carcinoma of the skin by regular sunscreen use. <em>Cancer Epidemiol Biomarkers Prevent</em> 2006; 15:2546-2548.</li>
-<li>Green AC, Williams GM, Logan V, Strutton GM. Reduced melanoma after regular sunscreen use: randomized trial follow-up. <em>J Clin Oncol</em> 2011; 29(3):257-263. doi: 10.1200/JCO.2010.28.7078.</li>
-<li>Hughes MCB, Williams GM, Baker P, Green AC. Sunscreen and prevention of skin aging: a randomized trial. <em>Ann Intern Med</em> 2013; 158(11):781-790. 10.7326/0003-4819-158-11-201306040-00001.</li>
-<li>Soehnge H, Ouhtit A, Ananthaswamy ON. Mechanisms of induction of skin cancer by UV radiation. <em>Front Biosci</em> 1997; 2:D538-D551.</li>
-<li>Rodriguez-Sains RS. The sun, the eyelids, and the eye. <em>The Skin Cancer Foundation Journal 2005;</em> 23:36-7.</li>
-<li>Marks R, Foley PA, Jolley D, et al. The effect of regular sunscreen use on vitamin D levels in an Australian population. Results of a randomized controlled trial. <em>Arch Dermatol</em> 1995; 131(4):415-421.</li>
-<li>Farrerons J, Barnadas M, Rodriguez J, et al. Clinically prescribed sunscreen (sun protection factor 15) does not decrease serum vitamin D concentration sufficiently either to induce changes in parathyroid function or in metabolic markers. <em>Br J Dermatol</em> 1998; 139(3):422-427.</li>
-<li>Vitamin D & the sun: what does the sun do for me? A transcription of part 1 of Dr. Michael Holick's January 22nd, 2013 webinar. Grassroots Health, a Public Health Promotion Organization. <a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//www.grassrootshealth.net/holicksuntranscription" target="_blank" rel="nofollow noreferrer">www.grassrootshealth.net/holicksuntranscription</a>.Accessed April 26, 2016.</li>
-<li>Premi S, Wallisch S, Mano CM, et al. Chemiexcitation of melanin derivatives induces DNA photoproducts long after UV exposure. <em>Science</em> 2015; 347(6224):842-47. DOI: 10.1126/science.1256022</li>
-<li>Sarnoff DS. Ask the Expert. <em>Sun & Skin News</em> Summer 2011; 28(2):6.</li>
-</ol>
-<p>Lu Z, Chen TC, Zhang A, et al. An evaluation of the Vitamin D3 content in fish: Is the vitamin D content adequate to satisfy the dietary requirement for vitamin D? <em>J Steroid Biochem Mol Biol</em> 2007; 103(3-5):642-644. <a class=" external" href="http://link.zhihu.com/?target=http%3A//www.ncbi.nlm.nih.gov/pmc/articles/PMC2698592" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">ncbi.nlm.nih.gov/pmc/ar</span><span class="invisible">ticles/PMC2698592</span><span class="ellipsis"></span></a>. Last viewed April 26, 2016.</p>
+<p>题主问出这样的问题，可能<strong>来自一些对全变态昆虫的常见误会</strong>：坊间传说昆虫在化蛹后，内部会全部分解再重构、或者“成虫盘”会“夺舍”原本的幼虫；这些话听起来很唬人，但现实不是如此。</p>
+<p>昆虫幼虫在变态发育过程中的确会经历很大程度的变化，许多组织分解消失，但不是全部。成虫盘也只是会成为成虫的一部分器官，而不是全部。其中，非常重要的系统，如神经系统和呼吸系统会大部分保留。</p>
+<p>而且，全变态发育其实是 <strong>连贯的过程</strong>。如果你饲养过蝴蝶蛾子，会发现它们在末龄时会变得僵硬，身体结构逐步过渡到蛹期，而不是等化蛹的那一个瞬间才开始发育的。</p>
+<p>蛹也不是一个带皮的大肉球，如果你仔细观察，蛹阶段已经出现了成虫的触角、复眼和腿。而且蛹可以动，里面是有肌肉和神经的，只是受限于结构，动的比较僵硬。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-052346dc8d1ca6200e063e46a891bbeb_720w.jpg?source=8673f162" alt=""><figcaption>一枚蛾蛹，你可以看到蛹其实有触角、眼睛和翅膀，只是现阶段还贴在一层皮下。</figcaption></figure>
+<p>对于膜翅目（蜂蚁）、脉翅目、广翅目等，蛹的特化程度没那么高，你可以看到一个“更连贯”的发育过程。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c5327bf6628424c1f5af930cedcb264_720w.jpg?source=8673f162" alt=""></figure>
+<p>无论如何，就算昆虫发育过程中失去了记忆，也不能说明它被“夺舍”；</p>
+<p>生物在发育过程中，部分细胞被替换、一些组织在发育过程中消失、出现，都是很平常的现象，这并不涉及到什么“不是自己”的哲学问题。</p>
+<p>你自己也失去了三岁前的记忆，难道你和三岁前的你不是同一个人吗？</p>
+<p>参考：<a class=" external" href="http://link.zhihu.com/?target=https%3A//journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0001736" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">journals.plos.org/ploso</span><span class="invisible">ne/article?id=10.1371/journal.pone.0001736</span><span class="ellipsis"></span></a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1903257652500345652">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1943642977269452921">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787618</guid><pubDate>Mon, 16 Feb 2026 18:36:17 GMT</pubDate></item><item><title>一台挖掘机的挖掘速度相当于多少个人用铲子挖？</title><link>http://daily.zhihu.com/story/9787620</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-3e1de44c93bd1bce16b11ccb30d64b6d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787636</guid><pubDate>Tue, 17 Feb 2026 01:45:19 GMT</pubDate></item><item><title>一个人临死前吞下大量炸药，火化的时候会把火葬场炸掉吗？</title><link>http://daily.zhihu.com/story/9787717</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-682c3e45a16aecf3dd53d031818c2987.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -236,38 +148,71 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-3cee51941bf4ae68d5b821e723748ade_l.jpg?source=8673f162">
-<span class="author">挖掘机能手，</span><span class="bio">挖掘机、装载机、塔吊出租出售</span>
-<a href="https://www.zhihu.com/question/271981495/answer/2001039374486368889" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-8d92d220012187cec209e72a54e979b5_l.jpg?source=8673f162">
+<span class="author">且听沧海，</span><span class="bio">不输出情绪，只分享干货</span>
+<a href="https://www.zhihu.com/question/1890533894983496154/answer/1891571507819417712" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>谢邀，这只是一场让人绝望的物理碾压。。。。。你多下下工地就清楚了，这不是数学题啊，感觉没什么好讨论的。</p>
-<p>一台常见的 20 吨级挖掘机，也就是工地上最普通的 PC200，一铲斗下去就是接近 1 立方米的土，重达 1.5 吨以上。</p>
-<p>一个壮汉挥动铁锹，哪怕此时就像你说的肾上腺素爆棚，一铲子撑死也就挖个 5 到 10 公斤。</p>
-<p>挖掘机大概 15 秒完成一个回旋，一分钟就是 4 斗土，相当于约 6 吨。这是什么概念？？？？</p>
-<p>这意味着想要在单纯的土方量上跟上这台机器的节奏，你需要至少 600 次全力以赴的挥铲。</p>
-<p>这还是保守估计啊。</p>
-<p>此外，现实中根本不存在几百人围着一个坑挖的操作空间，因为铲子会打架，人会拥挤，效率会随着人数增加呈断崖式下跌，进一步变成抖音印度小哥的搞笑视频。</p>
-<p>因此，我提出一个观点，依据工程定额里给出的冷冰冰的数据通常是一台挖掘机约等于 30 到 50 个壮劳动力的纯工作量。</p>
-<p>但请注意，这个数据是极度给了苦劳力面子的，因为它假设人像机器一样不吃饭、不喝水、不抽烟、不休息。</p>
-<p>工地上班的谁不是一天一包烟？</p>
-<p>好，那我假设大家不抽烟不喝酒不打牌，就是使劲干！</p>
-<p>但是一旦拉长到一天 8 小时甚至 24 小时连轴转，机器只要加柴油，人的腰肌劳损和体能崩溃会让这个比例瞬间拉大，拉大，拉大。</p>
-<p>​我看回答里面有几个人说得很好。</p>
-<p>一台挖掘机连人带油一天成本也许就两三千块，而要请 200 个不怕累的壮汉，光是盒饭和啤酒可能都比租机器贵。</p>
-<p>当看着那台机器轰鸣着在几分钟内干完一个排的人一上午的活儿时，在现代工业面前，单纯的力气，真的太不值钱了。</p>
+<p>这个问题真的非常棒，它几乎涉及到了炸药每一个方面的知识，提问者的确是个小天才。</p>
+<p>想要搞清楚这个问题，我们需要把炸药到火化炉的过程分成三个步骤：</p>
+<p>第一步，炸药进入胃里，要和胃酸接触，胃酸是 ph 值非常低的盐酸，这就涉及到了炸药的<strong>化学稳定性</strong>。</p>
+<p>第二步，尸体进入火化炉，在高温下灼烧，到底能不能爆炸，这就涉及到了<strong>炸药的热感度</strong>。</p>
+<p>第三步，如果炸药爆炸，能否炸掉火葬场，这就涉及到了<strong>炸药的威力</strong>。</p>
+<p>我们先看第一步：</p>
+<p>首先，炸药的种类非常多，不仅有单质炸药，还有混合物炸药，我们先说单质炸药：</p>
+<p>很多新概念炸药，像金属氢、全氮阴离子这些，它们的化学性质很不稳定，</p>
+<p>所以遇上强盐酸，直接就会爆炸，这些炸药，是进不到火葬场的，在胃里就炸了。</p>
+<p>无机化合物炸药，比如说硝酸铵，它会和盐酸反应，生成硝酸和氯化铵。</p>
+<p>那硝酸铵在进入火化炉之后能否爆炸，就要看吞下多少硝酸铵，</p>
+<p>如果吞下的少，那硝酸铵就可能被胃酸全部反应成氯化铵，也就不会爆炸。</p>
+<p>有机化合物炸药，这是炸药最大的家族，现在常用炸药基本上都是它们，</p>
+<p>它们分为三大类：硝基化合物，代表梯恩梯，苦味酸，</p>
+<p>硝胺，代表黑索金、奥克托今、CL-20</p>
+<p>硝酸酯，代表硝化甘油。</p>
+<p>它们的化学稳定性都比较好，不会和胃酸反应，吞下去之后能够送进火化炉。</p>
+<p>说完了单质炸药，再来说混合物炸药，</p>
+<p>所谓“混合物炸药”，就是把几种单质炸药混在一起，</p>
+<p>再加上增塑剂、稳定剂、铝粉等改善性能的物质，组成的新炸药，</p>
+<p>代表就是美国的 C4，我国的 8701。</p>
+<p>这些混合物炸药，里面新添加的成分，可能会和胃酸反应，结果非常复杂，就不一一讨论了。</p>
+<p>再来看第二步，承受住了胃酸考验的炸药们，能不能在火化炉中被引爆？</p>
+<p>这就涉及到了炸药的热感度问题，所有炸药，在高温加热的时候，都会发生爆炸，</p>
+<p>我们看到有的电视节目，把一些炸药放在火上烤，它不会爆炸，那是因为火焰的温度不够。</p>
+<p>我们把炸药从开始受热到爆炸经历的时间，称为“延滞期”，</p>
+<p>把延滞期设定为 5 秒或 5 分钟，然后用不同温度对炸药加热，</p>
+<p>能够在延滞期内引爆炸药的温度，就称之为“爆发点”。</p>
+<p>常用炸药的 5 秒延滞期爆发点，硝化甘油是 220 度，黑索金是 260 度，奥克托今是 335 度，</p>
+<p>相比之下，梯恩梯就非常安全了，足足有 475 度。</p>
+<p>我们再来看火化炉的温度，现代火化炉，通常采用喷射燃油或天然气之后点燃的燃烧方式。</p>
+<p>这就让火化炉的起手温度，飙升到了 600 度到 700 度，然后巅峰温度能达到 1000 度。</p>
+<p>在这种温度下，尽管有人体作为隔热材料，</p>
+<p>但是仍然能将炸药加热到爆发点以上温度，炸药也就随之爆炸。</p>
+<p>所以，只要是能扛过胃酸，进入火化炉的炸药，基本上都能爆炸。</p>
+<p>最后看第三步，炸药能否炸掉火葬场。</p>
+<p>这显然是不能的，因为人的胃容量有限，最多只能放十几千克炸药。</p>
+<p>火葬场占地面积都在几十万平方米以上，有告别厅、办公室等大量钢筋混凝土建筑，</p>
+<p>这么点炸药量，不管换成啥大威力新概念炸药，都不可能炸掉这么多建筑物。</p>
+<p>炸药能毁伤的，只有火化炉。</p>
+<p>火化炉一般都是外部钢壳体，内部铺设耐高温材料，比如说耐火砖，</p>
+<p>内部会有通风管道、燃料喷射装置等结构。</p>
+<p>炸药爆炸之后，基本上不会对钢结构和耐火砖造成破坏性损伤，可能会把耐火砖炸下来几块，</p>
+<p>但是燃料喷射装置、通风管道设施肯定会被严重损坏，火化炉的门可能会变形。</p>
+<p>至于具体毁伤效果，要看炸药种类和火化炉具体材料和结构。</p>
+<p>最后总结：</p>
+<p>炸药的种类成百上千，每一种的性质都各不相同，所以这个问题，很难有统一的答案，</p>
+<p>希望这篇回答能激发你学习火炸药的兴趣。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/271981495">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1890533894983496154">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787620</guid><pubDate>Mon, 16 Feb 2026 18:36:18 GMT</pubDate></item><item><title>烧干锅为什么米会形成这种图案?</title><link>http://daily.zhihu.com/story/9787627</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4e8a7dda2e6803c045343893535ff1dd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787717</guid><pubDate>Tue, 17 Feb 2026 01:45:20 GMT</pubDate></item><item><title>现代医学能不能解释为何吃羊肉会让身体暖和?</title><link>http://daily.zhihu.com/story/9787724</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-8c5d70c6f168373be5192ec74f825639.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -287,69 +232,83 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-d2c0f6399672b8579348e66cfcc99f5b_l.jpg?source=8673f162">
-<span class="author">杂然赋流形丶，</span><span class="bio">Talk is cheap.</span>
-<a href="https://www.zhihu.com/question/1965771818330756325/answer/1966562088810938941" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
+<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
+<a href="https://www.zhihu.com/question/15618589706/answer/1974417644007490186" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>非常好的问题，<strong>题主实际上已经无限接近 1977 年诺贝尔化学奖了</strong>。</p>
-<p>题主照片里锅底的米粒或蒸干的液面会形成那些规则、复杂的图案，实际上是<strong>非平衡系统中的自组织现象</strong>，这正是 Prigogine 提出耗散结构理论思想的一种直接体现。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-37a9e34274f0ff370def56bcc724c3fa_720w.jpg?source=8673f162" alt=""><figcaption>米粒排列形成了规则、复杂、甚至带有几何美感的图案</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4ea42b13b77596ea914cd113c90ec7dd_720w.jpg?source=8673f162" alt=""><figcaption>Ilya Prigogine，以其对非平衡态热力学的贡献，尤其是耗散系统，获得 1977 年诺贝尔化学奖</figcaption></figure>
-<p>在我们的日常生活中，我们能观察到很多热力学现象：</p>
-<ul>
-<li>将一冷一热的两个物体彼此接触，由于热交换，它们最终会达到相同的温度；</li>
-<li>将一滴墨水滴入一杯水中时，墨水会逐渐扩散最终均匀分布在整杯水中；</li>
-<li>……</li>
-</ul>
-<p>这些情况无一例外，我们不会观察到相反的过程，比如均匀扩散的墨水是不可能自发地汇聚到一点。这些系统会达到唯一的末态，也即热力学平衡态。从微观角度分析，我们会发现系统的无序性增加了。</p>
-<p>在热力学领域里，我们通常使用「熵」这个物理量来刻画系统的无序程度。而热力学第二定律告诉我们：对于一个孤立系统（即与外界没有任何相互作用的系统），系统的熵总是朝着增大的方向进行的，当系统处于平衡态时，系统的熵取最大值。</p>
-<p>但要额外强调的一点是，<strong>这里的先决条件是系统必须是孤立的！</strong></p>
-<p><strong>一旦系统处于开放状态，情况就大有不同。</strong></p>
-<p>开放系统会不断地与外界交换能量和物质，例如持续被加热的锅底、水面上的蒸发、化学反应体系、甚至是地球上的生命体，都在不断地与外界交换能量。通过与外界的相互作用，系统就有可能从无序变为有序，例如：</p>
-<ul>
-<li>气态的水蒸气经过冷却后会液化形成液态的水，并进一步凝固形成固态的冰；</li>
-<li>铁磁体在高温加热后会突然失去磁性，当温度降低时，又会突然重新获得磁性；</li>
-<li>……</li>
-</ul>
-<p>以及其他更多的，在自然的约束下形成的例子，例如圆柱绕流运动：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bca62147b3869e79ba93829e3e46cddb_720w.jpg?source=8673f162" alt=""><figcaption>Sato, M., & Kobayashi, T. (2012). A fundamental study of the flow past a circular cylinder using Abaqus / CFD.</figcaption></figure>
-<ul>
-<li>当流体以低速绕过圆柱时，会形成稳定有序的结构。</li>
-<li>如果流速进一步增加，就会在圆柱后形成一对涡旋。</li>
-<li>继续增加速度，就会出现动态振荡的漩涡——也即卡门涡街。</li>
-<li>最后再增加速度，就会转捩为湍流。</li>
-</ul>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-705d2ee74e213b4180c6fd426fa7a9e0_720w.jpg?source=8673f162" alt=""><figcaption>卡门涡街，图源 Wikipedia</figcaption></figure>
-<p>因此，针对这些<strong>非线性的开放系统</strong>，它们就有可能在远离平衡态时形成局部有序结构，这就是所谓的<strong>耗散结构</strong>。</p>
-<p>当外界驱动足够强时，系统内部的微小扰动可能被放大，原本均匀的状态会失去稳定性，演化出空间或时间上有序的结构，这种现象就叫作<strong>自组织</strong>。</p>
-<p>Prigogine 在研究这些现象时提出了<strong>耗散结构</strong>的概念，用来描述这种靠着持续消耗能量而维持的有序状态。与平衡态不同，耗散结构的存在<strong>依赖于能量流动</strong>，一旦停止外部驱动，系统就会重新回到混乱无序的状态，因此才被称之为「耗散」。</p>
-<p>这看似违反了熵增原理，其实并没有。因为系统内部虽然变得更有序，但它通过能量和熵的流动，把「无序」输出到了环境中，从而使整体的熵依然增加。换句话说，局部的秩序，是以全局的混乱为代价建立的。</p>
-<p><strong>从这个角度看，那些在锅底出现的花纹就不只是烧干锅的副产物，而是自然界在远离平衡时自发产生的结构化行为。</strong></p>
-<p>一个颇为经典的例子是 Rayleigh-Benard 对流：</p>
-<ul>
-<li>当我们在一个盘子中装上一些液体，一般情况下它处于平衡态，上下液面没有温差。</li>
-<li>如果我们从盘子的底部给液体均匀加热，液体内部就会出现温度梯度，从底部吸收热量，从表面向外部环境释放热量，在温差较小的情况下，液体处于线性近平衡态。</li>
-<li>但如果进一步加热，温度梯度达到某一临界值，底部受热的液体会膨胀，因浮力向上运动，在表面又重新冷却沉积到底部，形成了热对流。在实验中我们能观察到这些非常有序的对流图样（这些图样的形状取决于盘子的形状）。</li>
-<li>再继续加热，由于温差过大，有序的对流图样也被破坏，逐渐形成了湍流。</li>
-</ul>
-<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1966539691542151495" target="_blank"> <img class="content-image" src="https://pica.zhimg.com/v2-2ef2251c6d5fa3775641d5d50c387df4.jpg?source=382ee89a" alt=""> <span class="content"> <span class="title">Rayleigh-Benard 对流<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1966539691542151495</span> </span> </a></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-af0e3dd9840e90daeb97bfd19926b5ee_720w.jpg?source=8673f162" alt=""><figcaption>Rayleigh-Benard 对流图样，对于圆形的盘子，这些对流图样呈现出规则的六角结构</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6d162b8df10825fd30ed12abd4b8e3e3_720w.jpg?source=8673f162" alt=""><figcaption>Rayleigh-Benard 对流在草地上产生复杂的霜冻损害图样。无霜冻损害区域保持绿色，而霜冻区域会因植物死亡而变成棕色。图源 Wikipedia</figcaption></figure>
-<p>以及另一个经典的例子，Belousov–Zhabotinsky 振荡反应，在这种化学反应中，反应液的浓度会周期性地发生变化</p>
-<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1966544754499117310" target="_blank"> <img class="content-image" src="https://pic1.zhimg.com/v2-848bc6ffa99f82969d115be3b7e7c379.jpg?source=382ee89a" alt=""> <span class="content"> <span class="title">Belousov–Zhabotinsky 反应<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1966544754499117310</span> </span> </a></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4378ebf4b9e4f6b995c752eeb7f98b66_720w.jpg?source=8673f162" alt=""><figcaption>培养皿中显示的图案，图源 Wikipedia</figcaption></figure>
-<p>所以题主发现的这种现象，与蜂窝状的对流胞、化学反应中的振荡波，都是同一个物理原理的体现——能量流驱动下的自发有序化。</p>
-<p>具体从理论细节上来解释为什么会形成这种特定图案是十分复杂困难的，非平衡问题也是现今物理学一块极其难啃的骨头。但从理论上去理解为何会出现这些耗散结构，这正是 Prigogine 曾经的工作，这部分内容推荐阅读 Prigogine 的原作<sup>[1]</sup>以及其他非平衡态统计物理相关的著作。</p>
+<p>冬天，<strong>来碗羊肉汤、温一壶酒、蘸点辣椒面</strong>，这几个吃法都能让你发热，但是它们让身体感觉热的原因一样吗？当然不一样，具体问题具体分析呗。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0e73bf3d9d31b1f7b16118fab3946515_720w.jpg?source=8673f162" alt=""></figure>
+<p>高赞则属于造谣式辟谣：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-51e27cc20ab3c1305f90fa476004deae_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是各种肉类里每 100g 胴体肉里色氨酸的含量：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ef391febf324174bc49e3ab512f7435_720w.jpg?source=8673f162" alt=""></figure>
+<p>可以看出虽然鹿肉、羊肉这种传统分类里归为“温热”的肉食确实色氨酸含量高，但是被分为“寒性”的兔肉色氨酸含量也并不低，并且羊肉、兔肉跟猪肉、牛肉的差别并不大，二两肉里色氨酸差别只有 0.03g 左右。</p>
+<p><strong>且最关键的是，猪肉的色氨酸含量甚至比羔羊肉更高。但是显然猪肉并没有羔羊肉那么明显的产热效应。</strong></p>
+<p>如果不是色氨酸，那又是什么导致的呢？</p>
+<p>要说明这一点，我们要从身体是怎么感觉到热说起。</p>
+<p><strong>首先，我们摄入任何含有能量的食物都会轻微发热，这叫做食物热效应（也就是吃完饭暖暖的感觉）：</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d714e0df8780283fb4c04e49d00a5e36_720w.jpg?source=8673f162" alt=""></figure>
+<p>我们可以把我们的身体想成一个加工厂，我们需要把吃进来的食物拆卸加工成自己的零件，比如把蛋白质拆成氨基酸用来合成身体的肌肉等，然后把一些多余的能量以糖原或者脂肪等形式储存起来。</p>
+<p>当我们消化、吸收和合成营养素（特别是蛋白质）时，细胞需要消耗大量的能量货币——ATP（三磷酸腺苷）。</p>
+<p>在生物体内，ATP 释放的能量并不可能 100%被用于做功（如肌肉收缩或分子合成，好比工厂工人加工的过程）。</p>
+<p>根据热力学第二定律（不可能从单一热源取热使之完全转化为功而不产生其他影响），这个过程必然伴随热量的产生。</p>
+<p>这个过程产生的热量就叫做食物热效应。</p>
+<p>其中蛋白质的代谢过程极其复杂（包括脱氨基、尿素循环等），需要消耗大量 ATP，因此“浪费”热量的比例最高。</p>
+<p>所以当我们进食高蛋白食物的时候，身体发热的感觉最明显。不限于羊肉，吃大量牛肉也会有这个感觉。</p>
+<p>消化系统的细胞通过代谢产生的热量传导给血液，但是大脑感受到产热的过程由多种激素控制，包括肾上腺素、去甲肾上腺素、皮质类固醇和甲状腺激素。棕色脂肪组织（BAT）主要受交感神经控制，是产热的重要器官之一，然而，这些激素和棕色脂肪组织是否参与各种肉类的餐后热效应，科学家仍在研究中。</p>
+<p>不过羊肉、鹿肉等传统“温热”食物吃下去后确实产热较多，而兔肉却不然。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-bebd10e84bf5baba4ecf23623b39ce32_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>那么还是那个问题，兔肉蛋白含量比羊肉还高，兔肉怎么又没有这么高的食物热效应？还被传成“寒性”食物？</strong></p>
+<p>因为这个让你感觉热的原因不止一个。</p>
+<p>要知道人的感觉器官是很复杂的，除了物理产热被我们感觉到以外，对应的信号通路如何被激活，也非常影响人们对产热的感受。</p>
+<p>有科研团队对此感到好奇，并认真做了大鼠的实验，没想到，兔肉还真是非常特别的存在，别的肉食的食物热效应挺明显的，比起不吃饭的对照组，基本上都升高了<strong>直肠等消化道温度。</strong></p>
+<p>但是兔肉这个蛋白含量这么高的肉类居然略微降低了直肠等消化道温度：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-22c7dea698332a3af6db3777957b07b0_720w.jpg?source=8673f162" alt=""></figure>
+<p>难怪传统上会把兔肉归到寒性，它不但食物热效应没那么明显，居然还有反作用。</p>
+<p><strong>通过大鼠实验发现羊肉的餐后热效应确实相较于鸡肉、猪肉等较强，且其活性成分并非脂肪或小分子物质，而是存在于瘦羊肉蛋白里。</strong></p>
+<p>因为有的资料会告诉你羊肉里含有较高的左旋肉碱可能有提高脂肪代谢率，会提高产热效应，但是其实羊肉的左旋肉碱含量跟普通牛肉相近，且不如牛排：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e78be4bfcbe62c7fe819193730b97c04_720w.jpg?source=8673f162" alt=""></figure>
+<p>实验通过筛选排除了左旋肉碱等小分子的干扰，确定是瘦羊肉蛋白质导致的明显食物热效应。</p>
+<p>瘦羊肉蛋白可能通过促进甲状腺激素分泌，上调能量代谢相关信号分子，增强甲状腺激素调节的专性产热，而非褐色脂肪代谢产生的适应性产热。</p>
+<p>不过，具体是哪种物质导致的产热还在研究之中，也有可能是羊肉蛋白质整体的氨基酸比例等更接近人类蛋白质比例。</p>
+<p>有趣的是，有另一组研究团队给小鼠喂食去掉脂肪的鸡肉看看食物热效应如何，</p>
+<p><strong>结果发现吃去脂鸡肉吃的食物热效应跟吃羊肉相当：</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4149d77766019ea86413a2f3a73a9f77_720w.jpg?source=8673f162" alt=""></figure>
+<p>这张图里分别是控制组、纯鸡肉、鸡脂肪、去脂肪鸡肉、纯化后的鸡肉蛋白。</p>
+<p>其中两小时内升温最快的就是<strong>去脂肪鸡肉</strong>，效果堪比吃羊肉。</p>
+<p>不过<strong>两小时后</strong>整体背部温度跟纯鸡和纯化后的鸡肉蛋白相当。</p>
+<p>只有鸡脂肪吃下去是抑制食物热效应的。</p>
+<p>说到这里你应该明白为什么鸭肉是寒性的了，鸭肉脂肪含量 19g/100g 左右，在禽畜肉里算是最高的一档，而且秋鸭尤甚，所以鸭脂肪也有很明显的抑制食物热效应的作用，导致吃下去体感较寒。</p>
+<p><strong>总结：</strong><strong>羊肉可能因为瘦肉蛋白里含的某种物质或者整体的氨基酸配比导致有最明显的蛋白质食物热效应。</strong></p>
+<p>并非色氨酸、精氨酸或者左旋肉碱等等单一因素。</p>
+<p>如果你想加强这种热效应，让身体更快发热，就不要吃比较肥的<strong>羊肋排、羊腩</strong>等部位，</p>
+<p>而要吃精瘦<strong>羊里脊、羊腱子肉、羊腿</strong>等部位<strong>。</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-dfe0c7610cdaa191ca7674621a4d93b9_720w.jpg?source=8673f162" alt=""><figcaption>几种羊肉的食物热效应，其中脱脂羊肉和羊肉纯化蛋白是最明显的、最快的</figcaption></figure>
+<p><strong>并且吃去掉脂肪的鸡肉、牛肉等在短时间内也有同样的效果。</strong></p>
+<p>好的，说完羊肉再简单说说辣椒。</p>
+<p>咱们吃羊肉的时候有时候蘸一点辣椒油：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-271bd8b65f3d80abdb5616131165f40a_720w.jpg?source=8673f162" alt=""></figure>
+<p>辣椒本身碳水化合物较少，蛋白质和脂肪含量都极低，而且一般人吃的量也比较少，所以食物热效应这方面可以忽略不计，但是辣椒有很强的发汗出热的感觉，那是因为吃辣椒触发了热和痛的感受器，让人觉得仿佛来到了 43℃的高温。详见这篇：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/1891909191746159004/answer/1892359075779568182">众所周知，辣是一种痛觉，那么吃完辣后吃止痛药会怎么样？ - 知乎</a></p>
+<p>所以如果在没有吃其他食物补充能量的情况下，单独吃辣椒发热出汗后只会让你感觉更冷。</p>
+<p>但是冬天炖羊汤再蘸点蒜蓉辣椒油那真是美滋滋了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2565985c0be967d67831df27f99e5939_720w.jpg?source=8673f162" alt=""></figure>
+<p>以上~</p>
+<p>参考资料：</p>
+<p>1Postprandial Thermic Effect of Chicken Involves Thyroid Hormonesand Hepatic Energy Metabolism in Rats</p>
+<p>2Effects of meat species on the postprandial thermiceffect in rats</p>
+<p>3Alzheimer's Disease Preventive Role of L-Carnitine and Balanced Diet in</p>
+<p>4<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//fitaudit.com/categories/met/protein" target="_blank" rel="nofollow noreferrer">Protein in Meat</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1965771818330756325">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/15618589706">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787627</guid><pubDate>Mon, 16 Feb 2026 18:36:19 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787724</guid><pubDate>Tue, 17 Feb 2026 01:45:20 GMT</pubDate></item></channel></rss>
