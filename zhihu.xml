@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Tue, 17 Feb 2026 18:51:03 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>猪的尾巴为什么卷卷的？</title><link>http://daily.zhihu.com/story/9787678</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aa56e90237ed3cdef072ed650cb69b1d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 18 Feb 2026 01:48:20 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>婴儿期记忆普遍会消失，这是为什么？未来能否通过科学手段保留这些记忆？</title><link>http://daily.zhihu.com/story/9787680</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-3996209918a501d8ed7948c6864706b4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,54 +19,139 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
+<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的退役士兵。</span>
+<a href="https://www.zhihu.com/question/1999635607996101724/answer/2001944680930248160" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>我们“儿童失忆”，是为了长久记住更美好的东西。</p>
+<p><strong>3-4 岁前的记忆并非完全消失，也有一些残留，属于「存在但不可提取」 的状态。</strong></p>
+<p>也叫儿童失忆（Childhood amnesia）。</p>
+<p>更严谨的说法是，成年人最早记得的、清晰的、可叙述的情境记忆，平均、大多，发生在 3–4 岁。</p>
+<p>从 3-4 岁开始，我们可检索的记忆逐渐增多，7 岁之后就可以稳定形成、可检索的记忆了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7eccecf0fab8492c66198bc30a5f46d7_720w.jpg?source=8673f162" alt=""><figcaption>年龄与可提取的记忆数量间的关系</figcaption></figure>
+<p>比如我能记得最早的一段，是在我老家的医院抽血，实习护士扎针采血两次不成功，我母亲有些不开心了，要求换个护士。</p>
+<p>据我母亲回忆，那大概是我 4 岁的时候。</p>
+<p>所以放轻松，你不记得自己驾驶精子飞船，摧毁了无数敌机并成功钻进卵细胞这件事，是正常现象：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-76141319e4d9d8d840c7684f052ce66e_720w.jpg?source=8673f162" alt=""></figure>
+<p>回归正题...为什么我们普遍儿童失忆呢？</p>
+<p><strong>答：大脑和认知发展的必然结果。</strong></p>
+<p>与一些出生后就具备一定生活自理能力的动物不同，人类婴儿属实够菜，童年的过程十分漫长。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-08d7b97c1ba17d79167e3c50c5d8a2b2_720w.jpg?source=8673f162" alt=""></figure>
+<p>这其中，很大一部分因素，是让大脑慢慢发育，达到足够站在地球之巅的脑发达水平。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3674f0454bafced793b404627c727c50_720w.jpg?source=8673f162" alt=""></figure>
+<p>你可以理解为组装电脑，硬件升级好了，才能去升级软件。</p>
+<p><strong>在 3-4 岁前，大脑的这些硬件发育不够成熟：</strong></p>
+<p>一是海马体，尤其是 CA1 区（信息传递）、CA2 区（时间空间记忆）、CA3 区（记忆检索）不成熟，导致短期记忆转化为长期记忆的能力不足；</p>
+<p>二是前额叶，前额叶皮层发育不全，记忆印迹就难以被整合与调动。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e99daf618a4f34439638a2d3d791bca2_720w.jpg?source=8673f162" alt=""></figure>
+<p>也就是说，这个时候，我们可以形成「记忆印迹」，但储存和检索机制<strong>不稳定</strong>。</p>
+<blockquote>engram（记忆印迹）是描述记忆在大脑中物理表征的神经科学术语，指存储于特定神经元集群（engram cells）中的记忆痕迹。</blockquote>
+<p><strong>与此同时，记忆需要“讲故事的能力”。</strong></p>
+<p>语言可以把零散的印象链接结构化记忆，比如谁、何时、何地、发生了什么。</p>
+<p>但是呢，婴儿的大脑中，负责语言产生的布洛卡区（Broca's Area）和负责语言理解的韦尼克区（Wernicke's Area），都没太成熟，两者之间的连接也十分有限。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-019daa2f10ca9f99c10525e611323f73_720w.jpg?source=8673f162" alt=""></figure>
+<p>结果就是，一些零散的“印象”，难以形成形成可叙述的事件，成年后无法用语言去回忆。</p>
+<p>再与此同时，大脑在快速发育过程中会发生大规模的突触修剪，婴儿时期的记忆印迹，在这场重塑过程中，很容易被覆盖掉。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-609772aa711182f2283591341caed808_720w.jpg?source=8673f162" alt=""><figcaption>人脑发育的突触修剪</figcaption></figure>
+<p>总结一下，上面的问题串联起来，就构成了儿童失忆。</p>
+<p>婴儿有经历→海马体初步编码→记忆存在印迹。</p>
+<p>受限于海马体和前额叶，这些印迹难以被整合与调动。</p>
+<p>缺乏语言的框架，这些印迹又难以被连贯叙述。</p>
+<p>发育过程中，突触修剪会覆盖掉这些印迹。</p>
+<p>于是乎，你失忆了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-51309bda0f7db33e0438a7e0a66e0867_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过开心点，儿童失忆，是为了记住更多、更美好的事情。</p>
+<p>至于提问者所说“未来能否通过科学手段保留这些记忆？”</p>
+<p>早期有研究发现，通过脑电刺激，可能唤醒患者的部分记忆碎片。</p>
+<p>但相当一部分学者认为，这是大脑在电刺激下将各种印象拼接起来的虚假体验~</p>
+<p>个人认为，婴儿时期的那部分时光，确实是被我们丢了个差不多了。</p>
+<p><strong>也因此，祝大家</strong></p>
+<p><strong>美好的记忆，发生在今天、明天、后天、以及数不尽的未来。</strong></p>
+<p>以上</p>
+<p>参考内容：</p>
+<p>Bauer P J. A complementary processes account of the development of childhood amnesia and a personal past[J]. Psychological Review, 2015, 122(2): 204.</p>
+<p>Wang Q, Peterson C. Your earliest memory may be earlier than you think: Prospective studies of children’s dating of earliest childhood memories[J]. Developmental Psychology, 2014, 50(6): 1680.</p>
+<p>Howe M L. Unravelling the nature of early (autobiographical) memory[J]. Memory, 2019, 27(1): 115-121.</p>
+<p>Sjöberg R L. Brain stimulation and elicited memories[J]. Acta Neurochirurgica, 2023, 165(10): 2737-2745.</p>
+<p>Conway, Martin A., and Catherine Loveday. "Remembering, imagining, false memories & personal meanings."<em>Consciousness and cognition</em>33 (2015): 574-581.</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1999635607996101724">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787680</guid><pubDate>Wed, 18 Feb 2026 01:48:17 GMT</pubDate></item><item><title>袋熊是唯一能拉出方形粪便的动物，其独特的生理机制有何意义？</title><link>http://daily.zhihu.com/story/9787726</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-9eff8c9bfeeee112ab47188970f4639f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
 <span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/2000668780972508050/answer/2000678675482429141" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/1982782503065515558/answer/1986221583879143720" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>如果把时间倒推回大约 9000 年前，你会发现猪的祖先欧亚野猪（<em>Sus scrofa</em>）并不具备这种特征<sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ba2080fb64e2ad4b17dbddc3f32a5dc_720w.jpg?source=8673f162" alt=""></figure>
-<p>野猪的尾巴是直的，这不仅符合空气动力学，还能在它们穿过灌木丛时充当某种信号旗，或者用来驱赶蚊虫。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1f276910cb98db925fc05da9d7f67004_720w.jpg?source=8673f162" alt=""></figure>
-<p>那么家猪的卷尾巴是怎么来的？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5e4f95bcad040699ff319fccb173fd1a_720w.jpg?source=8673f162" alt=""></figure>
-<p>查尔斯·达尔文在 1868 年就注意到了这个问题，他发现被人类驯化的动物往往会出现一套相似的特征，比如耷拉的耳朵、变短的吻部、出现白斑以及卷曲的尾巴 。这种现象后来被称为驯化综合征<sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-de2550c811f5680a7c6d1f2191232397_720w.jpg?source=8673f162" alt=""></figure>
-<p>直到 2014 年，亚当·威廉姆斯（Adam Wilkins）等人提出神经嵴细胞假说<sup>[3]</sup>，才算真正从发育生物学角度解释了这个问题 。故事的开头我们都熟悉：人类为了获得性格温顺的猪，无意中筛选了肾上腺发育较弱的个体。</p>
-<p>但关于尾巴的具体卷曲机制，故事比我们最初想象的更复杂。猪尾卷曲实际上是一个<strong>多基因控制的数量性状</strong>，虽然受环境影响，但遗传力中等偏高。现代基因组学并没有发现是神经嵴细胞直接“打印”错了尾巴，而是锁定了一些关键的遗传因子，其中最著名的就是 <strong><em>Brachyury</em>（意为“短尾”）基因</strong>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-df9c3a32ea96f85428fdc9c0d1f32e21_720w.jpg?source=8673f162" alt=""></figure>
-<p>研究表明，<em>Brachyury</em> 基因或其调控区域的特定等位基因变异，与尾椎的楔形化（Wedge-shaped）密切相关。</p>
-<p>这种突变导致尾椎骨化中心的形成发生改变，使得椎体无法生长为完美的圆柱形，而是像被切了一刀的积木一样被迫弯曲。这恰恰为神经嵴细胞假说提供了分子层面的证据，并非神经嵴细胞直接变成了尾骨，而是因为在胚胎发育中，神经管和脊索（脊柱的前身）的发育是紧密耦合的，牵一发而动全身。</p>
-<p>此外，控制体长的 <strong>NR6A1</strong>、以及和毛发卷曲有关的 <strong>KRT 与 KRTAP（角蛋白基因）</strong>、甚至 <strong>HOX 基因簇</strong>也都在这场“卷尾行动”中发挥了作用。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d135764a16f3d8975afb1b6a5a5e5bdb_720w.jpg?source=8673f162" alt=""></figure>
-<p>很多人误以为猪尾巴卷曲是因为肌肉在用力，就像人握紧拳头一样。如果这种逻辑成立，那么死猪的尾巴应该像绳子一样直。但事实并非如此，即便是在屠宰后，大多数家猪的尾巴依然保持着一定的卷曲度 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-97021cf2a3ec85baa95baffaba0bbe5e_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是一种结构性的固化。解剖学研究显示，卷尾猪的尾椎骨并不是标准的圆柱体，而是呈现出梯形或楔形 ，通常位于中段（Ca4-Ca10 区域）。</p>
-<p>这种楔形变异（Wedge-shaped）就像拱桥的石块一样，天生就带有弧度。这种骨骼结构迫使尾巴在放松状态下依然保持螺旋状 。当然，肌肉张力确实参与了维持更紧密的卷曲，但这更多是骨骼形态决定的物理属性<sup>[4]</sup><sup>[5]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-92ce26429652d8c7a95a5c74a28636e4_720w.jpg?source=8673f162" alt=""></figure>
-<p>在现代养猪场里，一根笔直下垂的猪尾巴通常是麻烦的信号。</p>
-<p>动物行为学家发现，猪尾巴的姿态是其心理和生理状态的晴雨表。一条紧紧卷起的尾巴通常代表这只猪处于健康、兴奋或高唤醒度的状态 。相反，如果尾巴像被雨淋湿的绳子一样直直地垂在两腿之间，这被称为夹尾（Tucked tail），通常意味着猪正在遭受寒冷、疾病、或是社交压力<sup>[6]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a1043806eb263ff1fddb06b716ccd410_720w.jpg?source=8673f162" alt=""></figure>
-<p>2018 年的一项研究指出<sup>[7]</sup>，观察到夹尾现象时，这只猪遭受同伴攻击或患病的概率显著增加 。在拥挤的猪舍中，直尾巴更容易成为其他无聊猪只的啃咬对象，这种行为被称为咬尾症（Tail Biting），一旦发生往往会导致严重的感染甚至引发同类相食 。</p>
-<p>当然，如果你想的话，可以手动拉直它。</p>
-<p>就像这样<sup>[8]</sup>：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b88dfdde3e9e59d88a975230989c5951_720w.gif?source=8673f162" alt=""></figure>
-<p>农夫用手指沿着猪的脊背中线向后抚摸，猪的尾巴就会神奇地像卷尺一样慢慢伸直，几秒钟后又会自动卷回去 。</p>
-<p>这种抚摸模拟了某种特定的感官刺激，可能触发了抑制背侧肌肉张力的反射弧，或者仅仅是一种类似被安抚后的放松反应 。对于兽医来说，这是一个实用的小技巧，不用把猪按在地上就能检查尾巴的皮肤状况。</p>
-<p>不过，并非所有猪都卷。越南大肚猪（Vietnamese Potbellied Pig）按照品种标准，其尾巴就是直的 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-016c9f4195d33d242cf39fe20ee25a7e_720w.jpg?source=8673f162" alt=""></figure>
+<p>早在 2019 年，Carver 教授与佐治亚理工学院的 Patricia Yang 等人就因为研究“袋熊如何拉出方块”而获得了搞笑诺贝尔物理学奖。</p>
+<p>他们通过解剖发现，袋熊肠道的最后 17%区域存在着软硬交替的弹性带。当干燥的粪便通过这里时，肠壁各向异性的收缩像模具一样，将原本圆柱形的排泄物捏成了棱角分明的立方体 <sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-693e97795a23222b138dea85f7e653bd_720w.jpg?source=8673f162" alt=""></figure>
+<p>这解释了物理机制，但进化生物学讲究成本与收益。如果费尽力气把便便捏成六面体只是为了好玩，这种基因早就被自然选择淘汰了。</p>
+<p>科学界的推测是：<strong>这是为了社交</strong><sup>[2]</sup><strong>。</strong></p>
+<p>如果你生活在一个地形起伏的环境里，并且需要把自己的气味信息留在显眼的地方供同类读取，那么圆形的粪便就是一个巨大的设计缺陷，因为它们会滚走。方形的结构提供了绝佳的物理稳定性，让袋熊能够像搭积木一样，把自己的代谢产物稳稳地堆叠在岩石、圆木甚至洞口的显眼位置 。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2e6dfb096951861d9614315037f2f321_720w.jpg?source=8673f162" alt=""></figure>
+<p>为了验证这些方块里是否真的含有社交信息，科学家们首先动用了气相色谱 - 质谱联用技术（GC-MS）。</p>
+<p>研究人员从野外收集了大量袋熊的新鲜粪便，分析其中的挥发性有机化合物（VOCs）。结果显示，每只袋熊的粪便都含有独特的化学指纹。他们在样本中鉴定出了 44 种不同的化合物，其中包括α- 蒎烯（alpha-pinene）等萜烯类物质，这主要源于它们食用的桉树叶。</p>
+<p>更有趣的是检测到了己醛（Hexanal）等醛类物质。在哺乳动物中，这类化合物通常与激素水平、发情状态以及社会等级有关 。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-82083740c81bf552f531ee1874005680_720w.jpg?source=8673f162" alt=""></figure>
+<p>这意味着，当一只袋熊路过一块石头，深吸一口气时，它读到的不仅仅是“有同类来过”，而是一份详细的个人档案：发送者是雄是雌，是否处于发情期，以及它最近吃了哪片林子的树叶。</p>
+<p>化学分析只能证明“有信息”，不能证明袋熊“在乎信息”。为了确认这一点，Carver 团队在塔斯马尼亚东海岸的玛丽亚岛（Maria Island）进行了一场野外操控实验 。</p>
+<p>科学家们预设了四种实验场景，并在旁边架设了红外相机陷阱：</p>
+<ul>
+<li><strong>空白对照</strong>：什么都不放。</li>
+<li><strong>自然对照</strong>：保持原有的袋熊厕所不动。</li>
+<li><strong>程序对照（关键步骤）</strong>：研究人员戴着无菌手套，用密封袋将原本的粪便拿起来，然后再放回原处。这样做的目的是排除“人类气味”或“物体被移动”这一动作本身对袋熊的干扰。</li>
+<li><strong>陌生人处理</strong>：放入来自远方、从未谋面的陌生袋熊的粪便。</li>
+</ul>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b273a3bab14e53cb0b6f2c5ec5624029_720w.jpg?source=8673f162" alt=""></figure>
+<p>随后，他们收集了数千小时的视频素材。数据分析的结果极具统计学意义：袋熊对“程序对照组”反应冷淡，说明它们不在乎粪便是否被人类碰过；但当它们遇到“陌生人处理组”的粪便时，原本淡定的袋熊表现出了极大的兴趣。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0bdbee5f8ae04e3180b8e986938230e9_720w.jpg?source=8673f162" alt=""></figure>
+<p>视频记录显示，袋熊会花显著更长的时间去嗅闻、检查这些外来的“方块” 。这种行为被称为“调查性嗅闻”（Investigatory behavior）。对于非领地性的动物来说，大家虽然不住在一起，但家域高度重叠，通过这种“气味留言板”来了解谁在附近活动，既能避免尴尬的正面冲突，又不错过潜在的交配机会。</p>
+<p>这项研究揭示了一种高效的“异步社交”模式。袋熊新陈代谢极慢，能量非常宝贵，它们无法像群居动物那样通过频繁的肢体接触或声音来维护关系。</p>
+<p>于是，进化赋予了它们两样法宝：一个是能把粪便塑造成砖头的肠道，另一个是能解读复杂化学密码的犁鼻器。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d23b07109487b000a51c48c3baaac8f_720w.jpg?source=8673f162" alt=""></figure>
+<p>在人类看来，这可能有点重口味。但在袋熊的世界里，每一块被精心堆叠在岩石顶端的方形便便，都是它们在这个广阔大陆上发出的深情呼唤。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-77eefdd86164259e869e7284bdd92812_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2000668780972508050">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1982782503065515558">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787678</guid><pubDate>Tue, 17 Feb 2026 18:51:01 GMT</pubDate></item><item><title>对于昆虫的变态发育，如何能证明它们的意识前后是统一的，保留了发育前的它，而不是被夺舍？</title><link>http://daily.zhihu.com/story/9787636</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5549ca3c7a88ccf8ab6acf7b598070a5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787726</guid><pubDate>Wed, 18 Feb 2026 01:48:18 GMT</pubDate></item><item><title>人看到精子的形状会形容是蝌蚪形，那青蛙看到了会怎么形容？</title><link>http://daily.zhihu.com/story/9787733</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-8f7e18b479251ec9fc3272aa75ecf10c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -86,49 +171,43 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-eb665fa780d6c2ffe7908debeb029b04_l.jpg?source=8673f162">
-<span class="author">斜绿天蛾，</span><span class="bio">点进主页你会发现，这人真就只在乎虫子</span>
-<a href="https://www.zhihu.com/question/1943642977269452921/answer/1943701299674710911" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-1e401401af03a332850c9628d41dfd67_l.jpg?source=8673f162">
+<span class="author">攀缘的井蛙，</span><span class="bio">化工工程师，项目经理，自然爱好者</span>
+<a href="https://www.zhihu.com/question/15534206504/answer/1888531751606936043" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>证明很简单啊，做个实验就行。</p>
-<p>而且早就有科学家做过了。</p>
-<p>2008 年对烟草天蛾 <em>Manduca sexta，</em>的研究证实，全变态发育的昆虫，幼虫在实验中学会的回避行为，<strong>会一直记忆到成年后</strong>。</p>
-<p>烟草天蛾是一种常见的实验动物。属于天蛾科天蛾亚科，和答主属于不同亚科，体型更大。幼虫是光滑无毛的肥硕毛虫。它的优点是可以用人工饲料很容易地养活。</p>
-<p>用的 y 型管实验，很简单的原理：两条管气味或其它要素不同，实验动物自己选择往哪边走，如果它移动到了特定的一侧，就会受到惩罚（通常是轻微的电击）。久而久之它就会选择不会被电的那一边。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b0e1faf8ce477a200dddb6b881b00a1e_720w.jpg?source=8673f162" alt=""></figure>
-<p>当然，选的气味是对毛虫来说无害的，这里是乙酸乙酯。在学习之前，毛虫不会讨厌这种气味，也不喜欢。</p>
-<p>而对照组在两边都会被电，或都不会被电。还有一组是先被电再给气味，这一组没有选择权，结果也是不会回避气味的。</p>
-<p>首先得到的结果当然是 - 即使是天蛾幼虫，看起来一大坨浑身是肉的进食机器，<strong>也有学习和记忆能力。</strong>有 81%的幼虫选择没有乙酸乙酯的那边，以免被电，这不算太多，但和对照组比还是很明显的。对照组是完全不打算回避，选哪条路是纯随机。</p>
-<p>羽化后，77%的成虫继续保持对乙酸乙酯的厌恶。</p>
-<p>也就是说，幼虫时经受的训练，即使经历了蛹期，它们还记着。<strong>意识和记忆是统一的</strong>。</p>
-<hr>
-<p>其它一些间接的证据包括，蛾子或蝴蝶更倾向于在它幼虫时吃的同种植物上产卵。这并不局限于鳞翅目，对果蝇和甲虫的研究也得出了同样的结果。</p>
-<p>昆虫的学习和记忆能力很普遍，尽管它的表现因种类和个体，以及学习对象，存在巨大的差异。有的可能只会记住几分钟，而蟋蟀对盐水的记忆可以超过两个月</p>
-<hr>
-<p>题主问出这样的问题，可能<strong>来自一些对全变态昆虫的常见误会</strong>：坊间传说昆虫在化蛹后，内部会全部分解再重构、或者“成虫盘”会“夺舍”原本的幼虫；这些话听起来很唬人，但现实不是如此。</p>
-<p>昆虫幼虫在变态发育过程中的确会经历很大程度的变化，许多组织分解消失，但不是全部。成虫盘也只是会成为成虫的一部分器官，而不是全部。其中，非常重要的系统，如神经系统和呼吸系统会大部分保留。</p>
-<p>而且，全变态发育其实是 <strong>连贯的过程</strong>。如果你饲养过蝴蝶蛾子，会发现它们在末龄时会变得僵硬，身体结构逐步过渡到蛹期，而不是等化蛹的那一个瞬间才开始发育的。</p>
-<p>蛹也不是一个带皮的大肉球，如果你仔细观察，蛹阶段已经出现了成虫的触角、复眼和腿。而且蛹可以动，里面是有肌肉和神经的，只是受限于结构，动的比较僵硬。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-052346dc8d1ca6200e063e46a891bbeb_720w.jpg?source=8673f162" alt=""><figcaption>一枚蛾蛹，你可以看到蛹其实有触角、眼睛和翅膀，只是现阶段还贴在一层皮下。</figcaption></figure>
-<p>对于膜翅目（蜂蚁）、脉翅目、广翅目等，蛹的特化程度没那么高，你可以看到一个“更连贯”的发育过程。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c5327bf6628424c1f5af930cedcb264_720w.jpg?source=8673f162" alt=""></figure>
-<p>无论如何，就算昆虫发育过程中失去了记忆，也不能说明它被“夺舍”；</p>
-<p>生物在发育过程中，部分细胞被替换、一些组织在发育过程中消失、出现，都是很平常的现象，这并不涉及到什么“不是自己”的哲学问题。</p>
-<p>你自己也失去了三岁前的记忆，难道你和三岁前的你不是同一个人吗？</p>
-<p>参考：<a class=" external" href="http://link.zhihu.com/?target=https%3A//journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0001736" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">journals.plos.org/ploso</span><span class="invisible">ne/article?id=10.1371/journal.pone.0001736</span><span class="ellipsis"></span></a></p>
+<p>很好的问题，让我的思维旋转。</p>
+<p>我首先好奇的是：青蛙自己的精子是什么样子的。随手搜了一下 frog sperm cell，找到一张图片：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6b9be2fc3346bba288ffd2ff3184dc34_720w.jpg?source=8673f162" alt=""><figcaption>（Sperm: Comparative VertebratePeter D Temple-Smith, Aravind Ravichandran, and Fabrizzio E Horta Nunez, Monash University, Clayton, Australia）</figcaption></figure>
+<p>图中 c 是蛙的精子，d 是蟾蜍精子，e 是蝾螈精子。很有特点，很有特点啊。</p>
+<p>实际上，绝大多数动物的精子都比人类的（k）有个性多了。</p>
+<p>再在 Researchgate 上用 frog spermatozoa 搜一下，看到一篇介绍泡沫巢细趾蟾 Foam-nesting leptodactyline frogs‌精子的文献（doi: 10.1111/azo.12144）。</p>
+<p>细趾蟾属<em>Leptodactylus</em>基本上长这样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-df8929e07cc3e5783384f0b726cfaaf8_720w.jpg?source=8673f162" alt=""><figcaption>（Foam-nest Frog (Leptodactylus rhodomystax) sitting on a leaf, Ecuador, San Jose de Payamino）</figcaption></figure>
+<p>研究人员发现这些青蛙的精子长这样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-047b26ab50c784b45bedbf84b92136a9_720w.jpg?source=8673f162" alt=""></figure>
+<p>或者这样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3cb95835592939f65bfb36ec285aa8b5_720w.jpg?source=8673f162" alt=""></figure>
+<p>光学显微镜下看是这样的：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-09b2503ba38509d25d5989796ce1e39b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-377ab433e0b9ff32e9c1a2df2437c13e_720w.jpg?source=8673f162" alt=""><figcaption>（标尺长度 5um）</figcaption></figure>
+<p>可以看出这些精子远比人类的更“凶悍”。你的头怎么尖尖的？因为要穿透蛙卵的外膜。蛙卵可比人的卵细胞大多了，外膜也更厚。所以精子的头部像个长矛一样。另外这些精子的尾巴上有连续的薄膜，像个螺旋小飞棍似的，游泳能力更强。因为蛙是体外受精，精子直接被排放到环境中，要在水体、粘液、泡沫中奋力游向目的地，同时还要抵御日光、空气、微生物的侵害，生命力简直爆棚。</p>
+<p>相比之下，人类的精子实在太弱不禁风了：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-491c071187b3f2417f8911eac38fabe0_720w.jpg?source=8673f162" alt=""><figcaption>（标尺长度 10um）</figcaption></figure>
+<p>所以，如果青蛙真的能看到人类精子的话，多半不会认为这玩意像自己的幼体。蝌蚪形？呸！你看不起谁呢？怎么形容？就叫“弱鸡形”、“废物形”、“鞭毛虫形”吧。</p>
+<p>2025.3.27</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1943642977269452921">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/15534206504">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787636</guid><pubDate>Tue, 17 Feb 2026 18:51:02 GMT</pubDate></item><item><title>一个人临死前吞下大量炸药，火化的时候会把火葬场炸掉吗？</title><link>http://daily.zhihu.com/story/9787717</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-682c3e45a16aecf3dd53d031818c2987.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787733</guid><pubDate>Wed, 18 Feb 2026 01:48:19 GMT</pubDate></item><item><title>下海5000多万年，为什么鲸鱼没有进化出鳃？</title><link>http://daily.zhihu.com/story/9787743</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-1864fc2189bc511dd6fcd5d9e46056ee.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -148,167 +227,104 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-8d92d220012187cec209e72a54e979b5_l.jpg?source=8673f162">
-<span class="author">且听沧海，</span><span class="bio">不输出情绪，只分享干货</span>
-<a href="https://www.zhihu.com/question/1890533894983496154/answer/1891571507819417712" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/1898661390031487881/answer/1899523095661897252" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这个问题真的非常棒，它几乎涉及到了炸药每一个方面的知识，提问者的确是个小天才。</p>
-<p>想要搞清楚这个问题，我们需要把炸药到火化炉的过程分成三个步骤：</p>
-<p>第一步，炸药进入胃里，要和胃酸接触，胃酸是 ph 值非常低的盐酸，这就涉及到了炸药的<strong>化学稳定性</strong>。</p>
-<p>第二步，尸体进入火化炉，在高温下灼烧，到底能不能爆炸，这就涉及到了<strong>炸药的热感度</strong>。</p>
-<p>第三步，如果炸药爆炸，能否炸掉火葬场，这就涉及到了<strong>炸药的威力</strong>。</p>
-<p>我们先看第一步：</p>
-<p>首先，炸药的种类非常多，不仅有单质炸药，还有混合物炸药，我们先说单质炸药：</p>
-<p>很多新概念炸药，像金属氢、全氮阴离子这些，它们的化学性质很不稳定，</p>
-<p>所以遇上强盐酸，直接就会爆炸，这些炸药，是进不到火葬场的，在胃里就炸了。</p>
-<p>无机化合物炸药，比如说硝酸铵，它会和盐酸反应，生成硝酸和氯化铵。</p>
-<p>那硝酸铵在进入火化炉之后能否爆炸，就要看吞下多少硝酸铵，</p>
-<p>如果吞下的少，那硝酸铵就可能被胃酸全部反应成氯化铵，也就不会爆炸。</p>
-<p>有机化合物炸药，这是炸药最大的家族，现在常用炸药基本上都是它们，</p>
-<p>它们分为三大类：硝基化合物，代表梯恩梯，苦味酸，</p>
-<p>硝胺，代表黑索金、奥克托今、CL-20</p>
-<p>硝酸酯，代表硝化甘油。</p>
-<p>它们的化学稳定性都比较好，不会和胃酸反应，吞下去之后能够送进火化炉。</p>
-<p>说完了单质炸药，再来说混合物炸药，</p>
-<p>所谓“混合物炸药”，就是把几种单质炸药混在一起，</p>
-<p>再加上增塑剂、稳定剂、铝粉等改善性能的物质，组成的新炸药，</p>
-<p>代表就是美国的 C4，我国的 8701。</p>
-<p>这些混合物炸药，里面新添加的成分，可能会和胃酸反应，结果非常复杂，就不一一讨论了。</p>
-<p>再来看第二步，承受住了胃酸考验的炸药们，能不能在火化炉中被引爆？</p>
-<p>这就涉及到了炸药的热感度问题，所有炸药，在高温加热的时候，都会发生爆炸，</p>
-<p>我们看到有的电视节目，把一些炸药放在火上烤，它不会爆炸，那是因为火焰的温度不够。</p>
-<p>我们把炸药从开始受热到爆炸经历的时间，称为“延滞期”，</p>
-<p>把延滞期设定为 5 秒或 5 分钟，然后用不同温度对炸药加热，</p>
-<p>能够在延滞期内引爆炸药的温度，就称之为“爆发点”。</p>
-<p>常用炸药的 5 秒延滞期爆发点，硝化甘油是 220 度，黑索金是 260 度，奥克托今是 335 度，</p>
-<p>相比之下，梯恩梯就非常安全了，足足有 475 度。</p>
-<p>我们再来看火化炉的温度，现代火化炉，通常采用喷射燃油或天然气之后点燃的燃烧方式。</p>
-<p>这就让火化炉的起手温度，飙升到了 600 度到 700 度，然后巅峰温度能达到 1000 度。</p>
-<p>在这种温度下，尽管有人体作为隔热材料，</p>
-<p>但是仍然能将炸药加热到爆发点以上温度，炸药也就随之爆炸。</p>
-<p>所以，只要是能扛过胃酸，进入火化炉的炸药，基本上都能爆炸。</p>
-<p>最后看第三步，炸药能否炸掉火葬场。</p>
-<p>这显然是不能的，因为人的胃容量有限，最多只能放十几千克炸药。</p>
-<p>火葬场占地面积都在几十万平方米以上，有告别厅、办公室等大量钢筋混凝土建筑，</p>
-<p>这么点炸药量，不管换成啥大威力新概念炸药，都不可能炸掉这么多建筑物。</p>
-<p>炸药能毁伤的，只有火化炉。</p>
-<p>火化炉一般都是外部钢壳体，内部铺设耐高温材料，比如说耐火砖，</p>
-<p>内部会有通风管道、燃料喷射装置等结构。</p>
-<p>炸药爆炸之后，基本上不会对钢结构和耐火砖造成破坏性损伤，可能会把耐火砖炸下来几块，</p>
-<p>但是燃料喷射装置、通风管道设施肯定会被严重损坏，火化炉的门可能会变形。</p>
-<p>至于具体毁伤效果，要看炸药种类和火化炉具体材料和结构。</p>
-<p>最后总结：</p>
-<p>炸药的种类成百上千，每一种的性质都各不相同，所以这个问题，很难有统一的答案，</p>
-<p>希望这篇回答能激发你学习火炸药的兴趣。</p>
+<p><strong>因为，一代版本一代神。</strong></p>
+<p>鳃，的确是一大神器，使得鱼类在海洋繁荣了 4 亿年。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-52afaeac2fb95674efc84d97e1e77c45_720w.jpg?source=8673f162" alt=""><figcaption>鳃呼吸原理：简单粗暴</figcaption></figure>
+<p>但你换了地图，当然需要新的神器，匹配新机制。</p>
+<p>肺这个新神器不仅版本最强。</p>
+<p>厉害就厉害在，只需要略微调整一下，就可以适应旧地图。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3e78d5e372e4c9de2cd9bbb26be20f75_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>哺乳动物的肺泡往往多达数亿个，气体交换面积，可以达到数十平方米。</strong></p>
+<p>而且，空气中的氧含量是水中氧含量的 25 倍。</p>
+<p>氧气在空气中的扩散速度，更是在水中的 1 万倍。</p>
+<p>巨大的氧气交换效率差距，甚至你在空气中强制打开鱼鳃，就能使鱼保持持续呼吸。</p>
+<ul>
+<li><em>通过弓鱼这种方法，可以使鱼离水存活长达 10 个小时以上。</em></li>
+</ul>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-693354c577256129a2a12409bb11fe6a_720w.jpg?source=8673f162" alt=""><figcaption>建瓯弓鱼术</figcaption></figure>
+<ul>
+<li><em>这也算是旧版神器，强制开挂，勉强兼容新版地图了。</em></li>
+</ul>
+<p>鱼鳃其实在水流中才能完全打开，弓鱼时，其实只能打开部分的鳃。而且鱼无法吞咽，仅仅空气自然流动，就已经使鱼能够充分的呼吸。</p>
+<p>这些都彰显了，直接呼吸空气的高效。</p>
+<p>也正是因为鳃的呼吸效率低，在早期硬骨鱼类出现，运动能力增强时，它们在消化道内发展出了一个特殊的气囊。这个气囊，可以吞咽空气辅助呼吸，也能调节浮力。</p>
+<p>后来辐鳍鱼对低氧的水环境进一步适应，优化了鳃，提升了一定的效率。早期的气囊，开始专一调节浮力，最终发展成了鱼鳔。</p>
+<p>肉鳍鱼这一支，则一步步适应高氧的空气环境，最终实现登陆，发展成了四足动物，退化了的鳃。</p>
+<p>早期的气囊则一步步强化，最终发展成了肺<sup>[1]</sup><sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-224fa2a6b23df0a85e744a5538710085_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0358f02e4dcc5fd3db1c867a049bfd68_720w.jpg?source=8673f162" alt=""></figure>
+<p>氧气是生物的动力之源，高氧交换，使陆生脊椎动物的运动能力得到全面的提升。</p>
+<p>无论嗅觉、四肢、心、肺都得到了全面的升级：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7e4007e46d2306618953bc05b93bd3e_720w.jpg?source=8673f162" alt=""></figure>
+<p>总之，肺这个强大的新版供氧神器，是远远碾压旧版神器鳃的。</p>
+<p><strong>回看过去 3 亿年海爬演化史，我们能更加直观地体验新版神器的强大统治力。</strong></p>
+<p>3 亿年前的二叠纪，羊膜动物才全方面适应陆地不久，中龙（<em>Mesosaurus</em>）便重返海洋（一说高盐湖<sup>[3]</sup>），带给了当时水生动物一点点小小的震撼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-900425d1213588a693b3ef1347fb08a9_720w.jpg?source=8673f162" alt=""><figcaption>中龙捕食小型动物或浮游动物</figcaption></figure>
+<p>2.5 亿年前，与鳞龙和主龙具有亲缘关系的一支爬行动物（同属新双弓类 ）重返海洋，横扫三叠纪水域，晋升为全新霸主——海龙类（Thalattosauria）和鱼龙类（Ichthyopterygia）<sup>[4]</sup>。</p>
+<p>他们凭借肺等新版本神器，适应海洋，对鱼类进行降维打击，实现全面统治。</p>
+<p>海龙主要统治中层生态位。</p>
+<p>而鱼龙遍及中、高，以及顶级海洋生态位<sup>[5]</sup>：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f9c1f02f361db063e7b348b54903407_720w.jpg?source=8673f162" alt=""></figure>
+<p>最大可以达到 20 米，以西卡尼萨斯特鱼（<em>Shastasaurus</em>）龙为代表。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2a857ab72e6ceb8d0dad6fd0f7c9f070_720w.jpg?source=8673f162" alt=""><figcaption>通俗秀尼鱼龙（绿）VS 西卡尼萨斯特鱼龙（红）</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-1320b16980e2812836cbdcecfbd8e2ea_720w.jpg?source=8673f162" alt=""></figure>
+<p>同样在二叠纪，比鱼龙出现的时间稍后，与主龙具有亲缘关系（同属主龙形下纲）的一支动物重返海洋，演化成鳍龙类（Sauropterygia）。</p>
+<p>同样用肺等新版本神器适应旧地图。</p>
+<p>2 亿年前，鳍龙类逐渐接管鱼龙类的统治地位。</p>
+<p>其中蛇颈龙（Plesiosauria）长期占据中、高生态位，长盛不衰<sup>[6]</sup>。</p>
+<p>虽然它们的最大体型物种，比不过鱼龙和后来的沧龙，但依旧可达 15 米长。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b1de5fa7455c8cf4d8a3099fc58b3a7f_720w.jpg?source=8673f162" alt=""></figure>
+<ul>
+<li><em>从海龙、鱼龙（最上红色）→蛇颈龙（最下）的海爬演化树</em><sup>[7]</sup><em>：</em></li>
+</ul>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7cd62f2d7ae7a7ad8ea14728219d1066_720w.jpg?source=8673f162" alt=""></figure>
+<p>鳞龙（蛇和蜥蜴祖先）因为早期合弓纲和后期主龙类的压制，在陆地上地位一直不显，长期处于中低生态位。</p>
+<p>1 亿年前，其中一支重返海洋，化身沧龙（Mosasauria），晋升为顶级海洋霸主。</p>
+<p>同样用新版本神器，吊打旧版本。</p>
+<p>虽然沧龙也有中小体型的，但大多超过 3 米，最大的霍夫曼沧龙（<em>Mosasaurus hoffmannii</em>）<sup>[8]</sup>体长可以达到 17m。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e093068ea7151442e532685453615c99_720w.jpg?source=8673f162" alt=""></figure>
+<p>在沧龙崛起的同时，鱼龙也走向类灭绝。</p>
+<p>除了有环境的原因，历代大灭绝的影响，还有就是这一时期的海洋实在是太卷了。</p>
+<p>从小到巨大体型的海爬各个都有新版神器加持，</p>
+<p>6600 万年前，天降陨石，带走恐龙的同时，也带走了蛇颈龙和沧龙为首的海爬动物。</p>
+<p>哺乳动物的一支，重走早期海爬之路，最终再次发展出了全新的海洋霸主——鲸类（Cetaceamorpha）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-07a9df3c35aba07a60f7640123f331b4_720w.jpg?source=8673f162" alt=""></figure>
+<p>它们同样遍及中、高、顶级生态位，对鱼类实现了降维打击。</p>
+<p>可以看出，不仅仅是鲸类，过去的中龙、鱼龙、海龙、蛇颈龙、沧龙都是用肺呼吸。</p>
+<p>哪怕是陆生脊椎动物，肺也是随着运动能力以及恒温的出现，呼吸能力不断提升的。</p>
+<p>这也是后来重返海洋的动物，淘汰前辈的生理基础。</p>
+<p>或许因为海洋环境和生态位的变迁，又或许因为哺乳动物拥有强大的肺，再次重返海洋的鲸，也发展出了史上最大的动物——蓝鲸（<em>Balaenoptera musculus</em>）。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-04049022e93c6b85460e83f1470fae9b_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，不仅仅是鲸 5000 万年没有进化出鳃，更是陆生脊椎动物 3 亿年来都没有进化出鳃。</p>
+<p>但或许，你又会反过来想。</p>
+<p><strong>肺强大是强大，就不能在拥有肺的同时，再次出现鳃吗？</strong></p>
+<p>毕竟鳃是非常简单的器官，甚至 5 亿年前的原始动物身上就已经出现。</p>
+<p>高等脊椎动物鳃不能再次出现，主要可以通过两点来说明：</p>
+<p>首先，鳃“献祭”了自己，发展成了高等脊椎动物的其它组织、骨骼，甚至是器官。</p>
+<p>鳃演化而来或有渊源的组织器官有：</p>
+<blockquote>下颌、颊部、嘴唇、舌头（及相关软组织和肌肉）、口腔前庭、耳管、中耳、咽喉（及相关软骨和肌肉）、三叉神经下颌支、部分面部迷走神经、舌咽神经、喉返神经等等。<br>同时鳃动脉还与大动脉弓、肺动脉、锁骨下动脉、内外颈动脉的形成有关。<br>而与内分泌有关的上皮小体、胸腺、鳃后体则是鳃囊发展而来。</blockquote>
+<p>也就是说，从人的上颌画一条线一直到中耳，然后一直往下到肺部，这个范围内绝大多数的组织和器官，都是来源于鳃<sup>[9]</sup><sup>[10]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ad74a1a1d9f49a805dd2b8ce79ba8195_720w.jpg?source=8673f162" alt=""><figcaption>人类鳃弓发育</figcaption></figure>
+<p>这些结构复杂且重要，鳃自然不可能再返祖。</p>
+<p>其次，之所以无法额外发展出这种简单的水下滤氧器官，还在于高版本的肺，通过高氧兼容，完全足以在海洋里生存（鲸最长潜水时间达 3 小时以上）。</p>
+<p>即便是同等体型，如果鲸类要出现一个能完全持续续航的腮，也比鱼类的大得多。不仅有着更大的演化成本和生理负担，也可能成为其它动物攻击的弱点。</p>
+<p>只要肺这个器官，依旧能让高等脊椎动物在海洋里进行降维打击，无论它们返回海洋多少次，都没有演化压力，使它们再次发展出简陋低效的鳃。</p>
+<p>最后一句话总结：</p>
+<p>演化无法走回头路，你有更高级 / 特化的器官适应环境，就不会再出现更原始器官。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1890533894983496154">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787717</guid><pubDate>Tue, 17 Feb 2026 18:51:02 GMT</pubDate></item><item><title>现代医学能不能解释为何吃羊肉会让身体暖和?</title><link>http://daily.zhihu.com/story/9787724</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-8c5d70c6f168373be5192ec74f825639.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
-<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/15618589706/answer/1974417644007490186" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>冬天，<strong>来碗羊肉汤、温一壶酒、蘸点辣椒面</strong>，这几个吃法都能让你发热，但是它们让身体感觉热的原因一样吗？当然不一样，具体问题具体分析呗。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0e73bf3d9d31b1f7b16118fab3946515_720w.jpg?source=8673f162" alt=""></figure>
-<p>高赞则属于造谣式辟谣：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-51e27cc20ab3c1305f90fa476004deae_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是各种肉类里每 100g 胴体肉里色氨酸的含量：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ef391febf324174bc49e3ab512f7435_720w.jpg?source=8673f162" alt=""></figure>
-<p>可以看出虽然鹿肉、羊肉这种传统分类里归为“温热”的肉食确实色氨酸含量高，但是被分为“寒性”的兔肉色氨酸含量也并不低，并且羊肉、兔肉跟猪肉、牛肉的差别并不大，二两肉里色氨酸差别只有 0.03g 左右。</p>
-<p><strong>且最关键的是，猪肉的色氨酸含量甚至比羔羊肉更高。但是显然猪肉并没有羔羊肉那么明显的产热效应。</strong></p>
-<p>如果不是色氨酸，那又是什么导致的呢？</p>
-<p>要说明这一点，我们要从身体是怎么感觉到热说起。</p>
-<p><strong>首先，我们摄入任何含有能量的食物都会轻微发热，这叫做食物热效应（也就是吃完饭暖暖的感觉）：</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d714e0df8780283fb4c04e49d00a5e36_720w.jpg?source=8673f162" alt=""></figure>
-<p>我们可以把我们的身体想成一个加工厂，我们需要把吃进来的食物拆卸加工成自己的零件，比如把蛋白质拆成氨基酸用来合成身体的肌肉等，然后把一些多余的能量以糖原或者脂肪等形式储存起来。</p>
-<p>当我们消化、吸收和合成营养素（特别是蛋白质）时，细胞需要消耗大量的能量货币——ATP（三磷酸腺苷）。</p>
-<p>在生物体内，ATP 释放的能量并不可能 100%被用于做功（如肌肉收缩或分子合成，好比工厂工人加工的过程）。</p>
-<p>根据热力学第二定律（不可能从单一热源取热使之完全转化为功而不产生其他影响），这个过程必然伴随热量的产生。</p>
-<p>这个过程产生的热量就叫做食物热效应。</p>
-<p>其中蛋白质的代谢过程极其复杂（包括脱氨基、尿素循环等），需要消耗大量 ATP，因此“浪费”热量的比例最高。</p>
-<p>所以当我们进食高蛋白食物的时候，身体发热的感觉最明显。不限于羊肉，吃大量牛肉也会有这个感觉。</p>
-<p>消化系统的细胞通过代谢产生的热量传导给血液，但是大脑感受到产热的过程由多种激素控制，包括肾上腺素、去甲肾上腺素、皮质类固醇和甲状腺激素。棕色脂肪组织（BAT）主要受交感神经控制，是产热的重要器官之一，然而，这些激素和棕色脂肪组织是否参与各种肉类的餐后热效应，科学家仍在研究中。</p>
-<p>不过羊肉、鹿肉等传统“温热”食物吃下去后确实产热较多，而兔肉却不然。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-bebd10e84bf5baba4ecf23623b39ce32_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>那么还是那个问题，兔肉蛋白含量比羊肉还高，兔肉怎么又没有这么高的食物热效应？还被传成“寒性”食物？</strong></p>
-<p>因为这个让你感觉热的原因不止一个。</p>
-<p>要知道人的感觉器官是很复杂的，除了物理产热被我们感觉到以外，对应的信号通路如何被激活，也非常影响人们对产热的感受。</p>
-<p>有科研团队对此感到好奇，并认真做了大鼠的实验，没想到，兔肉还真是非常特别的存在，别的肉食的食物热效应挺明显的，比起不吃饭的对照组，基本上都升高了<strong>直肠等消化道温度。</strong></p>
-<p>但是兔肉这个蛋白含量这么高的肉类居然略微降低了直肠等消化道温度：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-22c7dea698332a3af6db3777957b07b0_720w.jpg?source=8673f162" alt=""></figure>
-<p>难怪传统上会把兔肉归到寒性，它不但食物热效应没那么明显，居然还有反作用。</p>
-<p><strong>通过大鼠实验发现羊肉的餐后热效应确实相较于鸡肉、猪肉等较强，且其活性成分并非脂肪或小分子物质，而是存在于瘦羊肉蛋白里。</strong></p>
-<p>因为有的资料会告诉你羊肉里含有较高的左旋肉碱可能有提高脂肪代谢率，会提高产热效应，但是其实羊肉的左旋肉碱含量跟普通牛肉相近，且不如牛排：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e78be4bfcbe62c7fe819193730b97c04_720w.jpg?source=8673f162" alt=""></figure>
-<p>实验通过筛选排除了左旋肉碱等小分子的干扰，确定是瘦羊肉蛋白质导致的明显食物热效应。</p>
-<p>瘦羊肉蛋白可能通过促进甲状腺激素分泌，上调能量代谢相关信号分子，增强甲状腺激素调节的专性产热，而非褐色脂肪代谢产生的适应性产热。</p>
-<p>不过，具体是哪种物质导致的产热还在研究之中，也有可能是羊肉蛋白质整体的氨基酸比例等更接近人类蛋白质比例。</p>
-<p>有趣的是，有另一组研究团队给小鼠喂食去掉脂肪的鸡肉看看食物热效应如何，</p>
-<p><strong>结果发现吃去脂鸡肉吃的食物热效应跟吃羊肉相当：</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4149d77766019ea86413a2f3a73a9f77_720w.jpg?source=8673f162" alt=""></figure>
-<p>这张图里分别是控制组、纯鸡肉、鸡脂肪、去脂肪鸡肉、纯化后的鸡肉蛋白。</p>
-<p>其中两小时内升温最快的就是<strong>去脂肪鸡肉</strong>，效果堪比吃羊肉。</p>
-<p>不过<strong>两小时后</strong>整体背部温度跟纯鸡和纯化后的鸡肉蛋白相当。</p>
-<p>只有鸡脂肪吃下去是抑制食物热效应的。</p>
-<p>说到这里你应该明白为什么鸭肉是寒性的了，鸭肉脂肪含量 19g/100g 左右，在禽畜肉里算是最高的一档，而且秋鸭尤甚，所以鸭脂肪也有很明显的抑制食物热效应的作用，导致吃下去体感较寒。</p>
-<p><strong>总结：</strong><strong>羊肉可能因为瘦肉蛋白里含的某种物质或者整体的氨基酸配比导致有最明显的蛋白质食物热效应。</strong></p>
-<p>并非色氨酸、精氨酸或者左旋肉碱等等单一因素。</p>
-<p>如果你想加强这种热效应，让身体更快发热，就不要吃比较肥的<strong>羊肋排、羊腩</strong>等部位，</p>
-<p>而要吃精瘦<strong>羊里脊、羊腱子肉、羊腿</strong>等部位<strong>。</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-dfe0c7610cdaa191ca7674621a4d93b9_720w.jpg?source=8673f162" alt=""><figcaption>几种羊肉的食物热效应，其中脱脂羊肉和羊肉纯化蛋白是最明显的、最快的</figcaption></figure>
-<p><strong>并且吃去掉脂肪的鸡肉、牛肉等在短时间内也有同样的效果。</strong></p>
-<p>好的，说完羊肉再简单说说辣椒。</p>
-<p>咱们吃羊肉的时候有时候蘸一点辣椒油：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-271bd8b65f3d80abdb5616131165f40a_720w.jpg?source=8673f162" alt=""></figure>
-<p>辣椒本身碳水化合物较少，蛋白质和脂肪含量都极低，而且一般人吃的量也比较少，所以食物热效应这方面可以忽略不计，但是辣椒有很强的发汗出热的感觉，那是因为吃辣椒触发了热和痛的感受器，让人觉得仿佛来到了 43℃的高温。详见这篇：</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1891909191746159004/answer/1892359075779568182">众所周知，辣是一种痛觉，那么吃完辣后吃止痛药会怎么样？ - 知乎</a></p>
-<p>所以如果在没有吃其他食物补充能量的情况下，单独吃辣椒发热出汗后只会让你感觉更冷。</p>
-<p>但是冬天炖羊汤再蘸点蒜蓉辣椒油那真是美滋滋了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2565985c0be967d67831df27f99e5939_720w.jpg?source=8673f162" alt=""></figure>
-<p>以上~</p>
-<p>参考资料：</p>
-<p>1Postprandial Thermic Effect of Chicken Involves Thyroid Hormonesand Hepatic Energy Metabolism in Rats</p>
-<p>2Effects of meat species on the postprandial thermiceffect in rats</p>
-<p>3Alzheimer's Disease Preventive Role of L-Carnitine and Balanced Diet in</p>
-<p>4<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//fitaudit.com/categories/met/protein" target="_blank" rel="nofollow noreferrer">Protein in Meat</a></p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/15618589706">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1898661390031487881">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787724</guid><pubDate>Tue, 17 Feb 2026 18:51:03 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787743</guid><pubDate>Wed, 18 Feb 2026 01:48:20 GMT</pubDate></item></channel></rss>
