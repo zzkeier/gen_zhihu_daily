@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 01 Mar 2026 18:26:30 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>猫真的能分辨胡萝卜和纸巾吗？</title><link>http://daily.zhihu.com/story/9787926</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2bcf206db16e585fe2372306a892a8e4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Mon, 02 Mar 2026 01:44:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>大胖子朱高炽，在位仅十个月，凭什么他能获得仁宗的称号？</title><link>http://daily.zhihu.com/story/9787948</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5a97e866027455f31607ced92a4dfa20.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,77 +19,89 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/2004869140922464207/answer/2004958141692003910" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-06cb2a7eb51a3c27937ce4f6a6cbe96a_l.jpg?source=8673f162">
+<span class="author">闪米特，</span><span class="bio">全球十大探险家</span>
+<a href="https://www.zhihu.com/question/2002325347589448368/answer/2005726328721257821" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先来说说猫的硬件配置。</p>
-<p>在视觉层面上，猫的世界和你看到的完全不同，作为一种二色视者，猫的视网膜上缺乏感知红色的视锥细胞。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-81e3ac12d586276baece87885dee0345_720w.jpg?source=8673f162" alt=""></figure>
-<p>2016 年的一项行为学研究通过双向选择任务证实<sup>[1]</sup>，家猫的视觉光谱中性点位于 505 纳米附近。</p>
-<p>实验对象是 2 只经过训练的家猫（一公一母），研究人员使用了特制的 LED 灯箱，这是一个“双向选择”实验的考场（下图）：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1c02c8b6d1d28951e548db82f866c890_720w.jpg?source=8673f162" alt=""></figure>
-<p>猫从右侧进入黑箱（200cm×150cm），面临左右两个选择，一边亮“白光”，一边亮“单色光”（波长可变），猫需要选出有颜色的一边以获取食物奖励。</p>
-<p>下面是两只猫的成绩单：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-47daa6950de1a157c6a910f8e84381e6_720w.jpg?source=8673f162" alt=""></figure>
-<p>横轴代表光的颜色（波长），纵轴代表分辨的正确率。</p>
-<p>可以看到线条在两头都很高（80%-90%），说明猫能分清蓝色（<490nm）和绿色（>510nm）；但在 <strong>505 nm</strong> 处，线条断崖式下跌至 <strong>50%</strong> ，在二选一的游戏中，50% 意味着“纯靠瞎蒙”。</p>
-<p><strong>这个“中性点”的数据极其关键，它证实了猫的视觉模型与人类的“绿色盲”高度一致：光谱被这个点一分为二，左边是冷色调的蓝，右边则是暖色调的黄。</strong></p>
-<p><strong>这意味着，对于波长位于 505nm 右侧的橙色光（胡萝卜），猫缺乏独立的色彩通道去处理，只能将其归类为“黄色”。</strong> 因此在它们眼里，鲜艳的胡萝卜呈现出一种暗淡的土黄色或灰色。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d91fbc5bd00f673e996fc42e8c94b932_720w.jpg?source=8673f162" alt=""></figure>
-<p>但这并不代表猫是瞎子，它们对亮度和对比度极其敏感，白色的纸巾包在猫眼里不仅是白色的，更是一个高反光率的“高亮物体”，而胡萝卜则是一个“暗调物体”，对于猫来说，这道题的本质不是“萝卜找萝卜”，而是“在一坨暗的东西和一坨亮的东西里选一个”。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3a7ab8b40e66bd6138c63e531285e7c9_720w.jpg?source=8673f162" alt=""></figure>
-<p>嗅觉更是猫的强项，2013 年发表在《农业与食品化学杂志》上的一项研究分析了煮熟胡萝卜的挥发性成分，发现其中含有大量的萜烯类化合物，比如具有松木味的α- 蒎烯<sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-2cb28cd830f254c768fe13868f7b369f_720w.jpg?source=8673f162" alt=""></figure>
-<p>这些化学分子对于拥有 2 亿个嗅觉受体的猫来说简直是嗅觉轰炸，相比之下，纸巾散发的是工业纸浆和漂白剂的气味。更有趣的是，林肯大学在 2015 年进行了一项迷宫实验，让猫在视觉线索和嗅觉线索之间做选择<sup>[3]</sup>。</p>
-<p>下图为实验装置：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d9ce9e78d607cd92d131a46e3d1a005d_720w.jpg?source=8673f162" alt=""></figure>
-<p>猫从下方通道进入，在尽头面临左右两个选择（由猫门框构成的入口），每个入口都悬挂着一组“复合信号”<strong>：</strong>既有一张醒目的彩色卡纸（图中分别为黄色和红色）作为视觉线索，上方又贴有一张带气味的滤纸作为嗅觉线索。</p>
-<p>这种设计允许研究人员将“颜色”和“气味”随意组合，比如在训练时让“黄色 + 鱼腥味”代表有奖赏，而在测试时把它们拆开（比如“黄色 + 无味” vs “红色 + 鱼腥味”），以此来观察猫在面对矛盾信息时，究竟是相信眼睛选颜色，还是相信鼻子选气味（下图为实验中的猫咪）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-99e08c5f9d39f0caca7ad82102b809ae_720w.jpg?source=8673f162" alt=""></figure>
-<p>结果发现大多数猫更倾向于依赖视觉来寻找食物<sup>[4]</sup>。在 6 只参与测试的猫中，有<strong> 4 只 </strong>无视了食物的气味，坚定地选择了看起来像是有食物的那条路（即选择了视觉线索“绿色纸片”，哪怕那里其实是柠檬味且没有食物）。</p>
-<p>这意味着虽然猫鼻子很灵，但在做“萝卜纸巾”这种快速选择题时，它们可能更懒得去闻，而是直接用眼睛看那个亮亮的东西。</p>
-<p>既然猫能分清物体，那它是不是真的听懂了“萝卜”这个中文词汇呢？</p>
-<p>遗憾的是，视频中猫咪那种经典的“史诗级稍息”动作，也就是爪子悬在半空、眼神游移不定的表现，恰恰暴露了它们并没有听懂。这正是 1907 年心理学家奥斯卡·普方斯特在研究那匹数学天才马“汉斯”时发现的现象，也就是著名的“聪明汉斯效应”<sup>[5]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d98cc89c2004c4c25df87446aa72ecea_720w.jpg?source=8673f162" alt=""></figure>
-<p>普方斯特发现，当提问者不知道答案，或者提问者站在马的视线之外时，汉斯的正确率就归零了，马并不是在做算术，而是在观察人的微表情。</p>
-<p>当马蹄跺到正确数字时，人的身体会不自觉地放松、眉毛微挑或呼吸频率改变，马捕捉到了这个信号并停止跺脚。</p>
-<p>所以，回到“萝卜纸巾猫@ 超级无敌大开门” 身上，这完全是一场现代版的“聪明汉斯”游戏，猫咪在两个物体间犹豫，其实是在进行高强度的社会参照。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-53050cae3c9bed9cd53a9921f6cc629a_720w.jpg?source=8673f162" alt=""></figure>
-<p>2015 年发表在《动物认知》上的一项研究表明，当猫面对不确定的物体（比如刚打开的风扇）时，会频繁地在物体和主人的面部之间切换视线，试图从主人的表情中获取“安全”或“危险”的信息<sup>[6]</sup>。</p>
-<p>下图展示了具体<strong>考场布局：</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-59bca9151989fe3e5ff5d16efbf2bb6c_720w.jpg?source=8673f162" alt=""></figure>
-<p>房间正中央是 “风扇区” (Fan Zone)，放置着那个绑着彩带、嗡嗡作响的怪风扇。距离风扇 1.6 米处是 “主人区” (Owner Zone/L1)，主人就坐在这里。</p>
-<p>猫和主人一开始待在 L1 位置。实验开始后，摄像机会记录猫的一举一动，是不仅敢待在主人身边，还是敢走向风扇？最重要的是，它在这个过程中是否会回头看主人的脸？</p>
-<p>结果发现，当面对这个怪异的风扇时，<strong>79% 的猫</strong>出现了“交互注视”行为。它们会频繁地在<strong>风扇</strong>和<strong>主人的脸</strong>之间来回切换视线。这表明它们在主动搜集信息：“铲屎的，你看到那个怪物了吗？我该怎么办？”。</p>
-<p>回到“萝卜纸巾猫”，视频中的猫咪在听到指令后，往往会通过余光扫描主人的脸，如果在它伸向萝卜时屏住呼吸，在它伸向纸巾时瞳孔微张，它就能精准地捕捉到这个“热 / 冷”信号。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-05c2180354e2edf8f9b83d1764678aa5_720w.gif?source=8673f162" alt=""></figure>
-<p>那句洗脑的“真棒”，在行为主义心理学中被称为次级强化物，它就像海豚训练中的哨声一样，充当了连接正确动作和食物奖励的桥梁信号。</p>
-<p>当然，我们不能完全否认猫咪学习语言的潜力。2022 年日本麻布大学的高木佐保团队发表在《科学报告》上的研究显示，在没有任何食物奖励和训练的情况下，家猫能够通过观察人类之间的互动，将同伴猫的名字与其面孔进行匹配<sup>[7]</sup>。</p>
-<p>研究人员设计了两种情况。“红色箭头”代表<strong>一致</strong>（叫 A 的名字，给看 A 的照片），“蓝色交叉箭头”代表<strong>不一致</strong>（叫 A 的名字，给看 B 的照片，即故意搞错）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d330ab35d63e19903029c26a06eafc1b_720w.jpg?source=8673f162" alt=""></figure>
-<p>从结果可以看出来，当名字和照片<strong>不匹配</strong>时，家养猫盯着屏幕看的时间<strong>显著变长</strong>。</p>
-<p>这说明猫具备通过社会性学习来建立“声音”与“对象”关联的能力。但请注意，这项研究中的学习过程是建立在长期的日常生活观察基础上的，而且猫是主动的观察者，这与“萝卜纸巾”视频中那种高强度的、基于食物诱导的操作性条件反射训练有着本质区别。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3927d97e2202e0ff12da880510f80361_720w.jpg?source=8673f162" alt=""></figure>
-<p>在这个流量为王的时代，我们更愿意相信一只猫懂中文，也不愿意相信它只是在为了混口饭吃而努力察言观色。</p>
-<p><strong>毕竟，在成年人的世界里，很少有人会因为你做对了一道选择题就高喊“蒸蚌”</strong>，但猫咪视频弥补了这种心理缺憾。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-42062f57c0d4efb2834c9d998271f38b_720w.jpg?source=8673f162" alt=""></figure>
-<p>当你看着猫咪笨拙地试探、蒙对答案、获得奖励时，大脑中的镜像神经元会被激活，让你获得了一种替代性的满足感。</p>
-<p>说到底，猫咪分不清萝卜和纸巾并不重要，重要的是它分得清谁是那个手里拿着冻干、嘴里喊着“蒸蚌”的长期饭票。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c696d763940138f148d76a2435ff8d52_720w.jpg?source=8673f162" alt=""></figure>
+<p>「仁」是帝王的最高<strong>道德</strong>庙号，纵观中国历史，正统王朝中获得「仁宗」庙号的仅四位皇帝。</p>
+<p>1.宋仁宗 赵祯（在位：42 年）</p>
+<p>2.元仁宗 爱育黎拔力八达（在位：9 年）</p>
+<p>3.明仁宗 朱高炽（在位：10 个月）</p>
+<p>4.清仁宗嘉庆 颙琰 （在位：25 年）</p>
+<p>还有两个非主流 「仁宗」：</p>
+<p>5.西夏仁宗 李仁孝（在位 54 年）</p>
+<p>6.西辽仁宗 耶律夷列（在位 13 年）</p>
+<p>的确，无论怎么看，其他仁宗都上了很长时间班，唯有朱高炽上班时间不足一年，却捞到了庙号体系中评价极高的美谥。</p>
+<p>他这是走了什么大运吗?</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-678eddd09378612acf7e1f1a25abb1a1_720w.jpg?source=8673f162" alt=""></figure>
+<p>No,实际上他也是上了很长时间班的，光实习期就将近 20 年，47 岁才转正。也就是说，朱高枳 47 岁登基，此前以太子身份监国、代理国政近 20 年，早已是深耕政务的实际执政者。</p>
+<p>可这 20 年他爹朱棣不是在位么？</p>
+<p>虽然但是，他爹太忙了。朱棣在位 22 年（1402–1424），累计在外征战 + 巡游，超过 10 年；最后 5 年更是一半时间在打仗路上。</p>
+<p><strong>1.朱棣五次亲征漠北打蒙古人</strong></p>
+<ul>
+<li>第一次（1410 年）： 约 5 个月</li>
+<li>第二次（1414 年）： 约 4 个月</li>
+<li>第三次（1422 年）： 约 4 个月</li>
+<li>第四次（1423 年）： 约 4 个月</li>
+<li>第五次（1424 年）： 约 4 个月（死在归途）。</li>
+</ul>
+<p><strong>2. 朱棣巡视北京及长期北巡</strong></p>
+<p>这是朱棣远离南京政治中心的主要时段。朱棣自永乐七年起，开始大规模营建北京并以此为“行在”控制边防：</p>
+<ul>
+<li>永乐七年至八年（1409—1410 年）： 首次北巡，长达 1 年多。</li>
+<li>永乐十一年至十四年（1413—1416 年）： 第二次大规模北巡，约 3 年。</li>
+<li>永乐十五年至永乐十八年（1417—1420 年）： 第三次长驻北京，约 3 年。</li>
+<li>永乐十九年至二十二年（1421—1424 年）： 正式迁都北京，虽已不算“不在京”，但这期间他仍频繁往返各边防要塞，真正端坐在皇宫理政的时间极少。</li>
+</ul>
+<p><strong>朱棣五次征漠北（约 1.75 年）+ 长期驻守北京 / 北巡边防（约 7—8 年），累计已超过 9 年。若将永乐十九年迁都后他频繁出巡边防、狩猎、检阅的零散时间计入，朱棣总计超过 10 年不在皇宫理政。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5170fc3222e1a9165a7739f7413e536e_720w.jpg?source=8673f162" alt=""></figure>
+<p>在这期间，朱高枳前后六次监国，尽管在监国期间，重大人事任免、军事决策、藩王处置等核心权力始终牢牢握在朱棣手中，朱高枳仅负责日常行政、钱粮赈灾、科举取士等事务 。</p>
+<p>但正是这种朱棣主武、朱高炽主文的长期分工，让他深耕民政、宽厚恤民，为他赢得「仁宗」庙号奠定了基础。</p>
+<p>没有前期漫长的实习期，朱高枳是没办法在短短十个月内就做到：</p>
+<p><strong>一、 财政刹车：砍掉三座烧钱的大山</strong></p>
+<p>1.停止下西洋</p>
+<p>落地效果：永乐后期，下西洋及西域采买每年耗银数百万两，这一刀砍下去，国库支出立即缩减三成以上。《明史·食货志》明确记载：“仁宗初，罢西洋宝船……省费巨万。”</p>
+<p>2.罢除北伐</p>
+<p>落地效果：每年输往宣府、大同等地的数百万石粮草、数十万民夫的转输劳役全部豁免，北方百姓得以喘息。</p>
+<p>3.废止各地采办</p>
+<p>遣散派往各省为皇宫采办金珠、宝石、木材、珍禽的宦官，烧毁采办单据。</p>
+<p>落地效果：地方官员不再被迫向百姓摊派，江南织造、景德镇窑器等处的非定额负担基本清零。</p>
+<p><strong>二、 政治拨乱反正：平反永乐朝的“高压债”</strong></p>
+<p>1.平反建文遗臣</p>
+<p>公开下诏，称方孝孺、齐泰、黄子澄等人是“忠于所事”的忠臣，赦免其被发配充军的亲属，归还没收的田产。</p>
+<p>落地效果：这是靖难后第一次官方否定永乐朝的政治清算。虽然方孝孺等人名义上尚未彻底翻案，但流放边地的家属数千人得以回家，士林人心迅速归附。</p>
+<p>2.释放囚犯，召回老臣</p>
+<p>释放因反对北征、反对迁都而被关押在锦衣卫狱中的大臣，如夏原吉、吴中、黄淮等，官复原职。</p>
+<p>落地效果：夏原吉主持户部，立即开始核算永乐朝的亏空，为后续减免赋税提供依据。这批老臣成为“仁宣之治”的行政班底。</p>
+<p><strong>三、 司法仁政：用《恤刑令》取代“瓜蔓抄”</strong></p>
+<p>1.颁布《恤刑令》</p>
+<p>下旨严禁法外用刑，要求司法审讯“一依《大明律》”，不得使用酷刑，不得株连无辜。对永乐朝因“诽谤”“忤逆”等模糊罪名被判刑的案件，进行大规模复核。</p>
+<p>落地效果：史载“冤滞者多得雪”。仅山东一地，就释放了因拖欠税粮被关押十余年的百姓数百人。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-427246a494f6067b5771fd7cfb2484f6_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>四、 经济减负：免税与赈济</strong></p>
+<p>大规模减免赋税，免除永乐十七年至二十二年间所有受灾地区的田赋，包括山东、河南、江苏、安徽等永乐朝负担最重的省份。暂停征收当年的一半漕粮。</p>
+<p>落地效果：这部分减免并非“空头支票”。《明仁宗实录》记载，户部实际核减的粮税额度，相当于当时全国一年财政收入的十分之一左右。</p>
+<p><strong>五、 人事布局：搭建“三杨”内阁</strong></p>
+<p>组建核心执政团队，将杨士奇、杨荣、杨溥（史称“三杨”）及蹇义、夏原吉等务实派大臣全部提拔入阁或授予实职。其中，杨士奇从翰林官直接升任礼部侍郎兼华盖殿大学士，进入决策核心。</p>
+<p>落地效果：这五人组成的班子，在朱高炽死后完整保留，辅佐明宣宗朱瞻基十一年。</p>
+<p><strong>所谓「仁宣之治」，本质是朱高炽把架子搭好、人选定好，再由儿子朱瞻基顺着演完。</strong></p>
+<p><strong>再加上前朝朱棣是高压统治、用民过度，与朱高炽的宽仁休养生息一对比，反差极其强烈，自然显得后者仁厚至极，有如拨乱反正、天下重获喘息。</strong></p>
+<p><strong>所以帝王之「仁」，从来离不开前朝的衬托：前人越刚猛苛烈，后人稍一宽缓，便有拨云见日、天下归心之效。</strong></p>
+<p><strong>不过，个人觉得几位仁宗里，嘉庆的庙号水分比较大，只能算是道光想给他爹脸上贴金。</strong></p>
+<p><strong>但朱高炽算的「仁」，实至名归。</strong></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2004869140922464207">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2002325347589448368">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787926</guid><pubDate>Sun, 01 Mar 2026 18:26:27 GMT</pubDate></item><item><title>《牡丹亭》本质上是不是一个先性后爱的故事？</title><link>http://daily.zhihu.com/story/9787922</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-7500a1d7cc484ba29d6e6b5fc10e483f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787948</guid><pubDate>Mon, 02 Mar 2026 01:44:25 GMT</pubDate></item><item><title>为什么伊犁河谷中国一侧是绿洲，哈萨克一侧是荒漠？</title><link>http://daily.zhihu.com/story/9787952</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-77097f49539d696de1e926073375ecac.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -109,87 +121,72 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-9c3886256908fe75077aa82eca4c0d76_l.jpg?source=8673f162">
-<span class="author">鞭临天下，</span><span class="bio">用爱发电，爱看不看，请勿关注，随时停更。</span>
-<a href="https://www.zhihu.com/question/30682375/answer/1974955029963220416" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-f2978edea403b7ba1c37c8d23f4157f3_l.jpg?source=8673f162">
+<span class="author">免渡河，</span><span class="bio">生态规划师，写知乎为摸鱼，以及安放我无处不在的表达欲。</span>
+<a href="https://www.zhihu.com/question/667219103/answer/2000698637949367504" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>如果一个中国人一生只能选一部戏来理解中国式爱情，那一定是<strong>牡丹亭</strong>。它的故事极简单：一个少女做了一场梦，在梦里爱上了一个男人，醒来后郁郁而亡。男人后来按图索骥找到她的坟墓，哭动亡魂，少女则是起死回生，真人相见，两人终成眷属。几句话讲完，但任何读过、听过、看过牡丹亭的人都知道，这并不是一个荒诞的爱情故事。它的精彩不在情节，而在<strong>那一股仿佛从生命深处冲出来的东西，一种把生死都推开的情感强度，一种对生命可以这样被活出来的惊异震颤。</strong></p>
-<p>汤显祖说：</p>
-<blockquote>情不知所起，一往而深，生者可以死，死可以生。</blockquote>
-<p>这本质上其实不是写给处在热恋之中情侣的句子，而像写给所有世人的。它宣示人类内心深处有一种力量，比制度、比礼教、比权力都要强大：<strong>就是未经驯服的生命欲望。这种东西不讲道理，不受限制，不问后果。它可以破墙、破界、破阴阳生死的隔阂。</strong>它要把人从规训的世界里救出来，让他看到原来生命可以这样灿烂。</p>
-<p>牡丹亭的旷世绝恋，就是关于这一点。</p>
-<p>要理解它，必须先理解杜丽娘为何必须梦中才敢爱。<strong>丽娘做梦不是因为奇幻，而是现实世界太令人窒息，人只能在梦里找到灵魂允许自己活着的空间。</strong></p>
-<p>在这个梦里，杜丽娘不是随随便便梦见一个男子，而是梦见生活本应如此。<strong>她的梦是青春欲望的自我觉醒，是生命第一次意识到我可以渴望。</strong>但在一个把少女关在庭院里、把生命修剪成条条框框的社会里，她没有任何现实途径去体验爱情，只能让潜意识替自己打开门。</p>
-<p>所以，惊梦之所以千古传唱，并不是因为语言有多么优美，而是因为它写出了生命最初的震惊：</p>
-<p><strong>一个少女第一次意识到自己是活的。</strong></p>
-<p>那种活，是从沉睡中突然清醒，原来我能这样渴望，原来我的世界不局限于那个圈禁她的园子，原来我可以拥有爱。</p>
-<p><strong>在杜丽娘的梦里，爱不是外来的诱惑，而是内在的觉醒。</strong>梦里的花园是她第一次拥有的自由空间，梦里的春风是她生命第一次感受到的呼吸。她在梦里爱上柳梦梅，实际上是爱上了那个能够让她看见自己的人。柳梦梅的面孔只是形式，那份情的本质，是自我从封闭中萌发出的勇气。</p>
-<p><strong>在这种情况下，梦醒之后，她站在自己的闺房里，忽然觉得世界哪里不对。</strong></p>
-<p>房间明明如旧，家族没变，父母仍严，礼法还是依然存在，可她自己已经变了。梦中的光穿过她，让她第一次意识到自己其实一直自我窒息。</p>
-<p>她的心里有一种说不出的苦闷，那不是春心的羞涩，而是一种被长期压抑后突然亮起的疼痛。那种痛，不是悲，而是原来我也可能不是他们以为的那样。<strong>一个从未拥有自我认知的人，在一瞬间撞见了我是谁，那种震荡足以让生命整个翻转。</strong></p>
-<p>丽娘在梦醒后说了一句古往今来最让人心痛的话：<strong>原来你也在这里。那个你指的不是柳梦梅，而是指她的生命中缺失的那部分可能性。</strong>梦中的人只是媒介，真正被她看到的是自己的情感本体。所有伟大的爱情，都不是从见面开始，而是从意识到自己值得被爱开始。</p>
-<p><strong>随后，丽娘的病，则是其觉醒的代价。</strong></p>
-<p>她的消瘦、无言、怅惘、涣散，不是因为相思，而是不能再假装自己没有灵魂。她越想活，越疼；越疼，越无法继续那种没有自我的生活。</p>
-<p><strong>这就是为什么她会死。</strong></p>
-<p><strong>她的死不是爱情的极致，而是生命无法再承受虚妄。</strong>杜丽娘不是因男人而死，而是因生命被唤醒之后却无路可走而死。</p>
-<p>换句话说，她不是为情而亡，而是为被抑制的生命而亡。</p>
-<p>她的死，不是我们想象的柔弱，而是被压抑的意识无法在世界里找到出口。她不是被封建礼教杀死的，而是被不被允许活出自己而杀死的。<strong>可以说，文学史上写痴情女子的多了，但写一个女子因觉醒而死的，只有牡丹亭。</strong></p>
-<p>然而，死对牡丹亭来说不是终点，而是情感真正开始发力的地方。</p>
-<p><strong>因为她的死不是终结，而是生命对压抑世界的反抗。</strong>她以死亡完成了对于第一次自由的追求：既然你不给我空间，我就从你的空间里退出。我死后灵魂可以自由行走，可以去寻找梦中的人，可以去把梦变成现实。</p>
-<p>在这里，汤显祖的情其实已经超出了爱情的范畴，它成了一种生命哲学的力量。<strong>情第一次成为比生还要强大的力量。</strong></p>
-<p>在中国传统文学里，太多人死于爱情，但大多死于求之不得。<strong>只有牡丹亭里是死于情之巨大。</strong>杜丽娘的死不是悲剧，而是转化。在她死的那一刻，她的情获得了超越肉身的自由。她不再是闺阁女子，而是一个不受界限的灵魂。</p>
-<p><strong>所以随后柳梦梅的出现，也不再是恋人寻找爱人，而是生命的另一半与生命本体的一次必然相遇。</strong></p>
-<p>柳梦梅寻找的不是一个人，而是一个宿命般的答案。</p>
-<p>他看见画像，会爱上，不是因为美女，而是因为那幅画里藏着生命最深的召唤——那是一种相认：<strong>我在你身上看到了我缺失的那部分生命。</strong>梦梅看着那副画像，实际上看到了自己。他作为一个科举体制下的士子，也在被世界以温柔的方式消磨掉。他和丽娘之间的相遇，是两个灵魂在被世界压扁的缝隙里的相认。</p>
-<p>这是牡丹亭最深刻的地方之一：<strong>它让爱情成为两个自我在深渊里相遇。</strong>梦梅的惊惧与感动，不是因为看到一个美女的描容，而是因为看到一个灵魂曾经挣扎过的痕迹。那痕迹让他意识到自己也在挣扎，却一直没有被看见。</p>
-<p><strong>当丽娘魂魄与梦梅相遇，那种感觉其实不是浪漫，而是像两个溺水者在黑暗中摸到彼此的手。</strong>他们之间的吸引不是来自对方，而是来自自身——来自一种我不想再这样活的力量。丽娘要重生，梦梅要觉醒，他们需要彼此作为跳板。</p>
-<p>这就是为什么丽娘能还魂。她的重生，从戏曲结构上看似荒诞，其实在人人心中都隐隐明白：<strong>一个觉醒的灵魂是再也杀不死的。她之所以死去，是因为旧我之死；她之所以复生，是因为新我之生。</strong>她的身体能够重新站起来，是因为她的灵魂不肯倒下。</p>
-<p>最后，梦梅娶她，是对世界最温柔也最坚决的叛逆。他面对的不是家族压力，而是文明本身的压力，一个男子娶一个从坟里走出来的女子，这件事在整个明代礼法体系里，都属于颠覆性的荒唐。他知道自己会付出巨大代价，但他仍要这样做，不是因为他多爱丽娘，而是因为在丽娘身上，他看到一种比所有功名、礼法都真实的东西。</p>
-<p><strong>那东西叫我。</strong></p>
-<p><strong>他娶的是一个灵魂，而不是一个女子。</strong></p>
-<p>丽娘在他怀里不是一个妻子，而是一个重生的生命；梦梅在丽娘眼里也不单单是一个良配，而是那个让她从死里重生的见证者。两个灵魂互为镜子，互为出口，互为力量。</p>
-<p>他们不再是彼此现实的伴侣，而是彼此觉醒的源头。</p>
-<p><strong>所以，为什么牡丹亭之所以能写出旷世绝恋的感觉，不是因为它写了怎样的痴情，而是因为它让两个生命第一次拥有为自己活一次的权利。</strong></p>
-<p>这部戏最深沉、最美、最锋利的地方，在于它告诉我们：一个人若从未被看见，就无法真正活过；一个人若终于被看见，就无法再回去。</p>
-<p><strong>丽娘的梦，是看见自己，她的死，是拒绝非我，她的魂，是搜寻自我。她的还魂，是重生为我。她的最终结合，是让自我在世界上落地。</strong></p>
-<p>这一路的反抗、觉醒、坚持、奔赴，是整个明代文学、乃至整个儒家文明未曾预备的力量。</p>
-<p>汤显祖之所以敢写这戏，是因为他自己也在挣扎。</p>
-<p>他深知科举如何摧毁一个人的灵魂，自身也走在官场的阴影里。他把自己的不甘与压抑全部投射给杜丽娘，让她替他活出我是谁这个他无法真正实践的命题。</p>
-<p><strong>丽娘是他的影子，是他的补偿，也是他的控诉。</strong></p>
-<p>所以读牡丹亭才会觉得震颤，那震颤不是感动，而是一种隐隐作痛的自由。每一次丽娘的叹息，每一次梦梅的惊心，读者都能感到一种这本该属于我却被世界剥夺的力量在身体里颤动。</p>
-<p>中国传统文学中的爱情大多是权宜、伦理和牺牲、妥协。牡丹亭不是。它写的是生命与生命的相互凝视。</p>
-<p>那一瞬间的强度能够把时间打碎，把生死熬开，把整个世界照亮。</p>
-<p>所以说，这部戏本质上写的不是爱情，是觉醒，不是缠绵，是抵抗，最终追求的是真正的自由。它之所以永恒，是因为它写出了一个文明最不敢承认、却每个生命都会面对的问题，在世界强加给你的角色之外，你是否还有一个属于自己的你？</p>
-<p>丽娘告诉我们：有。</p>
-<p>梦梅告诉我们：值得。</p>
-<p>汤显祖告诉我们：哪怕只是一瞬，也要为它活。</p>
-<p><strong>牡丹亭最大的美学秘密，并不在故事，而在它对人的灵魂不肯退让的坚持。</strong>它让爱情成为觉醒的契机，让死成为重生的前奏，让梦成为真实的入口，<strong>让昆曲那种缠绵如水的腔调将人性的痛苦与渴望一寸寸推开。每一道水袖，如同人心中的波纹。每一句唱腔，如同灵魂深处的吟叹。</strong></p>
-<p>杜丽娘说：我死不足惜，怕的是我这一生竟没有活过。这部戏四百年来不曾老去，是因为人从未停止对我是谁的追问。</p>
-<p>丽娘的故事不是古代的故事，而是每一个人心中的故事。我们或许也曾在某个瞬间突然意识到：原来我也可以不是这样活下。我们也可能曾在某段关系、某次醒悟、某场受伤中，看见自己的影子。我们也曾因一次微弱的觉醒而再也无法回到过去。</p>
-<p>可以说，杜丽娘就是我们每个现代人的真实投影。<strong>她梦里的自由，是我们生命里那些短暂却真实的光。她死后的坚持，是我们在世界中一点点夺回自己的过程。她的还魂，是我们被打碎后再次站起来的那个时刻。她的爱情，是我们寻找自我回声的旅程。</strong></p>
-<p>所以，要理解牡丹亭的美，不在于它如何写爱，而在于它如何写人。它让爱成为一个人重返世界的方式，让灵魂在混沌的世界里拥有一次从梦到醒、从死到生、从虚到实的完整旅途。</p>
-<p>它告诉我们：</p>
-<p><strong>再微弱的觉醒也值得坚持，再孤独的灵魂也值得被看见，再绝望的生命也有重生的那种可能。</strong></p>
-<p><strong>哪怕只在梦里，哪怕只有一次，哪怕最终仍要回到礼法的现实里。</strong></p>
-<p><strong>只要你醒过一次，你的灵魂就再也不会完全沉睡。</strong></p>
-<p>这就是牡丹亭这个本子之所以堪称中国文学巅峰的原因。它讲的不是情感之深，而是生命之深。不是男女之爱，而是自我之爱。不是文学之美，而是灵魂之美。</p>
-<p>它写给有爱人，也写给孤独的人。写给觉醒的人，也写给尚未觉醒的人。写给已经迷失的人，也写给在寻找自己的路上被世界不断伤害的人。</p>
-<p>它让人明白：</p>
-<p><strong>在世界千般吞噬之中，一个人仍能凭着一息之念，把自己从命运深井里提起——哪怕只是梦里一眼，哪怕需要死一次，哪怕要与全世界为敌。</strong></p>
-<p><strong>这份力量，就是牡丹亭真正的所说的的那个情字。</strong></p>
+<p>尽管这个问题下已经有很多回答，也不乏高赞，但到目前为止，我认为并没有人答到点上。</p>
+<p>哈萨克斯坦一侧没有开发只是结果，而题目问的是为什么哈萨克斯坦只开发了很少，以至于国境线两侧景观分明。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ecfdf7c1baf14164ac250449142f2ce_720w.jpg?source=8673f162" alt=""></figure>
+<p>显然也不单单是因为缺水。</p>
+<p>伊犁河发源于天山汗腾格里峰的北侧，干流全长 1236 公里，年径流量 228 亿立方米。</p>
+<p>其中我国境内长 442 公里，出境水量为 130 亿立方米。</p>
+<p>也就是说，伊犁河流入哈萨克斯坦的水量并不少。</p>
+<p>那为什么会出现中国一侧几乎可开发的土地已经完全开发，哈萨克斯坦一侧却几乎都是荒漠？</p>
+<p>我们这一侧，因为我们是农耕民族，我们对于地尽其用，水尽其用是有执念的。</p>
+<p>而同时，我们这一侧也显然是水分条件更好的一侧。</p>
+<p>伊犁河谷相对于新疆其它区域，最大的优势在于其降水量。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-be8665a659a9b56756743d805ee5e1ca_720w.jpg?source=8673f162" alt=""></figure>
+<p>新疆北疆准噶尔盆地的年降水量在 150—200 毫米之间，南疆塔里木盆地更是普遍在 100 毫米以下，因此一南一北，都是荒漠为主要生态系统。</p>
+<p>而伊犁河谷，因为有北大西洋暖湿气流的滋润，同时有山地迎风坡的加成，因此有了四百多毫米的降水量，得以成为塞外江南。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9d9a294243b7cf52a6da166c0edb1fa4_720w.jpg?source=8673f162" alt=""></figure>
+<p>提起伊犁河谷的降水量，就不得不说山地迎风坡的地形雨。</p>
+<p>伊犁河谷向西开口，西风携带的水汽长驱直入，遇见高大的天山后抬升，水汽冷凝，形成降水。</p>
+<p>因为地形雨的作用，降水在河谷内并不是平均分布的，而是在山谷内部更多。</p>
+<p>河谷东部的那拉提山区，局部区域，例如库尔德宁，降水可达 900 毫米以上。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f475bea954b4b27622eb988423e3a0ea_720w.jpg?source=8673f162" alt=""><figcaption>库尔德宁</figcaption></figure>
+<p>河谷中段，天山主脉和乌孙山之间的昭苏县，降水量在 500 毫米左右。</p>
+<p>而处于外伊犁盆地的出口处的阿拉木图，平原区域降水量在 300 毫米左右。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a167b85e8c5cc6ce56e73a1f01afedc4_720w.jpg?source=8673f162" alt=""><figcaption>伊犁河谷的年降水量，东高西低</figcaption></figure>
+<p>另一方面是水分的汇集。</p>
+<p>内流河的水源主要来自于周边山地的汇流。</p>
+<p>中国一侧，山地更集中，汇集的水量自然更大一些。</p>
+<p>伊犁河流域面积 15.12 万平方千米，中国一侧流域面积 5.64 万平方千米，占 37.30%。</p>
+<p>年径流量约 230 亿立方米，从中国出境的流量约 130 亿立方米。占 56.5%。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ad22e659f6ea7ab9f7d153b5428d14c9_720w.jpg?source=8673f162" alt=""></figure>
+<p>这还不算中国境内用掉的部分。</p>
+<p>以中国人的勤劳，是天赋也罢，是为生存所迫也罢，对于种地这件事，向来是水多了开地，地多了引水。</p>
+<p>就跟和面一样，总要把其中一样用完才算。</p>
+<p>而最后的结果就是，中国这一侧把地用完了，水还有剩余。</p>
+<p>因此就有了耕地紧邻着边境线的结果，同时也有了平均每年 130 亿立方米的出境水量。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d14a2f4f6dc3686d1faa685a22b73b25_720w.jpg?source=8673f162" alt=""><figcaption>伊犁河谷的农田</figcaption></figure>
+<p>可是对于哈萨克斯坦来说，可开垦的土地是广阔的，但是可用于灌溉的水资源却是有限的。</p>
+<p>即便对于外伊犁河谷而言，也是同样的结论：可开垦的土地是广阔的，但是可用于灌溉的水量是有限的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0e761b6dca80516c71f85e6fcdf6a86b_720w.jpg?source=8673f162" alt=""></figure>
+<p>哈萨克斯坦本身就是干旱区，降水量有限。</p>
+<p>同时伊犁河入境水量也有限。</p>
+<p>在水少地多，且现有农业技术基本稳定的前提下，可灌溉的耕地总量是固定的。</p>
+<p>那么对于哈萨克斯坦来说，更重要的问题就是：要把有限的可灌溉耕地和农业开发力量放到哪里。</p>
+<p>是放到国境线边上，无限接近邻国，让人口在边疆地区聚集，更多的受到邻国的影响，还是尽量放到自己的核心区？</p>
+<p>显然，哈萨克斯坦的回答是，把有限的可开发耕地，放到自己更有控制力的阿拉木图附近，在那里建水库，开垦耕地，聚集人口。</p>
+<p>相比于把耕地和人口放到与邻国的边境，现在的选择显然更安全，也更合理。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-501b342a14687a7926052aa77817cd90_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个问题从提出，我就关注了。</p>
+<p>一年半以后，自以为得出来一个说的过去的答案。</p>
+<p>可能还是不太完善，就当抛砖引玉吧！</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/30682375">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/667219103">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787922</guid><pubDate>Sun, 01 Mar 2026 18:26:28 GMT</pubDate></item><item><title>古代砍头，为什么一定要等「秋后」才问斩？</title><link>http://daily.zhihu.com/story/9787933</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-f1dc36196597b88f753d596f3d2a1469.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787952</guid><pubDate>Mon, 02 Mar 2026 01:44:26 GMT</pubDate></item><item><title>「静电真的只会电穷人」的说法为何流传甚广，有科学依据吗？</title><link>http://daily.zhihu.com/story/9788099</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-435170f103cc2a3286bd4dbc4441c35e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -209,63 +206,99 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-cef37bf0392e114344d6b861bb1ba938_l.jpg?source=8673f162">
-<span class="author">晴耕雨读的浣熊君，</span><span class="bio">在知乎撂地的闲散科普创作者，争取每周双更</span>
-<a href="https://www.zhihu.com/question/1972992661372806501/answer/1974093773958042380" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-cb08e5ecb316d209f09b7f619830d3fb_l.jpg?source=8673f162">
+<span class="author">知谦，</span><span class="bio">以富润屋，不如以德润身。</span>
+<a href="https://www.zhihu.com/question/2005990066212853378/answer/2006058828970619640" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这本身就是原始状态的缓刑制度，是为了刻意的延长涉及死刑之类的案件审理时间，从而起到复审、终审流程，尽可能避免冤假错案的一种举措。</p>
-<p>问题描述中那种一拍惊堂，拖出去砍了斩立决的情况，在古代社会绝大部分衙门是做不到也不愿意去做的，他们权限首先就不够。</p>
-<p>这一点不管是府衙还是朝中都一样，因为擅动生杀大权，意味着他们要承担冤假错案的风险。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-41592f94a5ad0a56aae67393267dbb6d_720w.jpg?source=8673f162" alt=""><figcaption>要是没有一个审理过程，小白菜被传闻指控谋杀亲夫当场就全剧终了，你感受一下这斩立决的效果吧</figcaption></figure>
-<p>那怎么避免这种风险，确保动用死刑理所应当，名正言顺呢？最好的办法就是多审几次，比如说唐律中，对重大案件有三复奏、五复奏的惯例。</p>
-<p>宋朝开始出现了集中于深秋时进行的“秋审”制度，这是为了在地方和中央进行集中的死刑重刑终审，并最终决定是否处决。</p>
-<p>明清两朝的制度中则又增加了朝审，也就是让皇帝本人参与到这项工作中来，这就已经是动用帝国当中最高权力中心来用于审判了，秋审与朝审的用处也一样是动用行政力量。</p>
-<p>让刑部或别的中央管理班子来决定案件性质，并考虑是否有“可矜”、“留养承祀”、“缓决”等必要，未必说上诉到这一步就必须得杀。</p>
-<p>而如果最终裁判或者朱笔勾决，原则上认为犯人情实且罪无可赦，才会最终动用死刑，想要杀一个人的流程确实是没有那么简单的。</p>
-<p>而如果真的到了这一步，实际上执行死刑的时间点已经是农历十月以后，天气已经转凉也算是入冬了。</p>
-<p>这一切的一切，根源上都是中国古代刑制对于仁政和慎刑的追求，绝对不是那么简单的一件事。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3bb61325350d66d1658eaa1c88fde8a0_720w.jpg?source=8673f162" alt=""><figcaption>此事在铁齿铜牙纪晓岚中亦有记载</figcaption></figure>
-<p>而为了做到这一点，儒家也得在神学角度上来分析这个问题，那你要求朝廷遵循这种政策总得有个理由吧，这就是以董仲舒搬出来天人感应学说的目的，就是利用这个由头来要求规范士大夫乃至皇帝本人的言行举止。</p>
-<p>我们知道西汉作为一个取代了第一个大一统王朝的时代，老刘家上位本就是源自秦朝的迅速崩溃。</p>
-<p>所以汉儒非常喜欢搞五行学说的原因之一，就是他们希望找到并最好破解朝代轮转的机制，并希望可以避免或者至少延迟朝代更迭天命易数的规律。</p>
-<p>而如果我们真的能摸清规律，在抽象的概念上掌控王朝兴衰的原因和机制，那岂不是我大汉就真的可以一直续下去，实现秦皇所期望的子孙万世之业了？</p>
-<p>而最后讨论的结果是，如何做到这一点呢？很简单，八个字的评语叫顺天而行，王者配天。</p>
-<p>就比如说，在考虑咱们今天说的死刑问题也一样，制定法律时就需要参考天的意见，因为生杀大事不可不察。</p>
-<p>秋季本身就主金，五行之中金有从革之意，四季之中也代表肃杀终结，万物萧条之时顺应自然界的规律来处决死囚是相对合适的方案。</p>
-<p>这也就是所谓的四时之副</p>
-<blockquote>“庆为春，赏为夏，罚为秋，刑为冬”</blockquote>
-<p>相反的，在春夏万物生长，而且农忙桑田的时候，这种刑罚则不适用，因为百姓不光因为农忙没时间围观处刑，而且还会造成玄学层面上不可知的后果，否则就是逆天而行，必然遭到不可预测的后果。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5f0b670789b354cc3f37183a314cf432_720w.jpg?source=8673f162" alt=""><figcaption>此事在礼记·月令中亦有记载</figcaption></figure>
-<p>而这种从阴阳五行学角度的分析，则为司法制度进行了背书，这也是儒家惯用的策略和套路，利用符合礼法制度的规律，来影响和塑造世俗法律和行政制度的执行。</p>
-<p>但不管论迹论心，至少在理论上，一直到清末哪怕是鸦片战争之后，推崇引入现代法制的法学家沈家本都认为，集中进行的秋审制度乃是“<strong>一代之良法</strong>”，并且在法制的现代化过程中，也应当融入慎刑的理念。</p>
-<p>当然，这种制度还造成了另一种弊端，那就是对重刑犯的长期关押造成了地方官府的冗费，毕竟把囚犯集中关押一直到秋冬也是一笔不小的管理费用。</p>
-<p>死囚牢、牢城营这样的机构，并且因为监牢管理压力极大，这也就给胥吏阶层了一个权力寻租的空间。</p>
-<p>说人话就是，那些影视剧中的牢头可以借此收黑钱了。</p>
-<p>所以一个传统文学中喜闻乐见的吃拿卡要也就出现了，从水浒传到《药》，从《杨乃武与小白菜》到《包公案》，牢头自古以来就是威胁收贿的重头，害人救人全凭监中一句话。</p>
-<p>所以才有那句话，叫六扇门内好修行，实际上真的也是个蛮地狱的说法，在当时的执法力量下稍微抬抬手就是一件功德了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9c8636457c0c2bb688aee68e513fadc9_720w.jpg?source=8673f162" alt=""><figcaption>而在清末，尤其是太平天国运动之后，清廷对地方的管辖能力减弱，许多对“盗贼”“革命党”的处决权已经到了地方手上，而这样的处决背后也养活了诸多类似人血馒头和探监的黑色产业</figcaption></figure>
-<p>但即便如此，相比于启蒙运动时代的欧洲，伏尔泰这类学者对此也已经是大加赞赏了，因为皇帝御笔朱批去审案子，这件事在欧洲人眼中，这就是哲人王政治啊。</p>
-<p>伏尔泰本人最推崇的就是像乾隆这类的政治机器当国王，这中间当然有着隔山跨海的滤镜，是对于东亚政治不了解，或者是由片面描述带来的思考结果。</p>
-<p>但伏尔泰在《风俗论》中还是对严审案件这件事有着极高的评价，他认为处死平民的权力绝不能放在地方官员手里，而是要被一个开明君主牢牢掌握，并由君主信任的人按照法律审判执行。</p>
-<p>这一点在欧洲有着没事干就围观死刑的地方，确实是极为有参考意义的，因为审判权本身也是中央对地方管辖的一个体现方式。</p>
-<p>如果君主无法掌控法律的生杀大权在地方上的实施和解释，那我们当然可以认为这是一种权力的真空，这就会被地方上别有用心者所利用。</p>
-<p>而完成这一行为的方式，就是类似秋审的多轮审判，这也是为什么案件需要拖长审判流程的原因，毕竟一问斩人头落地，想要再翻案那对当事人来说就有点困难了。</p>
-<hr>
-<p>这里是浣熊君，一个在知乎撂地的闲散作者</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1973532745251714643/answer/1974007229960196931">为什么尸体动起来叫僵尸，尸体活过来叫丧尸？</a><a class="internal" href="https://www.zhihu.com/question/1972985533266415742/answer/1973732391064470975">为什么在许多人的观念中，音乐家似乎是「不务正业」的代名词？</a><a class="internal" href="https://www.zhihu.com/question/1971006134405014774/answer/1972193903789705190">《茶馆》秦二爷说要办工厂「那才是救国救民的事业」，可为什么在茶馆中不肯施舍穷人一碗烂肉面呢？</a></p>
+<p>大家别被某些人的误导影响了情绪！材料人给大家分享一个榜单，看完后就会知道：静电多少不是兜里的票子说了算，而是脑袋里的知识说了算。</p>
+<p><strong><strong>首先，万物皆可摩擦，摩擦就能起电！</strong></strong></p>
+<p>当两种不同物质互相摩擦时，由于不同原子核束缚核外电子的能力不同，一种物体的电子会跑一些到另一种物体上去。然后，失去电子的那个会带上正电荷，得到电子的那个会带上负电荷。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b28dfe26a20b4d77d2d0896388077cab_720w.jpg?source=8673f162" alt=""></figure>
+<p>这一过程被称为摩擦起电。这些暂时分布于不同物体表面的电荷，就叫静电。</p>
+<p><strong>研究表明，常见材料的原子核束缚核外电子能力由小到大排行如下：</strong></p>
+<blockquote>空气→<strong>人手（皮肤）</strong>→石棉→兔毛→玻璃→云母→人发一尼龙一<strong>羊毛</strong>→铅→<strong>丝绸</strong>→铝一纸→<strong>棉花</strong>一钢铁→木→琥珀→蜡→<strong>硬橡胶</strong>→镍 / 铜→黄铜 / 银→金 / 铂→硫磺→人造丝→<strong>涤纶（聚酯</strong>）→赛璐珞→奥纶（聚丙烯腈）→氨纶（聚氨酯）→聚乙烯→聚丙烯→聚氯乙烯→二氧化硅→<strong>聚四氟乙烯</strong></blockquote>
+<p><strong>因此，</strong></p>
+<p>排行榜越靠前的材质，在摩擦中越容易失去电子，使得自己带上正电荷，相当于更容易被“吸”走电子</p>
+<p>排行榜越靠后的材质，在摩擦中越容易得到电子，使得自己带上负电荷，相当于更容易“吸”走别人的电子</p>
+<p><strong>比如，</strong></p>
+<p>用玻璃棒跟丝绸摩擦，<span class="nolink">玻璃棒</span>的一些电子会被丝绸“吸”走，使得玻璃棒因失去电子而带正电荷、丝绸因得到电子而带等量负电荷；</p>
+<p>用橡胶棒跟毛皮摩擦，毛皮的一些电子会被橡胶棒“吸”走，使得毛皮带正电荷、橡胶棒带等量负电荷；</p>
+<p>用手搓手，由于是同一种物质相互摩擦，就不会出现电子被“吸”走，就不摩擦带电。</p>
+<blockquote>PS：当然这种排列也不绝对。因为摩擦起电的结果除了物质本身之外，还与材料表面的清洁程度、环境条件、接触压力、光洁程度、表面大小、摩擦分离的速度等有关系。</blockquote>
+<p><strong>那么，静电和穿脱衣服有什么关系？</strong></p>
+<blockquote>当我们穿脱衣服和日常活动时，有三种情况的静电关系，这非常重要：</blockquote>
+<p><strong>一是衣服（内衣）和皮肤之间的摩擦起电：</strong></p>
+<p>根据以上榜单，内衣材质的“吸”电子能力比皮肤强，所以皮肤会带上正电荷，内衣会带上负电荷；</p>
+<p><strong>二是内衣和外套（以及中间的夹层衣物）之间的摩擦起电：</strong></p>
+<p>此时，不管内衣、夹层、外套分别是什么材质，只要不是同一种材质，都会发生摩擦起电，且“吸”电子能力强的会带上负电荷，能力弱的会带上正电荷；</p>
+<p><strong>三是皮肤和内衣之外的其他衣服间的静电感应：</strong></p>
+<p>这里需要划个重点：由于皮肤和外层衣物之间隔着内衣，所以不会直接摩擦起电。</p>
+<p>但是，</p>
+<p>正如前面第二点所言，皮肤虽不和外层衣服直接摩擦，但外层衣物之间（内衣、夹层、外套之间）会摩擦起电！</p>
+<p>如果，</p>
+<p>外层衣物通过大乱战，最终在内衣上带上了一批负电荷</p>
+<p>此时，</p>
+<p>这件带电的内衣因为紧贴着皮肤，上面的负电荷就会「排斥」皮肤表面的自由电子（同种电荷相斥），这些被“排斥”的自由电子就会向远离内衣的方向移动，跑到身体的其他部位（身体内部）去。</p>
+<p>结果就是，</p>
+<p>你的皮肤表层（靠近内衣的部位）因为失去了电子，所以带上了正电。</p>
+<p>你的身体的内部（远离内衣部位）因为获得了多余电子，所以带上了负电。</p>
+<p>也就是说，</p>
+<p>外层衣物间摩擦产生的负电荷通过内衣作为媒介，在人体皮肤上感应出了等量的正电荷。而且，外层衣物静电摩擦效应越强，理论上在我们皮肤上感应出的静电也就越多。</p>
+<p><strong>这，就是静电感应。</strong></p>
+<p>关于这个静电感应，初中物理学过，原理是这样↓的，大家可以了解一下：</p>
+<blockquote>当摩擦后带电的物体与不带电的<span class="nolink">物体</span>相互靠近时，会使得不带电物体内部的<span class="nolink">电荷</span>重新分布，导致异种电荷被吸引到带电体附近，同种电荷被排斥到远离带电体的另一端。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-53f015c01e84bbf7e6b178ce38554c5d_720w.jpg?source=8673f162" alt=""></figure>
+<blockquote>而且，当这种不带电的物体为轻小物体（如纸屑）时，就容易被摩擦后带电的物体所吸引。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-44f0654aed5055a1dddf73552a52a6b8_720w.gif?source=8673f162" alt=""><figcaption>带电物体吸引轻小物体</figcaption></figure>
+<p><strong>经过了以上分析，我们再来看看，衣物材质对静电的影响是什么？</strong></p>
+<p>简言之，</p>
+<p>排行榜上越靠前的材质的衣物，“吸”走别人电子的能力就越弱，反之就越强。同时，排行榜上间隔越远的材质间相互摩擦，静电产生得也越厉害。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2113c2929acaf509dcaccd227eba1a79_720w.jpg?source=8673f162" alt=""></figure>
+<blockquote>让我们再看看排行榜↑</blockquote>
+<p>常见衣物材质“吸”电子能力由弱到强分别是：<strong>羊毛→丝绸→棉花→聚酯</strong></p>
+<p>且羊毛、丝绸、棉花能力相差不大，就算相互摩擦，也不会产生太多静电；但它们一旦和聚酯摩擦，由于“吸”电子能力差距太大，就会产生很多静电。</p>
+<p>所以，</p>
+<p><strong>内衣尽量选择和皮肤最接近的羊毛、丝绸、棉花</strong>，可以尽量减少和皮肤间的摩擦起电，如果内衣穿聚酯的，那会是和皮肤摩擦起电的重灾区；</p>
+<p><strong>外层衣物尽量选择同样材质或“吸”电子能力相差不多材质</strong>，可以尽量减少摩擦带来的静电，从而也减少了可以通过内衣对皮肤感应生成的电荷，</p>
+<p>比如，</p>
+<p>毛配毛（毛衣配毛外套）、棉配棉（棉内村配棉外套）、毛配棉、聚酯配聚酯（这个就多了），等等。尽量不要产生棉、毛、丝等材质和聚酯材质的搭配，那样会是摩擦起电的重灾区。</p>
+<p>可见，</p>
+<p>你内衣穿点棉、穿毛（羊毛混纺内衣），不会比聚酯贵到哪去；</p>
+<p>外衣的话，贵可穿纯毛（或皮草一类），便宜也可穿纯聚酯的，都可以有效减少静电的产生；</p>
+<p>只要不差异化搭配（如棉、毛内衣 + 聚酯外套，聚酯内衣 + 棉、毛外套，棉毛内衬 + 聚酯外套，等等），不管贵贱，都可以减少静电的产生。</p>
+<p><strong>所以，重要的是搭配，而不是贵贱。</strong></p>
+<p>当然，由于只要不同物体之间发生摩擦，就可能产生静电。</p>
+<p>尤其是冬天，所穿衣物无论价格高低，聚酯、化纤等容易产静电的面料（或辅料）都越来越多，加之我们穿得又多又厚，摩擦也会增大，所以静电产生就多了。</p>
+<blockquote>PS：以冬天最常见的、价格从几百覆盖到几万的羽绒服为例，无论是啥价啥品牌，只要仔细观察就会发现，从里料、羽绒胆布、面料到辅料，基本都是聚酯（或其他化纤材质）的↓</blockquote>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c8e0c764d7791bde770b90f0f91f84f7_720w.jpg?source=8673f162" alt=""></figure>
+<p>再加上冬天空气相对干燥，通过空气传导电荷的渠道不够畅通。</p>
+<p>所以，静电这玩意在冬天几乎没法完全避免，就算我们长期注意，也费心费力去合理搭配内衣、外套和夹层服装的材质，也难免会被“电”到。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0bebb95641bbdb248406c0639d531d2e_720w.gif?source=8673f162" alt=""><figcaption>被“电”想象图</figcaption></figure>
+<p><strong>因此，静电的产生还真不是价格高低能左右的，也不是穿得贵就能避完全免的！生活中，除了注意服装材质的搭配问题，我们只能尽量去避免被已经产生的静电给“电”到。</strong></p>
+<p>比如，</p>
+<p>我们可以在必须用手去接触金属件之前，把手放在电阻更大的物体上，如瓷砖和一些较为湿润的水泥墙壁、地面、树木等，这样虽然还是会放电，但产生的电流很微弱，我们几乎感觉不到异样。然后，当我们再去接触门把手等金属件时，静电电荷已经平衡了，暂时就不会放电，或没那么猛烈了。</p>
+<p>又如，</p>
+<p>我们还可以想办法增加空气的湿度（如使用加湿器等），增大空气的导电性，利用这个通路尽量把身上积累的电荷给导走。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-00c7febf50c119009299848fafd2016b_720w.jpg?source=8673f162" alt=""></figure>
+<p>另外，</p>
+<p>还有一些邪修的方法，如在身体和大地之间增加导电部件（一定要和大地之间实现连接），利用这个通路随时导走多余的电荷，维持身体电荷平衡。但此类方法，有点自虐有点傻，一般都不会去尝试。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2d9d69813c1bd12f0305f3389726351e_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>其实，只要不是在特殊情况下，衣服上产生点静电也不是什么洪水猛兽，不用过于担心，偶尔被“电”一下也没啥，权当冬日清醒剂吧。</strong></p>
+<p>今天，你“电”了吗？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-35d610409b31a48d9ca6c97001711e58_720w.jpg?source=8673f162" alt=""><figcaption>偶尔静电一下，倍儿精神</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1972992661372806501">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2005990066212853378">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787933</guid><pubDate>Sun, 01 Mar 2026 18:26:29 GMT</pubDate></item><item><title>为什么包法利家请得起仆人？</title><link>http://daily.zhihu.com/story/9787937</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-24adfe9df5e1041e3d519f816b62f3b4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788099</guid><pubDate>Mon, 02 Mar 2026 01:44:27 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9787640</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5e02da5de3e208f78ef5e39dbc79559c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -280,44 +313,70 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 车顶贴这个东西交警会查吗？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/924d392bed6991afaca059816a6440d7_l.jpg?source=8673f162">
-<span class="author">高林，</span><span class="bio">冷漠、傲慢又带上一点戏谑的庸人！</span>
-<a href="https://www.zhihu.com/question/3594965254/answer/1980679844263118236" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>因为十九世纪的仆人不是什么奢侈品而是必需品。很多人喜欢讨论十九世纪的历史和文学，但却完全基于二十一世纪的生活经验，这样扭曲事实的结果就是居然会觉得“拥有仆人是彰显社会地位的方式”，事实上拥有仆人在十九世纪是再平常不过的事，拥有一个“男仆”才是一个家庭进入上层阶级的标志。</p>
-<p>对二十一世纪的小市民来说“仆人”确实是一种奢侈品，今天的住宅也很少会考虑“工作人员”的居住问题、今天常见的市区住宅，无论是 160 平米两厅一室的“快乐单身汉公寓”，还是 200 平米三室两厅家居住房，都不会考虑“保姆间”、“佣人房”或者“工作人员休息室”这种东西。即使一些比较老派的户型准备了这样的房间，面积和条件也根本没法住人，一般都被业主改成储藏室或者干脆拆掉了。只有四五百平米的所谓“大平层”才会真正配备这样的房间，并且给工作人员准备独立的出入口和电梯。</p>
-<p>之所以出现这样的情况是因为在我们这个时代所推崇的“市民生活方式”里，仆人是不存在的。二十世纪以来的市民生活理想里，三口之家的家务应该是夫妻分担就能解决的。而之所以夫妻两人在工作之余还能分担解决家庭生活里的日常家务，是因为二十世纪以来电能、煤气、上下水已经在我们的社会里逐渐普及了。现代的公共服务、家用电器已经让家务劳动的繁重程度大为减轻。</p>
-<p>技术进步让家庭生活所需要的体力劳动大幅度减少，于是现代生活才能追求一种二人世界、三口之家的私密环境。很多人不理解这种进步，拿今天的生活经验去观察十九世纪人的生活，然后大言不惭的发议论，实在是可笑。</p>
-<p>举一个最简单的例子，就是早晨起床喝杯热水，我们还不说是喝杯咖啡。对很多人来说早晨喝杯水无非就是饮水机里接杯水的事情。但事实上没有电的情况下根本不会有什么饮水机。桶装水对十九世纪的巴黎人来说倒不新鲜，因为巴黎没有自来水，整个巴黎的饮用水都是靠“送水工”解决的。巴黎市政机构在塞纳河上建了泵房，把相对比较干净的喝水抽上来供应给巴黎的各个“公共喷泉”，这些公共喷泉理论上是免费为整个社会服务的，但事实上专门的行会把持了这些喷泉，他们用木桶把喷泉里的水接出来挨家挨户去卖，他们理论上收的是“送水上门”的服务费，但事实上大多数人无论贫富都会从他们手里买水，因为你不买就只能靠自己或者邻居家的井水解渴，而相比流动的塞纳河的河水，巴黎这座古老城市的地下水污染程度还要更高。</p>
-<p>而且即使是塞纳河里的水，也没有人敢直接喝。18 世纪有个笑话说“你们巴黎人怎么敢夜里往塞纳河里尿尿，白天就喝河里的水呢？”巴黎人本着时髦的启蒙时代的科学精神，化验了塞纳河里的水，然后证明“我们巴黎人的大小便都被冲到下游去啦！”塞纳河里的水是干净可引用的。但莫扎特的母亲就是喝了桶装塞纳河水然后病死的...</p>
-<p>所以想要起床喝杯水，首先需要购买桶装水，这方面十九世纪的巴黎人和我们一样。加热的需求也跟我们一样，但我们今天有饮水机，而十九世纪的人只能用炉子烧。拥有一个炉子对十九世纪的相当一部分城市人口来说都是很奢侈的。因为除了伦敦人已经习惯于用煤之外，大部分的欧洲城市烧的都是木柴。1870 年巴黎被普鲁士人围困了几个月，在这短暂的几个月里，巴黎的街上的木栅栏都被人当木柴烧了。</p>
-<p>木柴对大部分人下层阶级来说无疑是太贵了，所以他们既没有能力、也没有时间在家做饭。只有比较富裕的人家里才会拥有炉灶。但拥有炉灶的人也不等于就舍得用昂贵的木柴烧水，在十九世纪一个欧洲家庭烧水的主要用途不是喝、而是洗衣服。为什么欧洲人的生活里会有特定的“洗衣日”呢？就因为燃料太贵，但洗衣服又必须用热水。</p>
-<p>相比之下更常喝点热东西、无论是热茶、还是热咖啡、还是热水的还是英国人。因为一方面煤在英国真的很便宜，另一方面是相比木柴，煤这个东西更耐烧、在做饭之后余温更多。所以英国人才有机会在起床之后喝一点热东西。</p>
-<p>煤相比木柴确实有很多优点，但它也有一个很大的缺点，那就是相比木柴煤虽然烧的更久，但要让它燃烧起来，也更困难。所以“生活”这件事在十九世纪也不容易，因为 1855 年才发明安全火柴。在十九世纪一半以上的时间里，欧洲人家里的炉灶用得都是火石引火。也就是说每天早晨如果你想给家里人作顿早饭，你还有钱给家里人弄点热东西喝。你要从擦碰火石点火开始干。</p>
-<p>一个十九世纪的女仆每天早晨的工作就是从点火开始的，一般来说她要在早晨五点以前开始点火，等到炉灶里的煤开始燃烧之后，在炉灶上放上水壶，这样她自己、其他仆人、主人才有机会在起床之后喝一口热水。</p>
-<p>同样的如果你想洗个澡，在十九世纪也是很困难的，因为十九世纪的住宅，大部分都没有下水道。下水道入户，在十九世纪是一件非常“新鲜”的事。因为公共服务里根本就没有下水道这种东西。下水道成为城市的“毛细血管”要等到十九世纪中期。第二帝国在每一条主干道下边都开始设置中央下水道，然后再把各个街区的下水道跟主干下水道连在一起。</p>
-<p>所以我们今天习惯的“淋浴”在十九世纪是非常困难的。因为没有自来水、没有下水道，在家里淋浴的结果就是让你的家变成一片汪洋，如果你楼下还有邻居...</p>
-<p>所以大部分家庭谈到洗澡都是盆浴。但盆浴也不是一个人能够解决的。想象一下，你有钱、买得起水、买得起煤、你想在某个晚上睡觉之前洗个澡。你需要做多少事情，你要点火、要烧水、要把水运到洗澡盆里，洗完澡你还要把水想办法倒掉。这需要多少时间？多少体力？如果你自己干，你还洗不洗了？</p>
-<p>还有洗衣服，十九世纪的人没有全自动洗衣机，也没有烘干机，他们的衣服却比我们多得多。一个十九世纪的市民阶级，一天之内在不同的场合要穿不同的衣服，于连 - 索雷尔小哥是为什么被决斗对手怀疑他的身份的？就是因为他白天决斗却穿了一身晚礼服。</p>
-<p>有大量的衣服要洗，却没有洗衣机、还没有洗洁精。今天不同的衣服要用不同的洗涤用品，十九世纪也一样。但宝洁公司 1837 年才成立。在十九世纪的大部分时间里洗衣服是一门专门的技术。每个家庭都有自己的洗地方法，母亲会教给女儿，仆人会传授给新来的仆人。怎清洁衣领、怎么处理酒、墨水留下的污渍。每个洗衣日都是全家的仆人团结一致奋勇战斗的日子。</p>
-<p>在这样的时代，哪怕是马克思家里也一样需要仆人，托马斯 - 卡莱尔和他太太虽然收入菲薄却在十年的时间里用了十几个不同的仆人，因为十九世纪的市民生活真的离不开仆人。洗衣服、做饭、烧水、打扫房间、缝缝补补、照顾孩子，这些事情在没有家用电器的时代根本不是夫妻双方能够完成的，哪怕妻子是全职太太也做不到。所以仆人、尤其是女仆就是家庭生活里必不可少的组成部分。</p>
-<p>十九世纪的穷人在没有仆人的情况下会选择放弃家庭生活。他们完全在公共场合生活，在小酒馆里吃饭、在咖啡馆里度过一天里的全部闲暇时光，“我不在咖啡馆就在去咖啡馆的路上”，这句话在二十一世纪有了一种本来没有的“浪漫情怀”。因为在阿尔滕贝格的时代，想要找一个有灯的地方、想要喝杯咖啡、喝杯热水、看看报纸，都需要高昂的成本。相比在自己的家里搞到这些东西，咖啡馆是一个便宜得多的选择。对城市里的穷人来说“家”反而是一个纯粹为了睡觉的地方。</p>
-<p>所以回到一开始的问题，一个十九世纪的法国乡下医生，家里有仆人是再正常不过的事了。雇佣人只能说明包法利大夫的家是普通家庭。如果包法利大夫雇了一个男仆，才能说他开始脱离中产阶级向着上流社会挺进了，因为拥有一个男仆，意味着家里的基本需求已经全都满足了，现在包法利大夫开始有礼仪需求了，开始招待贵客了！</p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/420234274/answer/1971172007128330875" target="_blank">车顶贴这个东西交警会查吗？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/20359793e9017d311f0c949583e78899" target="_blank">@赛赛</a></div>
+ ：看情况了。太大了还是会查的。<br>之前有人外置发动鸡还有双涡轮增鸭，反正是查了。</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-c328c7cd755f5999fbcd3124941b6f98_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/452201264/answer/1985800820873253593" target="_blank">最近一次开怀大笑是因为什么?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/11f32d8129a60a6464d22c904c395a9c" target="_blank">@长安客</a></div>
+ ：这张图片，让我半夜十一点笑得眼泪都出来了</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic3.zhimg.com/v2-1f9c300ae55c9f90deb13e0858021cb6_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-6e4f11171a68a74514ff8e1acef86242_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-c4a733c9232df0f461e1c4e2081b9d7d_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/449596775/answer/3541265272" target="_blank"> 说话也有恐怖谷效应吗？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/5aa1cdf079484eeab831ab8970fabe66" target="_blank">@我很喜歡彩英</a></div>
+ ：正要自己出门 远在外地的朋友就给我发了一条这个</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-c9241c534aed69f1ce32e15063b22cce_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/625846838/answer/1982596995286845031" target="_blank">人的大脑会不会出现「过拟合」病? </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bd5e89cffc444340b3964faa87b28bb2" target="_blank">@sex冷淡的毁灭菇</a></div>
+ ：我给大伙儿带来了一个全新版本</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-85cc36969d84df2fcfcaf917042635f3_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-e83119d3dfe4719c61ecf9b197f141c6_1440w.jpg" alt="" width="720"></div>
+</figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/289752565/answer/3451258066" target="_blank">有哪些惊为天人的cosplay？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/25c086ee0285899ce3fa35038edbf2ed" target="_blank">@ZnS</a></div>
+ ：不太好说是谁 cos 谁，但是确实惊为天人<br>没规定只能人 cos 人吧</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-daa36231759bad35e462e5f0c051ed44_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-212257f83ab3a70b4a8530488c07033e_1440w.jpg" alt="" width="720"></div>
+</figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/3594965254">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787937</guid><pubDate>Sun, 01 Mar 2026 18:26:30 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787640</guid><pubDate>Mon, 02 Mar 2026 01:44:28 GMT</pubDate></item></channel></rss>
