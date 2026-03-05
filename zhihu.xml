@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 04 Mar 2026 18:40:41 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>草莓是农残最高的水果吗？</title><link>http://daily.zhihu.com/story/9787977</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-cfeedef3f997006983a58ea0002f26c2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 05 Mar 2026 01:43:59 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>海洋动物，水平尾和垂直尾哪个好?</title><link>http://daily.zhihu.com/story/9787996</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4c5efe488bd1490da649fe6fa7b579ca.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,381 +19,271 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-f2ea5ef8ad54e4ed3b9f7bda926e76f8_l.jpg?source=8673f162">
-<span class="author">Alfred大老虎，</span><span class="bio">拼多多小店：大老虎的农夫果园</span>
-<a href="https://www.zhihu.com/question/648703131/answer/2004199724912247327" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
+<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
+<a href="https://www.zhihu.com/question/662392039/answer/2009430733584868483" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>专门搞农场的人出来回答一句，论生产过程中的用药，草莓先去给葡萄敬个酒，然后坐小孩那桌吃饭。</p>
-<p>草莓的种植时间是每年的 8 月底 9 月初，进入秋季后，虫害显著减少，中秋前后打两遍呋虫胺、噻虫嗪就可以杀灭各种刺吸式害虫。</p>
-<p>农药也有代谢周期，哪怕是高毒的氯氟氰菊酯，在叶片表面的残留时间也只 60 天左右。</p>
-<p>新烟碱类农药属于低毒性，分解时间更快，残留时间更短，只有菊酯类的一半。</p>
-<p>整个 9 月 10 月，草莓还处于营养生长，换句话说，尚未达到性成熟状态，长叶子，长根，只有极少数极少数会开花。</p>
-<p>一亩地 5000 株苗，可能有个十来株会早恋，提前开花。</p>
-<p>从开花，授粉，再到采摘，至少还有 45 天的时间。所以到 12 月中旬，草莓上市时，早期打过的杀虫药早就降到国标线以内了。</p>
-<p>秋冬季还有个好处，温度低，空气湿度低，而植物真菌性病害的爆发条件是高温高湿，所以灰霉、白粉这些会比较少见。</p>
-<p>草莓比较怕根腐，好在这个可以用哈茨木霉菌和枯草芽孢杆菌去处理。这两种菌比较霸道，会侵占土壤中其他病菌的生存空间，同时以病菌为宿主，吃掉它。</p>
-<p>不仅是病菌，底下的害虫虫卵也会被这两种菌当成养分，分解成蛋白质，为草莓植株提供营养。</p>
-<p>但这里有个前提，生物菌剂防治必须配合高有机质的土壤。</p>
-<p>这里解释起来挺麻烦，简单说个结论：</p>
-<p>高有机质土壤利于微生物繁殖，所以哈茨木霉菌，苏云金杆菌，枯草芽孢杆菌这些有益菌才可以生存，并且消灭病菌。</p>
-<p>高有机质的土壤种出的草莓会带着天然的果味香甜，而纯靠化肥提供氮磷钾大量元素的贫瘠土壤种出的草莓是塑料甜。</p>
-<p>所以，你买到的草莓口感越好，种植过程中越无害。</p>
-<p>以上是表层逻辑。</p>
-<p>往深里说一点：生物菌剂的防治效果比甲双恶霉灵还要好，性价比高，农户也愿意用。除非他不改土，不堆肥，用了白用。</p>
-<p>至于说的草莓打激素。</p>
-<p>这个还真有，包括我也会用。有效含量 3.6%的赤霉酸，给草莓用时要稀释 3000 倍。而且只能在开花前使用。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-99f2dc9b8ee2a8ea86adf2dfc6fc3875_720w.jpg?source=8673f162" alt=""></figure>
-<p>我家的阳台是植物 ICU，会被冻坏的草莓搬进来，让他重新长叶子。</p>
-<p>低温会抑制植物的氮肥利用率，这时候需要赤霉素调节一下。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f8684e8117ec31fa8db8a68e82741347_720w.jpg?source=8673f162" alt=""></figure>
-<p>在植物的生长的低温休眠期，使用赤霉素可以巧妙打破它停止生长的局面。</p>
-<p>然后我要搭配合适的温度，合适的肥料。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c79bd186ab6e4d2fb4fe9c606dcedc84_720w.jpg?source=8673f162" alt=""></figure>
-<p>植物激素是一种特殊的生长调节剂，用于改啥一些不利局面的。</p>
-<p>但如果想要走捷径，过分依赖他们，比如赤霉素，十四羟基芸苔素等，则会造成草莓口感不甜，草莓不好吃。</p>
-<p>尤其是开花期用赤霉素，很容易造成果子的空心化。</p>
-<p>植物激素是一把双刃剑，具体要看人。</p>
-<p>但有一点是明确的，这种内源性激素最多导致水果不好吃，对人体是无害的。</p>
-<p>不知道大家有没有捂过柿子？</p>
-<p>柿子买回来时都是半熟的，需要找个袋子，把苹果梨子这些和柿子放一起，捂着，让苹果梨子挥发的乙烯去加速柿子成熟。</p>
-<p>这里的乙烯就是植物内源性激素的一种。</p>
-<p>秋冬季对于草莓来说环境比较友好，可以做到零农残。</p>
-<p>可能有些人会说，草莓很难种？</p>
-<p>这么聊吧。</p>
-<p>我是卖草莓盆栽的，10 月份开售，目前大伙儿已经吃上了。大家伙不懂农药，不会打，也没有打，就是利用自然节气的优势种出来的无公害有机草莓。下图是他们种的白草莓，发在我的花友群里，我薅了张图。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c18e584105f50820dbecc465ae6a6c03_720w.jpg?source=8673f162" alt=""></figure>
-<p>春草莓得看地区。</p>
-<p>广东地区回南天是比较恐怖，空气湿度太高，温度又合适。各种真菌就跟星期四的肯德基一样，疯狂繁殖。</p>
-<p>此时就得上吡唑醚菌酯、苯醚甲环唑、代森锰锌这些杀菌剂了。</p>
-<p>我家合肥处于江淮地区，适当做一下防虫就行。这也是为啥江淮地区是草莓主要产区的原因。安徽合肥长丰，上海青浦，都是有名的草莓种植基地。</p>
-<p>葡萄我们农场有种，我家也有种。</p>
-<p>不打药的话，我能确保它开花结果。</p>
-<p>然后 5 月梅雨季一来，灰霉就来了。</p>
-<p>葡萄最怕的就是高温高湿产生的灰霉病。所以除了新疆那儿，哪个地方种葡萄都得进大棚。</p>
-<p>一淋雨就完蛋。</p>
-<p>进了大棚也不保险，需要喷施杀菌剂。次数由降雨频率决定，下雨后打一遍做保护。</p>
-<p>为啥新疆那儿不用打？</p>
-<p>干燥。</p>
-<p>前面一直说，真菌性病害的爆发条件是高温高湿，只要破坏其中的一个条件，真菌就无法繁殖。</p>
-<p>但是也别太担心，合理使用浓度，严格按照说明书稀释，同时日常做好通风管理，葡萄的农残水准也是在国标之内的。</p>
-<p>我舅舅种了几十年葡萄，要用营销号制造恐慌的说法，药瓶都十几种。</p>
-<p>但打的时候要稀释 3000 倍以上。</p>
-<p>葡萄只是种植过程中的打药频次高，如果按照有效成分用量，跟大部分水果也没啥区别。</p>
-<p>你们可能会看到葡萄种植户拿着药剂给葡萄穗蘸</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ee07293038a44e5f17972bacc34645f9_720w.jpg?source=8673f162" alt=""></figure>
-<p>这里面用的是前面提到的赤霉酸或者氯吡脲，给葡萄做无核化处理的。</p>
-<p>换句话说，你吃到的无核葡萄都是这种。</p>
-<p>哦对了，大部分无籽西瓜也是，利用氯吡脲去抑制花粉管的形成，从而导致种子无法萌发。</p>
-<p>真正的三倍体无籽西瓜很贵的。</p>
-<p>我没办法去跟你保证所有的草莓、葡萄都是安全的。因为这个真的得看种植户的水平。</p>
-<p>但我可以这么说，西瓜、哈密瓜、榴莲、菠萝蜜这些都是安全的。</p>
-<p>果皮太厚了，虫子钻不进去。农户打药是图啥啊？给自己找麻烦吗。</p>
-<p>荔枝是农残检测的高发区。但查出来的不是杀菌剂和杀虫剂，更多是防腐剂超标。</p>
-<p>而水果的保鲜又是另一个话题了。</p>
+<p>你是古希腊的英雄尤利西斯，现在你有项艰巨的挑战：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d966bfd9bdf10843672ea8c6884efe77_720w.jpg?source=8673f162" alt=""><figcaption>尤利西斯和塞壬 (by Draper)</figcaption></figure>
+<p>你荣归故里的时候需要横渡一片危险的海域，这里遍布着塞壬（人头鱼身的妖怪），它们会发出魅惑的歌声，你一听见就忍不住跳到海里去与它们私会，但是这样的话，你就溺死了哇。</p>
+<p>对，没错，塞壬就是这样的水鬼。</p>
+<p>所以你最好叫你的水手们把你绑起来：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9111cc3f0d2f5b3842108310523c7769_720w.jpg?source=8673f162" alt=""></figure>
+<p>以防万一，耳朵眼睛也最好堵上，这样就看不见听不见了，也不能动，自然就不会主动跳下水里溺死，就可以安全的渡过这片海域。</p>
+<p>等等，你会发现，咱们绑人的技巧和绑鱼的方式好像不一样！</p>
+<p>现在我们去鱼塘捞一条鱼试试：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-94c560975feafa3692e2f2b545193b20_720w.jpg?source=8673f162" alt=""></figure>
+<p>是不是？</p>
+<p>人绑起来的话，<strong>沿着脊椎方向水平</strong>正 C 和反 C 问题都不大（弯腰或者小燕飞），但是如果是像鱼一样<strong>跟脊椎方向垂直</strong>的左 C 和右 C 的话，可能只有掰断脊椎才能做到。</p>
+<p>同样的，要是让鱼像人类一样反 C 或者正 C 的话，估计也只能掰断脊椎才能做到。</p>
+<p>因为硬骨鱼类的椎骨两端大多是凹陷的（双凹型），椎骨之间主要靠柔软的弹性组织（残存的脊索）连接，缺乏复杂的关节突锁死机制。这种结构就像一串由粗橡皮筋串起来的珠子，允许身体极其顺滑地进行大角度的侧向（左右）弯曲。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0adc00a50ffd3a7900bd50cfd42e9623_720w.jpg?source=8673f162" alt=""></figure>
+<p>哺乳动物则不同， 当动物爬上陆地后，为了更快速的奔跑，哺乳动物的椎骨演化出了极其复杂的前关节突和后关节突（允许哺乳动物奔跑的时候脊椎像个弹簧，跑得更快）。这些关节面的倾斜角度在解剖学上被强行改造成了限制左右扭动，允许上下折叠的结构。</p>
+<p>正是脊椎结构的不同，导致了运动方式的不同。</p>
+<p>那么美人鱼怎么绑？（bushi）</p>
+<p>当然，并不是所有的辐鳍鱼都有明显分叉的尾，还有鳗鱼等具有圆滑鳍褶蛇行游动的鱼，以及水母、章鱼等跟鱼类完全不同游动方式的无脊椎动物。</p>
+<p>我们这里只讨论明显拥有比较明显水平或垂直尾鳍的水生生物。</p>
+<p>硬骨鱼等较为原始的脊椎动物游泳的时候是左右摆动的：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ae9030da44e035eda4248f666e3913a4_720w.gif?source=8673f162" alt=""></figure>
+<p>而鲸等海洋哺乳动物的脊椎则只能选择跟人类一样的方式上下蛄蛹（开个玩笑，鲸类游泳没这么费力）：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9e8c340b4a0562cbf19d1c4d0ac45fe7_720w.gif?source=8673f162" alt=""></figure>
+<p>鲸类毕竟经历了一个从陆地动物重回海洋的过程，骨骼已经是哺乳动物的摸样了：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7c9bcfb6e47b76c17273ff55861fbd10_720w.jpg?source=8673f162" alt=""></figure>
+<p>再次下海的时候代码简单修改修改就用了，不可能把脊椎这么关键的底层代码推倒重建。</p>
+<p>这样的情形下，会导致两者在水流中的运动有流体动力学差异。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-839de9f0a11e63a0ae6872a8e3eaba71_720w.gif?source=8673f162" alt=""></figure>
+<p>正是因为大多数鱼类的脊椎适合侧向弯曲，鱼通过左右摆动身体和尾部来推动水流产生前进力，因此尾鳍通常是竖直方向的。</p>
+<p>而鲸、海豚等海洋哺乳动物的脊椎结构与陆生祖先类似，适合上下弯曲胸腰段生成推进力，尾鳍是水平方向的。</p>
+<p>也就是说，对于不同的动物来说，没有谁好不好，是根据脊椎运动方向来说只能如此。</p>
+<p>那么为什么鱼和哺乳动物的脊椎会出现这样的差异呢？</p>
+<p>那得从远一点说起。</p>
+<p>看看现存的活化石文昌鱼：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-02b965323eb7d19e9d623db7cdd2b37f_720w.jpg?source=8673f162" alt=""></figure>
+<p>文昌鱼目是脊索动物门头索纲现存的独苗，它甚至都不是脊椎动物。</p>
+<p>身体里没有像其他鱼那样支撑身体的比较硬的脊椎，而是软软的一根脊索。</p>
+<p>并且没有头（控制方向）、没有鱼鳔调节浮力、没有心脏、没有尾鳍背鳍。</p>
+<p>这样的配置，不蛄蛹就得沉下去。</p>
+<p>它没法跟有骨头的鱼竞速和比赛控制方向的精准性，游动的时候更像是随波逐流，而不是靠身体主动控制方向，所以大多数时间都呆在底层靠滤食生活。</p>
+<p>这就是脊椎带来的好处，有了脊椎这根硬骨头，肌肉收缩需要坚硬的的杠杆和受力点就有着落了。</p>
+<p>更容易发力。</p>
+<p>配上鱼鳔通过充气和放气来调节鱼的比重，调节硬骨鱼自由控制身体沉浮。这样前后左右上上下下都能去了。</p>
+<p>但是问题是，鱼鳔这个重要的部分并不是一开始就进化出来的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bd5ba6da9afe4a5249a61747a93c0844_720w.jpg?source=8673f162" alt=""></figure>
+<p>像昆明鱼是目前公认最早的脊椎动物，出现于五亿年左右，而调节鱼类沉浮的器官（鱼鳔）以及它的前身（原肺），其出现的时间大约在 4.2 亿年到 4 亿年前，也就是说，昆明鱼是没有鱼鳔或者其他可以储存气体的器官，跟文昌鱼一样，不游动就会沉下去。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b662680fec35533c067cacc0d96704e_720w.jpg?source=8673f162" alt=""><figcaption>早期的鱼有点像直升机，不持续游动提供动力就沉底了。</figcaption></figure>
+<p>这就导致一个问题。</p>
+<p>这样的身体配置，靠左右摆动来维持动力（升力）还行，一旦改为上下摆动，因为一般鱼都是左右对称而不是上下对称，上下重量不一样，肌肉也没有现在这么强壮，所以游动起来不容易控制。</p>
+<p>当然，现在的硬骨鱼、鲸等可不像直升机或者文昌鱼那样摇摇欲坠了。</p>
+<p>硬骨鱼有鱼鳔，可以控制沉浮。</p>
+<p>鲸有肺，储存大量空气也可以用作沉浮控制。</p>
+<p>鲨鱼虽然没有鱼鳔，但是有巨大的肝脏，比重较轻，也有一定的保持浮力的作用：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-09d202397f7812599219716c26f49dc8_720w.jpg?source=8673f162" alt=""><figcaption>鲨鱼肝脏体积占体腔 90%左右，重量只占 1/4</figcaption></figure>
+<p>正是由于大家各显神通，所以它们在海里定速巡航的时候更像是滑翔机，不需要频繁摆动尾鳍来控制自己不掉到海底。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c216d164572d26d8c52da5ab21ed6941_720w.jpg?source=8673f162" alt=""></figure>
+<p>有研究表面，虽然垂直尾鳍和水平尾鳍产生的涡流不同，但是在有一定深度的水域，水在各个方向上的物理性质（密度、粘滞系数）是完全一样的（各向同性）。</p>
+<p>因此，一个形状相同的尾鳍，无论它是<strong>左右扫动</strong>产生水平方向的涡环，还是<strong>上下扫动</strong>产生垂直方向的涡环，只要斯特劳哈尔数（Strouhal 数）在 0.2-0.4 之间，它们将动能转化为向前的推力效率是<strong>等价的</strong>。（峰值约在 St≈0.3，此区间内孤立翼型的推进效率可高达 70%甚至 80%，偏离该范围效率显著下降）</p>
+<p>而研究人员对包括鲸、鲨、其他硬骨鱼，甚至鸟类和蝙蝠的研究都表明，巡航状态下的飞行动物与游泳动物（如海豚、鲨鱼、硬骨鱼）均收敛于 0.2 < St < 0.4 的窄范围，平均 St=0.29，95%置信区间为 0.25-0.31，约 75%物种处于 0.19-0.41 区间。</p>
+<p>也就是说，不管是水平还是垂直的尾鳍或者是各种形状的翅膀，在长期自然选择的压力，都向着最节能，效率最高的方向进化。</p>
+<p>唯一不同的是在海面交界处，上下摆动的水平尾（鲸）阻力会直线上升，但是鲸等哺乳动物又必须去海面呼吸。这个时候就导致它们宁愿跳出水面减少阻力了。</p>
+<p>另外一方面，毕竟是上过岸的，拥有进化后的大脑鲸豚游动的灵活性跟鲨鱼等完全不一样。</p>
+<p>大多数鲨鱼一旦肚皮被翻到上面来就会出现强直静止，一动不动。</p>
+<p>这固然是为了方便交配选择出来的性状，但是也跟尾鳍上下不对称、肝配重、肌肉控制等等不利于反着游的因素有关：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d6e7fbf7ca828540b307d1d88537f23_720w.jpg?source=8673f162" alt=""><figcaption>救助人员也会利用这一点给鲨鱼做检查等</figcaption></figure>
+<p>鲸豚则完全不同。</p>
+<p>会用跟鱼类完全不同的 360°旋转的“桶滚”（Barrel roll）式游泳方式：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b092dedacc9dcc1fb30ad9e4d413b5df_720w.gif?source=8673f162" alt=""></figure>
+<p>方便花式捕鱼。</p>
+<p>所以总的来说，两种尾在巡航阶段没有特别大的差异，更多的是各自身体结构不同带来的必然选择。</p>
+<p>那么课后题是：美人鱼（或者塞壬）上半身是哺乳动物，下半身是硬骨鱼（有鳞片），脊椎结构不同，那美人鱼应该怎么绑？</p>
+<p>以上~</p>
+<p>参考资料：</p>
+<p>1Flying and swimming animals cruise at a Strouhal number tuned for high power efficiency</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/662392039">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787996</guid><pubDate>Thu, 05 Mar 2026 01:43:57 GMT</pubDate></item><item><title>听说「三九天不冷，必定倒春寒」，这句话是真的吗？如果是真的，从气象学角度该如何解释？</title><link>http://daily.zhihu.com/story/9788002</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-ea942f50aa65d306998782052e4f2a4b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
+<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
+<a href="https://www.zhihu.com/question/2007508008423420073/answer/2007757836449511144" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p><strong>假的不能再假了</strong>。期待现在的天气来影响数月之后的环流本身就是不切实际的，根本不可能发生。因为过了数月之后大气环流完全就刷新了，冬季和春季的环流形势又不是共用同一个的。</p>
+<p>这个谣言错误的引入了能量守恒原理，<strong>认为一个冬季必须要全部冷，只要有一个时期不冷就要让春季补回来</strong>。但实际上这本身就是不科学的，因为从目前来看冬季不可能全程不回暖，而且倒春寒几乎每年都会来，按照这个意思难道年年暖和？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-50cabb746b0cdedc5e10aa8ea2e20d44_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>大气环流的记忆是短暂的，阻塞高压才是倒春寒形成的关键</strong></p>
+<p>从气象学角度上来看，大气环流对任何特定的天气都只有短暂的记忆能力，因为大气环流本身就是流体动力学的产物之一。当三九期间出现异常偏暖时，通常意味着控制东亚地区的西风急流相对平直、位置偏北或者是出现了异常强盛的暖性高压。<strong>但这种环流配置是短时间的</strong>，可能下一轮寒潮一来这个环流形势就被刷新了，根本留不到春季之后。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-750ef77c7bcc68eadf6cdbeb7af98e2f_720w.jpg?source=8673f162" alt=""></figure>
+<p>而且倒春寒跟冬季的气温几乎没有关系，它的形成机制是与西风带中的一种持久性的环流异常，也就是阻塞高压直接相关的。而阻塞高压的形成又涉及到了一个波流相互作用的一复杂过程。具体来说当西风基本流较弱或存在经向温度梯度异常时，<strong>行星尺度的罗斯贝波容易在特定地区振幅加大并趋于静止，从而形成一个准静止高压系统</strong>。维持过程主要依赖高空辐合下沉运动带来的绝热增温以及波能通量的持续汇入。</p>
+<p>一般来说会直接影响到我国的阻塞高压通常是在乌拉尔山以及鄂霍次克海等区域的，这两地的阻塞高压建立时会直接改变冷空气的活动方式，它会迫使西风急流发生大幅度的南北分支，从而形成一个稳定的经向环流。其东侧以及东南侧深厚的偏北气流，<strong>会成为引导极地或西伯利亚强冷空气南下的稳定传送带</strong>。这与快速东移的冷锋是不同，因为在阻塞形势之下冷空气能够大范围、深层次且长时间的中低纬度地区。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2bb75b8ff4797c4096e39e9f293a34bc_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有就是由于阻塞高压系统本身的移动速度极其缓慢，其诱导性的低温、阴雨（雪）过程通常可以持续数周甚至一个月，这一过程会给农业生产构成严重威胁，特别是春季作物已经进入萌发或开花期时。而这才是气象学上关于倒春寒的标准以及典型过程，<strong>核心在于春季大气环流自身动力调整的即时产物</strong>，主要还是阻塞高压等影响，这与冬季的气温变化没有任何关联，关于西风带与阻高的在下面也讲过↓</p>
+<p><a class="internal" href="https://www.zhihu.com/question/1969710843659805344/answer/1971512103375475245?share_code=gpD8YSgfPF5M&utm_psn=2007757025388537214">气象学上如何定义西风带的『野性』？这种野性具体体现在哪？为何它一旦野起来，就会引发一系列极端天气？</a></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-351ab460101b88a5708a008b6a7cf10e_720w.jpg?source=8673f162" alt=""><figcaption>一是典型的乌拉尔山阻塞形式</figcaption></figure>
+<p><strong>为什么有时还真的那么准呢？这其实是其他气候系统的影响</strong></p>
+<p>不得不承认的是，有的时候三九温暖春季还真的会形成典型的倒春寒过程，但这和谚语本身没有任何关系，大家可以理解为是巧合。而巧合也是可以被解释的，以厄尔尼诺 - 南方涛动为首的大型气候系统是此类巧合主要的气候因子。在厄尔尼诺事件期间，赤道中东太平洋的异常暖海温就像是一个巨大的热源，<strong>能够激发并向北半球中高纬度传播特定形态的大气遥相关波列</strong>，这个准静止的行星波列可以持续影响冬季和春季的环流背景。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-052cae12d3319f4c9b5e10d588635839_720w.jpg?source=8673f162" alt=""></figure>
+<p>具体来说在厄尔尼诺年的冬季，其激发的大气波列通常倾向于使东亚大槽减弱且位置偏东，这会不利于强冷空气的频繁南下，从而增加了冬季整体偏暖以及三九不冷的概率。而进入春季之时，由于厄尔尼诺强迫产生的环流背景惯性仍然存在，但可能以另外一种方式体现。<strong>例如它会提高乌拉尔山地区出现高压脊和阻塞形势的概率</strong>，从而为春季冷空气的聚集和南下创造了潜在的环流条件。</p>
+<p>所以说在某些厄尔尼诺年份，我们先后观测到暖冬和倒春寒的过程，这本质上其实也是热带海温强迫信号在不同季节通过调制大尺度环流而产生的同源现象。类似的，秋季北极海冰的异常减少也可能通过改变欧亚大陆北端的热力情况，<strong>对随后的冬春两季环流系统产生复杂且不稳定的滞后影响</strong>。这种影响可能通过改变北极与中纬度间的温度梯度，从而间接影响西风带的稳定性，进一步影响寒潮的南下强度以及频率。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-acd6f0e71f56072d0f977a5f149a17ab_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>在变暖背景之下大气不稳定性将提升，靠谚语应对灾害是无用的</strong></p>
+<p>大家可能不知道的是，全球气候变暖，别是显著的北极放大效应，也会在系统性的改变中纬度地区大气环流的基础状态。这就会使得类似于“三九不冷，必有倒春寒”这种基于过去对稳定气候条件总结的局地经验会彻底失效。因为变暖的核心影响之一就是削弱驱动西风急流的经向温度梯度，从而直接影响冬季以及春季的环流形势。</p>
+<p>而经向温度梯度的减弱，也会使得西风急流整体减弱、更容易发生大幅度的南北摆动且移动速度也会减缓。直接后果就是，<strong>中高纬度持续性的环流异常事件的发生频率、强度与持续时间可能都会有所提升</strong>。在这种情况之下，冬季的天气会表现出更强大的复杂性，我们既可能经历因急流平整、冷空气活动偏弱引起的整个冬季持续性偏暖，也可能遭遇因急流发生剧烈波动、持久弯曲而引发的阶段性极端寒潮。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-125a18d10f8c7168447ca25e9c8c2235_720w.jpg?source=8673f162" alt=""></figure>
+<p>最为重要的是，西风急流的大幅减弱会直接影响极地涡旋的稳定性，而极地涡旋又是北半球冷空气的大本营。在这种情况之下极地涡旋就会失稳，极容易发生位移甚至是分裂等情况，<strong>从而使得巨量极寒冷空气深度南下给某一个地区带来一次极端寒潮过程</strong>。而在此之前则有可能伴随持久性的温暖，整体体现就是整个冬季的冷暖剧烈交替，从而使整个谚语完全失效。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0952d9164546bf9a7c0547c91a193e1b_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以「三九天不冷，必有倒春寒」就是一个极其典型的伪科学、混淆相关性与因果性的谣言，而且还错误的引入了能量守恒原理，误以为冬季必须每天都要冷。</p>
+<p>而且从气象学角度上来看，<strong>其实很多流传极其广泛且看似有道理的民间谚语都是存在问题的</strong>，甚至是「朝霞不出门、晚霞行千里」都存在明显错误，后续达到 500 赞将在此处为大家更新。</p>
+<p>以上（还没完）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8765e7203b3f70980dd99abd97c1171a_720w.jpg?source=8673f162" alt=""></figure>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2007508008423420073">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788002</guid><pubDate>Thu, 05 Mar 2026 01:43:58 GMT</pubDate></item><item><title>麒麟的生物原型可能是什么？</title><link>http://daily.zhihu.com/story/9788012</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5f6c5adc2cad3626b754407aa8f3e11d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-6078cb6a2541ea2207b9d08bb5d54864_l.jpg?source=8673f162">
+<span class="author">Tim Ji</span>
+<a href="https://www.zhihu.com/question/318575626/answer/2009056453055506092" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e564e3e7bbd7c09e7016861c279a131_720w.jpg?source=8673f162" alt=""><figcaption>中国核心区主要鹿科成员（漏了一个水鹿），按鼻尖位置左起：1.獐，2.马鹿，3.小麂，4.狍，5.梅花鹿，6.麋鹿，7.黑麂，8.白唇鹿，9.毛冠鹿；推荐读者先对左 1 獐子（麕）的体型和样貌留下个印象</figcaption></figure>
+<p>说实话，我是没想到这个问题下能开出这么多脑洞，连东亚灭绝超过两百万年的长颈鹿科都搬出来了<sup>[1]</sup>，而那个嫌疑最大的玩意反而一直没人提……</p>
+<p>先简单梳理下文献：甲金文中「麐」字均疑似用于人名先不论<sup>[2]</sup>，先秦至两汉关于动物「麐 / 麟」的外形描述，除了万恶之源《诗·周南·麟之趾》外，主要有三个独立来源，分别是下表中加粗的：</p>
+<ul>
+<li>《公羊传》：麕<sup>[3]</sup>而有角</li>
+<li>《尔雅》：麕身、牛尾、一角</li>
+<li>《封禅书》：双觡共抵之兽</li>
+</ul>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4b80331290a5af11a1fecd0a3de45602_720w.jpg?source=8673f162" alt=""></figure>
+<p>其中《尔雅》独角兽传统构成了后世文献主流，并在时代流变中逐步添加了“圆顶 / 角端戴肉”，“黄色”，“圆蹄马足”<sup>[4]</sup>，“羊头”等细节，最晚东汉时定型为<strong>“天线独角鹿”</strong>方案流行全国<sup>[5]</sup>：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ad22cacb280c657022cbbb47f5f7f140_720w.jpg?source=8673f162" alt=""><figcaption>东汉“天线鹿”麒麟造型，“圆顶”描述实现仍有球形、杯型、伞形等多种不同方案</figcaption></figure>
+<p>然而《尔雅》传统显然沾带了汇编辞书常见的出处不明、缝合、附会 + 神秘化问题，更别提《释兽》全篇的质量都相当糟糕<sup>[6]</sup>……该主流“独角”传统并无太高可信度，其“生物学”效力远远比不上能够指向具体“获麟”事件另外两则来源：</p>
+<ul>
+<li><strong>《公羊传·哀公十四年》：</strong></li>
+</ul>
+<blockquote>哀公十四年，西狩大野。叔孙氏之车士曰子锄商，采薪于大野，获麟焉，折其前左足，载以归。叔孙以为不祥，弃之于郭外。使人告孔子曰：“<strong>有麇而角者</strong>，何也？”孔子往而观之曰：“麟也。胡为来哉？胡为来哉？”<sup>[7]</sup></blockquote>
+<p>公羊传成书于景帝时期，一般认可有战国传习基础。该段落针对春秋鲁哀公十四年「西狩获麟」事件增补细节，其中包括简单明外观说明<strong>“长角的獐子”。</strong></p>
+<ul>
+<li><strong>《封禅书》：</strong></li>
+</ul>
+<blockquote>䆃一茎六穗于庖，<strong>牺双觡共抵之兽</strong><br><br>另《论衡·异虚》：汉孝武皇帝之时，<strong>获白麟，戴两角而共觝</strong>，使谒者终军议之。军曰：“<strong>夫野兽而共一角,</strong>象天下合同为一也”<br>另《论衡·讲瑞》：武帝使谒者终军议之，终军曰：“<strong>野禽并角</strong>，明天下同本也”</blockquote>
+<p>司马相如《封禅书》为武帝时一手文献，其中修辞部分应直接反映元狩元年汉武帝「获白麟」事件信息；东汉早期王充所著《论衡》中再次提及，并与武帝近侍终军针对白麟外貌的解读挂钩。「双觡共抵 / 戴两角而共觝」描述大致是针对强势“一角”传统的附会尝试；结合“并角、同本”、“天下合同为一”的解说，<strong>“双觡共抵 / 两角共觝”此处当理解为“双角并拢 / 同根</strong><sup>[8]</sup><strong>”</strong>。</p>
 <hr>
-<p>你看，有人出来反驳了，说夏黑就是天生无核。</p>
-<p>哪来的天生呢？所有的葡萄无核化处理就 2 个思路，要么激素抑制，要么用三倍体接穗。</p>
-<p>葡萄是 2 倍体水果，一般我们会用秋水仙碱抑制细胞分裂，阻碍纺锤体形成，进而获得四倍体植株。</p>
-<p>四倍体葡萄和二倍体葡萄相互授粉，最后得到了三倍体葡萄。</p>
-<p>这些三倍体葡萄籽再种上五六年，就可以获得嫁接的接穗。</p>
-<p>现在市面上的葡萄苗绝大部分是嫁接的，原生砧木只需要嫁接三倍体葡萄接穗就可以持续收获无核葡萄。</p>
-<p>但问题也来了，这种操作方法麻烦，周期长，苗木成本高。市场经济规则摆在那儿。</p>
-<p>再者，三倍体葡萄的果型和花青素含量都要比四倍体葡萄小。</p>
-<p>既想获得大葡萄，甜葡萄，又想要无核化，农户该怎么选择？</p>
-<p>以上的回答就像是那位仁兄挑一两个字眼一眼，他说夏黑是天生的，我说不存在天生的。</p>
-<p>然后要浪费一堆时间去讲细节。</p>
-<p>累不累啊。</p>
-<p>拉黑？拉黑只是不想在评论区跟他浪费精力。</p>
-<p>按照他河北的气候，不进大棚可以，其他地方的葡萄 7 月末 8 月初就可以上市了。而不进大棚的葡萄受春季低温影响，花芽分化时间晚，要到 9 月中才能上市。</p>
-<p>水果行业的通用准则：上市早一天，价格高一分。</p>
-<p>9 月的葡萄能卖个什么价？辛苦一年没赚到钱。</p>
-<p>再者，鲜食葡萄和酿酒葡萄本就不是一个逻辑，鲜食要求色正果满，酿酒用的没那么高要求。</p>
-<p>少侠，我从头到尾一直说赤霉素对人体无害，戳到您身上哪个毛了？</p>
-<p>您被我拉黑了，气得码字反驳我。</p>
-<p>但我的态度只是：不想跟你浪费时间啊。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/648703131">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787977</guid><pubDate>Wed, 04 Mar 2026 18:40:39 GMT</pubDate></item><item><title>为什么马成为人类最常用的坐骑？</title><link>http://daily.zhihu.com/story/9787982</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c5cf7fb970c3e95f3b8aa664aebd5efd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/20720031/answer/2005229495955775827" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>不管在玄幻游戏里，还是魔幻电影里，总有主角骑着各种奇形怪状的野兽冲锋陷阵，不管是六条腿的豹子还是巨大的霜狼，看起来既威风又合理。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-76d2974c0a97fe2c639594ca5245d38f_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：魔兽世界</figcaption></figure>
-<p><strong>但在现实世界里，你会发现人类的坐骑列表乏味得惊人。除了马、骆驼和偶尔客串的驴，地球上成千上万种能跑能跳的脊椎动物，几乎全被排除在了“司机位”之外。</strong></p>
-<p>你可能会说，也有人骑牛啊（比如老子），生活在热带的人还能骑大象啊！</p>
-<p><strong>在这里得先说明一下，要能稳定充当人类坐骑，这些动物除了能骑，还得“可靠”——这里的可靠意味着被驯化了。</strong></p>
-<p><strong>然而，大象从未被真正“驯化”（Domesticated），它们只是被“驯服”（Tamed）了，所以算不上可靠坐骑。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a51ba0bf7007d1425bbc078af3670726_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：Pexels</figcaption></figure>
-<p><strong>至于牛，人类的确会骑牛，但它无法成为“可靠”的通用坐骑。</strong>牛的脊柱棘突非常突出，背部骨骼结构让长期骑乘变得极其不舒适。更关键的是速度与耐力：牛在受到惊吓时通常会选择原地对抗或缓慢移动，其奔跑速度上限约 40 公里 / 小时，且无法像马一样维持长距离的高速奔跑。</p>
-<p>在瑞士海米斯霍芬的博尔德霍夫农场，游客可体验骑牛漫游，穿越莱茵河低地的河流与森林。骑手可选择一个半小时的短途骑行，或四小时的半日游，纵览阿尔卑斯山脉的壮丽风光。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-37525c521a21a5a61f9eca74e49ff439_720w.jpg?source=8673f162" alt=""></figure>
-<p>是可以骑，但真的很慢。根据描述，骑牛的节奏"介于慢速与极慢之间"。</p>
-<p>此外，牛的控制响应极慢，在需要快速机动的战争或交通场景中，它们更适合拉车而非背负骑手。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dbf518fdd933a542d33f823922de04bc_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：Hafiz Issadeen</figcaption></figure>
-<p>生物地理学家贾雷德·戴蒙德在 1997 年出版的《枪炮、病菌与钢铁》中将此总结为“安娜·卡列尼娜原则”：可驯化的动物都是相似的，不可驯化的动物各有各的难处 。<strong>为什么马会是坐骑的第一选择？其他动物为什么不行？</strong></p>
-<p><strong><strong>它们虽然跟马很像，但是……</strong></strong></p>
-<p>让我们先从最像马的家伙说起。19 世纪末，古怪的动物学家沃尔特·罗斯柴尔德男爵曾做过一件轰动伦敦的事，<strong>他驾着一辆由四匹斑马牵引的马车驶入了白金汉宫。</strong></p>
-<p>之所以称他为古怪的动物学家，是因为作为顶级财团继承人，他表现出了极其狂热且不合群的极客精神。他身高 1.91 米，却非常害羞且患有严重的语言障碍；他不去银行上班，却雇佣了 400 多名采集者在全球寻找标本。</p>
-<p>他的收藏规模大到令人发指：拥有 30 万张鸟皮、225 万只蝴蝶、3 万只甲虫，甚至在自家的特林公园里放养袋鼠、食火鸡和斑马。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1fbfbfb66800953ff4994eaf3b286c1f_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：arehistoricalphotos</figcaption></figure>
-<p>这看起来像是一个成功的开始，但实际上这只是一个富豪的昂贵作秀。<strong>斑马虽然长得像马，但要是你试图骑上它，就会发现它是彻头彻尾的“混蛋”。</strong></p>
-<p>作为在非洲大草原上和狮子、豹子演化了数百万年的物种，斑马进化出了极度敏感的神经。马在受惊时会盲目地跟随领头马逃跑，这让人类只要控制了头马就能控制马群，但斑马受惊时会四散奔逃。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d86cbecbb3d7692a9658a08516474d82_720w.jpg?source=8673f162" alt=""></figure>
-<p>斑马拥有一种标志性的“闪避反射”，当套索飞来时，它们能瞬间把头偏开，这让威武雄壮的汉子们的套马杆毫无用武之地。</p>
-<p>更致命的是，斑马受惊之后还会主动攻击，咬住人后通常不会松口，这种暴躁的脾气让它们在动物园里的伤人记录颇高。光是看论文里的标题都很吓人：《家养斑马咬伤致上肢截肢》《斑马袭击后的肢体保肢与重建手术》……（如果好奇的话，可以去本文参考文献里看，倒数两个，<strong>但我真不建议你去看</strong>）</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-342910027865dc620a84fbd8d664156e_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，罗斯柴尔德男爵的那几匹斑马只是个例，<strong>想大规模组建斑马骑兵团，除了收获无数咬伤外，你什么也得不到。</strong></p>
-<p>既然暴躁的斑马不行，那体型巨大、看似沉稳的<strong>驼鹿</strong>如何？</p>
-<p>驼鹿是现存体型最大的鹿科动物，主要栖息于北半球亚寒带针叶林，以其高大的身躯（肩高可达 2 米）和雄性特有的掌状分叉巨角著称。</p>
-<p>17 世纪的瑞典国王卡尔十一世就曾认真考虑过组建一支“驼鹿骑兵”。理论上这很完美，驼鹿腿长，能在瑞典厚厚的积雪和沼泽中如履平地，而且不需要像马那样依赖粮草。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-90bc777feabc07270c114172594c6e19_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：参考文献[4]</figcaption></figure>
-<p><strong>然而这个天才想法最终破产了，原因出在心理学和流行病学上。</strong>驼鹿是一种极度聪明的动物，聪明到在战场上它们会理智地避开枪林弹雨，而不是像马那样在肾上腺素和训练的驱动下冲锋。更糟糕的是，驼鹿在圈养环境下极易感染一种由白尾鹿传播的脑虫，这种寄生虫对宿主是致命的。</p>
-<p>在蒙古国北部，查坦人是世界上最著名的驯鹿骑行者。查坦人生活在极度偏远的森林中，驯鹿不仅是奶源和运输工具，更是家庭成员。他们通常不杀鹿取肉，主要依靠鹿奶和采集为生。</p>
-<p>下图为骑行方式，可以看到鹿的肩胛、肩部、前肢及后肢的脱毛现象：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b75beaa326e505273ad2df12897d110c_720w.jpg?source=8673f162" alt=""></figure>
-<p>虽然查坦人确实骑驯鹿，但 2024 年的一项研究从解剖学和病理学角度揭示了驯鹿作为坐骑的<strong>天然生理缺陷</strong>，这也解释了为什么骑驯鹿无法像骑马一样普及，以及为什么必须采用特殊的骑法。</p>
-<p>研究发现，驯鹿的背部特别是腰椎部分非常脆弱。如果在那里施加成年人的体重，会导致脊椎塌陷或严重的骨骼磨损。这迫使查坦人发展出了独特的骑行姿势，<strong>不能坐在鹿背上，而必须坐在鹿的肩膀（肩胛骨）上</strong>。因为只有前肢垂直对应的肩部骨骼才能勉强支撑重量。</p>
-<p>而且研究中提到的“下肢骨赘（Exostoses）”表明，即使骑在肩膀上，驯鹿的关节依然承受了超出其进化设计的压力，导致骨骼为了应对压力而发生异常增生。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9166db499bdb5ceee624560e34512fac_720w.jpg?source=8673f162" alt=""></figure>
-<p>这意味着骑驯鹿对动物本身是一种巨大的物理消耗。相比于马匹天生强壮的背部和四肢悬挂系统，驯鹿骑行是一种“勉强为之”的行为，限制了其负重上限（通常不超过 40-80 公斤）和使用寿命。</p>
-<p><strong><strong>大型食肉动物能骑么？</strong></strong></p>
-<p>如果我们把目光转向食肉动物，比如猎豹或老虎，那从物理学上就不能允许。<strong>你可能觉得骑着一只巨大的猫科动物很酷，但你的脊柱和它的脊柱都不会答应。</strong></p>
-<p>我们可以先看一下马的脊柱。1946 年，生物学家斯利珀（E. J. Slijper）提出了著名的“弓与弦”理论来解释马的背部结构。<strong>马的脊柱像是一张硬弓，腹部的肌肉则是弦，这种刚性结构能够承受垂直方向的载荷，也就是骑手的体重。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-05094c623df4051110914a5c2fbd435a_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：Dr. Keith Wagner</figcaption></figure>
-<p>当你骑马时，你其实是坐在一个稳固的生物桥梁上。相比之下，猎豹为了追求极致的速度，演化出了一种极度灵活的柔性脊柱。<strong>在奔跑时，猎豹的脊背会像弹簧一样大幅度弯曲和伸展，以增加步幅。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-11a33d9c3fdb51d935be42fcd4128b86_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：参考文献[2]</figcaption></figure>
-<p>如果你坐在猎豹（其他猫科动物同理）背上，你的体重会直接锁死它脊柱的屈伸运动，这就像是试图把一根正在工作的弹簧压扁。结果只有两个：<strong>要么猎豹跑不动，要么你在高速的上下颠簸中被甩出脑震荡。</strong></p>
-<p><strong><strong>两条腿的候选者怎么样？</strong></strong></p>
-<p>至于那些两条腿的选手，比如鸵鸟，情况就更尴尬了。虽然有些旅游景点提供骑鸵鸟的项目，但这纯粹是杂耍。鸵鸟是二足动物，<strong>它们的平衡依赖于精密的动态调整</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cdead63c3d8c62f849e37191a390fc64_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：savenues</figcaption></figure>
-<p>当一个人骑在鸵鸟背上时，这个系统的整体重心被显著抬高，这彻底破坏了鸵鸟的生物力学平衡。鸵鸟必须花费巨大的能量来防止自己跌倒，而不是前进。</p>
-<p>再加上鸵鸟的脑容量确实有限，它们很难理解人类复杂的缰绳指令。你没办法像控制马那样通过拉动嚼子来控制鸵鸟，它们的脖子太长且脆弱，那是用来像潜望镜一样观察狮子的，而不是用来当方向盘的。</p>
-<p>在人类的坐骑竞争中，最后胜出的只能是马，以及适用于沙漠等极端环境下的骆驼等动物。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-db032823b09cb4eb1a0de6feb3e5482d_720w.jpg?source=8673f162" alt=""></figure>
-<p>马简直是生物学上的奇迹：它们是群居动物，有等级观念，愿意服从领袖（也就是人类）；它们的脊柱够硬，能背得动人；它们吃苦耐劳，吃草就能跑；最重要的是，它们的基因里虽然有恐惧，但这种恐惧是可以被驯化为“可控的逃逸”。考古证据显示，早在公元前 3500 年的博泰文化遗址中，人类就已经给马戴上了嚼子。</p>
-<p><strong>这是一场跨越数千年的双向奔赴，人类选择了马，马也忍受了人类。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-88f2c7d2c82b1f2c56e3dac63d11d8f4_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：Wikipedia</figcaption></figure>
-<p><em><strong>参考文献：</strong></em></p>
-<p><em>[1] Rhodin M. A biomechanical analysis of relationship between the head and neck position, vertebral column and limbs in the horse at walk and trotM. 2008.</em></p>
-<p><em>[2] Kort A E. Morphology, Function, and Evolution of Lumbar Vertebrae in Paleogene MammalsM. Indiana University, 2023.</em></p>
-<p><em>[3] Hudson P E, Corr S A, Payne‐Davis R C, et al. Functional anatomy of the cheetah (Acinonyx jubatus) forelimbJ. Journal of Anatomy, 2011, 218(4): 375-385.</em></p>
-<p><em>[4] Windle M, Tuvshinjargal T, Zhang C, et al. Understanding the origin of reindeer riding in Northeast Asia through animal paleopathology and collaborative archaeologyJ. Arctic, Antarctic, and Alpine Research, 2025, 57(1): 2493391.</em></p>
-<p><em>[5] Young C, Levitin H, Bryant H. Domestic Zebra Bite Leading to Upper Extremity Amputation[J]. Wilderness & environmental medicine, 2024, 35(4): 479-483.</em></p>
-<p><em>[6] Carlson J T, Yuen J C, Smeds M R. Limb salvage and reconstruction following a zebra attack[J]. Trauma case reports, 2017, 9: 5-9.</em></p>
-<p>[7]Windle M, Tuvshinjargal T, Zhang C, et al. Understanding the origin of reindeer riding in Northeast Asia through animal paleopathology and collaborative archaeology[J]. Arctic, Antarctic, and Alpine Research, 2025, 57(1): 2493391.</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/20720031">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787982</guid><pubDate>Wed, 04 Mar 2026 18:40:39 GMT</pubDate></item><item><title>从进化论的角度怎么解释「新生儿行动力差，吐奶大哭」，这些习惯都不利于在野外生存吧？</title><link>http://daily.zhihu.com/story/9787990</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-c599cbc2d3caf7b3a8e7ecb2842dc88e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/2007709632001492021/answer/2009562087341462093" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p><strong>强大的物种，幼崽才有「低能」的资格。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e5fc007ef6a7bcd0beddf98461ec7798_720w.jpg?source=8673f162" alt=""></figure>
-<p>大约 500~600 万年前，人类和黑猩猩有着共同的祖先。</p>
-<p>那个时候的类人猿，胎儿一出生就具有相当的活动能力，不仅仅能够爬行，还能紧紧抱住母亲吃奶，而母亲则能任意爬行甚至攀爬。</p>
-<p>现代人类的新生儿几乎没有多少运动能力，不能转身、进行大肢体运动，俯卧时，只能抬头 1~2 秒。</p>
-<p>3 个月之后才能拥有翻身的能力，发育稍微迟缓一点，则需要 6 个月，一直到 1 岁左右才能拥有行走能力。</p>
-<p>相对于人类的胎儿，其它类人猿胎儿早熟得多。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1e1d941c73a2c89acb4df0e4272a7a55_720w.jpg?source=8673f162" alt=""></figure>
-<p>黑猩猩胎儿一出生便具有记忆能力，能够辨别两个月前在母体内听到的声音<sup>[1]</sup>，4 个月便拥有了行走能力。</p>
-<p>虽然也有人认为，人类胎儿也可以拥有辨识生前声音的能力，从而出现了各类胎教，但却没有黑猩猩那么强的实验数据支撑。</p>
-<p>几十年前，曾有不少黑猩猩与人类幼崽的对比研究。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-987573f311d0c3377e6993f7d27ed0a5_720w.jpg?source=8673f162" alt=""><figcaption>2 岁黑猩猩给人类幼崽喂食</figcaption></figure>
-<p>其中最著名的莫过于 1931 年，美国心理学家温思罗普·凯洛格，进行的一场特殊实验。</p>
-<p>他为了研究黑猩猩能够适应人类社会，做了一个争议极大的实验：</p>
-<p>他把一只 7.5 个月的雌黑猩猩“古亚”（Gua），作为自己 10 个月大儿子唐纳德的妹妹进行抚养。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c980b198f4100cc6dd3d28e3eb1e1d6f_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-77e12b1ed8c4cc1cfb61af5a273ffdd5_720w.jpg?source=8673f162" alt=""></figure>
-<p>实验过程中，雌猩猩古亚，在各个方面都表现出了比唐纳德更优秀的方面。</p>
-<p>例如，古亚十分听话，会亲吻以及拥抱父母以获取原谅，上厕所还会主动示意。</p>
-<p>一开始，无论在身体发育，还是在感觉发育，雌猩猩都对人类有碾压的趋势<sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1f38e52e0bc4d80f3e3b704d3542e095_720w.gif?source=8673f162" alt=""></figure>
-<p>不过实验进行 9 个月后，也即，唐纳德在 19 月龄，行为、智力、以及认知等各个方面逐渐赶上了 16.5 个月大的古亚。</p>
-<p>而且接近 2 岁的唐纳德表现出很强的学习模仿能力，很快学会了黑猩猩吼叫、爬行、咬东西、四肢爬行等各种行为，温思罗普不得不终止了试验。</p>
-<p>古亚在送回动物园后，年仅 3 岁便病逝了。</p>
-<p>而唐纳德人到中年后，因为抑郁症而自杀。很难说清唐纳德的自杀，是否和童年经历无关。</p>
-<p><strong><strong>人类幼崽早期的低能，以及更漫长的童年，与大脑的演化息息相关。</strong></strong></p>
-<p>早期人类的大脑演化和食物息息相关。</p>
-<p>例如，灵长类的大脑演化和水果的食用，具有正相关关系<sup>[3]</sup>。而灵长类采摘水果的生活习性，强化了手的抓握能力，以及灵活程度，刺激了大脑皮层的发育。</p>
+<p>这里先不纠结鲁国 / 西汉捉到的两只倒霉蛋究竟是不是同一种动物，综合三传统提取最大公约数后，对战汉文献「麟」的共识性生物学描述最终还是会回归公羊传的核心要素，<strong>“长了角的獐子”</strong>。那么我们不经要问：獐子在外形上有什么特点？（此处可回顾下开头图例）</p>
 <ul>
-<li>或者说，没有相关能力的都灭绝了。</li>
+<li><strong>首先，獐是一种小型鹿类</strong>，体重 10-15kg；和华北一度常见，动辄上百公斤的梅花鹿，麋鹿，马鹿相比显得十分娇小；</li>
+<li><strong>其次，獐子不长角</strong>。作为一种形态较保守 / 返祖的小型鹿科成员，雄獐之间战斗会使用一种更原始的武器：</li>
+<li><strong>夸张的獠牙</strong></li>
 </ul>
-<p>猕猴的脑容量远远大于小型灵长类，而黑猩猩的脑容量又是猕猴的 3 倍，达到了 400~500 毫升。</p>
-<p>而人类的脑容量又是黑猩猩的三倍，达到 1400 毫升。</p>
-<p>南方古猿和黑猩猩的脑容量相当，距今已只有 300 万年。</p>
-<p>那么，人类究竟是如何在短短 300 万年的时间，把脑容量提升 3 倍的？</p>
-<ul>
-<li>这个速度，大约是过去 2000 万年脑容量提升速度的 7 倍。</li>
-</ul>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-814b35bf7c0de8c70d0b6a3fabbc9e97_720w.jpg?source=8673f162" alt=""><figcaption>过去几千万年，人类祖先演化出了空前发达的大脑</figcaption></figure>
-<p><strong>其实人类在提升脑容量之前，就已经延长了童年。</strong></p>
-<p>2006 年，自然杂志发表了一篇关于南方古猿的文章，详细介绍了年仅 2 岁零 4 个月的迪基卡小孩（Dikika child）<sup>[4]</sup>。</p>
-<p>更加漫长的童年，在南方古猿身上便已经出现<sup>[5]</sup>。</p>
-<p>这是迪基卡小孩的大脑与黑猩猩大脑的对比：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a9a87ba6a5b799595d8af18f3947a9a0_720w.jpg?source=8673f162" alt=""></figure>
-<p>从对比图可以看出，迪基卡小孩的大脑结构更加的接近类人猿（黑猩猩）。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8cfcc84f47c74270e1335e8734674f26_720w.jpg?source=8673f162" alt=""></figure>
-<p>他和其它类人猿一样，没有人类这样发达的额叶皮层。</p>
-<p>其大脑后侧枕骨位置有专门负责视觉功能的沟槽，比起同时整合了视觉和感觉功能的人类枕叶，迪基卡小孩的大脑，还有一些原始。</p>
-<p>不过，相比起黑猩猩，迪基卡小孩的大脑发育又发生了明显的区别。</p>
-<p>它的脑容量仅仅只有 275 毫升，是成年南方古猿成年个体的 70%，相同年龄的黑猩猩，脑容量能达到成年个体的 85%。</p>
-<p>也就是说相比起黑猩猩，南方古猿幼年个体的脑发育速度明显变慢了。</p>
-<p><strong>也即，他们拥有了更长的童年。</strong></p>
-<p>而人类 2 岁左右时，脑容量也是达到成年人的 70%。</p>
-<p>需要注意的是，由于成人脑容量远远高于黑猩猩，所以同龄的人类幼崽，哪怕是 70%的成年脑容量，也远远高于黑猩猩 85%的成年脑容量。</p>
-<p>这就使得，同龄人类幼崽看起来大脑比黑猩猩的更加的“发达”，但其实更加的稚嫩和幼态。再加上生理的延迟发育，整个状态，都会表现得更加的“低能”。</p>
-<p>由于南方古猿脑容量仅仅略高于黑猩猩，所以我们也可以看出，人类童年的延长，可能先于脑容量的爆发。</p>
-<p>童年延长，可能出现在相对较短的时间内。</p>
-<p>我们知道，相对于卵生动物，哺乳动物依赖于父母照顾，具有从父母学习知识经验的能力。</p>
-<p>演化为大型灵长类之后，在更加严密的族群生活下，幼儿的学习能力也得到了强化。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c80fb76e99d73d7580a27c39227d9fa1_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>我们不妨简单推演一下，人类童年延长的过程。</strong></p>
-<p>在灵长类族群中，往往存在丰富的利他行为。</p>
-<p>利他性和利己性总是维持着一个平衡状态。大多族群内，存在照顾近亲幼儿的行为。</p>
-<p>甚至，利他行为机制，已经印刻在了大脑之中。</p>
-<p>利他行为在人类社会中，也发挥了积极的作用<sup>[6]</sup>。在原始族群中，利他行为，能在高难产率下，保证余下婴儿足够多的存活。</p>
-<p>同时，人类的生存、社会经验，也在演化过程中，积累得越来越多。</p>
-<p>随着古类人猿向南方古猿演化，将面临一个巨大的问题，原始的大脑无法学习越来越多的技能和知识。</p>
-<p>那么面临残酷生存环境的时候，只有那些掌握了生存技能的族群才能存活下来。</p>
-<p><strong>只有拥有更长时间学习的幼年个体，在成年之后，才可能学习到更多的经验和知识。</strong></p>
-<p><strong>在自然淘汰的过程中，那一批“发育迟缓”的南方古猿，反而存活了下来。</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-96e4a708af15d20fc59a4d465486ffc1_720w.jpg?source=8673f162" alt=""><figcaption>南方古猿 - 露西</figcaption></figure>
-<p>但在 200~300 万年前，地球进入了第四次冰期，恶劣的气候，在南方古猿的演化之路上，增加了史无前例的沉重砝码。</p>
-<p>恶劣气候下，大脑“配置”没有提升的前提下，漫长童年的积累，也不足以继续生存下去。</p>
-<p>随着，南方古猿为首的无数族群灭绝，脑容量更高、大脑皮层更复杂的古人类渐渐脱颖而出——人属的诞生。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b4dc040e9cebfb7d36981ab4d841a055_720w.jpg?source=8673f162" alt=""><figcaption>真人属内部谱系结构</figcaption></figure>
-<p>最早的人属，不仅成年个体掌握了更加丰富、先进的生存技能（例如，对自然火的利用、打磨简单石器等等）。</p>
-<p>就连人类幼儿也掌握，更强的“学习能力”。</p>
-<p>看到这里，可能会有人有疑问了：前文雌猩猩古亚的实验，不是表明，雌猩猩的学习能力不是优于人类儿童吗？</p>
-<p>然而温思罗普·凯洛格的实验中，还有另外一项实验结果：</p>
-<p>那就是他的儿子唐纳德学会了黑猩猩的吼叫、爬行、咬东西、四肢爬行等各种行为。</p>
-<p><strong>这些看似令人无比担忧的实验结果，实际反映了人类幼儿，超强的模仿学习能力。</strong></p>
-<p>这种超强模仿能力，几乎在其它动物幼体中很难见到（鸟类有印刻现象，但比模仿行为更低级）。</p>
-<p>我们总是能听说关于狼孩的故事，但却很少听说猫能把狗养成猫，或者相反。</p>
-<p><strong><strong>人类大脑“发育迟缓本质，是装载“庞大处理器”的过程更加的漫长。</strong></strong></p>
-<p>黑猩猩和人类胚胎期，在前 22 周几乎发育相同。</p>
-<p>22 周之后，随着距离成年个体脑容量越来越近，黑猩猩的脑容量增长，就会越来越慢。而人类胎儿，则会一直高速增长。<sup>[7]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-593786a9beab876ae87a06ad38653ef2_720w.jpg?source=8673f162" alt=""><figcaption>相比起 21 一周以前，人类胎儿 30 周时脑容量具有显著的增大</figcaption></figure>
-<p>当黑猩猩胎儿在母胎中 22 周就发育得七七八八的时候，人类大脑还在建设大脑皮层的基础结构。</p>
-<p>当胎儿出生之后，黑猩猩幼儿已经开始能直立的时候，人类幼儿依旧还在建设大脑皮层。</p>
-<p>也就拿出了最基本的爬行动物脑和边缘系统，支撑着身体的基本行为。</p>
-<p>当然，人类的新皮层也在发挥作用。为了后天学习做铺垫，强化的新皮层功能，主要便是模仿学习功能。</p>
-<p>模仿能力，也是人类在长期演化中，为了后天学习的刚需，所出现的适应性演化。也可以说，没有足够模仿父母能力的婴儿，都灭绝了。</p>
-<p>不仅仅是基本的生存技能，后天的诸多思维和行为习惯，都建立在父母行为的引导之下。</p>
-<p><strong>史无前例的后天学习属性，令人类大脑，必须为了学习进行最快的发育准备。</strong></p>
-<p>哪怕在出生之后，人类幼儿大脑的增长速度，依旧没有多少减缓的趋势。而黑猩猩的大脑则在缓慢的增长中，利用一个相对于人类更短的童年期，令大脑完全发育。</p>
-<p>人类的 4 岁儿童，大脑才能发育得七七八八，直到 7 岁左右，才能有成年人脑容量的 90%，做好了社会学习的基本准备。</p>
-<p>所以，要问人类幼崽为什么那么弱，根本原因是把所有的发育都拿来长脑子的基础配置了。</p>
-<p>反过来说，身体发育必须和大脑发育匹配，大脑过于稚嫩，身体早成（像牛羊等）反而可能会更加的危险（意外夭折）。</p>
-<p>就好比你要组装一台电脑，你能做到没装完核心硬件，就装软件和高级外接设备吗？</p>
-<p>所以，人类幼崽整个生理状态（大脑之外）的延迟发育，本质上是对大脑发育的让步。</p>
-<p><strong>这个时候，我们再回过头去，看看人类的演化过程，一下就清晰很多了。</strong></p>
-<p>不仅仅早期灵长类进化成人的过程中，脑容量迅速增加。</p>
-<p>人类出现后，脑容量依旧在爆发增长。</p>
-<p>从人属诞生开始，脑容量的增长，总体上完全呈现指数级的爆发。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-70aa157f2535351c234c1c9336b6b043_720w.jpg?source=8673f162" alt=""><figcaption>部分人种，脑容量分布</figcaption></figure>
-<p>人类既要保证脑容量的提升，又要保证拥有足够的时间学习越来越多的后天经验，那么脑容量的提升就必须往前压缩——</p>
-<p>从母胎内就必须保证脑容量的高速发育，才能在出生后继续发育 7 年，接近成年人的脑容量。</p>
-<p>也就是说，从母胎内开始，人类胎儿就牺牲了其它方面的发育，来全面拓展大脑的容量。</p>
-<p>当然，人类的掠食地位，也让胎儿有足够的时间和空间来延迟发育。</p>
-<p>其实不难发现，陆生哺乳动物中的掠食者，幼崽往往都表现出“低能”特征。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cd2db628a24ee7cb02812585d5911309_720w.jpg?source=8673f162" alt=""><figcaption>出生不久的小脑虎</figcaption></figure>
-<p>相反，食草哺乳动物，大多数幼崽一生下就能跑能跳。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3350f099d6a24ace870f957cb4506614_720w.jpg?source=8673f162" alt=""><figcaption>刚出生不久的瞪羚，误闯进入了猎豹的怀里</figcaption></figure>
-<p>这本质上是不同的生存演化压力，所造成的。</p>
-<p>虽然人类的营养级为 2.21，是典型杂食性的，和猪的营养级相当。然而，人类所吃的肉食总量却远远超出其它所有肉食哺乳动物的总和。</p>
-<p>所以，人类演化过程中，一些古人类学家往往把人类描述为超级掠食者。</p>
-<p>正是因为人类发展成了一个空前强大的族群，所以幼崽才能延迟发育，也即才有了“低能”的资格。</p>
-<p>所以，人类幼崽的低能状态，本质是延迟发育。</p>
-<p>多方面的延迟发育，令婴儿在演化过程中，出现了相应的适应性特征。</p>
-<p>人类幼儿具有超强的啼哭能力，刚出生的婴儿头颅没有闭合，可以通过囟门变形，在出生时更好的通过产道，保证存活率。</p>
-<p>当然，背后的残酷真相就是：</p>
-<p>没有啼哭能力，以及没有囟门的早期人类，已在演化过程中灭绝。</p>
-<p>新生儿的啼哭，有利于父母对孩子病痛、饥饿、生病等各方面的及时发现，同时也能在遇到危险时，吸引成年人的注意，驱赶猛兽。</p>
-<p><strong>在古人类走遍全球的时期，猛兽们听到人类婴儿的啼哭，可能第一时间不是想到捕食，而是逃跑。</strong></p>
-<p>总之，人类婴儿的啼哭能力的作用，和其它哺乳动物母子分离或乞讨时的叫声，是相似的<sup>[8]</sup><sup>[9]</sup>。</p>
-<p>而演化过程中，人类也形成了合作育儿<sup>[10]</sup>，所谓的母性本能并非专属于母亲。</p>
-<p>无论是父亲还是母亲，对婴儿啼哭都有相同的识别能力。</p>
-<p>以前的研究，之所以发现母性本能强于父性本能，完全在于母亲和孩子陪伴时间更长，所带来的实验偏差。</p>
-<p>新的研究证明，无论父亲还是母亲，在婴儿哭声识别上来说都没有什么区别，只和陪伴时间的长短有关。</p>
-<p>有数据表明，如果与其他婴儿相处的时间过久，会影响父母对孩子的识别能力。</p>
-<p>孩子为什么会嫉妒父母抱其他的孩子？我想，不必要再做过多的解释。</p>
-<p>除此之外，当男性成为父亲时，睾酮水平就会下降，以便更有利于照顾婴儿。<sup>[11]</sup></p>
-<p><strong>总的来说，为了保证幼崽大脑的发育，无论婴儿自己还是父母，都有着相应的适应性演化。</strong><strong>人类出生时的“低能”状态，只是其中的适应性演化之一。</strong></p>
-<p>繁衍生息的背后，总有一条残酷的演化之路。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2d6d815e354b060a64b2743918d4b2c4_720w.jpg?source=8673f162" alt=""><figcaption>獐（Hydropotes inermis）雄性长有夸张的獠牙，雌性獠牙较短不露出口外</figcaption></figure>
+<p>实际上，獠牙正是獐子最为醒目的识别特征，只要近距离观察过的人都不会有异议。那么，在我们生活的现实世界里，是否有既像獐子（小体型、有獠牙）又长角的鹿呢？</p>
+<p><strong>有的兄弟，有的：</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-84465e5fd6ff5d6a86adf2ebdba89a98_720w.jpg?source=8673f162" alt=""><figcaption>鹿角生长起始阶段，软组织膨胀的小麂（Muntiacus reevesi）</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0b14e993438b77339486872964976e28_720w.jpg?source=8673f162" alt=""><figcaption>茸角萌出阶段的小麂（Muntiacus reevesi）</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-853110d8ae12cfc27489305e65b11a21_720w.jpg?source=8673f162" alt=""><figcaption>鹿角硬化完成的麂（Muntiacus sp.）</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-db915a6e64e0611b8854b0f8d265c869_720w.jpg?source=8673f162" alt=""><figcaption>夏季旧角脱落后，仅余颅顶角基的麂（Muntiacus sp.）</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e89a59186817ea16ad18f9aa96d0828c_720w.jpg?source=8673f162" alt=""><figcaption>毛冠鹿（Elaphodus cephalophus）角基不发达，鹿角较小且具有发达的冠毛</figcaption></figure>
+<p>麂族 Muntiacini 下 麂属 Muntiacus 和毛冠鹿属 Elaphodus 两属 15 种均具备<strong>獠牙、两段式鹿角、体型较小</strong>的共同特征。其中在中国核心区有明确晚近分布的至少有四种<sup>[9]</sup>，分别是小麂（<em>M. reevesi</em>），黑麂（<em>M. crinifrons</em>），赤麂（<em>M. vaginalis</em>）和毛冠鹿（<em>E. cephalophus</em>）。这些物种的的现代分布见下图：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bb224ca1f2afe19f5283cbd26ab16ae7_720w.jpg?source=8673f162" alt=""><figcaption>小麂（M. reevesi），黑麂（M. crinifrons ），赤麂（M. vaginalis）分布分别见蓝，红，橙色块；贡山麂（M. gongshanensis）为黑麂近缘物种，与前者或一度连续分布在整个长江流域</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e40b61e181110aab450a9b1c9052ea0d_720w.jpg?source=8673f162" alt=""><figcaption>毛冠鹿（E. cephalophus）分布</figcaption></figure>
+<p>除赤麂外，其余三物种均以长江流域为现代分布中心，其中体型较小的小麂（10-18kg）和毛冠鹿（20-25kg）主要分布于长江两岸山地，西北可突破秦岭进入关中、甘肃；而黑麂（20-25kg）历史上相对局限在长江以南，如今仅残存于浙赣皖山区。体型较大的赤麂（20-30kg）现代分布以珠江流域 - 东南亚为中心，但在长江流域也有全新世记录<sup>[10]</sup>；除了这四种今天依然活跃于中国境内的麂族物种外，全新世长江流域还曾存有一种相当神秘的大型麂：越南大麂（<em>E. vuquangensis/M. gigas</em>）。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-205be419b424eb1aa6591fd0f7d5eb60_720w.jpg?source=8673f162" alt=""></figure>
+<p>该物种直到 1994 年才在越老边境的长山山脉被发现并描述，为现存麂属物种体型最大者（30–50kg，接近狍）。考古发现该物种或近缘种（初被命名为 M. gigas）在长江流域也有历史分布，遗骸出土集中于浙江和湖北山区，长江种群大概在秦汉时期最终灭绝<sup>[11]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ef22b7850e3a3d2e4a0fb3b78b5bf0f0_720w.jpg?source=8673f162" alt=""><figcaption>三角为长江流域越南大麂遗骸出土地点，阴影为现存越南大麂分布范围；右侧文字为出土记录，年代最晚为湖北地区 2800-1800bp 案例</figcaption></figure>
+<p>麂族物种<strong>“以长江流域为中心，沿华北平原边缘的山地林区分布”</strong>的特征使它们很容易成为东部华夏人（包括鲁国人）眼里的珍禽异兽，同时我们也能注意到先秦文献中对麂类物种（或者说除了獐以外的其他小型鹿类）基本毫无提及<sup>[12]</sup>；综上，参考战汉外形描述，结合西汉麟趾金的典型鹿蹄造型，可以猜测春秋 - 西汉两次获「麟」祥瑞事件均高度疑似指向麂类物种。前一次主要出于山东人对麂陌生，留下了“长角獐子”的志异记录；后一次则是理应相对熟悉麂子的关中人，对白化个体的少见多怪。武帝以后「麟」的形象逐步完成神圣化，并且在“一角牛尾”的主流经注误导下向着幻想生物的方向一路狂奔，自然不可能和现实中反而逐渐为南拓汉人所熟悉的大小麂子们混为一谈。</p>
+<p>至于先秦人是否对相对常见的小麂毛冠鹿，少见的黑麂 / 贡山麂，以及极罕见的越南大麂有所认知区分，或是否曾把其中更罕见的中大型物种单独视作具有神性的「麟」，那就是另一个谜题了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a912dbb4c929dae07e2f385837c8dde_720w.jpg?source=8673f162" alt=""><figcaption>四川木里县红外相机抓拍到的白化毛冠鹿个体</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d170afe0e43e9b69d4ec89e83e9b6176_720w.jpg?source=8673f162" alt=""><figcaption>湖北神农架捕捉到的白化小麂</figcaption></figure>
+<hr>
+<p>最后再讨论下主流传统中麟「一角 / 并角戴肉」形象的可能来源：戴肉相对好理解，麂角本身就有颅骨上突出的，包覆软组织的角基，形似“肉角”，而换角季节（见前文不同换角阶段配图）的外观更是会强化这一印象；至于一角 / 并角 / 共觝的描述，则可能是基于麂类角基在头骨上延长突出，并交汇于鼻根处的骨嵴，配合“肉角”误解和皮肤上的黑纹，被解读为双角同根而出，分为两支……不过这些显然都是强行拍脑袋为古人挽尊，我个人也并不觉得有必要和「一角」这种显然不符合偶蹄目基本生理结构的记录较真。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-417de1255c686c606de4c200acdb1545_720w.jpg?source=8673f162" alt=""><figcaption>麂类特有的长角基和延伸骨嵴，以及皮肤表面的的黑斑</figcaption></figure>
+<hr>
+<p>补充：</p>
+<p>有不少人拿「戴两角而共觝」解释为“向前伸出一角”附会驯鹿，这是胡扯。关于这句话在上下文语境中的含义分析前文已论及，而更强的证据在于这句描述专用于汉武帝元狩元年捕获的白麟，那玩意·绝·无·可·能·是驯鹿，因为西汉为了纪念此事件制作的麟趾金长这样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bdfe6f14fb65f94d60de5f4950405eeb_720w.jpg?source=8673f162" alt=""></figure>
+<p>而驯鹿特化的雪鞋大脚板长这样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c842b25645bf011512e1502a8052a698_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是“正常”的鹿蹄：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ae59df019abea7a65ff529eb134fbacc_720w.jpg?source=8673f162" alt=""><figcaption>从上到下：（疑似）梅花鹿，白尾鹿，小麂</figcaption></figure>
+<p>而且说实话，任何传统「麟」的记录都不会和驯鹿有关系，文献、考古、生态哪哪都对不上。野生驯鹿的自然分布向南几乎连黑龙江都摸不到，是一类高度特化的北极泰加林 - 苔原物种，在全球变暖背景下北极夏季持续高温超过 30℃都会导致驯鹿集体暴毙，这玩意空降来中原分分钟躺尸<sup>[13]</sup>……</p>
+<p>实在是太离谱了所以我一开始都没觉得需要特意解释（扶额）</p>
+<hr>
+<p>最后一次补充：</p>
+<p>对于偏西周背景的「麟」（包括《麟之趾》）指向的物种缺乏文献讨论基础，但我刚注意到存在一个突破口是西周一类高度流行的动物造型<sup>[14]</sup>。这类造型一贯被解释为鹿形兽（商周青铜器“蘑菇角”是一种高度模式化的表达，不能反映生物原型）；但值得注意的是，这类动物角部蘑菇角上均有一支剧烈弯曲向中心伸出，且尖端指向下方的分杈：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-914e5c362fef82958f4175882658b4b3_720w.jpg?source=8673f162" alt=""><figcaption>石鼓山四四号墓牺尊，西周</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bde0dbb165cd89b77470387b59fb75d6_720w.jpg?source=8673f162" alt=""><figcaption>亚此牺尊，西周</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-84bbd2dc237617b29d838743dd904a59_720w.jpg?source=8673f162" alt=""><figcaption>邓仲牺尊，西周</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-770fe9dd97a5dcc8e583439b94c54ac0_720w.jpg?source=8673f162" alt=""><figcaption>竹园沟十三号墓出土车饰，西周</figcaption></figure>
+<p>且角基均向前延伸至眉部，眼前方。（还有就是都长着一张狗脸）</p>
+<p>所有鹿中只有麂属物种同时具备任意上述特征，个人认为完全可以定论此类深受西周人喜爱的动物原型就是麂（偏赤麂<sup>[15]</sup>）。同时，虽然暂时没有自名器物确证，很可能就是西周以来的吉兽「麟」。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f8901e55bb95425fe871155c96b23177_720w.jpg?source=8673f162" alt=""><figcaption>赤麂正面照</figcaption></figure>
+<p>而上述牺尊所以在麂类原型的基础上安了四支狗爪子，可能也是因为它们“望之不似鹿”的四肢比例和整体“狗里狗气”的气质吧<sup>[16]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6cdff27d1483b33e7b874571493f1663_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2007709632001492021">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/318575626">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787990</guid><pubDate>Wed, 04 Mar 2026 18:40:40 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788086</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-1fc8e2f6bcfedee537545bb7386dff0d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788012</guid><pubDate>Thu, 05 Mar 2026 01:43:59 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788089</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-1fc8e2f6bcfedee537545bb7386dff0d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -408,7 +298,7 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 你抓拍的小动物是什么样子的？</h2>
+<h2 class="question-title">瞎扯 · 如何看待一些西安避雷帖子？</h2>
 
 <div class="answer">
 
@@ -419,39 +309,43 @@
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/641219065/answer/41996122582" target="_blank">你抓拍的小动物是什么样子的？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/738122777/answer/1959553970503671920" target="_blank">如何看待一些西安避雷帖子？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/eed63bcd679f1a75aaa183773f5aa3c0" target="_blank">@瞎兵谐将</a></div>
- ：不是我抓拍的，是鸟吧吧友抓拍的。<br><a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=270144429&content_type=Article&match_order=1&q=%E7%9B%9F%E5%86%9B%E5%85%89%E6%A3%B1%E5%A1%94&zhida_source=entity" target="_blank">盟军光棱塔</a></blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bd08d260254c4dceaa3fc016f605a6fe" target="_blank">@Louise Valliere</a></div>
+ ：我见过最离谱的是避雷一家面馆<br>起因是点油泼面让老板别放油，老板说你不吃就滚</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-b4d0a2ca753fb9809690e5b41ec53d43_1440w.jpg" alt="" width="720"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-824894977431c3da0b486e45c8838922_1440w.jpg" alt="" width="720"></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/21359208/answer/3516443275" target="_blank"> 你在知乎收到过哪些非常奇怪的私信？ </a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/319924522/answer/1985312742182253718" target="_blank"> 有哪些官方的玩梗？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8c4c9d230bf800f0000fb8aef6c81195" target="_blank">@擅长硬撑</a></div>
- ：有个码农老哥，<br>翻到我一个没什么人赞的回答，说我写的非常好，非常浪漫，一定是个个有灵气的人，甚至上升到了<br>灵魂契合的程度，<br>夸了一堆。<br>然后他一个赞也没给我点。。</blockquote>
-<p class="ztext-empty-paragraph"> </p>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/3046388426/answer/1932560833826755537" target="_blank">有哪些地狱笑话分享？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/247050b2587a1d68bbaab67f9b0df310" target="_blank">@飘来荡去</a></div>
- ：问:<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=270144429&content_type=Article&match_order=1&q=%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B&zhida_source=entity" target="_blank">《肖申克的救赎》</a>男主每天晚上不睡觉在那挖墙，连续20年身体受得了么。<br>答:放心，人家就算是囚犯，下班可能比你还早，又不玩手机，提里前睡会儿，后半夜开挖就行。</blockquote>
-<p class="ztext-empty-paragraph"> </p>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/41685800/answer/1984990837000652173" target="_blank">生活中你们见过最愚蠢的设计是啥？ </a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/62c1f588b776e88d4aa1a5cbab91c9e1" target="_blank">@圆月清光</a></div>
- ：远看一碗吃 10 人，近看一人吃 10 碗。奇葩的盆子碗！</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/14824833ea1a0eb1f28ccb6cdba80c89" target="_blank">@衣袂飘飘</a></div>
+ ：云飞兄对山西的伤害太深了！</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content_image" src="https://pic1.zhimg.com/v2-63e7eec9518078a435cad60a2b5e8890_1440w.jpg" alt="" width="400"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-6233acadde8337d1808a4fe594082650_1440w.jpg" alt="" width="720"></div>
 <figcaption></figcaption></figure>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content_image" src="https://pic2.zhimg.com/v2-ff6a42c62ad5a78c933d75dbaa1ac8b5_1440w.jpg" alt="" width="400"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-579c7f61295335c3b63e85e8045e7625_1440w.jpg" alt="" width="720"></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/624504664/answer/1944075665793091005" target="_blank">请发一张你最难绷的图片? </a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/434526052/answer/125911551993" target="_blank"> 野史究竟能有多野？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/5dedee100596cfcf817535b323604383" target="_blank">@不要eomo</a></div>
- ：笑死我了，第一时间分享给了我的好哥哥们，目前都是已读不回状态。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bbc733b3d26820903ba1a6128458c6b8" target="_blank">@虎山行贰</a></div>
+ ：一百年后，被人挖出来，会不会津津乐道。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic3.zhimg.com/v2-2d1e6eea42c199235630928a62bdbd64_1440w.jpg" alt="" width="720"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-2d9889b6e0f9e796e3f1797865371dcc_1440w.jpg" alt="" width="690"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1914116085403346284/answer/1922453149249148158" target="_blank">如何在外形不使用猫耳猫尾元素，行为不猫叫，不做猫的动作的情况下，设计一个人人都看得出来的猫娘角色?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8b3b0ac2a8e19b6102c26e75ec184291" target="_blank">@高山何处乐</a></div>
+ ：没有猫耳和猫尾；<br>行为不猫叫；<br>也不是猫的动作。</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic3.zhimg.com/v2-a7b7c978ee4cd4d4befa064602e9236c_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/306074695/answer/1982772777170794364" target="_blank">蝙蝠侠在其他人眼中是怎样的存在？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f04dbf1ff9723a148d69552ab68e2ffd" target="_blank">@猫仔</a></div>
+ ：分享一张很喜欢的蝙蝠侠梗图(°∀°)ﾉ</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-1da70168018384c1d29078cf46a6fc07_1440w.jpg" alt="" width="720"></div>
 <figcaption></figcaption></figure>
 <p><br class="Apple-interchange-newline"><br class="Apple-interchange-newline"></p>
 </div>
@@ -462,4 +356,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788086</guid><pubDate>Wed, 04 Mar 2026 18:40:41 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788089</guid><pubDate>Thu, 05 Mar 2026 01:43:59 GMT</pubDate></item></channel></rss>
