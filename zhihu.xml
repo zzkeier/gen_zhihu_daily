@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 05 Mar 2026 19:12:32 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>海洋动物，水平尾和垂直尾哪个好?</title><link>http://daily.zhihu.com/story/9787996</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4c5efe488bd1490da649fe6fa7b579ca.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Fri, 06 Mar 2026 01:45:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么水中含氧量更少，鲸鱼却长得很大?</title><link>http://daily.zhihu.com/story/9788021</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e4064f262df7965aab6c7d0e83500303.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,98 +19,280 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-e25572a276c7d6eebf9387a76b1ca929_l.jpg?source=8673f162">
-<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/662392039/answer/2009430733584868483" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/2007787270053328648/answer/2007907354339992083" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>你是古希腊的英雄尤利西斯，现在你有项艰巨的挑战：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d966bfd9bdf10843672ea8c6884efe77_720w.jpg?source=8673f162" alt=""><figcaption>尤利西斯和塞壬 (by Draper)</figcaption></figure>
-<p>你荣归故里的时候需要横渡一片危险的海域，这里遍布着塞壬（人头鱼身的妖怪），它们会发出魅惑的歌声，你一听见就忍不住跳到海里去与它们私会，但是这样的话，你就溺死了哇。</p>
-<p>对，没错，塞壬就是这样的水鬼。</p>
-<p>所以你最好叫你的水手们把你绑起来：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9111cc3f0d2f5b3842108310523c7769_720w.jpg?source=8673f162" alt=""></figure>
-<p>以防万一，耳朵眼睛也最好堵上，这样就看不见听不见了，也不能动，自然就不会主动跳下水里溺死，就可以安全的渡过这片海域。</p>
-<p>等等，你会发现，咱们绑人的技巧和绑鱼的方式好像不一样！</p>
-<p>现在我们去鱼塘捞一条鱼试试：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-94c560975feafa3692e2f2b545193b20_720w.jpg?source=8673f162" alt=""></figure>
-<p>是不是？</p>
-<p>人绑起来的话，<strong>沿着脊椎方向水平</strong>正 C 和反 C 问题都不大（弯腰或者小燕飞），但是如果是像鱼一样<strong>跟脊椎方向垂直</strong>的左 C 和右 C 的话，可能只有掰断脊椎才能做到。</p>
-<p>同样的，要是让鱼像人类一样反 C 或者正 C 的话，估计也只能掰断脊椎才能做到。</p>
-<p>因为硬骨鱼类的椎骨两端大多是凹陷的（双凹型），椎骨之间主要靠柔软的弹性组织（残存的脊索）连接，缺乏复杂的关节突锁死机制。这种结构就像一串由粗橡皮筋串起来的珠子，允许身体极其顺滑地进行大角度的侧向（左右）弯曲。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0adc00a50ffd3a7900bd50cfd42e9623_720w.jpg?source=8673f162" alt=""></figure>
-<p>哺乳动物则不同， 当动物爬上陆地后，为了更快速的奔跑，哺乳动物的椎骨演化出了极其复杂的前关节突和后关节突（允许哺乳动物奔跑的时候脊椎像个弹簧，跑得更快）。这些关节面的倾斜角度在解剖学上被强行改造成了限制左右扭动，允许上下折叠的结构。</p>
-<p>正是脊椎结构的不同，导致了运动方式的不同。</p>
-<p>那么美人鱼怎么绑？（bushi）</p>
-<p>当然，并不是所有的辐鳍鱼都有明显分叉的尾，还有鳗鱼等具有圆滑鳍褶蛇行游动的鱼，以及水母、章鱼等跟鱼类完全不同游动方式的无脊椎动物。</p>
-<p>我们这里只讨论明显拥有比较明显水平或垂直尾鳍的水生生物。</p>
-<p>硬骨鱼等较为原始的脊椎动物游泳的时候是左右摆动的：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ae9030da44e035eda4248f666e3913a4_720w.gif?source=8673f162" alt=""></figure>
-<p>而鲸等海洋哺乳动物的脊椎则只能选择跟人类一样的方式上下蛄蛹（开个玩笑，鲸类游泳没这么费力）：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9e8c340b4a0562cbf19d1c4d0ac45fe7_720w.gif?source=8673f162" alt=""></figure>
-<p>鲸类毕竟经历了一个从陆地动物重回海洋的过程，骨骼已经是哺乳动物的摸样了：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7c9bcfb6e47b76c17273ff55861fbd10_720w.jpg?source=8673f162" alt=""></figure>
-<p>再次下海的时候代码简单修改修改就用了，不可能把脊椎这么关键的底层代码推倒重建。</p>
-<p>这样的情形下，会导致两者在水流中的运动有流体动力学差异。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-839de9f0a11e63a0ae6872a8e3eaba71_720w.gif?source=8673f162" alt=""></figure>
-<p>正是因为大多数鱼类的脊椎适合侧向弯曲，鱼通过左右摆动身体和尾部来推动水流产生前进力，因此尾鳍通常是竖直方向的。</p>
-<p>而鲸、海豚等海洋哺乳动物的脊椎结构与陆生祖先类似，适合上下弯曲胸腰段生成推进力，尾鳍是水平方向的。</p>
-<p>也就是说，对于不同的动物来说，没有谁好不好，是根据脊椎运动方向来说只能如此。</p>
-<p>那么为什么鱼和哺乳动物的脊椎会出现这样的差异呢？</p>
-<p>那得从远一点说起。</p>
-<p>看看现存的活化石文昌鱼：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-02b965323eb7d19e9d623db7cdd2b37f_720w.jpg?source=8673f162" alt=""></figure>
-<p>文昌鱼目是脊索动物门头索纲现存的独苗，它甚至都不是脊椎动物。</p>
-<p>身体里没有像其他鱼那样支撑身体的比较硬的脊椎，而是软软的一根脊索。</p>
-<p>并且没有头（控制方向）、没有鱼鳔调节浮力、没有心脏、没有尾鳍背鳍。</p>
-<p>这样的配置，不蛄蛹就得沉下去。</p>
-<p>它没法跟有骨头的鱼竞速和比赛控制方向的精准性，游动的时候更像是随波逐流，而不是靠身体主动控制方向，所以大多数时间都呆在底层靠滤食生活。</p>
-<p>这就是脊椎带来的好处，有了脊椎这根硬骨头，肌肉收缩需要坚硬的的杠杆和受力点就有着落了。</p>
-<p>更容易发力。</p>
-<p>配上鱼鳔通过充气和放气来调节鱼的比重，调节硬骨鱼自由控制身体沉浮。这样前后左右上上下下都能去了。</p>
-<p>但是问题是，鱼鳔这个重要的部分并不是一开始就进化出来的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bd5ba6da9afe4a5249a61747a93c0844_720w.jpg?source=8673f162" alt=""></figure>
-<p>像昆明鱼是目前公认最早的脊椎动物，出现于五亿年左右，而调节鱼类沉浮的器官（鱼鳔）以及它的前身（原肺），其出现的时间大约在 4.2 亿年到 4 亿年前，也就是说，昆明鱼是没有鱼鳔或者其他可以储存气体的器官，跟文昌鱼一样，不游动就会沉下去。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b662680fec35533c067cacc0d96704e_720w.jpg?source=8673f162" alt=""><figcaption>早期的鱼有点像直升机，不持续游动提供动力就沉底了。</figcaption></figure>
-<p>这就导致一个问题。</p>
-<p>这样的身体配置，靠左右摆动来维持动力（升力）还行，一旦改为上下摆动，因为一般鱼都是左右对称而不是上下对称，上下重量不一样，肌肉也没有现在这么强壮，所以游动起来不容易控制。</p>
-<p>当然，现在的硬骨鱼、鲸等可不像直升机或者文昌鱼那样摇摇欲坠了。</p>
-<p>硬骨鱼有鱼鳔，可以控制沉浮。</p>
-<p>鲸有肺，储存大量空气也可以用作沉浮控制。</p>
-<p>鲨鱼虽然没有鱼鳔，但是有巨大的肝脏，比重较轻，也有一定的保持浮力的作用：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-09d202397f7812599219716c26f49dc8_720w.jpg?source=8673f162" alt=""><figcaption>鲨鱼肝脏体积占体腔 90%左右，重量只占 1/4</figcaption></figure>
-<p>正是由于大家各显神通，所以它们在海里定速巡航的时候更像是滑翔机，不需要频繁摆动尾鳍来控制自己不掉到海底。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c216d164572d26d8c52da5ab21ed6941_720w.jpg?source=8673f162" alt=""></figure>
-<p>有研究表面，虽然垂直尾鳍和水平尾鳍产生的涡流不同，但是在有一定深度的水域，水在各个方向上的物理性质（密度、粘滞系数）是完全一样的（各向同性）。</p>
-<p>因此，一个形状相同的尾鳍，无论它是<strong>左右扫动</strong>产生水平方向的涡环，还是<strong>上下扫动</strong>产生垂直方向的涡环，只要斯特劳哈尔数（Strouhal 数）在 0.2-0.4 之间，它们将动能转化为向前的推力效率是<strong>等价的</strong>。（峰值约在 St≈0.3，此区间内孤立翼型的推进效率可高达 70%甚至 80%，偏离该范围效率显著下降）</p>
-<p>而研究人员对包括鲸、鲨、其他硬骨鱼，甚至鸟类和蝙蝠的研究都表明，巡航状态下的飞行动物与游泳动物（如海豚、鲨鱼、硬骨鱼）均收敛于 0.2 < St < 0.4 的窄范围，平均 St=0.29，95%置信区间为 0.25-0.31，约 75%物种处于 0.19-0.41 区间。</p>
-<p>也就是说，不管是水平还是垂直的尾鳍或者是各种形状的翅膀，在长期自然选择的压力，都向着最节能，效率最高的方向进化。</p>
-<p>唯一不同的是在海面交界处，上下摆动的水平尾（鲸）阻力会直线上升，但是鲸等哺乳动物又必须去海面呼吸。这个时候就导致它们宁愿跳出水面减少阻力了。</p>
-<p>另外一方面，毕竟是上过岸的，拥有进化后的大脑鲸豚游动的灵活性跟鲨鱼等完全不一样。</p>
-<p>大多数鲨鱼一旦肚皮被翻到上面来就会出现强直静止，一动不动。</p>
-<p>这固然是为了方便交配选择出来的性状，但是也跟尾鳍上下不对称、肝配重、肌肉控制等等不利于反着游的因素有关：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d6e7fbf7ca828540b307d1d88537f23_720w.jpg?source=8673f162" alt=""><figcaption>救助人员也会利用这一点给鲨鱼做检查等</figcaption></figure>
-<p>鲸豚则完全不同。</p>
-<p>会用跟鱼类完全不同的 360°旋转的“桶滚”（Barrel roll）式游泳方式：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b092dedacc9dcc1fb30ad9e4d413b5df_720w.gif?source=8673f162" alt=""></figure>
-<p>方便花式捕鱼。</p>
-<p>所以总的来说，两种尾在巡航阶段没有特别大的差异，更多的是各自身体结构不同带来的必然选择。</p>
-<p>那么课后题是：美人鱼（或者塞壬）上半身是哺乳动物，下半身是硬骨鱼（有鳞片），脊椎结构不同，那美人鱼应该怎么绑？</p>
-<p>以上~</p>
+<p>这其实是把鱼类和哺乳动物的生理机制弄混了。</p>
+<p>鲸根本不从水里提取氧气。空气中含有约 20%的氧气，而水中的溶解氧极低。作为演化后重新进入水中的哺乳动物，鲸鱼保留了肺部，它们必须浮出水面直接呼吸大气。</p>
+<p>对，就是那个喷水的呼吸孔。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b4edb9ba556437d3d55af9ac9bfe5f7f_720w.jpg?source=8673f162" alt=""><figcaption>蓝鲸喷“鼻涕”</figcaption></figure>
+<p>人类每次呼吸只交换肺部 10%到 15%的空气，而鲸鱼单次呼吸可以更新高达 80%到 90%的气体。吸气后，它们把氧气储存在血液和肌肉里。鲸鱼肌肉中含有一种叫肌红蛋白的蛋白质，功能是结合并储存氧气。</p>
+<p>下表对比了人类与宽吻海豚、斑海豹、抹香鲸等海洋哺乳动物在单位体重氧气储备量以及氧气体内分布上的巨大差异。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-06ad4968fe82fce76ea8d02208d48117_720w.jpg?source=8673f162" alt=""></figure>
+<p>简单来说，动物的潜水能力越强、极限潜水时间越长，其单位体重所含的总氧气量就越高（最多可达人类的三倍以上）。</p>
+<p>鲸随着潜水能力的增强，肺部氧气的相对占比其实在逐渐减少；它们主要是通过大幅增加血液和肌肉中的氧气储备来维持深潜的。</p>
+<p>潜水海洋哺乳动物体内的肌红蛋白浓度是陆地哺乳动物的 3 到 7 倍。依靠直接呼吸高浓度大气和极高的生化储氧能力，鲸鱼彻底避开了水中低氧的限制。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9516aa83ba9abcd442204b2e81322a90_720w.jpg?source=8673f162" alt=""></figure>
+<p>大象长不大，根本原因在于物理定律。</p>
+<p>1638 年伽利略提出了平方立方定律<sup>[1]</sup>。这个定律说明，当一个物体的线性尺寸成比例增加时，它的体积会按三次方增长，而横截面积只按二次方增长。动物的体重由体积决定，而骨骼支撑力和肌肉力量由横截面积决定。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c21b0450431e0e8f8b00008c00c0c883_720w.jpg?source=8673f162" alt=""></figure>
+<p>下图中，上方是一根普通尺寸的小动物骨头，下方那个比例极其夸张的粗骨头正是伽利略用来形象解释<strong>平方立方定律的举例说明。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-327b3a2734d3ddcbbcb276df90c364c8_720w.jpg?source=8673f162" alt=""></figure>
+<p>（“...<em>disegnai già la figura di un' osso allungato solamente tre volte, & ingrossato con tal proporzione</em>...”）翻译过来大致是：“为了给我的观点举个简短的例子，我已经画了一根仅仅拉长了三倍的骨头。但为了让它能在大型动物体内发挥和小型动物骨头一样的支撑作用，它的粗度必须按（平方立方）比例大幅增加……”。</p>
+<p>如果把大象无限放大，体重的增长速度会远远超过四肢骨骼强度的增长速度。一旦超过临界点，骨骼材料的物理强度就无法承受自身的重量，动物即使只是站立骨骼也会断裂<sup>[2]</sup>。鲸鱼生活在水中，身体密度与水接近，水体提供了中性浮力。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8320439327f9c22112d646c260758247_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种浮力几乎完全抵消了重力，鲸鱼不需要粗壮的骨骼来支撑体重，从而避开了平方立方定律在承重方面的物理约束。</p>
+<p>不仅是浮力允许鲸鱼变大，水生环境实际上在强制哺乳动物变大。水的导热速度约是空气的 25 倍。哺乳动物是恒温动物，需要维持固定的体温。</p>
+<p>2018 年一项针对数千种哺乳动物化石和现存物种的演化研究表明<sup>[3]</sup>，海洋环境对哺乳动物的体型施加了严格的下限要求。</p>
+<p>下面图 A 揭示了体型大小面临的两个致命极端：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cc616e6aa9245f47bfd36ff4bfec17f3_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果你体型太小（横坐标最左侧），蓝色的“热量流失线”就会高过黄色的“进食摄入线”，意味着你在冷水里漏热的速度比干饭补充能量的速度还快，下水就会冻死。而如果你体型无限制地变大（横坐标最右侧），绿色的“基础代谢消耗线”最终会反超进食线，意味着你每天拼命吃都不够维持庞大身躯的基本开销，最终会被活活饿死。</p>
+<p>而上图图 B 中，把吃进来的能量减去消耗和散失的，画出的那条像山峰一样的棕色曲线，就是动物的“能量盈余区”（即生存舒适区）。</p>
+<p>你可以看到，下方那些蓝色柱状图代表的现存海豹、海豚等真实动物的体重分布，全都扎堆在这座“盈余山”的峰顶及周围。</p>
+<p>在海里，太小了冻死，太大了饿死（除非像须鲸那样开了滤食的外挂），不然大家只能被迫“内卷”到这个那个“完美”体型区间里。</p>
+<p>下图为露脊鲸的滤食方式（Werth，2000）：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7a690c2bc4ba4d964f166ce459c663e9_720w.jpg?source=8673f162" alt=""></figure>
+<p>维持如此巨大的体型需要庞大的能量输入。大象吃陆地上的草本植物和树叶，这些食物的能量密度很低。大象每天要花 15 到 20 个小时四处走动进食，在重力环境下拖动沉重身躯的能量消耗极高。鲸鱼采用的是滤食策略。</p>
+<p>2019 年一项利用传感器追踪鲸鱼进食行为的研究证实<sup>[4]</sup>，滤食机制是支撑鲸巨型化的绝对前提。蓝鲸会在三维水体中冲刺进入高密度的磷虾群，瞬间吞下等同于自身体积的海水，然后将水排出留下食物。磷虾富含脂质，能量密度极高。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e34ac961bfddb8601953320adc1078d2_720w.jpg?source=8673f162" alt=""></figure>
+<p>研究表明蓝鲸这种单次大规模吞噬带来的能量收益远远超过了冲刺所消耗的能量。大象在二维的草原上缓慢咀嚼低热量植物，鲸鱼在三维的海洋里批量吞咽高热量食物，摄食效率决定了两者生物量累积的上限。</p>
+<p>当然，鲸也不是一开始就这么大。化石记录显示，在几千万年的地质时期内，须鲸的体长基本保持在 10 米以下。它们直到距今约 300 万到 500 万年前的时期才演化出现在的巨型体型<sup>[5]</sup>。</p>
+<p>图表的左半部分记录了过去 4000 多万年里各类鲸鱼化石的体长分布，其中倒三角代表远古的长着牙齿的须鲸祖先，圆圈代表后来长出鲸须的须鲸。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-249cd0662d9c040a4e0cb241deea6925_720w.jpg?source=8673f162" alt=""></figure>
+<p>你可以看到，在漫长的地质历史中，绝大部分点都委屈地挤在 10 米以下的区域；图中的黑灰白阴影带是科学家模拟的正常演化区间，现代鲸类（图表最顶端 0 刻度上的那些圆圈）完全打破了这个规律，5 米以下的小个子被无情淘汰了，10 米以上的巨无霸却扎堆出现。</p>
+<p>这种突然开挂的原因就藏在图表右半部分的红色曲线上：它代表了地球的古气温变化（通过氧同位素测定，数值越高代表温度越低）。</p>
+<p>就在距今大约 300 万到 500 万年前，随着红线向右大幅偏转，地球急剧降温进入冰川期（触发了海洋涌升流和密集的磷虾群），恰恰就在同一条时间水平线上，须鲸的体长仿佛瞬间解除了封印，猛地向外扩张，一路狂飙成了今天的海洋巨兽。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2007787270053328648">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788021</guid><pubDate>Fri, 06 Mar 2026 01:45:43 GMT</pubDate></item><item><title>鸟类筑巢有什么讲究吗？有没有什么特别奇葩的鸟巢？</title><link>http://daily.zhihu.com/story/9788031</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-a05f48754d4935be04a9ccc631b317d9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-af2454c62423a7ca9db5224ef2efc2a0_l.jpg?source=8673f162">
+<span class="author">三眼乌鸦，</span><span class="bio">科学为根，艺术为形，历史为线。 用图像与文字编织生命长卷。</span>
+<a href="https://www.zhihu.com/question/15671993284/answer/2008984382413760194" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>白鹳的窝就十分奇葩，大得离谱，又大又重。</p>
+<p>恨不能把树压垮了，把房顶压塌了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ed9f8a41712ec061c5256c719427fa01_720w.jpg?source=8673f162" alt=""><figcaption>白鹳巢重量从数百公斤到约 1 吨，取决于使用年限，是时间堆出来的巨巢。</figcaption></figure>
+<p>找不到合适的，电线杆子也不是不可以。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cba0f5d87dfda7866893f312ed958553_720w.gif?source=8673f162" alt=""></figure>
+<p>城堡的塔楼那再好不过了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ab6de44886f879f692bb05d5a64ea29_720w.gif?source=8673f162" alt=""></figure>
+<p>白鹳这样的犟种，不懂打一枪换一个地方的道理，就爱在一个地方死抗。</p>
+<p>常年累月的在一个地方反复加固。</p>
+<p>生怕窝不够大，生怕被周围的鸟给比下去了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca3655fdbd4432b58c846afcdb40016e_720w.gif?source=8673f162" alt=""></figure>
+<p>一米的鸟要做两米的窝。</p>
+<p>只要窝不垮，就往死里加，没有困难制造困难。</p>
+<p>天天给自己上强度。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-641c2f3a0e92978e839550bda6bb4255_720w.jpg?source=8673f162" alt=""><figcaption>材料不够，垃圾来凑。</figcaption></figure>
+<p>好了，现在崽孵出来了，一看，还是一双。</p>
+<p>一天天长大了，你猜怎么着？</p>
+<p>这么大的窝还怕住不下，硬是把老二给弄死了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-30e53622402b23ce515ac31b6e99af0f_720w.gif?source=8673f162" alt=""><figcaption>亲鸟驱赶弱雏并非异常，而是白鹳常见的雏群缩减策略。白鹳通常产 3–5 枚卵，孵化不同步导致雏鸟体型差异明显；在食物不足或竞争激烈时，强雏更易获得喂食，弱雏则可能死亡或被亲鸟抛弃。该机制通过将有限资源集中于存活概率更高的个体，提高至少部分后代的繁殖成功率。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-287f569a93a4d4460901fb836e50d820_720w.jpg?source=8673f162" alt=""><figcaption>海景巢</figcaption></figure>
+<hr>
+<p>和白头海雕相比，白鹳的窝就不够大了。</p>
+<p>白头海雕站在悬崖上，俯瞰那庸俗的芸芸众鸟。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4dbeeea6153de690a0e6542933d05d93_720w.jpg?source=8673f162" alt=""></figure>
+<p>一哩哇啦，蝇营狗苟。</p>
+<p>为了一口小鱼，厮打纠缠，</p>
+<p>白头海雕不自觉的眯起眼睛。</p>
+<p>鹰目环视，海里岸上，悬崖森林无一不清清楚楚。</p>
+<p>看看那些简陋至极的茅草窝，随便将就着，苟且着。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9f02b105a6e0d4ffd2ffffa14998c8ff_720w.gif?source=8673f162" alt=""><figcaption>普通燕鸥巢极为简单，基本就是地面浅坑，少量碎石或草有时甚至什么都没有。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a581833d0c730bfd1a9a92291c84a852_720w.gif?source=8673f162" alt=""><figcaption>环嘴鸥多在捕食者较少、视野开阔的岛屿繁殖。通常只是刮出浅坑，随意铺些枯草与羽毛便算成巢。卵与砾石颜色相近，主要依靠伪装和群体警戒来抵御捕食者。</figcaption></figure>
+<p>小窝孵不出大鸟。</p>
+<p>要么就不做，要做就做最大的！</p>
+<p>打定主意，万千林海中，一眼相中一棵古朴巨树。</p>
+<p>纯白夹杂褐色羽毛的巨翅一震，登时扑向林中。</p>
+<p>不要看白头海雕平日体大笨拙，干起活来可不惜力。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b8789e6f07039b0a774e928d37c16dad_720w.gif?source=8673f162" alt=""><figcaption>在繁殖季到来前，成对海雕会共同返回旧巢或选择新址，一起搬运树枝、草、苔藓等材料，不断加固结构。协作筑巢既构建繁殖平台，也强化配偶关系，为后续产卵、孵化与育雏奠定基础。</figcaption></figure>
+<p>两口子你一口我一口，树梢上的宫殿渐渐有了模样。</p>
+<p>别家的鸟窝就没想着长期用，无非是临时将就。</p>
+<p>白头海雕这可是下了血本，一窝传三代。</p>
+<p>尽挑好材料使，别以为做得大就不较真。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a85d91d5087c2e0a4d896d67eb01eeaf_720w.gif?source=8673f162" alt=""><figcaption>新筑一座白头海雕巢，是一项持续数月的体力工程。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-47eae66a36a930e8ad30d2b871c4b28d_720w.gif?source=8673f162" alt=""><figcaption>从第一根枝条到形成可用繁殖平台，往往需要约 3 个月的反复叠加与维护。对白头海雕而言，新筑巢的成本极高，长期重复利用旧巢便成为更优策略。</figcaption></figure>
+<p>一年年过去，窝越盖越大。</p>
+<p>目前的记录是 2 吨<sup>[1]</sup>，相当于一辆轿车挂在树冠上，就问你走过怕不怕祸从天降。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a421622c4533dd956eff2ea8450d29aa_720w.jpg?source=8673f162" alt=""><figcaption>某些巢可持续使用 35 年，年复一年在旧巢上翻修与加固</figcaption></figure>
+<hr>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-315d1c6df48796f877b1d847e770bd21_720w.gif?source=8673f162" alt=""></figure>
+<p>虽然这两个都很大，但是要论规模，火烈鸟秒杀二者。</p>
+<p>很多类似大规模群居的鸟类，无非是浮皮潦草的就近做个小窝。</p>
+<p>火烈鸟偏不。</p>
+<p>火烈鸟做窝的斗志，比铁匠的火炉还旺盛。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-42903374edfeadacdfe61658a0f657ab_720w.gif?source=8673f162" alt=""></figure>
+<p>这不是单打独斗，这是一场集体的狂欢。</p>
+<p>单个的火烈鸟自然是比不过白鹳，更比不上白头海雕。</p>
+<p>可是集体的力量是无穷的。</p>
+<p>何况这是一个几十万，上百万的群体<sup>[2]</sup>。</p>
+<p>飞起来可以遮天蔽日，落下来可以翻江倒海。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-76b616262d463a14bff9121fb56f1064_720w.jpg?source=8673f162" alt=""></figure>
+<p>体内的繁殖节律吹响了无声的集结号。</p>
+<p>必须在水位变化与迁徙到来之前，完成孵化与育雏。</p>
+<p>一步慢，步步慢。</p>
+<p>这个代价谁也付不起。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5c2e2b4763c41b76b7a8d1b4f79400d8_720w.gif?source=8673f162" alt=""></figure>
+<p>没有指挥官，也没有监工者。</p>
+<p>没有一只鸟偷懒，个个争先恐后。</p>
+<p>一座用泥土筑起的水上城市，拔地而起。</p>
+<p>从高空看去，仿佛是铺展在水面的蜂巢。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-10f88cc4a6e208fd590893d7f4d59a15_720w.jpg?source=8673f162" alt=""></figure>
+<p>但如果筑巢时间和节律不一致，将酿成惨剧。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-77f569f0b6686b691f0674fc1ff3bf34_720w.gif?source=8673f162" alt=""><figcaption>小卡奇盐沼位（Little Rann of Kutch）于印度古吉拉特邦西部，季风期低洼地被淹没形成浅水盐湖与泥滩，旱季则干裂为盐壳荒原。周期性淹没与蒸发造就高盐却富饵的生态环境，使其成为亚洲重要的火烈鸟繁殖地之一。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-454a6b07aab71d8247ed07e81cbce6c0_720w.jpg?source=8673f162" alt=""><figcaption>火烈鸟通常在 6 月中旬抵达，群体规模从数千到数十万只，历史记录显示其在该地区繁殖已逾百年。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ee7cf1aada6c315c52c381dbfff2e25b_720w.jpg?source=8673f162" alt=""><figcaption>鸟巢密集排列如水上城镇，然而繁殖高度依赖季节水位。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-08341488c13120e18da2de4b6aaa35fb_720w.jpg?source=8673f162" alt=""><figcaption>2015 年 2 月，小卡奇盐沼因水体快速干涸出现大规模弃巢事件。成因在于繁殖后期降雨骤减，1–2 月累计不足 1 毫米，同时干热东北风与低湿度加速蒸发，使浅水湿地迅速消失。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b0b3093a71033a93589bcc6f3f910e2b_720w.jpg?source=8673f162" alt=""><figcaption>盐沼提前干涸，导致整片巢区被迫废弃，显示出这种宏大群体工程背后的环境脆弱性。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a91080d0b324cd7e5f9d83ed34e969dd_720w.jpg?source=8673f162" alt=""><figcaption>留下大量永不孵化的蛋</figcaption></figure>
+<hr>
+<p>现在自然有个问题，鸟类筑巢是怎么演化出来的？</p>
+<p>鸟类筑巢是从浅坑产卵到结构化巢体的连续演化过程，其背后推动力是亲代照护的加深与雏鸟依赖的增强<sup>[3]</sup>。但其中也有很多变体，比如有的鸟完全不筑巢，有的则采取巢寄生的方式，我们讨论的重点在筑巢鸟上，其他不做过多展开。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4fda36213713fadb8ee050905a778976_720w.jpg?source=8673f162" alt=""><figcaption>白胸翠鸟（Halcyon smyrnensis）常在河岸、土坡或沙质堤壁中主动掘洞筑巢，洞道长度通常约 50–90 cm，末端扩展为孵化室。中国主要分布在华南地区，国家二级。</figcaption></figure>
+<p>多项跨物种研究显示，筑巢与产卵、孵化、育雏共同构成连续的繁殖行为链，其核心功能是提高卵与雏鸟的存活率，而非单纯提供栖息空间。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f5ebf6d4704816658cb4f8ab1dda8cec_720w.jpg?source=8673f162" alt=""><figcaption>非繁殖期以下丘脑 - 垂体 - 性腺轴（HPG axis）驱动的繁殖激活处于低水平；进入筑巢与产卵阶段后，雌二醇（E2）与促黄体生成素（ LH）等 HPG 轴信号上升以推动产卵进程，同时催乳素（PRL）与间催产素（mesotocin, MT）逐步升高，强化孵化与亲代依附，使个体由求偶 / 繁殖动员转入以照护为主的行为模式。</figcaption></figure>
+<p>对鸟类亲代行为的综合分析表明，筑巢受到神经 - 内分泌机制调控，与繁殖激素周期同步出现，说明它是亲代投资的早期阶段，并不是后期附属行为<sup>[4]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5240fc6b6044060859b1e641dfe306aa_720w.jpg?source=8673f162" alt=""><figcaption>三条曲线分别代表催乳素（PRL，绿）、睾酮（T，橙）与间催产素（MT，蓝）的动态变化：非繁殖期 T 较高而 PRL 与 MT 较低；进入筑巢与产卵阶段后，PRL 与 MT 迅速上升并在孵化期维持高值，反映亲代照护与依附增强；同时 T 显著下降并保持低水平，体现个体由求偶竞争向育雏投入的行为转变。</figcaption></figure>
+<p>鸟巢复杂度的演化与雏鸟发育模式密切相关。跨鸟类的比较研究发现，雏鸟属于晚熟型（altricial）还是早熟型（precocial）是决定亲代照护强度与合作模式的关键变量<sup>[5]</sup><sup>[4]</sup>：</p>
+<blockquote>晚熟雏鸟孵化时通常裸露、运动能力弱且需长期喂养，因此双亲合作照护更常见，巢往往表现出更稳定复杂的结构或者在选址上更加讲究；<br>而早熟雏鸟孵化后即可移动，对巢依赖较低，亲代冲突更强，巢结构相对简单。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-50de86989ab2cf05b9f7bc60999ea727_720w.jpg?source=8673f162" alt=""><figcaption>家鸡（早熟型）与非洲灰鹦鹉（晚成型）对比：家鸡筑巢简单、窝卵数多、孵化期约 21 天，雏鸟出壳后很快离巢并跟随亲鸟活动；灰鹦鹉则多利用树洞、窝卵数少、孵化期更长（31-43 天），雏鸟需在巢中依赖亲代数月。</figcaption></figure>
+<p>这种差异说明巢演化的核心驱动力之一，是雏鸟对保护与能量输入的需求差异<sup>[4]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-72b5b6c06ba0e197fd3399826b8f5451_720w.gif?source=8673f162" alt=""><figcaption>大嘴乌鸦（Corvus macrorhynchos）雏鸟孵化时裸露、运动能力弱且依赖长期喂养，促使亲代在高处构建稳定枝巢。体现了晚熟发育 × 高认知 × 强亲代投资的典型组合。</figcaption></figure>
+<p>亲代供养的强化还对鸟类认知与生活史产生深远影响。基于 1176 种鸟类的系统比较分析显示，供养时间、供养者数量与雏鸟发育模式是预测脑容量差异的最重要变量。长期依赖巢与亲代供养的晚熟鸟类，其相对脑容量显著更大，表明筑巢与供养行为不仅提升繁殖成功率，还通过提供稳定发育环境，使昂贵的神经组织得以演化。这一结果将鸟巢从繁殖结构扩展为认知演化的间接推动因素<sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ea4bcc2ca292b5ce66bd9f3a39937a0_720w.jpg?source=8673f162" alt=""><figcaption>脑大小主要随亲代供养增加，而生态变量影响较弱：A 两组线显示早成鸟（橙）中窝卵数越多脑越小，晚成鸟（蓝）变化较弱；B 晚成鸟（蓝）喂养时间越长脑越大，早成鸟（橙）关系较弱；C 留鸟（sedentary）脑略大于迁徙鸟（migratory）；D 树栖觅食（arboreal）物种脑略大于其他。</figcaption></figure>
+<p>在生态层面，巢型的多样化反映了捕食与气候压力的双重选择<sup>[7]</sup>。鸟巢本身可被视为一种多维度的繁殖结构，其差异既体现在形态，也体现在空间位置<sup>[8]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f5865b3b900e972a93ac7b23b38fd5b9_720w.gif?source=8673f162" alt=""><figcaption>大斑啄木鸟（Dendrocopos major）繁殖季由雄鸟（有时雌雄协作）在枯立木或软木质树干中凿洞，洞道通常约 20–40cm 深，末端扩展为圆形孵化室。是典型的挖洞并筑巢（Excavator with nest）类型。</figcaption></figure>
+<p>宏观比较研究通常将鸟类巢结构划分为 9 种基本类型：</p>
+<blockquote>无巢（None）：不筑巢，部分海鸟直接将卵置于岩面或裸基质；<br>浅坑巢（Scrape）：鸻鹬、燕鸥在沙地或砾石滩刮出浅凹产卵；<br>平台巢（Platform）：鹳类与猛禽以粗枝堆叠形成大型平面巢基；<br>杯状巢（Cup）：鸣禽常编织草叶与纤维形成碗状巢杯；</blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1e25dba14ace305ca1545b9329ccb365_720w.jpg?source=8673f162" alt=""><figcaption>棕额扇尾鹟（Rhipidura rufifrons）构建精致的小型杯状巢。巢体由草茎、树皮纤维和细根编织而。</figcaption></figure>
+<blockquote>穹顶巢（Dome）：鹪鹩等在杯巢外加顶形成封闭腔室；<br>穹顶管道巢（Dome-and-tube）：织布鸟等悬挂袋状巢并带入口通道；<br>挖掘巢（Excavation）：翠鸟、沙燕在土壁或沙坡中掘洞繁殖；<br>洞穴改造巢（Cavity modifier）：山雀利用树洞并铺垫材料形成巢面；<br>挖洞并筑巢（Excavator with nest）：啄木鸟先凿洞，再在洞内铺设巢基。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-14dea2ad2d4bf100acc67d5a084a0dbd_720w.jpg?source=8673f162" alt=""><figcaption>北美红腹啄木鸟（Melanerpes carolinus）在树干中凿洞，孵化室底部铺以木屑与少量植物碎屑。</figcaption></figure>
+<p>这些结构沿着暴露—封闭的连续梯度变化，对应着不同的捕食防御与微气候调节能力。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-62b282799b4c38319f3dd649d02dc4d6_720w.jpg?source=8673f162" alt=""></figure>
+<p>同时，巢址选择同样呈现系统差异，包括地面、岩面、植被、树洞、人工结构及水体附近等多种位置。地面与开放植被巢往往依赖伪装与群体警戒，而树洞或岩洞巢则通过物理隔离降低捕食风险并稳定温湿环境。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c6fe5d2aa1659553f36bed4a8f29b4dc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e266a20b5bba44183bbae4862e1573b6_720w.jpg?source=8673f162" alt=""><figcaption>a：平台巢、浅坑巢和无巢物种体型较大，杯巢与穹顶类多为小型鸟；b：水域与地面繁殖物种较大，植被与洞穴巢物种较小；c：开放巢（浅坑、平台）手翼指数较高，穹顶类较低；d：水域与岩石繁殖物种飞行能力较强，植被巢物种较弱。</figcaption></figure>
+<p>结构与巢址并非独立变量，而是共同构成繁殖策略的核心维度：某些类群以简单巢配合隐蔽巢址，而另一些则通过复杂结构弥补环境暴露。正是在这种结构复杂度 × 空间位置的组合框架下，鸟巢展现出高度多样化，并为后续关于捕食压力与气候选择的演化解释奠定基础<sup>[8]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-659f36e67e1439f8be4e4e1debd357a8_720w.gif?source=8673f162" alt=""><figcaption>大山雀（Parus major）利用天然树洞繁殖，入口狭小显著降低蛇类与哺乳动物捕食概率，是温带森林洞巢的代表。</figcaption></figure>
+<p>对 7427 种鸟类的全球比较研究显示，封闭巢总体与捕食风险显著相关，其中穹顶巢更强地指向反捕食压力，而洞巢在捕食之外还明显体现微气候缓冲（如干旱、低温）作用。总体上捕食是主要驱动，微气候是第二重要因素。这表明巢不仅是亲代投资的结果，也是生态环境直接塑造的适应结构<sup>[7]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b9244ceef1f8fd7515a7c6f3aafa3e77_720w.gif?source=8673f162" alt=""><figcaption>欧亚鹪鹩（Troglodytes troglodytes）用苔藓与枝叶构成球形穹顶巢，仅留侧孔入口，与环境融为一体，显著降低卵和幼鸟被视觉捕食者发现的概率。</figcaption></figure>
+<p>生活史研究进一步揭示，延长亲代照护与巢依赖密切相关。对不同纬度雀形鸟的比较表明，热带与南半球物种普遍具有更长的育雏期和延迟离巢行为，这种慢生活史策略与较高成鸟存活率相联系。延迟离巢意味着巢作为发育环境的作用延长，也促进巢址忠诚与巢结构叠加等行为出现，为巨巢或长期巢的形成提供条件<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cf8774990c99bf501ee7f27e46cb6945_720w.gif?source=8673f162" alt=""><figcaption>褐拟椋鸟（Montezuma Oropendola）在高大乔木枝端群体悬挂细长袋状巢，巢体由植物纤维编织而成，长度可达数十厘米以上。巢口位于上部侧面。</figcaption></figure>
+<p>综合这些证据，可以将鸟类筑巢的演化理解为一个多因素协同过程：</p>
+<blockquote>1.雏鸟发育模式决定亲代投资需求，推动巢从简单刮坑向结构化巢演化；<br>2.亲代供养的持续加强不仅提高幼体存活，还促进脑容量与复杂行为的发展<sup>[6]</sup>；<br>3.捕食与气候压力塑造巢型多样性，使巢在隐蔽、防护与微气候调节之间分化<sup>[7]</sup>；<br>4.慢生活史与延迟离巢进一步强化巢的长期使用与稳定性<sup>[3]</sup>。</blockquote>
+<p>巢从最初的卵保护装置逐步转变为微气候系统、反捕食结构和发育平台，其复杂性在不同谱系中以不同形式表现，但都指向同一核心：随着亲代照护不断加深，繁殖成功越来越依赖于对空间的主动改造。</p>
+<hr>
+<p>回头再看那些夸张到近乎离谱的巨巢，其实只是同一演化逻辑的不同投影：</p>
+<p>白鹳把慢生活史沉淀在巢址忠诚中，一年年叠加重量；</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-81e8f1890161ab9983e4031400eb3408_720w.jpg?source=8673f162" alt=""></figure>
+<p>白头海雕以高亲代投资换取长期稳定的大型平台；</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b2f8399222a3ae190c34d20737998e76_720w.jpg?source=8673f162" alt=""></figure>
+<p>火烈鸟则在捕食与环境压力下，把个体需求放大为群体工程。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-49e0864c1b585bf8f58e85c27c587f03_720w.jpg?source=8673f162" alt=""></figure>
+<p>它们看似风格迥异，却都指向同一个答案：</p>
+<p>巢是亲代投资、生态压力与时间共同塑造的繁殖结构。</p>
+<p>鸟巢无论大小与复杂程度如何变化，其背后始终运作的，都是同一套演化机制。</p>
+<hr>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/15671993284">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788031</guid><pubDate>Fri, 06 Mar 2026 01:45:44 GMT</pubDate></item><item><title>为什么又重又硬的木材，多产于热带地区？</title><link>http://daily.zhihu.com/story/9788039</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-eb647318346023d7e0ad927960ece774.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-5dce0048daa0e6a8b994e11378ec1d82_l.jpg?source=8673f162">
+<span class="author">冯海峰，</span><span class="bio">以史为鉴全球化、经济史、科技史视野助力理解企业信息化</span>
+<a href="https://www.zhihu.com/question/14947260397/answer/2008885786066584499" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>1、<strong>最核心的原因：热带白蚁等虫蛀、真菌、细菌侵蚀更厉害。而温带、寒带等地区没这么高的防护要求。不需要特别强化相关能力，一般强化即可。</strong></p>
+<p>2、这些热带又重又硬的木材其实是取的心材，不是整棵树都这样。心材外面的边材活性高，相对比较松软。</p>
+<p>3、热带植物种类多，也有很多硬度中等而且耐腐蚀性一般的木材。甚至，轻木（巴沙木）是世界上最轻的木材原产地就是热带。</p>
+<p>一、木材对应树种的情况。（是什么）</p>
+<p>符合提问范围的热带硬木，例如东非黑黄檀、可乐豆木，气干密度大于 1，硬度非常高，切削都费刀。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a8994e4e5f029a95de22e549b6db06c1_720w.jpg?source=8673f162" alt=""><figcaption>《进口木材原色图鉴》第二版</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c820b0ae35a503c7b681722d2aa32099_720w.jpg?source=8673f162" alt=""></figure>
+<p>热带也有大量气干密度低于 0.6 的普通木材，例如苏门答腊八果木，气干密度只有 0.3。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a17167fa9b457537dd34b1714924b1b5_720w.jpg?source=8673f162" alt=""></figure>
+<p>而中国北方常见的硬杂木水曲柳，气干密度 0.6-0.72。比很多热带、亚热带的木材硬度还要稍高。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0427cb31f7ff4246e1315d36c2e63262_720w.jpg?source=8673f162" alt=""></figure>
+<p>二、不同地理环境导致的不同生长策略（为什么）</p>
+<p>1、热带植物总量大品种多，生物多样性更大。有更多的树选择了木质化过程中，通过营养输送组织逐渐向树心填充单宁、树脂在内的各种防腐、防虫的有机物质，抵御包括白蚁和各种病菌、真菌的侵袭。这些树的生长策略是缓慢、极为坚固。</p>
+<p>2、相比热带，我国华北、东北和类似环境下白蚁这种南方著名的昆虫数量很少，虫蛀、真菌和细菌侵染情况比热带轻很多。这样在满足结构强度的前提下，没有形成向心材里过多填充抗虫耐腐有机质，进一步提升心材密度的生理机制。</p>
+<p>所以日常我们见到名贵家具用的红木或类似硬木都是热带产的。这些热带硬木在人类没有发明电木、工程塑料之前，形成的坚固稳定的自然材料。</p>
+<p>3、而生长缓慢就导致参与阳光、水分的竞争就慢，数量少。所以还有很多热带树利用其它生存策略，木质化加适当有机质填充，确保生长速度较快。</p>
+<p>最极端的例子，轻木（巴沙木）是世界上最轻的木材，原产地在美洲热带，分布于玻利维亚、墨西哥南部、秘鲁、西印度群岛等热带国家的低海拔地区。其密度仅为 0.1 克 / 立方厘米，具有极好的隔热和隔音性能，经常被用于风力发电扇叶的填充物。以快速长大、长高为标准。4 年生轻木（4 年即可成材）平均胸径为 27.7 厘米、茎干高度为 5.8 米、茎干材积为 196.0 立方米 / 公顷。年份再就可以继续长粗，适当长高。这种生长速度能比得上最高大的禾本植物，竹子了。</p>
+<p>有些产硬木的树为了竞争，用毒去扫荡周围，清场后慢慢享受阳光。例如，中国海南的见血封喉。但有一些剧毒的树做过了，剧毒的落叶和落地的果实累积到一定程度将自己也能毒死。</p>
 <p>参考资料：</p>
-<p>1Flying and swimming animals cruise at a Strouhal number tuned for high power efficiency</p>
+<p>1、《进口木材原色图鉴》第二版 郭喜良，冉俊祥主编 上海科学技术出版社</p>
+<p>2、国际木材数据库（The Wood Database） <a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.wood-database.com/wood-filter/%3Ffwp_wood_type%3Dhardwood%26fwp_average_dried_weight%3D59.00%252C89.00%26fwp_janka%3D2447.00%252C4630.00" target="_blank" rel="nofollow noreferrer">Wood Filter | The Wood Database</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/662392039">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/14947260397">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9787996</guid><pubDate>Thu, 05 Mar 2026 19:12:29 GMT</pubDate></item><item><title>听说「三九天不冷，必定倒春寒」，这句话是真的吗？如果是真的，从气象学角度该如何解释？</title><link>http://daily.zhihu.com/story/9788002</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-ea942f50aa65d306998782052e4f2a4b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788039</guid><pubDate>Fri, 06 Mar 2026 01:45:45 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788090</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-1fc8e2f6bcfedee537545bb7386dff0d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -125,229 +307,49 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 媒体断章取义的水平可以有多高？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
-<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
-<a href="https://www.zhihu.com/question/2007508008423420073/answer/2007757836449511144" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p><strong>假的不能再假了</strong>。期待现在的天气来影响数月之后的环流本身就是不切实际的，根本不可能发生。因为过了数月之后大气环流完全就刷新了，冬季和春季的环流形势又不是共用同一个的。</p>
-<p>这个谣言错误的引入了能量守恒原理，<strong>认为一个冬季必须要全部冷，只要有一个时期不冷就要让春季补回来</strong>。但实际上这本身就是不科学的，因为从目前来看冬季不可能全程不回暖，而且倒春寒几乎每年都会来，按照这个意思难道年年暖和？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-50cabb746b0cdedc5e10aa8ea2e20d44_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>大气环流的记忆是短暂的，阻塞高压才是倒春寒形成的关键</strong></p>
-<p>从气象学角度上来看，大气环流对任何特定的天气都只有短暂的记忆能力，因为大气环流本身就是流体动力学的产物之一。当三九期间出现异常偏暖时，通常意味着控制东亚地区的西风急流相对平直、位置偏北或者是出现了异常强盛的暖性高压。<strong>但这种环流配置是短时间的</strong>，可能下一轮寒潮一来这个环流形势就被刷新了，根本留不到春季之后。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-750ef77c7bcc68eadf6cdbeb7af98e2f_720w.jpg?source=8673f162" alt=""></figure>
-<p>而且倒春寒跟冬季的气温几乎没有关系，它的形成机制是与西风带中的一种持久性的环流异常，也就是阻塞高压直接相关的。而阻塞高压的形成又涉及到了一个波流相互作用的一复杂过程。具体来说当西风基本流较弱或存在经向温度梯度异常时，<strong>行星尺度的罗斯贝波容易在特定地区振幅加大并趋于静止，从而形成一个准静止高压系统</strong>。维持过程主要依赖高空辐合下沉运动带来的绝热增温以及波能通量的持续汇入。</p>
-<p>一般来说会直接影响到我国的阻塞高压通常是在乌拉尔山以及鄂霍次克海等区域的，这两地的阻塞高压建立时会直接改变冷空气的活动方式，它会迫使西风急流发生大幅度的南北分支，从而形成一个稳定的经向环流。其东侧以及东南侧深厚的偏北气流，<strong>会成为引导极地或西伯利亚强冷空气南下的稳定传送带</strong>。这与快速东移的冷锋是不同，因为在阻塞形势之下冷空气能够大范围、深层次且长时间的中低纬度地区。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-2bb75b8ff4797c4096e39e9f293a34bc_720w.jpg?source=8673f162" alt=""></figure>
-<p>还有就是由于阻塞高压系统本身的移动速度极其缓慢，其诱导性的低温、阴雨（雪）过程通常可以持续数周甚至一个月，这一过程会给农业生产构成严重威胁，特别是春季作物已经进入萌发或开花期时。而这才是气象学上关于倒春寒的标准以及典型过程，<strong>核心在于春季大气环流自身动力调整的即时产物</strong>，主要还是阻塞高压等影响，这与冬季的气温变化没有任何关联，关于西风带与阻高的在下面也讲过↓</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1969710843659805344/answer/1971512103375475245?share_code=gpD8YSgfPF5M&utm_psn=2007757025388537214">气象学上如何定义西风带的『野性』？这种野性具体体现在哪？为何它一旦野起来，就会引发一系列极端天气？</a></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-351ab460101b88a5708a008b6a7cf10e_720w.jpg?source=8673f162" alt=""><figcaption>一是典型的乌拉尔山阻塞形式</figcaption></figure>
-<p><strong>为什么有时还真的那么准呢？这其实是其他气候系统的影响</strong></p>
-<p>不得不承认的是，有的时候三九温暖春季还真的会形成典型的倒春寒过程，但这和谚语本身没有任何关系，大家可以理解为是巧合。而巧合也是可以被解释的，以厄尔尼诺 - 南方涛动为首的大型气候系统是此类巧合主要的气候因子。在厄尔尼诺事件期间，赤道中东太平洋的异常暖海温就像是一个巨大的热源，<strong>能够激发并向北半球中高纬度传播特定形态的大气遥相关波列</strong>，这个准静止的行星波列可以持续影响冬季和春季的环流背景。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-052cae12d3319f4c9b5e10d588635839_720w.jpg?source=8673f162" alt=""></figure>
-<p>具体来说在厄尔尼诺年的冬季，其激发的大气波列通常倾向于使东亚大槽减弱且位置偏东，这会不利于强冷空气的频繁南下，从而增加了冬季整体偏暖以及三九不冷的概率。而进入春季之时，由于厄尔尼诺强迫产生的环流背景惯性仍然存在，但可能以另外一种方式体现。<strong>例如它会提高乌拉尔山地区出现高压脊和阻塞形势的概率</strong>，从而为春季冷空气的聚集和南下创造了潜在的环流条件。</p>
-<p>所以说在某些厄尔尼诺年份，我们先后观测到暖冬和倒春寒的过程，这本质上其实也是热带海温强迫信号在不同季节通过调制大尺度环流而产生的同源现象。类似的，秋季北极海冰的异常减少也可能通过改变欧亚大陆北端的热力情况，<strong>对随后的冬春两季环流系统产生复杂且不稳定的滞后影响</strong>。这种影响可能通过改变北极与中纬度间的温度梯度，从而间接影响西风带的稳定性，进一步影响寒潮的南下强度以及频率。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-acd6f0e71f56072d0f977a5f149a17ab_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>在变暖背景之下大气不稳定性将提升，靠谚语应对灾害是无用的</strong></p>
-<p>大家可能不知道的是，全球气候变暖，别是显著的北极放大效应，也会在系统性的改变中纬度地区大气环流的基础状态。这就会使得类似于“三九不冷，必有倒春寒”这种基于过去对稳定气候条件总结的局地经验会彻底失效。因为变暖的核心影响之一就是削弱驱动西风急流的经向温度梯度，从而直接影响冬季以及春季的环流形势。</p>
-<p>而经向温度梯度的减弱，也会使得西风急流整体减弱、更容易发生大幅度的南北摆动且移动速度也会减缓。直接后果就是，<strong>中高纬度持续性的环流异常事件的发生频率、强度与持续时间可能都会有所提升</strong>。在这种情况之下，冬季的天气会表现出更强大的复杂性，我们既可能经历因急流平整、冷空气活动偏弱引起的整个冬季持续性偏暖，也可能遭遇因急流发生剧烈波动、持久弯曲而引发的阶段性极端寒潮。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-125a18d10f8c7168447ca25e9c8c2235_720w.jpg?source=8673f162" alt=""></figure>
-<p>最为重要的是，西风急流的大幅减弱会直接影响极地涡旋的稳定性，而极地涡旋又是北半球冷空气的大本营。在这种情况之下极地涡旋就会失稳，极容易发生位移甚至是分裂等情况，<strong>从而使得巨量极寒冷空气深度南下给某一个地区带来一次极端寒潮过程</strong>。而在此之前则有可能伴随持久性的温暖，整体体现就是整个冬季的冷暖剧烈交替，从而使整个谚语完全失效。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0952d9164546bf9a7c0547c91a193e1b_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以「三九天不冷，必有倒春寒」就是一个极其典型的伪科学、混淆相关性与因果性的谣言，而且还错误的引入了能量守恒原理，误以为冬季必须每天都要冷。</p>
-<p>而且从气象学角度上来看，<strong>其实很多流传极其广泛且看似有道理的民间谚语都是存在问题的</strong>，甚至是「朝霞不出门、晚霞行千里」都存在明显错误，后续达到 500 赞将在此处为大家更新。</p>
-<p>以上（还没完）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8765e7203b3f70980dd99abd97c1171a_720w.jpg?source=8673f162" alt=""></figure>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2007508008423420073">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788002</guid><pubDate>Thu, 05 Mar 2026 19:12:30 GMT</pubDate></item><item><title>麒麟的生物原型可能是什么？</title><link>http://daily.zhihu.com/story/9788012</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5f6c5adc2cad3626b754407aa8f3e11d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-6078cb6a2541ea2207b9d08bb5d54864_l.jpg?source=8673f162">
-<span class="author">Tim Ji</span>
-<a href="https://www.zhihu.com/question/318575626/answer/2009056453055506092" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e564e3e7bbd7c09e7016861c279a131_720w.jpg?source=8673f162" alt=""><figcaption>中国核心区主要鹿科成员（漏了一个水鹿），按鼻尖位置左起：1.獐，2.马鹿，3.小麂，4.狍，5.梅花鹿，6.麋鹿，7.黑麂，8.白唇鹿，9.毛冠鹿；推荐读者先对左 1 獐子（麕）的体型和样貌留下个印象</figcaption></figure>
-<p>说实话，我是没想到这个问题下能开出这么多脑洞，连东亚灭绝超过两百万年的长颈鹿科都搬出来了<sup>[1]</sup>，而那个嫌疑最大的玩意反而一直没人提……</p>
-<p>先简单梳理下文献：甲金文中「麐」字均疑似用于人名先不论<sup>[2]</sup>，先秦至两汉关于动物「麐 / 麟」的外形描述，除了万恶之源《诗·周南·麟之趾》外，主要有三个独立来源，分别是下表中加粗的：</p>
-<ul>
-<li>《公羊传》：麕<sup>[3]</sup>而有角</li>
-<li>《尔雅》：麕身、牛尾、一角</li>
-<li>《封禅书》：双觡共抵之兽</li>
-</ul>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4b80331290a5af11a1fecd0a3de45602_720w.jpg?source=8673f162" alt=""></figure>
-<p>其中《尔雅》独角兽传统构成了后世文献主流，并在时代流变中逐步添加了“圆顶 / 角端戴肉”，“黄色”，“圆蹄马足”<sup>[4]</sup>，“羊头”等细节，最晚东汉时定型为<strong>“天线独角鹿”</strong>方案流行全国<sup>[5]</sup>：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ad22cacb280c657022cbbb47f5f7f140_720w.jpg?source=8673f162" alt=""><figcaption>东汉“天线鹿”麒麟造型，“圆顶”描述实现仍有球形、杯型、伞形等多种不同方案</figcaption></figure>
-<p>然而《尔雅》传统显然沾带了汇编辞书常见的出处不明、缝合、附会 + 神秘化问题，更别提《释兽》全篇的质量都相当糟糕<sup>[6]</sup>……该主流“独角”传统并无太高可信度，其“生物学”效力远远比不上能够指向具体“获麟”事件另外两则来源：</p>
-<ul>
-<li><strong>《公羊传·哀公十四年》：</strong></li>
-</ul>
-<blockquote>哀公十四年，西狩大野。叔孙氏之车士曰子锄商，采薪于大野，获麟焉，折其前左足，载以归。叔孙以为不祥，弃之于郭外。使人告孔子曰：“<strong>有麇而角者</strong>，何也？”孔子往而观之曰：“麟也。胡为来哉？胡为来哉？”<sup>[7]</sup></blockquote>
-<p>公羊传成书于景帝时期，一般认可有战国传习基础。该段落针对春秋鲁哀公十四年「西狩获麟」事件增补细节，其中包括简单明外观说明<strong>“长角的獐子”。</strong></p>
-<ul>
-<li><strong>《封禅书》：</strong></li>
-</ul>
-<blockquote>䆃一茎六穗于庖，<strong>牺双觡共抵之兽</strong><br><br>另《论衡·异虚》：汉孝武皇帝之时，<strong>获白麟，戴两角而共觝</strong>，使谒者终军议之。军曰：“<strong>夫野兽而共一角,</strong>象天下合同为一也”<br>另《论衡·讲瑞》：武帝使谒者终军议之，终军曰：“<strong>野禽并角</strong>，明天下同本也”</blockquote>
-<p>司马相如《封禅书》为武帝时一手文献，其中修辞部分应直接反映元狩元年汉武帝「获白麟」事件信息；东汉早期王充所著《论衡》中再次提及，并与武帝近侍终军针对白麟外貌的解读挂钩。「双觡共抵 / 戴两角而共觝」描述大致是针对强势“一角”传统的附会尝试；结合“并角、同本”、“天下合同为一”的解说，<strong>“双觡共抵 / 两角共觝”此处当理解为“双角并拢 / 同根</strong><sup>[8]</sup><strong>”</strong>。</p>
-<hr>
-<p>这里先不纠结鲁国 / 西汉捉到的两只倒霉蛋究竟是不是同一种动物，综合三传统提取最大公约数后，对战汉文献「麟」的共识性生物学描述最终还是会回归公羊传的核心要素，<strong>“长了角的獐子”</strong>。那么我们不经要问：獐子在外形上有什么特点？（此处可回顾下开头图例）</p>
-<ul>
-<li><strong>首先，獐是一种小型鹿类</strong>，体重 10-15kg；和华北一度常见，动辄上百公斤的梅花鹿，麋鹿，马鹿相比显得十分娇小；</li>
-<li><strong>其次，獐子不长角</strong>。作为一种形态较保守 / 返祖的小型鹿科成员，雄獐之间战斗会使用一种更原始的武器：</li>
-<li><strong>夸张的獠牙</strong></li>
-</ul>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-2d6d815e354b060a64b2743918d4b2c4_720w.jpg?source=8673f162" alt=""><figcaption>獐（Hydropotes inermis）雄性长有夸张的獠牙，雌性獠牙较短不露出口外</figcaption></figure>
-<p>实际上，獠牙正是獐子最为醒目的识别特征，只要近距离观察过的人都不会有异议。那么，在我们生活的现实世界里，是否有既像獐子（小体型、有獠牙）又长角的鹿呢？</p>
-<p><strong>有的兄弟，有的：</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-84465e5fd6ff5d6a86adf2ebdba89a98_720w.jpg?source=8673f162" alt=""><figcaption>鹿角生长起始阶段，软组织膨胀的小麂（Muntiacus reevesi）</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0b14e993438b77339486872964976e28_720w.jpg?source=8673f162" alt=""><figcaption>茸角萌出阶段的小麂（Muntiacus reevesi）</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-853110d8ae12cfc27489305e65b11a21_720w.jpg?source=8673f162" alt=""><figcaption>鹿角硬化完成的麂（Muntiacus sp.）</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-db915a6e64e0611b8854b0f8d265c869_720w.jpg?source=8673f162" alt=""><figcaption>夏季旧角脱落后，仅余颅顶角基的麂（Muntiacus sp.）</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e89a59186817ea16ad18f9aa96d0828c_720w.jpg?source=8673f162" alt=""><figcaption>毛冠鹿（Elaphodus cephalophus）角基不发达，鹿角较小且具有发达的冠毛</figcaption></figure>
-<p>麂族 Muntiacini 下 麂属 Muntiacus 和毛冠鹿属 Elaphodus 两属 15 种均具备<strong>獠牙、两段式鹿角、体型较小</strong>的共同特征。其中在中国核心区有明确晚近分布的至少有四种<sup>[9]</sup>，分别是小麂（<em>M. reevesi</em>），黑麂（<em>M. crinifrons</em>），赤麂（<em>M. vaginalis</em>）和毛冠鹿（<em>E. cephalophus</em>）。这些物种的的现代分布见下图：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bb224ca1f2afe19f5283cbd26ab16ae7_720w.jpg?source=8673f162" alt=""><figcaption>小麂（M. reevesi），黑麂（M. crinifrons ），赤麂（M. vaginalis）分布分别见蓝，红，橙色块；贡山麂（M. gongshanensis）为黑麂近缘物种，与前者或一度连续分布在整个长江流域</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e40b61e181110aab450a9b1c9052ea0d_720w.jpg?source=8673f162" alt=""><figcaption>毛冠鹿（E. cephalophus）分布</figcaption></figure>
-<p>除赤麂外，其余三物种均以长江流域为现代分布中心，其中体型较小的小麂（10-18kg）和毛冠鹿（20-25kg）主要分布于长江两岸山地，西北可突破秦岭进入关中、甘肃；而黑麂（20-25kg）历史上相对局限在长江以南，如今仅残存于浙赣皖山区。体型较大的赤麂（20-30kg）现代分布以珠江流域 - 东南亚为中心，但在长江流域也有全新世记录<sup>[10]</sup>；除了这四种今天依然活跃于中国境内的麂族物种外，全新世长江流域还曾存有一种相当神秘的大型麂：越南大麂（<em>E. vuquangensis/M. gigas</em>）。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-205be419b424eb1aa6591fd0f7d5eb60_720w.jpg?source=8673f162" alt=""></figure>
-<p>该物种直到 1994 年才在越老边境的长山山脉被发现并描述，为现存麂属物种体型最大者（30–50kg，接近狍）。考古发现该物种或近缘种（初被命名为 M. gigas）在长江流域也有历史分布，遗骸出土集中于浙江和湖北山区，长江种群大概在秦汉时期最终灭绝<sup>[11]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ef22b7850e3a3d2e4a0fb3b78b5bf0f0_720w.jpg?source=8673f162" alt=""><figcaption>三角为长江流域越南大麂遗骸出土地点，阴影为现存越南大麂分布范围；右侧文字为出土记录，年代最晚为湖北地区 2800-1800bp 案例</figcaption></figure>
-<p>麂族物种<strong>“以长江流域为中心，沿华北平原边缘的山地林区分布”</strong>的特征使它们很容易成为东部华夏人（包括鲁国人）眼里的珍禽异兽，同时我们也能注意到先秦文献中对麂类物种（或者说除了獐以外的其他小型鹿类）基本毫无提及<sup>[12]</sup>；综上，参考战汉外形描述，结合西汉麟趾金的典型鹿蹄造型，可以猜测春秋 - 西汉两次获「麟」祥瑞事件均高度疑似指向麂类物种。前一次主要出于山东人对麂陌生，留下了“长角獐子”的志异记录；后一次则是理应相对熟悉麂子的关中人，对白化个体的少见多怪。武帝以后「麟」的形象逐步完成神圣化，并且在“一角牛尾”的主流经注误导下向着幻想生物的方向一路狂奔，自然不可能和现实中反而逐渐为南拓汉人所熟悉的大小麂子们混为一谈。</p>
-<p>至于先秦人是否对相对常见的小麂毛冠鹿，少见的黑麂 / 贡山麂，以及极罕见的越南大麂有所认知区分，或是否曾把其中更罕见的中大型物种单独视作具有神性的「麟」，那就是另一个谜题了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a912dbb4c929dae07e2f385837c8dde_720w.jpg?source=8673f162" alt=""><figcaption>四川木里县红外相机抓拍到的白化毛冠鹿个体</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d170afe0e43e9b69d4ec89e83e9b6176_720w.jpg?source=8673f162" alt=""><figcaption>湖北神农架捕捉到的白化小麂</figcaption></figure>
-<hr>
-<p>最后再讨论下主流传统中麟「一角 / 并角戴肉」形象的可能来源：戴肉相对好理解，麂角本身就有颅骨上突出的，包覆软组织的角基，形似“肉角”，而换角季节（见前文不同换角阶段配图）的外观更是会强化这一印象；至于一角 / 并角 / 共觝的描述，则可能是基于麂类角基在头骨上延长突出，并交汇于鼻根处的骨嵴，配合“肉角”误解和皮肤上的黑纹，被解读为双角同根而出，分为两支……不过这些显然都是强行拍脑袋为古人挽尊，我个人也并不觉得有必要和「一角」这种显然不符合偶蹄目基本生理结构的记录较真。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-417de1255c686c606de4c200acdb1545_720w.jpg?source=8673f162" alt=""><figcaption>麂类特有的长角基和延伸骨嵴，以及皮肤表面的的黑斑</figcaption></figure>
-<hr>
-<p>补充：</p>
-<p>有不少人拿「戴两角而共觝」解释为“向前伸出一角”附会驯鹿，这是胡扯。关于这句话在上下文语境中的含义分析前文已论及，而更强的证据在于这句描述专用于汉武帝元狩元年捕获的白麟，那玩意·绝·无·可·能·是驯鹿，因为西汉为了纪念此事件制作的麟趾金长这样：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bdfe6f14fb65f94d60de5f4950405eeb_720w.jpg?source=8673f162" alt=""></figure>
-<p>而驯鹿特化的雪鞋大脚板长这样：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c842b25645bf011512e1502a8052a698_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是“正常”的鹿蹄：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ae59df019abea7a65ff529eb134fbacc_720w.jpg?source=8673f162" alt=""><figcaption>从上到下：（疑似）梅花鹿，白尾鹿，小麂</figcaption></figure>
-<p>而且说实话，任何传统「麟」的记录都不会和驯鹿有关系，文献、考古、生态哪哪都对不上。野生驯鹿的自然分布向南几乎连黑龙江都摸不到，是一类高度特化的北极泰加林 - 苔原物种，在全球变暖背景下北极夏季持续高温超过 30℃都会导致驯鹿集体暴毙，这玩意空降来中原分分钟躺尸<sup>[13]</sup>……</p>
-<p>实在是太离谱了所以我一开始都没觉得需要特意解释（扶额）</p>
-<hr>
-<p>最后一次补充：</p>
-<p>对于偏西周背景的「麟」（包括《麟之趾》）指向的物种缺乏文献讨论基础，但我刚注意到存在一个突破口是西周一类高度流行的动物造型<sup>[14]</sup>。这类造型一贯被解释为鹿形兽（商周青铜器“蘑菇角”是一种高度模式化的表达，不能反映生物原型）；但值得注意的是，这类动物角部蘑菇角上均有一支剧烈弯曲向中心伸出，且尖端指向下方的分杈：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-914e5c362fef82958f4175882658b4b3_720w.jpg?source=8673f162" alt=""><figcaption>石鼓山四四号墓牺尊，西周</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bde0dbb165cd89b77470387b59fb75d6_720w.jpg?source=8673f162" alt=""><figcaption>亚此牺尊，西周</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-84bbd2dc237617b29d838743dd904a59_720w.jpg?source=8673f162" alt=""><figcaption>邓仲牺尊，西周</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-770fe9dd97a5dcc8e583439b94c54ac0_720w.jpg?source=8673f162" alt=""><figcaption>竹园沟十三号墓出土车饰，西周</figcaption></figure>
-<p>且角基均向前延伸至眉部，眼前方。（还有就是都长着一张狗脸）</p>
-<p>所有鹿中只有麂属物种同时具备任意上述特征，个人认为完全可以定论此类深受西周人喜爱的动物原型就是麂（偏赤麂<sup>[15]</sup>）。同时，虽然暂时没有自名器物确证，很可能就是西周以来的吉兽「麟」。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f8901e55bb95425fe871155c96b23177_720w.jpg?source=8673f162" alt=""><figcaption>赤麂正面照</figcaption></figure>
-<p>而上述牺尊所以在麂类原型的基础上安了四支狗爪子，可能也是因为它们“望之不似鹿”的四肢比例和整体“狗里狗气”的气质吧<sup>[16]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6cdff27d1483b33e7b874571493f1663_720w.jpg?source=8673f162" alt=""></figure>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/318575626">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788012</guid><pubDate>Thu, 05 Mar 2026 19:12:31 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788089</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-1fc8e2f6bcfedee537545bb7386dff0d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title">瞎扯 · 如何看待一些西安避雷帖子？</h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/738122777/answer/1959553970503671920" target="_blank">如何看待一些西安避雷帖子？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/35876370/answer/1987897578516398733" target="_blank">媒体断章取义的水平可以有多高？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bd08d260254c4dceaa3fc016f605a6fe" target="_blank">@Louise Valliere</a></div>
- ：我见过最离谱的是避雷一家面馆<br>起因是点油泼面让老板别放油，老板说你不吃就滚</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/83796199e8ed3cfb785c5ddc9090a8fa" target="_blank">@奈良鹿丸</a></div>
+ ：来一个学生断章取义的。<br><strong>导师对你说:你的眼睛好好看。</strong><br>你该怎么回复？？</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-824894977431c3da0b486e45c8838922_1440w.jpg" alt="" width="720"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-228b42fe08da335a4f0dd77c380cc84a_1440w.jpg" alt="" width="690"></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/319924522/answer/1985312742182253718" target="_blank"> 有哪些官方的玩梗？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/459680751/answer/1909681221262345764" target="_blank">极度疲劳下，人一次最多能睡多久？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/14824833ea1a0eb1f28ccb6cdba80c89" target="_blank">@衣袂飘飘</a></div>
- ：云飞兄对山西的伤害太深了！</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-6233acadde8337d1808a4fe594082650_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-579c7f61295335c3b63e85e8045e7625_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/434526052/answer/125911551993" target="_blank"> 野史究竟能有多野？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8c7d09a0cb5242289da78521f0be5776" target="_blank">@吾道孤</a></div>
+ ：海里竞争太激烈了，受不了爬上岸，结果晕碳过去了，醒来已经是 2026年</blockquote>
+<p class="ztext-empty-paragraph"> </p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/641219065/answer/1974802273948422967" target="_blank">你抓拍的小动物是什么样子的？ </a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bbc733b3d26820903ba1a6128458c6b8" target="_blank">@虎山行贰</a></div>
- ：一百年后，被人挖出来，会不会津津乐道。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f81568cf8cad555f3c4e1d935a83974a" target="_blank">@保温杯</a></div>
+ ：领结婚证当天给家里的狗炫耀<br>狗看见，狗拒绝。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-2d9889b6e0f9e796e3f1797865371dcc_1440w.jpg" alt="" width="690"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-440b2951369ff5916285db355e921a14_1440w.jpg" alt="" width="720"></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1914116085403346284/answer/1922453149249148158" target="_blank">如何在外形不使用猫耳猫尾元素，行为不猫叫，不做猫的动作的情况下，设计一个人人都看得出来的猫娘角色?</a></p>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic3.zhimg.com/v2-7976ed4e9fe14e7284d6dd48e6eb7542_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/588580542/answer/1977477331229626668" target="_blank">都说人名字不能取得太大，说是压不住，你见过的最大的人名叫什么？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8b3b0ac2a8e19b6102c26e75ec184291" target="_blank">@高山何处乐</a></div>
- ：没有猫耳和猫尾；<br>行为不猫叫；<br>也不是猫的动作。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic3.zhimg.com/v2-a7b7c978ee4cd4d4befa064602e9236c_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/306074695/answer/1982772777170794364" target="_blank">蝙蝠侠在其他人眼中是怎样的存在？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/35c4e1ab4307d0794807e8300d003db3" target="_blank">@斯瓦迪亚</a></div>
+ ：有个人叫继伟，他姓钟。<br>一天他喝醉了，去人家大酒店瞎逛。<br>迷迷糊糊地上了楼，迷迷糊糊地靠着一扇门前，迷迷糊糊地敲门。<br>他以为他到家了呢。<br>「开门啊，我是继伟……」<br>包间里一下子没声了。<br>过了一会，一个人颤颤巍巍地说：「您是市里的还是省里的……」<br>「什么事理的生理的，我是<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=270145145&content_type=Article&match_order=1&q=%E9%92%9F%E7%BB%A7%E4%BC%9F&zhida_source=entity" target="_blank">钟继伟</a>啊！」</blockquote>
+<p class="ztext-empty-paragraph"> </p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/462953490/answer/1985024542930923640" target="_blank"> 为什么朋友圈很少晒四年级以上的娃？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f04dbf1ff9723a148d69552ab68e2ffd" target="_blank">@猫仔</a></div>
- ：分享一张很喜欢的蝙蝠侠梗图(°∀°)ﾉ</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-1da70168018384c1d29078cf46a6fc07_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<p><br class="Apple-interchange-newline"><br class="Apple-interchange-newline"></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0c553ce75af89b5ef37a3072b8e65b86" target="_blank">@洳小苓儿</a></div>
+ ：嗨<br>我爸妈床头至今摆的都是我 4 岁的照片……<br>我 35 了：）</blockquote>
+<p> </p>
 </div>
 </div>
 
@@ -356,4 +358,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788089</guid><pubDate>Thu, 05 Mar 2026 19:12:32 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788090</guid><pubDate>Fri, 06 Mar 2026 01:45:45 GMT</pubDate></item></channel></rss>
