@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Tue, 10 Mar 2026 18:40:27 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>车厘子可以当饭吃吗？</title><link>http://daily.zhihu.com/story/9788162</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c27cb099d7bb1b805cbdd6140cec16b4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 11 Mar 2026 01:28:01 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么保鲜膜可以保鲜食物，其它塑料袋却会把食物捂变质？</title><link>http://daily.zhihu.com/story/9788167</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-3a870ed69c371384c8cb2204762aee9a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,167 +19,92 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a0867e020fdd8a7e46bcdf56697dd444_l.jpg?source=8673f162">
-<span class="author">万物杂志，</span><span class="bio">面向未来的科学教育</span>
-<a href="https://www.zhihu.com/question/439475634/answer/2007129308158776878" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-c07e9212c77809700a9b7431c219163f_l.jpg?source=8673f162">
+<span class="author">祥昊，</span><span class="bio">让有趣先知楞起来。</span>
+<a href="https://www.zhihu.com/question/2009230288241325683/answer/2010468358924047036" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>在人类的饮食历史上，车厘子（或者说樱桃）的致死记录比你想象的要多。</p>
-<p>早在 1679 年 6 月 29 日，牛津大学博德利图书馆的馆长托马斯·洛基就死于一种被当时医生称为“樱桃过量”（surfeit of cherries）的怪病。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f90f238d0ac75d811b423b0b0d18fa99_720w.jpg?source=8673f162" alt=""></figure>
-<p>托马斯·洛基 图源：wikipedia</p>
-<p>无独有偶，1777 年 7 月 17 日，凯瑟琳·道格拉斯，那位著名的昆斯伯里公爵夫人，也因为同样的理由“樱桃食用过量”而导致了严重的疾病并最终去世。</p>
-<p>但这其中最著名的受害者莫过于美国第 12 任总统扎卡里·泰勒。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6cccd7123f174c1b1f1b3fd8d341a3d0_720w.jpg?source=8673f162" alt=""></figure>
-<p>图源：hektoen international</p>
-<p>1850 年 7 月 4 日，泰勒总统在参加完华盛顿纪念碑的庆祝活动后，不仅面临着政治上的巨大压力，还面临着生理上的极度饥渴。他大口吞下了大量的生蔬菜、冰牛奶以及一大碗新鲜樱桃 。仅仅一小时后，总统倒下了，五天后的 7 月 9 日，他死于严重的胃肠炎 。</p>
-<p>为了搞清楚樱桃到底是不是弑君者，1991 年 6 月 17 日，肯塔基州的法医乔治·尼科尔斯博士甚至对泰勒总统进行了开棺验尸 。虽然当时流传着总统被砒霜毒死的阴谋论，但橡树岭国家实验室的检测结果显示，总统头发和指甲中的砷含量微乎其微，完全排除了下毒的可能 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5854dda2733ce0dc15535d23064290cf_720w.jpg?source=8673f162" alt=""></figure>
-<p>图源：ins</p>
-<p>现代医学分析认为，泰勒总统的死因更可能是当时恶劣卫生条件下的细菌感染（如沙门氏菌或霍乱弧菌），而那碗巨大的樱桃和冰牛奶，通过高糖分和冷刺激，成功地为细菌的捣乱助了一臂之力，加速了这位 65 岁老人的死亡进程 。</p>
-<p>现代吃过量车厘子的人绝对不在少数。</p>
-<p>2021 年 1 月，重庆的一位女士因为在 5 天内吃掉了 6 斤车厘子，导致腹痛、晕厥，并排出了“血便” 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-557744ce5da22940100cd29b8fdebdd4_720w.jpg?source=8673f162" alt=""></figure>
-<p>图源：澎湃新闻</p>
-<p>这一新闻当时吓坏了不少“车厘子自由”的追求者。但事实上，这并非真正的消化道出血。车厘子富含花青素（Anthocyanin）和红色的植物色素。在正常消化过程中，这些色素会被分解或随粪便变色。</p>
-<p>但如果摄入量过大，且伴随腹泻，肠道蠕动速度加快，色素来不及被分解就直接排出了体外。花青素是一种天然的酸碱指示剂，在肠道的酸碱环境下，大量未被吸收的花青素会让粪便呈现出惊悚的红色或酱紫色 。这在医学上被称为“假性黑便”或“染色便”。</p>
-<p>至于为什么会腹泻和晕厥，罪魁祸首是车厘子中的高果糖（Fructose）和山梨糖醇（Sorbitol）。车厘子含有的果糖量超过了葡萄糖，这会导致果糖在小肠吸收不完全。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-74e355842cbd28c0f935498fb5fe1768_720w.jpg?source=8673f162" alt=""></figure>
-<p>高果糖分子式 图源：American chemical society</p>
-<p>而山梨糖醇是一种糖醇，人体对它的吸收率极低。这两种物质滞留在肠道内，会形成高渗环境，像海绵一样把血管里的水分吸进肠道，引发渗透性腹泻。严重的腹泻会导致脱水和电解质紊乱，这才是导致那位重庆女士晕厥的真凶，而不是什么“铁中毒”或者“氰化物中毒” 。</p>
-<p>对于健康人来说，吃多了车厘子顶多是跑几趟厕所。但对于慢性肾病患者，这可能是一道催命符。车厘子属于高钾水果，每 100 克甜车厘子的钾含量约为 222 毫克 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d7909e66588cba3d96e478d90e83b41_720w.jpg?source=8673f162" alt=""></figure>
-<p>图源：reddit</p>
-<p>肾脏是人体排钾的主要器官。对于肾功能受损（特别是慢性肾病 3 期以上）的人群，他们的肾脏无法有效地排出多余的钾离子 。</p>
-<p>如果在短时间内摄入大量车厘子，血钾浓度会迅速升高，导致高钾血症（Hyperkalemia）。高钾血症的可怕之处在于它往往没有明显的前驱症状，一旦发作，可能直接表现为心律失常甚至心脏骤停 。</p>
-<p>所以，车厘子虽好，可不要贪吃哦。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/439475634">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788162</guid><pubDate>Tue, 10 Mar 2026 18:40:24 GMT</pubDate></item><item><title>假如尼罗河在中国境内，取代了黄河的位置，我们将会怎样的治理它？</title><link>http://daily.zhihu.com/story/9788183</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-ff50b7bc9a9daa8aaf838ce8624c0b6b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-a8a5be64469e261afbe1929a9e402189_l.jpg?source=8673f162">
-<span class="author">鸑鷟鹓鶵，</span><span class="bio">液氧-酱油火箭发动机酿造酱油攻城狮</span>
-<a href="https://www.zhihu.com/question/1937928869425420241/answer/1938031032420009479" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>这俩河的治理难度完全不同，也造就了两个古文明的巨大差异。</p>
-<p>简单说来，</p>
-<p><strong>尼罗河是大前期，典型的河谷地，泛滥影响小、流域面积小。因此文明出现的早，但上限不高；</strong></p>
-<p><strong>而黄河是大后期，典型的冲积扇，泛滥影响极大、流域面积可以非常大。因此前期泛滥对文明的压制很大，但上限极高。</strong></p>
-<p>接下来展开叙述一下：</p>
+<p>因为...</p>
+<p>塑料的真实身份其实是不停蠕动的邪神触手怪，会偷偷传送气体。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f046fa4a743f9e722c2498dfd72a27ca_720w.gif?source=8673f162" alt=""></figure>
+<p>没错，在你面前看起来光滑透明没一点孔的塑料，其实是可以透气的。</p>
+<p><strong>或者说，几乎所有致密无孔高分子材料，都有透气率。</strong></p>
+<p>那肯定有小伙伴好奇，都致密无孔了，怎么可能透气呢？</p>
+<p>咱得去微观世界看看。</p>
+<p>我们都知道，物质世界是由原子，分子构成，他们通过金属键，共价键等不同方式链接。</p>
+<p>其中，共价键具有明确的方向性和饱和性，有点像乐高积木，只能按固定的方向插。</p>
+<p>那么问题来了，如果把一大堆相同或者相似的小分子单体聚集在一起，</p>
+<p>然后用共价键给穿成分子蜈蚣，会发生什么事呢？</p>
+<p>这就是聚合物。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bbb3dc97f80ec08d2450331f1edb9691_720w.jpg?source=8673f162" alt=""></figure>
+<p>由于串法不同，聚合物形态众多，但是都有一个共性，个头大。</p>
+<p>我们都知道，多数晶态固体的产生实际就是原子或分子从无序到有序的过程。</p>
+<p>如果原子或者分子的结构比较简单，多数情况下变成固体是简单的堆叠，形成有序的结晶。</p>
+<blockquote>就像容器里装的大米，倒完自己就会稳定下来。</blockquote>
+<p>而聚合物则是一堆在不停乱动的线头子，如果简单的堆在一起，那必然会缠成一团乱麻。</p>
+<p>更麻烦的是由于分子链太大，化学键又焊的太结实，聚合物内被串起来的单体们很难找到真正完全适合自己的位置，只能被迫接受两种状态：</p>
+<p><em>一是局部小段排列整齐，形成结晶区。</em></p>
+<p><em>二是继续找适合自己的位置，始终处于持续的热振动和微布朗运动中，形成非晶区。</em></p>
+<blockquote><em>注意，这不是选择题，而是全选题，因为高分子材料几乎做不到 100% 完全结晶。</em></blockquote>
+<p>由于非晶区始终无法有序固定，被迫持续运动，</p>
+<p>分子链之间会不断出现未被占据的微小空隙，这被称为自由体积（free volume）。<sup>[1]</sup></p>
+<p>由此就能发生一些很有趣的事。</p>
+<p>由于自由体积是随机运动出现的微小空隙，</p>
+<p>如果大小合适，气体分子会先溶解在聚合物表面。</p>
+<p>然后随着自由体积运动被吞噬到聚合体内部，进行随机扩散。</p>
+<p>当然，聚合物普遍很稳定，一般并不会对这些物质做什么，</p>
+<p>总有一天，会被再次解吸出来。</p>
+<p>部分运气好的，就会被传送到另一端，完成穿越。</p>
+<p>这就是高分子材料的溶解 - 扩散机制（Solution-Diffusion）。<sup>[2]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbddb4454ce6bb9992e6075e180ddad3_720w.jpg?source=8673f162" alt=""><figcaption>不同分子通过溶解 - 扩散机制通过聚合材料示意图。</figcaption></figure>
+<p>这也顺便解释了甭管咋密封，放久了的气球总会跑气的原因。</p>
+<p>所以，即使是致密无孔的保鲜膜，仍旧具有透气性，而且在特定条件下还可以做到选择性透过。</p>
 <hr>
-<p>尼罗河的中下游，是一条穿过沙漠的河流。</p>
-<p>从卫星图上，可以明显看到尼罗河谷和周围沙漠的巨大差异。</p>
-<p>古埃及人也清楚地区分黑土（耕地）和红土（沙漠），因此，在古埃及，黑色象征生命。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1b8e55b7e58a4ed29e940845a1ac34f0_720w.jpg?source=8673f162" alt=""></figure>
-<p>河谷的形成，与地中海有关。</p>
-<p>地中海是一个蒸发量大于流入量的海，因此，一旦直布罗陀海峡持续关闭，地中海就会不断挥发直至干涸。这不是骇人听闻，约 600 万年前，地中海曾经干涸过。</p>
-<p>这与本文有什么关系呢？尼罗河就汇入地中海，地中海成为深坑后，尼罗河被水流深切成尼罗河大峡谷，如今的埃及首都开罗附近的尼罗河，当年的大峡谷深达海平面以下 570 米！</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6b9949c2c7f47b35ba942c5e68f69f5d_720w.jpg?source=8673f162" alt=""></figure>
-<p>后来，大洪水重新填满了地中海，而尼罗河上游的抬升形成了这条大河。</p>
-<p>尼罗河以一定的淤积回填大峡谷，大约每百年河床平均增高 16 厘米。</p>
-<p>这些地质活动造成了一条世间罕见的河流：<strong>被束缚在河谷内、河谷外是巨大的沙漠、河谷内是丰厚的泥土。</strong></p>
-<p>河流带来了淡水和沉积物，水是生命之源，沉积的矿物是作物的肥力之源。</p>
-<p>再加上：</p>
-<p><strong>被束缚的泛滥：</strong>一年一度定期的泛滥，自然为土地提供新的肥力，无需休耕或大量施肥。古埃及人只需在泛滥之前到高处回避休息即可；</p>
-<p><strong>优异的农作物：</strong>这一带天然就有早期可驯化的野生农作物（麦）。</p>
-<p><strong>可以说，尼罗河是人类早期农业最佳的场所。</strong></p>
-<p><strong>尼罗河几乎不需要大规模治理，尤其无需大规模河道治理，而是兴修灌溉水利。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-35fe357e911605e84f5d0727a4c29184_720w.jpg?source=8673f162" alt=""></figure>
-<p>相比之下，除了尼罗河和古埃及，所有其他河流的古人类，都饱受洪水的困扰：</p>
-<p>同为新月沃地的两河流域，就发生过骇人听闻的巨大洪水，留下了洪水遗迹，并很可能由此最终导致了从西亚扩散开来的大洪水传说；</p>
-<p>在印度河流域，巨型堰塞湖和极端雨旱带来的气候变化，可能是哈拉帕文明灭亡的重要因素；</p>
-<p>黄河流域，四处征伐、武力强劲的殷商，因为黄河的问题不得不四处迁都；</p>
-<p>长江流域附近的良渚文化，硬生生被逼成当时世界上水利工程第一的文化。</p>
-<p>接下来重点介绍一下黄河：</p>
-<p>首先介绍黄河中上游。</p>
-<p>黄河绕鄂尔多斯地台 / 盆地，形成了一个“几”字形河道，此处与尼罗河有部分类似：</p>
-<p>即河道被限制在河谷之中，河流穿越干旱 / 半干旱地区，并形成了沿河的绿洲带（如塞上江南银川，以及河套地区）。</p>
-<p>此处也一直处于中华文明的辐射区域，如仰韶文化、龙山文化均有覆盖；殷商时期，这里也形成了李家崖文化；周时期，包括芮国在内的一些封国就地处这一片区域，后来秦、赵、魏在此争锋；秦一统后，始皇帝诏令在这片区域修建秦直道，收河套地区。</p>
-<p>与尼罗河外茫茫沙漠不同，黄河之外，除了西北方向的戈壁外，其余方向并非荒漠，长期是游牧 - 农耕的拉锯区域。</p>
-<p>你说河道治理？这片区域的黄河，与尼罗河类似，不需要刻意的河道治理。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-38c315ae2e1935f133b1bd03d516a87e_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-04beef5b0641853906965a96eed9e50f_720w.jpg?source=8673f162" alt=""></figure>
-<p>但黄河“几”字形区域的缺点和尼罗河是类似的，即耕地面积有限，可形成的人口有限，进而可本地供养的军队数量有限，无法从物质上与黄河下游抗衡，最终完全被吸收。</p>
-<p>于是我们来说一下黄河下游。</p>
-<p>黄河下游不是自古以来的。</p>
-<p>约在人类文明史前不久，三门峡曾一度阻塞了古黄河入海，并在汾河 - 渭河盆地（临汾 - 运城 - 渭南 - 西安 - 咸阳 - 宝鸡一线），形成巨大的汾渭古湖。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-77fa380dfc33912cb3e047ccb59ee205_720w.jpg?source=8673f162" alt=""></figure>
-<p>这处古湖因为黄河冲开了三门峡而逐渐干涸，最低处为运城，因此形成了运城盐湖。</p>
-<p>冲出三门峡后，黄河如脱缰的野马，在华北大地肆意纵横，淤积出巨大的华北平原。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3e5f49cbbcbf1f68824070e93c4e425a_720w.jpg?source=8673f162" alt=""></figure>
-<p>如此巨大的冲积扇（东西长 355km，南北最宽处 410km），是任何其他古文明河流无法比拟的。</p>
-<p><strong>而黄河下游的河道更是频繁更迭，2500 年来，决溢改到 1593 次！平均不到两年一次！</strong></p>
-<p><strong>其中较大改到 26 次，重大改道 7 次，波及面积达到 25 万平方公里！超过了英国的总面积！</strong></p>
-<p><strong>泰山伫立在泛滥的黄河中央巍然不动，也因此成为古代中国首崇的名山。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ef8fbcd6d26ccaed9eb104b0f436f2b3_720w.jpg?source=8673f162" alt=""></figure>
-<p>因此，古代中国的先民，必须一边接受黄河泛滥带来的肥沃土壤，一边接受黄河泛滥带来的巨大洪涝灾害。</p>
-<p>这也带来了古埃及文明和古代中国文明在最根本上的思维差异。</p>
-<p><strong>对于古埃及文明而言，尼罗河年复一年，人类无需过多干预，也无法过多干预。</strong></p>
-<p><strong>由此带来的思辨上，古埃及极度推崇神灵、永恒和不朽，甚至对于这些议题有着极度的偏执，而对人的能动性缺乏更多的思考。</strong></p>
-<p>也正因为如此，古埃及花费了远超其他古文明人力物力的比例，用于陵墓和神庙这种永恒性质的建筑上，宫殿都不甚重要。当然也给后世的外来者（包括欧洲、包括我们）留下了巨大的震撼。</p>
-<p>哪怕古埃及历朝历代都知道十墓九空，只是采用降低陵墓重要性、分离庙墓等掩耳盗铃的方式，依然前赴后继般继续厚葬，甚至帝王谷后期干脆弃疗，直接将墓门也繁复装饰。</p>
-<p>相比之下，因为两汉之际的大规模盗墓，东汉开始薄葬；再因为东汉末年的大规模盗墓，曹魏更加简化和薄葬。</p>
-<p><strong>而在古代中国，盲目崇神的族群只会被洪涝所淘汰，最根本的大事历来都有治河和水利工程的身影。</strong></p>
-<p>在安徽蚌埠，有一处极其罕见且特殊的遗址——禹会村遗址。</p>
-<p>传世文献《左传》记载：“禹合诸侯于涂山，执玉帛者万国”；《水经注》亦载：“禹墟在（涂）山西南八里”。这些记载，将人们的目光引向了禹会村。</p>
-<p>进入 21 世纪，考古工作者对禹会村遗址进行了发掘，揭示出一座距今约 3800 年的会盟遗迹：其中包括一处面积达两千平方米的大型祭祀台基。尤为重要的是，在台基不远处发现了大量器物坑，坑内出土的陶器遗存，来自长江、黄河流域的多处不同地域文化。</p>
-<p>这些实物证据清晰地表明，当时来自五湖四海的族群汇聚于此，使禹会村成为一处极其特殊的早期华夏会盟中心。</p>
-<p>那么，此次会盟的目的究竟为何？对遗址土样的分析提供了重要线索：结果显示，约 4500 年前该地区水位较高，禹会村曾被淹没；到距今 4000 至 4500 年前，水位有所下降；而约 4000 年前，水位再次呈现上升趋势。</p>
-<p><strong>虽然我们难以从远古遗址直接证实“大禹会诸侯治水”的传说，但可以肯定的是：在禹会村，当时的华夏先民确实举行过一次重大会盟。</strong></p>
-<p>结合水位变化的结论，这次会盟的目的，很有可能就是治水。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fc44810af939c4d93098a4a176cbe804_720w.jpg?source=8673f162" alt=""></figure>
-<p>黄河真正的成功治理，要到东汉年间。</p>
-<p>汉明帝永平十二年（公元 69 年），借着朝廷修整汴渠（从开封到徐州，东汉时地名为浚仪到彭城）的议题，对黄河流域荥阳至出海口处进行了大刀阔斧的河道整治：</p>
-<blockquote>初，平帝时，河、汴决坏，未及得修。……<br>后汴渠东侵，日月弥广，而水门故处，皆在河中，兗、豫百姓怨叹，以为县官恒兴佗役，不先民急。<br><strong>……</strong> <strong>夏，遂发卒数十万，遣景与王吴修渠筑堤，自荥阳东至千乘海口千余里。景乃商度地势，凿山阜，破砥绩，直截沟涧，防遏冲要，疏决壅积，十里立一水门，令更相洄注，无复溃漏之患。</strong>景虽简省役费，然犹以百亿计。明年夏，渠成。帝亲自巡行，诏滨河郡国置河堤员吏，如西京旧制。景由是知名。<br>——《后汉书 循吏传》</blockquote>
-<p><strong>这次整治所形成的新黄河河道即是东汉黄河故道，此后一千年间，斗转星移，物是人非，不变的是这条流淌千年的东汉黄河故道。</strong></p>
-<p>经过千年的泥沙堆积，以及唐末和五代长年累月的战火纷争，无人顾及黄河河道的治理，在经历多次泛滥、决堤和小幅度的改道之后——</p>
-<p>东汉黄河故道，终于在治理黄河颇有心得的北宋时期改道，庆历八年（公元 1048 年），黄河在今濮阳的东侧，当时的开德府地区决堤，这次改道不再是以往的大改道不久即塞的局面，东汉黄河故道才最终消失。</p>
-<p>尽管治理黄河是最为困难的，但只要能治理黄河，巨大的面积带来的收益也是最高的。</p>
-<p>华北平原及江淮平原巨大的农耕面积，可以形成一个具有巨大凝聚力的统一国家，而以这片核心为依托，最终形成了古代的中国。</p>
-<p>古埃及得天独厚的自然条件使其成为人类文明早熟的发源地，但自然条件也最终限制了古埃及的进一步发展；</p>
-<p>古代中国的水文地理条件，在起步阶段更加恶劣，因此不如古埃及早，但区域整合的潜力最为巨大，最终也成为古文明中的最高高度。</p>
-<p><strong>河流虽深刻影响文明，却非决定性力量。</strong></p>
-<p><strong>最终塑造文明的，是人如何应对水。</strong></p>
+<p><strong>那么问题又来了，</strong></p>
+<p><strong>既然聚合物具有透气性，为啥常见的密封材料也是聚合物居多呢？</strong></p>
+<p>那就得搬出知乎的另一真理：只要劲够大，板砖也能飞上天。</p>
+<p>聚合物具有透气性不假，但是只要厚度够厚，链段堆的够密实，这种低效率的缓慢传送机制就可以当不存在。</p>
+<p>而且由于聚合物是化学键焊成的长链，平时都是蜷缩成一团，被拉开后又会想着弹回原来的形态，就有了不错的弹性，</p>
+<p>所以在不焊接的情况下，可以依靠本身的弹力强行撑开贴满缝隙，</p>
+<p>除了缺点全是优点，这可不就是天生密封圣体嘛。</p>
+<hr>
+<p>那我们回归保鲜膜和塑料袋，能制造这两种东西的材料有很多，咱以聚乙烯（PE）为例。</p>
+<p>保鲜膜和塑料袋虽然都能用聚乙烯制造，但是还不是同一个东西。</p>
+<p><strong>塑料袋的需求是高强度，高密封性。</strong></p>
+<p>所以更多的是使用高密度聚乙烯（HDPE），这种聚乙烯直链结构更多一些，更容易在局部扭结出更多结晶，产生的晶区更大。</p>
+<p>所以不光强度较高，也更容易散射光线，</p>
+<p>这就是为啥超市的马夹袋普遍呈白色半透明的原因之一。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6bc89b5972ca98772849e551b563b375_720w.jpg?source=8673f162" alt=""></figure>
+<p>而保鲜膜的需求是高韧性和适当的透气性，</p>
+<p>所以使用的是支链结构更多的低密度聚乙烯（LDPE），</p>
+<p>支链结构使分子链之间缠绕更多，韧性也就更高，不容易被整体撕破。</p>
+<p>同时，结晶区更少，空气也更容易通过溶解扩散机制渗透过去，实现透气的需求。</p>
+<p>所以使用塑料袋装食物，</p>
+<p>由于透气性不行，很容易产生密封高湿的环境，帮助微生物修行，导致食物腐败。</p>
+<p>而保鲜膜可以偷偷放走微量水汽，并悄悄换气，达到既隔绝外界灰尘病菌，又防闷防潮的特性。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-af651cd047ec1c6db1f64f7329ff2d63_720w.jpg?source=8673f162" alt=""></figure>
+<p>另外，对于聚合物来说，也有邪修，</p>
+<p>那就是通过快速冷却把非晶区强行冻结，形成不咋会动的非晶玻璃态，</p>
+<p>这样即使是非晶区较多，材料较薄，也能有不错的隔绝能力。</p>
+<p>比如我们常见的亚克力板（有机玻璃）就是典型的非晶玻璃态材料。</p>
+<p>至于代价，就是变的又脆又硬。</p>
+<p>除了材料的特性，保鲜膜出厂前还会进行电晕处理，</p>
+<p>就是使用高压电电击表面，使本来不愿意贴在餐具上的非极性材料拥有更大的表面能，可以自己主动吸附住餐盘。</p>
+<p>由此告诉我们一个道理：</p>
+<p>遇事不决（比如不想点赞），电电就好~逃。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1cfa119205738300ffcca891ece0bf3a_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1937928869425420241">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2009230288241325683">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788183</guid><pubDate>Tue, 10 Mar 2026 18:40:25 GMT</pubDate></item><item><title>宋词有蝶恋花、鹧鸪天这些词牌名，那么到底什么是词牌名呢，能不能通俗易懂的说一下？</title><link>http://daily.zhihu.com/story/9788191</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-4331b88996ed925ce3d66eaccae7d1fd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788167</guid><pubDate>Wed, 11 Mar 2026 01:27:58 GMT</pubDate></item><item><title>明代「民间书坊」数量众多，出版的书除了通俗文学，还有哪些实用类著作吗？</title><link>http://daily.zhihu.com/story/9788201</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-3a69df1ac5c75b585a26ceb6ee4b1c65.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -199,66 +124,36 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-9c3886256908fe75077aa82eca4c0d76_l.jpg?source=8673f162">
-<span class="author">鞭临天下，</span><span class="bio">用爱发电，爱看不看，请勿关注，随时停更。</span>
-<a href="https://www.zhihu.com/question/470756564/answer/2007428194270221002" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-96414e2a07dc6600785a8ddea20eadd9_l.jpg?source=8673f162">
+<span class="author">宁南左侯，</span><span class="bio">太极生二姨</span>
+<a href="https://www.zhihu.com/question/1997651962242570060/answer/2001979922378408047" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>要真正讲清楚什么是词牌，必须把它放回一条更大的变迁线里看：诗、词、曲，本来都属于同一条可歌之辞的传统，只是音乐系统变了、传播场景变了、表演与市场的组织方式变了，文学就不得不换一种形式。</p>
-<p>我们今天看到的词牌、词谱、平仄，是这条链条走到后期的文本残留。你今天读到的过片、换头、上下阕，是早期旋律段落结构在文字里留下的痕迹。</p>
-<p>把这条链条捋顺，词牌就不神秘了，诗为什么会生出词，词为什么不会消灭曲，宋词为什么并不妨碍元曲的繁盛，也都会变得很清楚。</p>
-<p>我们今天读诗，默认它是纸面文学：写出来给人看、给人读、给人传抄。但在更早的时代，诗原本也是可以唱的，诗经时代诗与歌几乎是一体的，商颂、周颂，这些文本本就是配乐演唱的歌辞。诗言志，歌永言讲的不是两种不同文类，而是同一套表达在说唱之间的转换。</p>
-<p>这个时期的诗，结构非常照顾口头表演：四言句式整齐，重章叠唱反复，段落清晰，目的就是方便记、方便合声、方便在同一套礼乐体系里能够重复使用。</p>
-<p>到了秦汉，宫廷把针对这类音乐管理的职能归到一套官僚机构，乐府也应运而生。负责采诗、制曲、训练乐工、安排演出。这样一来，原本依附在礼乐体制里的歌唱功能，被推到了更宽的世俗空间里：祭祀、朝会仍旧用歌用颂，但宫廷宴饮、贵族家宴、民间节日，同样需要大量音乐歌曲。相应地，歌辞的题材就大大放宽：征戍边塞的陇头歌，行旅辛苦的陌上桑，闺怨、时政、讽谏，都可以唱。汉人所谓的乐府诗，其实就是为某类曲子写的歌词，只是我们今天已经习惯把它们全都当作文本来阅读。对当时人来说，更直接的感受应该是：有某支曲，有一套固定的节奏、句式、段落长度，不断有人为它填入新词。曲名、场合、唱法固定，歌词换来换去。这就是曲—辞—场合三者捆在一起的状态。</p>
-<p>魏晋南北朝到隋唐之交，这套音乐体系继续演变，清商乐、吴声歌、相和歌、胡乐陆续加入，一方面带来了更多的调式和节拍的变化，另一方面则是扩大了可歌之辞的使用范围。大量的文人、士族都参与作歌，写给宫廷、写给宴饮、写给歌伎。汉魏乐府的传统没有断，一直延续着那种：有曲在先，为曲写辞的做法。</p>
-<p>只不过，从我们现在能看到的文本来看，它在字面形式上仍然大体接近诗：要么五言七言句的连续铺陈，要么虽然有长短句但还不系统，远远谈不上日后那种高度格式化的词牌。可以简单说，到南北朝为止，诗仍然承担着主力歌词的角色，只是题材随着时间变得更杂，写作主体更多元。</p>
-<p>真正的分流，是在唐代慢慢发生的。</p>
-<p>一边，是诗这个文体自身的转型。另一边则是音乐世界的行业化和专业化。</p>
-<p>先看诗的那条线。</p>
-<p>六朝以来，四声学说成熟，声律意识被提到台前。到了初唐，沈约等人开格律之先，近体诗逐渐定型。中唐以后，五律、七律、五绝、七绝的平仄格、对仗、押韵位置，都被总结得非常清楚，成为一种堪称纸面节奏的东西。你读一首杜甫的律诗，不知道当年配的是什么曲子，却完全可以靠汉语本身的声调高低、长短、顿挫，感到它的起伏。也就是说，诗的节奏从依附某支曲变成了内置在语言格律之中。</p>
-<p>与此同时，科举把近体诗变成了一种高度标准化的训练内容。考场要考，仕途要用，士人之间的唱和、赠答、题壁、纪游，用的都是这种规范化的近体诗体。判断这是不是一首好诗的标准，很大程度上也不再是唱起来好不好听，而是字句是否精炼、格律是否准确、对仗是否工整、意象是否高妙。诗被抄写、收集进文集、选本，进入一个以阅读与评点为主的流通体系。吟诵仍然重要，但它只是读的方式之一，真正能够决定一首诗命运的，是纸面上那些可以被看、被教、被模仿的结构。</p>
-<p>这样一来，诗和音乐的关系就发生了微妙的错位。</p>
-<p>严格说，它依然可以入乐，依然可以被谱曲演唱，吟诵本身也带有强烈的声律。但这种音响性已经不依赖具体旋律，而是被包进了一套抽象的节奏规则。对于大多数参与诗歌写作与流通的士大夫而言，诗首先应该是可写、可抄、可读、可评的文字作品，是公共的书写语言，而不是作为某一支曲子的专属歌词。</p>
-<p>这是诗从音乐中抽身的关键一步。</p>
-<p>再看音乐那条线。</p>
-<p>盛唐以后，城市化相对前朝大大加强，大城市里的娱乐产业迅速膨胀，教坊、梨园、伎馆把音乐从礼制附属品，变成了一个相对独立的行当。外来胡乐输入，音阶、节奏、乐器都多了很多变化。宫廷、权门、富商都需要大规模的宴饮演出，普通市民也可以在瓦舍、酒楼听曲看舞。</p>
-<p>音乐从偶尔的礼仪变成了频繁的消遣，有了一个稳定的市场。</p>
-<p>在这样的环境里，最宝贵的资源，已经不再是某一两篇写得很好的诗，而是可以不断反复使用的曲调库。曲调一旦定型，就会传授给许多歌者，在不同场合反复演出。而为了不让观众听得厌倦，就需要不停换歌词，但节奏、句式、段落分合都要严格贴合那支曲的骨架。也就是说，音乐行业最需要的，是一整套可以快速填充、标准化生产的贴腔文本。</p>
-<p>如果仍旧用五言、七言的整齐句去硬贴复杂的燕乐曲，就会立刻暴露出问题。曲子往往有长短不齐的乐句、突然拉长的拖腔、节拍上的重心变化，要求歌词在某些拍子上落重字、某些地方自然停顿。五言律诗的平平仄仄平固然好听，却并不总能与这些变化精准对接。想要贴合，就得在一个字上拖出很多拍，或者在语气不该断的地方硬断。韵脚也未必刚好落在旋律收束处。</p>
-<p>这种不合拍，对职业歌者来说，就是一种负担。长久看，整个行业会本能地寻找另一种更顺手的文字形态。</p>
-<p>晚唐五代的曲子词和长短句，就是在这样的需求下慢慢发展出来的。从现实来看，这些东西出现的原因非常朴素：当时已经有一批固定的燕乐曲，名字、调式、节拍都约定俗成。有人开始直接按照曲子的乐句来安排字数，一句长一点，就填多几个字。一句短一点，就少填几个字。中间需要换气，就在那一拍上安排自然停顿。</p>
-<p>词牌的出现，正是这种行业现实的产物。曲子要反复调用，就必须可识别。可识别就必须有名字。至于这些名字从哪儿来，并没有统一规律。有的可以取旧词、旧歌的开头一句，有的拿故事人物或典故来做标记，有的干脆用一个意象化称呼，还有的带着外来语音译的痕迹。所以词牌名跟作品内容经常八竿子打不着，并不是什么故作玄虚，而是因为它一开始就不是标题，而是一种曲目索引标签。一首词真正交代题材、语境，用的是题目、小序、寄赠对象、写作缘起，词牌只是告诉你：这首词要放进哪一类曲调的框架里。这个点曲不点题的原则，是理解词牌的第一把钥匙。</p>
-<p>上下阕、过片、换头这些词，也是在这个过程中被固定下来的。</p>
-<p>早期的词必须合腔，而一首词往往本来就分段：先一段，再一段，中间有明显的节奏转折或气口。对唱的人来说，这是换一段唱法的地方。对填词的人来说，这是该换一段说法的地方。于是，就有了上阙、下阙这样一对结构单位：上片铺陈场景、抬起语气，下片转入更深一层的情绪、议论或收束。所谓的过片，就是从上阙走向下阙的那个时间节点。音乐在这里转段，文字也要在这里换速度、换角度，从景到情，从叙事到感悟，从外部到内部。换头，是下片开头一两句，在音乐上是新的一段起笔，在文字上往往承担再起一波的任务：重提核心意象，换一个视角，或者突然放低语气形成反差。所谓换头要有力，指的正是在这个位置下既要站住结构，又要带动全词气势。</p>
-<p>在历史上，最初开始填这些长短句的，多是伎人、乐工和跟音乐圈子常混的文人。社会地位不高，写出来的东西也通通被看成俚语小调，不入正史、不入正集。但从实用角度看，这套东西极为好用。一个词牌能够固定下来，无数首词可以围着它写，题材、语气都可以变化。歌者只要学会这支曲，拿到任何新填的词，都能马上上嘴。演出方换词比换曲简单太多，观众既可以听到了熟悉的旋律，又有新鲜的内容。</p>
-<p>这与其说是谁发明了一种新文体，不如说是在长期排练和演出中，一个最合用的句式被慢慢锤打成型。</p>
-<p>这样，到了五代的时候，实际上已经出现了两套在功能上分明不同的可歌之辞：一套是仍然可以入乐、但主要在士大夫书写—阅读体系中流通的诗。一套是紧紧围绕曲牌、服务于燕乐行业的词。</p>
-<p>前者的节奏内置在格律，后者的节奏内置在曲调。前者方便抄录、考试、评论，后者方便排练、点唱、上台。它们在语言传承上连续，在实际使用场景上却已经分开。</p>
-<p>进入宋代，这条分流路线走到尽头，变成了稳定的分工结构。宋朝的城市化和商业化进一步发展，汴京、杭州这样的大都会，对歌舞、杂剧、曲艺的需求只增不减，教坊、勾栏像现代的娱乐公司一样，要不断生产出内容。对于这些机构来说，词牌系统已经建立起来，训练歌者用一套曲调去应对无限多的词，是成本最低、收益最高的做法。写新词的门槛，也因词牌约束而变得相对清晰，行内行外都能迅速判断一首词是否合谱：字数对不对，仄平是否顺口，转折处情绪有没有跟着旋律走。</p>
-<p>与此同时，宋代士大夫并没有放弃诗，反而写得更多。科举仍用诗来考察文才，诗集层出不穷，诗话、诗评成了一个独立的批评传统。诗在这一边已经牢牢站稳了高级书面表达的位置。那时候，墓志、记事、题跋、感怀、讽喻，都可以用诗。吟诵当然还有声音层面的美感，但那种声音已经不再是为某支固定曲子服务，而是为格律本身服务。哪怕完全不唱，仅仅在书房里低声读，诗的价值也能成立。</p>
-<p>所以，词并不是诗的替代品，而是诗在新音乐系统下的适配形态。诗原本可唱，但它更适合某些较规整、与诗句节奏相近的传统曲式。当宋代主流娱乐音乐换成更复杂的燕乐体系，当歌唱从礼乐附属变成了城市娱乐工业，当曲子库 + 点唱 + 反复换辞的生产方式普及，文学就会自然而然长出一种更贴合的形态：不再以均齐句式为核心，而以曲调结构为核心。</p>
-<p>这就是词出现的根本原因。</p>
-<p>更关键的是，宋人在那个时候有了非常强烈的文体自觉。他们开始有意识地把诗和词看作两套不同的写作规范。谈论诗时，拿的是格律、用典、意境作标准。谈论词时，会强调依声填词、以曲为主，会讨论某词牌该用怎样的情绪、怎样的语气。现在很多宋人词集里，直接用某调××词来命名作品，承认自己是在为现成曲调填辞。像周邦彦、姜夔这样精通音律的人，甚至会为曲牌写详细的度曲说明，告诉后人每个字应该怎样落在拍子上。</p>
-<p>这种写作习惯，其实就是在公开宣告：在为唱而写的那块领域里，主角已经是词，而不是诗。</p>
-<p>说到这里，我相信很多人会有一个疑问，这就是，既然宋词已经这么成熟，为什么后世还会出现元曲，甚至元曲还会那么繁盛？其实原因很简单：词的发展命运历史和诗其实差不多，一旦一个文体成熟到极致，词调散佚的老毛病就会再次出现。</p>
-<p>和宋词的发展类似，历史到了元代，舞台娱乐更强，音乐文学不仅没有消失，还换了一个更强势的承载场景：从宴席歌唱转向剧场表演。宋词解决的是宴席与文人世界的抒情需求 元曲解决的是城市剧场与大众娱乐的叙事需求。两者不是互相替代，而是同一条倚声为文的传统在不同社会场景里分叉：词更案头化、更抒情化。曲则是更剧场化、更叙事化。宋词越成熟，越把自己推向文人精工的方向，反而越需要另一个更适合舞台的形式来承接城市娱乐市场——元曲就在这个空位上接管了主流娱乐。</p>
-<p>最具体的表现就是后来的词谱学，在这个更案头化基础上把这种习惯全部固定下来。整理者通过同调互校，把句法、字数的框架抽出来，再在这个框架里归纳声律变化，用正体、别体、可平可仄之类标签，将不同的作品全部纳入同一谱系。他们并不是在复原某一支真实的曲调，而是在没有统一旋律的前提下，为后来写词的人提供一套看得见的规范。于是，在后人的眼里，词牌越来越像字数模板和平仄表的合体，而它最初曲子名的那一层含义，则逐渐被遮住了。</p>
-<p>而且宋词的强项是短章抒情：在固定结构里经营情绪波形，擅长把心事折叠抒发得极精微。但它其实天然不适合承担长篇叙事与舞台动作调度。戏剧要靠人物冲突推进，需要折场结构，需要转场，需要快节奏对白，需要插科打诨，需要用音乐节奏把观众牢牢吸引。元曲（特别是杂剧）在体制上更适配剧场：一出戏分折，每一折用一套曲牌套数串起来。同一宫调下曲牌连缀，情绪可以层层抬升或陡然转向。语言更口语化，更利于台上抛给观众，还能容纳节奏与动作。</p>
-<p>你可以把它理解为：词牌更像固定骨架的短章题型，曲牌更像可拼装的旋律模块。词更像精致短篇，曲更像舞台脚本。旧词调系统退场，并不妨碍新的曲牌 / 声腔 / 剧场系统崛起，因为它们依托的行业与市场不同：词最终和诗一样，越来越依赖于书写与品评共同体。曲则是依赖城市、班社、戏场与商业演出共同体。文化形式不是按高级替代低级演化的，而是按场景与市场分化的：宋词并不会把舞台需求写没了，它只是把文人抒情写到极致。城市剧场需要的节奏、叙事、动作与口语表达，最终由元曲完成。</p>
-<p>于是诗—词—曲的变迁，从文学史的发展来看，没有什么高低贵贱，它们只是在不同时代分别成为可歌文学的主承载点，但并不互相消灭。诗在唐代完成高度文本化，成为士大夫共同语言。词在唐五代的燕乐教坊与宴席歌唱中兴起，并在宋代被文人精工化、案头化，词牌随之文本化为格式。曲在宋元城市剧场与商业演出中成为中心，用曲牌模块与套数结构承接叙事与表演。</p>
-<p>同样是可歌之辞，载体与骨架变了，主承载文体也就变了。</p>
+<p>缙绅录。</p>
+<p>明清时期，有一种记载记载全国范围内官员职务、姓名、字、籍贯、出身的花名册叫《缙绅录》，长这样：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2a63b52567ae0d2400e2215d227f4e1f_720w.jpg?source=8673f162" alt=""></figure>
+<p>由于官员实时调整，所以这东西也是一年出四期，春夏秋冬各一次，所以理论上甚至可以算是古代的期刊（季刊）。</p>
+<p>这玩意是官方修的，甚至南明的时候还修过，隆武元年七月，朱聿键让吏部“谕刻《搢绅录》”，而且给了多条指示，比如宗人府开列在内阁之后，“此国初亲王所掌之衙门，不可在后开列”；照样开列南京官员，虽然南京已经丢失了；各衙门必须加“行在”二字，即使恢复了南京也必须称之为“行在”（以示不忘恢复），嘉靖改的殿阁大学士名称再改回去，皇极殿仍改称行在奉天殿，中极殿仍改称行在华盖殿，建极殿仍改称行在谨身殿；北方虽然已经沦陷，但必须开列全部府州县官职名称，只是不用写官员姓名，“以俟恢复”；福建列于南北两直隶之后、各省之前，“以明中兴重地”；鲁监国麾下的方逢年、张国维列入隆武阁员，写作“敕辅钦命监国亲藩鲁王福京行在东阁大学士兵部尚书张国维”；等等等等。</p>
+<p>这种缙绅录清代留下的比较多，清史工程那边还汇总出过一个 95 册的《清代缙绅录集成》，但明代的留下的就少多了，已知存世的一共有六种，其中四种万历的，两种崇祯的。国家图书馆现藏有两部，一部是万历十二年春天的，一部是崇祯十四年秋天的。</p>
+<p>可为什么说是“民间书坊”呢？</p>
+<p>因为这东西虽然是官方主编，但印刷都是民间来做，比如国图万历刻本《新刊真楷大字全号缙绅便览》是“北京宣武门里铁匠胡同叶铺刊行”，而崇祯十四年秋的是“正阳门里东城墙下浙江台州洪家书铺”，甚至还有个商标，一位老爷指着太阳给身边俩人说什么，这叫“指日高升”。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f3ab856eeda03004e365e321d04cee4c_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种书无论是对当时的人还是对后来的研究者，都有极大的作用，非常实用。首先对于当时人来说，可以很清楚的查询到某个衙门的某个官员叫什么名字、哪里人，比如我要去陕西延安做生意，一翻这个，发现延安府经历司经历牛汝洪是馆陶县人，馆陶县属山东东昌府，我家莘县也属于东昌府，这不巧了么，所以我就可以到了延安想办法去拜访一下我这位老乡，交个朋友。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a955b24eb669c23d1e56638d6059c7d6_720w.jpg?source=8673f162" alt=""></figure>
+<p>从现代角度看，大官好找小官难寻，很多地方历史上的官员是不全的，县志等资料上也没有，这种缙绅录就可以补充史料之缺。不光是补缺，还有个很大的作用的分析，大数据分析，这一本缙绅录上刊刻全国各地的官员，他们出身各异籍贯各异，所以很适合做数据分析，比如分析知县的出身，进士占比多少、举人占比多少、贡生多少，细化又可以分析府附郭县的比例如何、边疆县份比例如何，都可以做文章，反正写一份硕士毕业论文绰绰有余。甚至还能发现一些历史的冷门生僻之处，比如上图延安府安塞知县叫朱敏氵宜，山西平阳人，宗贡，这个名字这个出身，很明显他是山西晋王府的支系，再根据他的籍贯写的是山西平阳而不是山西太原，所以很明显应该是出自晋藩交城、阳曲、西河、怀仁四家王府中的一支。</p>
+<p>类似于这样的历史细节，都可以从缙绅录中找寻，只可惜明代缙绅录留存太少了，但是清代缙绅录要是分析呢，又相当不团结，所以这事就很尴尬了。但无论如何，利用缙绅录来做历史研究，是一个不错的路子。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/470756564">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1997651962242570060">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788191</guid><pubDate>Tue, 10 Mar 2026 18:40:26 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788294</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788201</guid><pubDate>Wed, 11 Mar 2026 01:27:59 GMT</pubDate></item><item><title>古人每天的工作时间是不是都挺短的？</title><link>http://daily.zhihu.com/story/9788318</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ed17e92b4e293f9b78b7d6a320ad9a71.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -273,7 +168,76 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 有没有一张图片让你明白了什么叫杀气？</h2>
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-cef37bf0392e114344d6b861bb1ba938_l.jpg?source=8673f162">
+<span class="author">晴耕雨读的浣熊君，</span><span class="bio">在知乎撂地的闲散科普创作者，争取每周双更</span>
+<a href="https://www.zhihu.com/question/2010047301675147347/answer/2010761169997157696" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>相比于现代社会来说确实是这样的，因为随着工业革命生产力几何式上升的时代开始，人类突然就意识到了可以依靠诸如煤气灯和电灯等照明设备，来有效延长人类活动的时间。</p>
+<p>去年我在讲古人为什么普遍有赏月和观测月相的这个问题时也讲过，在日出而作日入而息的时代，自然光是人类活动的刚需，你就算想要工作，也得确保照明的成本能被劳动所得给覆盖，否则加班就是赔钱买卖还不如多睡一会。</p>
+<p>所以我们会在秦汉许多文献记载中看到，有纺织能力的女红会选择“夜绩”的习惯，也就是在夜晚赶工继续纺织，而这些劳动妇女选用的时间也大多是月明星稀的月中旬，最大程度利用月光来延长自己的工作时的照明时间</p>
+<blockquote>“冬，民既入，妇人同巷，相从夜绩，女工一月得四十五日”</blockquote>
+<p>这个记载出于《汉书》的食货志，利用来之不易的月光他们甚至能一个月赶出一个半月的工作量，可见这是一种非常行之有效的生产策略。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c74cab035023a03d6bd67cf9a349dccf_720w.jpg?source=8673f162" alt=""></figure>
+<p>而除了夜绩这种正经的纺织业，在传统农业社会里，我们还可以利用夜晚来进行搓麻绳、编蓑衣之类的工作，《诗经·豳风》里不是说么，</p>
+<blockquote>“昼尔于茅，宵尔索绹。”</blockquote>
+<p>说得就是白天采集茅草，晚上就搓成绳子，然而夜晚能做的工作也就仅限于此了，再需要视力和体力的工作就没法在夜晚进行了，即便是皓月当空的夜晚也很少有人半夜锄地。</p>
+<p>这就像是“日出而作日入而息”的出处《击壤歌》所说，大部分人过得都是“凿井而饮，耕田而食”的生活，纺织手工业只是生活的一部分。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e5261c8e949716a0836ff721897b833_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是歌中最后一句的“帝力于我何有哉”，则是最讽刺的，那尧舜可以让你田园牧歌，轮到嬴政那就咚咚锵了，让你了解一下什么叫秦政徭役的美妙。</p>
+<p>所以我们会看到诸如《太平御览》《水经注》这样的书中，在描述暴秦凶悍时，都说秦用徭役“昼警夜作，民劳怨苦。”</p>
+<p>但即便如此，白天夜晚连轴工作在生产力条件有限的情况下，不光是成本巨大，更是一个效率极低的选择。</p>
+<p>但话又说回来了，《后汉书》中记载过另一个跟加班有关的典故叫“蜀郡治火”，说的是东汉时蜀郡为防范火灾，不允许百姓夜晚点燃火种照明夜绩从事手工业生产，这一抽象决定直接导致了本地“昔日无𥜗”，不纺织所以没有裤子穿，这个逻辑可以说是非常严谨了。</p>
+<p>但更为关键的是夜间用火实际上刚需，所以不管怎样百姓仍然会偷藏火种，这样藏匿掩盖火源的方式反而还造成了火灾，这就跟大学寝室里查违规电器有异曲同工之妙。</p>
+<p>而当廉范任太守时不光废除了这一规定允许点火，而且广续水池防火，靠着这一手解决了火灾问题，所以本地百姓歌颂其</p>
+<blockquote>“廉叔度，来何暮，不禁火，民安堵，昔日无𥜗，今五袴。”</blockquote>
+<p>曾经穿不起裤子，现在一家有五条（确信）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-929e05a0bafdf05a707e6bd69e4ea06f_720w.jpg?source=8673f162" alt=""><figcaption>感谢太守送来的裤子</figcaption></figure>
+<p>而如果我们画风一转，跳到一个工业化的社会语境下，我们就会意识到一点，说白了工业化后城市居民活动时长的延长，本质上是人类用更好的照明，更丰富的营养和更严密的组织结构，来欺骗了长久以来的作息时间，并且还成功了。</p>
+<p>这不是浣老师我说的，而是选自文学巨匠托尔斯泰的信件与日记当中，1861 年他曾经造访西欧多地包括魏玛、布鲁塞尔等地，伦敦是他们一行人的最后一站，他曾经多次提到过对伦敦这座城市昼夜不分的态度。</p>
+<p>此时的托老先生 33 岁，而他的祖国沙皇俄国在不久之前刚刚废除农奴制，庄园经济依然是许多地区的支柱产业，而大英帝国则如日中天不可一世。</p>
+<p>而为了学习办学经验，托翁来到了伦敦，而 1861 年 3 月在给他的姑姑亚历山大德拉·安德烈耶夫娜·托尔斯泰娅的信中，他这么说</p>
+<blockquote>“我住在伦敦已经快三个星期了，这座城市给我的感觉是复杂的。一方面，这里有文明所能达到的最高成就——博物馆、图书馆、议会；另一方面，这里的人们似乎生活在一台巨大的机器里。昨天晚上很晚的时候，我走到外面，看到满载货物的马车仍在街上行驶，工厂的烟囱还在冒烟。<strong>在我们那里，这个时候连狗都睡了，但这里的人们还在工作，还在奔波。我不知道这是进步还是别的什么。</strong>”</blockquote>
+<p>而显然这一西欧见闻在日后他的《忏悔录》中表达过类似的思想，而托翁本人的身份则是一个脱胎于旧时代的贵族大地主。</p>
+<p>所以如果我们给托翁做一个人物画像的话，可以说他依然是一个家里种着安东诺夫卡苹果的庄园的贵族老爷，每天打打猎写写书，而他的领民也就是曾经的农奴家庭围绕在村社会议周围生产的旧日景象。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0740fa4fd5766b0c9c9c486efe726fd6_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以他即便上过大学混过彼得堡，但依然难以接受“人们不再为了自己的需要而劳动，而是为了别人的需要”和“他们从早到晚，甚至从夜晚到早晨，都在做着自己并不理解的事情。”这种我们当代人很好理解的社会现实。</p>
+<p>我们那两个时代人们的认识对照一下就明白，工作时间的本质实际上跟生产力有关，更和生产模式和社会结构有着强相关。</p>
+<hr>
+<p>这里是浣熊君，一个在知乎撂地的闲散作者</p>
+<p><a class="internal" href="https://www.zhihu.com/question/2009726258246858281/answer/2010269531583561872">古代获得不同颜色的衣服方法和难度一样吗？</a><a class="internal" href="https://www.zhihu.com/question/2006368050652389437/answer/2009890783017318073">猴子与马一起养，可使马少疾病，有科学解释吗？</a><a class="internal" href="https://www.zhihu.com/question/2009124453368481139/answer/2009652259806529145">干杯一词的由来是什么？</a></p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2010047301675147347">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788318</guid><pubDate>Wed, 11 Mar 2026 01:28:00 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788303</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">瞎扯 · 中国的小偷为什么断崖式地下降？</h2>
 
 <div class="answer">
 
@@ -284,34 +248,40 @@
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/40802894/answer/3385810688" target="_blank">有没有一张图片让你明白了什么叫杀气？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1980216389609473758/answer/1986744904253195454" target="_blank">中国的小偷为什么断崖式地下降？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/575a16a174a2d36facbdf7602d15adfb" target="_blank">@江富川</a> ：他在雪地里等了半小时，我下楼取外卖看到这一幕</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/2bf3f395e5b37cad8525f0bf5f37d951" target="_blank">@灵明石猴</a> ：其实主要还是预期收益不高，你看这位大神，以为字牌含金，公安厅几个字都撬下来了。</div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-186cbe9371a313b94b149ffd7d8166d5_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-47be0d3ebc7f271abac36dad8ddfb524_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/626467363/answer/1918621997782501081" target="_blank">路遇过什么让你印象深刻的狗主人？</a></p>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-5fa0da9e7951f9c5680feb3f8e8b62e4_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1898048519782248661/answer/1986971513824494327" target="_blank">博士学位的论文致谢一定要致谢导师吗？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1d3945cdacaf0ec1a6fa62bd6e94c8a2" target="_blank">@中庸秀才</a> ：俩大妈路边吵架，发展成攥紧狗绳，拿狗当流星锤使，开始互抡。</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f100143e3b84cd1a6a242e595267f992" target="_blank">@胖虎 Paolu</a> ：可别乱谢了，都正常点，幸亏我看了，有个女生写什么结草衔环大恩大德？？？？</div>
 </blockquote>
-<p class="ztext-empty-paragraph">Q：<a class="internal" href="https://www.zhihu.com/question/548217230/answer/1988734389291594451" target="_blank">世界上最丑的飞机是什么？</a></p>
+<p class="ztext-empty-paragraph">Q：<a class="internal" href="https://www.zhihu.com/question/662799476/answer/1912531171444761505" target="_blank">如何评价网络句式「啊啊啊啊，你是一个 XXX 宝宝」？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/204a3998e4f7e0eea895b54ec392c8a3" target="_blank">@saki kawa</a> ：它可能不是最丑的，但却是被官方以「太丑」为由淘汰的。</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f8d8721fb28d81418478d3c1b7ce6501" target="_blank">@just 必烈</a> ：既然你不想听宝宝你是一个宝宝，我也略通一些典急孝乐蚌赢润甜麻寄</div>
+</blockquote>
+<p class="ztext-empty-paragraph">Q：<a class="internal" href="https://www.zhihu.com/question/662296075/answer/1985398139776176172" target="_blank">想看一看你们拍的有趣的照片?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/98d7502616cbd87b1e386119f6ac3eff" target="_blank">@阿燕博系</a> ：好几年前的图，我老哥换上他最破的衣服给我炸带鱼吃，哈哈哈</div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-815e1cf4be9c27b84713776a3237f7ce_1440w.jpg" alt=""></div>
-</figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1972934338480976270/answer/1986714206205129924" target="_blank">文字可以营造出类似跳脸杀的效果吗？</a></p>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-65b53223ea0110e7002ea9bdbd85e21f_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/20454540/answer/1988310360088924285" target="_blank">你认为最失败的标志（Logo）设计有哪些？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/31e78ca38e292f3e9ae152d56b9c89d0" target="_blank">@一苇以航</a> ：可以，例如考试前想突击一把，点开课件的瞬间跳出「文件已过期」五个大字的时候。</div>
-</blockquote>
-<p class="ztext-empty-paragraph">Q：<a class="internal" href="https://www.zhihu.com/question/1966435210687149095/answer/1968310686955344142" target="_blank">微软 office 的图标怎么变了？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d29a305c4029360dabcdb2ce4f119b59" target="_blank">@远洋护卫队</a> ：请告诉我，你能不能一眼分辨出 word excel onenote 是哪个图标</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/2e8faa887c0ab18287b7d6aad0706da4" target="_blank">@不如归去</a> ：倒不觉得设计失败，只是这俩到底谁先设计出来的啊？</div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-6416904027faf3b2f689ba6b5169b4e2_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-d7c63880f31e2667a033ebacd74f8349_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-09a513d537214fff32fb7f644bfbf04c_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
 </div>
 </div>
@@ -321,4 +291,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788294</guid><pubDate>Tue, 10 Mar 2026 18:40:27 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788303</guid><pubDate>Wed, 11 Mar 2026 01:28:01 GMT</pubDate></item></channel></rss>
