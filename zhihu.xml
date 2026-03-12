@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 11 Mar 2026 18:47:40 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么保鲜膜可以保鲜食物，其它塑料袋却会把食物捂变质？</title><link>http://daily.zhihu.com/story/9788167</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-3a870ed69c371384c8cb2204762aee9a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 12 Mar 2026 01:27:47 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>关于马的生活习性，有哪些冷门又有趣的小知识？</title><link>http://daily.zhihu.com/story/9788172</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-6c64ecc6538d9dcd516caa4aa2a7325e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,92 +19,63 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-c07e9212c77809700a9b7431c219163f_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">让有趣先知楞起来。</span>
-<a href="https://www.zhihu.com/question/2009230288241325683/answer/2010468358924047036" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/2000191090557412444/answer/2000526458204992188" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>因为...</p>
-<p>塑料的真实身份其实是不停蠕动的邪神触手怪，会偷偷传送气体。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f046fa4a743f9e722c2498dfd72a27ca_720w.gif?source=8673f162" alt=""></figure>
-<p>没错，在你面前看起来光滑透明没一点孔的塑料，其实是可以透气的。</p>
-<p><strong>或者说，几乎所有致密无孔高分子材料，都有透气率。</strong></p>
-<p>那肯定有小伙伴好奇，都致密无孔了，怎么可能透气呢？</p>
-<p>咱得去微观世界看看。</p>
-<p>我们都知道，物质世界是由原子，分子构成，他们通过金属键，共价键等不同方式链接。</p>
-<p>其中，共价键具有明确的方向性和饱和性，有点像乐高积木，只能按固定的方向插。</p>
-<p>那么问题来了，如果把一大堆相同或者相似的小分子单体聚集在一起，</p>
-<p>然后用共价键给穿成分子蜈蚣，会发生什么事呢？</p>
-<p>这就是聚合物。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bbb3dc97f80ec08d2450331f1edb9691_720w.jpg?source=8673f162" alt=""></figure>
-<p>由于串法不同，聚合物形态众多，但是都有一个共性，个头大。</p>
-<p>我们都知道，多数晶态固体的产生实际就是原子或分子从无序到有序的过程。</p>
-<p>如果原子或者分子的结构比较简单，多数情况下变成固体是简单的堆叠，形成有序的结晶。</p>
-<blockquote>就像容器里装的大米，倒完自己就会稳定下来。</blockquote>
-<p>而聚合物则是一堆在不停乱动的线头子，如果简单的堆在一起，那必然会缠成一团乱麻。</p>
-<p>更麻烦的是由于分子链太大，化学键又焊的太结实，聚合物内被串起来的单体们很难找到真正完全适合自己的位置，只能被迫接受两种状态：</p>
-<p><em>一是局部小段排列整齐，形成结晶区。</em></p>
-<p><em>二是继续找适合自己的位置，始终处于持续的热振动和微布朗运动中，形成非晶区。</em></p>
-<blockquote><em>注意，这不是选择题，而是全选题，因为高分子材料几乎做不到 100% 完全结晶。</em></blockquote>
-<p>由于非晶区始终无法有序固定，被迫持续运动，</p>
-<p>分子链之间会不断出现未被占据的微小空隙，这被称为自由体积（free volume）。<sup>[1]</sup></p>
-<p>由此就能发生一些很有趣的事。</p>
-<p>由于自由体积是随机运动出现的微小空隙，</p>
-<p>如果大小合适，气体分子会先溶解在聚合物表面。</p>
-<p>然后随着自由体积运动被吞噬到聚合体内部，进行随机扩散。</p>
-<p>当然，聚合物普遍很稳定，一般并不会对这些物质做什么，</p>
-<p>总有一天，会被再次解吸出来。</p>
-<p>部分运气好的，就会被传送到另一端，完成穿越。</p>
-<p>这就是高分子材料的溶解 - 扩散机制（Solution-Diffusion）。<sup>[2]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbddb4454ce6bb9992e6075e180ddad3_720w.jpg?source=8673f162" alt=""><figcaption>不同分子通过溶解 - 扩散机制通过聚合材料示意图。</figcaption></figure>
-<p>这也顺便解释了甭管咋密封，放久了的气球总会跑气的原因。</p>
-<p>所以，即使是致密无孔的保鲜膜，仍旧具有透气性，而且在特定条件下还可以做到选择性透过。</p>
-<hr>
-<p><strong>那么问题又来了，</strong></p>
-<p><strong>既然聚合物具有透气性，为啥常见的密封材料也是聚合物居多呢？</strong></p>
-<p>那就得搬出知乎的另一真理：只要劲够大，板砖也能飞上天。</p>
-<p>聚合物具有透气性不假，但是只要厚度够厚，链段堆的够密实，这种低效率的缓慢传送机制就可以当不存在。</p>
-<p>而且由于聚合物是化学键焊成的长链，平时都是蜷缩成一团，被拉开后又会想着弹回原来的形态，就有了不错的弹性，</p>
-<p>所以在不焊接的情况下，可以依靠本身的弹力强行撑开贴满缝隙，</p>
-<p>除了缺点全是优点，这可不就是天生密封圣体嘛。</p>
-<hr>
-<p>那我们回归保鲜膜和塑料袋，能制造这两种东西的材料有很多，咱以聚乙烯（PE）为例。</p>
-<p>保鲜膜和塑料袋虽然都能用聚乙烯制造，但是还不是同一个东西。</p>
-<p><strong>塑料袋的需求是高强度，高密封性。</strong></p>
-<p>所以更多的是使用高密度聚乙烯（HDPE），这种聚乙烯直链结构更多一些，更容易在局部扭结出更多结晶，产生的晶区更大。</p>
-<p>所以不光强度较高，也更容易散射光线，</p>
-<p>这就是为啥超市的马夹袋普遍呈白色半透明的原因之一。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6bc89b5972ca98772849e551b563b375_720w.jpg?source=8673f162" alt=""></figure>
-<p>而保鲜膜的需求是高韧性和适当的透气性，</p>
-<p>所以使用的是支链结构更多的低密度聚乙烯（LDPE），</p>
-<p>支链结构使分子链之间缠绕更多，韧性也就更高，不容易被整体撕破。</p>
-<p>同时，结晶区更少，空气也更容易通过溶解扩散机制渗透过去，实现透气的需求。</p>
-<p>所以使用塑料袋装食物，</p>
-<p>由于透气性不行，很容易产生密封高湿的环境，帮助微生物修行，导致食物腐败。</p>
-<p>而保鲜膜可以偷偷放走微量水汽，并悄悄换气，达到既隔绝外界灰尘病菌，又防闷防潮的特性。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-af651cd047ec1c6db1f64f7329ff2d63_720w.jpg?source=8673f162" alt=""></figure>
-<p>另外，对于聚合物来说，也有邪修，</p>
-<p>那就是通过快速冷却把非晶区强行冻结，形成不咋会动的非晶玻璃态，</p>
-<p>这样即使是非晶区较多，材料较薄，也能有不错的隔绝能力。</p>
-<p>比如我们常见的亚克力板（有机玻璃）就是典型的非晶玻璃态材料。</p>
-<p>至于代价，就是变的又脆又硬。</p>
-<p>除了材料的特性，保鲜膜出厂前还会进行电晕处理，</p>
-<p>就是使用高压电电击表面，使本来不愿意贴在餐具上的非极性材料拥有更大的表面能，可以自己主动吸附住餐盘。</p>
-<p>由此告诉我们一个道理：</p>
-<p>遇事不决（比如不想点赞），电电就好~逃。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1cfa119205738300ffcca891ece0bf3a_720w.jpg?source=8673f162" alt=""></figure>
+<p>2021 年 8 月 4 日的东京奥运会马术场地障碍个人决赛上，爱尔兰骑手奇安·奥康纳策（<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.horseandhound.co.uk/tag/cian-oconnor" target="_blank" rel="nofollow noreferrer">Cian O’Connor</a>）骑的赛马 Kilkenny 在完成比赛时，鲜红的鼻血染红了它的口鼻和胸前。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6ad0acdd95c69aa59a49dcbb248b0e33_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f840b4baa1efdd26e050f1cf6757579c_720w.jpg?source=8673f162" alt=""></figure>
+<p>这一幕瞬间点燃了屏幕前观众的怒火，关于“骑手为了成绩虐待马匹”“鞭打过猛导致内伤”的指责在社交网络上铺天盖地。</p>
+<p>但其实，在赛马和马术的世界里，这种鲜红色的血液绝大多数时候并非源自外部的暴力。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2cda828ebd1f1bb0d05907dbb32805a5_720w.jpg?source=8673f162" alt=""></figure>
+<p>这些血液的真实源头，位于马匹的肺部深处。这种现象在兽医学上被称为“运动诱发性肺出血”（EIPH）。早在 1974 年，库克教授就通过内窥镜检查证实，赛马鼻孔流出的血液并非来自鼻腔的毛细血管，而是源自肺部 <sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8a5010abb25db8d307533e9677195ae8_720w.jpg?source=8673f162" alt=""></figure>
+<p>在全速奔跑时，马匹的心率可以飙升至每分钟 220 次以上<sup>[2]</sup>， 心输出量（cardiac output）极其惊人。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-10a7a614be5bf90ccd8a3fd95e28e09e_720w.jpg?source=8673f162" alt=""></figure>
+<p>为了运输氧气，马的脾脏会像一个压缩血袋一样收缩，将储存的高浓度红细胞泵入循环系统，这虽然极大提升了携氧能力，但也让血液变得极度粘稠 。</p>
+<p>这就构成了一个致命的矛盾：心脏正以高压泵送着像糖浆一样粘稠的血液流向肺部，而肺部的毛细血管为了实现极速的气体交换，进化得比纸还要薄，其“血气屏障”的厚度仅有 0.5 微米左右。</p>
+<p>下图为马肺毛细血管横截面示意，肺泡负压与毛细血管管腔正压在极其纤薄的血气屏障，所示压力值为马匹进行最大强度运动时的数值：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7745a0a30ff6f0b164b0c16867877a68_720w.jpg?source=8673f162" alt=""></figure>
+<p>当血管内的压力超过了毛细血管壁强度的临界值，血管就会像过载的水管一样发生应力性破裂，血液随即涌入肺泡<sup>[3]</sup>。</p>
+<p>更残酷的机制在于马匹独特的“内脏活塞”效应。当马匹以每小时 60 公里以上的速度飞奔时，它们必须保持一步一呼吸的节奏（Locomotor-Respiratory Coupling）。</p>
+<p>每一次前肢落地制动，重达数百公斤的胃肠道内脏因为惯性像攻城锤一样猛烈撞击横膈膜；每一次后肢发力蹬地，内脏又被猛烈拉回 。这种剧烈的机械震荡在胸腔内制造了巨大的压力波，配合着血管内的高压，对肺部后背侧脆弱的组织进行了内外夹击。</p>
+<p>下图为马肺出血的机制：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7db1b3e8568a0230600dc21763c17633_720w.jpg?source=8673f162" alt=""></figure>
+<p>这并非现代赛马独有的病症，而是写在纯血马基因里的代价。</p>
+<p>早在 18 世纪，现代纯血马的三大始祖之一“达利阿拉伯”（Darley Arabian）的直系后代、1716 年出生的名马 Bartlett's Childers，就因为经常流鼻血而拥有了一个响亮的绰号：“流血的奇尔德斯”（Bleeding Childers）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4df507cff69f2334ce645fadfacd08a_720w.jpg?source=8673f162" alt=""><figcaption>Reproduced from Youatt W. The Horse. London: Longmans, Green, and Co.; 1874</figcaption></figure>
+<p>这匹从未上场比赛的种马，却是历史上最伟大的赛马 Eclipse 的曾祖父。可以说，这种为了速度而牺牲肺部结构强度的特质，早在三百年前就被人类锁死在了纯血马的遗传密码中。</p>
+<p>1661 年，马尔切洛·马尔皮吉（Marcello Malpighi）就画过马肺毛细血管与肺泡，（2）剖开的肺泡内可见肺毛细血管，极其密集，它们构成了血气交换屏障：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-257459b69c4085812bb0d1602551d41d_720w.jpg?source=8673f162" alt=""></figure>
+<p>既然是生理缺陷，人类便试图用化学手段来修补。这就引出了赛马界最具争议的药物呋塞米（商品名 Lasix）<sup>[4]</sup>。</p>
+<p>这是一种强效利尿剂，它能让马匹在赛前短短几小时内排出 20 到 30 升尿液 。这种脱水效应直接降低了血容量和血压，从而显著减少了肺血管破裂的概率。南非在 2009 年的一项研究证实了其在减少 EIPH 严重程度上的有效性<sup>[5]</sup> 。</p>
+<p>支持者认为这是人道主义的治疗，反对者则认为这是合法的兴奋剂。因为排出的几十斤尿液意味着马匹体重的显著减轻，在以磅为单位计算负磅的赛马中，轻装上阵本身就是巨大的优势<sup>[6]</sup> 。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2026395389a045793ba0dd539c896a2e_720w.jpg?source=8673f162" alt=""></figure>
+<p>长期以来，美国是世界上少数允许在比赛日使用 Lasix 的主要赛马国家，这让美国赛马常被讥讽为“药物赛马”<sup>[7]</sup>。不过，随着《赛马诚信与安全法案》（HISA）的推进，从 2021 年开始，美国的三冠王赛事（肯塔基德比、普利克内斯锦标、贝尔蒙特锦标）已开始禁止在比赛日使用 Lasix，试图向国际无药标准靠拢 <sup>[8]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-63cfbc707062e522ad7efc50b5bee4b4_720w.jpg?source=8673f162" alt=""></figure>
+<p>在不依赖药物的司法管辖区，如中国香港和澳大利亚，管理规则比较理性<sup>[9]</sup>。香港赛马会执行着全球最严厉的“两振出局”政策：马匹如果被兽医确认第一次流鼻血（必须是双侧鼻孔流血或内窥镜确认源自肺部），将被强制禁赛三个月；如果发生第二次，将面临强制退役，永久告别赛场 。</p>
+<p>这种规则是对生命的底线保护。就在不久前的 2024 年 10 月，曾赢得 1500 万澳元奖金的澳大利亚短途名马 Think About It，在悉尼兰域马场的一场比赛中突然倒地<sup>[10]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-13285fdcb1545e78279506a21d0378ab_720w.jpg?source=8673f162" alt=""></figure>
+<p>起初人们担心它遭遇了毁灭性的骨折，但兽医检查证实它遭受了严重的体内大出血。尽管它奇迹般地站了起来并活了下来，但根据规则和福利考量，这匹冠军马被立即安排退役。</p>
+<p>所以说，流鼻血是马匹身体发出的最强烈的红灯信号。观众看到的鼻孔流血其实只是冰山一角，实际上超过 90%的赛马在剧烈运动后都会发生不同程度的肺部微出血，只是大部分血液被吞咽或停留在气管深处，肉眼不可见罢了 。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-31f33a7b4e6855ece869200e9c21f585_720w.jpg?source=8673f162" alt=""></figure>
+<p>对于纯血马来说，流鼻血是追求极速的诅咒。</p>
+<p>另见：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/9034634989/answer/74306479961">马汗有什么特别的地方么？</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2009230288241325683">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2000191090557412444">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788167</guid><pubDate>Wed, 11 Mar 2026 18:47:37 GMT</pubDate></item><item><title>明代「民间书坊」数量众多，出版的书除了通俗文学，还有哪些实用类著作吗？</title><link>http://daily.zhihu.com/story/9788201</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-3a69df1ac5c75b585a26ceb6ee4b1c65.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788172</guid><pubDate>Thu, 12 Mar 2026 01:27:44 GMT</pubDate></item><item><title>有哪些汉字的起源是你意想不到的？</title><link>http://daily.zhihu.com/story/9788209</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4e169a6d7277037ca237c32bdf0cc9a5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -124,36 +95,95 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-96414e2a07dc6600785a8ddea20eadd9_l.jpg?source=8673f162">
-<span class="author">宁南左侯，</span><span class="bio">太极生二姨</span>
-<a href="https://www.zhihu.com/question/1997651962242570060/answer/2001979922378408047" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-772321737beb09bc1cd91167db398322_l.jpg?source=8673f162">
+<span class="author">黄佳智，</span><span class="bio">公众号：在练</span>
+<a href="https://www.zhihu.com/question/1937771527069216955/answer/2010692664274748938" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>缙绅录。</p>
-<p>明清时期，有一种记载记载全国范围内官员职务、姓名、字、籍贯、出身的花名册叫《缙绅录》，长这样：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2a63b52567ae0d2400e2215d227f4e1f_720w.jpg?source=8673f162" alt=""></figure>
-<p>由于官员实时调整，所以这东西也是一年出四期，春夏秋冬各一次，所以理论上甚至可以算是古代的期刊（季刊）。</p>
-<p>这玩意是官方修的，甚至南明的时候还修过，隆武元年七月，朱聿键让吏部“谕刻《搢绅录》”，而且给了多条指示，比如宗人府开列在内阁之后，“此国初亲王所掌之衙门，不可在后开列”；照样开列南京官员，虽然南京已经丢失了；各衙门必须加“行在”二字，即使恢复了南京也必须称之为“行在”（以示不忘恢复），嘉靖改的殿阁大学士名称再改回去，皇极殿仍改称行在奉天殿，中极殿仍改称行在华盖殿，建极殿仍改称行在谨身殿；北方虽然已经沦陷，但必须开列全部府州县官职名称，只是不用写官员姓名，“以俟恢复”；福建列于南北两直隶之后、各省之前，“以明中兴重地”；鲁监国麾下的方逢年、张国维列入隆武阁员，写作“敕辅钦命监国亲藩鲁王福京行在东阁大学士兵部尚书张国维”；等等等等。</p>
-<p>这种缙绅录清代留下的比较多，清史工程那边还汇总出过一个 95 册的《清代缙绅录集成》，但明代的留下的就少多了，已知存世的一共有六种，其中四种万历的，两种崇祯的。国家图书馆现藏有两部，一部是万历十二年春天的，一部是崇祯十四年秋天的。</p>
-<p>可为什么说是“民间书坊”呢？</p>
-<p>因为这东西虽然是官方主编，但印刷都是民间来做，比如国图万历刻本《新刊真楷大字全号缙绅便览》是“北京宣武门里铁匠胡同叶铺刊行”，而崇祯十四年秋的是“正阳门里东城墙下浙江台州洪家书铺”，甚至还有个商标，一位老爷指着太阳给身边俩人说什么，这叫“指日高升”。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f3ab856eeda03004e365e321d04cee4c_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种书无论是对当时的人还是对后来的研究者，都有极大的作用，非常实用。首先对于当时人来说，可以很清楚的查询到某个衙门的某个官员叫什么名字、哪里人，比如我要去陕西延安做生意，一翻这个，发现延安府经历司经历牛汝洪是馆陶县人，馆陶县属山东东昌府，我家莘县也属于东昌府，这不巧了么，所以我就可以到了延安想办法去拜访一下我这位老乡，交个朋友。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a955b24eb669c23d1e56638d6059c7d6_720w.jpg?source=8673f162" alt=""></figure>
-<p>从现代角度看，大官好找小官难寻，很多地方历史上的官员是不全的，县志等资料上也没有，这种缙绅录就可以补充史料之缺。不光是补缺，还有个很大的作用的分析，大数据分析，这一本缙绅录上刊刻全国各地的官员，他们出身各异籍贯各异，所以很适合做数据分析，比如分析知县的出身，进士占比多少、举人占比多少、贡生多少，细化又可以分析府附郭县的比例如何、边疆县份比例如何，都可以做文章，反正写一份硕士毕业论文绰绰有余。甚至还能发现一些历史的冷门生僻之处，比如上图延安府安塞知县叫朱敏氵宜，山西平阳人，宗贡，这个名字这个出身，很明显他是山西晋王府的支系，再根据他的籍贯写的是山西平阳而不是山西太原，所以很明显应该是出自晋藩交城、阳曲、西河、怀仁四家王府中的一支。</p>
-<p>类似于这样的历史细节，都可以从缙绅录中找寻，只可惜明代缙绅录留存太少了，但是清代缙绅录要是分析呢，又相当不团结，所以这事就很尴尬了。但无论如何，利用缙绅录来做历史研究，是一个不错的路子。</p>
+<p>举几个，看看是不是你意想不到的。</p>
+<p><strong>比如「我」字。</strong></p>
+<p>最初并不是人称代词，而是奴隶社会里一种用来行刑杀人和肢解牲口的凶器。</p>
+<p>所以我们看到的甲骨文中的「我」字，是长这样的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c51040eef61fa3fedb9f12a13de96414_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文「我」字</figcaption></figure>
+<p>这种兵器在商周时期非常流行，早期代表着权威和武力。</p>
+<p>所以贵族佩「我」彰显身份，自称时言「持我者」。而人们在表示「我们这一方」、「我们的阵营」时，也用武器「我」来指代。</p>
+<p>于是，久而久之，这件兵器的本义逐渐消失，「我」字在后来便被普遍地作为第一人称代词使用，，并一直沿用至今。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd5d5cdbc9bad84f967be27b2749375e_720w.jpg?source=8673f162" alt=""><figcaption>「我」字的演变</figcaption></figure>
+<p><strong>再比如「它」字。</strong></p>
+<p>在现代汉语中，最常见的是指物的第三人称代词，但实际上它的前身是一条蛇。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-19ec1f9b6e5141660e510e7f2a821dd9_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文中的「它」</figcaption></figure>
+<p>上古时期，人们居住条件简陋，最害怕的就是蛇。</p>
+<p>所以见面打招呼时常问「无它乎？」，意思是「没有碰到蛇吧？」，就像后来问「无恙乎？」一样。</p>
+<p>随着语言发展，这个表示「蛇」的象形字，被借用为表示「其他事物」的代词。</p>
+<p>当人们需要重新表达「蛇」时，就在「它」上加了个「虫」字，便造出了「蛇」。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ffcf113aa50d78188473d989670e3e48_720w.jpg?source=8673f162" alt=""><figcaption>「它」字的演变</figcaption></figure>
+<p><strong>再比如「取」字。</strong></p>
+<p>字形由「耳」和「又」（手）组成，在甲骨文中，字形像是用手拿耳朵的画面。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-79e072f7e986a7172d901cd0bab5a34e_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文的「取」字</figcaption></figure>
+<p>为什么「取」字是手拿耳朵呢？</p>
+<p>这是因为在古代战争中，杀敌后要割下敌人的左耳作为凭证，用来统计战功，这个行为就叫「取」。</p>
+<p>我们今天用「取」表示「拿取」、「获得」，殊不知其源头就是却是如此血淋淋的战争场景。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d529eee15ec146257368b38fd6f291d7_720w.jpg?source=8673f162" alt=""><figcaption>「取」字的演变</figcaption></figure>
+<p><strong>再比如「名」字。</strong></p>
+<p>字形为「名」由「夕」和「口」组成，其中「夕」代表夜晚、黄昏；「口」代表嘴巴、说话。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6a36540d0f9f28c8525f038f3e298ca5_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文「名」字</figcaption></figure>
+<p>为什么要用晚上和嘴巴就能表示「名」字？</p>
+<p>远古时期，没有电灯，日落之后漆黑一片。人们在黑暗中相遇，看不清对方是谁，于是就得通过嘴巴自报家门：「我是谁谁谁。」</p>
+<p>这个在走夜路报出自己的身份的动作，就是「名」。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-52afe2be74a70e573825f8d909679809_720w.jpg?source=8673f162" alt=""><figcaption>「名」字的演变</figcaption></figure>
+<p><strong>再比如「豆」字。</strong></p>
+<p>「豆」现在指黄豆、绿豆，但实际上它最初是一种容器，甲骨文中它长这样：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-786500932b693d53d7d90c445a1f3b25_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文「豆」字</figcaption></figure>
+<p>我们可以看到，甲骨文的「豆」，就是一个高脚的器皿，上面是盘，下面是脚，像今天的高脚碗。</p>
+<p>古代的「豆」是盛肉食的器皿，也是礼器。比如战国嵌松石蟠螭纹豆。后来这种器皿的形状被借用指「豆子」这种植物，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-15d93580419c2077107a2eec2fc98066_720w.jpg?source=8673f162" alt=""><figcaption>战国嵌松石蟠螭纹豆@北京故宫博物院</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c752f4457751529770ccaa8eebc68821_720w.jpg?source=8673f162" alt=""><figcaption>「豆」字的演变</figcaption></figure>
+<p><strong>再比如「朋」字。</strong></p>
+<p>现在我们通常用「朋」字表示「朋友」的意思，但它最初是货币单位。</p>
+<p>甲骨文的「朋」，就是两串贝壳串在一起。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0dad1036ea514761caa81fd97fcdf67c_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文「朋」字</figcaption></figure>
+<p>在古代，贝壳是货币。把两串贝币串在一起，就叫一「朋」。</p>
+<p>因为志同道合的人会互相赠送贝币，或者一起用贝币做交易，所以「朋」就引申为「朋友」。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d3ea579bd5d75dcc21490fc6469f6e2_720w.jpg?source=8673f162" alt=""><figcaption>「朋」字的演变</figcaption></figure>
+<p><strong>再比如「姓」字</strong></p>
+<p>「姓」字由「女」和「生」组成。</p>
+<p>你可能会好奇，为什么现在通常冠父姓，但姓却是「女」字旁。</p>
+<p>实际上，远古是一种母系氏族社会，人们只知其母不知其父。为了区分不同的血缘部落，就用「女人所生」来表示族群的标志，这便是「姓」的由来。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bfc25fe6359c210fc5ccd7aa3f8262dd_720w.jpg?source=8673f162" alt=""><figcaption>「姓」字的演变</figcaption></figure>
+<p><strong>再比如「福」字</strong></p>
+<p>「福」有幸福、福气的意思，甲骨文的「福」字，左边是「示」，右边是「畐」。</p>
+<p>「示」表示的是古代祭祀用的神台，「畐」也就是一个酒坛子的形状，只不过旁边加了两只手。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-403d813e94aad724b09406080ac397ad_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文「福」字</figcaption></figure>
+<p>整体的意思是，用双手捧着酒坛，在神台前献酒。古人认为，用美酒敬神，神明就会赐福。</p>
+<p>因此，幸福不是白来的，是虔诚换来的。</p>
+<p>所以「福」的本义是「求福」，后来才指「得到的福气」。</p>
+<p><strong>再比如「监」字</strong></p>
+<p>现代「监」有监督、监视的意思，但在甲骨文中，监描绘的是一个人弯着腰，睁大了眼睛，对着一个装有水的器皿看。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8415f20810bf0573b345c7f05204836c_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文「监」字</figcaption></figure>
+<p>在青铜镜发明之前，古人是用静止的水面来反观自己的倒影。所以这个字本意是「一个人低头看水中的自己」，即照镜子。</p>
+<p>后来镜子发明了，才有了「鉴」字。而「监」引申为「监视」，是因为无论是照镜子还是监督别人，都需要仔细地看。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-16231fa4ebbe39800393e4866081bd36_720w.jpg?source=8673f162" alt=""><figcaption>「监」字的演变</figcaption></figure>
+<p><strong><strong>再比如「爱」</strong></strong></p>
+<p>简化后的「爱」字，比繁体「愛」字少了一个「心」字。</p>
+<p>它由「爫」（爪，手）、「冖」（遮蔽，引申为心）、「心」和「夊」（脚，行动）组成。合起来的意思是，用手捂住心口，将真心付诸行动送给对方。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7341bdd9150c8981da3969e4d4c386b9_720w.jpg?source=8673f162" alt=""><figcaption>甲骨文「爱」字</figcaption></figure>
+<p>所以我们可以发现，古人造「爱」字，强调的是行动和真心。</p>
+<p>不仅仅是心里想，还要行动，把「心」掏出来给对方看。</p>
+<p>相比之下，现代简化字虽然书写方便，但那种「捧出心来给你看」的深情，确实少了几分韵味。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d67b6289f21717a830bc7f89fc2e531_720w.jpg?source=8673f162" alt=""><figcaption>「爱」字的演变</figcaption></figure>
+<p>以上，希望对你有帮助。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1997651962242570060">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1937771527069216955">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788201</guid><pubDate>Wed, 11 Mar 2026 18:47:38 GMT</pubDate></item><item><title>古人每天的工作时间是不是都挺短的？</title><link>http://daily.zhihu.com/story/9788318</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ed17e92b4e293f9b78b7d6a320ad9a71.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788209</guid><pubDate>Thu, 12 Mar 2026 01:27:45 GMT</pubDate></item><item><title>为什么几乎没有看见鲨鱼身上长藤壶？</title><link>http://daily.zhihu.com/story/9788211</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-b985b97af71b946e924290ce3e3dab80.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -173,56 +203,123 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-cef37bf0392e114344d6b861bb1ba938_l.jpg?source=8673f162">
-<span class="author">晴耕雨读的浣熊君，</span><span class="bio">在知乎撂地的闲散科普创作者，争取每周双更</span>
-<a href="https://www.zhihu.com/question/2010047301675147347/answer/2010761169997157696" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/2003407353597428177/answer/2009948545751458709" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>相比于现代社会来说确实是这样的，因为随着工业革命生产力几何式上升的时代开始，人类突然就意识到了可以依靠诸如煤气灯和电灯等照明设备，来有效延长人类活动的时间。</p>
-<p>去年我在讲古人为什么普遍有赏月和观测月相的这个问题时也讲过，在日出而作日入而息的时代，自然光是人类活动的刚需，你就算想要工作，也得确保照明的成本能被劳动所得给覆盖，否则加班就是赔钱买卖还不如多睡一会。</p>
-<p>所以我们会在秦汉许多文献记载中看到，有纺织能力的女红会选择“夜绩”的习惯，也就是在夜晚赶工继续纺织，而这些劳动妇女选用的时间也大多是月明星稀的月中旬，最大程度利用月光来延长自己的工作时的照明时间</p>
-<blockquote>“冬，民既入，妇人同巷，相从夜绩，女工一月得四十五日”</blockquote>
-<p>这个记载出于《汉书》的食货志，利用来之不易的月光他们甚至能一个月赶出一个半月的工作量，可见这是一种非常行之有效的生产策略。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c74cab035023a03d6bd67cf9a349dccf_720w.jpg?source=8673f162" alt=""></figure>
-<p>而除了夜绩这种正经的纺织业，在传统农业社会里，我们还可以利用夜晚来进行搓麻绳、编蓑衣之类的工作，《诗经·豳风》里不是说么，</p>
-<blockquote>“昼尔于茅，宵尔索绹。”</blockquote>
-<p>说得就是白天采集茅草，晚上就搓成绳子，然而夜晚能做的工作也就仅限于此了，再需要视力和体力的工作就没法在夜晚进行了，即便是皓月当空的夜晚也很少有人半夜锄地。</p>
-<p>这就像是“日出而作日入而息”的出处《击壤歌》所说，大部分人过得都是“凿井而饮，耕田而食”的生活，纺织手工业只是生活的一部分。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e5261c8e949716a0836ff721897b833_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是歌中最后一句的“帝力于我何有哉”，则是最讽刺的，那尧舜可以让你田园牧歌，轮到嬴政那就咚咚锵了，让你了解一下什么叫秦政徭役的美妙。</p>
-<p>所以我们会看到诸如《太平御览》《水经注》这样的书中，在描述暴秦凶悍时，都说秦用徭役“昼警夜作，民劳怨苦。”</p>
-<p>但即便如此，白天夜晚连轴工作在生产力条件有限的情况下，不光是成本巨大，更是一个效率极低的选择。</p>
-<p>但话又说回来了，《后汉书》中记载过另一个跟加班有关的典故叫“蜀郡治火”，说的是东汉时蜀郡为防范火灾，不允许百姓夜晚点燃火种照明夜绩从事手工业生产，这一抽象决定直接导致了本地“昔日无𥜗”，不纺织所以没有裤子穿，这个逻辑可以说是非常严谨了。</p>
-<p>但更为关键的是夜间用火实际上刚需，所以不管怎样百姓仍然会偷藏火种，这样藏匿掩盖火源的方式反而还造成了火灾，这就跟大学寝室里查违规电器有异曲同工之妙。</p>
-<p>而当廉范任太守时不光废除了这一规定允许点火，而且广续水池防火，靠着这一手解决了火灾问题，所以本地百姓歌颂其</p>
-<blockquote>“廉叔度，来何暮，不禁火，民安堵，昔日无𥜗，今五袴。”</blockquote>
-<p>曾经穿不起裤子，现在一家有五条（确信）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-929e05a0bafdf05a707e6bd69e4ea06f_720w.jpg?source=8673f162" alt=""><figcaption>感谢太守送来的裤子</figcaption></figure>
-<p>而如果我们画风一转，跳到一个工业化的社会语境下，我们就会意识到一点，说白了工业化后城市居民活动时长的延长，本质上是人类用更好的照明，更丰富的营养和更严密的组织结构，来欺骗了长久以来的作息时间，并且还成功了。</p>
-<p>这不是浣老师我说的，而是选自文学巨匠托尔斯泰的信件与日记当中，1861 年他曾经造访西欧多地包括魏玛、布鲁塞尔等地，伦敦是他们一行人的最后一站，他曾经多次提到过对伦敦这座城市昼夜不分的态度。</p>
-<p>此时的托老先生 33 岁，而他的祖国沙皇俄国在不久之前刚刚废除农奴制，庄园经济依然是许多地区的支柱产业，而大英帝国则如日中天不可一世。</p>
-<p>而为了学习办学经验，托翁来到了伦敦，而 1861 年 3 月在给他的姑姑亚历山大德拉·安德烈耶夫娜·托尔斯泰娅的信中，他这么说</p>
-<blockquote>“我住在伦敦已经快三个星期了，这座城市给我的感觉是复杂的。一方面，这里有文明所能达到的最高成就——博物馆、图书馆、议会；另一方面，这里的人们似乎生活在一台巨大的机器里。昨天晚上很晚的时候，我走到外面，看到满载货物的马车仍在街上行驶，工厂的烟囱还在冒烟。<strong>在我们那里，这个时候连狗都睡了，但这里的人们还在工作，还在奔波。我不知道这是进步还是别的什么。</strong>”</blockquote>
-<p>而显然这一西欧见闻在日后他的《忏悔录》中表达过类似的思想，而托翁本人的身份则是一个脱胎于旧时代的贵族大地主。</p>
-<p>所以如果我们给托翁做一个人物画像的话，可以说他依然是一个家里种着安东诺夫卡苹果的庄园的贵族老爷，每天打打猎写写书，而他的领民也就是曾经的农奴家庭围绕在村社会议周围生产的旧日景象。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0740fa4fd5766b0c9c9c486efe726fd6_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以他即便上过大学混过彼得堡，但依然难以接受“人们不再为了自己的需要而劳动，而是为了别人的需要”和“他们从早到晚，甚至从夜晚到早晨，都在做着自己并不理解的事情。”这种我们当代人很好理解的社会现实。</p>
-<p>我们那两个时代人们的认识对照一下就明白，工作时间的本质实际上跟生产力有关，更和生产模式和社会结构有着强相关。</p>
-<hr>
-<p>这里是浣熊君，一个在知乎撂地的闲散作者</p>
-<p><a class="internal" href="https://www.zhihu.com/question/2009726258246858281/answer/2010269531583561872">古代获得不同颜色的衣服方法和难度一样吗？</a><a class="internal" href="https://www.zhihu.com/question/2006368050652389437/answer/2009890783017318073">猴子与马一起养，可使马少疾病，有科学解释吗？</a><a class="internal" href="https://www.zhihu.com/question/2009124453368481139/answer/2009652259806529145">干杯一词的由来是什么？</a></p>
+<p>鲨鱼是一种鱼啊，你见过鱼类身上长大量藤壶的吗？</p>
+<p>藤壶并不傻，是一种很聪明的动物。</p>
+<p>动物要生存主要解决的就是<strong>干饭</strong>和<strong>繁殖</strong>两大问题。</p>
+<p>藤壶的一生，追求的就是躺平干饭。</p>
+<p>作为一种甲壳类节肢动物，藤壶与螃蟹其实有着一定的亲缘关系，但它们营固着的变态发育，天生就是为了躺平干饭。</p>
+<p>中文互联网上有个流传甚广的乌龙，说藤壶的幼体会经历<strong>浮游阶段、无节幼体、腺介幼体</strong>三个阶段，但其实，藤壶和其它一些甲壳类动物一样，一出生就是无节幼体，无节幼体和腺介幼体一起被称为浮游阶段。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-17c20aa8d5782d854048cf7c4f9c586e_720w.jpg?source=8673f162" alt=""></figure>
+<p>因为它们这个阶段，和典型的浮游生物并没有什么区别，大小在 0.2~0.5mm。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-73fad30731486479b244e9b1afeca81c_720w.jpg?source=8673f162" alt=""></figure>
+<p>刚孵化的藤壶，最大的目标，就是不断干饭，不断生长，为未来的躺平人生做准备。</p>
+<p>所以一孵化它们就会就会开始脱皮，让自己的身体不断长大。</p>
+<p>浮游生物时期的它们，并不用担心干饭问题。</p>
+<p>小小的它们，食物需求少，海水中的微生物和有机物碎屑就能量大管饱。</p>
+<p>经过 1~3 周的时间，数次脱皮，无节幼虫最终发育为腺介幼虫。</p>
+<p>到了这个阶段，它们就要开始为了未来的躺平人生做准备了。</p>
+<p>它们身体内部发生了一系列的生化变化，开始不吃不喝，随时准备着变态发育。</p>
+<p>但躺平之前，它们还需要找到免费的餐车。</p>
+<p>对免费餐车的选择，其实藤壶非常挑剔：</p>
+<blockquote><em>表面纹理太差，不方便附着，不行；</em> <em>酸碱度太高或太低，不方便躺平干饭，不行；</em> <em>相对润湿性太高或太低，不方便附着，不行；</em> <em>不喜欢的颜色，不行。</em> <em>温度低于 20℃，不行。</em> <em>温度高于 30℃，不行。</em> <em>水不流动，不方便躺平干饭，不行。</em> <em>水流太高，不方便附着，也不方便干饭，不行。</em></blockquote>
+<p>成年后的藤壶，是这样干饭的：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-bc95dd76f7219a16a5a9c7493bd8ccb4_720w.gif?source=8673f162" alt=""></figure>
+<p>它们主要通过触手组成的密集“篮子”来滤食浮游生物，或许它们后代也会不小心成为它们的食物之一。</p>
+<p>排除纹理不行、化学性质不适的材料后，藤壶的天然理想附着对象，就是有着缓慢水流的、表面纹理粗糙的坚硬岩石，以及皮肤具有纹理还裸露的大型鲸类。</p>
+<p>可以看出藤壶非常喜欢固着在坚硬的固体上，所以藤壶不附着鲨鱼体表，坚硬鳞片的说法并不能成立。</p>
+<p>同样，鳞片细小虽然是理由之一，但也不能成为关键理由，只要纹理足够粗糙，其实藤壶都是能附着上的。</p>
+<p>一般来说，藤壶的腺介幼体准备躺平干饭前，会伸出触手临时附着在目标物体表面，临时附着的强度并不高，可随时分开。</p>
+<p>如果附着不上，或者被水流冲开，或者酸碱度等其它条件达不到，它们一般就会放弃，寻找下一个目标。</p>
+<p>不过由于不吃不喝的它们能量有限，所以也会在尽可能有限的时间内，选择最佳的附着物。</p>
+<p>这样的选择机制，会令藤壶放弃大部分的鱼类和鲨鱼。</p>
+<p>因为很难附着上。</p>
+<p>鱼鳞表面的纹理低，主要成分是羟基磷灰石，可以说是非常光滑，无论小鱼鳞还是大鱼鳞都不方便附着。而鲨鱼鱼鳞的羟基磷灰石更是以珐琅质的形式存在，也就是我们牙齿上的牙釉质。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3e0b8ce1c130e98af465db9bd74d40a4_720w.jpg?source=8673f162" alt=""></figure>
+<p>牙釉质由横截面仅仅只有 300nm 的高致密棱柱结构组成，表面比较光滑。</p>
+<p>而且盾鳞并不平坦，表面凸起的，有效附着面积低，腺介幼体触手临时粘附的效果很差，水流稍微一快就会脱落。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-564a629fe742fd60ae6de1d2f7c5c337_720w.jpg?source=8673f162" alt=""></figure>
+<p>除此之外，在水流速度方面，为了能最好的躺平干饭，藤壶也非常挑剔。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8cb72b1238bc94b79ed8f050cc045de5_720w.jpg?source=8673f162" alt=""><figcaption> Balanut balanoidei（左）Elminius modestus（右）</figcaption></figure>
+<p>这是研究者对两种不同藤壶面对水流时，附着情况的研究结果<sup>[1]</sup>。</p>
+<p>纵坐标是藤壶的附着率，横坐标为剪切速度。</p>
+<p>在管道中，剪切速度是液体流速相对于管道半径的变化，因此单位是 /s，受到液体粘度、力学性质、温度的多重影响。</p>
+<p>实验中的 100/s 大约相当于，1m/s 水流对藤壶腺介幼体产生的冲击效果。</p>
+<p>腺介幼体的游泳速度大约 5cm/s，它们并不喜欢在过低的水流速度中附着。</p>
+<p>低水流速度，不仅让它们不利于分散附着，种内竞争过大，还不利于摄食。</p>
+<p>在低于 0.5m/s 的水流中，它们往往随波逐流，并不会进行附着。当水流速度超过 0.5m/s，它们通常会开始积极附着。</p>
+<p>对于附着能力低的藤壶来说，主要的附着水速在 0.6m/s~0.8m/s 的范围。</p>
+<p>速度超过 1m/s 附着率便会开始迅速下降，超过 4m/s 几乎无法附着。</p>
+<p>有意思的是，一般速度低于 2m/s，它们才会永久性固着，而在 2m/s~4m/s 的速度范围之间，它们一般选择临时附着的策略，继续寻找稳固附着的机会。</p>
+<p>而对于附着能力较强的藤壶来说，低于 1.5m/s 都有着高附着率，超过 2m/s 附着率才会迅速下降。超过 6m/s 才很难附着。但即便是强附着的藤壶，超过 10m/s 的水速，也将完全无法附着。</p>
+<p>可以看出对于大多数藤壶，是否附着的速度分水岭是 4m/s，对应的速度是 14.4km/h，全部无法附着的 10m/s 对应的是 36km/h。</p>
+<p>小型鱼类敏捷度高，不仅附着价值低还难以附着。中型鱼类大多都是游泳健将，而且和大型鱼类 / 鲸类不同，它们往往长期保持着高速游泳，再加上光滑的，对藤壶来说无法附着，也没有附着价值。</p>
+<p>而中大型鲨鱼拥有细小的珐琅质盾鳞，速度通常超过 30km/h。即便速度缓慢的鲨鱼，也通常都是深海鲨鱼，而藤壶主要的生活环境是 100m 水深以内。</p>
+<p>在光滑度和速度的影响下，藤壶仅仅尝试附着便会很快脱落，随后它们便会放弃这种没有价值的免费餐车。</p>
+<p>而对于经常被藤壶附着的中大型鲸类来说，速度通常很慢。</p>
+<p>例如，座头鲸的速度通常在 8km/h~15km/h，也就是 2m/s~4m/s，它们的最高速度都在藤壶的附着范围。而它们日常洄游速度往往在 6km/h 以下。</p>
+<p>藤壶腺介幼体伸出头部的触手一试，哎，这个流速、这触感，这角质层的丰富纹理，这中性的 PH，太棒了，正好完美附着，当我的免费餐车。</p>
+<p>虽然人类大型船只的速度通常在 30km/h 以上，航母的速度都可达到 50km/h 以上。这样的速度并不适合藤壶临时附着，但人类船只的最大问题是会长期停靠，除了航行，并不会总是维持在 30km/h 的速度以上。</p>
+<p>因此，人类的大型船只，无论速度如何，都会被藤壶找到附着机会。</p>
+<p>大而坚硬，有着金属纹理的巨型船体，它们很喜欢。</p>
+<p>腺介幼体选择永久固着后，会分泌特殊的胶体，这种胶体在水下会发生交联固化，与附着物表面聚合，产生强大的内聚强度，以及抗生物降解性。随后腺介幼体经过完全变态，发育成藤壶<sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-540b88d5d07e1a5a6889732fbed6c899_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种连接的强度大得惊人，抗拉强度达到 35Mpa，比大理石抗拉强度的 2 倍还高。粘结强度也有 200~400Kpa，非常接近水泥。</p>
+<p>因此，藤壶永久固定住大型船体后，正常航行速度将不会对它们的速度产生影响。</p>
+<p>对于鲨鱼来说，有没有可能在低速时，被藤壶永久附着呢？</p>
+<p>这样的情况下，在可高速航行的中大型鲸类身上可能发生，毕竟藤壶附着时，还会选择受到水流冲击较少的腔体或遮蔽部位附着。但这在鲨鱼身上，并不会发生。</p>
+<p>主要原因还是鲨鱼的盾鳞是很容易的脱落的，盾鳞和牙齿同源，都能反复脱落，终生生长。</p>
+<p>鲨鱼是一种非常容易脱落鳞片的鱼类。</p>
+<p>在古生物研究中，由于鲨鱼是软骨鱼很少留下骨骼化石，但它们经常脱落的鳞片，却形成了大量的鳞片。虽然通过鳞片化石很难推测它们的样子，但却可以通过鳞片的规模，来研究它们种群大小和演化。</p>
+<p>总之，鲨鱼不长大量藤壶的最根本原为：</p>
+<p><strong>鳞片凸起，小而光滑，游泳速度快，难以附着，即便勉强附着，鳞片还会脱落。</strong></p>
+<p>当然，万事都有例外。</p>
+<p>并不是所有鲨鱼都不长藤壶。</p>
+<p>例如，乌鲨（<em>Etmopterus</em>）作为一种游泳速度相对比较慢的深海鱼类，身上常常寄生着一种特殊的藤壶——<em>Anelasma squalicola</em><sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-eb06b58a96648796a9bc43009649f9d2_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种藤壶最臭名昭著的一点在于，它们并不是附着滤食，而是寄生吸血。</p>
+<p>通过把特殊的根扎入乌鲨软组织，来直接吸收组织、血液里的营养。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c171b103a6cbcb8c831d20ddb3b9ac2f_720w.jpg?source=8673f162" alt=""></figure>
+<p>它的罕见存在，与特殊的深海环境有关。</p>
+<p>一方面，乌鲨有用缓慢，给藤壶幼虫的首次附着创造的条件。</p>
+<p>另一方面，乌鲨背鳍刺附近或生殖孔周边存在容易附着寄生的软组织，寄生藤壶幼虫有了长期附着，并深入扎根的机会。</p>
+<p>还有一个关键点在于，深海环境中食物稀缺，甚至浮游生物都极少。</p>
+<p>寄生直接获取营养，几乎是藤壶生存的唯一方式。</p>
+<p>因此，寄生藤壶也发生了适应性的演化<sup>[4]</sup>。</p>
+<p>除了退化蔓足发展出了特殊的根外，还直接退化了石灰质硬壳，身体变得柔软，且呈流线型，给长期寄生创造有利条件。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-67751d58d86667499c65dad97bb05b39_720w.jpg?source=8673f162" alt=""><figcaption>外观：寄生藤壶 VS 普通藤壶</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4d431396aea9d9d4ca8fdef688a767f7_720w.jpg?source=8673f162" alt=""><figcaption>内部：寄生藤壶 VS 普通藤壶</figcaption></figure>
+<p>不过，乌鲨身上一次也不可能长太多这样的藤壶。</p>
+<p>这种深层寄生关系，对它们的生长发育影响非常大，甚至往往性腺萎缩，直接绝育。</p>
+<p>除了这种特殊的寄生藤壶外，也有正常藤壶寄生在游泳缓慢或大体型的鲨鱼身上，例如格陵兰睡鲨和鲸鲨。</p>
+<p>但相对来说，都是很罕见的。</p>
+<p><strong>所以，几乎看不到鲨鱼身上长藤壶，这个结论是正确的。</strong></p>
+<p>而大型鲸类最容易长藤壶，是因为它们厚实的角质层皮肤，从各个方面来说，都是藤壶理想的附着点。</p>
+<p>虽然角质层皮肤也会缓慢更新，但藤壶的附着点也不是一成不变，是会缓慢移动的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a74a187bfe444f725c89995563d432af_720w.jpg?source=8673f162" alt=""><figcaption>乌龟头上移动的藤壶</figcaption></figure>
+<p>虽然这个移动速度很慢，但适应鲸类角质层的更新速度是完全没问题的。</p>
+<p>一般来说，典型生物现象的背后，往往藏着一场精彩的利益博弈，大多数生物都会倾向于选择最佳利益策略。</p>
+<p>但藤壶躺平干饭后，却留下了一个巨大的难题。</p>
+<p>无法调整身体，如何解决繁殖问题呢？</p>
+<p>它们的解决策略是雌雄同体，并发展出整个动物界相比较于身体比例，最长的交配器官。</p>
+<p>达尔文曾对藤壶惊叹不已，并进行了多年的深度研究。</p>
+<p>为了躺平干饭，藤壶也真是拼了。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2010047301675147347">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2003407353597428177">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788318</guid><pubDate>Wed, 11 Mar 2026 18:47:39 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788303</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788211</guid><pubDate>Thu, 12 Mar 2026 01:27:46 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788309</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -237,52 +334,46 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 中国的小偷为什么断崖式地下降？</h2>
+<h2 class="question-title">瞎扯 · 请问，猫有表情吗？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1980216389609473758/answer/1986744904253195454" target="_blank">中国的小偷为什么断崖式地下降？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/620907933/answer/1987219014880093859" target="_blank">请问，猫有表情吗？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/2bf3f395e5b37cad8525f0bf5f37d951" target="_blank">@灵明石猴</a> ：其实主要还是预期收益不高，你看这位大神，以为字牌含金，公安厅几个字都撬下来了。</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/29ef8d2fd976af7f45e39fc01e78557f" target="_blank">@北门阿剑</a> ：把猫猫关阳台上了，有点冷一直想进来，就这幅委屈巴巴的表情</div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-47be0d3ebc7f271abac36dad8ddfb524_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-1d133e417a480d21105897eb443b1b4c_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-5fa0da9e7951f9c5680feb3f8e8b62e4_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1898048519782248661/answer/1986971513824494327" target="_blank">博士学位的论文致谢一定要致谢导师吗？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/639819203/answer/1977682106709730304" target="_blank"> 如何用一张图劝退想养猫的朋友？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f100143e3b84cd1a6a242e595267f992" target="_blank">@胖虎 Paolu</a> ：可别乱谢了，都正常点，幸亏我看了，有个女生写什么结草衔环大恩大德？？？？</div>
-</blockquote>
-<p class="ztext-empty-paragraph">Q：<a class="internal" href="https://www.zhihu.com/question/662799476/answer/1912531171444761505" target="_blank">如何评价网络句式「啊啊啊啊，你是一个 XXX 宝宝」？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f8d8721fb28d81418478d3c1b7ce6501" target="_blank">@just 必烈</a> ：既然你不想听宝宝你是一个宝宝，我也略通一些典急孝乐蚌赢润甜麻寄</div>
-</blockquote>
-<p class="ztext-empty-paragraph">Q：<a class="internal" href="https://www.zhihu.com/question/662296075/answer/1985398139776176172" target="_blank">想看一看你们拍的有趣的照片?</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/98d7502616cbd87b1e386119f6ac3eff" target="_blank">@阿燕博系</a> ：好几年前的图，我老哥换上他最破的衣服给我炸带鱼吃，哈哈哈</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/346e02b45b665212e3c5c25d67072782" target="_blank">@有理由的永对</a> ：两个半月时 有眼疾情况下的战斗力 </div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-65b53223ea0110e7002ea9bdbd85e21f_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-1464c17fcae0d772baf6c724bae39cde_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/20454540/answer/1988310360088924285" target="_blank">你认为最失败的标志（Logo）设计有哪些？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/535225379/answer/1980607540611023234" target="_blank"> 你被哪个后来知道很 sb 的 BUG 困扰过一周以上吗？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/2e8faa887c0ab18287b7d6aad0706da4" target="_blank">@不如归去</a> ：倒不觉得设计失败，只是这俩到底谁先设计出来的啊？</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f4cc55e9c73e083ede48bc0e0a13c107" target="_blank">@面面</a> ：我女儿五岁左右有一阵子老眨眼睛，我以为是<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=270145857&content_type=Article&match_order=1&q=%E6%8A%BD%E5%8A%A8%E7%97%87&zhida_source=entity" target="_blank">抽动症</a>，花 500 挂了东方医院还是儿中心神内的专家。进去的时候专家在看前一个<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=270145857&content_type=Article&match_order=1&q=%E8%82%8C%E6%97%A0%E5%8A%9B&zhida_source=entity" target="_blank">肌无力</a>的小孩，一脸悲伤。看我们，一下子可高兴了，说都很正常，是个很好的宝宝，是不是刘海长了挡眼睛。然后果然，剪了刘海就好了。。</div>
+</blockquote>
+<p class="ztext-empty-paragraph">Q：<a class="internal" href="https://www.zhihu.com/question/606813279/answer/1899269049868858989" target="_blank">为什么画手不喜欢文字设？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/4949b95825340fdef1c3f8aae43c80df" target="_blank">@每天都在无语的乌鱼子</a> ：我的文字设从未被固约画师拒过因为：</div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-d7c63880f31e2667a033ebacd74f8349_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-da39b61a8514db30a1c94a0105748e0a_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-09a513d537214fff32fb7f644bfbf04c_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/26982970/answer/1892577449440704363" target="_blank"> 哪些事情永久地改变了你？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/7ede6711671b2436a627688ea174b852" target="_blank">@Estuary</a> ：小时候带表弟去公园划船，表弟在船上乱蹦，一翻身栽水里。我那时候也就八九岁，傻了。岸边一大姐，三两下扒了自己的连衣裙，穿内衣游来一把将表弟捞起，待我们上岸，呵斥责骂我们一通后飘然而去。</div>
+十几二十年后表弟结婚喝大了，把自己扒个精光，只穿内裤到处裸奔，哭着要找救他命的大姐——不知道当年的无名英雄大姐到底改变了表弟的哪些部分。</blockquote>
 </div>
 </div>
 
@@ -291,4 +382,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788303</guid><pubDate>Wed, 11 Mar 2026 18:47:40 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788309</guid><pubDate>Thu, 12 Mar 2026 01:27:47 GMT</pubDate></item></channel></rss>
