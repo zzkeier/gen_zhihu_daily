@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Fri, 13 Mar 2026 18:34:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么淬火能让钢变硬？</title><link>http://daily.zhihu.com/story/9788177</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2b56a6661450c60e8bc02cf6b067040b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 14 Mar 2026 01:40:47 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么猫老了以后不会变成白猫?</title><link>http://daily.zhihu.com/story/9788234</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-ae0d33dba6191098f451c1e63cf1c2a9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,248 +19,79 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-c07e9212c77809700a9b7431c219163f_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">让有趣先知楞起来。</span>
-<a href="https://www.zhihu.com/question/404801478/answer/2003989377676765142" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>简单的说，</p>
-<p>淬火就是把钢烧到奥氏体状态，这个状态晶格呈面心立方（FCC）结构，缝大，能多溶碳。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0eed4a80ea0997d3f016284b0c7ff397_720w.jpg?source=8673f162" alt=""><figcaption>奥氏体 200x</figcaption></figure>
-<p>然后快速冷却，会变成马氏体状态，由于冷却忒快，来不及把碳挤出去，被迫强行锁在晶格，形成亚稳的扭曲晶格结构。</p>
-<p>这就使得本来应该比较规则的结构被碳撑的彻底变形，通过孪晶，位错，过饱和碳原子等共同作用，硬度自然就高了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4724e7dc526cb2ef05ef4231bd9af6f4_720w.jpg?source=8673f162" alt=""></figure>
-<p>至于啥是奥氏体，马氏体，</p>
-<p>这就得从金属的凝固开始讲起了。</p>
-<p><strong>金属的凝固过程和水结冰非常相似。</strong></p>
-<p>都是从液态无序变成固态有序，</p>
-<p>也都是到达凝固点后，先在液态中形成一些微小的晶核，然后晶核沿着各个方向长大，最终变成一整块。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-828b40e2a0aa14fbad7e9e42d69ad0da_720w.jpg?source=8673f162" alt=""></figure>
-<p>不同的是水凝固靠氢键，有明确方向性和饱和性，</p>
-<p>你可以理解成乐高积木，只能按固定顺序插，所以雪花只能是六边为基础打底。</p>
-<p>而铁凝固靠金属键，没有方向性和饱和性，</p>
-<p>你可以理解为只有异性相吸的吸铁石，条件够就能凑上去，</p>
-<p>所以受力时原子层可以轻松进行相对滑动，这就会产生韧性，比较抗锤，支持轻微变形。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-47337a1e2bd773c708104f88fbb0825f_720w.jpg?source=8673f162" alt=""></figure>
-<p>虽然说金属键不挑食，</p>
-<p>但是常压下铁从液态到完全冷却也会经历仨同素异构体，</p>
-<p>分别是接近熔点的δ-Fe，这个暂时用不着，甭管。</p>
-<p>912°C——1394°C 的γ-Fe，一般讲钢或淬火的时候叫他奥氏体（Austenite），</p>
-<p>实际γ-Fe 是基体相，溶碳后的固溶体才是奥氏体，</p>
-<p>由于就这一根独苗，一般不会严格细分。</p>
-<p>912°C 之下的α-Fe，</p>
-<p>淬火整出的马氏体（Martensite）就是碳在α-Fe 中的过饱和固溶体，但结构被撑成体心四方（BCT）。</p>
-<p>正常来说，由于碳原子远小于铁原子，抓一把丢进去，就会跟沙子似得卡在铁原子之间，阻止铁原子随意滑动，这就是间隙合金。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5a2e94f37cb7a5b38ea94d82e49adfff_720w.jpg?source=8673f162" alt=""></figure>
-<p>当然，加碳是有限量的，如果塞的忒多（≈6.69%），就会变成渗碳体（Fe₃C），成了金属化合物，最终跟陶瓷似得，又硬又脆，彻底失去可塑性。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-06f5918e0f221d060b79918409d42c38_720w.jpg?source=8673f162" alt=""></figure>
-<p>正常情况下，由于奥氏体是面心立方八面体结构，间隙尺寸大，能塞的碳更多，最大溶解度在 ≈2.11%（1148℃）</p>
-<p>而α-Fe 是体心立方结构，间隙又小又碎，碳最大溶解度只有≈ 0.0218%（727℃）。</p>
-<p>所以如果单纯等它自然慢慢冷却，就会以含碳量 0.77%为坎（共析点），</p>
-<p>碳较少的情况下会先析出铁素体，含碳量低。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0d940d27da64ffac0620f02951b0a5fa_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后转变成铁素体 + 渗碳体层片混合的珠光体，成为亚共析钢，</p>
-<p>优点是软，好塑型，好焊接，日常用量最大，就是淬火也硬不起多少。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-82148bb9cd169922896373b870352c18_720w.jpg?source=8673f162" alt=""></figure>
-<p>0.77%左右 ，会全部转成珠光体，成为共析钢，</p>
-<p>整体不错，均衡，各种工具弹簧用的比较多。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-11111a39e0a4d1dbd79741cd80ff395d_720w.jpg?source=8673f162" alt=""></figure>
-<p>碳多的话，就会优先在奥氏体晶界析出网状二次渗碳体 Fe₃CⅡ，然后剩下的再转成珠光体</p>
-<p>成为过共析钢，</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8d73edec0ee9a5563ecdbea35c51c322_720w.jpg?source=8673f162" alt=""></figure>
-<p>过共析钢硬且脆，但是耐磨，必须先球化退火才能用，不然容易碎。</p>
-<p>这是正常钢自然冷却的整法，很明显，要么过脆，要么过软，要么过于均衡，</p>
-<p>咋地都觉得不得劲。</p>
-<p><strong>那既想韧，又想大幅度强化硬度应该咋整呢？</strong></p>
-<p>那就得上邪修,</p>
-<p>通过快速冷却，使碳来不及析出，强行封冻在晶格里，</p>
-<p>变成过饱和的马氏体。</p>
-<p>你想想，本来是婴儿穿的晶格现在强行让一米八的壮汉套上，</p>
-<p>如果没破裂，那晶格必然会被扭曲变形到极致，</p>
-<p>过饱和固溶 + 晶格严重畸变，</p>
-<p>使金属正常的位错根本动不了，原子层也滑不动，那不就变硬了嘛。</p>
-<p>至于缺点嘛，淬火会产生巨大的应力，</p>
-<p>轻微的会使金属翘曲。</p>
-<p>中等的变身脆脆鲨，专职弑主。</p>
-<p>严重的干脆直接现场开裂，变身魔刀千刃、</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7c857bda658fa6667ee1841b52523cae_720w.gif?source=8673f162" alt=""></figure>
-<p>所以有时需要重新加热部分回火，来削减这些应力。</p>
-<p>由于不同淬火液比热容不同，</p>
-<p>就产生了油淬，水淬这两大主流邪修功法。</p>
-<p>油萃比热容小，吸热慢，淬火过程中产生的蒸汽膜比较薄，冷却平缓且均匀，产生应力小，</p>
-<p>整体比较均匀，不容易翻车，适合高碳钢，</p>
-<p>而水淬则会形成厚而稳定蒸汽膜，刚开始冷却慢，等膜破裂后突然暴冷，容易导致冷却不均，产生巨大的应力，不过优点在于淬硬能力很强</p>
-<p>一般用于中，低碳钢居多。高碳钢容易直接变脆脆鲨。</p>
-<p>所以我国传统刀匠用水淬并不一定是技术多高，可能单纯是过去刀具含碳量不够。</p>
-<p>不过我国古代确实有人研究出一些邪修淬火。</p>
-<p>比如在《北齐书.綦母怀文传》就有讲，</p>
-<p>先用生铁浇在熟铁上，多次熔炼，使得熟铁变成渗碳钢。</p>
-<p>然后浴以 5 牲之溺（尿）,淬以 5 牲之脂，出来的宝刀可斩甲过三十札。</p>
-<p>是真是假不知道，</p>
-<p>不过这刀用的是五牲尿淬 + 油淬确实厉害，</p>
-<p>尿中含有无机盐，可以瞬间戳破蒸汽膜，快速冷却，淬硬效果极佳，配合油淬会更为稳定。</p>
-<p>更重要的是使用此刀还容易得到这么句评价:</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-61033f99ca5bbb532b11894835fb39df_720w.gif?source=8673f162" alt=""></figure>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/404801478">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788177</guid><pubDate>Fri, 13 Mar 2026 18:34:25 GMT</pubDate></item><item><title>为什么云这么重却不会掉下来，从气象学角度该怎么解释，是否与「浮力平衡」有关？</title><link>http://daily.zhihu.com/story/9788221</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-ca56c27d21b1532e3a05486d0af6645f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
-<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
-<a href="https://www.zhihu.com/question/2002822944502601112/answer/2003048144376726485" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>嘿嘿，专业的来咯，这题我会。</p>
-<p>一朵中等积云的重量可达 500 吨，相当于 300 辆轿车的总重量，但它却能悬浮在数千米的高空中不坠。</p>
-<p>这看似很奇怪，但实际是气象学中『浮力平衡』的完美体现，云体会通过热力学设计，<strong>使其整体密度持续低于周围空气，从而获得向上的静浮力</strong>，而云滴的微观特性确保了水物质在云中的长久停留。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4b341c226662b71cbf4faaaf2e31b4e3_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>它来了！阿基米德原理是云体悬浮的宏观物理基础</strong></p>
-<p>云体悬浮于空中的现象，首先遵循着阿基米德原理在大气中的具体表达。在气象学中我们会通过气块理论来解释这一过程：将云或者其中一部分视为离散的气块，<strong>其垂直运动完全取决于气块密度与环境空气密度的相对关系</strong>。当气块密度小于环境空气密度时，气块就会获得向上的净浮力，这跟热气球的原理机制其实是一致的，大小可以根据以下公式计算：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=F_buoyancy+%3D+g%C2%B7%28%CF%81_env+-+%CF%81_parcel%29%C2%B7V" alt=""></p>
-<blockquote>其中 g 为重力加速度、V 为气块体积。</blockquote>
-<p>这个原理和公式看似好像相当简单，但实则在云里会有相当复杂的体现，云体之所以能够维持比周围空气更低的密度，关键在于水相变过程释放的潜热。<strong>当潮湿空气向上抬升并逐渐冷却至露点温度时，水汽开始凝结为微小的云滴</strong>，此过程中每克水汽会释放约 2500 焦耳的潜热，这一热量释放极大的改变了气块的热力学轨迹。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4c5f41b5c81aae0ef33d8dfc48539fe3_720w.jpg?source=8673f162" alt=""><figcaption>与热气球的悬浮原理一致，云内的暖湿气块因水汽凝结释放潜热，密度小于周围空气，遵循阿基米德原理获得向上的浮力，从而支撑整个云体悬浮于高空。</figcaption></figure>
-<p>而大气中的温度随高度变化的速率可以用直减率来描述，也就是大家所说的越高的空气温度越低，但这也会把干空气和湿空气做区分处理。具体来说干空气在上升过程中遵循干绝热直减率，约每公里降低 9.8℃；而饱和湿空气则遵循湿绝热直减率；每公里会降低 4~6℃。<strong>这种差异主要还是源于水汽凝结潜热的释放</strong>，它就像是一个内置的加热器，会显著减缓上升气块的冷却速率。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2aa02385237e6b47189ca2012f1b566d_720w.jpg?source=8673f162" alt=""><figcaption>水汽凝结潜热释放</figcaption></figure>
-<p>例如假设一团地表温度为 25℃、相对湿度 80%的空气被抬升，当其上升至 2000 米高度时若按干绝热过程温度将降低至 5℃左右；但由于水汽凝结释放潜热实际仅降低至 10 度左右。若此时该高度空气温度为 7℃，那么云内空气就要比周围的环境温暖 3℃，密度也会降低 1%左右。<strong>这种微小的密度差以可产生约 0.15 米 / 秒²的向上加速度</strong>，这足以支持云体对抗万有引力作用。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5d94c8d898a1a44189a5260202b98d0d_720w.jpg?source=8673f162" alt=""><figcaption>干绝热和湿绝热</figcaption></figure>
-<p>有一点需要注意的是云体中确实含有大量的液态水，典型的积云中液态水含量约为 0.5~1.0 克每立方米。对于一个体积 1 立方公里的云体，这相当于含有 500~1000 吨水。这些水物质确实会显著增加云的总重量，但增加的比例极小，相较于同等质量的空气来说仅增加 0.04~0.08%。<strong>更重要的是凝结潜热释放会让空气受热膨胀，从而完全抵消这一部分质量带来的影响</strong>。</p>
-<p>因此云的浮力特性主要还是取决于其热状态而非物质含量。<strong>它本质上就是一个比周围空气更暖更轻的气团，而非是简单的悬浮的水滴集合</strong>。当然云的浮力状态也不是一成不变的，而是随着云的发展阶段和类型呈现动态变化，在发展旺盛的积雨云中浮力就更大一些；而针对在消散阶段或者是稳定层云中，浮力就会接近中性，所以前者的垂直发展相当旺盛，而后者更偏向于水平扩展。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a01bb6de9b3da92356b777d57a3dadd7_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>云整体会上升，那为什么云滴不会下沉？这与微物理过程有关！</strong></p>
-<p>即便云体整体获得了一个浮力的支撑，但是其内部的水物质仍然要受到重力影响，所以为什么云中的微小水滴或云滴不会快速下降呢？这确实是个好问题，这需要从微尺度物理角度来解释一下。典型的云滴直径仅 10~50 微米，甚至还没有我们的头发丝直径大，<strong>在这种尺度之下空气的粘性阻力就会变得很重要</strong>，就会改变云滴的运动规律。</p>
-<p>其中根据斯托克斯定律，球状颗粒在流体中达到的终端沉降速度大概为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=v_t+%3D+%282%2F9%29%C2%B7%28%CF%81_p+-+%CF%81_f%29%C2%B7g%C2%B7r%C2%B2%2F%CE%B7" alt=""></p>
-<blockquote>其中 <img class="content-image" src="https://www.zhihu.com/equation?tex=%CF%81_p+" alt=""> 和 <img class="content-image" src="https://www.zhihu.com/equation?tex=%CF%81_f" alt=""> 分别为颗粒和流体密度，r 为颗粒半径，η为空气动力粘度（约 1.8×10⁻⁵ Pa·s）。</blockquote>
-<p>把数据带到公式里算一遍，我们可以得知一个直径 20 微米的云低的终端沉降速度约为 1.2 厘米 / 秒，这也就意味着从 1 公里高度落到地面的时间需要整整 23 小时。但实际在大气中，云滴的寿命都没有这么长，<strong>这也就意味着即便云滴全速下降到消亡仍落不到地面上</strong>。更重要的是，不少云滴的尺寸甚至更小一些，其中 10 微米直径的云滴沉降速度约为 0.3 厘米 / 秒，几乎可以忽略不计了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1f8c7678ccd1740b8ae9c5c798f5e616_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后云内普遍存在的端流混合作用也能进一步确保云滴的悬浮，所有云中都存在各种尺度的湍流涡旋，从几厘米到数百米不等。这些不规则运动产生的垂直速度脉动通常为 0.1~1 米每秒，已经大于了不少云滴本身的下降速度。在出湍流作用之下云滴就像是被困在一个不断搅拌的流体容器中，<strong>整体的运动轨迹由湍流主导而非万有引力控制</strong>。就像大家用筷子去快速搅动杯底的水，上层的水也能在在短时间里克服引力。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5fe1ad62ccbed95fdedc6c3d02eedf56_720w.jpg?source=8673f162" alt=""></figure>
-<p>最重要的一点就是云滴的增长与消亡会构成一个动态平衡，系统在上升期流区水汽会持续过饱和，云滴通过凝结过程缓慢增长；在云的边缘或下沉气流区，云滴可能会蒸发缩小。这种持续的相片和交换使得云滴群体维持着相对稳定的粒径分布：<strong>大多数云滴保持在临界尺度以下，确保沉降速度足够小</strong>。只有当云滴通过碰撞合并增长为雨滴时（直径＞100 微米），其终端速度才会急剧增加，此时只有强烈的上升气流才能继续支撑它们不落。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d9c9f5bc43fcbdcfe5f6cb3d4138cb65_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>最后一层兜底，大气环流将提供强力抬升作用</strong></p>
-<p>咱们退 1 万步讲，即便上述所提到的任何作用全部都失效，大多数云仍然无法直接掉下来。因为除了云本身自己的特性，也会受到大气环流提供的环流支撑所影响，不同云型对应的不同大尺度环流背景，这些背景能够为云的悬浮提供必要的动力和热力环境。</p>
-<p>具体来说对于一些积状云，其存在依赖于对流不稳定性而产生的上升运动。当地表受热不均匀或空气被地形强迫抬升时，<strong>部分气块可能会变的比环境更暖、密度更低从而获得强浮力</strong>。一旦能够突破自由对流高度这些气块将会加速上升，形成有组织的上升气流。在成熟的积状云中上升，气流速度可达 1~10 米 / 秒，强对流中甚至可以达到 15 米 / 秒以上。这些上升气流不仅可以为云提供初始动力，也能构成云滴悬浮的关键条件，毕竟这么强的上升气流已经比云滴的终端速度高上数百倍了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-65130f2fb43049755292ad76f1680ff1_720w.jpg?source=8673f162" alt=""><figcaption>积状云的循环</figcaption></figure>
-<p>对于层状云来说，则与大尺度的缓慢抬升运动有关联。在锋面系统、高空辐合区或者地形抬升作用之下，空气会以厘米 / 秒的量级缓慢的大规模均匀抬升。<strong>像这种相当微弱但广泛的上升运动，恰好平衡的层状云云滴极慢的沉降速度</strong>。由于层状云往往形成于稳定层结大气中，垂直运动会严重受限，云体往往向水平扩展而非垂直发展，一般能覆盖数百甚至上千公里的范围。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8f90e1008c080b252e436a44c878b217_720w.jpg?source=8673f162" alt=""></figure>
-<p>而对于一些地型云来说，这种悬浮机制就会变得更加有趣一些。当稳定的气流遇到山坡被迫抬升时，可能会在山顶或者是被风坡形成地形波，并在波峰处产生持续的上升运动。<strong>这种地形驱动的上升气流可以长时间的维持，使得云在固定位置几乎静止悬浮</strong>，从而会形成独特的“帽状云”或“旗云”。这种云通常会有相对清晰的边界和稳定的状态，是大气波动与地形共同作用的结果。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4f8c071cf538db859b6a53d2d473dd2_720w.jpg?source=8673f162" alt=""></figure>
-<p>从更广阔的角度上来说，云的悬浮是恰到好处的大气密度、重力 + 速度、水相变温度范围以及丰富的大气运动形式，共同创造了这种看似违背直觉却遵循物理规律的现象。</p>
-<p>理解了云的悬浮我觉得不仅仅是解决了一个问题，更托出了大气作为复杂系统的运行机制，<strong>在这里微观粒子的行为与宏观环流的运动通过多层次的平衡机制相互联结</strong>，共同维系着天空中那些不断变化却始终平衡的云朵。</p>
-<p>以上。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-edd2901748ee5a8b8c4d9ec3b596afc4_720w.jpg?source=8673f162" alt=""></figure>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2002822944502601112">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788221</guid><pubDate>Fri, 13 Mar 2026 18:34:26 GMT</pubDate></item><item><title>比目鱼的眼睛天生就长在同一侧吗？</title><link>http://daily.zhihu.com/story/9788225</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-afaccb106ae893c9d17c21f986808124.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
 <span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/444396084/answer/1956035201915425636" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/2011218492712585006/answer/2011762559603205821" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-81c1094cd1713c9c0967bdfac00e2351_720w.gif?source=8673f162" alt=""></figure>
-<p>不是的。</p>
-<p>刚孵化的比目鱼宝宝和普通鱼类没什么两样，身体对称，两只眼睛分列在头部两侧，在开阔水域过着漂浮的生活 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9d331a43eda7f17a5b597d7f61768e78_720w.jpg?source=8673f162" alt=""></figure>
-<p>但在几周内，就开始“变态发育”（Metamorphosis）<sup>[1]</sup>了。</p>
-<p>其中一只眼睛（根据种类的不同，可能是左眼也可能是右眼）开始向头的顶部移动。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6bf6dd5643ef5076653859e31b9c85ae_720w.jpg?source=8673f162" alt=""><figcaption>不同种的眼睛位移方式不太一样</figcaption></figure>
-<p>这个过程并非瞬间完成，而是缓慢地进行的。延时摄影的观察显示，这只眼睛会慢慢地在尚未完全骨化的柔软头骨上移动，最终穿过或绕过头顶，到达身体的另一侧，与另一只眼睛并列 。</p>
-<p>为了给迁移的眼睛让路，眼睛上方的骨骼结构（称为“眶上棒”）的边缘会被身体主动吸收、溶解，从而为眼睛的移动创造出一条通道 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f40c0533b08d1f9c33eeebc3ad9dbfd6_720w.jpg?source=8673f162" alt=""><figcaption>不同眼位位移类型的颅骨染色图</figcaption></figure>
-<p>原本位于“无眼侧”（即将贴近海底的一侧）的额骨，会转移到“有眼侧”（朝上的一侧），并参与构成上方眼睛的新眼窝底部 。</p>
-<p>整个面部的骨骼，包括额骨、筛骨（眼前的骨骼）和嘴部的骨骼，都会发生根本性的扭转，以适应新的眼睛布局 。</p>
-<p>当眼睛迁移到位后，之前被吸收的骨骼会重新骨化变硬，形成新的“眶间骨”，将两只眼睛分隔开，整个不对称的头骨结构就此定型 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3ed94e6b78b13ca0e88b36dc855f3b3_720w.jpg?source=8673f162" alt=""><figcaption>转变的过程</figcaption></figure>
-<p>完成这一系列转变后，比目鱼的身体结构已不再适应在水中漂浮，于是它会沉降到海底，侧卧下来，开始全新的底栖生活 。</p>
-<p>开始“躺平” 。</p>
-<p>这种生活方式，正是它那张“歪脸”的价值所在。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b7de03985c59eaa0af4218cf7470c0ac_720w.jpg?source=8673f162" alt=""></figure>
-<p>首先，两只眼睛都朝上，为它提供了绝佳的全景视野，可以在伪装的状态下，无死角地监控上方的猎物和天敌 。如果一只眼睛还留在下面，不仅毫无用处，还容易被沙石磨损 。</p>
-<p>为了配合这种海底生活，比目鱼还进化出了一系列“配套设施”。它的身体是左右侧扁的，非常适合平卧。</p>
-<p>同时，它不像大多数鱼类那样拥有鱼鳔——这个控制浮力的器官 。没有鱼鳔，意味着它的身体密度比水大，可以毫不费力地待在海底，节省了大量维持身体位置的能量。</p>
-<p>当然，最核心的技能还是伪装。比目鱼能将身体埋入沙中，只露出潜望镜般的双眼进行观察 （呆……）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-363067ff2e4b4d4c29dffa39b5830cd4_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种能力并非简单的生理反射，而是与视觉紧密相关。研究发现，如果比目鱼的眼睛受伤或被蒙住，它匹配环境的能力就会大大下降 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c9b6771dbca92ee783eb1997d74d8bd9_720w.jpg?source=8673f162" alt=""><figcaption>四张照片中的是同一条比目鱼，拍摄时间间隔了几分钟。在最后一张照片中，这条鱼完全把自己埋在了沙子里，只有眼睛露在外面。</figcaption></figure>
-<p>这表明，它是在通过“看”来主动调节皮肤色素细胞，甚至有观点认为这是一种依赖“意识”而非纯细胞机制的复杂行为 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c01de922f0ac75a0a6ece94a068b743f_720w.jpg?source=8673f162" alt=""></figure>
-<p>可想而知，比目鱼是一个伏击高手。它通常会选择水流流经的区域，面朝来流方向，静静等待小鱼、虾蟹等猎物被水流“送货上门” 。</p>
-<p>如此剧烈的身体改造，背后必然有一套精准的调控系统。科学家发现，这场变态发育的总开关是<strong>甲状腺激素（TH）</strong><sup>[2]</sup>。</p>
-<p>蝌蚪变青蛙，也是甲状腺激素 。在比目鱼的变态发育期间，其体内的甲状腺激素水平会急剧飙升，启动一系列基因程序，指挥眼睛迁移、头骨重塑 。</p>
-<p>有意思的是，演化似乎真的是能省则省。</p>
-<p>它并没有为眼睛迁移“发明”一套全新的基因指令，而是“征用”了一套早已存在的古老基因通路。这条通路（<em>nodal-lefty-pitx2</em>）原本在胚胎时期负责决定心脏、肝脏等内脏器官的左右位置，但在比目鱼的幼年期被再次激活，用于指导头部的“二次装修” 。</p>
-<p>真的很方便呢……</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-948b939cde70fdadbbdbc7a0ba6b50b6_720w.gif?source=8673f162" alt=""></figure>
-<p>问题来了，好吃吗？</p>
-<p>好吃。</p>
+<p>在德克萨斯州奥斯汀市，有一只名叫 Creme Puff 的混血虎斑猫，她保持着吉尼斯世界纪录中最长寿猫的称号<sup>[1]</sup>。</p>
+<p>她出生于 1967 年 8 月 3 日，去世于 2005 年 8 月 6 日，活了整整 38 岁零 3 天。</p>
+<p>猫的年龄折算成人类年龄<sup>[2]</sup>，<strong>Creme Puff</strong>：24 + (36 × 4) = <strong>168 岁</strong>。这个年纪在人类世界里，基本已经脱离了生物学范畴，可以直接写进奇幻小说里当精灵长老了。</p>
+<p>下面是她 1996 年的照片，也就是 29 岁的时候：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-213ab62365be9916b67c28488d32cfb4_720w.jpg?source=8673f162" alt=""></figure>
+<p>从她 29 岁时的照片来看，她的毛色依然保持着原本的虎斑纹理，并没有变成一只白猫。</p>
+<p>而目前，世界上还<strong>活着的最老的猫</strong>是一只名叫 <strong>Flossie</strong> 的英国黑棕色玳瑁猫<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b2651c723c1dd2bcc0871b43e44cf33_720w.jpg?source=8673f162" alt=""></figure>
+<p>Flossie 早年是一只流浪猫，后来几经易主，目前与她的主人 Vicki Green 生活在英国伦敦。虽然她现在已经耳聋且视力严重衰退，但据主人描述，她身体依然硬朗，胃口极佳，且非常喜欢被抚摸。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-3ed4b7a2c11c8253bf8f4a81d3444008_720w.jpg?source=8673f162" alt=""></figure>
+<p>折算成人类年龄的话<strong>，30 岁的 Flossie</strong>：24 + (28 × 4) = <strong>136 岁</strong>。这相当于人类历史上有可靠记录的最长寿者（法国人让娜·卡尔芒，122 岁）还要再向天再借 14 年。</p>
+<p>同样的，她也是没有变白猫。</p>
+<p>这让人类非常嫉妒，人老了只能花钱在理发店染发遮盖白头发，而你的猫即使活到老掉牙，依然免费维持着出厂原色。</p>
+<p>我们要弄清原因，得先看看毛色是怎么产生的（虽然写了很多次了）。</p>
+<p>决定毛发颜色的是黑色素，这是一种决定皮肤和毛发颜色的色素。生产黑色素的细胞叫毛囊黑色素干细胞，它们是位于毛囊中产生黑素的神经嵴衍生细胞。</p>
+<p>人类长白头发就是因为这些干细胞出了问题。</p>
+<p>2005 年 2 月，研究人员越村恵美在《科学》杂志上发表了一项研究<sup>[4]</sup>，证明毛发变白是由黑色素干细胞有缺陷的自我维持机制引起的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d944a9d2e68329615f29b7c458ce5c6b_720w.jpg?source=8673f162" alt=""></figure>
+<p>到了 2023 年 4 月，科学家在《自然》杂志上发表研究指出<sup>[5]</sup>，随着毛发不断衰老和脱落重新生长，黑色素干细胞会卡在毛囊的一个特定隔室中，失去移动和成熟为黑色素细胞的能力，头发便因此变白。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8731bc736ba11108031bf36fe18d8c16_720w.jpg?source=8673f162" alt=""></figure>
+<p>那为什么猫的毛囊干细胞不会像人一样被卡住或者罢工呢？</p>
+<p>这与毛发生长周期和氧化应激有关。毛囊周期分为生长期、退行期和休止期三个阶段。人类头皮毛发的生长期长达 3 到 5 年<sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e38ab08eb553377891c1281ac26e210d_720w.jpg?source=8673f162" alt=""></figure>
+<p>在这个漫长的生长过程中，细胞不断合成色素，同时会产生大量的活性氧<sup>[7]</sup>。氧化应激是指活性氧的产生与生物系统解毒能力之间的失衡。这种长期的氧化应激会损伤细胞的 DNA 和结构。</p>
+<p>下图展示了“氧化应激”是如何在分子层面“漂白”头发的：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fcec461954008081c989dc4b61b3165d_720w.jpg?source=8673f162" alt=""></figure>
+<p>在健康的深色毛囊（左侧）中，微量（μM 级别）的过氧化氢（H2O2）会被过氧化氢酶（catalase）等正常代谢，确保酪氨酸酶能够顺利运转并合成黑色素；</p>
+<p>而在衰老的白发毛囊（右侧）中，过氧化氢大量积累（达到 mM 级别）并引发严重的氧化损伤（形成高水平的 Met-S=O），这不仅瘫痪了毛囊自身的抗氧化与修复系统（图上被打叉的 catalase 和 MSRA/B），还直接“拉闸”让合成黑色素的核心机器（酪氨酸酶）彻底罢工，导致黑色素生成路线被完全切断，头发也就不可逆转地变白了。</p>
+<p>而猫的毛发生长期非常短，通常只有几天到几周，随后便进入漫长的休止期<sup>[8]</sup>。</p>
+<p>在 1974 年，科学家详细记录了猫毛短促的生长期和受季节光照影响的长休止期。下图 14 中展示了猫的同一区域内不同步的毛发状态：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3f9410997e9e851914ec14283429bd85_720w.jpg?source=8673f162" alt=""></figure>
+<p>画面中有一根初级毛正处于活跃生长期（Anagen phase），旁边一根初级毛已经进入退行期（Catagen phase），而周围的次级毛则在生长期 。文献特别指出，同一个复合毛囊里的不同毛发，其活跃阶段可以是完全不同的 。</p>
+<p>下图 19 中，则像是一个猫毛“新老交接”的现场：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-21486bf912cee8f4287971c28ca5cfc7_720w.jpg?source=8673f162" alt=""></figure>
+<p>左侧的毛囊正处于休眠期（Telogen），旧毛发的根部随时准备脱落；而右侧相邻的毛囊已经开始长出新毛发了 。</p>
+<p>这种局部的、马赛克式（mosaically）的生长和脱落替换方式，确保了毛囊干细胞有充足的休眠时间，不用像人类头发那样连续数年无休止地合成黑色素 。</p>
+<p>相比之下，狗确实会因为衰老而长出白毛。</p>
+<p>2016 年 10 月，卡米尔·金（Camille King）在《应用动物行为科学》杂志上发表的研究表明<sup>[9]</sup>，焦虑和冲动与年轻犬只过早出现灰白毛发有关。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d40604e170ad9731059fe132ab1ac707_720w.jpg?source=8673f162" alt=""></figure>
+<p>狗只要压力大，嘴边就会长出白毛。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d4457a1d5a92bd89ec80ad2eb067229e_720w.jpg?source=8673f162" alt=""></figure>
+<p>猫却没有这种压力导致的白毛问题。从进化角度看，野生猫科动物需要依靠毛色图案进行伪装和视觉交流 。如果一只猫在野外因为衰老变成了显眼的白色，它会立刻丧失伪装能力，无法捕猎或躲避天敌。自然选择淘汰了那些导致过早变白的基因。</p>
+<p>由于人类和狗在进化过程中已经不再绝对依赖毛色伪装来生存，所以长白毛的特征被保留了下来。</p>
+<p>有一种特殊的情况，黑猫会变成红棕色：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-94d1a1a439fbe5ea8002e9347ab681b2_720w.jpg?source=8673f162" alt=""></figure>
+<p>2001 年 4 月，科学家发现，当黑猫的饮食中缺乏酪氨酸这种氨基酸时，毛发中的黑色素浓度会下降，导致黑毛变成红棕色 <sup>[10]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-473d7aaf19fc94ac87afb82b63e18d7f_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，如果你真的看到一只成年黑猫突然大面积变白，那绝对不是自然衰老，而是生病了。白癜风，这是一种免疫系统破坏黑色素细胞，导致皮肤和毛发失去颜色的疾病。</p>
+<p>比如伦敦有一只名叫 Scrappy 的黑猫<sup>[11]</sup>，在 7 岁时由于白癜风开始长出白斑，最终全身变成了黑白相间的大理石纹。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4c3ee022aa514262ddd0544417c5dc11_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，猫的生物学机制决定了它能把颜色保留到最后。</p>
+<hr>
+<p>补充：</p>
+<p>无论是人还是猫狗，决定某个部位毛发是否容易变白的核心，并不在于物种，而是在于该部位毛囊的“工作负荷（生长期长短）。</p>
+<p>人类的汗毛（体毛）在生物学运行机制上，与猫狗身上的普通被毛几乎一致。它们的共同特点是“生长期极短，休止期极长”。因为合成色素的工作时间短，毛囊干细胞得到了充分的休息，有效避免了长期的氧化应激损伤，因此人老了汗毛通常也不会变白，正如猫狗老了身上不会变白一样。猫狗的胡须和眉骨上的长毛（触毛，Vibrissae）与普通体毛属于完全不同的毛囊系统。触毛扎根极深、神经血管丰富，且生长期远远长于普通体毛。</p>
+<p>正因为猫狗的胡须和人类的头发、胡须一样，都经历了极其漫长的高强度生长和色素合成过程，局部不可避免地积累了大量的氧化应激损伤。这种“过劳”最终会优先摧毁触毛毛囊内的黑色素干细胞，导致猫狗步入老年后，胡须和眉毛也像人类的头发一样不可逆转地变白。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/444396084">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2011218492712585006">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788225</guid><pubDate>Fri, 13 Mar 2026 18:34:27 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788312</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788234</guid><pubDate>Sat, 14 Mar 2026 01:40:44 GMT</pubDate></item><item><title>为什么法国大革命期间发生了旺代叛乱？</title><link>http://daily.zhihu.com/story/9788232</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-270fb7949a255d3ba507e8207f8097fa.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -275,56 +106,355 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 怎样把躺平的年轻人拉起来？</h2>
+<h2 class="question-title"></h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-9f9ed0db934802fcf6d9fe6277d7c37b_l.jpg?source=8673f162">
+<span class="author">姜源</span>
+<a href="https://www.zhihu.com/question/67463898/answer/2011868423370597602" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/665418546/answer/96497122655" target="_blank">怎样把躺平的年轻人拉起来？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/688233cd348812c33e25c91f775afcd8" target="_blank">@冷冷冷</a> ：保证在现实中画出这样一条线来，就可以了</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-fa4adcd85fad1c16fdfee112f25c9870_1440w.jpg" alt="" width="517"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/31287934/answer/1965481152941916853" target="_blank"> 如何看待杨振宁这个人？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/3ae1416a086d2918fad46241efdd429d" target="_blank">@半个冯博士</a> ：他是极少的，真正地，做到了这一点的人。</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-50f36463d078cd990e9b86d4990d8657_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/62862636/answer/1975249445835789576" target="_blank">你有哪些当初没听出来的弦外之音？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8579f475e6a9c843d681618380e181fe" target="_blank">@Maxwell</a> ：直到我亲身经历了才明白，胡适 7 月 16 日肯定是输钱了</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-4550fec6d8fee69b2d3f51e6ece9b50d_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/11110534571/answer/1969742186208826823" target="_blank"> 怎么跟三岁半的女儿解释爸爸在杀鱼？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ce78cf37912f7c7c1893cf7530630985" target="_blank">@子同无</a> ：三岁半的孩子不一定能忍心看家长杀鱼，但一般都会忍心把鱼活活玩死。</div>
-</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/10970034504/answer/95086096710" target="_blank"> 既然显卡发热量那么大，为什么不把热量收集利用起来，比如烧水和供暖？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fbb587474489d44afd42f05272bbb6da" target="_blank">@Skyline</a> ：嘿！你说对了：</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-82cce968d6e37305019adc58170d03a5_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<blockquote>3090 烤伊比利亚火腿，可以激发火腿的油脂香味。<br>黑猴烤出来的最好吃，刚好把脂肪加热到晶莹剔透，但不能烤太久，容易烤干；戴森球计划适合烤薄片，口感温润；红龙、缺氧、 LOL 火候严重不足。</blockquote>
+<p>省流答案：欠发达的农村地区在革命政府和本地教士的冲突中选择支持后者。</p>
+<p>我们先来看看汪代叛军方面的控诉：“他们杀死了我们的国王，赶走了我们的神父，卖掉了我们教会的家当，吃光了我们所有的东西，现在他们还想夺走我们的身体……不，我们不许他们这样做！”上面这段控诉大致列出了四项巴黎和汪代的分歧和冲突：君主、教会、税收、征兵…呃，怎么看上去每件事都有分歧和冲突？那我们具体捋捋这四件事：</p>
+<p>1. 路易十六之死。虽然知乎主流观点认为路易十六该死，即使比较谨慎的人也大多认为至迟瓦伦出逃事件后，路易十六就是期货死人了。这个认知更多是后见之明。在真实的历史中，是否执行路易十六死刑在国民公会内部造成了巨大的分歧和极其激烈的政治斗争。我们事后所看到吉伦特派和雅各宾派互相送人上断头台的政治斗争，其中一项分歧就是死刑问题。而国民公会最后的表决结果是 387（死刑）对 334（监禁流放等其他刑罚），也不是什么压倒性的差距。而国民公会在整体上已经是 1792 年大选中获胜的共和派。再考虑到，当时的投票是在立场更激进的无套裤汉面前做的公开表决，代表们如果投不支持死刑，将直接面临无套裤汉群体的压力。无论怎么说，处决路易十六都称不上全国的压倒性意见。相反，如果真的要计算全国范围的民意，那支持不执行死刑的比例很可能更高，这也是吉伦特派主张全民公决死刑与否的原因之一。</p>
+<p>不过回到旺代叛乱本身，路易十六之死更多只是个说辞。参与叛乱的主体是农民，主要原因是下面提到的教会问题。保皇党反而是事后扣给旺代地区的帽子。</p>
+<p>2. 教会问题。国内讨论大革命较少讨论教会问题，而这是大革命期间最撕裂法国全国的议题。简单来说就是中央要求法国的天主教会变成国家教会，全法国的天主教教士变成国家公务员。法国的天主教会不再是理论上受梵蒂冈指示、并且事实上高度自治的组织。这个立场在政治上说得通，但是在神学上却存在各种疑问。很多地区的教士未必反对大革命，但也难以接受一纸行政指令就彻底颠覆原有的教会传统和制度。这还不算完，制宪议会还进一步要求全国的教士逐一宣誓效忠国家，而非教皇。全国教士必须选边站，选边站的结果是 1790 年末 55%的教士参加宣誓，45%的教士拒绝宣誓；到 1791 年 3 月教皇公开反对《教士公民组织法》后，又有 6%的宣誓派教士撤回了宣誓。但无论是哪个数据，其实都反映出全国范围内的意见分歧，而非巴黎革命者们想象中的统一和团结。尽管我们说教会的影响力在 18 世纪的法国显出颓势，但是旧制度下的教会承担了婚丧仪式、儿童教育、赈济贫民等大量民政事务，因此很多地区的教士和当地民众有紧密的联系。教士宣誓问题不仅分裂了教士群体，而分裂了整个国家普通国民：</p>
+<blockquote>“反抗派”的地域覆盖了法国西部的大多数地区和西北部的多数地区，从东部的孚日山脉经阿尔萨斯到皮卡第，再到中央山脉的南部边缘。革命教士的据点更为分散：巴黎盆地、从里昂到尼斯的阿尔卑斯地区，以及北部与东北部以皮卡第、香槟和洛林、南方以中央山脉和吉约纳为界的广阔地区。</blockquote>
+<p>而旺代地区处于反宣誓派更占据上风的地区，民众普遍同情反宣誓派教士，而这是旺代叛乱最主要的原因。</p>
+<p>3. 税收问题。很多人对于大革命的理解是废除了旧制度下的封建租税和特权，并且将其理解为大革命后农民不用继续承担原有沉重的税负。当时的法国农民也是这么认为的，但很遗憾这个是误解。革命政府同样需要大力汲取全国的农作物以维持国家和军队的运转。，由此也导致农村的零星抗税活动在全国范围此起彼伏。不过这个只能算是农村的普遍性不满，在讨论旺代叛乱时，通常不提税收问题</p>
+<p>4. 征兵。旺代叛乱最直接的原因是所谓三十万人大征兵，也就是因为法国主动挑起的对外战争和 1793 年初的军事挫折，使得国民公会宣布全国范围内再征兵三十万。这一命令在全国范围内同样遭遇了普遍不满和抵制，不过在旺代地区成为触发大规模军事叛乱的直接原因。</p>
+<p>以上 3、4 两点可以放在一起理解，法国的广大农民并没有因为大革命获得立竿见影的好处，旧制度下农民交租交税被拉壮丁，革命后农民还是交租交税被拉壮丁，无非只是换了收税拉壮丁的名目和官老爷罢了。当然也可以反过来看，既然旧制度下广大农民可以承受交租交税被拉壮丁，那革命后绝大多数农民承担这些负担也不会造成更激烈的叛乱和抗争。所以旺代地区对于政权的不满又绕回我们前面说的教会问题。</p>
+<p>我们再来具体点说农村和教会问题。虽然我之前把农村和农民说为一个整体，但实际上法国各地农村的发展是非常不平衡的。有些农业地区已经逐渐接入全国市场（甚至是跨国贸易市场），这些地方的市镇有更强的资产阶级，这些资产阶级在旧制度时就逐渐与乡村建立联系，采购商品或者雇佣工人。到大革命时，这些地区的市镇和乡村的利益和价值观没有那么对立，相反市镇和乡村可以共享打击教会、拍卖教产所获得的好处。这些地区对于宗教也没有那么热切，对于大革命也更支持。但还有一些农业地区接入全国市场的程度更低，没有发展出资产阶级，和周边城镇的关系也不紧密。相反，这些地区的农民观念更加传统、也更加信任和依赖本地教士。在这些农民眼中，城市资产阶级是剥削者；而给人施洗、主持婚礼和葬礼、教孩子读书识字、救助贫弱之人的地方教士是自己人。在教士宣誓问题上，这些地区的农民就会更倾向于站在本地教士一边，而不是站在革命政府一边。</p>
+<p>相信大家已经猜到了，汪代叛乱最初就是从这些最传统、交通最不便、最欠缺资产阶级的农村地区爆发的。事实上，在叛乱爆发前，这些地方的农民就已经积极地投身维护反宣誓派教士、对抗革命政府派驻官员和宣誓派教士的斗争之中了。</p>
+<p>需要补充说明的是，反宣誓派教士规模多寡并不和叛乱与否直接挂钩。比如诺曼底地区在教会改革后乡村教士收入提高、支持革命并有力地团结了农民，当地的反宣誓派反而集中在城市中。所以诺曼底地区虽然反宣誓派的绝对数量多，却掀不起叛乱。</p>
+<p>拿诺曼底地区做对比是想说明，法国当时各地的情况复杂多变，并不存在单一的决定性因素。汪代的叛乱既可以说是结构性的，也可以视为多种因素偶然的组合碰撞出了火花。</p>
 </div>
 </div>
 
+
+<div class="view-more"><a href="https://www.zhihu.com/question/67463898">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788312</guid><pubDate>Fri, 13 Mar 2026 18:34:28 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788232</guid><pubDate>Sat, 14 Mar 2026 01:40:45 GMT</pubDate></item><item><title>为什么老虎和狮子这两大万兽之王都无法在青藏高原生存？</title><link>http://daily.zhihu.com/story/9788244</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-bbbc6ce3ffc2a97a041f0ff946411d6d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-af2454c62423a7ca9db5224ef2efc2a0_l.jpg?source=8673f162">
+<span class="author">三眼乌鸦，</span><span class="bio">科学为根，艺术为形，历史为线。 用图像与文字编织生命长卷。</span>
+<a href="https://www.zhihu.com/question/653048528/answer/2006088003953647960" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p><strong>大猫能否登上世界屋脊？</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2d7af7e908aabbc8cef8be95c14d2f61_720w.jpg?source=8673f162" alt=""><figcaption>西藏墨脱虎，这也太帅了吧，怎么这么好看 ©山水自然保护中心</figcaption></figure>
+<p>西藏墨脱有虎<sup>[1]</sup>，相邻的尼泊尔，虎已接近或超过局部承载力，有继续扩散的潜力。</p>
+<p>不丹则在同一组高海拔（3600-4000m）相机点，拍到了虎和雪豹<sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6aff3099ee94e660ad03dbfb529455f_720w.gif?source=8673f162" alt=""><figcaption>青藏高原那么好，俺必须来逛逛。 ©山水自然保护中心</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9ebdd30a7a362d0729d32023dd902096_720w.gif?source=8673f162" alt=""><figcaption>不丹高山的孟加拉虎©WWF</figcaption></figure>
+<p>除了墨脱外，海拔约 3500-4000 米的西藏丁青，同一个相机位，相继拍到豹，雪豹，狼，棕熊等猛兽<sup>[3]</sup>，镜头还有野猪这样虎爱吃的猎物。而一个狼群的日常能量消耗和一头虎接近，有理由认为这里可以满足虎的需求。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0f446df97a59118e7d903b1b3d1227af_720w.gif?source=8673f162" alt=""><figcaption>西藏丁青，开头是马麝，国家一级。 ©山水自然保护中心</figcaption></figure>
+<p>豹的食谱、伏击习性等方面和虎有很大的相似性，二者公域生存的地区很多；棕熊的体型体重甚至大于虎。可以合理推断，虎并不存在所谓无法进入喜马拉雅地区的生理禁区。丁青目前没有虎，原因是扩散通道的问题而非环境不适。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7d9076536d11571d0a70a832040e238a_720w.gif?source=8673f162" alt=""><figcaption>丁青，棕熊，狼群 ©山水自然保护中心</figcaption></figure>
+<p>同属豹属，在演化上和虎最接近的雪豹就在青藏的雪山生活的好好的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9e5f8857f5f8b52d6de7da1fca43f59b_720w.jpg?source=8673f162" alt=""><figcaption>洞狮在更新世的广泛地理扩张范围，从非洲起源，经欧亚大陆扩展至西伯利亚及北美。</figcaption></figure>
+<p>另一方面，狮子的近亲洞狮等曾在更新世广布欧亚高纬与寒冷地区<sup>[4]</sup><sup>[5]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7787b2e7a07d2486a6ba628d463d876b_720w.jpg?source=8673f162" alt=""><figcaption>巴巴里狮野外已经灭绝，目前仅在摩洛哥和欧洲的部分动物园有少量保留，且血统存疑。</figcaption></figure>
+<p>现代巴巴里狮也长期生存于有降雪的阿特拉斯山地（海拔 1200-2500），说明其具备适应寒冷与山地环境的潜力。阿特拉斯山地也存在巴巴里红鹿，巴巴里猕猴等类似青藏高原边缘地带的猎物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-17d191b95cb25b1fdc9b4e6852fc0573_720w.gif?source=8673f162" alt=""><figcaption>阿特拉斯山地</figcaption></figure>
+<p>目前狮子分布收缩主要源于人为压缩而非生态不适。</p>
+<p>狮子因扩散通道被切断而未到达这些地区，缺乏自然筛选过程，不能用现分布否定其高原适应性。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d05f2a7c08aaffd16221143d4368c49f_720w.jpg?source=8673f162" alt=""><figcaption>藏野驴</figcaption></figure>
+<p>下面我们先从虎开始，仔细看看到底能不在青藏高原生存。</p>
+<hr>
+<p><strong>墨脱：一个严重被低估的哺乳动物热点</strong></p>
+<p>青藏高原的东缘和南缘，可能是世界上大型肉食动物（超过 15kg）最丰富的地区<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-95957bf1b2e106f678f0ed4c0bd3cf71_720w.gif?source=8673f162" alt=""><figcaption>墨脱孟加拉虎 ©山水自然保护中心</figcaption></figure>
+<p>仅仅就墨脱而言，近年的系统相机陷阱工作已经在墨脱记录到老虎，并且在多个相机位点反复出现，研究者据此确认至少有 1 头成年雄性在当地活动，且新记录位置相对 2019 年的首次记录<sup>[1]</sup>又向东北推进了约 80km 量级，证明这不是偶然闯入而是具有持续性、可追踪的存在。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-807ee7692c9c461994b949c6b37c7121_720w.jpg?source=8673f162" alt=""><figcaption>2019 年首次在中国境内通过相机陷阱获得孟加拉虎的确凿影像证据，拍摄点位于约 2000m 海拔，证实该区域可能与印度迪邦谷—米什米丘陵存在跨境虎种群联系 。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-382e64496836e5b9f02fdcb8c2222f9b_720w.jpg?source=8673f162" alt=""></figure>
+<p>研究人员通过 19754 个相机日（2023–2024 年）的系统红外监测，系统揭示了墨脱格当地区哺乳动物多样性格局<sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9686ae96e5d999c6d2696c1dbaaff67c_720w.gif?source=8673f162" alt=""></figure>
+<p>从下图可以看到，研究区位于雅鲁藏布江下游河谷地带，格当乡处在雅鲁藏布大峡谷国家级自然保护区内部。该区域海拔范围为 1327–6315m（图 b），河谷最低处不足 2000m，而两侧山体迅速抬升至 4000-5000m 以上，形成超过 3000m 的垂直落差。图 b 显示，中低海拔 2000–3500m 为连续分布带，这正是森林覆盖最集中的区域。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aa4ca9269f21ac12b2cb62bff832999f_720w.jpg?source=8673f162" alt=""></figure>
+<p>根据上图 c 的土地利用类型，研究区 83.66%为植被覆盖，其中大面积为森林（深绿色），沿雅鲁藏布江呈带状分布，灌丛和草地向高处过渡，雪冰主要集中在高海拔山脊。相机布设海拔为 1929–3654m，放置点（黑点）明显围绕河谷两侧森林，并往山坡朝着高海拔针叶林延伸，这个区域也是物种活动最密集的地方<sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6b1835f49c229af0cec06019477ba7fd_720w.gif?source=8673f162" alt=""></figure>
+<p>墨脱随着海拔升高，植被类型呈现明显更替，有五个主要垂直植被带。依次为：热带季雨林 → 常绿阔叶林带 → 半常绿阔叶林（特有类型，4-5 月换叶）与针阔混交林带 → 亚高山针叶林带 → 高山灌丛草甸带<sup>[7]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6e1a45c30367ed34096f3a25719f137d_720w.jpg?source=8673f162" alt=""><figcaption>a–c 低海拔带：热带季雨林与亚热带常绿阔叶林及其人类干扰过渡区，林冠高大、结构复杂。d–f 中海拔带：山地常绿阔叶林向针阔混交林过渡，受云雾影响明显，森林高度与密度逐渐下降。g–i 中高海拔带：针阔混交林或亚高山针叶林开始出现，针叶树比例增加。</figcaption></figure>
+<p>上图 H 为典型的中山半常绿阔叶林，主要分布于约 1800–2400m 海拔。其树冠呈现红褐、黄褐或灰白色（与 B、E 形成强烈对比），并非秋季落叶，而是旱季 4–5 月集中换叶所致，即老叶脱落、新叶尚未完全展开或呈红色嫩叶阶段。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-873c11ba185f737a0d1578459aa394f6_720w.jpg?source=8673f162" alt=""><figcaption>j–l 亚高山针叶林带：以高大针叶树为主（冷杉、云杉等），常伴随云雾环境，林分结构较为疏松，已接近林线区域。m–o 林线以上高山灌丛与高山草甸带：植被明显低矮化，呈垫状或匍匐状分布，进入高寒草甸及近冰缘生态系统阶段。</figcaption></figure>
+<p>上图 N 为云雾杜鹃<em>（Rhododendron chamaethomsonii）</em>常绿阔叶灌丛，分布于墨脱约 4200–4500m 林线以上湿润岩坡与高山草甸带。6 月份气温回升，积雪刚开始大量融化，正是高山杜鹃集中爆发式开花的时间<sup>[7]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-bcd740ebc1d5023371eb74a5d2ee7a6e_720w.jpg?source=8673f162" alt=""><figcaption>物种丰富度随海拔呈显著二次曲线关系（R²=0.24，P<0.001），在约 1500–2200m 达到峰值，随后随海拔升高明显下降，呈典型中海拔多样性峰格局。低海拔可能受人为干扰与群落竞争结构影响，高海拔则受温度、氧气及土壤条件限制。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-56f0f99fbe627140cf5fc7226cce8dc9_720w.jpg?source=8673f162" alt=""><figcaption>2023 年 4 月至 2024 年 5 月布设了 110 台红外相机（实际有效 105 台）。野外调查中相机通常固定在离地 0.4–0.6 米处的树干上，面向动物通道。</figcaption></figure>
+<p>共记录 25 种哺乳动物，隶属 5 目 14 科，其中 18 种为大中型兽类，食肉目最多（12 种），偶蹄目 6 种，包括 4 种 IUCN 濒危物种、9 种中国红色名录极危或濒危物种及 7 种国家一级保护动物<sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a13729118dc358c1a4df677b029780fc_720w.jpg?source=8673f162" alt=""><figcaption>白颊猕猴（White-cheeked macaque）是该地区相对丰度最高的物种，其次是贡山麂（Gongshan muntjac）和喜马拉雅鬣羚（Himalayan serow）；柱状图中的不同颜色代表了物种在阔叶林（绿）、针叶林（蓝）、灌丛（橙）和高山植被（黄）中的分布情况，反映出多数物种主要栖息在阔叶林和针叶林中。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f611c8014483e0facffa69b1f8d2cf39_720w.jpg?source=8673f162" alt=""><figcaption>白颊猕猴是 2015 年在西藏墨脱正式描述的新种，主要分布于雅鲁藏布江下游及其支谷森林带。体型中等，最显著特征为脸颊明显白色毛区与深色面部形成强对比。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ca6321eec4b56464e1ff269901211b80_720w.jpg?source=8673f162" alt=""><figcaption>喜马拉雅鬣羚（约 60–120kg）的海拔分布非常宽：约 200m 至 4000m 以上。在墨脱相机记录海拔达 3654m，在尼泊尔和不丹也常见于 2000–3500m。这种跨度在中大型草食动物中非常少见。</figcaption></figure>
+<p>贡山麂主要分布在海拔 2800 米以下，尤其集中于 2200 米以下的阔叶林带。社会结构以独居为主，占 89.71%，雌雄成对仅占 6.94%，三只以上群体极少<sup>[8]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2f052ce3878310a43f46c43c9fb6b557_720w.jpg?source=8673f162" alt=""><figcaption>a 独居雌性，b 独居雄性，c 雌雄成对，d 雌性群（较少），e 母子群，f 家庭群（最罕见）。</figcaption></figure>
+<p>相机记录了亚洲金猫不同的毛色变化。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-802abf2f98169d41f5567cd45986d6af_720w.jpg?source=8673f162" alt=""><figcaption>亚洲金猫是已知体色多型性最强的猫科动物之一。</figcaption></figure>
+<p>研究还确认喜马拉雅与中华小熊猫在雅鲁藏布江下游共存，具有重要进化与保育意义<sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-bcfce7e8c8b858dd31683d5cf226f71e_720w.jpg?source=8673f162" alt=""><figcaption>(a–c) 为中华小熊猫（ Ailurus styani），(d–f) 为喜马拉雅小熊猫 （Ailurus fulgens）。 中华小熊猫更红、面罩更深色。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-91e0943ce1a3cdeb8e4f30ff13b9fa32_720w.gif?source=8673f162" alt=""><figcaption>豺群体通常由数只至十余只个体组成，具有高度分工与沟通能力 ©山水自然保护中心</figcaption></figure>
+<p>墨脱也是中国目前仍能稳定记录到豺的极少数区域之一。作为群居型掠食者，豺需要连片森林或山地灌丛作为活动空间，并依赖中型有蹄类如麂类、羚类等较稳定的猎物资源，栖息地破碎或猎物减少都会迅速影响其种群维持。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-df50537b082e5e2f2687eedaf98d9ebf_720w.jpg?source=8673f162" alt=""><figcaption>豺群捕猎成功率远高于多数单独行动的食肉动物。它们以耐力追逐见长，能够在复杂山地环境中长距离围猎。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d4cc93a0a68d2b3d7e7d8e5f063cf911_720w.gif?source=8673f162" alt=""><figcaption>豺对栖息地完整性与猎物连续性的要求极高 ©山水自然保护中心</figcaption></figure>
+<p>这些数据和影像都有力说明，墨脱是东喜马拉雅哺乳动物多样性与保护价值最突出的核心区域之一 <sup>[6]</sup>。</p>
+<p>墨脱丰富的物种多样性和完整的生态网络，为孟加拉虎的扩散和定居创造了条件。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e62630a3fd715f80efeefe4078e6746c_720w.gif?source=8673f162" alt=""><figcaption>墨脱的孟加拉虎 ©山水自然保护中心</figcaption></figure>
+<hr>
+<p><strong>丁青：六种猛兽如何共享一片山地</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-948ad8d04eb90bbabe9b66d45caee65b_720w.gif?source=8673f162" alt=""><figcaption>丁青县位于西藏自治区昌都市西北部，地处青藏高原东缘，北接青海省杂多等地，总面积约 12368 平方公里。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7a506ac8de8d5b4de811d1df04964f1b_720w.jpg?source=8673f162" alt=""><figcaption>丁青县四个调查区域（当堆乡、嘎塔乡、布托村、尺牍镇），海拔高度 3129-6258m。</figcaption></figure>
+<p>视角转向青藏高原的东部边缘，李雪阳等（2024）在丁青县开展了为期三年的红外相机系统调查（2020–2023），累计 16839 个有效相机日，在 54 个样点记录到 6 种大型食肉动物：狼、豺、猞猁、豹、雪豹和棕熊。兽类独立捕获记录共 4676 次，其中大型食肉动物占 28.6%，显示该区域具有极高的大型食肉动物多样性<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0a46a66eecac1cb316270f58bedc34d2_720w.gif?source=8673f162" alt=""><figcaption> ©山水自然保护中心</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e5300bb23826abf7e666fbc0156bc4f2_720w.jpg?source=8673f162" alt=""><figcaption>空间生态位重叠度：最高的是狼与猞猁（0.61）；其次为猞猁与棕熊（0.36）、豹与棕熊（0.33）以及狼与棕熊（0.28），属于中等偏低水平；狼与雪豹、豹与雪豹均仅为 0.08，显示明显的空间分化。</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8aee6748c7d30f7a0a0d1effbb9f00d4_720w.gif?source=8673f162" alt=""></figure>
+<p>如此之多的肉食动物，在一个相对狭小的区域内，通过生态位和时间的错位竞争，实现了共存<sup>[3]</sup>：</p>
+<blockquote>雪豹与狼为优势种，二者在时间活动节律上高度重叠，但空间利用重叠度较低，可能通过栖息地分化减少直接竞争；<br>猞猁主要捕食兔形类，与狼虽空间重叠较高，但食性差异降低了竞争强度；<br>豹与豺记录频次较低，种群规模可能受限，从而减弱与其他顶级捕食者的对抗压力；<br>棕熊则在时间维度上与雪豹、狼存在显著分化，进一步缓冲潜在冲突。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0e90f00895412be6232e38ae23942ab0_720w.jpg?source=8673f162" alt=""><figcaption>a：雪豹与狼活动曲线高度重合，均在晨昏达到高峰，时间利用高度相似。b、c：棕熊与狼、雪豹存在明显时间错位，白天更活跃，形成时间分化。d、e：豹和猞猁以直方图展示活动频次，反映其日内活跃时段。</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d856c13f4849a6ded133062f2a6de01d_720w.gif?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7915bfc37a0792b2aa45c166350a3645_720w.jpg?source=8673f162" alt=""><figcaption>岩羊是雪豹的重要猎物。</figcaption></figure>
+<p>除了这些肉食动物，丁青县红外相机调查显示，该区域拥有较为完整的高寒山地草食动物群落，尤其包括多种大型有蹄类，如中华鬣羚、岩羊、白唇鹿、马麝以及野猪。这些物种构成了大型食肉动物的重要猎物基础，其中岩羊与白唇鹿属于典型高海拔山地有蹄类，野猪则分布于河谷与林缘带，整体上为高位捕食者提供了多样化且体型充足的猎物资源结构。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4cfb383b54d9abb0424ce0074f742aa6_720w.jpg?source=8673f162" alt=""><figcaption>中华鬣羚既是植被更新的参与者，也是大型食肉动物（如虎、豹、豺等）的潜在猎物。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b6e97d341b067260edf1c71aa8624f98_720w.jpg?source=8673f162" alt=""><figcaption>马麝主要栖息于海拔 2500–4500 米的针阔混交林、灌丛与高山草甸交错带，偏好隐蔽、植被覆盖良好的区域。</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c29ba41e13e4b7f910dd272e125599c1_720w.jpg?source=8673f162" alt=""><figcaption>白唇鹿是，中国藏高原特有，口鼻周围呈明显的白色斑块，因此得名。成年雄鹿体型近似马鹿，体重可达 200kg 以上。</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-49eb3df2c14987f45d3b7ab845aba33a_720w.gif?source=8673f162" alt=""><figcaption>白唇鹿主要分布于藏北高原、羌塘及东部高海拔草甸与灌丛带，多活动于 3500–5000m 之间。</figcaption></figure>
+<p>野猪、白唇鹿和岩羊都属于体型适中的大中型有蹄类，正落在虎的主要捕食谱范围内，尤其野猪与鹿类在多地都是虎的核心猎物。从猎物结构看，该区域并不缺适合虎利用的生物量。作为顶级掠食者，虎在同域生态系统中通常压制其他肉食动物，通过空间排挤、时间错峰甚至直接捕杀豹、豺等竞争者来确立优势地位。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-28aef1b22f2a38d61be6680b26f7b009_720w.gif?source=8673f162" alt=""><figcaption>白唇鹿群</figcaption></figure>
+<hr>
+<p><strong>尼泊尔：当核心区装不下更多的虎</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9a3b32b811d37b01415f96bc51ac0102_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0e5dbf6bd8088e269dfbeb9333cff04a_720w.gif?source=8673f162" alt=""></figure>
+<p>尼泊尔方面，官方 2022 年全国调查给出总量达 355 只虎，并给出各保护地估计值，例如奇特旺 128、巴迪亚 125、帕尔萨 41、舒克拉潘塔 36、班克 25，这种密度水平在特莱低地（Terai）的关键栖息地已经逼近生态承载与空间饱和，促使年轻个体外溢、扩大活动范围并增加与人类接触的管理压力<sup>[9]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-660a04926ace050eef279cb1ebef104d_720w.jpg?source=8673f162" alt=""><figcaption>右侧蓝色虚线框即为墨脱</figcaption></figure>
+<p>在特莱低地虎密度趋近承载上限的情况下，领地竞争加剧，2–3 岁亚成体雄虎开始外溢寻找空缺领地。当核心区优质栖息地被占满，次级个体更可能沿森林廊道向边缘和山地扩散。由尼泊尔东部山地经不丹喜马拉雅南坡，再沿雅鲁藏布江—墨脱河谷进入青藏高原东南缘，构成一条具有生态连通性的潜在扩散路径。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7ac4c44da6a1b79d3c4178cdf8289990_720w.gif?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd578b9b2d18f4985418d0a80aba9821_720w.jpg?source=8673f162" alt=""></figure>
+<p>与西藏墨脱等地类似，尼泊尔的保护区内，虎和豹也普遍共域生存。研究者基于 2021—2022 年相机陷阱数据，结合 MaxEnt 模型评估两种大型猫科动物的栖息地适宜性与空间重叠。结果显示，豹的适宜栖息地面积为 854.15km²，虎为 867.21km²，重叠面积达 388.16km²，约占各自适宜栖息地的 45%。重叠区域主要集中在 Banke 南部与 Bardia 西部核心保护区<sup>[10]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-98e3e0e03a2fb2563490bba4582046f9_720w.gif?source=8673f162" alt=""></figure>
+<p>虎更偏向猎物密度高、干扰低的核心林区；而豹利用范围更广，延伸至缓冲区与人类活动边缘地带，表现出更强环境耐受性<sup>[10]</sup>。</p>
+<hr>
+<p><strong>不丹：4000 米上虎与雪豹的相遇</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-12b995973b6baf92cefb17f20b822d6b_720w.gif?source=8673f162" alt=""><figcaption>不丹吉格梅多吉国家公园成立于 1974 年，是该国第二大国家公园，面积约 4316 km²。海拔从约 1200 m 延伸至超过 7000 m，涵盖从亚热带森林到高山荒原的完整生态梯度。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4c08c845721a6d73cada88cc4c0af2ab_720w.jpg?source=8673f162" alt=""></figure>
+<p>研究者在不丹吉格梅多吉国家公园（<span class="nolink">Jigme Dorji National Park</span>）的海拔 3615–4010m 的多个相机点位，同时拍到虎与雪豹。这是首次以直接影像证据确认两种顶级捕食者在同一高海拔区域出现，表明它们在山地环境中存在栖息地重叠与空间共存<sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-58f1d800c9f6a55d175234335721add0_720w.jpg?source=8673f162" alt=""><figcaption>在(a)4010m、(b)3885m 和(c)3615m 三个相机点位均拍到虎与雪豹的红外影像，虽出现在同一机位，但记录时间不同。</figcaption></figure>
+<p>下图展示的是三个相机点位 (a)(b)(c) 中，雪豹与虎的具体拍摄时间对比。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-816b7980a88e185d741f7b3af4c75ff2_720w.jpg?source=8673f162" alt=""><figcaption>(a)相隔约 1 个月，(b)约 5 天，(c)约 2 天，表明两物种在同一机位出现但时间错开。</figcaption></figure>
+<p>这一发现突破了传统生态分层认知：长期以来，虎被认为主要分布于中低海拔森林带，而雪豹占据更高寒、开阔的山地生态系统。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e8cf15540805d8c9bee5ffe114b664cb_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a61a3d7699eb0e95a45fc12d898b1cca_720w.jpg?source=8673f162" alt=""></figure>
+<p>这项研究基于 2021 年 10 月至 2022 年 1 月开展的全国虎调查数据，在 1200–4300m 海拔范围内布设 56 个 5×5km 网格相机站点，总计 1528 个相机夜。调查共获得 478 张虎影像和 31 张雪豹影像。通过个体识别确认 6 只虎分布于 21.4%的相机站点，2 只雪豹分布于 5.4%的站点。关键在于，所有拍到雪豹的 3 个站点均同时拍到虎，构成明确的空间共现证据 。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bb0a0e5322a6a32bd03f7a36fde84a38_720w.jpg?source=8673f162" alt=""></figure>
+<p>值得注意的是，两物种虽共享空间，但在时间上存在错位：雪豹与虎的影像记录相隔数日至数周，显示可能存在时间分隔机制，以减少直接竞争或冲突。这种空间重叠 + 时间分离的格局，提示两种大型猫科动物在资源利用与活动节律上或已形成某种生态调节关系 。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1646fee340b2530b6df55cb329898ef9_720w.jpg?source=8673f162" alt=""><figcaption>吉格梅多吉国家公园不仅是喜马拉雅生态圈的核心保护地，也是全球生物多样性热点的重要组成部分。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-45cbe8138154cf3b6ba3d56dde746a6a_720w.gif?source=8673f162" alt=""></figure>
+<p>多项科学调查与影像记录表明，不丹境内的孟加拉虎在高海拔区域实现稳定活动并繁殖。早在 2010 年前后，野外相机监测与 BBC 纪录片拍摄即在约 4000m 的山地环境中记录到母虎与幼崽的影像。显示虎不仅短暂经过，而是在高寒山地建立繁殖单元。随后 2014—2015 年不丹全国虎调查的系统相机数据进一步确认，虎的分布上限可达约 4000m<sup>[11]</sup><sup>[12]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-65779eea9127c1429c0daf3df0413ab2_720w.jpg?source=8673f162" alt=""><figcaption>2015 年，一只成年雄虎在 Royal Manas National Park 被记录，随后在北部约 4000 米海拔再次确认，条纹比对证实为同一只个体，显示其完成南北迁移。后在南部边境遭跨境偷猎身亡。</figcaption></figure>
+<p>2022 年公布的全国虎调查结果进一步刷新记录，确认不丹境内虎的影像最高拍摄海拔达到约 4400 米，创下全球现生虎类活动的最高海拔纪录<sup>[13]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0812d4ae8710ddccd6f1238b2f4ee471_720w.jpg?source=8673f162" alt=""><figcaption>截至 2021–2022 年调查估计，不丹有约 131 只野生虎，较 2014–2015 年的 103 只增长了约 27%。 虎分布覆盖多种海拔梯度，从 100 米热带平原一直分布到 4400 米高山流石滩，体现了强大的适应广度。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dc16a2c048f62cb0bff999a07aadc80f_720w.gif?source=8673f162" alt=""><figcaption>海拔 4000 米的老虎影像</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff93a059f7b9e4d304299560ff00a4c9_720w.gif?source=8673f162" alt=""><figcaption>同一海拔高度不同摄像机</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c50d5277fb6c27d2d7d789b8ff4cdb92_720w.jpg?source=8673f162" alt=""><figcaption>岩羊</figcaption></figure>
+<p>研究还指出，不丹过去数十年森林覆盖增加，并伴随森林带向高海拔上移。气候变化与植被结构调整可能扩大虎在高海拔区域的适生空间，同时压缩雪豹的传统高寒生境。两种旗舰物种在高山生态系统中的共存，对理解喜马拉雅山地食物网结构与未来气候情景下的种间关系具有重要意义 <sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-50175b3eb0fbd9ef57fe6f73e43cc833_720w.jpg?source=8673f162" alt=""><figcaption>牛羚是不丹的国家象征动物。体型粗壮、鼻部隆起、毛色金黄偏棕，是喜马拉雅山地特有的大型有蹄类。</figcaption></figure>
+<p>这一发现不仅再次确认了虎在高海拔 4000m 附近活动的能力，也揭示了高海拔生态系统中顶级捕食者的复杂互动格局，对跨海拔保护规划与高山生境管理具有重要启示意义<sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbc62e0bbe9ebd71a53793afc7ac6df5_720w.gif?source=8673f162" alt=""></figure>
+<p>另外，研究人员在不丹西部的廷布森林分区（Thimphu Forest Division），通过红外相机（海拔 3634m）在同一个监测点拍摄到了亚洲三大顶级掠食者：老虎、雪豹和豹。这是喜马拉雅地区首次留下这三种大猫在同一地点出现的影像证据<sup>[12]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-55720b7201570f9da9a43a660d2c9651_720w.jpg?source=8673f162" alt=""></figure>
+<p>近年来多次记录虎跨越 4000m 活动，雪豹亦可进入针叶混交林。气候变化与森林带上移可能正在改变传统垂直生态分层<sup>[12]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c3e9cdcafc37f56f8e7606a952ae4151_720w.jpg?source=8673f162" alt=""></figure>
+<hr>
+<p><strong>限制虎的不是海拔，是通道</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-92505e75d67d406d35be20ac2b10d5c2_720w.gif?source=8673f162" alt=""><figcaption>墨脱拍到的虎 ©山水自然保护中心</figcaption></figure>
+<p>从上述不同时间与地点的多个案例可以看出，虎的分布扩张主要受人类活动的强烈压制，而非难以适应高海拔环境。</p>
+<p>历史上，自喜马拉雅南坡向北的潜在扩散通道，长期被聚落、农业开发、道路建设及直接清除行动所切断，最终仅在少数仍保有连通林地与稳定猎物基础的区域留下点状残存种群，墨脱正是这种边缘却仍具生态连续性的窗口地带。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-97b36bb1d596351eafdd480e294e2946_720w.jpg?source=8673f162" alt=""><figcaption>墨脱</figcaption></figure>
+<p>随着气候变暖导致森林带上移，以及中国境内生态环境持续改善，未来很可能会有更多虎通过跨境通道进入西藏。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-15790ad316a750e7723a68af51bc2ba2_720w.gif?source=8673f162" alt=""><figcaption>雅鲁藏布江—墨脱河谷</figcaption></figure>
+<p>接下来我们回到狮子。</p>
+<hr>
+<p><strong>从洞狮到动物园：被遗忘的耐寒潜力</strong></p>
+<p>狮子的情况必须分三层看：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b8c6194c4b6747aa726adc395d6f6bbe_720w.jpg?source=8673f162" alt=""><figcaption>雌性洞狮幼崽 Sparta 发现于俄罗斯雅库特印第吉尔卡河流域 Semyuelyakh 河永久冻土层，放射性碳测年约 28000 年（晚更新世间冰期），死亡时个体年龄约 1–2 个月。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4265301e6a0686a6c5a0efbbcc7707de_720w.jpg?source=8673f162" alt=""><figcaption>洞狮与现代狮子分化约 190 万年。雌性幼体 Sparta（a、c）与雄性幼体 Boris（b、d、e、f）木乃伊均显示出发达且均匀覆盖全身的浓密下层绒毛，体现其对寒冷环境的高度适应；雄性个体尾尖可见深红褐色尾丛（tuft），为早期尾部毛发特征之一。</figcaption></figure>
+<p>第一层冰川期广布，更新世的狮形类在欧亚与北美都有分布，欧亚的洞狮或相关谱系被描述为在北欧亚广泛出现并延伸到白令地区<sup>[5]</sup>，北美也存在近缘的美洲拟狮，这说明狮类谱系在寒冷环境与高纬度环境下长期生存过。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-49239f259bdbb72b6ec92b4d4c8b6b86_720w.jpg?source=8673f162" alt=""></figure>
+<p>人工饲养下，世界各地的狮子活得也很健康，冬季为了御寒还会长出厚毛，说明狮子完全有潜力适应寒冷环境。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e64aa74c43da5eda7b4885df0cb83e24_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ec89ebc11d454a304d18732dfb38f041_720w.gif?source=8673f162" alt=""></figure>
+<hr>
+<p><strong>亚洲狮：从地中海到印度的收缩史</strong></p>
+<p>第二层是现代格局：经历历史性衰退后，现生狮主要收缩在非洲，亚洲只剩少量亚种群，基本局限在印度古吉拉特保护区范围内。</p>
+<p>但这一狭小现状掩盖了亚洲狮曾经的扩散能力。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4817a16f43570a4be2243422f113a195_720w.jpg?source=8673f162" alt=""><figcaption>亚洲狮的传统学名为 Panthera leo persica，长期被视为独立亚种。不过，根据近年的分子系统学研究与分类修订，亚洲狮现多被归入北方谱系 Panthera leo leo。</figcaption></figure>
+<p>2025 年官方种群估计达到 891 只，较 2020 年 674 只增长 32.2%，并显示大量个体已经扩散到保护地外的人类主导景观。亚洲狮的分布主要还是受到人类限制<sup>[14]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7bea3ade6e1b98f1f81b5217a04c805_720w.jpg?source=8673f162" alt=""><figcaption>在较新的分类体系中，Panthera leo leo 包含亚洲狮以及西非—中非的狮群，而东非与南非的狮群则被划入 Panthera leo melanochaita。不过在历史或地区性研究中仍常见 Panthera leo persica 的用法。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca33d2f29b3e73c02cc03bf6938aab22_720w.jpg?source=8673f162" alt=""><figcaption>蓝色代表北方谱系 Panthera leo leo，涵盖西非、中非以及亚洲狮，历史范围从大西洋沿岸延伸至印度次大陆，地理跨度极大，亚洲狮只是其最东端的孤立残存种群。</figcaption></figure>
+<p>历史上，亚洲狮并不只局限于印度次大陆西北缘，它在近代被人类压缩到吉尔之前，曾沿西亚的河谷与开阔林地、稀树草原式景观向西扩展，经两河流域与伊朗进入地中海东缘一带<sup>[15]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dbb145a9d5bfe68c28328db56d42269c_720w.gif?source=8673f162" alt=""><figcaption>波斯豹是现今伊朗境内体型最大的猫科动物，也是豹属中唯一幸存的成员。历史上伊朗曾拥有亚洲狮和里海虎，但二者已在 20 世纪中期灭绝。</figcaption></figure>
+<p>伊朗及其毗邻的阿富汗与中亚地区处于多个生物地理区系的交汇带，既包含典型的西古北界物种，也混杂有东方界与非洲界成分，整体呈现出明显的过渡性与复合性特征。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-841b45c68c819f761664abbb6e60e241_720w.gif?source=8673f162" alt=""></figure>
+<p>历史上，这一地区曾分布着亚洲狮、豹、猎豹和狼等大型食肉动物，但随着栖息地破碎化、人类扩张与长期猎杀，多数种群已显著萎缩，部分区域甚至彻底消失<sup>[16]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0eb2ef555e5a7ff876b13931b0da206a_720w.gif?source=8673f162" alt=""><figcaption>波斯豹是现存豹类中体型最大的亚种之一，雄性体重一般在 60–90 公斤之间。此外，伊朗还幸存有极少数的亚洲猎豹。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-41c9e2c546e3fa919cd4ce20782bc50b_720w.jpg?source=8673f162" alt=""><figcaption>扎格罗斯山脉（Zagros Mountain）位于伊朗西部，自西北向东南绵延约 1500 公里。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a4b712b13e21193c022c48c89ab6b20f_720w.gif?source=8673f162" alt=""><figcaption>扎格罗斯山的主脉高山与两侧低地平原之间的过渡带，海拔通常在 300–1500 米之间，由丘陵、河谷、冲积扇与季节性溪流构成。</figcaption></figure>
+<p>在伊朗境内，文献与地方史料反复提到其核心活动区与猎场主要位于扎格罗斯山系南段及其山麓丘陵、森林与平原交错地带（例如法尔斯省、胡齐斯坦省的山麓与河谷）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-269394de0ef4c05daf9a5c4edf5b79b0_720w.gif?source=8673f162" alt=""><figcaption>山坡上走过的野猪群</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-095248720bd40c75759ce31adef702a6_720w.jpg?source=8673f162" alt=""><figcaption>西南缘的扎格罗斯山脉及周边区域，非常类似北非巴巴里狮的生存环境。</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd54f1224836c2d2cec5ca3a17cfde4b_720w.gif?source=8673f162" alt=""><figcaption>达什特·阿尔詹（Dasht-e Arja）是扎格罗斯山脉南坡的高山盆地湿地系统，四周为栎林山地包围，本身为开阔草甸—湿地镶嵌地貌。</figcaption></figure>
+<p>伊朗历史亚洲狮的海拔记录显示，其最高分布点位于法尔斯省达什特·阿尔詹（Dasht-e Arjan，约 1950 米）和科塔尔 - 皮雷赞（Kotal-e Pirezan，约 1700 米），最低则见于胡齐斯坦平原（Khuzestan Plain，约 50 米）。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8322747c06f430a0fa167d8dd59ad1b9_720w.jpg?source=8673f162" alt=""><figcaption>伊朗西南部的扎格罗斯山麓—平原过渡地带，并在这一带存在多个被验证的亚洲狮野外记录点（红点）。</figcaption></figure>
+<p>随着火器狩猎、栖息地改造与猎物衰退叠加，西亚种群在 19 世纪至 20 世纪上半叶快速消失，伊朗最后的可靠记录通常被追溯到 1942 年在德兹富勒（Dezful）附近被工程人员观察到的一对个体。</p>
+<p>亚洲狮从印度到伊朗的历史分布跨越了多种气候带与地形，说明其扩散能力和环境适应弹性远超当前残存范围所呈现的印象。</p>
+<hr>
+<p><strong>巴巴里狮：阿特拉斯山脉的山地王者</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ebf2cee8f8d88b90297d44995628b4b7_720w.jpg?source=8673f162" alt=""><figcaption>巴巴里狮</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9fdadc5de21e7677885d2b3b6cda3297_720w.jpg?source=8673f162" alt=""></figure>
+<p>第三层则是北非摩洛哥的巴巴里狮。摩洛哥里夫山与中、高阿特拉斯山地的地中海型森林与山麓草坡。这些区域海拔常在 1500—2300 米之间，冬季有稳定降雪与低温，河谷与山口形成天然廊道，使狮子能够在温带化环境中长期生存。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f256f1d4673cabdf0323cda3393ca5ef_720w.jpg?source=8673f162" alt=""></figure>
+<p>与东非草原狮不同，巴巴里狮的生态更接近山地伏击型掠食者，主要猎物包括野猪、黇鹿与北非山地有蹄类，季节性也会取食家畜。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-19cd8e256dd61a464ac4936912165533_720w.gif?source=8673f162" alt=""><figcaption>巴巴里猕猴</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-09038c0390508eb586533388fdb8f95a_720w.gif?source=8673f162" alt=""><figcaption>金豺</figcaption></figure>
+<p>巴巴里狮的主要竞争对手来自同域大型食肉目与人类。在阿特拉斯山区，豹（已功能性灭绝）当然对抗不了狮子，但两者在野猪与鹿类资源上高度重叠，豹更擅长陡坡与林冠环境，二者存在资源和空间上的竞争关系。条纹鬣狗与金豺<em>（Canis anthus）</em>则通过错开生态位避免直接冲突。棕熊（19 世纪末灭绝）在历史上也可能与狮争夺河谷猎物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a67702317a0ca28172ceb87b6b6e893b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f622bdf626056051d4458091a915ea6_720w.jpg?source=8673f162" alt=""></figure>
+<p>19 世纪欧洲旅行者多次描述其体毛与鬃毛在冬季尤为浓密，因此被称为“winter-maned lions”，这种外观与当地寒湿气候和毛发可塑性有关。进入殖民时期后，赏金制度与枪械普及导致系统性清除，栖息地又被农业与伐木切割，种群迅速退缩到高阿特拉斯残余斑块。1942 年在 Tizi-n-Tichka 山口的猎杀常被视为野外最后确证记录，但实际消失过程可能更晚。巴巴里狮的野外灭绝并非生态不适，而是持续的人为致死率压倒了其在山地环境中的稳定生态位。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c86a68e8763e7677f970bd8c377a8f18_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3709743518b41af286f2da545da27ad_720w.gif?source=8673f162" alt=""><figcaption>摩洛哥动物园的巴巴里狮</figcaption></figure>
+<p>巴巴里狮在野外消失后，一些被认为源自摩洛哥王室与北非收藏的个体被保留在欧洲与中东动物园，形成所谓“巴巴里谱系”圈养群体。但分子研究显示，这些个体多已与其他非洲狮群发生不同程度的基因混合，缺乏纯粹的历史血统。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5c1aca1916b85a58f83dce53da30e325_720w.gif?source=8673f162" alt=""><figcaption>欧洲动物园的巴巴里狮</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b64c9e0f5c0e9b08346df623eb75033b_720w.gif?source=8673f162" alt=""></figure>
+<p>巴巴里狮说明狮子可以适应温带山地环境，具备进一步向更高海拔适应的潜力。</p>
+<hr>
+<p><strong>虎在前进，狮在等待</strong></p>
+<p>现代狮子由于地理与人类屏障，几乎不可能自行扩散进入青藏高原，因此我们缺乏真实的扩散—筛选过程，难以直接判断其是否能够在高原腹地形成稳定种群。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0541655c604f886e2e6c672dedfd5984_720w.jpg?source=8673f162" alt=""><figcaption>不丹高海拔的孟加拉虎 ©Emmanuel Rondeau</figcaption></figure>
+<p>相比之下，虎已经通过喜马拉雅南坡森林走廊进入墨脱并实现稳定活动，说明大型猫科并非受限于高海拔边缘地带，而是取决于生态连通性与猎物基础。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2cc6a5289ab529bab9ef1b07f64ab135_720w.jpg?source=8673f162" alt=""><figcaption> ©Emmanuel Rondeau</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6bd287c5d0bad1f288615f683e584cea_720w.gif?source=8673f162" alt=""><figcaption>不丹的高山孟虎，体重那么大动作却那么敏捷©Nidup Gyeltshen</figcaption></figure>
+<p>根据 WWF 2022 年的空间模型（下图），青藏高原东南缘的大片区域被识别为潜在虎恢复区（红圈内绿色），并且与尼泊尔和不丹现存种群（橙色）在空间上相对接近。在森林走廊保持连通的前提下，孟加拉虎通过自然扩散不断深入是完全可能的<sup>[17]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-17f2ed8dba298c56ff827c7e12cd033c_720w.jpg?source=8673f162" alt=""></figure>
+<p>高原腹地本身并不缺乏体型上可被狮子利用的猎物资源。以藏野驴为例，公开估计数量常在 6 万至 7 万只，再叠加盘羊、岩羊、藏羚羊与白唇鹿等多种有蹄类，猎物层面并不存在明显空缺。问题的关键在于现实世界中扩散路径是否存在，以及人类主导景观是否允许这一过程发生。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-75fe1f684e47137279e8ece01685e671_720w.jpg?source=8673f162" alt=""><figcaption>库诺国家公园同时也是印度猎豹引入计划（Project Cheetah）的核心实施地，2026 年 2 月，纳米比亚来源雌性 Aasha 在库诺产下 5 只幼崽，官方通报印度猎豹总数上升到 35 只。</figcaption></figure>
+<p>相比亚洲狮扩张到青藏高原，更为现实且正在推进的方向是建立印度境内的第二个野外种群，目前以中央邦库诺国家公园（Kuno National Park）为候选地，虽已完成生态准备并获得司法支持，但实际迁移仍处于评估与协调阶段。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-38a98f5000ced566a7500d8da2c73e61_720w.gif?source=8673f162" alt=""><figcaption>库诺国家公园的猎豹</figcaption></figure>
+<hr>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/653048528">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788244</guid><pubDate>Sat, 14 Mar 2026 01:40:46 GMT</pubDate></item><item><title>慈禧所写的「可怜天下父母心」的出处是什么？</title><link>http://daily.zhihu.com/story/9788285</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a79b7a74a6b60d576d9d1704e2da2d9d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-727eddbae249efa92611180292220cd7_l.jpg?source=8673f162">
+<span class="author">赵学浩，</span><span class="bio">东亚海域史/都市传说/未解之谜/太阳系第一帅</span>
+<a href="https://www.zhihu.com/question/31579749/answer/40628051726" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>完全是自称“慈禧后裔”的那根正胡诌出来的，就是他本人原创的。</p>
+<p>那根正生于 1951 年，满族，是颐和园的员工，曾经担任颐和园游人投诉接待总站的站长，有收藏爱好。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1170303bd20ae9a3b4305b17f5a15ea8_720w.jpg?source=8673f162" alt=""><figcaption>那根正与白马王子卢小将的合影</figcaption></figure>
+<p>一看他的岗位就知道，忽悠人能力一流。那根正大概也是想出名想疯了，就自称“叶赫那拉·根正”，并说自己是“慈禧后裔”，也就是慈禧太后的弟弟桂祥的后人。</p>
+<p>也不知道是什么 py 交易，在 2004 年后，这家伙开始走红，那根正在接受采访时，就吹牛说过：</p>
+<blockquote>“在我的家中，也曾保存过一幅慈禧的书法，是慈禧母亲七十大寿的时候写的。当时，因为日理万机，慈禧没有时间去参加母亲的大寿，就让侍臣给母亲送了很多的东西，同时，亲笔写了一幅书法，裱好后送去了，这副书法一直保存了几代人，最后毁于文革。那是慈禧写给母亲的一首诗：“<strong>世间爹妈情最真，泪血溶入儿女身。殚竭心力终为子，可怜天下父母心！</strong>”现在有许多人都知道“可怜天下父母心” 这句话，却不知道它的出处，实际上这句话出自慈禧的诗句。”</blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-27554c723156946c4c80138413f06f82_720w.jpg?source=8673f162" alt=""><figcaption>出自东北新闻网 2004 年 11 月 9 日，《慈禧后裔揭谜：“西太后”慈禧的少女时代》</figcaption></figure>
+<p>要证据，没有！烧了！那爷就是这么理直气壮！</p>
+<p>除了接受《中国档案报》、《北京日报》的采访外，那根正在 2005 年起，于《北京晚报》上连载专栏，讲述原创的慈禧和他杜撰的祖宗的故事。</p>
+<p>同年出版的那根正口述，郝晓辉编写了《我所知道的慈禧太后：慈禧曾孙口述实录》一书，内容更是荒诞至极。</p>
+<p>在这本书里，他精确描述了慈禧写“可怜天下父母心”的时间——是在光绪二（1876）年，慈禧的母亲过七十大寿的时候！</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6810fda738e8c514ae75dc252ab47866_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-3005bdc3c8629a7ff6e245a3ed8b2b6b_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>然而，慈禧的母亲富察氏早在六年前就一命归西了！</strong></p>
+<p>同治九年（1870 年）八月十七日，翁同龢在日记中，记载了慈禧母亲发丧的情况：</p>
+<blockquote>“昨日照公（照祥，慈禧亲弟）母夫人出殡，涂车刍灵之盛，盖自来所未有，倾城出观，几若狂矣！沿途祭棚络绎，每座千金，廷臣往吊者皆有籍，李侍郎（军机大臣、户部侍郎李鸿藻）未往，颇忤意旨。”</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d6f218b86d7a43e94f3c62c963c9463_720w.jpg?source=8673f162" alt=""></figure>
+<p>在白云观的宗谱《太上律脉源流》中，在记载道教全真龙门派高道张圆璿（张宗璿）事迹时，也提及了 1870 年慈禧母亲去世时，张圆璿为其诵经的情况：</p>
+<blockquote>“庚午（1870 年）再请传戒，时值皇亲照公府太夫人灵寄观中，师为虔诵《血盆经》。一藏半载之久，靡有怠容。蒙慈禧皇太后，恩赐紫袍玉冠，揖金助坛，开大戒场，伯子公侯，接踵而来，请谒，声名播于远方”。</blockquote>
+<p>虽然富察氏生年无载，如果在 1870 年去世前，就已经年满七十岁的话，那么在 1835 年生慈禧的时候至少 35 岁了！考虑慈禧只有一个早夭的姐姐，下面还有一妹三弟，这么晚生育可能性略低。</p>
+<p>所以，“可怜天下父母心是慈禧写的”的说法，显而易见是那根正不学如清，硬蹭慈禧还对慈禧家族的情况不了解，闹了个天大的笑话。</p>
+<p>后来有些人发现了慈禧的母亲早就去世的情况，煮熟的鸭子还嘴硬，强行改成是“慈禧母亲六十大寿”时写的，更是滑天下之大稽了。</p>
+<p>值得一提的是，“<strong>慈禧的小名叫杏儿，学名叫杏贞</strong>”，这个常见的说法，也是<strong>那根正编造</strong>的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bea97489ae116cd1080535c27a570171_720w.jpg?source=8673f162" alt=""><figcaption>藏品当然是那根正自己掏的，不是什么慈禧给的</figcaption></figure>
+<p>业余清史研究者冯其利，就看不惯那根正完全不看清史就敢“纠正学者许多错（zheng）误（jie）”的恶劣行为，于是写了一篇《<span class="nolink">那根正先世考</span>查》（见全文最后），发在同年《北京档案史料》第 2 期上，畅快淋漓地对其进行狠狠的扒皮。</p>
+<p>比如说，我上小学的时候看《未解之谜》都知道李莲英是在辛亥革命前夕一命呜呼，墓里只有个脑袋，那根正居然敢说他活到 1926 年，明显是崔玉贵、李莲英傻傻分不清。</p>
+<p>可怜卢白马这类颐和园的黑色高级游客们，要挨水平这么低下的大忽悠多少骗呢！</p>
+<p>那么，话归正题，“可怜天下父母心”出处是什么呢？</p>
+<p>根据调查民国旧报纸可知，事实上，“可怜天下父母心”的出处，应该是 1926 年神州电影公司出品的电影《可怜天下父母心》。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4154a8d75fb234f158b64c4be82ffe2_720w.jpg?source=8673f162" alt=""></figure>
+<p>这部电影的导演是顾肯夫，编剧为<span class="nolink">施济群</span>。演员徐维翰(陆宏志)、何能(邱淡如)等，电影剧情如下：</p>
+<blockquote>诗人陆宏志虽勤于写作但命运坎坷。与邱淡如结婚后，生有儿女三个，即大男、二男和三男。因家境贫寒，时常断炊。一日，姐弟三人玩坏了邻居的玩具，父亲因赔不起，只得好言安慰。<br>曾经想娶淡如为妻不成、而在京师经商的富绅万选青，如今已娶张君丽为妻。但因妻子数年不育，选青又望子心切，所以有了纳妾的想法。妻子一气之下只身返回别墅。张妈来看女儿，提议抱养个孩子，来哄骗选青说是其亲生的。<br>君丽同意后，张妈来找淡如，淡如思考再三，觉得这样做既对不起丈夫又对不起孩子，叫张妈过会儿再来，自己再考虑考虑。张妈走后，淡如犹豫不决。为了养家，便写下一封内疚别夫的信。<br>这时，淡如迷迷糊糊地睡着了，她做了一个梦，梦见三男被卖到万选青家，丈夫宏志不知内情闹出许多误会，最后亲手杀死三男。<br>淡如惊醒后，立即将写好的信撕掉，紧抱三男不放。此时，突然有人敲门，淡如以为是张妈来领孩子，结果是书局的送信人来通知宏志的诗集即将出版，特来奉送稿费的。重病中的宏志听到这个消息高兴极了。病似乎也减轻了许多。宏志马上拿出 5 元钱交给淡如，叫她以此赔偿邻居的玩具，并让妻子给孩子们买些玩具来玩，还说如今有了钱，病也可以治好了。<br>忽然，又有敲门声。这回是张妈如约前来听回信儿，淡如立即回绝了张妈。</blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-749625efd3a58252e2e224c6033fc1b4_720w.jpg?source=8673f162" alt=""></figure>
+<p>根据顾肯夫的说法，这部电影是受美国默片《萱帏惊梦》（The broken law）的影响而拍摄的。</p>
+<p>神州电影公司在电影上映前就在《申报》、《时报》、《时事新报》、《民国日报》、《神州日报》等上海报纸媒体上，大肆宣传《可怜天下父母心》，但是总体来说，虽然看得人不算少，报纸上讨论也很多，但大概是胶卷没能保留下来的原因，后世影响不大，因此只有片名被新闻工作者记了下来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-06f12587ebb723822b89085da2d39fb2_720w.jpg?source=8673f162" alt=""></figure>
+<p>至少在 1929 年时，《大公报》、《时事新报》等上海的媒体在报道社会新闻的时候就开始用“可怜天下父母心”作为标题，报道父母对儿女的关爱的社会新闻。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5b6d1ebdc27c6ca41f0475d900592f25_720w.jpg?source=8673f162" alt=""><figcaption>《大公报》1929 年 11 月 20 日</figcaption></figure>
+<p>长此以往，很多其他地区的报纸也受之影响开始用“可怜天下父母心”一词，就此变成了大众耳熟能详的熟语。</p>
+<p><strong>其他相关答案：</strong></p>
+<p><a class="internal" href="https://www.zhihu.com/question/447267248/answer/33180014747">有哪些东西是为了军事用途发明的后来和军事没有关系了？</a><a class="internal" href="https://www.zhihu.com/question/27870891/answer/3464927278">历史上谁曾经成功潜入过皇宫？</a><a class="internal" href="https://www.zhihu.com/question/38374479/answer/3363667103">历史上有哪些细思极恐的事件？</a><a class="internal" href="https://www.zhihu.com/question/21806077/answer/3351288181">为什么暗含「大明」的山东济南大明湖，在清朝严格的文字环境中得以留存？</a><a class="internal" href="https://www.zhihu.com/question/438280707/answer/3284340420">如何评价兆惠？</a></p>
+<p><strong>副：<strong>冯其利《<span class="nolink">那根正先世考</span>查》</strong></strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e22bbea62bf2bc1408b8700988e409f8_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e1430dac12823abf798ac2b091e0f538_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5c6e47b7b4cec8f2b9e5d2f573be16ad_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5ea38fb00f3c8544e31aaeed7f61258c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-eabf5477b381ac02891eff9c1c5b974d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6f75d4f7d11d31677660e89de92b7489_720w.jpg?source=8673f162" alt=""></figure>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/31579749">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788285</guid><pubDate>Sat, 14 Mar 2026 01:40:47 GMT</pubDate></item></channel></rss>
