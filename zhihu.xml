@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 19 Mar 2026 06:52:21 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么古人说雷声大就雨点小？真的是这样百分之百准确么，我咋记得暴雨是雷声大雨点也大？</title><link>http://daily.zhihu.com/story/9788373</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-85af896d720519c0c65d772a83fcf7e8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 19 Mar 2026 12:53:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么古人说雷声大就雨点小？真的是这样百分之百准确么，我咋记得暴雨是雷声大雨点也大？</title><link>http://daily.zhihu.com/story/9788373</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-85af896d720519c0c65d772a83fcf7e8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -25,20 +25,20 @@
 </div>
 
 <div class="content">
-<p><strong>假的，没有这回事儿。</strong></p>
-<p>已经有雷电意味着周边有积雨云发展，如果雷声很大那就意味着积雨云距离你已经很近，甚至是就在你头顶，又或者是说雷暴云团范围很大。</p>
-<p><strong>在这种情况之下几乎都会出现强降雨</strong>，只打雷不下雨或者雨下的很小的情况很罕见，一般是低层空气过于干燥导致的，所以这句话明显是以偏概全了，是典型的气象学谣言。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4aabaac76e003f0c844da6b8f45262dd_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>准确来说，这并不算气象谚语，或者说是跟气象学关系不大。</strong></p>
+<p>如果我们完全按照字面意思理解的话，确实不一定是这样子的，已经有雷电意味着周边有积雨云发展，如果雷声很大那就意味着积雨云距离你已经很近，甚至是就在你头顶，又或者是说雷暴云团范围很大。</p>
+<p>在这种情况之下几乎都会出现强降雨，只打雷不下雨或者雨下的很小的情况很罕见，一般是低层空气过于干燥导致的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4aabaac76e003f0c844da6b8f45262dd_720w.jpg?source=8673f162" alt=""></figure>
 <p><strong>雷电的出现意味着什么？它代表周边有积雨云诞生</strong></p>
 <p>雷电活动的出现在云的发展路径之中是至关重要，我们要理解「雷声大意味着雨点小」这句话是否成立，首先需要了解雷电是怎么诞生的。</p>
 <p><strong>一般来说雷电在积雨云之中最为常见，特别是其成熟阶段的强对流单体（鬃积雨云）</strong>。这种云的垂直发展极其旺盛，云顶可达到对流层顶部甚至平流层下部，在低纬度地区可达 12~18 公里。</p>
 <p>如此巨大的垂直尺度，就能为云内剧烈的上升与下沉气流，以及冰和水的相变提供空间。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ee2a2cd6038c2d32768869ded5ccf800_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ee2a2cd6038c2d32768869ded5ccf800_720w.jpg?source=8673f162" alt=""></figure>
 <p>其中雷电产生的微观物理基础就是云内的强力电荷分离，在雷暴云的上部温度低于 -15℃的区域存在大量的冰晶、雪花以及过冷水滴，而 -10℃~-20℃的霰粒生长区则更为关键。</p>
 <p>当微小的冰晶与下落的、表面已经开始融化的霰粒在强烈的上升气流中发生碰撞时，<strong>就会发生复杂的电荷转移过程</strong>。</p>
 <p>碰撞的结果通常是：较轻的冰晶携带正电荷被上升气流带到云的上，较重的霰粒只会携带负电荷聚集在云的中下部。</p>
 <p>这种电荷分离过程会持续进行，<strong>最终会在云内形成一个典型的三级电荷结构</strong>：云顶为正电荷区、中部为主要的负电荷区、底部有时还存在一个较小的局部正电荷区。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8da9b094a87cb085da32525ec38ea0cd_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8da9b094a87cb085da32525ec38ea0cd_720w.jpg?source=8673f162" alt=""></figure>
 <p>当正负电荷区之间的电场强度超过空气的绝缘阈值时，空气会被击穿，形成一条电离的导电通道，这也就是我们看到的闪电。</p>
 <p>闪电瞬间会释放巨大的能量加热通道内的空气，使其急剧膨胀，然后急剧收缩，由此产生的冲击波变为化作我们所听到的雷声。</p>
 <p>因此强烈的雷电活动，本身就是积雨云<strong>垂直运动剧烈、冰水转化过程活跃、电离分离效率极高</strong>的直接证据。</p>
@@ -48,28 +48,28 @@
 <p>最为典型的就是干雷暴以及雨滴蒸发，这常常发生在气候干燥或者季节性干旱的区域，比如我国北方春季内陆荒漠区。</p>
 <p>在这些地区里，尽管中高空大气条件满足了雷暴发展所需要的不稳定能量和水分，但近地面约 2~3 公里高度的低层大气异常干燥。</p>
 <p>当云中的雨滴或者小冰雹从云底下落，穿过这层干燥空气时，<strong>就会发生强烈的蒸发冷却</strong>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9da7b7dea40fe7ebd8760dbeaf9eb08b_720w.jpg?source=8673f162" alt=""><figcaption>干雷暴和普通雷暴差不多，就只是因为低层大气异常干燥，导致降水无法正常下落到地面</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9da7b7dea40fe7ebd8760dbeaf9eb08b_720w.jpg?source=8673f162" alt=""><figcaption>干雷暴和普通雷暴差不多，就只是因为低层大气异常干燥，导致降水无法正常下落到地面</figcaption></figure>
 <p>雨滴在降落过程之中会迅速蒸发，不仅无法到达地表形成有效降水，其蒸发吸收的潜热还会进一步冷却下沉气流，<strong>有时甚至能观测到增强局地下沉气流，从而抑制降水的情况</strong>。</p>
 <p>这种情况在我们肉眼观测中，就是能明显看到雷电活动并听到雷声，但是降水活动一直在近地面 3 公里附近时就强制终止了，能见到的就是一大片未落地的雨幡，这相当于是被云诈骗了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6ad0d592842d527e4cdbf7cdacc80412_720w.jpg?source=8673f162" alt=""><figcaption>雨幡</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6ad0d592842d527e4cdbf7cdacc80412_720w.jpg?source=8673f162" alt=""><figcaption>雨幡</figcaption></figure>
 <p>还有一种情况更是诈骗中的诈骗，也就是云内闪以及云际闪的虚张声势，直接虚晃一枪。</p>
 <p>闪电主要分为云地闪、云内闪和云际闪，其中云内闪和云际闪更为频繁，但其雷声往往沉闷绵长，也是最容易被我们记住的。</p>
 <p>有时强烈雷电活动主要源于云体上部和中部的剧烈放电，而这些区域的强对流与产生强降水的暖云降水在空间上并不完全重合。</p>
 <p>在这种情况之下，<strong>一次响亮的雷声只标志着云中局部电荷的剧烈中和，而不一定对应着强降水中心</strong>。</p>
 <p>当然出现这种情况也有可能与干雷暴有关，比如中低层降水粒子过少导致无法出现地闪，相当于是被做局了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6c1bd86c6ef563e70da4e93f61f902a2_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6c1bd86c6ef563e70da4e93f61f902a2_720w.jpg?source=8673f162" alt=""></figure>
 <p><strong>恭喜你中大奖了！超级单体会将雷电与降水核心强行分开</strong></p>
 <p>在更为复杂的强对流风暴系统之中，特别是超级单体雷暴以及某些多单体风暴，雷电与强降水的空间分布可以呈现高度有组织，但有显著分离的特征，<strong>原因就是上升气流与下沉气流被强行分开</strong>。</p>
 <p>其中超级单体是地球上最为强大、最为持久的雷暴类型，其内部具有一个深厚且持久旋转的上升气流（中气旋）。</p>
 <p>在这种高度组织化的风暴之中，<strong>下沉气流降水区和雷电活动区的位置相对固定但又彼此分离</strong>。</p>
 <p>在经典超级单体模型中，旺盛的上升气流从前侧倾斜进入风暴，携带大量水汽垂直发展，而降水粒子在上升气流中增长后会被抛到其下方侧下落，形成主降水核心（后降水核心）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d8ae67bac6c4f065fb2b0f818a9e3764_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d8ae67bac6c4f065fb2b0f818a9e3764_720w.jpg?source=8673f162" alt=""></figure>
 <p>但是最为关键的地方就在于，强烈的雷电活动往往与风暴剧烈的上升气流、大冰相粒子的碰撞和霰粒的生长区密切相关。</p>
 <p>这也就意味着在超级单体之中，最为强烈的雷电活动势必是在整个风暴的前侧，也就是前降水核心特别是有界弱回波区（降水空洞）附近。</p>
 <p>前降水核心虽然说也能产生较强降水，但是其范围以及其强度都不如后降水核心；有界弱回波区则是上升气流的核心，在这里上升气流强到足以把任何降水粒子全部顶飞。</p>
 <p><strong>所以在这种情况之下雷电和降雨就是被分开的</strong>，一个在风暴的前部，另一个则是在风暴的中后部，中间还隔着一个中气旋呢，自然就会出现有雷没雨、或有雨没 / 弱雷的情况。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-50a97c1fc4f79a47eb782991dc8f341e_720w.jpg?source=8673f162" alt=""><figcaption>BWER 即为有界弱回波区，典型特征就是强回波区包裹着弱回波区，此处是整个风暴上升气流最强的地方，足以顶飞任何降水粒子</figcaption></figure>
-<p>所以说「雷声大就雨点小」这一句话本质上就是以偏概全的气象谣言，它把极少的个例放大到了全部，这种情况在气象学中是非常危险的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-50a97c1fc4f79a47eb782991dc8f341e_720w.jpg?source=8673f162" alt=""><figcaption>BWER 即为有界弱回波区，典型特征就是强回波区包裹着弱回波区，此处是整个风暴上升气流最强的地方，足以顶飞任何降水粒子</figcaption></figure>
+<p>所以说按照字面意义上理解，「雷声大雨点小」这一句话本质上就是以偏概全的，它把极少的个例放大到了全部，这种情况在气象学中是非常危险的。</p>
 <p><strong>即便是地球上最为强大的超级单体雷暴也不一定都做到完美的雷雨分离</strong>，比如说它的高降水类型就是强雷电夹杂着大暴雨，更为常见的普通雷雨云团就更是如此了。</p>
 <p>以上。</p>
 <figure><img class="content-image" src="https://picx.zhimg.com/v2-207d3a08ce24eaa6b30d148c92cc9151_720w.jpg?source=8673f162" alt=""></figure>
@@ -83,7 +83,7 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788373</guid><pubDate>Thu, 19 Mar 2026 06:52:18 GMT</pubDate></item><item><title>为什么打乒乓球在日本社会算是「劣迹」？</title><link>http://daily.zhihu.com/story/9788376</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c3bae938b6a096ec842ca56e41cf340a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788373</guid><pubDate>Thu, 19 Mar 2026 12:53:46 GMT</pubDate></item><item><title>为什么打乒乓球在日本社会算是「劣迹」？</title><link>http://daily.zhihu.com/story/9788376</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c3bae938b6a096ec842ca56e41cf340a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -176,7 +176,7 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788376</guid><pubDate>Thu, 19 Mar 2026 06:52:19 GMT</pubDate></item><item><title>坐拥世界白银的大明朝为什么不把税银铸成银元，夺回铸币权与紧急财政，反而执行去市场化去货币化政策？</title><link>http://daily.zhihu.com/story/9788382</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aad1e5b8c09ce9a538a72a0c7fe8b29c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788376</guid><pubDate>Thu, 19 Mar 2026 12:53:51 GMT</pubDate></item><item><title>坐拥世界白银的大明朝为什么不把税银铸成银元，夺回铸币权与紧急财政，反而执行去市场化去货币化政策？</title><link>http://daily.zhihu.com/story/9788382</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aad1e5b8c09ce9a538a72a0c7fe8b29c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -196,7 +196,7 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-051bb46335f2fd1e6833e1c6fe0727e6_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-051bb46335f2fd1e6833e1c6fe0727e6_l.jpg?source=8673f162">
 <span class="author">芮欣雨Sap，</span><span class="bio">Historiam Veritas Non Vitiari.</span>
 <a href="https://www.zhihu.com/question/2010294430947640231/answer/2010471956894466848" class="originUrl" hidden>查看知乎原文</a>
 </div>
@@ -233,7 +233,7 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788382</guid><pubDate>Thu, 19 Mar 2026 06:52:20 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788386</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-50f6687ecccf1bc53dcbf85091882f22.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788382</guid><pubDate>Thu, 19 Mar 2026 12:53:53 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788386</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-50f6687ecccf1bc53dcbf85091882f22.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -253,7 +253,7 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
@@ -304,4 +304,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788386</guid><pubDate>Thu, 19 Mar 2026 06:52:21 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788386</guid><pubDate>Thu, 19 Mar 2026 12:53:55 GMT</pubDate></item></channel></rss>
