@@ -1,5 +1,279 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 19 Mar 2026 18:51:00 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么古人说雷声大就雨点小？真的是这样百分之百准确么，我咋记得暴雨是雷声大雨点也大？</title><link>http://daily.zhihu.com/story/9788373</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-85af896d720519c0c65d772a83fcf7e8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Fri, 20 Mar 2026 01:45:07 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>据分析
+幂律分布
+统计学分布
+为什么我国的概率与统计学教科书里不怎么讲幂律分布？</title><link>http://daily.zhihu.com/story/9788410</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a169f773941f9ab4483f16477903cab2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">为什么我国的概率与统计学教科书里不怎么讲幂律分布？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-7b8d84e4f9b138aa3fa72878b321d3e7_l.jpg?source=8673f162">
+<span class="author">武辰，</span><span class="bio">新书赶稿中。</span>
+<a href="https://www.zhihu.com/question/20313934/answer/2012311960952272569" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>这个问题简直是直接撞到了我的枪口上。</p>
+<p>就在上周，我正和出版社的编辑还在讨价还价。我目前正在写一本面向自学者的概率论教材，原稿写得太嗨（很多直白的讲解），不知不觉飙到了 600 多页。</p>
+<p>编辑说：“书太厚了，定价压不下来，读者可能不买账。第 7 章这些像‘幂律分布’的扩展内容，考研大纲里也没有，要不砍掉吧？或者我们做成二维码，印在书页角落，想看的读者自己扫码看电子版？”</p>
+<p>听到这个提议，我有点纠结。一方面我理解出版的商业现实考虑；但另一方面，把统治了现实世界财富、流量与大模型底层逻辑的分布规律，委屈成一个“扫码扩展阅读”的边缘角色，让我觉得有点可惜。</p>
+<p>回到题主的问题：为什么中国教材不教幂律分布？</p>
+<p>因为现有的概率论教学体系，是建构在“正态分布”和“中心极限定理”的地基上的。它假设世界是“<strong>独立同分布</strong>”的（扔硬币，你扔你的，我扔我的）。而幂律分布的底层逻辑是“<strong>相互关联</strong>、正反馈”（滚雪球，富者愈富）。这种复杂系统的规律，为了保持基础教材体系的“整洁”，往往被划到了系统科学或更深层的学科里。</p>
+<p>在现有的教学体系下，<strong>我们的大学教材本质上是考试大纲的附属品，而不是教你认识真实世界的说明书</strong>。</p>
+<p>既然实体书里它大概率只能变成一个二维码了，我就把这部分“超纲原稿”直接发在这里。</p>
+<hr>
+<p><strong>章节名：赢家通吃的幂律分布</strong></p>
+<p>此前我们接触的均匀分布、指数分布和正态分布，都有一个共同点：它们共同构建了一个温和的“平均王国”。大家都差不多，没有特别穷的，也没有特别富的。</p>
+<p>但现在，我们要把这个温和的面具撕下来了。在这里，没有所谓的“典型值”，极端事件不再罕见，而是一种常态。在这里，“第一名”的收益，可能比第二名到第一百名加起来还要多。</p>
+<p>这听起来并不陌生，我们生活的世界到处都是这种分布的影子：亿万富翁的财富、明星城市的规模、网络热搜的流量……要理解它们，我们需要一件新工具——<strong>幂律分布</strong>。</p>
+<p><strong>1. 从两个“为什么”说起</strong></p>
+<p><strong>第一个“为什么”</strong>：假设一个房间里有 100 个人，他们的年收入大致服从正态分布，平均值是 10 万元。这时，世界首富走了进来。你猜，这个房间里的平均收入会变化多少？可能会翻倍？变成 20 万？还是 50 万？实际上，这个数字可能会变成<strong>数千万甚至上亿</strong>。一个极端个体的加入，彻底重塑了整个统计结果。在正态分布的世界里，这是不可想象的“黑天鹅”；但在幂律分布的世界里，这却是每天都在发生的寻常事。</p>
+<p><strong>第二个“为什么”</strong>：随便想一个英文单词，比如 “the”。你凭直觉觉得，它在所有英文文本中出现的频率大概是多少？实际上，“the”这个单词出现的频率高达 <strong>7%</strong> 左右。大约每 14 个词里就有一个。而排名第二的“of”，频率就骤降到 3.5% 左右。这和我们直觉里“词汇应该均匀分布”的想法相去甚远。</p>
+<p>这两个现象指向同一个核心：在这类分布中，<strong>极大值出现的概率，没有想象中那么低</strong>。它的图形，有一个极其漫长的“尾巴”，向右方无限延伸。我们称之为——“<strong>长尾</strong>”或“<strong>肥尾</strong>”。</p>
+<p>正如图 1 的直观对比，正态分布是一条钟形曲线，大部分数据集中在中间凸起处，两边的尾巴很快便匍匐在地，消失不见。幂律分布则是一条从高点开始，一路向右下方滑落的曲线。它下降的速度越来越慢，慢到那条尾巴似乎要贴着地面，延伸到视野的尽头。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4c57e8fc551df8eea352e76c0caf843_720w.jpg?source=8673f162" alt=""><figcaption>图 1：两种截然不同的“尾巴”。正态分布（黑色虚线）对极端值零容忍；幂律分布（蓝色实线）则允许极端值存在。</figcaption></figure>
+<p><strong>2. 给“不平等”一个数学表达式</strong></p>
+<p>我们如何用数学语言来捕捉这种“漫长的尾巴”呢？ 它的核心思想非常简洁：一个变量</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=X" alt=""></p>
+<p>超过某个很大数值</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p>的概率，与</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p>的某个<strong>负幂次</strong>成比例。</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%28X+%5Cge+x%29+%5Cpropto+x%5E%7B-k%7D%2C+%5Cquad+%5Ctext%7B%E5%BD%93+%7D+x+%5Ctext%7B+%E5%BE%88%E5%A4%A7%E6%97%B6%7D" alt=""></p>
+<p>这个“</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpropto" alt=""></p>
+<p>”是“正比于”的意思。</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=k" alt=""></p>
+<p>是一个大于 0 的常数，叫做“幂指数”或“尾指数”。这个公式就是幂律的灵魂。</p>
+<p>翻译一下这句话：<strong>“数值超过 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p><strong> 的可能性，随着 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p><strong> 的增大，按照 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p><strong> 的负 </strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=k" alt=""></p>
+<p><strong> 次方的速度衰减。”</strong></p>
+<p>关键在于这个“衰减的速度”。指数分布（如灯泡寿命）的衰减速度是<strong>指数级</strong>的快，就像雪崩一样。而幂律</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E%7B-k%7D" alt=""></p>
+<p>呢？它的衰减速度是<strong>多项式级</strong>的，慢得多。</p>
+<p>在这个世界里，要想消灭大数值，是非常非常困难的。<strong>正态分布消灭极端值，靠的是指数级的高压，像切菜一样利索；而幂律分布消灭极端值，只能靠多项式级的磨损，慢得让人绝望。</strong></p>
+<p>为了更精确，它的概率密度函数（PDF）通常写为：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%5Cpropto+x%5E%7B-%5Calpha-1%7D" alt=""></p>
+<p>（这里</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Calpha+%3D+k" alt=""></p>
+<p>）。这个关系直接造就了那条漫长的尾巴。</p>
+<p><strong>3. 最经典的两位“代言人”</strong></p>
+<p>在现实中，幂律有两位最著名的“代言人”。</p>
+<p><strong>第一位，是帕累托分布。</strong> 你大概率听过它的一个经验版本——<strong>80/20 法则</strong>。它描述财富、收入、公司规模等“资源不平等”现象。设</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Cmin%7D" alt=""></p>
+<p>为最低门槛，财富超过</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p>的人的比例就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%28x_%7B%5Cmin%7D+%2F+x%29%5Ek" alt=""></p>
+<p>。你可以做一个思想实验：如果全球财富服从帕累托分布，世界首富的财富很可能比排名第十的富豪多一个数量级（10 倍）。这种“断层式”的差距，正态分布无法产生。</p>
+<p><strong>第二位，是齐普夫定律。</strong> 它描述系统中单元大小与其排名之间的反比关系：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=S%28r%29+%5Cpropto+%5Cfrac%7B1%7D%7Br%5E%5Calpha%7D" alt=""></p>
+<p>当</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Calpha+%3D+1" alt=""></p>
+<p>时，排名第 1 位的规模约是第 2 位的 2 倍；第 10 位的规模约是第 100 位的 10 倍。这揭示了在存在竞争的系统中，一种“赢家通吃”或正反馈机制，往往会自发产生幂律结构。</p>
+<p><strong>4. 无标度性：幂律最深刻的“指纹”</strong></p>
+<p>幂律最精妙、也最反直觉的一个性质是——<strong>无标度性</strong>。</p>
+<p>玩个“放大镜”游戏：假设你有一份美国城市人口数据，服从幂律分布。如果你只关注人口超过 50 万的大城市分析一次，再只关注超过 100 万的大城市分析一次。你会发现：<strong>这两次得到的分布形态，看起来几乎一模一样！</strong></p>
+<p>在这个世界里，你根本找不到一把合适的尺子。在正态分布里，“平均身高”就是那把尺子。但在财富的幂律分布里，你说身家 100 万算富吗？在 1000 万面前是穷光蛋。1000 万在 1 个亿面前又是穷光蛋。</p>
+<p>正如图 2 所示，这种“大鱼吃小鱼，小鱼吃虾米”的结构，无论你把镜头拉到哪个层级，看起来完全一模一样。幂律分布，就是概率世界里的“分形”。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2433293e5b12751a2240640d402bc010_720w.jpg?source=8673f162" alt=""><figcaption>图 2：无标度性示意图。左图完整分布，右图局部放大，曲线形态惊人相似，说明该分布没有特征尺度。</figcaption></figure>
+<p><strong>5. 对比与定位：在概率版图中找到它</strong></p>
+<p>学到这里，你脑子里可能同时转着好几个分布，有点打架。这很正常。接下来做几个对比，看看能不能帮助你更好理解。</p>
+<p><strong>第一场对比：幂律 vs. 指数分布（衰减的速度）</strong></p>
+<p>回忆一下，指数分布描述“无记忆”的等待，比如灯泡的寿命。它的核心是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%28X+%5Cge+x%29+%3D+e%5E%7B-%5Clambda+x%7D" alt=""></p>
+<p>。你注意看，变量</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p>在指数上。这意味着它的衰减是<strong>指数级</strong>的，快如雪崩。在<strong>半对数坐标</strong>图（只有 y 轴取对数）上，它会画出一条直线（如图 3）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ecc2c6d4cba0603d52a6b8e79e55738_720w.jpg?source=8673f162" alt=""><figcaption>图 3：指数分布的坐标形态。左图在普通坐标下呈现典型的快速衰减；右图在半对数坐标下（y 轴取对数）变形成一条完美的直线。</figcaption></figure>
+<p>而幂律呢？它的核心是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%28X+%5Cge+x%29+%5Cpropto+x%5E%7B-k%7D" alt=""></p>
+<p>，变量</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p>在底数上。它的衰减是<strong>多项式级</strong>的，慢如远去的驼铃。为了让它现出原形（变成直线），我们需要在<strong>双对数坐标</strong>图（x 轴和 y 轴都取对数）上看它（见图 4）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4a50809fe8945cf89d6e56975144fb13_720w.jpg?source=8673f162" alt=""><figcaption>图 4：幂律分布的“照妖镜”。右图在双对数坐标下现出原形，成为一条直线。</figcaption></figure>
+<p>所以，区分秘诀是：<strong>看它在什么坐标系下成直线</strong>。这背后是衰减速度的本质差异：指数衰减把极端事件概率压得极低，而幂律则“宽容”地保留了这种可能。</p>
+<p><strong>第二场对比：幂律 vs. 正态分布（世界的规则）</strong> 现在，想想我们万能的“钟形曲线”。正态分布是“平均王国”的君主，它由大量<strong>独立、微小</strong>的因素<strong>相加</strong>而成（中心极限定理）。它崇尚“中庸”，把数据紧紧拉向均值，极端值是罕见的意外。</p>
+<p>幂律分布则是“极端王国”的规则制定者。它通常由<strong>相互关联、具有正反馈</strong>的机制<strong>相乘</strong>（或类似累积）而成。“富者愈富”（偏好依附）就是最典型的规则。它热衷于制造垄断和巨头，在这里，极端事件不是意外，而是系统结构必然的产物。</p>
+<p>一个是“独立相加”导向的平均与稳定，一个是“关联相乘”导向的集中与突变。理解你面对的问题属于哪个王国，是选择正确数学模型的第一步。人的身高属于前者，人的财富往往属于后者。</p>
+<p><strong>6.关键澄清：关于形式、离散与连续、截断</strong></p>
+<p>聊了这么多现象和性质，你可能对幂律分布本身还有些根本的疑问。</p>
+<p><strong>疑问一：它到底是离散分布还是连续分布？</strong> 答案是：两者皆有。幂律描述的是一种数学关系（比例于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E%7B-k%7D" alt=""></p>
+<p>），这种关系既可以刻画连续变量，也可以刻画离散变量。</p>
+<ul>
+<li><strong>连续型</strong>：如描述收入的帕累托分布，其概率密度函数 <img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%5Cpropto+x%5E%7B-%5Calpha-1%7D" alt="">。</li>
+<li><strong>离散型</strong>：如描述词频的齐普夫定律，其概率质量函数 <img class="content-image" src="https://www.zhihu.com/equation?tex=P%28X%3Dk%29+%5Cpropto+k%5E%7B-%5Cgamma%7D" alt="">。 我们放在连续型分布这章讨论，是因为它与指数分布、对数正态分布等连续分布的对比更有启发意义。</li>
+</ul>
+<p><strong>疑问二：为什么我们只写“</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpropto" alt=""></p>
+<p><strong>”，不给个像正态分布那样漂亮的完整公式？</strong> 这是个好问题。我们写成</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%5Cpropto+x%5E%7B-%5Calpha-1%7D" alt=""></p>
+<p>，而不是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%3D+%5Cfrac%7B1%7D%7B%5Csqrt%7B2%5Cpi%7D%5Csigma%7De%5E%7B-%5Cfrac%7B%28x-%5Cmu%29%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt=""></p>
+<p>，有两个现实原因：</p>
+<ul>
+<li><strong>必须的“起步价”</strong>：幂律在 <img class="content-image" src="https://www.zhihu.com/equation?tex=x+%5Cto+0" alt=""> 时会爆炸到无穷大，无法归一化。因此，任何一个具体的幂律分布（如帕累托分布）都必须有一个<strong>最小值 </strong><img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmin%7D%7D+%3E+0" alt="">，分布从这开始：<img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%3D+%5Cfrac%7B%5Calpha+x_%7B%5Ctext%7Bmin%7D%7D%5E%7B%5Calpha%7D%7D%7Bx%5E%7B%5Calpha%2B1%7D%7D%2C+%5Cquad+x+%5Cge+x_%7B%5Ctext%7Bmin%7D%7D" alt="">。这个 <img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmin%7D%7D" alt=""> 因问题而异（比如“城市”的最小规模），所以一个通用“标准式”反而不实用。</li>
+<li><strong>强制的“天花板”</strong>：同样因为现实世界有限，幂律的漫长尾巴不可能无限延伸。城市人口不能超过地球总人口，个人财富受限于全球经济总量。因此，更真实的模型往往是<strong>截断幂律</strong>，它在纯幂律基础上加了一个指数衰减项：<img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%5Cpropto+x%5E%7B-%5Calpha-1%7D+e%5E%7B-x+%2F+x_%7B%5Ctext%7Bmax%7D%7D%7D" alt="">。当 <img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""> 远小于最大尺度 <img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmax%7D%7D" alt=""> 时，它像幂律；当 <img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""> 接近 <img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmax%7D%7D" alt=""> 时，概率被迅速压低至零。</li>
+</ul>
+<p>最小值</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmin%7D%7D" alt=""></p>
+<p>是定义数学模型的<strong>必需品</strong>，而最大值</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmax%7D%7D" alt=""></p>
+<p>是描述物理世界的<strong>必需品</strong>。这提醒我们，漂亮的幂律公式是一个抓住了核心机制的<strong>理想模型</strong>，而应用时，必须考虑现实世界的起止边界。</p>
+<p>纯粹的幂律只存在于数学家的草稿纸上。现实世界总有物理极限。再大的雪球，滚到最后也会因为没有雪而停下（地球资源有限）。所以，真实的曲线往往是：中间一段极其符合幂律，但在最末端，会被现实的墙壁强行截断。</p>
+<hr>
+<p><strong>算法工程师彩蛋：大语言模型的长尾噩梦</strong></p>
+<p>最后说点我个人的本职工作。在我平时做的视觉语言模型（VLM）或者大语言模型（LLM）的训练时，最头疼的往往不是显卡算力，而是你刚刚学到的<strong>幂律分布</strong>（齐普夫定律）。</p>
+<p>在人类语言和视觉特征中，极少数的模式占据了绝大多数流量，而绝大多数罕见模式只出现寥寥几次。这对 AI 来说是灾难性的<strong>样本不平衡</strong>——模型对高频数据“过拟合”，对长尾数据却因为没见过几次而“学不会”。</p>
+<p>为了不让 AI 变成“文盲”，业界被迫发明了 <strong>Subword（子词）分词技术</strong>（如 BPE 算法），强行把生僻的长尾词切碎成高频的词根。今天最先进的 AI 架构，其实有很多底层逻辑就是被这种数学分布逼出来的。</p>
+<p><strong>动手实验：财富的乘法游戏</strong></p>
+<p>为了验证这不是数学家的空想，我为这本书配了一段无依赖的纯 Python 仿真代码。</p>
+<p>在这个代码里，我们模拟一个“乘法游戏”（比如投资回报率）。每个人每一轮随机赚或亏 10%，并设定一个最低破产底线。你可以亲自跑一下，看看贫富分化是如何在双对数坐标下，无可阻挡地排成一条冰冷的直线的。</p>
+<div class="highlight">
+<pre><code class="language-python3"><span class="sd">"""</span>
+<span class="sd">文件名: wealth_distribution_simulation.py</span>
+<span class="sd">功能: 模拟“乘法增长”与“贫困底线”如何共同制造出贫富悬殊的幂律分布。</span>
+
+<span class="sd">【这是什么？】</span>
+<span class="sd">这段代码演示了一个残酷的社会实验：</span>
+<span class="sd">如果是“加法游戏”（每人每天随机赚 / 赔 1 块钱），财富会服从正态分布（大家差不多）。</span>
+<span class="sd">但如果是“乘法游戏”（每人每天随机赚 / 赔 10%），且每个人都有最低生存底线，</span>
+<span class="sd">最终就会诞生“幂律分布”：绝大多数人挣扎在底线附近，而极少数人掌握绝大部分财富。</span>
+
+<span class="sd">【怎么用？】</span>
+<span class="sd">直接运行即可。程序会弹出两个窗口：</span>
+<span class="sd">1. 普通坐标图：你会看到一个巨大的“L”型，这就是贫富分化的直观样子。</span>
+<span class="sd">2. 双对数坐标图：你会看到数据点神奇地排成了一条直线，这是幂律分布的铁证。</span>
+<span class="sd">"""</span>
+
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+
+<span class="c1"># --- 可调整参数配置区 (你可以随意修改这些数字来观察世界) ---</span>
+
+<span class="c1"># 1. 模拟的人数 (建议 1000 - 10000)</span>
+<span class="n">NUM_PEOPLE</span> <span class="o">=</span> <span class="mi">5000</span>
+
+<span class="c1"># 2. 初始财富值 (也是贫困底线，跌破此线会触发“低保”或被新移民替代)</span>
+<span class="n">MIN_WEALTH</span> <span class="o">=</span> <span class="mf">10.0</span>
+
+<span class="c1"># 3. 模拟的轮数 (时间越久，贫富分化越明显)</span>
+<span class="n">STEPS</span> <span class="o">=</span> <span class="mi">5000</span>
+
+<span class="c1"># 4. 每一轮的波动幅度 (0.1 代表 10% 的盈亏)</span>
+<span class="n">VOLATILITY</span> <span class="o">=</span> <span class="mf">0.1</span> 
+
+<span class="c1"># ---------------------------------------------------------</span>
+
+<span class="k">def</span> <span class="nf">run_simulation</span><span class="p">():</span>
+    <span class="c1"># 初始化：所有人最开始都只有最低财富</span>
+    <span class="n">wealth</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">full</span><span class="p">(</span><span class="n">NUM_PEOPLE</span><span class="p">,</span> <span class="n">MIN_WEALTH</span><span class="p">)</span>
+    
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"正在模拟 </span><span class="si">{NUM_PEOPLE}</span><span class="s2"> 个人的财富演化，请稍候..."</span><span class="p">)</span>
+    
+    <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">STEPS</span><span class="p">):</span>
+        <span class="c1"># --- 核心数学逻辑 1：乘法增长 (Multiplicative Process) ---</span>
+        <span class="c1"># 现实中的财富不是线性累加的，而是按比例增值的（如投资回报、复利）。</span>
+        <span class="c1"># 这里模拟每人每轮随机 盈 / 亏 VOLATILITY 的比例。</span>
+        <span class="c1"># np.random.uniform(-1, 1) 生成 -1 到 1 之间的随机数</span>
+        <span class="n">fluctuation</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">+</span> <span class="n">VOLATILITY</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">uniform</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">NUM_PEOPLE</span><span class="p">)</span>
+        <span class="n">wealth</span> <span class="o">=</span> <span class="n">wealth</span> <span class="o">*</span> <span class="n">fluctuation</span>
+        
+        <span class="c1"># --- 核心数学逻辑 2：反射壁 (Reflective Barrier) ---</span>
+        <span class="c1"># 对应现实中的“生存底线”或“新入场的穷人”。</span>
+        <span class="c1"># 如果没有这个底线，乘法过程最终会变成对数正态分布。</span>
+        <span class="c1"># 加上这个底线后，数学上证明了它会收敛为幂律分布 (Kesten Process)。</span>
+        <span class="n">wealth</span><span class="p">[</span><span class="n">wealth</span> <span class="o"><</span> <span class="n">MIN_WEALTH</span><span class="p">]</span> <span class="o">=</span> <span class="n">MIN_WEALTH</span>
+
+    <span class="k">return</span> <span class="n">wealth</span>
+
+<span class="k">def</span> <span class="nf">plot_results</span><span class="p">(</span><span class="n">wealth</span><span class="p">):</span>
+    <span class="c1"># 设置绘图风格</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">'ggplot'</span><span class="p">)</span>
+    
+    <span class="c1"># 尝试设置中文字体（为了让你的图表显示中文，这里做了兼容性处理）</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">'font.sans-serif'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'SimHei'</span><span class="p">,</span> <span class="s1">'Microsoft YaHei'</span><span class="p">,</span> <span class="s1">'Arial Unicode MS'</span><span class="p">,</span> <span class="s1">'Arial'</span><span class="p">]</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">'axes.unicode_minus'</span><span class="p">]</span> <span class="o">=</span> <span class="kc">False</span>
+
+    <span class="c1"># 创建两个子图</span>
+    <span class="n">fig</span><span class="p">,</span> <span class="p">(</span><span class="n">ax1</span><span class="p">,</span> <span class="n">ax2</span><span class="p">)</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span> <span class="mi">6</span><span class="p">))</span>
+
+    <span class="c1"># --- 图 1：普通坐标下的直方图 ---</span>
+    <span class="c1"># 这是我们肉眼看到的“真实世界”：极度不平等</span>
+    <span class="n">ax1</span><span class="o">.</span><span class="n">hist</span><span class="p">(</span><span class="n">wealth</span><span class="p">,</span> <span class="n">bins</span><span class="o">=</span><span class="mi">50</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'#3498db'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.8</span><span class="p">,</span> <span class="n">edgecolor</span><span class="o">=</span><span class="s1">'black'</span><span class="p">)</span>
+    <span class="n">ax1</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"图 1：普通视角（贫富悬殊）"</span><span class="p">)</span>
+    <span class="n">ax1</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s2">"财富金额"</span><span class="p">)</span>
+    <span class="n">ax1</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s2">"人数"</span><span class="p">)</span>
+    <span class="n">ax1</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="s2">"绝大多数人</span><span class="se">\n</span><span class="s2">挤在左边"</span><span class="p">,</span> <span class="n">transform</span><span class="o">=</span><span class="n">ax1</span><span class="o">.</span><span class="n">transAxes</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">12</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+
+    <span class="c1"># --- 图 2：双对数坐标下的分布 (Log-Log Plot) ---</span>
+    <span class="c1"># 这是数学家看到的“规律世界”：一条直线</span>
+    <span class="c1"># 我们不直接画 hist，而是画“互补累积分布函数 (CCDF)”</span>
+    <span class="c1"># 因为 hist 在双对数下噪音太大，CCDF 才是验证幂律的标准方法</span>
+    
+    <span class="c1"># 1. 对数据排序</span>
+    <span class="n">sorted_wealth</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">sort</span><span class="p">(</span><span class="n">wealth</span><span class="p">)</span>
+    <span class="c1"># 2. 计算排名比例 (y 轴)</span>
+    <span class="c1"># y = 1.0 意味着是第 1 名(最穷)，y -> 0 意味着是最后一名(最富)</span>
+    <span class="c1"># 这里计算的是 P(X >= x)，即有多少比例的人财富大于 x</span>
+    <span class="n">y_vals</span> <span class="o">=</span> <span class="mf">1.0</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">sorted_wealth</span><span class="p">))</span> <span class="o">/</span> <span class="nb">len</span><span class="p">(</span><span class="n">sorted_wealth</span><span class="p">)</span>
+    
+    <span class="n">ax2</span><span class="o">.</span><span class="n">loglog</span><span class="p">(</span><span class="n">sorted_wealth</span><span class="p">,</span> <span class="n">y_vals</span><span class="p">,</span> <span class="n">marker</span><span class="o">=</span><span class="s1">'.'</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="s1">'none'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'#e74c3c'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.3</span><span class="p">)</span>
+    <span class="n">ax2</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"图 2：上帝视角（双对数坐标）"</span><span class="p">)</span>
+    <span class="n">ax2</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s2">"财富金额 (对数刻度)"</span><span class="p">)</span>
+    <span class="n">ax2</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s2">"财富大于该金额的人数比例 (对数刻度)"</span><span class="p">)</span>
+    
+    <span class="c1"># 画一条辅助线，说明如果是完美的幂律，应该长什么样</span>
+    <span class="c1"># 幂律公式：P(x) ~ x^(-alpha)</span>
+    <span class="c1"># 在双对数图上，y = -alpha * x + b，即一条斜率为负的直线</span>
+    <span class="n">ax2</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="mf">0.6</span><span class="p">,</span> <span class="mf">0.6</span><span class="p">,</span> <span class="s2">"近似一条直线</span><span class="se">\n</span><span class="s2">证明了幂律的存在"</span><span class="p">,</span> <span class="n">transform</span><span class="o">=</span><span class="n">ax2</span><span class="o">.</span><span class="n">transAxes</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">12</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'black'</span><span class="p">)</span>
+
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"绘图完成。请观察弹出的窗口。"</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"最高财富: {np.max(wealth):.2f}"</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"前 1% 的人掌握了 {np.sum(np.sort(wealth)[-int(NUM_PEOPLE*0.01):]) / np.sum(wealth) * 100:.2f}% 的总财富"</span><span class="p">)</span>
+    
+    <span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+    <span class="n">final_wealth</span> <span class="o">=</span> <span class="n">run_simulation</span><span class="p">()</span>
+    <span class="n">plot_results</span><span class="p">(</span><span class="n">final_wealth</span><span class="p">)</span>
+</code></pre>
+</div>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/20313934">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788410</guid><pubDate>Fri, 20 Mar 2026 01:45:04 GMT</pubDate></item><item><title>明史记载里面有帖木儿，鲁迷等国入贡，是不是说明欧洲中亚都是大明藩属国，大明算不算欧亚各国的宗主国？</title><link>http://daily.zhihu.com/story/9788396</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5a96af5eaf169810145ccbbc4c7f036b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,71 +293,90 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
-<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
-<a href="https://www.zhihu.com/question/2013288699673223539/answer/2013557528177423753" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-96414e2a07dc6600785a8ddea20eadd9_l.jpg?source=8673f162">
+<span class="author">宁南左侯，</span><span class="bio">太极生二姨</span>
+<a href="https://www.zhihu.com/question/2010443855774908717/answer/2011861174849913409" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>准确来说，这并不算气象谚语，或者说是跟气象学关系不大。</strong></p>
-<p>如果我们完全按照字面意思理解的话，确实不一定是这样子的，已经有雷电意味着周边有积雨云发展，如果雷声很大那就意味着积雨云距离你已经很近，甚至是就在你头顶，又或者是说雷暴云团范围很大。</p>
-<p>在这种情况之下几乎都会出现强降雨，只打雷不下雨或者雨下的很小的情况很罕见，一般是低层空气过于干燥导致的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4aabaac76e003f0c844da6b8f45262dd_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>雷电的出现意味着什么？它代表周边有积雨云诞生</strong></p>
-<p>雷电活动的出现在云的发展路径之中是至关重要，我们要理解「雷声大意味着雨点小」这句话是否成立，首先需要了解雷电是怎么诞生的。</p>
-<p><strong>一般来说雷电在积雨云之中最为常见，特别是其成熟阶段的强对流单体（鬃积雨云）</strong>。这种云的垂直发展极其旺盛，云顶可达到对流层顶部甚至平流层下部，在低纬度地区可达 12~18 公里。</p>
-<p>如此巨大的垂直尺度，就能为云内剧烈的上升与下沉气流，以及冰和水的相变提供空间。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ee2a2cd6038c2d32768869ded5ccf800_720w.jpg?source=8673f162" alt=""></figure>
-<p>其中雷电产生的微观物理基础就是云内的强力电荷分离，在雷暴云的上部温度低于 -15℃的区域存在大量的冰晶、雪花以及过冷水滴，而 -10℃~-20℃的霰粒生长区则更为关键。</p>
-<p>当微小的冰晶与下落的、表面已经开始融化的霰粒在强烈的上升气流中发生碰撞时，<strong>就会发生复杂的电荷转移过程</strong>。</p>
-<p>碰撞的结果通常是：较轻的冰晶携带正电荷被上升气流带到云的上，较重的霰粒只会携带负电荷聚集在云的中下部。</p>
-<p>这种电荷分离过程会持续进行，<strong>最终会在云内形成一个典型的三级电荷结构</strong>：云顶为正电荷区、中部为主要的负电荷区、底部有时还存在一个较小的局部正电荷区。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8da9b094a87cb085da32525ec38ea0cd_720w.jpg?source=8673f162" alt=""></figure>
-<p>当正负电荷区之间的电场强度超过空气的绝缘阈值时，空气会被击穿，形成一条电离的导电通道，这也就是我们看到的闪电。</p>
-<p>闪电瞬间会释放巨大的能量加热通道内的空气，使其急剧膨胀，然后急剧收缩，由此产生的冲击波变为化作我们所听到的雷声。</p>
-<p>因此强烈的雷电活动，本身就是积雨云<strong>垂直运动剧烈、冰水转化过程活跃、电离分离效率极高</strong>的直接证据。</p>
-<p>并且我们往往也会采取是否出现雷电活动这一条件，来判断云体是否发展为积雨云，且理论上已经具备了产生强降水的原料和动力条件。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f4817b14a1a8b0c3170795893d075926_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>为何有时会出现声大雨小的情况？因为你被云诈骗了</strong></p>
-<p>最为典型的就是干雷暴以及雨滴蒸发，这常常发生在气候干燥或者季节性干旱的区域，比如我国北方春季内陆荒漠区。</p>
-<p>在这些地区里，尽管中高空大气条件满足了雷暴发展所需要的不稳定能量和水分，但近地面约 2~3 公里高度的低层大气异常干燥。</p>
-<p>当云中的雨滴或者小冰雹从云底下落，穿过这层干燥空气时，<strong>就会发生强烈的蒸发冷却</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9da7b7dea40fe7ebd8760dbeaf9eb08b_720w.jpg?source=8673f162" alt=""><figcaption>干雷暴和普通雷暴差不多，就只是因为低层大气异常干燥，导致降水无法正常下落到地面</figcaption></figure>
-<p>雨滴在降落过程之中会迅速蒸发，不仅无法到达地表形成有效降水，其蒸发吸收的潜热还会进一步冷却下沉气流，<strong>有时甚至能观测到增强局地下沉气流，从而抑制降水的情况</strong>。</p>
-<p>这种情况在我们肉眼观测中，就是能明显看到雷电活动并听到雷声，但是降水活动一直在近地面 3 公里附近时就强制终止了，能见到的就是一大片未落地的雨幡，这相当于是被云诈骗了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6ad0d592842d527e4cdbf7cdacc80412_720w.jpg?source=8673f162" alt=""><figcaption>雨幡</figcaption></figure>
-<p>还有一种情况更是诈骗中的诈骗，也就是云内闪以及云际闪的虚张声势，直接虚晃一枪。</p>
-<p>闪电主要分为云地闪、云内闪和云际闪，其中云内闪和云际闪更为频繁，但其雷声往往沉闷绵长，也是最容易被我们记住的。</p>
-<p>有时强烈雷电活动主要源于云体上部和中部的剧烈放电，而这些区域的强对流与产生强降水的暖云降水在空间上并不完全重合。</p>
-<p>在这种情况之下，<strong>一次响亮的雷声只标志着云中局部电荷的剧烈中和，而不一定对应着强降水中心</strong>。</p>
-<p>当然出现这种情况也有可能与干雷暴有关，比如中低层降水粒子过少导致无法出现地闪，相当于是被做局了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6c1bd86c6ef563e70da4e93f61f902a2_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>恭喜你中大奖了！超级单体会将雷电与降水核心强行分开</strong></p>
-<p>在更为复杂的强对流风暴系统之中，特别是超级单体雷暴以及某些多单体风暴，雷电与强降水的空间分布可以呈现高度有组织，但有显著分离的特征，<strong>原因就是上升气流与下沉气流被强行分开</strong>。</p>
-<p>其中超级单体是地球上最为强大、最为持久的雷暴类型，其内部具有一个深厚且持久旋转的上升气流（中气旋）。</p>
-<p>在这种高度组织化的风暴之中，<strong>下沉气流降水区和雷电活动区的位置相对固定但又彼此分离</strong>。</p>
-<p>在经典超级单体模型中，旺盛的上升气流从前侧倾斜进入风暴，携带大量水汽垂直发展，而降水粒子在上升气流中增长后会被抛到其下方侧下落，形成主降水核心（后降水核心）。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d8ae67bac6c4f065fb2b0f818a9e3764_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是最为关键的地方就在于，强烈的雷电活动往往与风暴剧烈的上升气流、大冰相粒子的碰撞和霰粒的生长区密切相关。</p>
-<p>这也就意味着在超级单体之中，最为强烈的雷电活动势必是在整个风暴的前侧，也就是前降水核心特别是有界弱回波区（降水空洞）附近。</p>
-<p>前降水核心虽然说也能产生较强降水，但是其范围以及其强度都不如后降水核心；有界弱回波区则是上升气流的核心，在这里上升气流强到足以把任何降水粒子全部顶飞。</p>
-<p><strong>所以在这种情况之下雷电和降雨就是被分开的</strong>，一个在风暴的前部，另一个则是在风暴的中后部，中间还隔着一个中气旋呢，自然就会出现有雷没雨、或有雨没 / 弱雷的情况。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-50a97c1fc4f79a47eb782991dc8f341e_720w.jpg?source=8673f162" alt=""><figcaption>BWER 即为有界弱回波区，典型特征就是强回波区包裹着弱回波区，此处是整个风暴上升气流最强的地方，足以顶飞任何降水粒子</figcaption></figure>
-<p>所以说按照字面意义上理解，「雷声大雨点小」这一句话本质上就是以偏概全的，它把极少的个例放大到了全部，这种情况在气象学中是非常危险的。</p>
-<p><strong>即便是地球上最为强大的超级单体雷暴也不一定都做到完美的雷雨分离</strong>，比如说它的高降水类型就是强雷电夹杂着大暴雨，更为常见的普通雷雨云团就更是如此了。</p>
-<p>以上。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-207d3a08ce24eaa6b30d148c92cc9151_720w.jpg?source=8673f162" alt=""></figure>
+<p>这里存在一个前置条件——帖木儿、鲁迷以及其他中亚、西亚，还有离得近的东亚、东南亚诸国，他们是怎么知道中国变天了？他们怎么知道中国现在国家从大元变成了大明、皇帝姓朱、都城在哪儿呢？</p>
+<p>答案很简单——明朝主动派人过去告诉他们的。</p>
+<p>虽然这个问题充满了挑事的意味，但其实是个不错的问题，因为这涉及到一个很多人忽略的问题，那就是古代中国改朝换代之后如何昭告天下。</p>
+<p>先说个现代的。</p>
+<p>49 年 10 月 1 日中央人民政府成立，同日周总理以公函的形式发布《中华人民共和国中央人民政府公告》，也就是这个文件：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1a90a511f74d963023442803388511ed_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个文件其实很短，全部摘录下来不过几百字，主要内容有三部分，一是阐述旧政权的崩溃：自蒋介石国民党反动政府背叛祖国……幸赖我人民解放军……英勇作战……推翻国民政府的反动统治；二是介绍新政府的成立：现在人民解放战争业已取得基本的胜利……中国人民政治协商会议第一届全体会议制定了……选举了……组成中央人民政府委员会，宣告中华人民共和国的成立，并决定北京为中华人民共和国的首都；三是新政府的配置：互选林伯渠为秘书长，任命周恩来为总理兼外长，毛泽东为主席，朱德为总司令，沈钧儒为最高法院长，罗荣桓卫最高检检察长，责成从速组成各项政府机关，推进工作；四是向各国政府宣布：本政府为代表中华人民共和国全国人民的唯一合法政府，凡愿遵守平等、互利及互相尊重领土主权等项原则的任何外国政府，本政府均愿与之建立外交关系。</p>
+<p>注意，这个文件不仅是对内的，也是对外的，不仅给外国驻华使领馆传达，也在国内各地公示，比如下图这个收藏于中国国家博物馆的公告就是当时陕北翻印宣发的：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cd29f6cbda64e92f755a32f852591806_720w.jpg?source=8673f162" alt=""></figure>
+<p>基于当时已经有了电报等通信系统，所以 10 月 1 日建国，同日消息传达到国内外各地，第二天苏联说“苏维埃社会主义共和国联盟政府业已收到中华人民共和国中央人民政府本年十月一日公告”，然后宣布“苏联政府决定建立与中华人民共和国之间的外交关系，并互派大使”。这算苏联正式承认了新政府。</p>
+<p>接下来就是互相委派大使了，10 月 4 日，尼古拉·瓦西里耶维奇·罗申被苏联任命为首任驻新中国大使，携带苏联国书出发前来北京，10 日到京，16 日向毛主席递交国书。</p>
+<p>中国这边，10 月 20 日毛主席和周总理签署了国字第一号国书，任命王稼祥为驻苏联特命全权大使，然后王稼祥出发赴苏，在 11 月 3 日向苏联最高苏维埃主席团递交国书：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3156c729fd95ab5521aef7fc6f89e46_720w.jpg?source=8673f162" alt=""></figure>
+<p>再次重申，这是基于有现代通信，所以可以做到 10 月 1 日开国大典、2 日苏联承认、10 日苏联大使抵达北京、31 日中国大使抵达莫斯科。</p>
+<p>那么在古代，没有这种通信手段，这种昭告天下就得通过传统的传递和送达的方式进行了。</p>
+<p>巧了，明朝建立之后的这方面行动正好可以作为新中国外交开展的一个古今对照组：</p>
+<p>明朝开国大典是在吴二年的正月初四，也就是 1368 年 1 月 23 日，地点是在南京南郊，应该是现在南京的天坛村小区一带，“上祀天地于南郊，即皇帝位，定有天下之号曰‘大明’，建元‘洪武’”，在明朝的开国大典上，有一份“祝文”，也就是写给神灵、天地、祖先看的文件，内容的话其实和 49 年的《公告》有些解构类似，一是阐述旧政权的崩溃：宋运告终……（蒙古）今运亦终；二是介绍新政府的成立：臣帝赐英贤为臣之辅，遂戡定（各地群雄），诸臣下推尊帝号臣不敢辞；三是新政府的配置：定有天下之号曰大明，建元洪武。不一样的是，明朝是开国之后才宣布的政府官员任命。</p>
+<p>然后在第二天，也就是洪武元年的正月初五，“诏告天下”：</p>
+<blockquote>朕惟中国之君，自宋运既终，天命真人起于沙漠，入中国为天下主，传及子孙，百有余年，今运亦终，海内土疆，豪杰分争。朕本淮右庶民，荷上天眷顾祖宗之灵，遂乘逐鹿之秋，致英贤于左右，凡两淮、两浙、江东、江西、湖湘、汉沔、闽广、山东及西南诸部蛮夷，各处寇攘，屡命大将军与诸将校奋扬威武，已皆戡定，民安田里。今文武大臣百司众庶，合辞劝进，尊朕为皇帝，以主黔黎，勉徇舆情。于吴二年正月四日，告祭天地于钟山之阳，即皇帝位于南郊，定有天下之号曰‘大明’，以是年为洪武元年，追尊四代考妣为皇帝、皇后，建大社、大稷于京师，立妃马氏为皇后，长子标为皇太子。布告天下，咸使闻知。</blockquote>
+<p>这份诏书跟昨天的祝文相比大同小异，只不过接收方不同所以措辞不一样，但内容主旨也是上边说的那三方面。这份诏书应该也同时递送传达给了在各地征战的将领，但各省府州县应该还没传达，因为开国大典的时候各地知府知州知县来京参加了，他们是在正月最后一天才回去的，“天下来朝，府州县官陛辞”，所以类似于上图陕北地区的给各地百姓看的公告，应该是这些地方官回任的时候才带回去发布的。</p>
+<p>三千年前周虽旧邦，其命维新。</p>
+<p>三千年后周虽维新，其命旧邦。</p>
+<p>创新是割不走传统的。</p>
+<p>洪武元年十二月二十六，也就是明朝开国将近一整年之际，朱元璋遣符宝郎偰斯出使高丽，汉阳知府易济出使安南，《明太祖实录》上收录了这两位使臣携带的诏书内容：</p>
+<blockquote>壬辰，遣符宝郎偰斯<strong>奉玺书赐高丽国王王颛</strong>曰：“自有宋失御，天绝其祀，元非我类，入主中国百有余年，天厌其昏淫，亦用殒绝其命。华夷扰乱十有八年，当群雄初起时，朕为淮右布衣，暴兵忽至，误入其中，见其无成，忧惧弗宁。荷天地眷祐，授以文武，东渡江左，习养民之道十有四年。其间，西平汉主陈友谅、东缚吴王张士诚、南平闽越戡定八藩、北逐胡君肃清华夏，复我中国之旧疆。今年正月，臣民推戴即皇帝位，定有天下之号曰‘大明’，建元‘洪武’。惟四夷未报，故遣使报王知之。昔我中国之君，与高丽壤地相接，其王或臣或宾，盖慕中国之风，为安生灵而已。朕虽不德，不及我中国古先哲王使四夷怀之，然不可不使天下周知！余不多及。”<br>遣知府易济<strong>颁诏于安南</strong>，诏曰：“昔帝王之治天下，凡日月所照，无有远近，一视同仁。故中国尊安，四方得所，非有意于臣服之也。自元政失纲，天下兵争者十有七年，四方遐远，信好不通。朕肇基江左，扫群雄、定华夏，臣民推戴，已主中国，建国号曰大明，改元洪武。顷者克平元都，疆宇大同，已承正统，方与远迩相安于无事，以共享太平之福。惟尔四夷君长、酋帅等，遐远未闻，故兹诏示，想宜知悉。”</blockquote>
+<p>这两段诏书都不是什么诘屈聱牙的内容，所以大家可以逐字看一下，内容和即位时的祝文以及第二天的昭告天下基本一致，只是最后加了类似于《公告》向各国政府宣布的内容，有对外属性。</p>
+<p>现在有电报，所以可以在建国当天就同步给其他国家，但明朝没有，所以必须派使臣专程前往，对方如果想达成朝贡关系，也必须专程派人前来，因此时效性往往很差，三年五年都是正常的。</p>
+<p>有趣的是，同日去“外国”送达诏书的，还有一位去重庆的，这份文件是“遣使以书谕夏主明升”的，给大夏国，但很明显这并不是第一次给，因为按照《明氏实录》记载，开熙二年也就是洪武元年四月前，大明皇帝就已经“来告即位”了，为此明夏派平章邹敬还去南京贺了一下，此事在《明太祖实录》中没写，但在徐达攻占元大都之后再次派人去南京称贺这事记载了，叫“夏主明昇闻王师克元都，遣使来贺”，时间置于洪武元年十月。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6297b89574a2d473109e82cfbdf2ebda_720w.jpg?source=8673f162" alt=""></figure>
+<p>也正是因此，洪武元年十二月底这次派使臣去重庆给明夏的国书就不是跟高丽、安南那样通告明朝建立的，而是回书，所以开头第一句就是“今秋大将军平元都，远劳使者来贺”，感谢老铁在十月来捧场。</p>
+<p>洪武元年四月前就给四川的明夏政权发了即位建国的公告，但洪武元年十二月底才给高丽、安南，老朱在给高丽的国书里说是“惟四夷未报，故遣使报王知之”，应该是之前就没想着给他们发。</p>
+<p>而明夏也因此成为世界上第一个承认明朝的“外国”。</p>
+<p>明朝派人出使高丽这事在《高丽史》中能对照起来：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5338e2093a246b13a9aecd23fb97e8b6_720w.jpg?source=8673f162" alt=""></figure>
+<p>四月壬辰，大明皇帝遣符宝郞偰斯赐玺书及纱罗段匹总四十匹，王率百官出迎于崇仁门外。其书曰：</p>
+<blockquote>大明皇帝致书高丽国王：自有宋失驭，天绝其祀，元非我类，天命入主中国百有余年，天厌其昏淫，亦用陨绝其命，华夷扰乱十有八年，当群雄初起时，朕为淮右布衣，忽暴兵疾至，误入其中，见其无成，忧惧不宁，荷天之灵，授以文武，东渡江左，习养民之道十有四年，其间，西平汉主陈友谅，东缚吴王于姑苏，南平闽越勘定八蕃，北逐胡君肃清华夏，复我中国之旧疆。今年正月，臣民推戴，即皇帝位。定有天下之号曰大明，建元洪武。惟四夷未报，故修书遣使，涉海洋，入高丽，报王知之。昔我中国之君，与高丽壤地相接，其王或臣或宾，盖慕中国之风，为安生灵而已。天监其德，岂不永王，高丽也哉。朕虽德不及中国之先哲王，使四夷怀之，然不可不使天下周知。</blockquote>
+<p>把《明实录》记载的这段跟《高丽史》记载的这段放一块，会发现内容基本一致，只是某些话术不同，比如《高丽史》写的开头有句抬头叫“大明皇帝致书高丽国王”而《明实录》没有。</p>
+<p>出于同样的考虑，在洪武二年正月二十，朱元璋议定派出了更大规模的使臣，去报知更多的“四夷”——“遣使以即位诏谕日本、占城、爪哇、西洋诸国。”</p>
+<p>二月初四，占城国王阿答阿者“遣其臣虎都蛮贡虎、象、方物”，这是明朝第一次有四夷来贡，时间甚至在高丽、安南之前，而且是主动来的，朱元璋很高兴，为此甚至追回了本来的诏书，换了个新的，于是在这份新写成的给占城国王的玺书里加上了这个内容：“今年二月四日，虎都蛮奉虎、象至，王之诚意，朕已具悉然。<strong>虎都蛮未至，朕之使已在途矣，朕之遣使，正欲报王知之</strong>。”你的人还没到，我的人已经在路上了，我们俩乃是互相奔赴的全面战略伙伴关系啊！</p>
+<p>这次发出去的几份国书，内容跟去年给高丽和安南的大同小异：</p>
+<blockquote>占城：曩者，我中国为胡人窃据百年，遂使夷狄布满四方，废我中国之彝伦，朕是以起兵讨之，垂二十年。芟夷既平，朕主中国，天下方安，恐四夷未知，故遣使以报诸国。<br>爪哇：中国正统，胡人窃据，百有余年，纲常既隳，冠履倒置。朕是以起兵讨之，垂二十年，海内悉定。朕奉天命，已主中国，恐遐迩未闻，故专使报王知之，使者已行。<br>日本：上帝好生恶不仁者。向者，我中国自赵宋失驭，北夷入而据之，播胡俗以腥膻中土，华风不竞，凡百有心，孰不兴愤？自辛卯以来，中原扰扰，彼倭来寇山东，不过乘胡元之衰耳。朕本中国之旧家，耻前王之辱，兴师振旅，扫荡胡番，宵衣旰食，垂二十年。自去岁以来，殄绝北夷，以主中国，惟四夷未报间者，山东来奏倭兵数寇海边，生离人妻子，损伤物命。故修书特报正统之事，兼谕倭兵越海之由。</blockquote>
+<p>总结起来基本就是一个事：窃据中国的蒙元已经完了，我是新的中国之君，怕你们不知道，专门派人告诉你们一声。</p>
+<p>六月初十，安南使臣到了，贡方物、请封爵。</p>
+<p>壬午，安南国王陈日煃遣其少中大夫同时敏、正大夫叚悌、黎安世等来朝贡方物，因请封爵。</p>
+<p>老朱很高兴，遣翰林侍读学士张以宁、典簿牛谅往使其国，封日煃为安南国王，赐以驼纽涂金银印。这次的待遇跟去年年底去安南报信的不一样，上次是通知，这次是正式册封确立宗藩关系，所以携带的东西以及诏书内容都不一样：</p>
+<blockquote>诏曰：咨尔安南国王陈日煃，惟乃祖父，昔守境于南陲，传之子孙，常称藩于中国，克恭臣职，以永世封。朕荷天地之灵，肃清华夏，顷驰书而往报，冀率土以咸宁。卿能奉表称臣，专使来贺，法尔前人之训，以安遐壤之民，眷兹勤意，深可嘉尚。是用遣使赍印，仍封尔为安南王。於戏！视广同仁，思效哲王之盛典；爵超五等，俾承奕叶之遗芳。益茂令猷，永为藩辅。</blockquote>
+<p>这种格式的文书是中国历史上的标准册文，金国当年册封伪齐刘豫也是如此：咨尔中奉大夫，京东、西、淮南等路安抚使兼诸路马步军都总管东平府事，节制大名、开、德等府，濮、博、滨、棣、德、沧等州刘豫……是用遣使……备礼以玺绶宝册，命尔为皇帝，国号大齐，都大名府……惟天难谌，惟命靡常，常厥德，保厥位。尔其勉哉！无忽朕命。</p>
+<p>同样的国书，传谕和册封是不一样的，用词不同，格式也不同。前者曰“诏”，后者曰“诰”，诏书一般是说明情况，而诰命则是仿照尚书以及青铜器金文画风，这俩的区别在于，前者你如果不想搭理的话可以不管，而后者不是随便就给的，必须是你表示臣服了才会给，而且给了你之后你还得再派人过去表示一下感谢。</p>
+<p>八月初二，观望了八个月之久的高丽也来了，奉表贺即位，贡方物、请封爵。八月十四，朱元璋遣符宝郎偰斯赍诏及金印、诰文往高丽封王颛为国王，这次带了一封诏书一封诰命，载于《明太祖实录》卷四十四，限于篇幅我这儿就不粘贴占地方了。</p>
+<p>九月十五，高丽国王王颛遣其总部尚书成惟得、千牛卫大将军金甲雨上表贡方物，<strong>谢恩</strong>。此事占城也来请封了，所以又派了中书省管勾甘桓、会同馆副使路景贤前往册封。</p>
+<p>事就这样成了。</p>
+<p>那说不对啊，怎么安南就没来谢恩呢？</p>
+<p>因为安南国王死了，去册封安南的使臣直接停在广西不走了，所以等洪武三年四月又派出吏部主事林唐臣前往册封新王，然后六月十四“安南国王陈日熞遣……等来上表<strong>谢恩</strong>”。</p>
+<p>其实这种册封才标志着成为正式藩属国，因为经过这个环节之后，明朝再有什么事就会同步一份。比如洪武三年四月份的时候为了开科举“诏设科取士”，同时“遣使颁科举诏于高丽、安南、占城”。而在这年顺帝败死，买的里八剌被俘，王保保单骑逃脱，明朝二次北伐取得了决定性成果之后，朱元璋颁《平定沙漠诏》于天下，同时“遣使赍诏，谕安南、高丽、占城”，反而没去给在四川的大夏皇帝明昇送信，也是基于此。</p>
+<p>这里头的政治意味就是，接受了明朝正式册封的安南、高丽、占城就此成为了明朝政治格局中的一部分。</p>
+<p>洪武三年的二次北伐胜利也标志着明朝正式站稳了脚跟，只要不出额外的幺蛾子，基本不可能被北元反推了。军事和政治上的双重胜利无疑让朱元璋的信心大增，也让明朝再次扩大了宣传诏谕的范围。六月二十，朱元璋遣使持诏谕云南、八番、西域、西洋、琐里、爪哇、畏吾儿等国，八月庚申，遣通事舍人巩哥锁南等往西域招谕吐蕃，辛酉遣吕宗俊等招谕暹罗国，戊寅遣使持诏往谕三佛齐、浡泥、真腊等国。</p>
+<p>外部同样给出了对此事的正向反馈，海外各国开始派人前来进贡（注意，不是请封），西、北方向的原蒙元总是、贵族和地方豪强开始规模化投奔明朝，明朝将其册封为卫所军职（比如高昌卫、岐山卫、武靖卫）。</p>
+<p>其后的明朝大抵延续了这种朝贡和册封体系，而且册封要比朝贡更高一级，这俩并不是平级的，册封一定有朝贡，但朝贡则不一定册封，比如洪武五年就遣使诏谕琉球了，但直到洪武十六年才正式册封琉球。</p>
+<p>所以，册封诰命 + 赐以印绶才应该算是藩属国的标志，而不是朝贡。因为有这两个标志的外交关系在的话，这些国家的统治者死了之后，继任新王会前往明朝报信并寻求册封，然后明朝再专门派人前往册封新王，这样就形成了一种政治任命的仪式，而简单的朝贡国则没有这个环节。</p>
+<p>也正是因此，明朝的朝贡范围要大得多，但册封范围就没那么夸张了，比如吕宋，吕宋虽然离着中国很近，而且洪武五年正月就遣使来贡，但明朝从未册封过吕宋，因此说吕宋是明朝的藩属国我觉得就很牵强了。</p>
+<p>永乐即位之后无疑是再度重启了他父亲建国初年的宣谕事业，包括郑和下西洋以及开设奴儿干都司的各个卫所，也是这种政治工程的一部分。永乐时期的朝贡和册封区别开始出现了一定的模糊，因为册封有些泛滥了，甚至凡贡必封，连苏门答剌和满剌加都有印诰，而且海外封臣和“中国”疆域的界线也出现了模糊，比如朱棣还亲自撰文册封浡泥等地方的山川，并将其纳入镇山体系中。因此，永乐时期的政治外交格局和洪武时期以及宣宗之后是大为不同的，讨论明朝的藩属范围不应该以永乐时期为标杆，而应以洪武和宣德以后。</p>
+<p>那么，帖木儿和鲁迷等中亚、西亚外交层级又是怎样的呢？</p>
+<p>很明确，明朝跟撒马尔罕就是普通的朝贡层级，虽然有遣使前往，但是从未有赐以印绶的环节，即使是在永乐时期都没有过册封某某国王以及赐以镀金或者金印，双方保持的是朝贡的关系，因此也不能说欧洲中亚都是大明藩属国，大明也不算欧亚各国的宗主国，关系达不到那种程度，如果对应现代外交关系，这种朝贡关系应该类似于双方建交，可以以国家身份互通有无相互贸易，但并不存在宗藩关系，毕竟宗藩关系放今天差不多得是格陵兰（丹）、波多黎各（美）、留尼旺（法）、托克劳（新）、安圭拉（英）这种，</p>
+<p>而且，如果把永乐时期排除在外的话，册封诰命 + 赐以印绶=藩属的说法是比较合理的，就像最大的 bug 存在，日本，也可以自圆其说。</p>
+<p>很多人都觉得，把日本算作明朝的藩属国有点儿过于抽象，明朝虽然在洪武时期多次往日本派过使臣，日本也差不多每次进贡都没落下，但从未“请封”过，所以明朝也就没有册封过。但是在洪武之后，日本还真就请封了，明朝也真前往册封日本了，而且还是建文帝封的（这要是以后日本也团结的话，课本上高低也得多写建文一笔），永乐元年十月明朝又“往赐日本国王冠服、锦绮纱罗及龟纽金印”，还“封其国之山曰‘寿安镇国之山’”，足利义满（源道义）回书也是自称“日本国王臣源义满”，永乐六年足利义满死了之后明朝还派太监周全前往祭并赐谥“恭献”，又册封源义持（足利义持）嗣日本国王，而日本现在也承认这三次的册封，足以见这种册封并非如当下简中互联网所说的一厢情愿。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7858e8cbb7af7ee0b7f94826a0c3031b_720w.jpg?source=8673f162" alt=""></figure>
+<p>因此，用请封、册封、赍印三联一套作为藩属国的标志的话，明朝的藩属国就是朝鲜、琉球、安南这仨，以及嘉靖之前的占城、暹罗，成化之前的真腊，还有永乐时期包括日本的那一堆，虽然即使这样听上去也有点儿招笑，但较之于朝贡就等于藩属，已是合理很多了。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2013288699673223539">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2010443855774908717">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788373</guid><pubDate>Thu, 19 Mar 2026 18:50:57 GMT</pubDate></item><item><title>为什么打乒乓球在日本社会算是「劣迹」？</title><link>http://daily.zhihu.com/story/9788376</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c3bae938b6a096ec842ca56e41cf340a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788396</guid><pubDate>Fri, 20 Mar 2026 01:45:05 GMT</pubDate></item><item><title>从山上采的蘑菇，蘑菇根上的泥弄下来之后，再拿回山上，第二天能出蘑菇吗？</title><link>http://daily.zhihu.com/story/9788400</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d1fea2ad5a2d2f43c7eef982597b7868.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -103,80 +396,119 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-502df79e90a89c24b0f57dc5867e0f70_l.jpg?source=8673f162">
-<span class="author">鱿鱼卷，</span><span class="bio">爱吃爱玩，二次元爱好者，日剧迷脑洞星人。</span>
-<a href="https://www.zhihu.com/question/2012476174115308638/answer/2012480629867054345" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-b0a3e4598a57de66b24ee18009c38974_l.jpg?source=8673f162">
+<span class="author">祥昊，</span><span class="bio">也许，我们需要的不是答案</span>
+<a href="https://www.zhihu.com/question/336033926/answer/1905685610091484453" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这个就不得不提到八十年代后日本社会对于乒乓球这项运动的抵触了。</p>
-<p>简单来说呢，如果你高中的时期参加过乒乓球社团的话，就会直接被贴上为人阴暗土气的标签。</p>
-<p>给大家贴一段，过去阴暗时期的采访。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c30fbb7561c09f918e29793aff2da524_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0d009a6d7e5a209d92a3a851674bd16f_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c0a173d98c75665902203c3e80fcc371_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a8dc255d9ce5e15af3dbb81bf551c96a_720w.jpg?source=8673f162" alt=""></figure>
-<p>前乒乓球职业选手水谷隼的博客有过一篇日记，详细的描述了一下日本乒乓球的困境。他是 89 年生人，21 年退役。</p>
-<p>他年轻的时候有一次坐电车，听到后面有一对情侣在聊天，大概意思就是在探讨球类活动。</p>
-<p>反正就是说乒乓球是只有宅男才会玩的一项运动，甚至还算不上运动。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ea2e6c66c84f841e8a1ff0e427e9cbe7_720w.jpg?source=8673f162" alt=""><figcaption>水谷的博客</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-96ba6380d9aa11c8337f9f67e87b254d_720w.jpg?source=8673f162" alt=""><figcaption>水谷的博客</figcaption></figure>
-<p>这个就是当时社会的主流意识，对乒乓球的刻板印象。</p>
-<p>桌球王国杂志提到这段历史的时候，甚至还用上了乒乓球，是只有女人和小孩才会玩的活动。意思就是在社会大众眼里，乒乓球根本就不算是竞技体育。甚至这些描述是明显带有主观歧视的。（这个原文链接我这里可能要回去找一下，当时我记得是有截图的，但是可能没保存下来。）</p>
-<p>我直接贴一段日本人自己回顾这段历史的文章，大家自己看看吧。日本人对自己国家乒乓球发展历史留存还是做得很不错的。连荻村的采访他们都保留了下来。</p>
-<p>这篇文章在桌球王国 plus 版上有，但是是要花钱才能看的。我因为有会员，所以就把翻译版放出来给大家看一下吧。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bb6f3d5b0aecd802fc90ca77d4bd0ecc_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-905f842fa035d0a11a73112ea409e0c4_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7edc2af9b90675babca67b5d898c3db3_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9df3c415e747847ebea059ec121e890b_720w.jpg?source=8673f162" alt=""></figure>
-<p>还挺有意思的。荻村当选国际乒联主席的时候，刚好就是日本乒乓球开始衰弱的时候，他挽救了瑞典乒乓球，结果自己国家的乒乓球却陷入了困境。</p>
-<p>后来他也做了很多努力，包括改变乒乓球的颜色，改变乒乓球台的颜色，改变选手运动服的颜色，还有举办那种明星选手的秀展（当时还请了刘奎南来日本。），但都没什么用。</p>
-<p>从 88 年乒乓球入奥之后，日本乒乓球的奥运会成绩。你说就这种成绩，再加上他是小球，谁看啊？</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a76388afc5d93bfc6c083ba2ef447197_720w.jpg?source=8673f162" alt=""><figcaption>92 年男队甚至没有一个人可以去奥运会。</figcaption></figure>
-<p>显而易见，此时日本乒乓球爱好者们处于社会舆论的不利地位。且自 85 年之后，日本乒乓球再无前十选手，曾经这个辉煌的乒乓球强国彻底陨落，而这项运动在日本也逐渐衰弱到几乎没啥存在感。</p>
-<p>日本男队在 01 年世乒赛甚至创下最差记录。世锦 13 名。（这项纪录之后又一次被打破了 06 年的时候创下了真正的最差纪录 14 名。）大家都明白一个道理，物极必反。</p>
-<p>没有人能接受曾经无比辉煌的过去，如今变得如此不堪。</p>
-<p>所以日本人自发采取了行动。希望挽救这项运动。</p>
-<p>宫崎义仁也登上了历史舞台。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5adb7b53d3c2e482fe0ec98a267cd04c_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbc72dfad1352e45447b171b3c94f07d_720w.jpg?source=8673f162" alt=""></figure>
-<p>为什么这里要提到宫崎义仁呢？因为他组建了希望国家队，一个面向小学生的国家队。这个希望国家队的第 1 届成员里有一个人。他就是当时还是小学生的水谷隼。</p>
-<p>水谷我觉得我也不需要介绍了，他在中国挺有名的。</p>
-<p>恰恰是因为在这种被歧视的氛围里，水谷他一心想要复兴日本乒乓球。把这个任务当成是自己打球的目标之一。</p>
-<p>他年轻的时候经常在博客里发牢骚（发牢骚的内容，还有当时男女乒不公平的待遇问题，这里就不赘述了。），所以我就想知道当时到底是有多么的不堪，以至于水谷的粉丝们在博客下面的回复，也时常提到当时的社会氛围。并以此为理由，希望水谷能够努力的。</p>
-<p>之后所有的转机就来源于里约奥运会。</p>
-<p>里约其实蛮多日本综艺节目都做过视频的，但是视频上传不了。简单叙述一下就是水谷隼拿到了里约单打铜牌，然后团体银牌，成绩直接追平了日本女队再加上他拿到日本乒乓球首枚个人单项奖牌。所以一下子得到了所有媒体的关注。</p>
-<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/2013196045472003425" target="_blank"> <img class="content-image" src="https://picx.zhimg.com/v2-c7bc0a0faaa276013b3d9682ecc21827_1440w.jpg?source=ccfced1a" alt=""> <span class="content"> <span class="title"><span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/2013196045472003425</span> </span> </a></p>
-<p>这里有一份羽生结弦的粉丝，看里约奥运会的观后感。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ee8f55d652479ef15f58940f81eae60_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是很可惜啊，即便是有了奥运会成绩做支持，既定的刻板印象一旦产生了就很难再改变了。只能说情况稍微有了些好转。</p>
-<p>即便水谷隼 21 年后来还拿了奥冠，他的社会地位也不会超过足球选手。（这个结论是源于水谷在足球世界杯采访的时候开的一个玩笑。大概意思就是说足球选手迟到 1 小时没关系，水谷隼他迟到了，估计要跪下谢罪了。所有人哄堂大笑。）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-410c954e994a728eb7eb5a31b8683b53_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个捐款的新闻，16 年的时候其实也看到过一次，不知道是是不是当年的是又翻出来再炒了一遍。反正就是因为自己的原因产生了不良影响，向日本乒协捐了 1000 万日元。</p>
-<p>其他的我看过的材料都说的是 80 年代左右确实不良影响很大，而且日本人（喜欢乒乓球的）也把责任归咎于了当时上红白歌会的那几个搞笑艺人。这个见仁见智吧。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ce72358f9bc4046f21ff33969b4309c1_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-15eadcea95190abc54c41d45b307963a_720w.jpg?source=8673f162" alt=""></figure>
-<p>--</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6c97fedd3908a5c287a77346da082ee0_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-654d25132a4022c65f70e35ae69d65d1_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2e9ee659a5a9ca4023faf9ec2b35b8fc_720w.jpg?source=8673f162" alt=""><figcaption>关于乒乓球选手长相这个真的是基本上就没有几个帅的，而且他们的身高还特别矮。</figcaption></figure>
-<p>桌球王国上关于黑暗时期的文章也不多，大概就这几篇吧。因为评论区都提到那个漫画，所以我特意去看了一下，没想到还真找到了有文章提到这个漫画的事情。</p>
-<p>日乒的歧视很复杂，因为日乒里日女不在歧视链里，所以说什么赢不了中国被歧视，简直就无稽之谈。80 年代刚好也就是归化选手特别多的时期，那个时候日本泡沫经济之前，钱特别多，所以实业团买了很多中国选手来给自己的公司打比赛。</p>
-<p>日乒也有很长一段时间是使用归化的中国选手打世锦和奥运的。08 年日本男乒重新拿回世锦铜牌，当时的三个主力除了水谷隼以外另外两个都是中国籍转籍去日本的。</p>
-<p>我觉得日本人把歧视的根源归结在那几个讲段子的搞笑艺人也挺正常的。如果不是因为你讲的段子，小朋友就不会觉得乒乓球是一项很阴暗的运动。也就不会导致选择乒乓球的孩子人数减少，也就不会导致日本队出不了成绩，环环相扣，恶性循环。而且上面材料也说，1966 年的座谈会杂志里不是也有人觉得打乒乓球很丢脸。那个时期日本队的成绩可是最好的时候。</p>
-<p>日乒开始衰弱的 80 年代，刚好就是荻村开始掌权的时候，也是日本人在国际乒联上地位最高的时候，影响力最大的时候，不照样被歧视。当时中国重返世锦比赛荻村后藤也出了力。如果日本人真的觉得赢不了中国要歧视日本选手的话，当时就不应该让中国重返世锦。</p>
-<p>这本质上是社会对于乒乓球选手的一种刻板印象，他们因为身体素质确实不如其他项目。日本受欢迎的项目就那几个棒球足球篮球，理所当然就觉得只有剩下的才会去打乒乓球了。刚好他们的形象又符合，很符合被挑剩下的。</p>
+<p>说起蘑菇....这可能是这世界最拧巴的生物。</p>
+<p>注意啦，</p>
+<p>这个拧巴不是形容词，而是叙述词。</p>
+<p>没错，</p>
+<p>我<strong>们吃的每一棵蘑菇其实都不是一个独立的个体。</strong></p>
+<p><strong>而是由众多菌丝体拧巴出来的。</strong></p>
+<hr>
+<p>蘑菇主要由两部分组成。</p>
+<p>能吃的部分叫子实体，主要用于生殖，</p>
+<p><strong>你理解成这是蘑菇的大根好像也没毛病。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-017a189b17ba8ce6c8768f68310b9b2f_720w.jpg?source=8673f162" alt=""></figure>
+<p>而第二部分才是蘑菇的本体——菌丝体。</p>
+<p>是无数根非常细长的菌丝构成，属于真菌。</p>
+<p><strong>要说这个真菌吧，真不复杂，</strong></p>
+<p><strong>正经分也就两种，</strong></p>
+<p>一种是特别小的单细胞真菌，比如酵母菌，平时在微生物界嘎嘎乱杀。</p>
+<p>另一种是奇形怪状的多细胞真菌，就是丝状真菌，比如霉菌。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ec381fba3bd7bf6ab1a354bcb8eefe5b_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>蘑菇就属于丝状真菌，</strong></p>
+<p><strong>这丝状真菌也有两种，</strong></p>
+<p>跟管子似得上下通畅的，叫无隔菌丝。</p>
+<p>中间有隔膜的叫有隔菌丝，</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d117344490e1cb6e44fba986c4f027e8_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>甭管有隔无隔，结构方面都差不多，</strong></p>
+<p>负责吸收水分和养分的基内菌丝（Substrate Mycelium），</p>
+<p>负责在空气里露脸的气生菌丝（Aerial Mycelium），</p>
+<p>还有负责生娃的产孢结构。</p>
+<p>再没了，简单吧？不光简单，还小，单个菌丝结构需要显微镜才能观察。</p>
+<p>本来菌丝们凑在一起只是为了排除异己抱团取暖，</p>
+<p>形成了肉眼可见的菌落。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd609a584fcd2f27540ec996fbc7ed8c_720w.jpg?source=8673f162" alt=""></figure>
+<p>偏偏以担子菌门（Basidiomycota）和子囊菌门（Ascomycota）这两大派别为代表的菌类特别有想法，再穷不能穷教育，再苦不能苦孢子，为了下一代，我们众筹个超级大根吧！！！</p>
+<p>于是以单个菌丝为代表的初级菌丝们通过细胞质的融合形成锁状联合（clamp connection），最后组合成双核状态，这被称为次生菌丝。</p>
+<p>听着挺复杂其实就是长一起了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-691853fa390a73aefd30e520ada2af3d_720w.jpg?source=8673f162" alt=""></figure>
+<p>然后次生菌丝又通过高度组织化融合产生了三生菌丝，</p>
+<p>最终聚合成一个小啾啾似的原基。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-23be0cbf57c459b8347653b35afca358_720w.jpg?source=8673f162" alt=""><figcaption>蘑菇的原基</figcaption></figure>
+<p>再之后时机成熟，</p>
+<p>啵的一声，蘑菇出现了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-51db0bfee8119fe90e035064ca24de6b_720w.gif?source=8673f162" alt=""></figure>
+<p>看着好像挺简单是吧？</p>
+<p>不不不，从三生菌丝开始就已经朝着奇幻生物的方向发展了。</p>
+<p>我们观察下蘑菇的结构，</p>
+<p>除了从形态上能分出菌盖，菌柄，菌褶这三大主要结构，</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-168cc0c9165a3dbbf4748cf07d775ad6_720w.jpg?source=8673f162" alt=""></figure>
+<p>部分菌类还整出了菌环，菌托等辅助结构，</p>
+<p>另外还有鳞片，条纹等众多其他结构。</p>
+<p>功能上除了主要的繁殖结构，还分化出了支撑结构、营养储存、防御机制、环境适应等功能。</p>
+<p>除了这些基础功能，还衍伸出一大堆奇怪功能。</p>
+<p>比如荧光小菇（<em>Mycena chlorophos</em>）可以在黑暗里发光。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-11c673be2c4c8014d04c5c2dbb0fc656_720w.jpg?source=8673f162" alt=""></figure>
+<p>比如小美牛肝菌（Boletus speciosus）误食后会看到小人。</p>
+<p>比如草菇（<em>Volvariella volvacea</em>）喜欢高温，在 13~14℃以下容易自溶。</p>
+<p>比如血齿菌（Hydnellum peckii）菌盖能渗出鲜红色液体，用于防御昆虫啃食。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b3c4a965a83f9e40b7b3d739ac4a74f_720w.jpg?source=8673f162" alt=""></figure>
+<p>狗蛇头菌（Mutinus caninus）会散发腐肉气味，吸引苍蝇传播孢子</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dbcf487d459dc202a886ca1407576150_720w.jpg?source=8673f162" alt=""><figcaption>这玩意长得真有点一言难尽</figcaption></figure>
+<p>恶魔雪茄（Chorioactis geaster）菌体裂开时形如雪茄爆炸成星形，</p>
+<p>释放孢子时还能发出口哨声</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d71617026a73c56b3bb825006bb89fb8_720w.jpg?source=8673f162" alt=""></figure>
+<p>等等，</p>
+<p>我记得之前说这玩意是由一堆独立的菌丝组成的，</p>
+<p>既没图纸也没规划，甚至还没脑子，这些奇幻的玩意就攒出来了？</p>
+<p>实际上，蘑菇不光长得千奇百怪，种类也非常多。</p>
+<p>世界上大型真菌预估有 50000 种，</p>
+<p>中国已记录的蘑菇种类约<strong>4000 种</strong>，包括食用菌 1000 余种、毒蘑菇 435 种。<sup>[1]</sup></p>
+<p>食用菌单按长相就可分出 7 大类，约 30 种典型形态。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-39504bcad4b3d8795e2a0dd0768fba5c_720w.jpg?source=8673f162" alt=""></figure>
+<p>更有意思的是很多蘑菇都会有点奇怪的小脾气。</p>
+<p>比如松茸（<em>Tricholoma matsutake</em>）依赖与赤松的菌根共生，</p>
+<p>鸡枞菌（<em>Termitomyces albuminosus）只喜欢和白蚁贴贴，</em></p>
+<p><em>至今人工培育都很困难。</em></p>
+<p><em>就算是普通蘑菇，也或多或少有点抖 M</em></p>
+<p>在日本江户时期，</p>
+<p>就有一本叫《惊蕈录》的吓唬蘑菇指南，</p>
+<p>就是通过敲打木头来使得蘑菇增产。</p>
+<p>这是由于捶打木头产生的震动会刺激菌丝扭结，让原来懒散的菌丝团冒出蘑菇。</p>
+<p>而自然条件下，打雷也能促进蘑菇生长，</p>
+<p>在明代的《通雅》里就有提到：</p>
+<blockquote>平西有断椿、榆、构，斧其皮，久雨烂之, 以米潘沃之，雷则出覃矣。不雷则大斧击之而覃亦出。</blockquote>
+<p>大概意思就是烂木头把皮去掉，平时用淘米水浇，打雷后就会长出蘑菇，不打雷的话用斧头敲一顿也能长。</p>
+<p>所以说雷雨天气后蘑菇更多，这是有科学依据的。</p>
+<p><strong>那既然已经了解蘑菇了，咱回归下原问题：</strong></p>
+<p>蘑菇根上的泥再送回山上，第二天会不会长蘑菇？</p>
+<p>答案很明显，不会。</p>
+<p>但是环境适宜的话过一段时间还是会重新长出蘑菇。</p>
+<hr>
+<p>那会长出公蘑菇还是母蘑菇呢？</p>
+<p>咱先看母蘑菇，</p>
+<p>比如竹荪能长出非常漂亮的白色渔网袜。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d4b5a1a4333f9b30e3e22e1030ecd15e_720w.gif?source=8673f162" alt=""></figure>
+<p>而长得像竹荪的白鬼笔（Phallus impudicus）就更了不得了。</p>
+<p>直接整出一个形神兼备的大根。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7030bc3f424004cf8656d18f1c28b542_720w.jpg?source=8673f162" alt=""></figure>
+<p>谁家正经蘑菇长成这样啊！！！！！！</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2012476174115308638">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/336033926">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788376</guid><pubDate>Thu, 19 Mar 2026 18:50:58 GMT</pubDate></item><item><title>坐拥世界白银的大明朝为什么不把税银铸成银元，夺回铸币权与紧急财政，反而执行去市场化去货币化政策？</title><link>http://daily.zhihu.com/story/9788382</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-aad1e5b8c09ce9a538a72a0c7fe8b29c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788400</guid><pubDate>Fri, 20 Mar 2026 01:45:06 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788407</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-50f6687ecccf1bc53dcbf85091882f22.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -191,110 +523,47 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 如果必须二选一的话，你愿意和一只 1 米 8 高的蟑螂还是 180 只蟑螂共同生活？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-051bb46335f2fd1e6833e1c6fe0727e6_l.jpg?source=8673f162">
-<span class="author">芮欣雨Sap，</span><span class="bio">Historiam Veritas Non Vitiari.</span>
-<a href="https://www.zhihu.com/question/2010294430947640231/answer/2010471956894466848" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>先别谈“大明为什么不把税收受到的白银大规模铸造银元”了，明朝连“大规模铸造铜钱”都没有做到，整个明朝 276 年一共才铸造了大约 4000 万贯铜钱，甚至建文、洪熙、正统、景泰、天顺、成化、正德七朝是直接就没有官方铸币的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ab8040dc430ad7676b8dca1e438390be_720w.jpg?source=8673f162" alt=""><figcaption>选自《中英货币结构比较（1066-1911）》</figcaption></figure>
-<p>这个数字是一个什么概念呢？在明朝之前，北宋 167 年总共大约铸造了两亿贯铜钱。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-81be02fc3352d53d8962644a52928c22_720w.jpg?source=8673f162" alt=""><figcaption>出自彭信威《中国货币史》</figcaption></figure>
-<p>而在明朝之后，清朝仅从 1653 年到 1660 年共铸造铜钱 1298.2 万贯，1661 年到 1860 年共铸造铜钱 74 亿 1272.9 万串，这还没有算入 1652 年之前铸造的顺治朝制钱，以及没有把 1861 年之后的同治、光绪、宣统三朝制钱算在内。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0238a2477b9eaf2839e50ca7fc59c491_720w.jpg?source=8673f162" alt=""><figcaption>选自《中英货币结构比较（1066-1911）》，下同</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c9d80f016ca833e3e24a5c5b81d60bc8_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1116142358ff6748c7afedfb133e70cd_720w.jpg?source=8673f162" alt=""></figure>
-<p>而且明朝铜钱不仅铸造量少，流通范围也很有限，所谓的“行钱之地”只有北直隶、山东、南直隶、浙江北部与河南东部，在小额交易中习惯使用铜钱。除此之外都是“不行钱之地”，小额交易使用碎银子或者以货易货。例如云南用海贝，四川贵州用香料、盐和布匹，江西湖广用粮食和布匹，山西陕西用毛皮和布匹。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fe5c321ebeab30ae2a00bc59d3ad776b_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-29bd74523a44019de64de1b7d2fdc31d_720w.jpg?source=8673f162" alt=""><figcaption>选自《明清铜钱流通体制的式微与重整》，下同</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bbe8d7f1b3ecc06835903aab783158d1_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d343084fcc0ca01bc6217df99c9b883f_720w.jpg?source=8673f162" alt=""></figure>
-<p>同样是拿北宋与清朝来对比，参考程民生的《宋代物价研究》的北宋部分，除了作为单一的铁钱区的四川之外，其它地方的绝大多数物价记录都是铜钱；而清朝在大额交易中是银钱并用，甚至在土地房产交易和借贷领域，都有很多使用铜钱的情况，至于小额交易则几乎全为铜钱。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d6ce678d8390894c6ce2efc7e04d613d_720w.jpg?source=8673f162" alt=""></figure>
-<p>还有“大规模铸造银元”本身也是有一定技术门槛的，我们现在常说的“银元（大洋）”和“银角 / 银毫（小洋）”其实指的是近代的无孔机制银币，严格来说它是用机器冲压出来的，而不是“铸造”出来的。“大规模铸造银元”的前提是先要有人力驱动的扭力压机或者是水力锻锤机，而这两种机器最早出现在 15 世纪下半叶的欧洲，最早的真正意义上的“银元”是神罗皇帝和奥地利大公马克西米利安一世在位时期生产的，明朝可没有像这样的造币机器。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-011bf3cac1d10fe8b190579f5f46f706_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8c5c888e3abcc35bce0113a0cd291f14_720w.jpg?source=8673f162" alt=""></figure>
-<p>因为古代欧洲长期以来使用的是打制币，和机制币的技术是同一发展路径，在中世纪晚期机械技术取得突破之后，就自然而然的过渡到机制币了。而古代中国使用的是铸造币，改用机械化生产的难度远远大于打制币，所以在晚清引进西方的造币机器之后，传统的方孔铜钱就逐渐被放弃了。</p>
-<p>关于中国近代银元的流通问题，可以看我之前的一篇回答</p>
-<p><a class="internal" href="https://www.zhihu.com/question/15117613510/answer/2006356876321916853?share_code=15GVKA03UOsJI&utm_psn=2010830338952287802">为什么墨西哥银元成为晚清民国时期中国的主要流通银元？</a></p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2010294430947640231">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788382</guid><pubDate>Thu, 19 Mar 2026 18:50:59 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788386</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-50f6687ecccf1bc53dcbf85091882f22.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title">瞎扯 · 什么是微软式中文？</h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/39569160/answer/1974555311198213697" target="_blank">什么是微软式中文？ </a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1985325455088301712/answer/1986489092062601409" target="_blank">如果必须二选一的话，你愿意和一只 1 米 8 高的蟑螂还是 180 只蟑螂共同生活？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/97b0692daf312af5dc48134567f4a1d3" target="_blank">@王二不是王大</a>： <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271077933&content_type=Article&match_order=1&q=Edge&zhida_source=entity" target="_blank">Edge</a> 的桌面。也不能说错，但一般这里写返回。</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/581c92798e5204b1814bdc3d1e63420a" target="_blank">@枝野梧芽</a>：选 1 米 8 蟑螂。</div>
+它若真实存在，就是颠覆生物学的活体奇迹，够发十篇 nature 、 science 。 180 只普通蟑螂？那是什么？</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/643849949/answer/1987122719427409839" target="_blank">有没有一张照片可以证明你的猫此刻很幸福？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1bbbb1eea29c5490df10d9d143f651c0" target="_blank">@老猫</a>：春节回家的搭子。</div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-b2fd3bf035a12575528e76514822ac09_1440w.jpg" alt="" width="888"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-7dea46c145bd1f57eabf72790e936718_1440w.jpg" alt="" width="1440"></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/667400467/answer/1990183859426461387" target="_blank">如何看待体校生说能单防梅西 5 分钟？</a></p>
+<blockquote>地暖温度有点高，毛孩子趴衣柜上看我化妆。</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-ef155952062bf3faf492b473a583d396_1440w.jpg" alt="" width="1440"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/581444649/answer/1988954673831494548" target="_blank"> 能否人工挖一个贝加尔湖?</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f5a425bcc995b76e995ec66ab70c420c" target="_blank">@薛定猫的鳄</a> ：想起网上的那个梗。</div>
-甲：你有什么特长？<br>乙：多位数心算特别快。<br>甲：哦，那你说说 65339X372258 是多少。<br>乙： 23665289 。<br>甲：你这答案也差太远了吧？<br>乙：不必纠缠细节，你就说快不快吧。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/2005682421815874067/answer/2006439338104350614" target="_blank">半人马的学步期是不是六条腿爬行?</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f64cce76d32829daea6ffd9739924b99" target="_blank">@Casscell</a></div>
+ ：听说四川以后就成这样了？</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-a2e387741b4f4325e3c1ea451cef91d8_1440w.jpg" alt="" width="942"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/278294552/answer/3513056903" target="_blank">有哪个瞬间让你觉得这个世界出 bug 了？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8b5643176b573d03f3900d8f1586d12b" target="_blank">@小迷蝶</a> ：借这个问题想问一下，精心挑选的瓷砖被师傅贴成这样了怎么办？</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c94424fb537e244a3f1ec1a7c6e09258" target="_blank">@温忘之</a>：蒸米饭的时候，水要距离米一个手指节高。</div>
+别管多少米。<br>别管多少水。<br>也别管手指头多长。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/286733591/answer/3339841261" target="_blank">有哪些非常冷门的冷知识？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/5a839033763c8bd0e8c42832c88e690d" target="_blank">@棠风</a>：咖啡不小心倒在身上，比喝下去更提神。</div>
 </blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-76946fcf49488ac4c82b2e94abedfca8_1440w.jpg" alt="" width="1200"></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-978318cb4b24bcd6923cb4b27076ccb5_1440w.jpg" alt="" width="1200"></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-1b059f096cfb3cff259fbda19c562541_1440w.jpg" alt="" width="1200"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/322220241/answer/1989826320536978719" target="_blank"> 如果西游记里面西游团队要开除一个人，你会开除谁？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/dda10a058056fc3c98d20379855cb33e" target="_blank">@李二丁</a>：<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271077933&content_type=Article&match_order=1&q=%E5%94%90%E5%83%A7&zhida_source=entity" target="_blank">唐僧</a>：你不妨把话说得明白一点！别在那阴阳怪气，团队里就我一个是人！</div>
-对了，突然想起来了，<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271077933&content_type=Article&match_order=1&q=%E5%8F%8C%E5%8F%89%E5%B2%AD&zhida_source=entity" target="_blank">双叉岭</a>上不是已经开除过了嘛，还一次优化掉俩初创老苦力——是不是很符合实际？</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/326203699/answer/1994082646855276540" target="_blank"> 为何很多国人称 「美国甜品过甜难以接受」而对国内甜度相同的饮料无甚微词？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e64b63c85055826ff3d1dcfe723582e5" target="_blank">@晨厚道</a> ：<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271077933&content_type=Article&match_order=1&q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E&zhida_source=entity" target="_blank">蜜雪冰城</a>美国店一开，此贴可以终结了</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-71ed2f789481a8bbc6182d104281b8e9_1440w.jpg" alt="" width="1206"></div>
-<figcaption></figcaption></figure>
-<hr>
 <p><br class="Apple-interchange-newline"><br class="Apple-interchange-newline"></p>
 </div>
 </div>
@@ -304,4 +573,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788386</guid><pubDate>Thu, 19 Mar 2026 18:51:00 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788407</guid><pubDate>Fri, 20 Mar 2026 01:45:07 GMT</pubDate></item></channel></rss>
