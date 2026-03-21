@@ -1,279 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Fri, 20 Mar 2026 18:40:25 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>据分析
-幂律分布
-统计学分布
-为什么我国的概率与统计学教科书里不怎么讲幂律分布？</title><link>http://daily.zhihu.com/story/9788410</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a169f773941f9ab4483f16477903cab2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title">为什么我国的概率与统计学教科书里不怎么讲幂律分布？</h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-7b8d84e4f9b138aa3fa72878b321d3e7_l.jpg?source=8673f162">
-<span class="author">武辰，</span><span class="bio">新书赶稿中。</span>
-<a href="https://www.zhihu.com/question/20313934/answer/2012311960952272569" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>这个问题简直是直接撞到了我的枪口上。</p>
-<p>就在上周，我正和出版社的编辑还在讨价还价。我目前正在写一本面向自学者的概率论教材，原稿写得太嗨（很多直白的讲解），不知不觉飙到了 600 多页。</p>
-<p>编辑说：“书太厚了，定价压不下来，读者可能不买账。第 7 章这些像‘幂律分布’的扩展内容，考研大纲里也没有，要不砍掉吧？或者我们做成二维码，印在书页角落，想看的读者自己扫码看电子版？”</p>
-<p>听到这个提议，我有点纠结。一方面我理解出版的商业现实考虑；但另一方面，把统治了现实世界财富、流量与大模型底层逻辑的分布规律，委屈成一个“扫码扩展阅读”的边缘角色，让我觉得有点可惜。</p>
-<p>回到题主的问题：为什么中国教材不教幂律分布？</p>
-<p>因为现有的概率论教学体系，是建构在“正态分布”和“中心极限定理”的地基上的。它假设世界是“<strong>独立同分布</strong>”的（扔硬币，你扔你的，我扔我的）。而幂律分布的底层逻辑是“<strong>相互关联</strong>、正反馈”（滚雪球，富者愈富）。这种复杂系统的规律，为了保持基础教材体系的“整洁”，往往被划到了系统科学或更深层的学科里。</p>
-<p>在现有的教学体系下，<strong>我们的大学教材本质上是考试大纲的附属品，而不是教你认识真实世界的说明书</strong>。</p>
-<p>既然实体书里它大概率只能变成一个二维码了，我就把这部分“超纲原稿”直接发在这里。</p>
-<hr>
-<p><strong>章节名：赢家通吃的幂律分布</strong></p>
-<p>此前我们接触的均匀分布、指数分布和正态分布，都有一个共同点：它们共同构建了一个温和的“平均王国”。大家都差不多，没有特别穷的，也没有特别富的。</p>
-<p>但现在，我们要把这个温和的面具撕下来了。在这里，没有所谓的“典型值”，极端事件不再罕见，而是一种常态。在这里，“第一名”的收益，可能比第二名到第一百名加起来还要多。</p>
-<p>这听起来并不陌生，我们生活的世界到处都是这种分布的影子：亿万富翁的财富、明星城市的规模、网络热搜的流量……要理解它们，我们需要一件新工具——<strong>幂律分布</strong>。</p>
-<p><strong>1. 从两个“为什么”说起</strong></p>
-<p><strong>第一个“为什么”</strong>：假设一个房间里有 100 个人，他们的年收入大致服从正态分布，平均值是 10 万元。这时，世界首富走了进来。你猜，这个房间里的平均收入会变化多少？可能会翻倍？变成 20 万？还是 50 万？实际上，这个数字可能会变成<strong>数千万甚至上亿</strong>。一个极端个体的加入，彻底重塑了整个统计结果。在正态分布的世界里，这是不可想象的“黑天鹅”；但在幂律分布的世界里，这却是每天都在发生的寻常事。</p>
-<p><strong>第二个“为什么”</strong>：随便想一个英文单词，比如 “the”。你凭直觉觉得，它在所有英文文本中出现的频率大概是多少？实际上，“the”这个单词出现的频率高达 <strong>7%</strong> 左右。大约每 14 个词里就有一个。而排名第二的“of”，频率就骤降到 3.5% 左右。这和我们直觉里“词汇应该均匀分布”的想法相去甚远。</p>
-<p>这两个现象指向同一个核心：在这类分布中，<strong>极大值出现的概率，没有想象中那么低</strong>。它的图形，有一个极其漫长的“尾巴”，向右方无限延伸。我们称之为——“<strong>长尾</strong>”或“<strong>肥尾</strong>”。</p>
-<p>正如图 1 的直观对比，正态分布是一条钟形曲线，大部分数据集中在中间凸起处，两边的尾巴很快便匍匐在地，消失不见。幂律分布则是一条从高点开始，一路向右下方滑落的曲线。它下降的速度越来越慢，慢到那条尾巴似乎要贴着地面，延伸到视野的尽头。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4c57e8fc551df8eea352e76c0caf843_720w.jpg?source=8673f162" alt=""><figcaption>图 1：两种截然不同的“尾巴”。正态分布（黑色虚线）对极端值零容忍；幂律分布（蓝色实线）则允许极端值存在。</figcaption></figure>
-<p><strong>2. 给“不平等”一个数学表达式</strong></p>
-<p>我们如何用数学语言来捕捉这种“漫长的尾巴”呢？ 它的核心思想非常简洁：一个变量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=X" alt=""></p>
-<p>超过某个很大数值</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p>的概率，与</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p>的某个<strong>负幂次</strong>成比例。</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%28X+%5Cge+x%29+%5Cpropto+x%5E%7B-k%7D%2C+%5Cquad+%5Ctext%7B%E5%BD%93+%7D+x+%5Ctext%7B+%E5%BE%88%E5%A4%A7%E6%97%B6%7D" alt=""></p>
-<p>这个“</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpropto" alt=""></p>
-<p>”是“正比于”的意思。</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=k" alt=""></p>
-<p>是一个大于 0 的常数，叫做“幂指数”或“尾指数”。这个公式就是幂律的灵魂。</p>
-<p>翻译一下这句话：<strong>“数值超过 </strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p><strong> 的可能性，随着 </strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p><strong> 的增大，按照 </strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p><strong> 的负 </strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=k" alt=""></p>
-<p><strong> 次方的速度衰减。”</strong></p>
-<p>关键在于这个“衰减的速度”。指数分布（如灯泡寿命）的衰减速度是<strong>指数级</strong>的快，就像雪崩一样。而幂律</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E%7B-k%7D" alt=""></p>
-<p>呢？它的衰减速度是<strong>多项式级</strong>的，慢得多。</p>
-<p>在这个世界里，要想消灭大数值，是非常非常困难的。<strong>正态分布消灭极端值，靠的是指数级的高压，像切菜一样利索；而幂律分布消灭极端值，只能靠多项式级的磨损，慢得让人绝望。</strong></p>
-<p>为了更精确，它的概率密度函数（PDF）通常写为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%5Cpropto+x%5E%7B-%5Calpha-1%7D" alt=""></p>
-<p>（这里</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Calpha+%3D+k" alt=""></p>
-<p>）。这个关系直接造就了那条漫长的尾巴。</p>
-<p><strong>3. 最经典的两位“代言人”</strong></p>
-<p>在现实中，幂律有两位最著名的“代言人”。</p>
-<p><strong>第一位，是帕累托分布。</strong> 你大概率听过它的一个经验版本——<strong>80/20 法则</strong>。它描述财富、收入、公司规模等“资源不平等”现象。设</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Cmin%7D" alt=""></p>
-<p>为最低门槛，财富超过</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p>的人的比例就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%28x_%7B%5Cmin%7D+%2F+x%29%5Ek" alt=""></p>
-<p>。你可以做一个思想实验：如果全球财富服从帕累托分布，世界首富的财富很可能比排名第十的富豪多一个数量级（10 倍）。这种“断层式”的差距，正态分布无法产生。</p>
-<p><strong>第二位，是齐普夫定律。</strong> 它描述系统中单元大小与其排名之间的反比关系：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=S%28r%29+%5Cpropto+%5Cfrac%7B1%7D%7Br%5E%5Calpha%7D" alt=""></p>
-<p>当</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Calpha+%3D+1" alt=""></p>
-<p>时，排名第 1 位的规模约是第 2 位的 2 倍；第 10 位的规模约是第 100 位的 10 倍。这揭示了在存在竞争的系统中，一种“赢家通吃”或正反馈机制，往往会自发产生幂律结构。</p>
-<p><strong>4. 无标度性：幂律最深刻的“指纹”</strong></p>
-<p>幂律最精妙、也最反直觉的一个性质是——<strong>无标度性</strong>。</p>
-<p>玩个“放大镜”游戏：假设你有一份美国城市人口数据，服从幂律分布。如果你只关注人口超过 50 万的大城市分析一次，再只关注超过 100 万的大城市分析一次。你会发现：<strong>这两次得到的分布形态，看起来几乎一模一样！</strong></p>
-<p>在这个世界里，你根本找不到一把合适的尺子。在正态分布里，“平均身高”就是那把尺子。但在财富的幂律分布里，你说身家 100 万算富吗？在 1000 万面前是穷光蛋。1000 万在 1 个亿面前又是穷光蛋。</p>
-<p>正如图 2 所示，这种“大鱼吃小鱼，小鱼吃虾米”的结构，无论你把镜头拉到哪个层级，看起来完全一模一样。幂律分布，就是概率世界里的“分形”。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-2433293e5b12751a2240640d402bc010_720w.jpg?source=8673f162" alt=""><figcaption>图 2：无标度性示意图。左图完整分布，右图局部放大，曲线形态惊人相似，说明该分布没有特征尺度。</figcaption></figure>
-<p><strong>5. 对比与定位：在概率版图中找到它</strong></p>
-<p>学到这里，你脑子里可能同时转着好几个分布，有点打架。这很正常。接下来做几个对比，看看能不能帮助你更好理解。</p>
-<p><strong>第一场对比：幂律 vs. 指数分布（衰减的速度）</strong></p>
-<p>回忆一下，指数分布描述“无记忆”的等待，比如灯泡的寿命。它的核心是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%28X+%5Cge+x%29+%3D+e%5E%7B-%5Clambda+x%7D" alt=""></p>
-<p>。你注意看，变量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p>在指数上。这意味着它的衰减是<strong>指数级</strong>的，快如雪崩。在<strong>半对数坐标</strong>图（只有 y 轴取对数）上，它会画出一条直线（如图 3）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ecc2c6d4cba0603d52a6b8e79e55738_720w.jpg?source=8673f162" alt=""><figcaption>图 3：指数分布的坐标形态。左图在普通坐标下呈现典型的快速衰减；右图在半对数坐标下（y 轴取对数）变形成一条完美的直线。</figcaption></figure>
-<p>而幂律呢？它的核心是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%28X+%5Cge+x%29+%5Cpropto+x%5E%7B-k%7D" alt=""></p>
-<p>，变量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p>在底数上。它的衰减是<strong>多项式级</strong>的，慢如远去的驼铃。为了让它现出原形（变成直线），我们需要在<strong>双对数坐标</strong>图（x 轴和 y 轴都取对数）上看它（见图 4）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4a50809fe8945cf89d6e56975144fb13_720w.jpg?source=8673f162" alt=""><figcaption>图 4：幂律分布的“照妖镜”。右图在双对数坐标下现出原形，成为一条直线。</figcaption></figure>
-<p>所以，区分秘诀是：<strong>看它在什么坐标系下成直线</strong>。这背后是衰减速度的本质差异：指数衰减把极端事件概率压得极低，而幂律则“宽容”地保留了这种可能。</p>
-<p><strong>第二场对比：幂律 vs. 正态分布（世界的规则）</strong> 现在，想想我们万能的“钟形曲线”。正态分布是“平均王国”的君主，它由大量<strong>独立、微小</strong>的因素<strong>相加</strong>而成（中心极限定理）。它崇尚“中庸”，把数据紧紧拉向均值，极端值是罕见的意外。</p>
-<p>幂律分布则是“极端王国”的规则制定者。它通常由<strong>相互关联、具有正反馈</strong>的机制<strong>相乘</strong>（或类似累积）而成。“富者愈富”（偏好依附）就是最典型的规则。它热衷于制造垄断和巨头，在这里，极端事件不是意外，而是系统结构必然的产物。</p>
-<p>一个是“独立相加”导向的平均与稳定，一个是“关联相乘”导向的集中与突变。理解你面对的问题属于哪个王国，是选择正确数学模型的第一步。人的身高属于前者，人的财富往往属于后者。</p>
-<p><strong>6.关键澄清：关于形式、离散与连续、截断</strong></p>
-<p>聊了这么多现象和性质，你可能对幂律分布本身还有些根本的疑问。</p>
-<p><strong>疑问一：它到底是离散分布还是连续分布？</strong> 答案是：两者皆有。幂律描述的是一种数学关系（比例于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x%5E%7B-k%7D" alt=""></p>
-<p>），这种关系既可以刻画连续变量，也可以刻画离散变量。</p>
-<ul>
-<li><strong>连续型</strong>：如描述收入的帕累托分布，其概率密度函数 <img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%5Cpropto+x%5E%7B-%5Calpha-1%7D" alt="">。</li>
-<li><strong>离散型</strong>：如描述词频的齐普夫定律，其概率质量函数 <img class="content-image" src="https://www.zhihu.com/equation?tex=P%28X%3Dk%29+%5Cpropto+k%5E%7B-%5Cgamma%7D" alt="">。 我们放在连续型分布这章讨论，是因为它与指数分布、对数正态分布等连续分布的对比更有启发意义。</li>
-</ul>
-<p><strong>疑问二：为什么我们只写“</strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpropto" alt=""></p>
-<p><strong>”，不给个像正态分布那样漂亮的完整公式？</strong> 这是个好问题。我们写成</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%5Cpropto+x%5E%7B-%5Calpha-1%7D" alt=""></p>
-<p>，而不是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%3D+%5Cfrac%7B1%7D%7B%5Csqrt%7B2%5Cpi%7D%5Csigma%7De%5E%7B-%5Cfrac%7B%28x-%5Cmu%29%5E2%7D%7B2%5Csigma%5E2%7D%7D" alt=""></p>
-<p>，有两个现实原因：</p>
-<ul>
-<li><strong>必须的“起步价”</strong>：幂律在 <img class="content-image" src="https://www.zhihu.com/equation?tex=x+%5Cto+0" alt=""> 时会爆炸到无穷大，无法归一化。因此，任何一个具体的幂律分布（如帕累托分布）都必须有一个<strong>最小值 </strong><img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmin%7D%7D+%3E+0" alt="">，分布从这开始：<img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%3D+%5Cfrac%7B%5Calpha+x_%7B%5Ctext%7Bmin%7D%7D%5E%7B%5Calpha%7D%7D%7Bx%5E%7B%5Calpha%2B1%7D%7D%2C+%5Cquad+x+%5Cge+x_%7B%5Ctext%7Bmin%7D%7D" alt="">。这个 <img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmin%7D%7D" alt=""> 因问题而异（比如“城市”的最小规模），所以一个通用“标准式”反而不实用。</li>
-<li><strong>强制的“天花板”</strong>：同样因为现实世界有限，幂律的漫长尾巴不可能无限延伸。城市人口不能超过地球总人口，个人财富受限于全球经济总量。因此，更真实的模型往往是<strong>截断幂律</strong>，它在纯幂律基础上加了一个指数衰减项：<img class="content-image" src="https://www.zhihu.com/equation?tex=p%28x%29+%5Cpropto+x%5E%7B-%5Calpha-1%7D+e%5E%7B-x+%2F+x_%7B%5Ctext%7Bmax%7D%7D%7D" alt="">。当 <img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""> 远小于最大尺度 <img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmax%7D%7D" alt=""> 时，它像幂律；当 <img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""> 接近 <img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmax%7D%7D" alt=""> 时，概率被迅速压低至零。</li>
-</ul>
-<p>最小值</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmin%7D%7D" alt=""></p>
-<p>是定义数学模型的<strong>必需品</strong>，而最大值</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x_%7B%5Ctext%7Bmax%7D%7D" alt=""></p>
-<p>是描述物理世界的<strong>必需品</strong>。这提醒我们，漂亮的幂律公式是一个抓住了核心机制的<strong>理想模型</strong>，而应用时，必须考虑现实世界的起止边界。</p>
-<p>纯粹的幂律只存在于数学家的草稿纸上。现实世界总有物理极限。再大的雪球，滚到最后也会因为没有雪而停下（地球资源有限）。所以，真实的曲线往往是：中间一段极其符合幂律，但在最末端，会被现实的墙壁强行截断。</p>
-<hr>
-<p><strong>算法工程师彩蛋：大语言模型的长尾噩梦</strong></p>
-<p>最后说点我个人的本职工作。在我平时做的视觉语言模型（VLM）或者大语言模型（LLM）的训练时，最头疼的往往不是显卡算力，而是你刚刚学到的<strong>幂律分布</strong>（齐普夫定律）。</p>
-<p>在人类语言和视觉特征中，极少数的模式占据了绝大多数流量，而绝大多数罕见模式只出现寥寥几次。这对 AI 来说是灾难性的<strong>样本不平衡</strong>——模型对高频数据“过拟合”，对长尾数据却因为没见过几次而“学不会”。</p>
-<p>为了不让 AI 变成“文盲”，业界被迫发明了 <strong>Subword（子词）分词技术</strong>（如 BPE 算法），强行把生僻的长尾词切碎成高频的词根。今天最先进的 AI 架构，其实有很多底层逻辑就是被这种数学分布逼出来的。</p>
-<p><strong>动手实验：财富的乘法游戏</strong></p>
-<p>为了验证这不是数学家的空想，我为这本书配了一段无依赖的纯 Python 仿真代码。</p>
-<p>在这个代码里，我们模拟一个“乘法游戏”（比如投资回报率）。每个人每一轮随机赚或亏 10%，并设定一个最低破产底线。你可以亲自跑一下，看看贫富分化是如何在双对数坐标下，无可阻挡地排成一条冰冷的直线的。</p>
-<div class="highlight">
-<pre><code class="language-python3"><span class="sd">"""</span>
-<span class="sd">文件名: wealth_distribution_simulation.py</span>
-<span class="sd">功能: 模拟“乘法增长”与“贫困底线”如何共同制造出贫富悬殊的幂律分布。</span>
-
-<span class="sd">【这是什么？】</span>
-<span class="sd">这段代码演示了一个残酷的社会实验：</span>
-<span class="sd">如果是“加法游戏”（每人每天随机赚 / 赔 1 块钱），财富会服从正态分布（大家差不多）。</span>
-<span class="sd">但如果是“乘法游戏”（每人每天随机赚 / 赔 10%），且每个人都有最低生存底线，</span>
-<span class="sd">最终就会诞生“幂律分布”：绝大多数人挣扎在底线附近，而极少数人掌握绝大部分财富。</span>
-
-<span class="sd">【怎么用？】</span>
-<span class="sd">直接运行即可。程序会弹出两个窗口：</span>
-<span class="sd">1. 普通坐标图：你会看到一个巨大的“L”型，这就是贫富分化的直观样子。</span>
-<span class="sd">2. 双对数坐标图：你会看到数据点神奇地排成了一条直线，这是幂律分布的铁证。</span>
-<span class="sd">"""</span>
-
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-
-<span class="c1"># --- 可调整参数配置区 (你可以随意修改这些数字来观察世界) ---</span>
-
-<span class="c1"># 1. 模拟的人数 (建议 1000 - 10000)</span>
-<span class="n">NUM_PEOPLE</span> <span class="o">=</span> <span class="mi">5000</span>
-
-<span class="c1"># 2. 初始财富值 (也是贫困底线，跌破此线会触发“低保”或被新移民替代)</span>
-<span class="n">MIN_WEALTH</span> <span class="o">=</span> <span class="mf">10.0</span>
-
-<span class="c1"># 3. 模拟的轮数 (时间越久，贫富分化越明显)</span>
-<span class="n">STEPS</span> <span class="o">=</span> <span class="mi">5000</span>
-
-<span class="c1"># 4. 每一轮的波动幅度 (0.1 代表 10% 的盈亏)</span>
-<span class="n">VOLATILITY</span> <span class="o">=</span> <span class="mf">0.1</span> 
-
-<span class="c1"># ---------------------------------------------------------</span>
-
-<span class="k">def</span> <span class="nf">run_simulation</span><span class="p">():</span>
-    <span class="c1"># 初始化：所有人最开始都只有最低财富</span>
-    <span class="n">wealth</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">full</span><span class="p">(</span><span class="n">NUM_PEOPLE</span><span class="p">,</span> <span class="n">MIN_WEALTH</span><span class="p">)</span>
-    
-    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"正在模拟 </span><span class="si">{NUM_PEOPLE}</span><span class="s2"> 个人的财富演化，请稍候..."</span><span class="p">)</span>
-    
-    <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">STEPS</span><span class="p">):</span>
-        <span class="c1"># --- 核心数学逻辑 1：乘法增长 (Multiplicative Process) ---</span>
-        <span class="c1"># 现实中的财富不是线性累加的，而是按比例增值的（如投资回报、复利）。</span>
-        <span class="c1"># 这里模拟每人每轮随机 盈 / 亏 VOLATILITY 的比例。</span>
-        <span class="c1"># np.random.uniform(-1, 1) 生成 -1 到 1 之间的随机数</span>
-        <span class="n">fluctuation</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">+</span> <span class="n">VOLATILITY</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">uniform</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">NUM_PEOPLE</span><span class="p">)</span>
-        <span class="n">wealth</span> <span class="o">=</span> <span class="n">wealth</span> <span class="o">*</span> <span class="n">fluctuation</span>
-        
-        <span class="c1"># --- 核心数学逻辑 2：反射壁 (Reflective Barrier) ---</span>
-        <span class="c1"># 对应现实中的“生存底线”或“新入场的穷人”。</span>
-        <span class="c1"># 如果没有这个底线，乘法过程最终会变成对数正态分布。</span>
-        <span class="c1"># 加上这个底线后，数学上证明了它会收敛为幂律分布 (Kesten Process)。</span>
-        <span class="n">wealth</span><span class="p">[</span><span class="n">wealth</span> <span class="o"><</span> <span class="n">MIN_WEALTH</span><span class="p">]</span> <span class="o">=</span> <span class="n">MIN_WEALTH</span>
-
-    <span class="k">return</span> <span class="n">wealth</span>
-
-<span class="k">def</span> <span class="nf">plot_results</span><span class="p">(</span><span class="n">wealth</span><span class="p">):</span>
-    <span class="c1"># 设置绘图风格</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">'ggplot'</span><span class="p">)</span>
-    
-    <span class="c1"># 尝试设置中文字体（为了让你的图表显示中文，这里做了兼容性处理）</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">'font.sans-serif'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'SimHei'</span><span class="p">,</span> <span class="s1">'Microsoft YaHei'</span><span class="p">,</span> <span class="s1">'Arial Unicode MS'</span><span class="p">,</span> <span class="s1">'Arial'</span><span class="p">]</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">'axes.unicode_minus'</span><span class="p">]</span> <span class="o">=</span> <span class="kc">False</span>
-
-    <span class="c1"># 创建两个子图</span>
-    <span class="n">fig</span><span class="p">,</span> <span class="p">(</span><span class="n">ax1</span><span class="p">,</span> <span class="n">ax2</span><span class="p">)</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span> <span class="mi">6</span><span class="p">))</span>
-
-    <span class="c1"># --- 图 1：普通坐标下的直方图 ---</span>
-    <span class="c1"># 这是我们肉眼看到的“真实世界”：极度不平等</span>
-    <span class="n">ax1</span><span class="o">.</span><span class="n">hist</span><span class="p">(</span><span class="n">wealth</span><span class="p">,</span> <span class="n">bins</span><span class="o">=</span><span class="mi">50</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'#3498db'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.8</span><span class="p">,</span> <span class="n">edgecolor</span><span class="o">=</span><span class="s1">'black'</span><span class="p">)</span>
-    <span class="n">ax1</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"图 1：普通视角（贫富悬殊）"</span><span class="p">)</span>
-    <span class="n">ax1</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s2">"财富金额"</span><span class="p">)</span>
-    <span class="n">ax1</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s2">"人数"</span><span class="p">)</span>
-    <span class="n">ax1</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="s2">"绝大多数人</span><span class="se">\n</span><span class="s2">挤在左边"</span><span class="p">,</span> <span class="n">transform</span><span class="o">=</span><span class="n">ax1</span><span class="o">.</span><span class="n">transAxes</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">12</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
-
-    <span class="c1"># --- 图 2：双对数坐标下的分布 (Log-Log Plot) ---</span>
-    <span class="c1"># 这是数学家看到的“规律世界”：一条直线</span>
-    <span class="c1"># 我们不直接画 hist，而是画“互补累积分布函数 (CCDF)”</span>
-    <span class="c1"># 因为 hist 在双对数下噪音太大，CCDF 才是验证幂律的标准方法</span>
-    
-    <span class="c1"># 1. 对数据排序</span>
-    <span class="n">sorted_wealth</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">sort</span><span class="p">(</span><span class="n">wealth</span><span class="p">)</span>
-    <span class="c1"># 2. 计算排名比例 (y 轴)</span>
-    <span class="c1"># y = 1.0 意味着是第 1 名(最穷)，y -> 0 意味着是最后一名(最富)</span>
-    <span class="c1"># 这里计算的是 P(X >= x)，即有多少比例的人财富大于 x</span>
-    <span class="n">y_vals</span> <span class="o">=</span> <span class="mf">1.0</span> <span class="o">-</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">sorted_wealth</span><span class="p">))</span> <span class="o">/</span> <span class="nb">len</span><span class="p">(</span><span class="n">sorted_wealth</span><span class="p">)</span>
-    
-    <span class="n">ax2</span><span class="o">.</span><span class="n">loglog</span><span class="p">(</span><span class="n">sorted_wealth</span><span class="p">,</span> <span class="n">y_vals</span><span class="p">,</span> <span class="n">marker</span><span class="o">=</span><span class="s1">'.'</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="s1">'none'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'#e74c3c'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.3</span><span class="p">)</span>
-    <span class="n">ax2</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"图 2：上帝视角（双对数坐标）"</span><span class="p">)</span>
-    <span class="n">ax2</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s2">"财富金额 (对数刻度)"</span><span class="p">)</span>
-    <span class="n">ax2</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s2">"财富大于该金额的人数比例 (对数刻度)"</span><span class="p">)</span>
-    
-    <span class="c1"># 画一条辅助线，说明如果是完美的幂律，应该长什么样</span>
-    <span class="c1"># 幂律公式：P(x) ~ x^(-alpha)</span>
-    <span class="c1"># 在双对数图上，y = -alpha * x + b，即一条斜率为负的直线</span>
-    <span class="n">ax2</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="mf">0.6</span><span class="p">,</span> <span class="mf">0.6</span><span class="p">,</span> <span class="s2">"近似一条直线</span><span class="se">\n</span><span class="s2">证明了幂律的存在"</span><span class="p">,</span> <span class="n">transform</span><span class="o">=</span><span class="n">ax2</span><span class="o">.</span><span class="n">transAxes</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">12</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'black'</span><span class="p">)</span>
-
-    <span class="nb">print</span><span class="p">(</span><span class="s2">"绘图完成。请观察弹出的窗口。"</span><span class="p">)</span>
-    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"最高财富: {np.max(wealth):.2f}"</span><span class="p">)</span>
-    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"前 1% 的人掌握了 {np.sum(np.sort(wealth)[-int(NUM_PEOPLE*0.01):]) / np.sum(wealth) * 100:.2f}% 的总财富"</span><span class="p">)</span>
-    
-    <span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
-
-<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
-    <span class="n">final_wealth</span> <span class="o">=</span> <span class="n">run_simulation</span><span class="p">()</span>
-    <span class="n">plot_results</span><span class="p">(</span><span class="n">final_wealth</span><span class="p">)</span>
-</code></pre>
-</div>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/20313934">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788410</guid><pubDate>Fri, 20 Mar 2026 18:40:22 GMT</pubDate></item><item><title>明史记载里面有帖木儿，鲁迷等国入贡，是不是说明欧洲中亚都是大明藩属国，大明算不算欧亚各国的宗主国？</title><link>http://daily.zhihu.com/story/9788396</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5a96af5eaf169810145ccbbc4c7f036b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 21 Mar 2026 01:28:06 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>生物的结构色可以从食物、疾病等途径获得吗？</title><link>http://daily.zhihu.com/story/9788451</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-74608ddbae1860e17ea998fcadb0c02b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -293,90 +19,43 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-96414e2a07dc6600785a8ddea20eadd9_l.jpg?source=8673f162">
-<span class="author">宁南左侯，</span><span class="bio">太极生二姨</span>
-<a href="https://www.zhihu.com/question/2010443855774908717/answer/2011861174849913409" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-039a297ea95822fbdcd67f6e410eba44_l.jpg?source=8673f162">
+<span class="author">广町七深Official，</span><span class="bio">若我生性如蜂，谨防我尾后针。</span>
+<a href="https://www.zhihu.com/question/2010101109621007086/answer/2010129917157844390" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这里存在一个前置条件——帖木儿、鲁迷以及其他中亚、西亚，还有离得近的东亚、东南亚诸国，他们是怎么知道中国变天了？他们怎么知道中国现在国家从大元变成了大明、皇帝姓朱、都城在哪儿呢？</p>
-<p>答案很简单——明朝主动派人过去告诉他们的。</p>
-<p>虽然这个问题充满了挑事的意味，但其实是个不错的问题，因为这涉及到一个很多人忽略的问题，那就是古代中国改朝换代之后如何昭告天下。</p>
-<p>先说个现代的。</p>
-<p>49 年 10 月 1 日中央人民政府成立，同日周总理以公函的形式发布《中华人民共和国中央人民政府公告》，也就是这个文件：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1a90a511f74d963023442803388511ed_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个文件其实很短，全部摘录下来不过几百字，主要内容有三部分，一是阐述旧政权的崩溃：自蒋介石国民党反动政府背叛祖国……幸赖我人民解放军……英勇作战……推翻国民政府的反动统治；二是介绍新政府的成立：现在人民解放战争业已取得基本的胜利……中国人民政治协商会议第一届全体会议制定了……选举了……组成中央人民政府委员会，宣告中华人民共和国的成立，并决定北京为中华人民共和国的首都；三是新政府的配置：互选林伯渠为秘书长，任命周恩来为总理兼外长，毛泽东为主席，朱德为总司令，沈钧儒为最高法院长，罗荣桓卫最高检检察长，责成从速组成各项政府机关，推进工作；四是向各国政府宣布：本政府为代表中华人民共和国全国人民的唯一合法政府，凡愿遵守平等、互利及互相尊重领土主权等项原则的任何外国政府，本政府均愿与之建立外交关系。</p>
-<p>注意，这个文件不仅是对内的，也是对外的，不仅给外国驻华使领馆传达，也在国内各地公示，比如下图这个收藏于中国国家博物馆的公告就是当时陕北翻印宣发的：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cd29f6cbda64e92f755a32f852591806_720w.jpg?source=8673f162" alt=""></figure>
-<p>基于当时已经有了电报等通信系统，所以 10 月 1 日建国，同日消息传达到国内外各地，第二天苏联说“苏维埃社会主义共和国联盟政府业已收到中华人民共和国中央人民政府本年十月一日公告”，然后宣布“苏联政府决定建立与中华人民共和国之间的外交关系，并互派大使”。这算苏联正式承认了新政府。</p>
-<p>接下来就是互相委派大使了，10 月 4 日，尼古拉·瓦西里耶维奇·罗申被苏联任命为首任驻新中国大使，携带苏联国书出发前来北京，10 日到京，16 日向毛主席递交国书。</p>
-<p>中国这边，10 月 20 日毛主席和周总理签署了国字第一号国书，任命王稼祥为驻苏联特命全权大使，然后王稼祥出发赴苏，在 11 月 3 日向苏联最高苏维埃主席团递交国书：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3156c729fd95ab5521aef7fc6f89e46_720w.jpg?source=8673f162" alt=""></figure>
-<p>再次重申，这是基于有现代通信，所以可以做到 10 月 1 日开国大典、2 日苏联承认、10 日苏联大使抵达北京、31 日中国大使抵达莫斯科。</p>
-<p>那么在古代，没有这种通信手段，这种昭告天下就得通过传统的传递和送达的方式进行了。</p>
-<p>巧了，明朝建立之后的这方面行动正好可以作为新中国外交开展的一个古今对照组：</p>
-<p>明朝开国大典是在吴二年的正月初四，也就是 1368 年 1 月 23 日，地点是在南京南郊，应该是现在南京的天坛村小区一带，“上祀天地于南郊，即皇帝位，定有天下之号曰‘大明’，建元‘洪武’”，在明朝的开国大典上，有一份“祝文”，也就是写给神灵、天地、祖先看的文件，内容的话其实和 49 年的《公告》有些解构类似，一是阐述旧政权的崩溃：宋运告终……（蒙古）今运亦终；二是介绍新政府的成立：臣帝赐英贤为臣之辅，遂戡定（各地群雄），诸臣下推尊帝号臣不敢辞；三是新政府的配置：定有天下之号曰大明，建元洪武。不一样的是，明朝是开国之后才宣布的政府官员任命。</p>
-<p>然后在第二天，也就是洪武元年的正月初五，“诏告天下”：</p>
-<blockquote>朕惟中国之君，自宋运既终，天命真人起于沙漠，入中国为天下主，传及子孙，百有余年，今运亦终，海内土疆，豪杰分争。朕本淮右庶民，荷上天眷顾祖宗之灵，遂乘逐鹿之秋，致英贤于左右，凡两淮、两浙、江东、江西、湖湘、汉沔、闽广、山东及西南诸部蛮夷，各处寇攘，屡命大将军与诸将校奋扬威武，已皆戡定，民安田里。今文武大臣百司众庶，合辞劝进，尊朕为皇帝，以主黔黎，勉徇舆情。于吴二年正月四日，告祭天地于钟山之阳，即皇帝位于南郊，定有天下之号曰‘大明’，以是年为洪武元年，追尊四代考妣为皇帝、皇后，建大社、大稷于京师，立妃马氏为皇后，长子标为皇太子。布告天下，咸使闻知。</blockquote>
-<p>这份诏书跟昨天的祝文相比大同小异，只不过接收方不同所以措辞不一样，但内容主旨也是上边说的那三方面。这份诏书应该也同时递送传达给了在各地征战的将领，但各省府州县应该还没传达，因为开国大典的时候各地知府知州知县来京参加了，他们是在正月最后一天才回去的，“天下来朝，府州县官陛辞”，所以类似于上图陕北地区的给各地百姓看的公告，应该是这些地方官回任的时候才带回去发布的。</p>
-<p>三千年前周虽旧邦，其命维新。</p>
-<p>三千年后周虽维新，其命旧邦。</p>
-<p>创新是割不走传统的。</p>
-<p>洪武元年十二月二十六，也就是明朝开国将近一整年之际，朱元璋遣符宝郎偰斯出使高丽，汉阳知府易济出使安南，《明太祖实录》上收录了这两位使臣携带的诏书内容：</p>
-<blockquote>壬辰，遣符宝郎偰斯<strong>奉玺书赐高丽国王王颛</strong>曰：“自有宋失御，天绝其祀，元非我类，入主中国百有余年，天厌其昏淫，亦用殒绝其命。华夷扰乱十有八年，当群雄初起时，朕为淮右布衣，暴兵忽至，误入其中，见其无成，忧惧弗宁。荷天地眷祐，授以文武，东渡江左，习养民之道十有四年。其间，西平汉主陈友谅、东缚吴王张士诚、南平闽越戡定八藩、北逐胡君肃清华夏，复我中国之旧疆。今年正月，臣民推戴即皇帝位，定有天下之号曰‘大明’，建元‘洪武’。惟四夷未报，故遣使报王知之。昔我中国之君，与高丽壤地相接，其王或臣或宾，盖慕中国之风，为安生灵而已。朕虽不德，不及我中国古先哲王使四夷怀之，然不可不使天下周知！余不多及。”<br>遣知府易济<strong>颁诏于安南</strong>，诏曰：“昔帝王之治天下，凡日月所照，无有远近，一视同仁。故中国尊安，四方得所，非有意于臣服之也。自元政失纲，天下兵争者十有七年，四方遐远，信好不通。朕肇基江左，扫群雄、定华夏，臣民推戴，已主中国，建国号曰大明，改元洪武。顷者克平元都，疆宇大同，已承正统，方与远迩相安于无事，以共享太平之福。惟尔四夷君长、酋帅等，遐远未闻，故兹诏示，想宜知悉。”</blockquote>
-<p>这两段诏书都不是什么诘屈聱牙的内容，所以大家可以逐字看一下，内容和即位时的祝文以及第二天的昭告天下基本一致，只是最后加了类似于《公告》向各国政府宣布的内容，有对外属性。</p>
-<p>现在有电报，所以可以在建国当天就同步给其他国家，但明朝没有，所以必须派使臣专程前往，对方如果想达成朝贡关系，也必须专程派人前来，因此时效性往往很差，三年五年都是正常的。</p>
-<p>有趣的是，同日去“外国”送达诏书的，还有一位去重庆的，这份文件是“遣使以书谕夏主明升”的，给大夏国，但很明显这并不是第一次给，因为按照《明氏实录》记载，开熙二年也就是洪武元年四月前，大明皇帝就已经“来告即位”了，为此明夏派平章邹敬还去南京贺了一下，此事在《明太祖实录》中没写，但在徐达攻占元大都之后再次派人去南京称贺这事记载了，叫“夏主明昇闻王师克元都，遣使来贺”，时间置于洪武元年十月。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6297b89574a2d473109e82cfbdf2ebda_720w.jpg?source=8673f162" alt=""></figure>
-<p>也正是因此，洪武元年十二月底这次派使臣去重庆给明夏的国书就不是跟高丽、安南那样通告明朝建立的，而是回书，所以开头第一句就是“今秋大将军平元都，远劳使者来贺”，感谢老铁在十月来捧场。</p>
-<p>洪武元年四月前就给四川的明夏政权发了即位建国的公告，但洪武元年十二月底才给高丽、安南，老朱在给高丽的国书里说是“惟四夷未报，故遣使报王知之”，应该是之前就没想着给他们发。</p>
-<p>而明夏也因此成为世界上第一个承认明朝的“外国”。</p>
-<p>明朝派人出使高丽这事在《高丽史》中能对照起来：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5338e2093a246b13a9aecd23fb97e8b6_720w.jpg?source=8673f162" alt=""></figure>
-<p>四月壬辰，大明皇帝遣符宝郞偰斯赐玺书及纱罗段匹总四十匹，王率百官出迎于崇仁门外。其书曰：</p>
-<blockquote>大明皇帝致书高丽国王：自有宋失驭，天绝其祀，元非我类，天命入主中国百有余年，天厌其昏淫，亦用陨绝其命，华夷扰乱十有八年，当群雄初起时，朕为淮右布衣，忽暴兵疾至，误入其中，见其无成，忧惧不宁，荷天之灵，授以文武，东渡江左，习养民之道十有四年，其间，西平汉主陈友谅，东缚吴王于姑苏，南平闽越勘定八蕃，北逐胡君肃清华夏，复我中国之旧疆。今年正月，臣民推戴，即皇帝位。定有天下之号曰大明，建元洪武。惟四夷未报，故修书遣使，涉海洋，入高丽，报王知之。昔我中国之君，与高丽壤地相接，其王或臣或宾，盖慕中国之风，为安生灵而已。天监其德，岂不永王，高丽也哉。朕虽德不及中国之先哲王，使四夷怀之，然不可不使天下周知。</blockquote>
-<p>把《明实录》记载的这段跟《高丽史》记载的这段放一块，会发现内容基本一致，只是某些话术不同，比如《高丽史》写的开头有句抬头叫“大明皇帝致书高丽国王”而《明实录》没有。</p>
-<p>出于同样的考虑，在洪武二年正月二十，朱元璋议定派出了更大规模的使臣，去报知更多的“四夷”——“遣使以即位诏谕日本、占城、爪哇、西洋诸国。”</p>
-<p>二月初四，占城国王阿答阿者“遣其臣虎都蛮贡虎、象、方物”，这是明朝第一次有四夷来贡，时间甚至在高丽、安南之前，而且是主动来的，朱元璋很高兴，为此甚至追回了本来的诏书，换了个新的，于是在这份新写成的给占城国王的玺书里加上了这个内容：“今年二月四日，虎都蛮奉虎、象至，王之诚意，朕已具悉然。<strong>虎都蛮未至，朕之使已在途矣，朕之遣使，正欲报王知之</strong>。”你的人还没到，我的人已经在路上了，我们俩乃是互相奔赴的全面战略伙伴关系啊！</p>
-<p>这次发出去的几份国书，内容跟去年给高丽和安南的大同小异：</p>
-<blockquote>占城：曩者，我中国为胡人窃据百年，遂使夷狄布满四方，废我中国之彝伦，朕是以起兵讨之，垂二十年。芟夷既平，朕主中国，天下方安，恐四夷未知，故遣使以报诸国。<br>爪哇：中国正统，胡人窃据，百有余年，纲常既隳，冠履倒置。朕是以起兵讨之，垂二十年，海内悉定。朕奉天命，已主中国，恐遐迩未闻，故专使报王知之，使者已行。<br>日本：上帝好生恶不仁者。向者，我中国自赵宋失驭，北夷入而据之，播胡俗以腥膻中土，华风不竞，凡百有心，孰不兴愤？自辛卯以来，中原扰扰，彼倭来寇山东，不过乘胡元之衰耳。朕本中国之旧家，耻前王之辱，兴师振旅，扫荡胡番，宵衣旰食，垂二十年。自去岁以来，殄绝北夷，以主中国，惟四夷未报间者，山东来奏倭兵数寇海边，生离人妻子，损伤物命。故修书特报正统之事，兼谕倭兵越海之由。</blockquote>
-<p>总结起来基本就是一个事：窃据中国的蒙元已经完了，我是新的中国之君，怕你们不知道，专门派人告诉你们一声。</p>
-<p>六月初十，安南使臣到了，贡方物、请封爵。</p>
-<p>壬午，安南国王陈日煃遣其少中大夫同时敏、正大夫叚悌、黎安世等来朝贡方物，因请封爵。</p>
-<p>老朱很高兴，遣翰林侍读学士张以宁、典簿牛谅往使其国，封日煃为安南国王，赐以驼纽涂金银印。这次的待遇跟去年年底去安南报信的不一样，上次是通知，这次是正式册封确立宗藩关系，所以携带的东西以及诏书内容都不一样：</p>
-<blockquote>诏曰：咨尔安南国王陈日煃，惟乃祖父，昔守境于南陲，传之子孙，常称藩于中国，克恭臣职，以永世封。朕荷天地之灵，肃清华夏，顷驰书而往报，冀率土以咸宁。卿能奉表称臣，专使来贺，法尔前人之训，以安遐壤之民，眷兹勤意，深可嘉尚。是用遣使赍印，仍封尔为安南王。於戏！视广同仁，思效哲王之盛典；爵超五等，俾承奕叶之遗芳。益茂令猷，永为藩辅。</blockquote>
-<p>这种格式的文书是中国历史上的标准册文，金国当年册封伪齐刘豫也是如此：咨尔中奉大夫，京东、西、淮南等路安抚使兼诸路马步军都总管东平府事，节制大名、开、德等府，濮、博、滨、棣、德、沧等州刘豫……是用遣使……备礼以玺绶宝册，命尔为皇帝，国号大齐，都大名府……惟天难谌，惟命靡常，常厥德，保厥位。尔其勉哉！无忽朕命。</p>
-<p>同样的国书，传谕和册封是不一样的，用词不同，格式也不同。前者曰“诏”，后者曰“诰”，诏书一般是说明情况，而诰命则是仿照尚书以及青铜器金文画风，这俩的区别在于，前者你如果不想搭理的话可以不管，而后者不是随便就给的，必须是你表示臣服了才会给，而且给了你之后你还得再派人过去表示一下感谢。</p>
-<p>八月初二，观望了八个月之久的高丽也来了，奉表贺即位，贡方物、请封爵。八月十四，朱元璋遣符宝郎偰斯赍诏及金印、诰文往高丽封王颛为国王，这次带了一封诏书一封诰命，载于《明太祖实录》卷四十四，限于篇幅我这儿就不粘贴占地方了。</p>
-<p>九月十五，高丽国王王颛遣其总部尚书成惟得、千牛卫大将军金甲雨上表贡方物，<strong>谢恩</strong>。此事占城也来请封了，所以又派了中书省管勾甘桓、会同馆副使路景贤前往册封。</p>
-<p>事就这样成了。</p>
-<p>那说不对啊，怎么安南就没来谢恩呢？</p>
-<p>因为安南国王死了，去册封安南的使臣直接停在广西不走了，所以等洪武三年四月又派出吏部主事林唐臣前往册封新王，然后六月十四“安南国王陈日熞遣……等来上表<strong>谢恩</strong>”。</p>
-<p>其实这种册封才标志着成为正式藩属国，因为经过这个环节之后，明朝再有什么事就会同步一份。比如洪武三年四月份的时候为了开科举“诏设科取士”，同时“遣使颁科举诏于高丽、安南、占城”。而在这年顺帝败死，买的里八剌被俘，王保保单骑逃脱，明朝二次北伐取得了决定性成果之后，朱元璋颁《平定沙漠诏》于天下，同时“遣使赍诏，谕安南、高丽、占城”，反而没去给在四川的大夏皇帝明昇送信，也是基于此。</p>
-<p>这里头的政治意味就是，接受了明朝正式册封的安南、高丽、占城就此成为了明朝政治格局中的一部分。</p>
-<p>洪武三年的二次北伐胜利也标志着明朝正式站稳了脚跟，只要不出额外的幺蛾子，基本不可能被北元反推了。军事和政治上的双重胜利无疑让朱元璋的信心大增，也让明朝再次扩大了宣传诏谕的范围。六月二十，朱元璋遣使持诏谕云南、八番、西域、西洋、琐里、爪哇、畏吾儿等国，八月庚申，遣通事舍人巩哥锁南等往西域招谕吐蕃，辛酉遣吕宗俊等招谕暹罗国，戊寅遣使持诏往谕三佛齐、浡泥、真腊等国。</p>
-<p>外部同样给出了对此事的正向反馈，海外各国开始派人前来进贡（注意，不是请封），西、北方向的原蒙元总是、贵族和地方豪强开始规模化投奔明朝，明朝将其册封为卫所军职（比如高昌卫、岐山卫、武靖卫）。</p>
-<p>其后的明朝大抵延续了这种朝贡和册封体系，而且册封要比朝贡更高一级，这俩并不是平级的，册封一定有朝贡，但朝贡则不一定册封，比如洪武五年就遣使诏谕琉球了，但直到洪武十六年才正式册封琉球。</p>
-<p>所以，册封诰命 + 赐以印绶才应该算是藩属国的标志，而不是朝贡。因为有这两个标志的外交关系在的话，这些国家的统治者死了之后，继任新王会前往明朝报信并寻求册封，然后明朝再专门派人前往册封新王，这样就形成了一种政治任命的仪式，而简单的朝贡国则没有这个环节。</p>
-<p>也正是因此，明朝的朝贡范围要大得多，但册封范围就没那么夸张了，比如吕宋，吕宋虽然离着中国很近，而且洪武五年正月就遣使来贡，但明朝从未册封过吕宋，因此说吕宋是明朝的藩属国我觉得就很牵强了。</p>
-<p>永乐即位之后无疑是再度重启了他父亲建国初年的宣谕事业，包括郑和下西洋以及开设奴儿干都司的各个卫所，也是这种政治工程的一部分。永乐时期的朝贡和册封区别开始出现了一定的模糊，因为册封有些泛滥了，甚至凡贡必封，连苏门答剌和满剌加都有印诰，而且海外封臣和“中国”疆域的界线也出现了模糊，比如朱棣还亲自撰文册封浡泥等地方的山川，并将其纳入镇山体系中。因此，永乐时期的政治外交格局和洪武时期以及宣宗之后是大为不同的，讨论明朝的藩属范围不应该以永乐时期为标杆，而应以洪武和宣德以后。</p>
-<p>那么，帖木儿和鲁迷等中亚、西亚外交层级又是怎样的呢？</p>
-<p>很明确，明朝跟撒马尔罕就是普通的朝贡层级，虽然有遣使前往，但是从未有赐以印绶的环节，即使是在永乐时期都没有过册封某某国王以及赐以镀金或者金印，双方保持的是朝贡的关系，因此也不能说欧洲中亚都是大明藩属国，大明也不算欧亚各国的宗主国，关系达不到那种程度，如果对应现代外交关系，这种朝贡关系应该类似于双方建交，可以以国家身份互通有无相互贸易，但并不存在宗藩关系，毕竟宗藩关系放今天差不多得是格陵兰（丹）、波多黎各（美）、留尼旺（法）、托克劳（新）、安圭拉（英）这种，</p>
-<p>而且，如果把永乐时期排除在外的话，册封诰命 + 赐以印绶=藩属的说法是比较合理的，就像最大的 bug 存在，日本，也可以自圆其说。</p>
-<p>很多人都觉得，把日本算作明朝的藩属国有点儿过于抽象，明朝虽然在洪武时期多次往日本派过使臣，日本也差不多每次进贡都没落下，但从未“请封”过，所以明朝也就没有册封过。但是在洪武之后，日本还真就请封了，明朝也真前往册封日本了，而且还是建文帝封的（这要是以后日本也团结的话，课本上高低也得多写建文一笔），永乐元年十月明朝又“往赐日本国王冠服、锦绮纱罗及龟纽金印”，还“封其国之山曰‘寿安镇国之山’”，足利义满（源道义）回书也是自称“日本国王臣源义满”，永乐六年足利义满死了之后明朝还派太监周全前往祭并赐谥“恭献”，又册封源义持（足利义持）嗣日本国王，而日本现在也承认这三次的册封，足以见这种册封并非如当下简中互联网所说的一厢情愿。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7858e8cbb7af7ee0b7f94826a0c3031b_720w.jpg?source=8673f162" alt=""></figure>
-<p>因此，用请封、册封、赍印三联一套作为藩属国的标志的话，明朝的藩属国就是朝鲜、琉球、安南这仨，以及嘉靖之前的占城、暹罗，成化之前的真腊，还有永乐时期包括日本的那一堆，虽然即使这样听上去也有点儿招笑，但较之于朝贡就等于藩属，已是合理很多了。</p>
+<p>能的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-53e8f677fed89c645ed90f11b342978f_720w.jpg?source=8673f162" alt=""><figcaption>图源 iNaturalist</figcaption></figure>
+<p>看看这只美丽的蓝色球鼠妇。众所周知，真正能产生蓝色的色素在自然界并不常见，因此绝大部分的蓝色动物都拥有结构色，这只鼠妇也不例外。但是，一只生活在阴暗落叶层中的甲壳动物为什么要呈现出如此绚丽的颜色呢？实际上，这蓝色并不是它“自愿”产生的。</p>
+<p>它感染了一种病毒，等足目虹彩病毒 Invertebrate iridescent virus 31，简称 IIV-31，有时也称为<em><span class="nolink">Iridovirus armadillidium-i</span></em>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7ba9e7854c8d0f89e89f70692593f3f8_720w.jpg?source=8673f162" alt=""><figcaption>图源网络</figcaption></figure>
+<p>这种病毒是一种大型双链 DNA 病毒，与疱疹病毒、猪瘟病毒等类似。受感染个体的尸体、排泄物、体液等被健康个体摄入都会导致感染，病毒会通过消化道来到血腔内部。由于节肢动物缺乏封闭的循环系统，病毒可以较为容易地扩散，它们的目标主要是脂肪组织。</p>
+<p>病毒衣壳表面的蛋白与细胞膜受体结合，进而通过胞吞进入细胞内部。它将遗传物质送入细胞核进行转录、复制，同时在细胞质内诱导形成“病毒工厂，”在这个生物膜结构内完成衣壳的组装、关键蛋白质的插入和遗传物质的包装。</p>
+<p>当复制进入晚期时，成千上万病毒颗粒聚集在细胞质内的工厂中。由于虹彩病毒颗粒较大，它们会很快达到近密堆积状态，同时它们的二十面体外形使其可以在细胞中形成高度规则、周期性的排列。有趣的光学反应在此时发生。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-59e5b45125b465c9fd03b2538ecfc7b1_720w.jpg?source=8673f162" alt=""><figcaption>虹彩病毒在细胞内极其有序的排列。图源网络</figcaption></figure>
+<p>我们首先要了解一个光学概念：布拉格反射，也就是“当电磁波（通常是光）入射到周期性结构时，在特定角度和特定波长上产生强烈的相干增强反射现象。”其表达公式为：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=2dsin%CE%B8%3Dn%CE%BB" alt=""></p>
+<p>，也就是根据周期性结构的间距（d）和观察角度（准确来说是结构表面与光线间的角度，θ），会产生特定的颜色（波长，λ ）的结构色。n 是衍射级数，自然条件下通常取 1。多种生物的结构色都与其有关，例如闪蝶的鳞片、孔雀的羽毛。</p>
+<p>虹彩病毒的颗粒直径约为 150-180nm，在细胞中堆积时的结构间距约为 200–240nm。根据生物组织折射率（1.35–1.45 左右，需要乘在公式左边）、观察角度的不同，可以推测出观测产生的结构色的波长约为 350-450nm，呈现蓝紫色。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-31a50215beed2ca02bb5135616077fe8_720w.jpg?source=8673f162" alt=""><figcaption>这只鼠妇更接近紫色，寄主本身的光学性质也会影响最终成色。图源 iNaturalist</figcaption></figure>
+<p>虹彩病毒感染程度越高、在细胞内浓度越大，产生的颜色也就越明显。因此，产生鲜艳蓝紫色的寄主通常都是病入膏肓者。寄主的身体会在病毒的摧残下逐渐衰竭，最终留下一具蓝紫色的尸体。</p>
+<p>与等足目虹彩病毒同属的还有 6 型无脊椎动物虹彩病毒，Invertebrate iridescent virus 6，简称 IIV-6，学名<em>Iridovirus chilo1</em>，它能够以类似的方式感染超过七个目的昆虫，并在它们身上形成相似的结构色。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c7e835d4bb0661c2a57670c32bec4e53_720w.jpg?source=8673f162" alt=""><figcaption>被感染的白蚁，图源 iNaturalist</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1202a855131342e448827634e14950cf_720w.jpg?source=8673f162" alt=""><figcaption> 埃及伊蚊 Aedes aegypti 幼虫，图源网络</figcaption></figure>
+<p>在它所属的<span class="nolink">Betairidovirina</span>e 亚科下，还有几个其他的属攻击无脊椎动物，例如主要感染双翅目幼虫的<em><span class="nolink">Chloriridovirus</span>，</em>由于它们的病毒颗粒较大，因此会呈现黄绿色结构色。以及<em><span class="nolink">Daphniairidovirus</span></em>和<em><span class="nolink">Decapodiridovirus</span>，</em>感染多种甲壳动物，有时会形成类似的蓝紫色结构色。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5b4a6a2c5906ae2661ee2ee1847834d2_720w.jpg?source=8673f162" alt=""><figcaption>一只被感染的镖水蚤，感染桡足类的虹彩病毒似乎倾向于使附肢呈现结构色。图源 iNaturalist</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2010443855774908717">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2010101109621007086">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788396</guid><pubDate>Fri, 20 Mar 2026 18:40:23 GMT</pubDate></item><item><title>从山上采的蘑菇，蘑菇根上的泥弄下来之后，再拿回山上，第二天能出蘑菇吗？</title><link>http://daily.zhihu.com/story/9788400</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d1fea2ad5a2d2f43c7eef982597b7868.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788451</guid><pubDate>Sat, 21 Mar 2026 01:28:03 GMT</pubDate></item><item><title>现代中国有能力建造万神殿、欧洲教堂那样的大穹顶建筑吗？</title><link>http://daily.zhihu.com/story/9788411</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6069c600dc384364f0dd429703aba76a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -396,119 +75,42 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-b0a3e4598a57de66b24ee18009c38974_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">也许，我们需要的不是答案</span>
-<a href="https://www.zhihu.com/question/336033926/answer/1905685610091484453" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-5dce0048daa0e6a8b994e11378ec1d82_l.jpg?source=8673f162">
+<span class="author">冯海峰，</span><span class="bio">以史为鉴全球化、经济史、科技史视野助力理解企业信息化</span>
+<a href="https://www.zhihu.com/question/2011456905860626047/answer/2011480914404864772" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>说起蘑菇....这可能是这世界最拧巴的生物。</p>
-<p>注意啦，</p>
-<p>这个拧巴不是形容词，而是叙述词。</p>
-<p>没错，</p>
-<p>我<strong>们吃的每一棵蘑菇其实都不是一个独立的个体。</strong></p>
-<p><strong>而是由众多菌丝体拧巴出来的。</strong></p>
-<hr>
-<p>蘑菇主要由两部分组成。</p>
-<p>能吃的部分叫子实体，主要用于生殖，</p>
-<p><strong>你理解成这是蘑菇的大根好像也没毛病。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-017a189b17ba8ce6c8768f68310b9b2f_720w.jpg?source=8673f162" alt=""></figure>
-<p>而第二部分才是蘑菇的本体——菌丝体。</p>
-<p>是无数根非常细长的菌丝构成，属于真菌。</p>
-<p><strong>要说这个真菌吧，真不复杂，</strong></p>
-<p><strong>正经分也就两种，</strong></p>
-<p>一种是特别小的单细胞真菌，比如酵母菌，平时在微生物界嘎嘎乱杀。</p>
-<p>另一种是奇形怪状的多细胞真菌，就是丝状真菌，比如霉菌。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ec381fba3bd7bf6ab1a354bcb8eefe5b_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>蘑菇就属于丝状真菌，</strong></p>
-<p><strong>这丝状真菌也有两种，</strong></p>
-<p>跟管子似得上下通畅的，叫无隔菌丝。</p>
-<p>中间有隔膜的叫有隔菌丝，</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d117344490e1cb6e44fba986c4f027e8_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>甭管有隔无隔，结构方面都差不多，</strong></p>
-<p>负责吸收水分和养分的基内菌丝（Substrate Mycelium），</p>
-<p>负责在空气里露脸的气生菌丝（Aerial Mycelium），</p>
-<p>还有负责生娃的产孢结构。</p>
-<p>再没了，简单吧？不光简单，还小，单个菌丝结构需要显微镜才能观察。</p>
-<p>本来菌丝们凑在一起只是为了排除异己抱团取暖，</p>
-<p>形成了肉眼可见的菌落。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd609a584fcd2f27540ec996fbc7ed8c_720w.jpg?source=8673f162" alt=""></figure>
-<p>偏偏以担子菌门（Basidiomycota）和子囊菌门（Ascomycota）这两大派别为代表的菌类特别有想法，再穷不能穷教育，再苦不能苦孢子，为了下一代，我们众筹个超级大根吧！！！</p>
-<p>于是以单个菌丝为代表的初级菌丝们通过细胞质的融合形成锁状联合（clamp connection），最后组合成双核状态，这被称为次生菌丝。</p>
-<p>听着挺复杂其实就是长一起了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-691853fa390a73aefd30e520ada2af3d_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后次生菌丝又通过高度组织化融合产生了三生菌丝，</p>
-<p>最终聚合成一个小啾啾似的原基。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-23be0cbf57c459b8347653b35afca358_720w.jpg?source=8673f162" alt=""><figcaption>蘑菇的原基</figcaption></figure>
-<p>再之后时机成熟，</p>
-<p>啵的一声，蘑菇出现了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-51db0bfee8119fe90e035064ca24de6b_720w.gif?source=8673f162" alt=""></figure>
-<p>看着好像挺简单是吧？</p>
-<p>不不不，从三生菌丝开始就已经朝着奇幻生物的方向发展了。</p>
-<p>我们观察下蘑菇的结构，</p>
-<p>除了从形态上能分出菌盖，菌柄，菌褶这三大主要结构，</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-168cc0c9165a3dbbf4748cf07d775ad6_720w.jpg?source=8673f162" alt=""></figure>
-<p>部分菌类还整出了菌环，菌托等辅助结构，</p>
-<p>另外还有鳞片，条纹等众多其他结构。</p>
-<p>功能上除了主要的繁殖结构，还分化出了支撑结构、营养储存、防御机制、环境适应等功能。</p>
-<p>除了这些基础功能，还衍伸出一大堆奇怪功能。</p>
-<p>比如荧光小菇（<em>Mycena chlorophos</em>）可以在黑暗里发光。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-11c673be2c4c8014d04c5c2dbb0fc656_720w.jpg?source=8673f162" alt=""></figure>
-<p>比如小美牛肝菌（Boletus speciosus）误食后会看到小人。</p>
-<p>比如草菇（<em>Volvariella volvacea</em>）喜欢高温，在 13~14℃以下容易自溶。</p>
-<p>比如血齿菌（Hydnellum peckii）菌盖能渗出鲜红色液体，用于防御昆虫啃食。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b3c4a965a83f9e40b7b3d739ac4a74f_720w.jpg?source=8673f162" alt=""></figure>
-<p>狗蛇头菌（Mutinus caninus）会散发腐肉气味，吸引苍蝇传播孢子</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dbcf487d459dc202a886ca1407576150_720w.jpg?source=8673f162" alt=""><figcaption>这玩意长得真有点一言难尽</figcaption></figure>
-<p>恶魔雪茄（Chorioactis geaster）菌体裂开时形如雪茄爆炸成星形，</p>
-<p>释放孢子时还能发出口哨声</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d71617026a73c56b3bb825006bb89fb8_720w.jpg?source=8673f162" alt=""></figure>
-<p>等等，</p>
-<p>我记得之前说这玩意是由一堆独立的菌丝组成的，</p>
-<p>既没图纸也没规划，甚至还没脑子，这些奇幻的玩意就攒出来了？</p>
-<p>实际上，蘑菇不光长得千奇百怪，种类也非常多。</p>
-<p>世界上大型真菌预估有 50000 种，</p>
-<p>中国已记录的蘑菇种类约<strong>4000 种</strong>，包括食用菌 1000 余种、毒蘑菇 435 种。<sup>[1]</sup></p>
-<p>食用菌单按长相就可分出 7 大类，约 30 种典型形态。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-39504bcad4b3d8795e2a0dd0768fba5c_720w.jpg?source=8673f162" alt=""></figure>
-<p>更有意思的是很多蘑菇都会有点奇怪的小脾气。</p>
-<p>比如松茸（<em>Tricholoma matsutake</em>）依赖与赤松的菌根共生，</p>
-<p>鸡枞菌（<em>Termitomyces albuminosus）只喜欢和白蚁贴贴，</em></p>
-<p><em>至今人工培育都很困难。</em></p>
-<p><em>就算是普通蘑菇，也或多或少有点抖 M</em></p>
-<p>在日本江户时期，</p>
-<p>就有一本叫《惊蕈录》的吓唬蘑菇指南，</p>
-<p>就是通过敲打木头来使得蘑菇增产。</p>
-<p>这是由于捶打木头产生的震动会刺激菌丝扭结，让原来懒散的菌丝团冒出蘑菇。</p>
-<p>而自然条件下，打雷也能促进蘑菇生长，</p>
-<p>在明代的《通雅》里就有提到：</p>
-<blockquote>平西有断椿、榆、构，斧其皮，久雨烂之, 以米潘沃之，雷则出覃矣。不雷则大斧击之而覃亦出。</blockquote>
-<p>大概意思就是烂木头把皮去掉，平时用淘米水浇，打雷后就会长出蘑菇，不打雷的话用斧头敲一顿也能长。</p>
-<p>所以说雷雨天气后蘑菇更多，这是有科学依据的。</p>
-<p><strong>那既然已经了解蘑菇了，咱回归下原问题：</strong></p>
-<p>蘑菇根上的泥再送回山上，第二天会不会长蘑菇？</p>
-<p>答案很明显，不会。</p>
-<p>但是环境适宜的话过一段时间还是会重新长出蘑菇。</p>
-<hr>
-<p>那会长出公蘑菇还是母蘑菇呢？</p>
-<p>咱先看母蘑菇，</p>
-<p>比如竹荪能长出非常漂亮的白色渔网袜。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d4b5a1a4333f9b30e3e22e1030ecd15e_720w.gif?source=8673f162" alt=""></figure>
-<p>而长得像竹荪的白鬼笔（Phallus impudicus）就更了不得了。</p>
-<p>直接整出一个形神兼备的大根。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7030bc3f424004cf8656d18f1c28b542_720w.jpg?source=8673f162" alt=""></figure>
-<p>谁家正经蘑菇长成这样啊！！！！！！</p>
+<p>现代？瞧不起谁呢。用现代基建狂魔的能力那是欺负你。近代吧。</p>
+<p>广州圣心大教堂，1863 年奠基，教堂墙体刻有“Jerusalem 1863”与“Roma 1863”，下埋耶路撒冷圣母墓石及罗马泥土 1 公斤，象征基督教"东方起源、西方兴盛"。历经 25 年建成。是全球四座全石结构哥特式教堂建筑之一。</p>
+<p>注意是全球，而且建成时是全石，无钢梁，无钢筋，无木梁。门窗框，尖拱，肋拱飞扶壁，全是花岗岩！不是还有其它石灰石、火山岩的。（近年维修时，在局部使用了混凝土）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-87a1d301510edacaf79667093ff95a0e_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：小红书 遁走的两轮</figcaption></figure>
+<p>石室圣心教堂其实是 19 世纪的复兴哥特主义(neo gothic)。</p>
+<p>形制上东西走向的中殿（Nave）及唱诗席（Choir）和南北走向的耳堂（Transept）恰好构成十字，也是教堂的主体。是非常成熟的哥特风格建筑。</p>
+<p>技术上完全延续是 13 世纪的逻辑。最早追溯到 1260 年竣工第一个具备哥特三要素(尖拱，肋拱，飞扶壁）的巴黎圣母院，在工业革命后，用科学的力学和工程学，把哥特式教堂施工技术体系化。</p>
+<p>不过中国当地的温湿度环境、石材特性和欧洲不同，不能直接照搬，需要本地消化。法国设计师直接把施工指挥权交给了中国蔡孝团队。巴黎圣母院火灾后按原有结构修复顶棚时用了大量木拱、木架。广东地区木架容易损坏。蔡孝团队仔细消化法国设计师给的图纸后，摒弃木材，全部采用国产石材。通过极高的花岗岩切削精度，最大限度减少石材接缝处施工时的扭曲错位和应力不均匀；借鉴中国传统土石施工技术，使用“糯米桐油浆”，粘结力，柔韧性，防水性更强，花岗岩连接成一个更具完整性的稳定结构。</p>
+<p>最终建成的教堂是西方结构几何学和中国南方硬质石材加工智慧的完美结合，整体体量放在欧洲也能进百强。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ca8e77f40ad51355eb746770602b289_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3ab100f50edbeb1d25c921cadce60b2a_720w.jpg?source=8673f162" alt=""></figure>
+<p>现在这个教堂是全国文保建筑，而且是网红景点。有兴趣，大家可以上午进教堂抢拍阳光透过花窗在教堂内的氛围。</p>
+<p>补充说明：</p>
+<p>评论区有几个提到对穹顶的质疑。提问中万神殿和欧洲教堂是并列。我也没说圣心教堂是万神殿那种比较原始的穹顶呀。欧洲其它教堂，圣索菲亚大教堂、巴黎圣母院也基本不用这种穹顶。既然有其它欧洲教堂的选项，那我就根据国内现实情况介绍其它现实存在的类型呗。</p>
+<p>包括知乎上相关讨论，类似言必称希腊，提到欧洲古建筑的拱形应用和对比中国结构建造能力，必提到万神殿。事实上，万神殿 - 初级穹顶；巴黎圣母院和圣心是哥特尖拱 + 肋架拱顶 + 飞扶壁。本质上都是拱形大跨度结构，但从技术上后者是基于前者原理发展来的，比原始堆料先进得多。尖拱建造更体现对材料和技术的掌握。更轻盈更，更美观。炫技的东西都能做，万神殿这种因为经典而被研究透了的原始拱当然也能做。</p>
+<p>现代钢筋混凝土和近代钢铁冶炼、铸铁技术发明后，包括欧洲在内，国内外基本都不古法造各种大跨度空间体了。因为造价和建造时间不合算，不是现代技术退步了。如果甲方非要古法建造，只要款到位，类似巴黎圣母院火灾后必须用当时的中世纪技术造，欧洲和中国基建狂魔都没问题。所以问现在中国能不能不用钢筋做，为什么不带上欧洲不用钢筋能不能做呢？</p>
+<p>而日常，因为中国没有欧洲宗教的历史包袱，没必要特地用古法专门建造一个旧时代技术的建筑。毕竟建筑是解决人在建筑内外活动的实际需要，而不是有钱没处花的炫技。现实中，中国现有好多仿欧建筑，无论是近代历史原因还是现代旅游的原因，各种历史阶段技术特点的拱形跨度空间都有，只要能体现这种结构又经济就行了。谈技术就谈技术，别暗戳戳的。</p>
+<p>现有万神殿也是塌了后再建的特例，而且相近时代的卡拉卡拉浴场，热水浴大厅这个跨度 35 米比万神殿 43 米小的古罗马第二大穹顶不是塌了至今也没恢复吗？欧洲人有技术为什么不恢复呢？</p>
+<p>再较真，款到位了吗？有地、款到位不垫资，就现在国内建筑业大批等活的人的情况。你说用啥技术就用啥。包甲方爸爸满意。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/336033926">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2011456905860626047">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788400</guid><pubDate>Fri, 20 Mar 2026 18:40:24 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788407</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-50f6687ecccf1bc53dcbf85091882f22.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788411</guid><pubDate>Sat, 21 Mar 2026 01:28:04 GMT</pubDate></item><item><title>为什么凯撒一直在处于原始部落形态的高卢人和部分日耳曼人头上虐菜刷战绩就能被吹上天?</title><link>http://daily.zhihu.com/story/9788416</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-059208b1b4554981229955204470297f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -523,54 +125,154 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 如果必须二选一的话，你愿意和一只 1 米 8 高的蟑螂还是 180 只蟑螂共同生活？</h2>
+<h2 class="question-title"></h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-1b2889cd21a77789194e961efc7f6f09_l.jpg?source=8673f162">
+<span class="author">ag獭，</span><span class="bio">好奇而无用的獭獭</span>
+<a href="https://www.zhihu.com/question/2010064118816723490/answer/2010485880507344707" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1985325455088301712/answer/1986489092062601409" target="_blank">如果必须二选一的话，你愿意和一只 1 米 8 高的蟑螂还是 180 只蟑螂共同生活？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/581c92798e5204b1814bdc3d1e63420a" target="_blank">@枝野梧芽</a>：选 1 米 8 蟑螂。</div>
-它若真实存在，就是颠覆生物学的活体奇迹，够发十篇 nature 、 science 。 180 只普通蟑螂？那是什么？</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/643849949/answer/1987122719427409839" target="_blank">有没有一张照片可以证明你的猫此刻很幸福？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1bbbb1eea29c5490df10d9d143f651c0" target="_blank">@老猫</a>：春节回家的搭子。</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-7dea46c145bd1f57eabf72790e936718_1440w.jpg" alt="" width="1440"></div>
-<figcaption></figcaption></figure>
-<blockquote>地暖温度有点高，毛孩子趴衣柜上看我化妆。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-ef155952062bf3faf492b473a583d396_1440w.jpg" alt="" width="1440"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/581444649/answer/1988954673831494548" target="_blank"> 能否人工挖一个贝加尔湖?</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f64cce76d32829daea6ffd9739924b99" target="_blank">@Casscell</a></div>
- ：听说四川以后就成这样了？</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-a2e387741b4f4325e3c1ea451cef91d8_1440w.jpg" alt="" width="942"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/278294552/answer/3513056903" target="_blank">有哪个瞬间让你觉得这个世界出 bug 了？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c94424fb537e244a3f1ec1a7c6e09258" target="_blank">@温忘之</a>：蒸米饭的时候，水要距离米一个手指节高。</div>
-别管多少米。<br>别管多少水。<br>也别管手指头多长。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/286733591/answer/3339841261" target="_blank">有哪些非常冷门的冷知识？ </a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/5a839033763c8bd0e8c42832c88e690d" target="_blank">@棠风</a>：咖啡不小心倒在身上，比喝下去更提神。</div>
-</blockquote>
-<p><br class="Apple-interchange-newline"><br class="Apple-interchange-newline"></p>
+<p>处于“原始状态”的凯尔特人和日耳曼人，当时总人口已经多达数百万甚至近千万。其中比较大的部落联盟，人口可能不比“强大的”匈奴少多少。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5bbb2df0a25d9aee2a42b07b8ab2dabb_720w.jpg?source=8673f162" alt=""><figcaption>铁器时代晚期欧洲主要的 Oppidum 设防聚落</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-10e34a3c6df8f3d2a07bdfed84e98305_720w.jpg?source=8673f162" alt=""><figcaption>对凯尔特人设防聚落的复原</figcaption></figure>
+<p>罗马征服前夕，凯尔特人和日耳曼人已经在欧洲各地修建了成百上千座设防聚落 Oppidum。其中较大的 Oppidum 可以容纳数万人口，已经称得上是个大城市了。比如位于今比利时境内的 Avaricum，在罗马征服前约有 4 万人口。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-36a9d8ba7e119496e7fc19c2917965af_720w.jpg?source=8673f162" alt=""><figcaption>重建的 Heidengraben 防御墙</figcaption></figure>
+<p>当时由“欧洲蛮族”建造的最大设防聚落，可能是德国南部的 Heidengraben。这座要塞占地面积超过 1700 公顷，相当于 23 个多故宫。由石块、木材和泥土建造的防御墙以及护城河保护，设有 8 座城门，其中最大的一个城门拥有长达 35 米的入口。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-16bfb02954490b6b2cfab570436e6268_720w.jpg?source=8673f162" alt=""><figcaption>比勃拉克特城墙</figcaption></figure>
+<p>这一时期比较有代表性的设防聚落还有比勃拉克特（Bibracte），位于今法国中部，是埃杜伊人的权力中心。埃杜伊是当时规模最大的高卢部落联盟之一，控制着高卢地理中心的大片土地，拥有数十万人口和多个设防聚落 Oppidum。作为权力中心，比勃拉克特拥有超过 3 万居民，由两道石墙保护，设有大约 15 座城门。其中最重要的雷布特门宽 20 米，深 40 米，是城市的主要入口。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-004a5b1d8bfc8d5d0b27b4ba7b776063_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b0dc84ac87d195cb3ded19844b383abf_720w.jpg?source=8673f162" alt=""></figure>
+<p>而处于“原始状态”的埃杜伊人，当时已经能够制造钱币，拥有发达的商业和制造业。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9ca602fa57c87278569e192983bd9c93_720w.jpg?source=8673f162" alt=""><figcaption>塞广尼人的钱币，早期钱币可以看到明显的希腊影响</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-856c9c83eafb463c1d35b6871ee5e46f_720w.jpg?source=8673f162" alt=""><figcaption>比较晚期的帕里西人的钱币，上面的图案已经变得比较抽象了</figcaption></figure>
+<p>埃杜伊并不是唯一铸造钱币的高卢部落联盟，早在公元前 4 世纪，受希腊影响，凯尔特人就开始铸造钱币，上面的图案包括骑马冲锋陷阵的战士、车轮、雷霆闪电、太阳和月亮等。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-91b5e08f79d9c14c39e55b42b810cf44_720w.jpg?source=8673f162" alt=""><figcaption>高卢人的历法石碑</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5c5292ac352963d8f3e0ec417928f267_720w.jpg?source=8673f162" alt=""><figcaption>刻有高卢文字的陶盘</figcaption></figure>
+<p>受邻近的希腊、罗马等文明影响，当时许多凯尔特部落已经能够使用文字。这些文字大多由希腊字母演化而来，也有受古意大利字母影响的版本。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-97961acf68bc5a3324b8f3534e40b889_720w.jpg?source=8673f162" alt=""><figcaption>古罗马时期的雕像，描绘了身穿锁子甲的凯尔特武士形象</figcaption></figure>
+<p>生产技术方面，古代欧洲流行千年的锁子甲，最早就是由凯尔特人发明的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bb80b230ac7c037fd25ec5bf9abc2e50_720w.jpg?source=8673f162" alt=""><figcaption>凯尔特人的青铜植物纹样装饰品</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-92170e92dd6349b62736b41fc62c3426_720w.jpg?source=8673f162" alt=""><figcaption>英国出土的凯尔特盾牌，距今约 2350—2050 年</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f9ffb65bc26415d2f563e90a15ba81f_720w.jpg?source=8673f162" alt=""><figcaption>法国出土的凯尔特仪式头盔，距今约 2350 年</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0b7ba780cee4469f846fd93c524675c4_720w.jpg?source=8673f162" alt=""><figcaption>公元前后的不列颠凯尔特青铜镜，展示了凯尔特风格的螺旋装饰图案</figcaption></figure>
+<p>在艺术领域，凯尔特人也发展出了独特的风格，偏好几何图案而不是具象主题，多以螺旋形、圆型、三角形等形状或者植物图案组合进行装饰。凯尔特人擅长制作金属工艺品，如今留存下来的大多数凯尔特艺术品都是金属制品。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c12dda78c6388cea930a607306ed8d2_720w.jpg?source=8673f162" alt=""><figcaption>Gundestrup 银锅，丹麦，距今约 1700—2200 年，这是欧洲铁器时代发现的最大的银器，显示了日耳曼人财富的增加，以及凯尔特、色雷斯和东方文化的影响</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-611186ad2d75b633264856920518542e_720w.jpg?source=8673f162" alt=""><figcaption>丹麦出土的日耳曼金属盘</figcaption></figure>
+<p>日耳曼人的艺术和凯尔特人类似，不同的是，其装饰内容不局限于几何与植物图案，而且能够发现一些带有叙事内容的艺术品。</p>
+<p>其实当时的凯尔特人和日耳曼人，在生产技术方面并不比罗马人低多少，人口也非常多，只是组织水平相对较低，没有形成规模庞大的广域国家，还处于酋邦林立的阶段。所以与其把凯撒面对的高卢人和日耳曼人想象成原始的石器时代部落，不如把他们想象成众多不服王化的邦国。能够征服这么多拥有铁器，能够建造大规模设防城市的邦国，还是非常不容易的。</p>
 </div>
 </div>
 
 
+<div class="view-more"><a href="https://www.zhihu.com/question/2010064118816723490">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788407</guid><pubDate>Fri, 20 Mar 2026 18:40:25 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788416</guid><pubDate>Sat, 21 Mar 2026 01:28:05 GMT</pubDate></item><item><title>林黛玉称自己一无所有，吃住都靠贾家，为什么却不能共情来贾家求助的刘姥姥，说她是母蝗虫？</title><link>http://daily.zhihu.com/story/9788424</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-3da4a0cada9deae6e7288e3cc18d0b69.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-a16fe85dc7442c73a3189bb927b38576_l.jpg?source=8673f162">
+<span class="author">清清也要托物言志，</span><span class="bio">明月松间照，清泉石上流</span>
+<a href="https://www.zhihu.com/question/1995095254974608995/answer/2011161164399269230" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>刘姥姥在大观园拉了泡屎，没洗手，又跑贾宝玉床上睡觉。</p>
+<p>岁数大了眼花，屁股没擦干净或者手上沾点儿星子，都是有可能的。</p>
+<p>随后刘姥姥一边打呼噜，一边放屁，打酒嗝。</p>
+<p>袭人进来时，“闻见酒屁臭气满屋”，可见放屁酒嗝就没停过。</p>
+<p>虽然她猛抓了三四把百合香来烧，试图冲淡一屋子臭气，</p>
+<p>但贾宝玉的枕头一定沾了刘姥姥打嗝带出来的口水，被褥也一定被刘姥姥的手摩擦过。（原文：“刘姥姥<strong>扎手舞脚</strong>的仰卧在床上。”）</p>
+<p>哦对了，从原文描写看，刘姥姥应该也没脱鞋。</p>
+<blockquote>便一屁股坐在床上，只说歇歇，不承望身不由己，便前仰后合的蒙眬著两眼，一歪身，就睡熟在床上。</blockquote>
+<p>贾宝玉的床，经历了这样的洗劫...</p>
+<p>不要说贾宝玉了，我们现代人也不想自己的床被某个亲戚这么糟蹋吧？</p>
+<p>更何况还是八竿子打不着上赶着认亲、远道而来串门、走的时候大包小包拉车带走的亲戚。</p>
+<p>说一句这种亲戚是母蝗虫一样的风格，有什么问题？</p>
+<p>（不要说刘姥姥二进荣国府时送了新鲜瓜菜，贾府回礼的价值是这些瓜菜的千倍万倍，如果贾府比王狗儿家还穷，猜猜刘姥姥会不会送东西。）</p>
+<p>可以说，黛玉和妙玉都有一双慧眼，能不被刘姥姥那“贫苦老实人”外表所迷惑。</p>
+<p>刘姥姥在贾母王夫人凤姐面前表现得非常卑微，一副憨厚善良老实巴交的样子，为了讨好她们，说话尽挑好听的说，还心甘情愿拿自己开涮。</p>
+<p><strong>但刘姥姥醉卧怡红院这一段，曹雪芹展现的是四下无人时，极度放松、卸掉一切伪装的刘姥姥。</strong></p>
+<p>真正厚道的人，再穷也不会在亲戚家里乱蹿。即使不小心进了卧室，也不会奔着床一屁股坐上去，贾宝玉屋里又不是没椅子。</p>
+<p>有个对比很有意思。贾母等人在的时候，板儿摸探春拔步床的纱帐，刘姥姥打了他一巴掌，骂他是下作黄子。现在没有别人了，她自己爬上贾宝玉的床，呼呼大睡……</p>
+<p>有句话说得好，有熊孩子就有熊家长。小孩下作的背后，是下作大人的言传身教。</p>
+<p>喝醉可不是挡箭牌。酒品见人品，喝醉了才更容易暴露本性。</p>
+<p>有人觉得，哎人家刘姥姥是农民啊，不能要求她素质太高。这就是概念不清了，<strong>一个人所在的阶级与她本人的素质并不能划等号。</strong></p>
+<p>我拿个同样是农户的老太太和刘姥姥比吧！二丫头的奶奶，大家记得吗？</p>
+<p>第十五回，凤姐带着贾宝玉秦钟给秦可卿送殡，路上想方便，暂时在二丫头家休息。</p>
+<p>小厮陪着贾宝玉秦钟游玩，贾宝玉看到纺车很好奇，二丫头就过来教他，你看，是这样纺线的。</p>
+<p>这时二丫头的奶奶就把二丫头叫走了。即使这样的富贵公子，老奶奶也觉得孙女不能这样主动。</p>
+<p>尽管二丫头的奶奶是个普普通通的农妇，人家也知道要孙女和外男保持距离，而不是满脸堆笑的端上酒菜来，巴不得孙女多陪富贵公子几小时。</p>
+<p>大家瞧，这就是最基本的边界感，分寸感。同处劳动阶级，二丫头的奶奶比刘姥姥强太多了。</p>
+<p>刘姥姥乱闯乱躺，这不叫老实厚道，而是<strong>不懂分寸</strong>，和她营造出来的战战兢兢，诚惶诚恐，相差太远了。</p>
+<p><strong>而不懂分寸的背后，是自私。</strong></p>
+<p>不妨细读刘姥姥与王狗儿商量去贾府打秋风这一节。</p>
+<p>打秋风，用现在的话讲，就是卖惨要钱。</p>
+<p>先看刘姥姥家的实际情况，并不是吃了上顿没下顿，她住在农户女婿王狗儿家，自己也有田。</p>
+<blockquote>一家四口，以务农为业。因狗儿白日间又作些生计，刘氏又操井臼等事。</blockquote>
+<p>王狗儿“白日又做些生计”，也就是说除了务农之外，另有活计，有一份额外收入。</p>
+<p>去贾府打秋风之前，王狗儿的状态是“家中冬事未办”，意思是还没准备过年的东西。</p>
+<p>王狗儿一看还没办年货，很不高兴，就去喝酒，喝多了，拿老婆撒气。</p>
+<blockquote>因这年秋尽冬初，天气冷将上来，<strong>家中冬事未办，狗儿未免心中烦虑</strong>，吃了几杯闷酒，在家閒寻气恼，刘氏不敢顶撞。</blockquote>
+<p>烦闷了就喝酒，这哪是穷到没饭吃的样子？刘姥姥对凤姐说板儿爹娘“在家里连吃的也没有”，纯属胡扯，不拼命往惨里说怎么能博得同情呢。</p>
+<p>王狗儿小时候也是过着富足生活的，只是不善经营，大手大脚惯了，经济状态不如父亲在世时而已。</p>
+<blockquote>因此刘姥姥看不过，乃劝道：“……<strong>你皆因年小时托着那老的福，吃喝惯了，如今所以把持不定。有了钱就顾头不顾尾，没了钱就瞎生气</strong>，成了什么男子汉大丈夫了。”</blockquote>
+<p>王家为什么有钱？因为王狗儿父子俩帮周瑞抢别人的地，而周瑞家的正是靠着这点情分，才肯帮刘姥姥去找凤姐。</p>
+<blockquote>（王狗儿：）这周瑞先时曾和我父亲交过一桩事，我们本极好的。<br><br>周瑞家的听了，便已猜着几分来意。只因他丈夫昔年争买田地一事，多得狗儿之力，今见刘姥姥如此，心中难却其意，二则也要显弄自己的体面，</blockquote>
+<p>真是讽刺，刘姥姥的打秋风大计能成功，得益于若干年前，某个或某些农户的财产被掠夺……</p>
+<p>王狗儿一家大手大脚的背后，是那些农户失去产业。</p>
+<p><strong>王家在乡间，是恶霸狗腿一样的存在。</strong></p>
+<p>所以，把女儿刘氏嫁到王家的刘姥姥，怎么可能宽厚善良，怎么可能是老实巴交的穷人？别忘了，村庄乡绅大家摆宴，刘姥姥也是有一席之地的。</p>
+<blockquote>刘姥姥听了心下敁敠道：“……我时常在村庄乡绅大家也赴过席，金杯银杯倒都也见过，</blockquote>
+<p>嫌贫爱富，趋炎附势才是她的标签<strong>。</strong>精明贪婪，擅于伪装，利用别人的善良为自己牟利，这才是真实的刘姥姥。</p>
+<p>总有人把刘姥姥吹捧成热心义气的大善人，说她在贾府落难时卖房卖地，把巧姐从青楼赎了出来。</p>
+<p>很不幸，<strong>这只是 87 版电视剧一厢情愿的演绎，原著并没有这种情节。</strong></p>
+<p>要知道刘姥姥是靠女儿女婿养活的，当家的是王狗儿，她就是真的想卖房卖地赎巧姐，王狗儿也不会答应啊！</p>
+<p><strong>实际上，让巧姐遇恩的根本不是刘姥姥，而是她的女儿刘氏。</strong></p>
+<p>感谢评论区知友@狼人 提醒。刘姥姥不姓刘，她的女儿刘氏才姓刘。</p>
+<p>请看巧姐的判词：“<strong>偶因济刘氏</strong>，巧得遇恩人。”写得非常清楚，刘氏才是帮助巧姐得救的那个人。</p>
+<p>但刘氏也不可能卖房卖地赎巧姐，她在王狗儿面前根本没有话语权，王狗儿发脾气她都不敢接话。<strong>凤姐济刘氏只是巧姐遇恩人的一个因素。</strong></p>
+<p>就好比，王狗儿父子帮周瑞抢人田产，周瑞家的念着这点情分，向凤姐引荐了刘姥姥，刘姥姥得了二十两银子。这二十两不是周瑞家的出的，而是凤姐给的。</p>
+<p>套用这个公式，王狗儿一家就是：<strong>偶因帮抢田，巧得打秋风。</strong></p>
+<p>把巧姐的判词和曲词“幸娘亲，积得阴功”结合起来看，巧姐脱险的实际情况应该是这样：</p>
+<p>狠舅奸兄要拿巧姐换银钱，刚好遇到了那位“恩人”，刘氏也在。刘氏知道巧姐，她想起凤姐曾接待过自己母亲，让自己家得了不少东西和钱，就发了话，这笔人肉生意没做成。</p>
+<p>于是“恩人”把巧姐带去了荒村野店，让她做了一名贫苦的村妇。这比被卖掉要强一些，在巧姐看来，已经是劫后余生了，所以管他叫恩人。</p>
+<p>那么问题来了，“恩人”为什么能听刘氏的？刘氏说了什么？这位“恩人”的营生是什么，为什么能让巧姐不被卖？……</p>
+<p>巧姐遇恩的具体场景到底是怎样的，这才是个细思极恐的问题。</p>
+<p>红楼梦里处处谶语，极有可能的是，刘姥姥本性就犹如蝗虫。</p>
+<p>散居的蝗虫相对温和，食量小，不迁飞，基本无害。当蝗虫聚集在一起成为群居型，攻击性暴增，成为凶蝗群，能吃能飞，所到之处洗劫一空。</p>
+<p>​母蝗虫，可是繁殖能力惊人，轻轻松松制造出凶蝗群的……</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1995095254974608995">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788424</guid><pubDate>Sat, 21 Mar 2026 01:28:06 GMT</pubDate></item></channel></rss>
