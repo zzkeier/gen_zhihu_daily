@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 21 Mar 2026 18:29:18 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>生物的结构色可以从食物、疾病等途径获得吗？</title><link>http://daily.zhihu.com/story/9788451</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-74608ddbae1860e17ea998fcadb0c02b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 22 Mar 2026 01:49:57 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么蓝色和绿色会分辨不好？</title><link>http://daily.zhihu.com/story/9788443</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-3a8e987ab890ae560a4c1e679f4e0f1e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,43 +19,106 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-039a297ea95822fbdcd67f6e410eba44_l.jpg?source=8673f162">
-<span class="author">广町七深Official，</span><span class="bio">若我生性如蜂，谨防我尾后针。</span>
-<a href="https://www.zhihu.com/question/2010101109621007086/answer/2010129917157844390" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-5d8d2b5698ad3b9b58b581c67a60dfe2_l.jpg?source=8673f162">
+<span class="author">解磊，</span><span class="bio">格物当澄明似镜，处世可烂漫如诗</span>
+<a href="https://www.zhihu.com/question/13749156702/answer/114417221028" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>能的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-53e8f677fed89c645ed90f11b342978f_720w.jpg?source=8673f162" alt=""><figcaption>图源 iNaturalist</figcaption></figure>
-<p>看看这只美丽的蓝色球鼠妇。众所周知，真正能产生蓝色的色素在自然界并不常见，因此绝大部分的蓝色动物都拥有结构色，这只鼠妇也不例外。但是，一只生活在阴暗落叶层中的甲壳动物为什么要呈现出如此绚丽的颜色呢？实际上，这蓝色并不是它“自愿”产生的。</p>
-<p>它感染了一种病毒，等足目虹彩病毒 Invertebrate iridescent virus 31，简称 IIV-31，有时也称为<em><span class="nolink">Iridovirus armadillidium-i</span></em>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7ba9e7854c8d0f89e89f70692593f3f8_720w.jpg?source=8673f162" alt=""><figcaption>图源网络</figcaption></figure>
-<p>这种病毒是一种大型双链 DNA 病毒，与疱疹病毒、猪瘟病毒等类似。受感染个体的尸体、排泄物、体液等被健康个体摄入都会导致感染，病毒会通过消化道来到血腔内部。由于节肢动物缺乏封闭的循环系统，病毒可以较为容易地扩散，它们的目标主要是脂肪组织。</p>
-<p>病毒衣壳表面的蛋白与细胞膜受体结合，进而通过胞吞进入细胞内部。它将遗传物质送入细胞核进行转录、复制，同时在细胞质内诱导形成“病毒工厂，”在这个生物膜结构内完成衣壳的组装、关键蛋白质的插入和遗传物质的包装。</p>
-<p>当复制进入晚期时，成千上万病毒颗粒聚集在细胞质内的工厂中。由于虹彩病毒颗粒较大，它们会很快达到近密堆积状态，同时它们的二十面体外形使其可以在细胞中形成高度规则、周期性的排列。有趣的光学反应在此时发生。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-59e5b45125b465c9fd03b2538ecfc7b1_720w.jpg?source=8673f162" alt=""><figcaption>虹彩病毒在细胞内极其有序的排列。图源网络</figcaption></figure>
-<p>我们首先要了解一个光学概念：布拉格反射，也就是“当电磁波（通常是光）入射到周期性结构时，在特定角度和特定波长上产生强烈的相干增强反射现象。”其表达公式为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=2dsin%CE%B8%3Dn%CE%BB" alt=""></p>
-<p>，也就是根据周期性结构的间距（d）和观察角度（准确来说是结构表面与光线间的角度，θ），会产生特定的颜色（波长，λ ）的结构色。n 是衍射级数，自然条件下通常取 1。多种生物的结构色都与其有关，例如闪蝶的鳞片、孔雀的羽毛。</p>
-<p>虹彩病毒的颗粒直径约为 150-180nm，在细胞中堆积时的结构间距约为 200–240nm。根据生物组织折射率（1.35–1.45 左右，需要乘在公式左边）、观察角度的不同，可以推测出观测产生的结构色的波长约为 350-450nm，呈现蓝紫色。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-31a50215beed2ca02bb5135616077fe8_720w.jpg?source=8673f162" alt=""><figcaption>这只鼠妇更接近紫色，寄主本身的光学性质也会影响最终成色。图源 iNaturalist</figcaption></figure>
-<p>虹彩病毒感染程度越高、在细胞内浓度越大，产生的颜色也就越明显。因此，产生鲜艳蓝紫色的寄主通常都是病入膏肓者。寄主的身体会在病毒的摧残下逐渐衰竭，最终留下一具蓝紫色的尸体。</p>
-<p>与等足目虹彩病毒同属的还有 6 型无脊椎动物虹彩病毒，Invertebrate iridescent virus 6，简称 IIV-6，学名<em>Iridovirus chilo1</em>，它能够以类似的方式感染超过七个目的昆虫，并在它们身上形成相似的结构色。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c7e835d4bb0661c2a57670c32bec4e53_720w.jpg?source=8673f162" alt=""><figcaption>被感染的白蚁，图源 iNaturalist</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1202a855131342e448827634e14950cf_720w.jpg?source=8673f162" alt=""><figcaption> 埃及伊蚊 Aedes aegypti 幼虫，图源网络</figcaption></figure>
-<p>在它所属的<span class="nolink">Betairidovirina</span>e 亚科下，还有几个其他的属攻击无脊椎动物，例如主要感染双翅目幼虫的<em><span class="nolink">Chloriridovirus</span>，</em>由于它们的病毒颗粒较大，因此会呈现黄绿色结构色。以及<em><span class="nolink">Daphniairidovirus</span></em>和<em><span class="nolink">Decapodiridovirus</span>，</em>感染多种甲壳动物，有时会形成类似的蓝紫色结构色。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5b4a6a2c5906ae2661ee2ee1847834d2_720w.jpg?source=8673f162" alt=""><figcaption>一只被感染的镖水蚤，感染桡足类的虹彩病毒似乎倾向于使附肢呈现结构色。图源 iNaturalist</figcaption></figure>
+<p><strong>好问题！</strong></p>
+<p>你问到了一个色彩心理学及语言学中一个非常重要的议题——<strong>「蓝绿的区分（Blue–green distinction in language）」</strong>。</p>
+<p>排除掉色盲、色弱、色觉异常等生理因素之后，<strong>引起蓝绿混淆的最重要的原因，是我们的语言。</strong></p>
+<p><strong>而区分蓝绿，对人类文明而言，是一个非常高阶的技能。</strong></p>
+<p>相信我，难以区分蓝绿的人绝不止你一个，<strong>很多人其实一直都在混淆蓝绿，只是可能他们自己都不知道。</strong></p>
+<p>我举个例子哈，蒂芙尼这个品牌，大家都认识吧。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-609aaf08ffc1789bb84231aa9c373216_720w.jpg?source=8673f162" alt=""><figcaption>蒂芙尼蓝（Tiffany Blue）</figcaption></figure>
+<p>蒂芙尼的主色调，叫做「<strong>蒂芙尼蓝（Tiffany Blue）</strong>」。</p>
+<p>这种蓝也叫「知更鸟蛋蓝」，蒂芙尼自 1845 年首次出版《蒂芙尼蓝皮书》时，Tiffany's Blue Book，封面上用的就是这种蓝色。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0518ca77219fd6364b75a0cfee89c37a_720w.jpg?source=8673f162" alt=""><figcaption>1845 年蒂芙尼蓝皮书封面</figcaption></figure>
+<p>可是你仔细看，仔细品，<strong>蒂芙尼蓝真的是蓝色吗？</strong></p>
+<p>你再看这件瓷器。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e5041487b31cb7e0f1ee64ad83b9ed8_720w.jpg?source=8673f162" alt=""><figcaption>汝窑瓷</figcaption></figure>
+<p>这是我们宋代汝窑瓷器，釉色<strong>天青</strong>是汝窑的主要色彩，徽宗云：<strong>「雨过天青云破处」</strong>，方文山说：「天青色等烟雨，而我在等你」。</p>
+<p>就问你，<strong>蒂芙尼蓝更像是我们认知中的蓝色，还是汝窑的青色？</strong></p>
+<p>青色，在我们汉语中是一种非常普遍的色彩，然而在英语中，青色虽然也有对应的翻译「cyan」，但是 cyan 这个词汇，<strong>更多只是用于形容印刷领域的油墨色彩，也就是 CMYK 色彩体系中那个 C</strong>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-75b3aeb692b0110b8bf041fd36adf80b_720w.jpg?source=8673f162" alt=""><figcaption>CMYK 色彩体系</figcaption></figure>
+<p>在英语的日常交流中，更多还是会将青色称为 light blue，或是 turquoise。</p>
+<p>你硬是要说 cyan，那给人的感觉就好像你管打呼噜叫做「阻塞性睡眠呼吸暂停综合征」，知道你说的是那么个事儿，但就是很想锤你。</p>
+<p>现在你知道蒂芙尼蓝为什么在英语中是蓝，在汉语中是青了，但这还没完。</p>
+<p>你以为你真的就比说英语的人更懂青色了吗？</p>
+<p>来，我问你。</p>
+<p>方文山说：「天青色等烟雨，而我在等你」，还记得这首歌的名字叫什么么？</p>
+<p><strong>《青花瓷》</strong></p>
+<p>青花瓷长这样：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9002389e85f96d93895e1257293a2be0_720w.jpg?source=8673f162" alt=""><figcaption>明青花</figcaption></figure>
+<p><strong>我问你，这是你理解的青色吗？</strong></p>
+<p><strong>而在英语中，青花更是直接被翻译成「Blue and white pottery」</strong></p>
+<p>你是不是开始混乱了？</p>
+<p>别急，这只是开胃菜，我再问你，<strong>「青丝白发」</strong>这个说法听过吗？</p>
+<blockquote><strong>青丝白发一瞬间，年华老去向谁言。</strong><br><strong>春风若有怜花意，可否许我再少年。</strong><br><strong>——【北宋】李之仪 《咏苍髯》</strong></blockquote>
+<p>这青丝的青，难道是这个颜色吗？↓</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f9b7876460e6ce9cbf29ddfa54afee64_720w.jpg?source=8673f162" alt=""><figcaption>「青丝」是这个发色吗？</figcaption></figure>
+<p>别急，还没完。</p>
+<p>我再问你，<strong>「青，取之于蓝，而青于蓝；冰，水为之，而寒于水。」</strong>，这个你肯定学过吧？</p>
+<p>不看比喻义，只看这句话的原义。</p>
+<p>这里的青，指的是从蓝草中提取的靛青。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b1aa506601fbbe81445e6fd5f13c5e5f_720w.jpg?source=8673f162" alt=""><figcaption>靛青色</figcaption></figure>
+<p>你再想一下你现在理解的青色，这个「靛青」和蓝色，究竟有什么区别？</p>
+<p>别急，还没完，就说个日常生活中最常见到的青色事物——<strong>青菜</strong>。</p>
+<p>青菜这个说法，大江南北指代的植物可能不太一样，但那个青是什么颜色，应该没什么争议吧？</p>
+<p>如果还迷糊，咱来个具体的，请问这种食物叫什么？</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c22fa7c5f45594a3311346e1c1598eda_720w.jpg?source=8673f162" alt=""><figcaption>青萝卜</figcaption></figure>
+<p>反正我们那里是叫<strong>「青萝卜」</strong>。</p>
+<p>混乱了吧？</p>
+<p>混乱就对了，<strong>因为区分蓝和绿，本来就是人类的高阶技能。</strong></p>
+<p>在很多语言中，蓝和绿是用同一个词来指代形容的，这个现象，叫做<strong>「语言的共词化（Colexification）」</strong>。</p>
+<p>甚至为了指代蓝绿混淆的颜色，学者们还发明了一个词<strong>「grue」，来作为这种蓝绿不分的概念的指代。</strong></p>
+<p>而在心理学中，<strong>颜色并非一种客观存在，只是人类对于不同频率波长的光波的主观感受。</strong></p>
+<p><strong>因而，语言中不存在相应的色彩词汇，或是色彩词汇是混淆的，你就区分不出相应的色彩。</strong></p>
+<p>这又是一个很长的话题，感兴趣的朋友可以看这篇文章。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/587211136/answer/2945749227">电影《降临》中语言影响认知这个核心假设合理吗？</a></p>
+<p>这里我只讲蓝 - 绿的区分。</p>
+<p>现讲<strong>分不出蓝绿的语言</strong>。</p>
+<p>在东亚文化圈里，<strong>能把蓝和绿区分的比较明白的，还真就只有汉语。</strong></p>
+<p>日语中，确实有一个代表绿色的词「緑」，但这个词汇很晚才引入日语。<strong>在古日语中，蓝和绿被统称为「靑」</strong>。而明确区分蓝和绿的教材，在二战后才开始普遍在日本使用。</p>
+<p>韩语中，<strong>푸르다明确指蓝色，但也可以拿来表示绿色或蓝绿色，</strong>他们也从汉语中借了「靑」这个词，但主要用这个词来表示蓝色，最著名的就是「靑瓦臺」……总之韩语的蓝绿混淆比日语还要混乱。</p>
+<p>古老一些的文明，比如埃及，他们用「wadjet」一个词涵盖了蓝色、蓝绿色和绿色所有的颜色。这个「wadjet」同时也是埃及神话中一个女神的名字，它的形象是这样的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-83ee5ea68b8548d7ad91e098894cd174_720w.jpg?source=8673f162" alt=""><figcaption>根据墓葬彩绘复原的 wadjet 形象</figcaption></figure>
+<p>而希腊语更夸张，从古希腊语到现代希腊语过渡过程中，蓝色和绿色的指代整个发生了颠倒。</p>
+<p>古希腊语中γλαυκός 是「清澈的浅蓝色」，之后γλαυκός被κυανός这个词汇取代，意为「深蓝色或绿色」，而κυανός不仅表示「绿松石」和「青绿色」，还可以表示「深蓝色」或「深绿色」，也可以仅仅表示蓝色。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b70d92becc2ed5785f22430d70eb54ee_720w.jpg?source=8673f162" alt=""></figure>
+<p>哦对了，<strong>κυανός这个词，就是英语中青色（cyan）这个词的词源。</strong></p>
+<p>青色（cyan）这个词引入英语的时间是 1879 年，在这之前，英语中是没有青色这个概念的。</p>
+<p>可即使引入了这个概念，你也应该能发现，<strong>英语中的青色与汉语中的青色，指代的色彩也是有区别的。</strong></p>
+<p>再讲个<strong>能把蓝 - 绿色彩区分的非常明确的语言——俄语。</strong></p>
+<p>斯拉夫语言是一种能将色彩区分的非常明确的语言，俄语中不仅能明确区分蓝色和绿色，甚至还有голубой（可视为浅蓝色）与синий（可视为深蓝色或纯蓝色）这样细致微妙的区分，这使得俄语中关于色彩的描述特别丰富，这可能是俄语国家的艺术普遍发达的心理学基础。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f8e05d1c164845a8416a4e61347ebea2_720w.jpg?source=8673f162" alt=""><figcaption>在俄语中，这两种色彩的区别，和蓝与绿的区别一样大</figcaption></figure>
+<p>关于这个话题，<strong>特别推荐一本书，康斯坦丁·帕乌斯托夫斯基的《金蔷薇》。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6547e699f38733fbae1600efbe19d2b3_720w.jpg?source=8673f162" alt=""><figcaption>康斯坦丁·帕乌斯托夫斯基《金蔷薇》</figcaption></figure>
+<p>这是一本文学随笔，探讨了文学创作很多细节，其中就有提到俄语对于大自然色彩的感知。</p>
+<blockquote>许许多多被扯碎了的白云，赶在酝酿着雷雨的乌云前面朝我们奔驰而来。果然，它们正以迅捷的运动，把大地上的各种色彩糅合在一起。在森林的远方，<strong>紫红、赤金、白金、翠绿、绛红和深蓝等等色彩</strong>，开始混杂在一起了。<br>——《金蔷薇》「洞察世界的艺术」</blockquote>
+<p>最初读这本书的时候，就一直很疑惑，紫红、赤金、白金、翠绿、绛红和深蓝……这是怎样一种色彩的混杂。</p>
+<p>很可能，<strong>这是因为俄语中对应色彩的词汇，在中文里并不能明确对应，一些对于色彩的感受，脱离了俄语，就无法精确传达。</strong></p>
+<p>最后，多说几句，这个问题给我们最大的启示，在于我们的人文教育。</p>
+<p><strong>我们对于世界的感受和体验，是建立在无数细微的语言刻度之上的。</strong></p>
+<p><strong>我们不能描述，我们也就不能体验。</strong></p>
+<p>我们的文明花了这么长时间，从自然混沌的色彩中析取出靛蓝与碧绿，在语言的坩埚里淬炼出月白与鸦青。</p>
+<p>可是现在，当我看到这类新闻时：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/8086341738">文科消亡成为一股全球性浪潮，为什么会出现这种情况？文科相较理科有哪些劣势？</a></p>
+<p>我真的担心这几千年的努力是否会毁于一旦，<strong>我们的孩子对世界是否还能有如此细腻的体验</strong>。</p>
+<p>本来就是想用这个现象回答上面这个问题的，放在这个问题下更加契合。</p>
+<p>谢谢你的提问。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2010101109621007086">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/13749156702">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788451</guid><pubDate>Sat, 21 Mar 2026 18:29:15 GMT</pubDate></item><item><title>现代中国有能力建造万神殿、欧洲教堂那样的大穹顶建筑吗？</title><link>http://daily.zhihu.com/story/9788411</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6069c600dc384364f0dd429703aba76a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788443</guid><pubDate>Sun, 22 Mar 2026 01:49:54 GMT</pubDate></item><item><title>海豹、海狮、海狗、海象、海牛等海洋哺乳动物会喝海水补水么？</title><link>http://daily.zhihu.com/story/9788433</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-dc887458a827d3ee1bdbfd4fab0e7159.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -75,42 +138,107 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-5dce0048daa0e6a8b994e11378ec1d82_l.jpg?source=8673f162">
-<span class="author">冯海峰，</span><span class="bio">以史为鉴全球化、经济史、科技史视野助力理解企业信息化</span>
-<a href="https://www.zhihu.com/question/2011456905860626047/answer/2011480914404864772" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-b0a3e4598a57de66b24ee18009c38974_l.jpg?source=8673f162">
+<span class="author">祥昊，</span><span class="bio">也许，我们需要的不是答案</span>
+<a href="https://www.zhihu.com/question/7083692201/answer/83139851391" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>现代？瞧不起谁呢。用现代基建狂魔的能力那是欺负你。近代吧。</p>
-<p>广州圣心大教堂，1863 年奠基，教堂墙体刻有“Jerusalem 1863”与“Roma 1863”，下埋耶路撒冷圣母墓石及罗马泥土 1 公斤，象征基督教"东方起源、西方兴盛"。历经 25 年建成。是全球四座全石结构哥特式教堂建筑之一。</p>
-<p>注意是全球，而且建成时是全石，无钢梁，无钢筋，无木梁。门窗框，尖拱，肋拱飞扶壁，全是花岗岩！不是还有其它石灰石、火山岩的。（近年维修时，在局部使用了混凝土）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-87a1d301510edacaf79667093ff95a0e_720w.jpg?source=8673f162" alt=""><figcaption>图片来源：小红书 遁走的两轮</figcaption></figure>
-<p>石室圣心教堂其实是 19 世纪的复兴哥特主义(neo gothic)。</p>
-<p>形制上东西走向的中殿（Nave）及唱诗席（Choir）和南北走向的耳堂（Transept）恰好构成十字，也是教堂的主体。是非常成熟的哥特风格建筑。</p>
-<p>技术上完全延续是 13 世纪的逻辑。最早追溯到 1260 年竣工第一个具备哥特三要素(尖拱，肋拱，飞扶壁）的巴黎圣母院，在工业革命后，用科学的力学和工程学，把哥特式教堂施工技术体系化。</p>
-<p>不过中国当地的温湿度环境、石材特性和欧洲不同，不能直接照搬，需要本地消化。法国设计师直接把施工指挥权交给了中国蔡孝团队。巴黎圣母院火灾后按原有结构修复顶棚时用了大量木拱、木架。广东地区木架容易损坏。蔡孝团队仔细消化法国设计师给的图纸后，摒弃木材，全部采用国产石材。通过极高的花岗岩切削精度，最大限度减少石材接缝处施工时的扭曲错位和应力不均匀；借鉴中国传统土石施工技术，使用“糯米桐油浆”，粘结力，柔韧性，防水性更强，花岗岩连接成一个更具完整性的稳定结构。</p>
-<p>最终建成的教堂是西方结构几何学和中国南方硬质石材加工智慧的完美结合，整体体量放在欧洲也能进百强。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ca8e77f40ad51355eb746770602b289_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3ab100f50edbeb1d25c921cadce60b2a_720w.jpg?source=8673f162" alt=""></figure>
-<p>现在这个教堂是全国文保建筑，而且是网红景点。有兴趣，大家可以上午进教堂抢拍阳光透过花窗在教堂内的氛围。</p>
-<p>补充说明：</p>
-<p>评论区有几个提到对穹顶的质疑。提问中万神殿和欧洲教堂是并列。我也没说圣心教堂是万神殿那种比较原始的穹顶呀。欧洲其它教堂，圣索菲亚大教堂、巴黎圣母院也基本不用这种穹顶。既然有其它欧洲教堂的选项，那我就根据国内现实情况介绍其它现实存在的类型呗。</p>
-<p>包括知乎上相关讨论，类似言必称希腊，提到欧洲古建筑的拱形应用和对比中国结构建造能力，必提到万神殿。事实上，万神殿 - 初级穹顶；巴黎圣母院和圣心是哥特尖拱 + 肋架拱顶 + 飞扶壁。本质上都是拱形大跨度结构，但从技术上后者是基于前者原理发展来的，比原始堆料先进得多。尖拱建造更体现对材料和技术的掌握。更轻盈更，更美观。炫技的东西都能做，万神殿这种因为经典而被研究透了的原始拱当然也能做。</p>
-<p>现代钢筋混凝土和近代钢铁冶炼、铸铁技术发明后，包括欧洲在内，国内外基本都不古法造各种大跨度空间体了。因为造价和建造时间不合算，不是现代技术退步了。如果甲方非要古法建造，只要款到位，类似巴黎圣母院火灾后必须用当时的中世纪技术造，欧洲和中国基建狂魔都没问题。所以问现在中国能不能不用钢筋做，为什么不带上欧洲不用钢筋能不能做呢？</p>
-<p>而日常，因为中国没有欧洲宗教的历史包袱，没必要特地用古法专门建造一个旧时代技术的建筑。毕竟建筑是解决人在建筑内外活动的实际需要，而不是有钱没处花的炫技。现实中，中国现有好多仿欧建筑，无论是近代历史原因还是现代旅游的原因，各种历史阶段技术特点的拱形跨度空间都有，只要能体现这种结构又经济就行了。谈技术就谈技术，别暗戳戳的。</p>
-<p>现有万神殿也是塌了后再建的特例，而且相近时代的卡拉卡拉浴场，热水浴大厅这个跨度 35 米比万神殿 43 米小的古罗马第二大穹顶不是塌了至今也没恢复吗？欧洲人有技术为什么不恢复呢？</p>
-<p>再较真，款到位了吗？有地、款到位不垫资，就现在国内建筑业大批等活的人的情况。你说用啥技术就用啥。包甲方爸爸满意。</p>
+<p>曾经有一群走兽，</p>
+<p>老祖宗跑到海里，成了海兽。</p>
+<p>那么问题来了，海水的盐分浓度约为 3.5%，</p>
+<p>像是人类排泄盐的浓度不超过 2%</p>
+<p>按照这样换算，</p>
+<p>每喝 100g 水，</p>
+<p>就需要尿 175g 才能排出多余的盐分，</p>
+<p>所以如果你贸然喝海水，</p>
+<p>很容易越喝越渴，越渴越喝，</p>
+<p>喝了再渴，渴了再喝。</p>
+<p>最后肾废人亡，活活渴死。</p>
+<p><strong>一般哺乳动物是无法依靠直接喝海水为生的。</strong></p>
+<p>于是海兽们一合计，不中啊，这么下去光尿尿都能尿成虚脱。</p>
+<p>淡水本身不好搞，那就只能在自身找办法。</p>
+<p>直接喝尿不现实，</p>
+<p>还好哺乳动物的肾脏很强大。</p>
+<p>可以利用逆流倍增机制（Countercurrent Multiplication Mechanism）把尿液里的水分重新吸收、</p>
+<p>所以海兽的尿液不是浓，而是超级浓。</p>
+<p>尿黄尿少味道骚，</p>
+<p>这是火气大，得治。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-03ee9b693e43f386f52e1a065739afa6_720w.jpg?source=8673f162" alt=""></figure>
+<p>人类想做到这点也不难，</p>
+<p>少喝水，多憋尿。</p>
+<p>伤肾伤脑伤膀胱。</p>
+<p>除了憋死也到不了海兽的浓度其他的问题不大。</p>
+<p>那问题又来了，</p>
+<p>尿这么浓肯定特别伤腰子吧？！</p>
+<p>万一坏一个多影响兽生性福啊</p>
+<p>于是，鲸鱼进化出类跟桑葚一样的复合肾，</p>
+<p>每颗肾小叶都能独立完成肾脏的功能。</p>
+<p>相当于有一堆肾，</p>
+<p>质量不够数量凑，</p>
+<p>麻麻再也不用担心腰子不够用啦。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8012bc3724535b933cf3c3285dfb30a7_720w.jpg?source=8673f162" alt=""></figure>
+<p>而像食肉目下的海狗，海豹，</p>
+<p>也进化出了类似的球状单乳头型复肾结构。<sup>[1]</sup></p>
+<p>上面塞满了数百个小肾结节</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dac30384272b1ae4dc48663aaef5c4d5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-67d23010c051ad2128007457a7e0e4b3_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以海狗肾可是传说中的壮阳之物，</p>
+<p>那是大大大大补啊。</p>
+<p>相传大明首辅张居正就是吃这玩意补没的。</p>
+<hr>
+<p>然而，仅凭借强大的肾脏回收机制偶尔喝口海水还行，</p>
+<p>要是天天吨吨吨那得尿盐茬子啊。</p>
+<p>海兽并没有靠喝海水维生的能力。</p>
+<p>怎么喝水，</p>
+<p>就应该先请教下其他海洋原住民。</p>
+<p>很多海洋动物除了肾脏强大，</p>
+<p>腮部还有泌氯细胞（Chloride Cells），又叫离子细胞（Ionocytes）</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7990f71f354be4b152b4c62227bba8ef_720w.jpg?source=8673f162" alt=""></figure>
+<p>这些细胞能有效将盐排出去。</p>
+<p>所以海洋原住民是能直接转化海水滴。</p>
+<p>正所谓邻居屯粮我屯枪,邻居就是我粮仓</p>
+<p>鱼有淡水我吃鱼，相当于我也喝淡水。</p>
+<p>喝水的问题不就解决了嘛。</p>
+<hr>
+<p>然而，海里一大部分鱼类属于软骨鱼。</p>
+<p>这群脑回路清奇的家伙为了调节渗透压竟然在血管里塞尿素！！！</p>
+<p>吃吧，</p>
+<p>这玩意比喝尿还拉嗓子，</p>
+<p>不吃吧，容易饿死。</p>
+<p>这可咋办好？！！！</p>
+<p>来给你写几组化学式。</p>
+<p><strong>葡萄糖 + 氧气=二氧化碳 + 水 + 能量</strong></p>
+<p>C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 能量</p>
+<p>1 摩尔葡萄糖完全氧化分解可以生成 6 摩尔水</p>
+<p><strong>脂肪酸 + 氧气=二氧化碳 + 水 + 能量</strong></p>
+<p>(CH₂)ₙCOOH + (n + 2/2)O₂ → (n + 1)CO₂ + (n + 1)H₂O + 能量</p>
+<p>以棕榈酸为例，</p>
+<p>C₁₆H₃₂O₂ + 23O₂ → 16CO₂ + 16H₂O + 能量</p>
+<p>1 摩尔棕榈酸完全氧化分解可以生成 16 摩尔水。</p>
+<p><strong>氨基酸 + 氧气=二氧化碳 + 水 + 氨 + 能量</strong></p>
+<p>以丙氨酸为例</p>
+<p>C₃H₇NO₂ + 2O₂ → 3CO₂ + 3H₂O + NH₃ + 能量</p>
+<p>1 摩尔丙氨酸完全氧化分解可以生成 3 摩尔水。</p>
+<p><strong>食物消化代谢也是可以产生大量水的啊！！</strong></p>
+<p>那还愁啥呢？</p>
+<p>只要吃的饱，不怕没水喝。</p>
+<p>所以说，</p>
+<p>日常捕猎顺便喝的海水已经够多了。</p>
+<p>海兽们其实并不需要专门喝海水补充。</p>
+<p>那非要补充怎么办？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c5d093bbec02cfc2c4c4e7cdc949233d_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2011456905860626047">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/7083692201">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788411</guid><pubDate>Sat, 21 Mar 2026 18:29:16 GMT</pubDate></item><item><title>为什么凯撒一直在处于原始部落形态的高卢人和部分日耳曼人头上虐菜刷战绩就能被吹上天?</title><link>http://daily.zhihu.com/story/9788416</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-059208b1b4554981229955204470297f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788433</guid><pubDate>Sun, 22 Mar 2026 01:49:55 GMT</pubDate></item><item><title>有的植物是不是命特别硬，比如牛油果的历任传播者都灭绝了？</title><link>http://daily.zhihu.com/story/9788434</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-34e1a02472d6aa3a113da52c8359fcf0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -130,51 +258,120 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-1b2889cd21a77789194e961efc7f6f09_l.jpg?source=8673f162">
-<span class="author">ag獭，</span><span class="bio">好奇而无用的獭獭</span>
-<a href="https://www.zhihu.com/question/2010064118816723490/answer/2010485880507344707" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-a238e228bac402aa4ecc0b5f5107f085_l.jpg?source=8673f162">
+<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
+<a href="https://www.zhihu.com/question/2015540904254007043/answer/2015754027464413546" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>处于“原始状态”的凯尔特人和日耳曼人，当时总人口已经多达数百万甚至近千万。其中比较大的部落联盟，人口可能不比“强大的”匈奴少多少。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5bbb2df0a25d9aee2a42b07b8ab2dabb_720w.jpg?source=8673f162" alt=""><figcaption>铁器时代晚期欧洲主要的 Oppidum 设防聚落</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-10e34a3c6df8f3d2a07bdfed84e98305_720w.jpg?source=8673f162" alt=""><figcaption>对凯尔特人设防聚落的复原</figcaption></figure>
-<p>罗马征服前夕，凯尔特人和日耳曼人已经在欧洲各地修建了成百上千座设防聚落 Oppidum。其中较大的 Oppidum 可以容纳数万人口，已经称得上是个大城市了。比如位于今比利时境内的 Avaricum，在罗马征服前约有 4 万人口。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-36a9d8ba7e119496e7fc19c2917965af_720w.jpg?source=8673f162" alt=""><figcaption>重建的 Heidengraben 防御墙</figcaption></figure>
-<p>当时由“欧洲蛮族”建造的最大设防聚落，可能是德国南部的 Heidengraben。这座要塞占地面积超过 1700 公顷，相当于 23 个多故宫。由石块、木材和泥土建造的防御墙以及护城河保护，设有 8 座城门，其中最大的一个城门拥有长达 35 米的入口。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-16bfb02954490b6b2cfab570436e6268_720w.jpg?source=8673f162" alt=""><figcaption>比勃拉克特城墙</figcaption></figure>
-<p>这一时期比较有代表性的设防聚落还有比勃拉克特（Bibracte），位于今法国中部，是埃杜伊人的权力中心。埃杜伊是当时规模最大的高卢部落联盟之一，控制着高卢地理中心的大片土地，拥有数十万人口和多个设防聚落 Oppidum。作为权力中心，比勃拉克特拥有超过 3 万居民，由两道石墙保护，设有大约 15 座城门。其中最重要的雷布特门宽 20 米，深 40 米，是城市的主要入口。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-004a5b1d8bfc8d5d0b27b4ba7b776063_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b0dc84ac87d195cb3ded19844b383abf_720w.jpg?source=8673f162" alt=""></figure>
-<p>而处于“原始状态”的埃杜伊人，当时已经能够制造钱币，拥有发达的商业和制造业。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9ca602fa57c87278569e192983bd9c93_720w.jpg?source=8673f162" alt=""><figcaption>塞广尼人的钱币，早期钱币可以看到明显的希腊影响</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-856c9c83eafb463c1d35b6871ee5e46f_720w.jpg?source=8673f162" alt=""><figcaption>比较晚期的帕里西人的钱币，上面的图案已经变得比较抽象了</figcaption></figure>
-<p>埃杜伊并不是唯一铸造钱币的高卢部落联盟，早在公元前 4 世纪，受希腊影响，凯尔特人就开始铸造钱币，上面的图案包括骑马冲锋陷阵的战士、车轮、雷霆闪电、太阳和月亮等。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-91b5e08f79d9c14c39e55b42b810cf44_720w.jpg?source=8673f162" alt=""><figcaption>高卢人的历法石碑</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5c5292ac352963d8f3e0ec417928f267_720w.jpg?source=8673f162" alt=""><figcaption>刻有高卢文字的陶盘</figcaption></figure>
-<p>受邻近的希腊、罗马等文明影响，当时许多凯尔特部落已经能够使用文字。这些文字大多由希腊字母演化而来，也有受古意大利字母影响的版本。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-97961acf68bc5a3324b8f3534e40b889_720w.jpg?source=8673f162" alt=""><figcaption>古罗马时期的雕像，描绘了身穿锁子甲的凯尔特武士形象</figcaption></figure>
-<p>生产技术方面，古代欧洲流行千年的锁子甲，最早就是由凯尔特人发明的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bb80b230ac7c037fd25ec5bf9abc2e50_720w.jpg?source=8673f162" alt=""><figcaption>凯尔特人的青铜植物纹样装饰品</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-92170e92dd6349b62736b41fc62c3426_720w.jpg?source=8673f162" alt=""><figcaption>英国出土的凯尔特盾牌，距今约 2350—2050 年</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f9ffb65bc26415d2f563e90a15ba81f_720w.jpg?source=8673f162" alt=""><figcaption>法国出土的凯尔特仪式头盔，距今约 2350 年</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0b7ba780cee4469f846fd93c524675c4_720w.jpg?source=8673f162" alt=""><figcaption>公元前后的不列颠凯尔特青铜镜，展示了凯尔特风格的螺旋装饰图案</figcaption></figure>
-<p>在艺术领域，凯尔特人也发展出了独特的风格，偏好几何图案而不是具象主题，多以螺旋形、圆型、三角形等形状或者植物图案组合进行装饰。凯尔特人擅长制作金属工艺品，如今留存下来的大多数凯尔特艺术品都是金属制品。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c12dda78c6388cea930a607306ed8d2_720w.jpg?source=8673f162" alt=""><figcaption>Gundestrup 银锅，丹麦，距今约 1700—2200 年，这是欧洲铁器时代发现的最大的银器，显示了日耳曼人财富的增加，以及凯尔特、色雷斯和东方文化的影响</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-611186ad2d75b633264856920518542e_720w.jpg?source=8673f162" alt=""><figcaption>丹麦出土的日耳曼金属盘</figcaption></figure>
-<p>日耳曼人的艺术和凯尔特人类似，不同的是，其装饰内容不局限于几何与植物图案，而且能够发现一些带有叙事内容的艺术品。</p>
-<p>其实当时的凯尔特人和日耳曼人，在生产技术方面并不比罗马人低多少，人口也非常多，只是组织水平相对较低，没有形成规模庞大的广域国家，还处于酋邦林立的阶段。所以与其把凯撒面对的高卢人和日耳曼人想象成原始的石器时代部落，不如把他们想象成众多不服王化的邦国。能够征服这么多拥有铁器，能够建造大规模设防城市的邦国，还是非常不容易的。</p>
+<p>你切开牛油果的时候有没有思考过这个问题：</p>
+<p>这个巨大无比的核，难道不会把帮忙传播种子的动物噎死？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ce18a33e6b7912c5cc5ce290f972f90d_720w.jpg?source=8673f162" alt=""></figure>
+<p>或者说，它的传播者有个雷霆大口？</p>
+<p>比如，美洲“象”？（牛油果是一种原产于墨西哥和中美洲的水果。）</p>
+<p>但是只听过非洲象，亚洲象，美洲哪来的象呢？其实是有类似的，猛犸象，乳齿象，都灭绝了。</p>
+<p>确实，牛油果命很硬，迷信一点的话，你甚至可以说它是“大凶之兆”，因为它的历任动物传播者都灭绝了。</p>
+<p>甚至其后的人类传播者：阿兹克特人都惨遭屠族。</p>
+<p>甚至在现代还引起黑帮战争。</p>
+<p><strong>牛油果的历史可以单开一本拉丁美洲的《万年孤独》。</strong></p>
+<p>不过我们生物学上不说命硬，说它是“生态孤儿”。</p>
+<p>生态孤儿指的是那些在生态学上本来是有对应的植物或者动物共同进化的物种，失去了对应的伙伴以后表现出来的一些不合时宜的情况。</p>
+<p>或者你还可以叫它们：“<strong>进化幽灵</strong>”</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-48892788fed19c383b0a824c8d0c8cbb_720w.jpg?source=8673f162" alt=""></figure>
+<p>比如美国皂荚奇大无比但是间隙很大的防御刺，根本防不了鹿，牛油果巨大的核，会噎死它原产地目前所有传播者。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ab9943a43073f064c46f5c109dc8c6dc_720w.jpg?source=8673f162" alt=""></figure>
+<p>它们有个共同的指向：乳齿象。但是进化的长河里，乳齿象已经灭绝了，这些生态孤儿却好似那唐吉坷德仍然兀自挥舞着不合时宜的长剑对抗风车巨人。</p>
+<p>是不是很有意思？</p>
+<p>那我们从远一点开始说吧。</p>
+<p><strong>一、晚第四纪大灭绝事件（约 5 万至 1 万年前更新世末）</strong></p>
+<p><em><strong>多年以后，面对搅拌机里旋转的刀叶，来自米却肯的牛油果会不会回想起晚更新世大地懒伸出刀叶般锋利前爪的遥远下午。</strong></em></p>
+<p>几万年前，听起来多么遥远的时间。</p>
+<p>彼时的人类，还没有进入新石器时代，还没开始农耕生活。</p>
+<p>但是这时候的人类早就会说话记事了。</p>
+<p>在欧亚大陆、澳洲、美洲流传着一个七姐妹的故事。</p>
+<p>七姐妹被猎人或者什么动物追逐，最终变成了天上的七颗星，这是<strong>昴星团</strong>的故事。</p>
+<p>但是奇怪的是，昴星团通常只能看见六颗，而不是七颗，所以这个故事有很多补丁版本，解释最后一个姐妹消失了。所以是六颗。</p>
+<p>据天文学家推测，大概几万到十万年前，昂星团的第七颗星确实是清晰可见的。但是最终变得黯淡。</p>
+<p>所以这个传说的历史可能有大概十万年之久，通过人类口口相传。</p>
+<p>现在我们作为人类，听起来这种故事有种源远流长的宏大和浪漫，但是对美洲、欧亚大陆的大型动物来说，这特么简直是个恐怖故事。</p>
+<p>这意味着人类这种地表最强捕食者，早就已经拥有强大的语言能力和代际相传的智慧了。</p>
+<p>这意味着，人类所到之地，可以一毛不剩：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3940d6d8fccd7beb76cca12465c402c1_720w.jpg?source=8673f162" alt=""></figure>
+<p>20 世纪 30 年代起，巴西和阿根廷境内陆续发现了一批非常规整的巨型隧道。</p>
+<p>据推测这些地道可能有<strong>一万年左右</strong>的历史。</p>
+<p>在排除地质形成和古人类挖掘以后，科研人员根据墙上的爪印推测，这些巨大的隧道是已经灭绝的大地懒留下的：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0441c25737cfa9d847d5af7054fdd944_720w.jpg?source=8673f162" alt=""></figure>
+<p>大地懒体型可与现代亚洲象媲美。它们体长达 5-6 米，体重约 4 吨：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a66f65b3a9fe5abdcdcff7c05e5ba923_720w.jpg?source=8673f162" alt=""></figure>
+<p>嗯，<strong>几万年前</strong>，这些巨兽就这么悠闲的徜徉在美洲大陆上，没事吃一两口牛油果或者别的什么水果，然后顺便帮它们传播果实。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-77e456ca92d6c335f04bbc97e5ce46ce_720w.jpg?source=8673f162" alt=""><figcaption>乳齿象化石</figcaption></figure>
+<p>科研人员推测大地懒最有可能是牛油果的主要传播者。</p>
+<p>其他的包括当时的乳齿象（不是象科）、猛犸象、雕齿兽等等成吨的巨兽，都有可能是牛油果的传播者。</p>
+<p>但是不幸的是，人类走出了非洲，正在扩张他们的领地。</p>
+<p><strong>然后就发生了我们现在叫做第四纪灭绝事件的惨事。</strong></p>
+<p>更新世末期，全球范围内发生了一场规模空前的巨型动物灭绝事件，仅北美洲就有<strong>78%，</strong>约有 33 属的大型哺乳动物消失。</p>
+<p>这其中可能是气候变化的原因，也有可能是人类过度捕猎的原因。</p>
+<p>总而言之，对牛油果来说，全新世一开始（11700 年前），曾经的伙伴全都消失了。</p>
+<p>不管是第一传播合作伙伴大地懒或者猛犸象、雕齿兽、乳齿象等备选项乃至于箭齿兽和长颈驼​勉强能吞下牛油果种子的再次选项。</p>
+<p>全部都，灭绝了。</p>
+<p>哎，还真是一个全新的开始呢。</p>
+<p>不过好在牛油果除了有性繁殖以外，还可以无性繁殖，成年植株的根系可在土壤表层产生不定芽，发育为遗传一致的克隆分株。</p>
+<p>但是长期无性繁殖的代价就是物种的遗传多样性会降低，基因相似度很高，容易被病菌一锅端。</p>
+<p>好在很快人类接盘者出现了。</p>
+<p>大约一万年前进入新石器时代后，人类就开始农耕生活了。</p>
+<p>这个时候美洲的阿兹特克人很快发现了牛油果的肥美，开始帮它传播种子。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ae43ee500d761a7dfb89caa889fcd92_720w.jpg?source=8673f162" alt=""><figcaption>美洲壁画里关于牛油果的生活场景</figcaption></figure>
+<p>玛雅文明（尤卡坦半岛）使用牛油果的符号来表示他们历法的第 14 个月。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9a0071a6f8f8724693b9420be8d8ff93_720w.jpg?source=8673f162" alt=""></figure>
+<p>同样的符号也出现在玛雅城市普西利亚（今伯利兹）的徽章中。</p>
+<p>因此，这座城市被称为牛油果王国，其统治者被称为“牛油果之主”。</p>
+<p>后来的事情你们也知道了。</p>
+<p>世界进入大航海时代，约 16 世纪的时候，西班牙人来了。</p>
+<p>除了直接的战争伤亡外、屠杀和奴役、强迫劳动外，西方人带来的天花等美洲原住民从没见过的病原体，种种原因导致大约 90%的阿兹特克人死亡，阿兹特克帝国灭亡。</p>
+<p>1655 年英国夺取牙买加后，牛油果逐渐进入英国航海网络。</p>
+<p>到 18 世纪，欧洲水手因为牛油果的脂肪含量很高，常将其捣碎涂抹在硬饼干上当黄油食用，因此被称为 <strong>“midshipman’s butter”（海军黄油）</strong>。</p>
+<p>另外，牛油果还有另外个名字“鳄梨”<strong>（</strong>alligator pear<strong>）</strong>，这个名字就是在牙买加形成的。</p>
+<p>总而言之，这一时期，西方入侵者替代了美洲原住民，成为牛油果新的传播者。</p>
+<p><strong><strong>二、墨西哥，离天堂太远，离美国太近</strong></strong></p>
+<p>20 世纪 90 年代，随着健康饮食的风潮兴起，牛油果忽然成了美国等发达国家的饮食新指标。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-75d87fb817b8608577d4df2c9ac1abef_720w.jpg?source=8673f162" alt=""><figcaption>亚麻籽、橄榄油、喜马拉雅玫瑰盐、牛油果、冰美式能够组成一顿非常 fashion 的健康早餐</figcaption></figure>
+<p>各种电视台节目以及千禧年后网络媒体都不遗余力的宣传牛油果这种植食性脂肪比动物脂肪更健康。</p>
+<p>总而言之，牛油果确实成为了一种新的饮食范式里面的代表水果。</p>
+<p>美国对此需求量巨大。</p>
+<p>虽然目前墨西哥仍然是最大的牛油果消费国（美国第二），但是按照消费市场的影响力来看，确实是美国这个消费市场引领着全球的牛油果风潮。</p>
+<p>并且美国本土的牛油果产量很少，大约 90%的牛油果消费都依赖进口。</p>
+<p>而墨西哥又是世界上牛油果产量和出口量第一的国家。</p>
+<p>因此牛油果给墨西哥带来巨大的经济效应，被成为绿色黄金。</p>
+<p>墨西哥牛油果产业的核心产区在<strong>米却肯州</strong>。</p>
+<p>这里是全球最大<strong>哈斯牛油果（80%以上）</strong>产地。</p>
+<p>主要是因为米却肯州拥有海拔 1500-2400 米的火山带，火山灰土壤富含矿物质，年均 20-25℃的温度完美匹配牛油果的生长需求。</p>
+<p>这种地理垄断性，使得即便每公顷年耗水 2 万立方米导致溪流干涸（灌溉牛油果的单位用水量是西红柿的十倍左右），农民仍愿意透支地下水。</p>
+<p>但是问题来了，每年十亿美元的经济效应，可是黑帮不愿意放弃的香饽饽。</p>
+<p>围绕这些让人富得流油的牛油果，爆发了多次黑帮冲突。</p>
+<p>米却肯州的乌鲁阿潘是牛油果贸易中心之一。</p>
+<p>2019 年当地发生一起震惊墨西哥全国的事件：一起黑帮冲突后，犯罪集团将 <strong>19 具尸体弃置在桥上</strong>作为恐吓。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c64e2762309d37bc7a36160148895726_720w.jpg?source=8673f162" alt=""></figure>
+<p>这背后涉及多个黑帮争夺当地经济控制权，包括牛油果产业链。</p>
+<p>至于在米却肯多地，犯罪组织向农民征收所谓“保护费”，以及黑帮和当地农民自卫队的冲突小摩擦也是每年不断。</p>
+<p>甚至 2022 年还发生了美国农业部的农业安全检查员在收墨西哥牛油果的时候遭到米却肯黑帮的电话威胁从而导致停止收购牛油果一段时间的新闻。</p>
+<hr>
+<p>总而言之，牛油果就是这么富有传奇色彩的一种水果，你要说它营养价值只应天上有，地上绝无仅有倒也没这么夸张，橄榄油 + 燕麦、坚果等地中海饮食方式也可以提供牛油果提供的那些不饱和脂肪酸。</p>
+<p>并且里面的脂肪含量并不低，不注意营养配比依然有长胖的风险。</p>
+<p>只是作为素食天然正确，再加上健康营销的包装，使得它成为一种看起来很健康的超级食物。</p>
+<p>虽然目前我国有国产的牛油果，但是高端市场还是以进口的牛油果为主，溢价还是很高的（相比其营养成分）。</p>
+<p>不过无论如何，牛油果这么“命硬”，大克四方，还真不是它的主观故意，从某个角度来说，它也是被利用的“孤儿”罢了，毕竟那些曾经陪伴它，帮它传播种子的伙伴已经永远的消失在历史的长河了。</p>
+<p>以上~</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2010064118816723490">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2015540904254007043">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788416</guid><pubDate>Sat, 21 Mar 2026 18:29:17 GMT</pubDate></item><item><title>林黛玉称自己一无所有，吃住都靠贾家，为什么却不能共情来贾家求助的刘姥姥，说她是母蝗虫？</title><link>http://daily.zhihu.com/story/9788424</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-3da4a0cada9deae6e7288e3cc18d0b69.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788434</guid><pubDate>Sun, 22 Mar 2026 01:49:56 GMT</pubDate></item><item><title>为什么猫咪长了一双适合直立行走的大脚？</title><link>http://daily.zhihu.com/story/9788438</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-f58e66121e2cf33badfa1245c374d704.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -194,85 +391,74 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-a16fe85dc7442c73a3189bb927b38576_l.jpg?source=8673f162">
-<span class="author">清清也要托物言志，</span><span class="bio">明月松间照，清泉石上流</span>
-<a href="https://www.zhihu.com/question/1995095254974608995/answer/2011161164399269230" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/1931067771132839384/answer/2015804351743017603" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>刘姥姥在大观园拉了泡屎，没洗手，又跑贾宝玉床上睡觉。</p>
-<p>岁数大了眼花，屁股没擦干净或者手上沾点儿星子，都是有可能的。</p>
-<p>随后刘姥姥一边打呼噜，一边放屁，打酒嗝。</p>
-<p>袭人进来时，“闻见酒屁臭气满屋”，可见放屁酒嗝就没停过。</p>
-<p>虽然她猛抓了三四把百合香来烧，试图冲淡一屋子臭气，</p>
-<p>但贾宝玉的枕头一定沾了刘姥姥打嗝带出来的口水，被褥也一定被刘姥姥的手摩擦过。（原文：“刘姥姥<strong>扎手舞脚</strong>的仰卧在床上。”）</p>
-<p>哦对了，从原文描写看，刘姥姥应该也没脱鞋。</p>
-<blockquote>便一屁股坐在床上，只说歇歇，不承望身不由己，便前仰后合的蒙眬著两眼，一歪身，就睡熟在床上。</blockquote>
-<p>贾宝玉的床，经历了这样的洗劫...</p>
-<p>不要说贾宝玉了，我们现代人也不想自己的床被某个亲戚这么糟蹋吧？</p>
-<p>更何况还是八竿子打不着上赶着认亲、远道而来串门、走的时候大包小包拉车带走的亲戚。</p>
-<p>说一句这种亲戚是母蝗虫一样的风格，有什么问题？</p>
-<p>（不要说刘姥姥二进荣国府时送了新鲜瓜菜，贾府回礼的价值是这些瓜菜的千倍万倍，如果贾府比王狗儿家还穷，猜猜刘姥姥会不会送东西。）</p>
-<p>可以说，黛玉和妙玉都有一双慧眼，能不被刘姥姥那“贫苦老实人”外表所迷惑。</p>
-<p>刘姥姥在贾母王夫人凤姐面前表现得非常卑微，一副憨厚善良老实巴交的样子，为了讨好她们，说话尽挑好听的说，还心甘情愿拿自己开涮。</p>
-<p><strong>但刘姥姥醉卧怡红院这一段，曹雪芹展现的是四下无人时，极度放松、卸掉一切伪装的刘姥姥。</strong></p>
-<p>真正厚道的人，再穷也不会在亲戚家里乱蹿。即使不小心进了卧室，也不会奔着床一屁股坐上去，贾宝玉屋里又不是没椅子。</p>
-<p>有个对比很有意思。贾母等人在的时候，板儿摸探春拔步床的纱帐，刘姥姥打了他一巴掌，骂他是下作黄子。现在没有别人了，她自己爬上贾宝玉的床，呼呼大睡……</p>
-<p>有句话说得好，有熊孩子就有熊家长。小孩下作的背后，是下作大人的言传身教。</p>
-<p>喝醉可不是挡箭牌。酒品见人品，喝醉了才更容易暴露本性。</p>
-<p>有人觉得，哎人家刘姥姥是农民啊，不能要求她素质太高。这就是概念不清了，<strong>一个人所在的阶级与她本人的素质并不能划等号。</strong></p>
-<p>我拿个同样是农户的老太太和刘姥姥比吧！二丫头的奶奶，大家记得吗？</p>
-<p>第十五回，凤姐带着贾宝玉秦钟给秦可卿送殡，路上想方便，暂时在二丫头家休息。</p>
-<p>小厮陪着贾宝玉秦钟游玩，贾宝玉看到纺车很好奇，二丫头就过来教他，你看，是这样纺线的。</p>
-<p>这时二丫头的奶奶就把二丫头叫走了。即使这样的富贵公子，老奶奶也觉得孙女不能这样主动。</p>
-<p>尽管二丫头的奶奶是个普普通通的农妇，人家也知道要孙女和外男保持距离，而不是满脸堆笑的端上酒菜来，巴不得孙女多陪富贵公子几小时。</p>
-<p>大家瞧，这就是最基本的边界感，分寸感。同处劳动阶级，二丫头的奶奶比刘姥姥强太多了。</p>
-<p>刘姥姥乱闯乱躺，这不叫老实厚道，而是<strong>不懂分寸</strong>，和她营造出来的战战兢兢，诚惶诚恐，相差太远了。</p>
-<p><strong>而不懂分寸的背后，是自私。</strong></p>
-<p>不妨细读刘姥姥与王狗儿商量去贾府打秋风这一节。</p>
-<p>打秋风，用现在的话讲，就是卖惨要钱。</p>
-<p>先看刘姥姥家的实际情况，并不是吃了上顿没下顿，她住在农户女婿王狗儿家，自己也有田。</p>
-<blockquote>一家四口，以务农为业。因狗儿白日间又作些生计，刘氏又操井臼等事。</blockquote>
-<p>王狗儿“白日又做些生计”，也就是说除了务农之外，另有活计，有一份额外收入。</p>
-<p>去贾府打秋风之前，王狗儿的状态是“家中冬事未办”，意思是还没准备过年的东西。</p>
-<p>王狗儿一看还没办年货，很不高兴，就去喝酒，喝多了，拿老婆撒气。</p>
-<blockquote>因这年秋尽冬初，天气冷将上来，<strong>家中冬事未办，狗儿未免心中烦虑</strong>，吃了几杯闷酒，在家閒寻气恼，刘氏不敢顶撞。</blockquote>
-<p>烦闷了就喝酒，这哪是穷到没饭吃的样子？刘姥姥对凤姐说板儿爹娘“在家里连吃的也没有”，纯属胡扯，不拼命往惨里说怎么能博得同情呢。</p>
-<p>王狗儿小时候也是过着富足生活的，只是不善经营，大手大脚惯了，经济状态不如父亲在世时而已。</p>
-<blockquote>因此刘姥姥看不过，乃劝道：“……<strong>你皆因年小时托着那老的福，吃喝惯了，如今所以把持不定。有了钱就顾头不顾尾，没了钱就瞎生气</strong>，成了什么男子汉大丈夫了。”</blockquote>
-<p>王家为什么有钱？因为王狗儿父子俩帮周瑞抢别人的地，而周瑞家的正是靠着这点情分，才肯帮刘姥姥去找凤姐。</p>
-<blockquote>（王狗儿：）这周瑞先时曾和我父亲交过一桩事，我们本极好的。<br><br>周瑞家的听了，便已猜着几分来意。只因他丈夫昔年争买田地一事，多得狗儿之力，今见刘姥姥如此，心中难却其意，二则也要显弄自己的体面，</blockquote>
-<p>真是讽刺，刘姥姥的打秋风大计能成功，得益于若干年前，某个或某些农户的财产被掠夺……</p>
-<p>王狗儿一家大手大脚的背后，是那些农户失去产业。</p>
-<p><strong>王家在乡间，是恶霸狗腿一样的存在。</strong></p>
-<p>所以，把女儿刘氏嫁到王家的刘姥姥，怎么可能宽厚善良，怎么可能是老实巴交的穷人？别忘了，村庄乡绅大家摆宴，刘姥姥也是有一席之地的。</p>
-<blockquote>刘姥姥听了心下敁敠道：“……我时常在村庄乡绅大家也赴过席，金杯银杯倒都也见过，</blockquote>
-<p>嫌贫爱富，趋炎附势才是她的标签<strong>。</strong>精明贪婪，擅于伪装，利用别人的善良为自己牟利，这才是真实的刘姥姥。</p>
-<p>总有人把刘姥姥吹捧成热心义气的大善人，说她在贾府落难时卖房卖地，把巧姐从青楼赎了出来。</p>
-<p>很不幸，<strong>这只是 87 版电视剧一厢情愿的演绎，原著并没有这种情节。</strong></p>
-<p>要知道刘姥姥是靠女儿女婿养活的，当家的是王狗儿，她就是真的想卖房卖地赎巧姐，王狗儿也不会答应啊！</p>
-<p><strong>实际上，让巧姐遇恩的根本不是刘姥姥，而是她的女儿刘氏。</strong></p>
-<p>感谢评论区知友@狼人 提醒。刘姥姥不姓刘，她的女儿刘氏才姓刘。</p>
-<p>请看巧姐的判词：“<strong>偶因济刘氏</strong>，巧得遇恩人。”写得非常清楚，刘氏才是帮助巧姐得救的那个人。</p>
-<p>但刘氏也不可能卖房卖地赎巧姐，她在王狗儿面前根本没有话语权，王狗儿发脾气她都不敢接话。<strong>凤姐济刘氏只是巧姐遇恩人的一个因素。</strong></p>
-<p>就好比，王狗儿父子帮周瑞抢人田产，周瑞家的念着这点情分，向凤姐引荐了刘姥姥，刘姥姥得了二十两银子。这二十两不是周瑞家的出的，而是凤姐给的。</p>
-<p>套用这个公式，王狗儿一家就是：<strong>偶因帮抢田，巧得打秋风。</strong></p>
-<p>把巧姐的判词和曲词“幸娘亲，积得阴功”结合起来看，巧姐脱险的实际情况应该是这样：</p>
-<p>狠舅奸兄要拿巧姐换银钱，刚好遇到了那位“恩人”，刘氏也在。刘氏知道巧姐，她想起凤姐曾接待过自己母亲，让自己家得了不少东西和钱，就发了话，这笔人肉生意没做成。</p>
-<p>于是“恩人”把巧姐带去了荒村野店，让她做了一名贫苦的村妇。这比被卖掉要强一些，在巧姐看来，已经是劫后余生了，所以管他叫恩人。</p>
-<p>那么问题来了，“恩人”为什么能听刘氏的？刘氏说了什么？这位“恩人”的营生是什么，为什么能让巧姐不被卖？……</p>
-<p>巧姐遇恩的具体场景到底是怎样的，这才是个细思极恐的问题。</p>
-<p>红楼梦里处处谶语，极有可能的是，刘姥姥本性就犹如蝗虫。</p>
-<p>散居的蝗虫相对温和，食量小，不迁飞，基本无害。当蝗虫聚集在一起成为群居型，攻击性暴增，成为凶蝗群，能吃能飞，所到之处洗劫一空。</p>
-<p>​母蝗虫，可是繁殖能力惊人，轻轻松松制造出凶蝗群的……</p>
+<p>2009 年，法国网友上传了一段叫“Standing Cat”的视频，一只名叫 Rocky 的虎斑猫直直站在那儿看窗外。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4bebb26e475e63c634d95463ee711fa7_720w.jpg?source=8673f162" alt=""></figure>
+<p>画面很简单，几十秒里什么也没发生，但很快就火了。</p>
+<p>你大概也刷到过类似的画面：猫像人一样“站起来”，表情严肃，姿势僵硬，看久了有一点滑稽。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7853c18403445e9fa8ede00fdf53b599_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d04403767b7d59ca56d7a952136f0dca_720w.jpg?source=8673f162" alt=""></figure>
+<p>问题来了，猫的脚垫这么厚、脚看起来也不小，为什么没有进化成像人一样直立行走？</p>
+<p>先说结论：</p>
+<p>猫的脚看上去“大”，但那套结构主要是为了四肢着地的趾行跑跳服务的。所谓的“大脚”，其实只是误解。</p>
+<p>图中那两条白色的长段，也就是从腿根到趾垫之间那一大截毛茸茸的部分，是<strong>跖骨（metatarsal bones）</strong>，对应的是人类脚掌中段那段骨头。但在猫身上，这段骨头是<strong>竖起来的、悬空的</strong>，平时走路根本不接触地面。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d11d7dda1b2d3939d1c2261ab4926626_720w.jpg?source=8673f162" alt=""></figure>
+<p>但在猫身上，这段骨头是<strong>竖起来的、悬空的</strong>，平时走路根本不接触地面。</p>
+<p>真正算"脚"、也就是着地的部分，只有图片最末端那几个粉色肉垫，也就是趾垫和掌垫。</p>
+<p>先把一个容易混的概念说清楚。哺乳动物的走路姿势，大致有三种。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-986a116e0e56bc4cac6acb418ef91371_720w.jpg?source=8673f162" alt=""></figure>
+<p>一种像人和熊这种，把趾头、脚掌和脚跟都踩在地上，叫跖行（Plantigrade）。身体重量落在整个脚掌上。</p>
+<p>一种是只用趾头和脚趾下方的垫子接触地面，脚跟是悬空的，叫趾行（Digitigrade）。</p>
+<p>还有一种是只用趾尖，也就是蹄子那一小块接地，叫蹄行（Unguligrade）。</p>
+<p><strong>猫属于典型的趾行动物。</strong></p>
+<p>有人觉得猫"脚很大"，相当大程度上是把这整段跖骨区域也算进去了。</p>
+<p>回到前面的图，注意看两张图里猫的后脚底部。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ace73d1ec5409d90e089cbbd9d800c3_720w.jpg?source=8673f162" alt=""></figure>
+<p>站立时，跖骨段也被迫贴近地面，整个后脚接触面积明显扩大，更接近跖行姿势。这不是主动选择，而是为了扩大支撑面、防止向后倒的被动补偿 。</p>
+<p>此时，后肢三个关节同时处于极度伸展状态，把身体整体撑起来。这三个关节在四足奔跑时分工合理，但同时竖向承受全身重量是非常规工作状态，维持时间有限 。</p>
+<p>猫的脊柱是 C 形弓，适合四足跑跳时的水平状态。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-24938af4784081ae1412728e2dae44e9_720w.jpg?source=8673f162" alt=""></figure>
+<p>站立时，腰椎被迫向后过伸，把躯干"撑"在后肢上方。</p>
+<p>你在前面图里可以观察到猫的躯干和地面接近垂直，但这个姿势没有人类 S 形脊柱那种结构性支撑，完全靠腰部肌肉持续发力维持，很快就会疲劳。</p>
+<p>两张图里前肢都是收起来的，没有着地，也没有靠着东西。前肢在这里的主要作用是通过悬空位置微调重心。重心一旦偏前，猫就会俯冲下去；偏后则向后倒。前肢相当于一个动态平衡杆。</p>
+<p>以上这些都需要不断的肌肉主动调整。这和人站立时重心自然落在双脚支撑区域内、不需要持续用力的机制完全不同 。</p>
+<p><strong>那既然这么费力，为什么猫有时会偶尔站起来呢？</strong></p>
+<p>原因主要有三个：看得更远、够东西、在冲突中显得更有压迫感。</p>
+<p>下图中豹子也处于后腿直立的姿势：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-cfe42bca86aff438ccf08c1be181ceee_720w.jpg?source=8673f162" alt=""></figure>
+<p>原因很直接：公路两侧高草完全挡住了视线，豹子需要一个更高的视角来确认猎物位置 。没有树可以爬，没有土坡可以借，直接站起来是最快的解决方案。</p>
+<p>和家猫短暂直立一样，这个姿势涉及同一套临时机制，但放大到一只 50~90 kg 的大型猫科动物上，代价更明显。</p>
+<p>你可以很清楚看到，后脚着地方式改变，跖骨段贴近地面扩大支撑面，但这对豹子的关节压力远大于家猫，因为体重是家猫的几十倍 。</p>
+<p>髋关节、膝关节、踝关节同时强力伸展，这三个关节在水平奔跑时是分工合理的弹射结构，此时被迫纵向承重，不是它们的设计工作状态 。脊柱依然是 C 形弓，腰部肌肉在主动发力维持躯干竖直，这在体重更大的情况下消耗更快，所以豹子站立时间极短。</p>
+<p><strong><strong>直立行走的真正难点，不在脚多大。</strong></strong></p>
+<p>决定一个哺乳动物能不能习惯性直立行走，关键在于枕骨大孔的位置。</p>
+<p>这是一个位于头骨底部的骨骼开孔，脊髓从这里穿过并连接大脑。2013 年，德克萨斯大学奥斯汀分校的人类学副教授克里斯·柯克（Chris Kirk）团队，对 71 个哺乳动物物种的枕骨大孔位置进行了对比测量研究 <sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ada7052efe63ffe2747535d5504f0bf_720w.jpg?source=8673f162" alt=""></figure>
+<p>下图中，习惯直立躯干姿态（Orthograde）的狐猴，其枕骨大孔比非直立姿态的近亲更靠前。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4a707aa6bd20a1200bc233c84f0b8716_720w.jpg?source=8673f162" alt=""></figure>
+<p>研究确认，人类的枕骨大孔位于头骨正下方，这使得头部可以直接平衡在直立的脊柱顶端，眼睛自然平视前方 。而猫科动物的枕骨大孔位于头骨的后方 。</p>
+<p>如果猫长时间依靠后肢直立，脊柱会把头骨向后上方顶起，它的脸会直接朝向天空。猫为了看清前面的路，必须极其费力地把颈椎向前弯折。这种低效的骨骼约束，直接切断了它们常态化直立行走的可能。</p>
+<p>除了脖子受不了，猫的内脏承重机制也完全不支持直立。人类的骨盆为了适应双足直立，进化成了一个宽阔的碗状结构。</p>
+<p>根据 1960 年科学家沃什伯恩（Washburn）提出的产科困境假说<sup>[2]</sup>，以及后续的三维有限元分析研究，人类骨盆的这种形状是为了在纵向上从底部托住整个腹腔的内脏以及胎儿。</p>
+<p>猫的骨盆则是一个狭长的管状结构，走向与脊柱平行。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f93e9a39d2877c50f36d601c9043948b_720w.jpg?source=8673f162" alt=""></figure>
+<p>在四足行走时，猫的内脏是靠腹部肌肉群在横向上悬吊着的。</p>
+<p>如果强迫猫长时间直立，这套悬吊系统就会失效，内脏会在重力作用下全部向骨盆腔堆积。它们狭窄的骨盆根本没有类似碗底的支撑面来防止内脏异常挤压。</p>
+<p>所以，猫偶尔依靠后肢站立，仅仅是为了改变视角获取视野。目前的四足趾行形态，已经满足了伏击捕食者的生存需求。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-12e86df792a9da897045e07947544af1_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1995095254974608995">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1931067771132839384">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788424</guid><pubDate>Sat, 21 Mar 2026 18:29:18 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788438</guid><pubDate>Sun, 22 Mar 2026 01:49:57 GMT</pubDate></item></channel></rss>
