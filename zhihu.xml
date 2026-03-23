@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 22 Mar 2026 18:29:43 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么蓝色和绿色会分辨不好？</title><link>http://daily.zhihu.com/story/9788443</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-3a8e987ab890ae560a4c1e679f4e0f1e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Mon, 23 Mar 2026 01:51:17 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>螃蟹是怎么做到蜕壳后的身体比旧壳更大的？</title><link>http://daily.zhihu.com/story/9788595</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-133dc3bf672afbb007f322ce719345f4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,106 +19,175 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-5d8d2b5698ad3b9b58b581c67a60dfe2_l.jpg?source=8673f162">
-<span class="author">解磊，</span><span class="bio">格物当澄明似镜，处世可烂漫如诗</span>
-<a href="https://www.zhihu.com/question/13749156702/answer/114417221028" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-be4dcdda29f593a0b698f5377a4abe7f_l.jpg?source=8673f162">
+<span class="author">Rara，</span><span class="bio">生物爱好者，AI行业梭边鱼，杂志科普作家。</span>
+<a href="https://www.zhihu.com/question/9230623385/answer/1992217881270839020" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>好问题！</strong></p>
-<p>你问到了一个色彩心理学及语言学中一个非常重要的议题——<strong>「蓝绿的区分（Blue–green distinction in language）」</strong>。</p>
-<p>排除掉色盲、色弱、色觉异常等生理因素之后，<strong>引起蓝绿混淆的最重要的原因，是我们的语言。</strong></p>
-<p><strong>而区分蓝绿，对人类文明而言，是一个非常高阶的技能。</strong></p>
-<p>相信我，难以区分蓝绿的人绝不止你一个，<strong>很多人其实一直都在混淆蓝绿，只是可能他们自己都不知道。</strong></p>
-<p>我举个例子哈，蒂芙尼这个品牌，大家都认识吧。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-609aaf08ffc1789bb84231aa9c373216_720w.jpg?source=8673f162" alt=""><figcaption>蒂芙尼蓝（Tiffany Blue）</figcaption></figure>
-<p>蒂芙尼的主色调，叫做「<strong>蒂芙尼蓝（Tiffany Blue）</strong>」。</p>
-<p>这种蓝也叫「知更鸟蛋蓝」，蒂芙尼自 1845 年首次出版《蒂芙尼蓝皮书》时，Tiffany's Blue Book，封面上用的就是这种蓝色。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0518ca77219fd6364b75a0cfee89c37a_720w.jpg?source=8673f162" alt=""><figcaption>1845 年蒂芙尼蓝皮书封面</figcaption></figure>
-<p>可是你仔细看，仔细品，<strong>蒂芙尼蓝真的是蓝色吗？</strong></p>
-<p>你再看这件瓷器。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e5041487b31cb7e0f1ee64ad83b9ed8_720w.jpg?source=8673f162" alt=""><figcaption>汝窑瓷</figcaption></figure>
-<p>这是我们宋代汝窑瓷器，釉色<strong>天青</strong>是汝窑的主要色彩，徽宗云：<strong>「雨过天青云破处」</strong>，方文山说：「天青色等烟雨，而我在等你」。</p>
-<p>就问你，<strong>蒂芙尼蓝更像是我们认知中的蓝色，还是汝窑的青色？</strong></p>
-<p>青色，在我们汉语中是一种非常普遍的色彩，然而在英语中，青色虽然也有对应的翻译「cyan」，但是 cyan 这个词汇，<strong>更多只是用于形容印刷领域的油墨色彩，也就是 CMYK 色彩体系中那个 C</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-75b3aeb692b0110b8bf041fd36adf80b_720w.jpg?source=8673f162" alt=""><figcaption>CMYK 色彩体系</figcaption></figure>
-<p>在英语的日常交流中，更多还是会将青色称为 light blue，或是 turquoise。</p>
-<p>你硬是要说 cyan，那给人的感觉就好像你管打呼噜叫做「阻塞性睡眠呼吸暂停综合征」，知道你说的是那么个事儿，但就是很想锤你。</p>
-<p>现在你知道蒂芙尼蓝为什么在英语中是蓝，在汉语中是青了，但这还没完。</p>
-<p>你以为你真的就比说英语的人更懂青色了吗？</p>
-<p>来，我问你。</p>
-<p>方文山说：「天青色等烟雨，而我在等你」，还记得这首歌的名字叫什么么？</p>
-<p><strong>《青花瓷》</strong></p>
-<p>青花瓷长这样：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9002389e85f96d93895e1257293a2be0_720w.jpg?source=8673f162" alt=""><figcaption>明青花</figcaption></figure>
-<p><strong>我问你，这是你理解的青色吗？</strong></p>
-<p><strong>而在英语中，青花更是直接被翻译成「Blue and white pottery」</strong></p>
-<p>你是不是开始混乱了？</p>
-<p>别急，这只是开胃菜，我再问你，<strong>「青丝白发」</strong>这个说法听过吗？</p>
-<blockquote><strong>青丝白发一瞬间，年华老去向谁言。</strong><br><strong>春风若有怜花意，可否许我再少年。</strong><br><strong>——【北宋】李之仪 《咏苍髯》</strong></blockquote>
-<p>这青丝的青，难道是这个颜色吗？↓</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f9b7876460e6ce9cbf29ddfa54afee64_720w.jpg?source=8673f162" alt=""><figcaption>「青丝」是这个发色吗？</figcaption></figure>
-<p>别急，还没完。</p>
-<p>我再问你，<strong>「青，取之于蓝，而青于蓝；冰，水为之，而寒于水。」</strong>，这个你肯定学过吧？</p>
-<p>不看比喻义，只看这句话的原义。</p>
-<p>这里的青，指的是从蓝草中提取的靛青。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b1aa506601fbbe81445e6fd5f13c5e5f_720w.jpg?source=8673f162" alt=""><figcaption>靛青色</figcaption></figure>
-<p>你再想一下你现在理解的青色，这个「靛青」和蓝色，究竟有什么区别？</p>
-<p>别急，还没完，就说个日常生活中最常见到的青色事物——<strong>青菜</strong>。</p>
-<p>青菜这个说法，大江南北指代的植物可能不太一样，但那个青是什么颜色，应该没什么争议吧？</p>
-<p>如果还迷糊，咱来个具体的，请问这种食物叫什么？</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c22fa7c5f45594a3311346e1c1598eda_720w.jpg?source=8673f162" alt=""><figcaption>青萝卜</figcaption></figure>
-<p>反正我们那里是叫<strong>「青萝卜」</strong>。</p>
-<p>混乱了吧？</p>
-<p>混乱就对了，<strong>因为区分蓝和绿，本来就是人类的高阶技能。</strong></p>
-<p>在很多语言中，蓝和绿是用同一个词来指代形容的，这个现象，叫做<strong>「语言的共词化（Colexification）」</strong>。</p>
-<p>甚至为了指代蓝绿混淆的颜色，学者们还发明了一个词<strong>「grue」，来作为这种蓝绿不分的概念的指代。</strong></p>
-<p>而在心理学中，<strong>颜色并非一种客观存在，只是人类对于不同频率波长的光波的主观感受。</strong></p>
-<p><strong>因而，语言中不存在相应的色彩词汇，或是色彩词汇是混淆的，你就区分不出相应的色彩。</strong></p>
-<p>这又是一个很长的话题，感兴趣的朋友可以看这篇文章。</p>
-<p><a class="internal" href="https://www.zhihu.com/question/587211136/answer/2945749227">电影《降临》中语言影响认知这个核心假设合理吗？</a></p>
-<p>这里我只讲蓝 - 绿的区分。</p>
-<p>现讲<strong>分不出蓝绿的语言</strong>。</p>
-<p>在东亚文化圈里，<strong>能把蓝和绿区分的比较明白的，还真就只有汉语。</strong></p>
-<p>日语中，确实有一个代表绿色的词「緑」，但这个词汇很晚才引入日语。<strong>在古日语中，蓝和绿被统称为「靑」</strong>。而明确区分蓝和绿的教材，在二战后才开始普遍在日本使用。</p>
-<p>韩语中，<strong>푸르다明确指蓝色，但也可以拿来表示绿色或蓝绿色，</strong>他们也从汉语中借了「靑」这个词，但主要用这个词来表示蓝色，最著名的就是「靑瓦臺」……总之韩语的蓝绿混淆比日语还要混乱。</p>
-<p>古老一些的文明，比如埃及，他们用「wadjet」一个词涵盖了蓝色、蓝绿色和绿色所有的颜色。这个「wadjet」同时也是埃及神话中一个女神的名字，它的形象是这样的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-83ee5ea68b8548d7ad91e098894cd174_720w.jpg?source=8673f162" alt=""><figcaption>根据墓葬彩绘复原的 wadjet 形象</figcaption></figure>
-<p>而希腊语更夸张，从古希腊语到现代希腊语过渡过程中，蓝色和绿色的指代整个发生了颠倒。</p>
-<p>古希腊语中γλαυκός 是「清澈的浅蓝色」，之后γλαυκός被κυανός这个词汇取代，意为「深蓝色或绿色」，而κυανός不仅表示「绿松石」和「青绿色」，还可以表示「深蓝色」或「深绿色」，也可以仅仅表示蓝色。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b70d92becc2ed5785f22430d70eb54ee_720w.jpg?source=8673f162" alt=""></figure>
-<p>哦对了，<strong>κυανός这个词，就是英语中青色（cyan）这个词的词源。</strong></p>
-<p>青色（cyan）这个词引入英语的时间是 1879 年，在这之前，英语中是没有青色这个概念的。</p>
-<p>可即使引入了这个概念，你也应该能发现，<strong>英语中的青色与汉语中的青色，指代的色彩也是有区别的。</strong></p>
-<p>再讲个<strong>能把蓝 - 绿色彩区分的非常明确的语言——俄语。</strong></p>
-<p>斯拉夫语言是一种能将色彩区分的非常明确的语言，俄语中不仅能明确区分蓝色和绿色，甚至还有голубой（可视为浅蓝色）与синий（可视为深蓝色或纯蓝色）这样细致微妙的区分，这使得俄语中关于色彩的描述特别丰富，这可能是俄语国家的艺术普遍发达的心理学基础。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f8e05d1c164845a8416a4e61347ebea2_720w.jpg?source=8673f162" alt=""><figcaption>在俄语中，这两种色彩的区别，和蓝与绿的区别一样大</figcaption></figure>
-<p>关于这个话题，<strong>特别推荐一本书，康斯坦丁·帕乌斯托夫斯基的《金蔷薇》。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6547e699f38733fbae1600efbe19d2b3_720w.jpg?source=8673f162" alt=""><figcaption>康斯坦丁·帕乌斯托夫斯基《金蔷薇》</figcaption></figure>
-<p>这是一本文学随笔，探讨了文学创作很多细节，其中就有提到俄语对于大自然色彩的感知。</p>
-<blockquote>许许多多被扯碎了的白云，赶在酝酿着雷雨的乌云前面朝我们奔驰而来。果然，它们正以迅捷的运动，把大地上的各种色彩糅合在一起。在森林的远方，<strong>紫红、赤金、白金、翠绿、绛红和深蓝等等色彩</strong>，开始混杂在一起了。<br>——《金蔷薇》「洞察世界的艺术」</blockquote>
-<p>最初读这本书的时候，就一直很疑惑，紫红、赤金、白金、翠绿、绛红和深蓝……这是怎样一种色彩的混杂。</p>
-<p>很可能，<strong>这是因为俄语中对应色彩的词汇，在中文里并不能明确对应，一些对于色彩的感受，脱离了俄语，就无法精确传达。</strong></p>
-<p>最后，多说几句，这个问题给我们最大的启示，在于我们的人文教育。</p>
-<p><strong>我们对于世界的感受和体验，是建立在无数细微的语言刻度之上的。</strong></p>
-<p><strong>我们不能描述，我们也就不能体验。</strong></p>
-<p>我们的文明花了这么长时间，从自然混沌的色彩中析取出靛蓝与碧绿，在语言的坩埚里淬炼出月白与鸦青。</p>
-<p>可是现在，当我看到这类新闻时：</p>
-<p><a class="internal" href="https://www.zhihu.com/question/8086341738">文科消亡成为一股全球性浪潮，为什么会出现这种情况？文科相较理科有哪些劣势？</a></p>
-<p>我真的担心这几千年的努力是否会毁于一旦，<strong>我们的孩子对世界是否还能有如此细腻的体验</strong>。</p>
-<p>本来就是想用这个现象回答上面这个问题的，放在这个问题下更加契合。</p>
-<p>谢谢你的提问。</p>
+<p>因为螃蟹会先空手套白狼先做一个 ppt 吹牛逼（bushi）。因为螃蟹会给自己注水（正确）。</p>
+<p><strong>Let‘s 围绕螃蟹机体吸水来了解一下螃蟹的整个蜕壳过程。</strong></p>
+<p><strong>Step1.</strong></p>
+<p>在螃蟹蜕壳之前，在旧壳下方，由表皮细胞已经分泌形成了一层柔软多褶的新外壳（上表皮）。此时，新壳与旧壳是分离的。</p>
+<p>然后处于这个阶段的螃蟹为了蜕壳会吨吨吨大量摄入水分，使体内细胞和组织膨胀，体液增加。目的就是给后续撑裂坚硬的旧壳提供液压动力。达到临界值之后，旧壳上位于螃蟹背甲后部的断裂点处就会破裂。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9620ca4cc6f1ea5d928f140d90ff802f_720w.jpg?source=8673f162" alt=""><figcaption>图中所示为断裂点。</figcaption></figure>
+<p>哦，对了！在这个阶段，螃蟹还从旧壳的内层溶解并重新吸收碳酸钙和有机物质，储存于血液和体内以备后用。这使得旧壳能内部变薄、变脆，这样就更容易裂开啦！</p>
+<p>当然啦，在螃蟹吸水的这个过程中也会初步把软新壳上的褶皱部分撑开一些。</p>
+<p>总之在这个阶段，新壳属于是柔软的、有弹性可渗透的内胆，但这内胆被外面坚硬的旧壳所束缚。</p>
+<p><strong>敲黑板啦！在这里说</strong>个冷知识，为了增加静水压力，甲壳类动物经常会选择停止排尿。嗯。</p>
+<p><strong>Step2.</strong></p>
+<p>啊，当旧壳的断裂点被撑破了之后，努力的小螃蟹会以极其缓慢、艰难的动作，持续数小时一点一点把自己的身体从裂缝中抽出来。</p>
+<p>此前在旧壳内因吸水产生的液压，现在有了释放的空间。被压缩的新身体和新软壳会像弹簧一样 biu 瞬间弹开一部分，因此刚出来的螃蟹看起来就会比旧壳大一些。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6e4d535c4736f658fd01e9db890c84a0_720w.jpg?source=8673f162" alt=""><figcaption>彩虹蟹蜕壳全过程。</figcaption></figure>
+<p><strong> </strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6fe90a122ab1b88f7fdfdb18a3b5a988_720w.jpg?source=8673f162" alt=""><figcaption>蟹蜕壳的全过程。</figcaption></figure>
+<p><strong> </strong></p>
+<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1992217118536659216" target="_blank"> <img class="content-image" src="https://pica.zhimg.com/v2-250100c58ec5f8e0dd148d005553bc83.jpg?source=ccfced1a" alt=""> <span class="content"> <span class="title">蟹蜕壳～～。<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1992217118536659216</span> </span> </a></p>
+<p><strong><br>Step3.</strong></p>
+<p>蜕壳后的暴风狂吸。这应该可以说是螃蟹是吸水膨胀最剧烈和最关键的阶段。</p>
+<p>螃蟹通过摄入大量的水使水分通过消化道迅速进入血淋巴和全身组织。此时柔软的新壳就约等于一个有延展性的弹性容器。吸水产生的压力会均匀地作用于新壳，使其舒展并固定成特定的、更大的螃蟹体型框架。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-840bd3d2d480cbd39744d2f803a592bc_720w.jpg?source=8673f162" alt=""><figcaption>软壳蟹好吃、爱吃。</figcaption></figure>
+<p>物理撑大属于是。</p>
+<p><strong>Step4.</strong></p>
+<p>大的身体框架定好了，哎哟喂那就赶紧加固和填充吧。</p>
+<p>多吃多补呗，于是螃蟹会积极摄食。</p>
+<p>一方面，食物中的营养物质被用于实质性地生长螃蟹的肌肉等组织，以填满和充实因为吸水膨胀所创造出来的额外的大壳空间。</p>
+<p>另一方面，螃蟹体内连同之前从旧壳中扒拉储存、以及从食物和水中新吸收的钙质和矿物质会被迅速运输并沉积到柔软的新壳中。新壳逐渐变硬，最终成为一副全新的坚硬铠甲。</p>
+<p>它们就是这么长大的哟。</p>
+<hr>
+<p>以上。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/13749156702">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/9230623385">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788443</guid><pubDate>Sun, 22 Mar 2026 18:29:40 GMT</pubDate></item><item><title>海豹、海狮、海狗、海象、海牛等海洋哺乳动物会喝海水补水么？</title><link>http://daily.zhihu.com/story/9788433</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-dc887458a827d3ee1bdbfd4fab0e7159.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788595</guid><pubDate>Mon, 23 Mar 2026 01:51:14 GMT</pubDate></item><item><title>唐太宗李世民有哪些「可爱」的一面？</title><link>http://daily.zhihu.com/story/9788598</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a03d905453cf0d8c5485a789f5dd41c0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-47d5c74ee23e016245fe27ec71ed958a_l.jpg?source=8673f162">
+<span class="author">HUl，</span><span class="bio">鼬科萌宠爱好者</span>
+<a href="https://www.zhihu.com/question/414222116/answer/2011843074662363670" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>李世民<strong>非常热爱【键史】</strong>，找大臣键，还找老婆键：</p>
+<blockquote>（长孙皇后）好读书，常与上<strong>从容商略古事</strong>。</blockquote>
+<p>“从容”，说明并不是学术研讨，完全是娱乐性质。</p>
+<p>李世民闲着没事就喜欢逮着别人陪他键史，导致<strong>大臣们受不了，不愿意天天和李世民辩经，所以让他少键点，瘾别太大——说这么多话不累吗，你不累我们累啊：</strong></p>
+<blockquote>贞观十六年，太宗<strong>每与公卿言及古道，【必诘难往复】</strong>。</blockquote>
+<p>李世民键史的时候非常爱辩经，“必诘难往复”，一定要引经据典、直到对方理屈为止。</p>
+<blockquote>散骑常侍刘洎<strong>上书谏曰</strong>：<br>“帝王之与凡庶，圣哲之与庸愚，上下相悬，拟伦斯绝。是知以至愚而对至圣，以极卑而对极尊，徒思自强，不可得也。陛下降恩旨，假慈颜，凝旒以听其言，虚襟以纳其说，犹恐群下未敢对扬，况【<strong>动神机，纵天辩，饰辞以折其理，援古以排其议】，欲令凡庶何阶应答？</strong></blockquote>
+<p><strong>（大伙本来就畏惧你的威严不敢和你辩经，你还能言善辩的，我们就更辩不过你了）</strong></p>
+<blockquote>臣闻<strong>皇天以无言为贵，圣人以不言为德</strong>，老子称‘大辩若讷’，庄生称‘至道无文’，此皆<strong>不欲烦也</strong>。是以齐侯读书，轮扁窃议，汉皇慕古，长孺陈讥，此亦<strong>不欲劳也</strong>。且<strong>多记则损心，多语则损气</strong>，心气内损，形神外劳，<strong>初虽不觉，后必为累</strong>。须为社稷自爱，岂为性好自伤乎？</blockquote>
+<p><strong>（安静才是一个皇帝最大的美德，总是跟人辩经不累吗？脑子用太多损心，话说太多损气，你现在年轻不觉得累，等你老了就后悔了）</strong></p>
+<blockquote>须为社稷自爱，岂为<strong>性好</strong>自伤乎？</blockquote>
+<p><strong>（你要为了天下社稷自爱，不要因为沉迷键史的兴趣爱好把身体累垮了！）</strong></p>
+<blockquote>伏愿<strong>略兹雄辩</strong>，浩然养气，<strong>简彼缃图</strong>，淡焉怡悦，固万寿于南岳，齐百姓于东户，则天下幸甚，皇恩斯毕。</blockquote>
+<p><strong>（请您少看书、少辩经，多修身养性，淳朴恬淡一点，这样对我们大家都好！）</strong></p>
+<p>李世民说：好吧，可能我确实烦扰到大伙了，也确实有点轻慢自负了，这点我改。<strong>但我自己真不累。</strong></p>
+<blockquote>太宗手诏答曰：“非虑无以临下，非言无以述虑。比有谈论，遂至烦多。轻物骄人，恐由兹道。形神心气，<strong>非此为劳</strong>。今闻谠言，虚怀以改。”</blockquote>
+<p>李世民是真的不累，他想键史时，甚至会担心大伙不知道前情提要，<strong>会先把那段“史”给对方“科普”复述一遍</strong>，介绍完了才开始大发议论：</p>
+<blockquote>贞观初，太宗谓侍臣日：“至如齐、隋间逸谮事，耳目所接者，<strong>略与公等言之</strong>：……（此处为二百字史实介绍）（接下来才是议论部分）”</blockquote>
+<hr>
+<p>李世民键史时的关注点、脑回路与现代人别无二致。比如，<strong>热爱斗兽</strong>。</p>
+<p>二旬小伙秦王<strong>李世民</strong>，非常热衷于和六旬老头<strong>虞世南</strong>键史：</p>
+<blockquote>太宗重其（虞世南）博识，<strong>每机务之隙，引之谈论，共观经史</strong>。世南虽容貌懦曌，若不胜衣，而志性抗烈，每论及古先帝王为政得失，必存规讽，多所补益。太宗尝谓侍臣曰：“<strong>朕因暇日，与虞世南商略古今</strong>，有一言之失，未尝不怅恨。”</blockquote>
+<p>李世民提了一堆斗兽问题，比如非常经典的：</p>
+<p><strong>诸葛亮和司马懿谁更强</strong>？</p>
+<blockquote>公子（李世民）曰：“诸葛亮<strong>冠代奇才</strong>，志图中夏。非宣帝之<strong>雄谋妙算</strong>，其孰能当斯劲敌乎？”</blockquote>
+<p>比起伪书《唐李对问》，真·李世民可以说是很端水了，表示<strong>诸葛亮这么强的选手，只有强大的司马懿才能挡得住</strong>。</p>
+<p>李世民<strong>对曹操的评价也是“一代英伟”</strong>，总之用词十分浮夸。</p>
+<p>当然了，李世民眼中的强者可不止曹操、诸葛亮、司马懿，<strong>他对桓玄的评价也高得离奇</strong>：</p>
+<blockquote>公子曰：“桓元<strong>聪明有夙智</strong>，【<strong>奇才远略】</strong>，亦<strong>一代之异人</strong>。而遂致灭亡，运祚不终，何也？”</blockquote>
+<p>既然李世民都说桓玄是“奇才远略”“一代异人”了，那剿灭桓玄的刘裕岂不是会被夸上天？</p>
+<p>奇怪的是，李世民对刘裕兴趣缺缺。</p>
+<p>虞世南表示刘裕远超曹操、司马懿，应当与刘邦、刘秀作比。但<strong>李世民却觉得，能被比作曹马，已经是对刘裕的称赞了</strong>：</p>
+<blockquote>公子曰：“<strong>魏武一代英伟</strong>，<strong>晋宣频立大功</strong>。<strong>得比二人，以为多矣</strong>。季孟之间，何为非类？</blockquote>
+<p>我原本以为李世民会对刘裕这种风格的顶级军事家感兴趣，然而并没有。</p>
+<p>李世民还提问：<strong>高欢和宇文泰谁更有智谋？</strong></p>
+<blockquote>公子（李世民）曰：“高氏（高欢）负河海之利，周人（宇文泰）固崤函之险，<strong>论其智略，孰者为优</strong>？”</blockquote>
+<p>答主虞世南表示，宇文泰能像周瑜、谢玄一样打出以弱胜强的大胜仗，“奇谋长算”自然很强。不过他托孤给宇文护，说明他在识人之明上有所欠缺。</p>
+<p>（这点我觉得有待商榷，因为高欢并没有“托孤”，高澄嗣事时甚至和宇文泰上位时同龄，并不是“孤”。这方面二人无法对比。）</p>
+<p>李世民对东西魏斗兽似乎兴致缺缺，并未继续追问这个话题。</p>
+<p><strong>李世民更感兴趣的是宇文赟、高纬斗兽：</strong></p>
+<blockquote>公子曰：“<strong>高纬</strong>昏乱，匹于<strong>周之天元</strong>，孰者为愈？”</blockquote>
+<p>李世民身上的时代烙印还是很重的，对高纬直呼其名，对宇文赟则称呼的是宇文赟自己给自己上的尊号“天元”，显然是延续了周隋的习惯。</p>
+<p>虞世南把高纬骂了一顿，没骂宇文赟，只说他俩半斤八两。</p>
+<p>于是题主李世民又追问：<strong>为什么宇文赟会有那么多稀奇古怪的施政行为呢？（好怪，再看一眼）</strong></p>
+<blockquote>公子曰：“天元（宇文赟）所行之事，<strong>出人意之表。诡谲奇怪</strong>，何太甚乎？”</blockquote>
+<p>虞世南非常唯心地表示，“国之将亡，必有妖孽”，所以宇文赟就是那个妖孽。</p>
+<p><strong>李世民非常热衷于高纬、宇文赟的斗兽，后来又找魏徵键这个话题：</strong></p>
+<blockquote>太宗谓魏征曰：“<strong>顷读周、齐史</strong>，末代亡国之主为恶多相类也。……<strong>然天元、齐主若为优劣？</strong></blockquote>
+<p>魏征表示高纬更劣。</p>
+<p>总之几场斗兽下来，宇文赟挨的骂要比高纬少上许多。不过这俩挨的骂加起来都没有杨广的零头。杨广不仅要被批评，<strong>还要被嘲笑</strong>，算是贞观君臣键史的常驻嘉宾了。</p>
+<p>李世民日常嘲笑杨广：</p>
+<blockquote>贞观初，太宗谓侍臣曰：“……隋炀帝奢侈自贤，身死匹夫之手，<strong>亦为可笑</strong>。”<br><br>贞观十三年，太宗谓魏征等曰：“……隋炀帝承身戮国灭，<strong>为天下笑</strong>。”</blockquote>
+<p>没有说李世民不经常嘲笑杨坚的意思：</p>
+<blockquote>太宗曰：“<strong>吾常笑</strong>隋文帝好言祥端。瑞在得贤，白鹊子何益于事？”<br><br>贞观六年，太宗谓侍臣曰：“……又<strong>隋文帝</strong>深爱祥瑞，遣秘书监王劭著衣冠，在朝堂对考使焚香，读《皇隋感瑞经》。旧尝见传说此事，<strong>实以为可笑</strong>。”</blockquote>
+<p>李世民也是爱笑的男孩呢。</p>
+<p>李世民还问虞世南，<strong>杨坚能不能与司马炎相比：</strong></p>
+<blockquote>公子曰：“隋文起自布衣，先有神器，西定庸蜀，南平江表，<strong>比于晋武，可为俦乎</strong>？”</blockquote>
+<p>虞世南表示，杨坚的过失比司马炎更多。</p>
+<p>（魏征同样也将杨坚比作司马炎、刘询这样的 n 代嗣主，而非创业之君）</p>
+<p>也不知道李世民和长孙皇后键的是什么话题，难道也是历史人物斗兽吗？</p>
+<p>李世民还有很多斗兽提问：周文王与周武王、汉昭帝与周成王、刘询与刘秀、司马师与司马昭、刘骏与刘彧……有时找不到斗兽匹配对象，就问此人能和谁作比，总之是相当热爱斗兽了。</p>
+<p>除了斗兽，李世民还喜欢<strong>开 if 线</strong>。</p>
+<p>比如，开 if 线<strong>给宇文邕加寿命</strong>：</p>
+<blockquote>公子曰：“夫以周武之雄才武艺，身先士卒，<strong>若天假之年，尽其兵算，必能平一宇内，为一代之明主乎</strong>？”</blockquote>
+<p>不记得李世民有没有给其他人贷款过寿命了，总不能只给四舅姥爷一个人贷款吧……</p>
+<p><strong>李世民还喜欢感慨善恶无报：</strong></p>
+<p>为什么周幽王、厉王没有亡国：</p>
+<blockquote>公子曰：“幽、厉二王，暴虐无道，观其行事，足亡社稷。<strong>而宗庙犹存，国不遂灭。何也？</strong>”</blockquote>
+<p>为什么刘义隆好人无好报：</p>
+<blockquote>公子曰：“宋文，宽明之君，享国长久，弑逆之祸，为何所由？<strong>善而无报，岂非命也</strong>？”</blockquote>
+<p>为什么高洋没亡国：</p>
+<blockquote>公子曰：“文宣狂悖之迹，桀、纣之所不为。国富人丰，<strong>不至于乱亡，何也</strong>？”</blockquote>
+<p>为什么萧衍崇佛但没有福报：</p>
+<blockquote>公子曰：“梁武帝……留心释典，桑门比行，以万乘之君，为匹夫之善，薰莸不验，危亡已及。<strong>岂其道非耶？何福谦之无效也</strong>？”</blockquote>
+<p>年轻的李世民似乎还秉持着“善恶有报”的观念，认为“昏君”和“亡国”之间有着必然的联系。比如他就认为，南陈灭亡是因为陈叔宝的昏庸：</p>
+<blockquote>公子曰：“长城公（陈叔宝）所以亡，既闻之矣。<strong>此则人事不足，非天道</strong>焉！”</blockquote>
+<p>六旬老头虞世南表示，南陈那么弱小可怜又无助，被灭那是早晚的事，再明的明君也没招啊！</p>
+<hr>
+<p>李世民键史还经常爆名句，比如</p>
+<p>“东智而西愚”</p>
+<p>“一将之智有余，万乘之才不足”</p>
+<p>“欺孤儿寡妇以得天下”</p>
+<p>都比较出名。</p>
+<p>从各种记载来看，李世民最爱键的朝代是魏晋与隋，对两汉与南北朝的兴趣比较有限。</p>
+<p>当然了，李世民之所以有如此多键史记录，也得益于《贞观政要》《帝王略论》的记载、李世民以史为鉴、劝励臣下的治政思想，以及李世民本人对键史的狂热爱好——甚至都<strong>直接键到《晋书》里</strong>，亲自下场锐评了，也是很少见了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/414222116">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788598</guid><pubDate>Mon, 23 Mar 2026 01:51:15 GMT</pubDate></item><item><title>为什么有些鱼类可以既有鳃又有肺，而海洋中的哺乳动物却进化不出来呢?</title><link>http://daily.zhihu.com/story/9788604</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-4e70be26d256ce8ed33f32a5f570f968.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -139,106 +208,118 @@
 
 <div class="meta">
 <img class="avatar" src="https://picx.zhimg.com/v2-b0a3e4598a57de66b24ee18009c38974_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">也许，我们需要的不是答案</span>
-<a href="https://www.zhihu.com/question/7083692201/answer/83139851391" class="originUrl" hidden>查看知乎原文</a>
+<span class="author">祥昊，</span><span class="bio">哎，本来我是来看段子的，现在好了，段子看我。</span>
+<a href="https://www.zhihu.com/question/30407214/answer/1985457309812547922" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>曾经有一群走兽，</p>
-<p>老祖宗跑到海里，成了海兽。</p>
-<p>那么问题来了，海水的盐分浓度约为 3.5%，</p>
-<p>像是人类排泄盐的浓度不超过 2%</p>
-<p>按照这样换算，</p>
-<p>每喝 100g 水，</p>
-<p>就需要尿 175g 才能排出多余的盐分，</p>
-<p>所以如果你贸然喝海水，</p>
-<p>很容易越喝越渴，越渴越喝，</p>
-<p>喝了再渴，渴了再喝。</p>
-<p>最后肾废人亡，活活渴死。</p>
-<p><strong>一般哺乳动物是无法依靠直接喝海水为生的。</strong></p>
-<p>于是海兽们一合计，不中啊，这么下去光尿尿都能尿成虚脱。</p>
-<p>淡水本身不好搞，那就只能在自身找办法。</p>
-<p>直接喝尿不现实，</p>
-<p>还好哺乳动物的肾脏很强大。</p>
-<p>可以利用逆流倍增机制（Countercurrent Multiplication Mechanism）把尿液里的水分重新吸收、</p>
-<p>所以海兽的尿液不是浓，而是超级浓。</p>
-<p>尿黄尿少味道骚，</p>
-<p>这是火气大，得治。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-03ee9b693e43f386f52e1a065739afa6_720w.jpg?source=8673f162" alt=""></figure>
-<p>人类想做到这点也不难，</p>
-<p>少喝水，多憋尿。</p>
-<p>伤肾伤脑伤膀胱。</p>
-<p>除了憋死也到不了海兽的浓度其他的问题不大。</p>
-<p>那问题又来了，</p>
-<p>尿这么浓肯定特别伤腰子吧？！</p>
-<p>万一坏一个多影响兽生性福啊</p>
-<p>于是，鲸鱼进化出类跟桑葚一样的复合肾，</p>
-<p>每颗肾小叶都能独立完成肾脏的功能。</p>
-<p>相当于有一堆肾，</p>
-<p>质量不够数量凑，</p>
-<p>麻麻再也不用担心腰子不够用啦。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8012bc3724535b933cf3c3285dfb30a7_720w.jpg?source=8673f162" alt=""></figure>
-<p>而像食肉目下的海狗，海豹，</p>
-<p>也进化出了类似的球状单乳头型复肾结构。<sup>[1]</sup></p>
-<p>上面塞满了数百个小肾结节</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dac30384272b1ae4dc48663aaef5c4d5_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-67d23010c051ad2128007457a7e0e4b3_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以海狗肾可是传说中的壮阳之物，</p>
-<p>那是大大大大补啊。</p>
-<p>相传大明首辅张居正就是吃这玩意补没的。</p>
+<p>这个问题曾经有个鲸鱼问过我，</p>
+<p>它说它厌倦了每天半夜起夜喘气的日子，想换个鳃。</p>
+<p>我告诉他，你得相信科学，你得学数学。</p>
+<p>它说我有病。</p>
+<p>我说你连鳃怎么工作都不知道，就想着换这玩意，能换明白吗？</p>
+<p>它继续说我有病。</p>
+<p>最后我还是给他讲了鱼鳃，打消了它的念头。</p>
+<p>鱼鳃和肺的工作原理其实差不多。</p>
+<p>核心都是气体跨膜交换，遵循菲克定律。</p>
+<p>简单说就是浓度高的氧气 / 二氧化碳会优先往浓度低的自由扩散。</p>
+<p>所以要想效率高，和水的接触面积就要大。</p>
+<p>鱼鳃主要分三部分，</p>
+<p>外侧鳃耙用于过滤异物，中间鳃弓用于支撑。</p>
+<p>内侧布满线状的鳃丝，则是用来呼吸。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-52cc9beb2c6f7a0288700401cf64b1d0_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果放大看鳃丝，</p>
+<p>还可以看到鳃丝上密布着一排排暖气片似得的鳃小片，</p>
+<p>上面充满毛细血管，可以进一步增大接触面积。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a98b8df56cfd484781f538440a158b22_720w.jpg?source=8673f162" alt=""></figure>
+<p>当水单向通过鳃小片时，水流方向和鳃小片内血液流动方向相反，</p>
+<p>这样，低氧血就会一直和高氧面接触，以最大效率不断的从水里榨取氧气。</p>
+<p>正是这套精妙的结构，使得鳃获取氧气的效率非常高，达到 80%~90%。</p>
+<p>而安静状态的下成年人，呼吸效率仅有 25%。</p>
 <hr>
-<p>然而，仅凭借强大的肾脏回收机制偶尔喝口海水还行，</p>
-<p>要是天天吨吨吨那得尿盐茬子啊。</p>
-<p>海兽并没有靠喝海水维生的能力。</p>
-<p>怎么喝水，</p>
-<p>就应该先请教下其他海洋原住民。</p>
-<p>很多海洋动物除了肾脏强大，</p>
-<p>腮部还有泌氯细胞（Chloride Cells），又叫离子细胞（Ionocytes）</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7990f71f354be4b152b4c62227bba8ef_720w.jpg?source=8673f162" alt=""></figure>
-<p>这些细胞能有效将盐排出去。</p>
-<p>所以海洋原住民是能直接转化海水滴。</p>
-<p>正所谓邻居屯粮我屯枪,邻居就是我粮仓</p>
-<p>鱼有淡水我吃鱼，相当于我也喝淡水。</p>
-<p>喝水的问题不就解决了嘛。</p>
+<p><strong>这么看来，鳃确实是一个很不错的器官，为啥没有哺乳动物再进化出来呢？</strong></p>
+<p>所以说，要学数学嘛。</p>
+<p>我们可以通过缩放定律（Scaling Law）来简单估算下，</p>
+<p>由于海洋哺乳动物比多数鱼大，</p>
+<p>把鱼线性放大十倍，没问题吧？</p>
+<p>鱼鳃有效的是表面积，</p>
+<p>表面积大小与线性尺寸的平方成正比，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=S%E2%82%82%2FS%E2%82%81+%3D+%28L%E2%82%82%2FL%E2%82%81%29%C2%B2" alt=""></p>
+<p>既鱼线性扩大十倍，鳃的表面积会扩大 10²=100 倍。</p>
 <hr>
-<p>然而，海里一大部分鱼类属于软骨鱼。</p>
-<p>这群脑回路清奇的家伙为了调节渗透压竟然在血管里塞尿素！！！</p>
-<p>吃吧，</p>
-<p>这玩意比喝尿还拉嗓子，</p>
-<p>不吃吧，容易饿死。</p>
-<p>这可咋办好？！！！</p>
-<p>来给你写几组化学式。</p>
-<p><strong>葡萄糖 + 氧气=二氧化碳 + 水 + 能量</strong></p>
-<p>C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 能量</p>
-<p>1 摩尔葡萄糖完全氧化分解可以生成 6 摩尔水</p>
-<p><strong>脂肪酸 + 氧气=二氧化碳 + 水 + 能量</strong></p>
-<p>(CH₂)ₙCOOH + (n + 2/2)O₂ → (n + 1)CO₂ + (n + 1)H₂O + 能量</p>
-<p>以棕榈酸为例，</p>
-<p>C₁₆H₃₂O₂ + 23O₂ → 16CO₂ + 16H₂O + 能量</p>
-<p>1 摩尔棕榈酸完全氧化分解可以生成 16 摩尔水。</p>
-<p><strong>氨基酸 + 氧气=二氧化碳 + 水 + 氨 + 能量</strong></p>
-<p>以丙氨酸为例</p>
-<p>C₃H₇NO₂ + 2O₂ → 3CO₂ + 3H₂O + NH₃ + 能量</p>
-<p>1 摩尔丙氨酸完全氧化分解可以生成 3 摩尔水。</p>
-<p><strong>食物消化代谢也是可以产生大量水的啊！！</strong></p>
-<p>那还愁啥呢？</p>
-<p>只要吃的饱，不怕没水喝。</p>
-<p>所以说，</p>
-<p>日常捕猎顺便喝的海水已经够多了。</p>
-<p>海兽们其实并不需要专门喝海水补充。</p>
-<p>那非要补充怎么办？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c5d093bbec02cfc2c4c4e7cdc949233d_720w.jpg?source=8673f162" alt=""></figure>
+<p>那体积会扩大多少呢？</p>
+<p>体积是与线性尺寸的立方成正比，</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=V%E2%82%82%2FV%E2%82%81+%3D+%28L%E2%82%82%2FL%E2%82%81%29%C2%B3" alt=""></p>
+<p>，</p>
+<p>即扩大 10³=1000 倍。</p>
+<p>由于细胞不会变大，体积变大就意味着细胞总量变多。</p>
+<p>我们假设细胞的大小都一样，</p>
+<p>也就是说，细胞总量会增加 1000 倍。</p>
+<p>体重也会增加了 1000 倍。</p>
+<p>体型大最大的好处是代谢会降低，</p>
+<p>按照克莱伯定律（Kleiber's Law）总代谢率大概是体重的 0.75 次方。</p>
+<p>个头线性扩大 10 倍，总代谢率会扩大≈1000^0.75≈178 倍。</p>
+<p>而鳃的表面积只扩大了 100 倍。</p>
+<p>这就意味着当鱼鳃的表面积和体重比例到达一定程度的时候，</p>
+<p>鳃就会渐渐开始不再够用，这会限制鱼类继续长大。<sup>[1]</sup></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c095b2a0997213fc4708a8ade1253a31_720w.jpg?source=8673f162" alt=""><figcaption> 鲤鱼（Cyprinus carpio）鳃的表面积和体重的比例曲线，注意，在幼鱼时期，这个比值>7，非常高，到成鱼时下降至不到 0.8。</figcaption></figure>
+<p>肺虽然也会有这个困境，</p>
+<p>但是肺和鳃的工作环境相差太大了。</p>
+<p>在标准状态下（20°C，干燥海平面标准大气压）</p>
+<p>空气中氧气质量浓度约为 276 mg/L，而海水饱和溶解氧仅为 9.1 mg/L。</p>
+<p><strong>大概相差 30 倍。</strong></p>
+<p>更悲催的是在这个环境下氧气在空气中的分子扩散系数大概是 0.00002m²/s。</p>
+<p>而在水中只有约 0.0000000018m²/s，<strong>相差 11000 倍。</strong></p>
+<p>所以用肺在空气中只需要简单的呼吸，就可以快速完成氧气和二氧化碳的交换。</p>
+<p>而鳃则需要不停的将水泵过鳃丝，才能正常工作。</p>
+<p>更悲催的是，由于鱼类的鳃由咽囊发育而成，</p>
+<p>在胚胎状态就已经成型，后天想再长几对压根没这条件。</p>
+<p>至于哺乳动物的，胚胎时也有，一共五对。</p>
+<p>第 1 对在中耳，负责听觉和平衡，动不了。</p>
+<p>第 2 对是腭扁桃体的原基</p>
+<p>第 3 对第 4 对在胸腺，甲状腺旁腺。</p>
+<p>第 5 对在后鳃体。没一个适合改回去的，想长鳃还得重新找地。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-77a6e2e748a6ade6360d5853b8c33540_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>那有人好奇了，</strong></p>
+<p><strong>不对啊，这大型的鱼又不是没有，他们是怎么突破限制的呢？</strong></p>
+<p>一般是两种策略，</p>
+<p>一个是降低能耗。</p>
+<p>采用低功率滤食 + 特化鳃丝 + 虚胖策略，比如翻车鱼。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-30322b2baa4dc06b17b6534f787e33c8_720w.jpg?source=8673f162" alt=""></figure>
+<p>另一个是增加鳃的过水量，</p>
+<p>依靠传统的口咽和鳃盖泵水肯定不够，</p>
+<p>所以部分鱼类学会了在游动时张开嘴，</p>
+<p>依靠自身运动的冲击力让水流被动流经鳃部完成气体交换。</p>
+<p>被称为撞击式呼吸（Ram Ventilation）<sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ae71d0c15d2ffa4c89dfc75798e518a_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个策略有点像汽车上的涡轮增压，使部分枪鱼可以长到四五米的长度，</p>
+<p>但是吧，一时增压一时爽，一直增压一直爽，有部分鱼干脆舍弃了原来的呼吸方式，</p>
+<p>做起了专性撞击式呼吸（Obligate Ram Ventilation），</p>
+<p>然后发现，坏喽，一停下来就要断气了。</p>
+<p>彻底停不下来了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-47c25a2a346281faf73c0e569c2085cf_720w.jpg?source=8673f162" alt=""><figcaption>为适应撞击式呼吸，不少鱼类鳃小片与鳃丝发生融合。以满足高速游泳的氧气需求</figcaption></figure>
+<p>而像鲸鲨（Rhincodon typus），</p>
+<p>则是采用了二者结合的方案，</p>
+<p>既通过滤食降低能耗，又通过撞击式呼吸增加呼吸效率，</p>
+<p>最大能长到 18.8 米。（2001 年 5 月 8 日印度古吉拉特邦维拉瓦尔阿拉伯海捕获）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-695d781d24a55b0a4554717a7b443907_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>那直接让海洋哺乳动物往变小化进化，这问题不就解决了吗？</strong></p>
+<p>真是个好主意，但是吧，体型小意味着在海里热量更容易散失 + 天敌更多 + 代谢更快，</p>
+<p>生存难度更大了。</p>
+<p><strong>那让海洋哺乳动物到陆地上，不就不存在这个问题了吗？</strong></p>
+<p>鲸鱼：好主意嗷，你猜我当初为啥下海来着？</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0b7514c40e9a02053e213e678e0bcca0_720w.jpg?source=8673f162" alt=""><figcaption>鲸鱼的老祖宗巴基鲸，跟只狗差不多大。</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/7083692201">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/30407214">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788433</guid><pubDate>Sun, 22 Mar 2026 18:29:41 GMT</pubDate></item><item><title>有的植物是不是命特别硬，比如牛油果的历任传播者都灭绝了？</title><link>http://daily.zhihu.com/story/9788434</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-34e1a02472d6aa3a113da52c8359fcf0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788604</guid><pubDate>Mon, 23 Mar 2026 01:51:16 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788605</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -253,212 +334,56 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 工作中发生紧急情况，领导正在午睡，要不要叫醒他？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a238e228bac402aa4ecc0b5f5107f085_l.jpg?source=8673f162">
-<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/2015540904254007043/answer/2015754027464413546" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>你切开牛油果的时候有没有思考过这个问题：</p>
-<p>这个巨大无比的核，难道不会把帮忙传播种子的动物噎死？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ce18a33e6b7912c5cc5ce290f972f90d_720w.jpg?source=8673f162" alt=""></figure>
-<p>或者说，它的传播者有个雷霆大口？</p>
-<p>比如，美洲“象”？（牛油果是一种原产于墨西哥和中美洲的水果。）</p>
-<p>但是只听过非洲象，亚洲象，美洲哪来的象呢？其实是有类似的，猛犸象，乳齿象，都灭绝了。</p>
-<p>确实，牛油果命很硬，迷信一点的话，你甚至可以说它是“大凶之兆”，因为它的历任动物传播者都灭绝了。</p>
-<p>甚至其后的人类传播者：阿兹克特人都惨遭屠族。</p>
-<p>甚至在现代还引起黑帮战争。</p>
-<p><strong>牛油果的历史可以单开一本拉丁美洲的《万年孤独》。</strong></p>
-<p>不过我们生物学上不说命硬，说它是“生态孤儿”。</p>
-<p>生态孤儿指的是那些在生态学上本来是有对应的植物或者动物共同进化的物种，失去了对应的伙伴以后表现出来的一些不合时宜的情况。</p>
-<p>或者你还可以叫它们：“<strong>进化幽灵</strong>”</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-48892788fed19c383b0a824c8d0c8cbb_720w.jpg?source=8673f162" alt=""></figure>
-<p>比如美国皂荚奇大无比但是间隙很大的防御刺，根本防不了鹿，牛油果巨大的核，会噎死它原产地目前所有传播者。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ab9943a43073f064c46f5c109dc8c6dc_720w.jpg?source=8673f162" alt=""></figure>
-<p>它们有个共同的指向：乳齿象。但是进化的长河里，乳齿象已经灭绝了，这些生态孤儿却好似那唐吉坷德仍然兀自挥舞着不合时宜的长剑对抗风车巨人。</p>
-<p>是不是很有意思？</p>
-<p>那我们从远一点开始说吧。</p>
-<p><strong>一、晚第四纪大灭绝事件（约 5 万至 1 万年前更新世末）</strong></p>
-<p><em><strong>多年以后，面对搅拌机里旋转的刀叶，来自米却肯的牛油果会不会回想起晚更新世大地懒伸出刀叶般锋利前爪的遥远下午。</strong></em></p>
-<p>几万年前，听起来多么遥远的时间。</p>
-<p>彼时的人类，还没有进入新石器时代，还没开始农耕生活。</p>
-<p>但是这时候的人类早就会说话记事了。</p>
-<p>在欧亚大陆、澳洲、美洲流传着一个七姐妹的故事。</p>
-<p>七姐妹被猎人或者什么动物追逐，最终变成了天上的七颗星，这是<strong>昴星团</strong>的故事。</p>
-<p>但是奇怪的是，昴星团通常只能看见六颗，而不是七颗，所以这个故事有很多补丁版本，解释最后一个姐妹消失了。所以是六颗。</p>
-<p>据天文学家推测，大概几万到十万年前，昂星团的第七颗星确实是清晰可见的。但是最终变得黯淡。</p>
-<p>所以这个传说的历史可能有大概十万年之久，通过人类口口相传。</p>
-<p>现在我们作为人类，听起来这种故事有种源远流长的宏大和浪漫，但是对美洲、欧亚大陆的大型动物来说，这特么简直是个恐怖故事。</p>
-<p>这意味着人类这种地表最强捕食者，早就已经拥有强大的语言能力和代际相传的智慧了。</p>
-<p>这意味着，人类所到之地，可以一毛不剩：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3940d6d8fccd7beb76cca12465c402c1_720w.jpg?source=8673f162" alt=""></figure>
-<p>20 世纪 30 年代起，巴西和阿根廷境内陆续发现了一批非常规整的巨型隧道。</p>
-<p>据推测这些地道可能有<strong>一万年左右</strong>的历史。</p>
-<p>在排除地质形成和古人类挖掘以后，科研人员根据墙上的爪印推测，这些巨大的隧道是已经灭绝的大地懒留下的：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0441c25737cfa9d847d5af7054fdd944_720w.jpg?source=8673f162" alt=""></figure>
-<p>大地懒体型可与现代亚洲象媲美。它们体长达 5-6 米，体重约 4 吨：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a66f65b3a9fe5abdcdcff7c05e5ba923_720w.jpg?source=8673f162" alt=""></figure>
-<p>嗯，<strong>几万年前</strong>，这些巨兽就这么悠闲的徜徉在美洲大陆上，没事吃一两口牛油果或者别的什么水果，然后顺便帮它们传播果实。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-77e456ca92d6c335f04bbc97e5ce46ce_720w.jpg?source=8673f162" alt=""><figcaption>乳齿象化石</figcaption></figure>
-<p>科研人员推测大地懒最有可能是牛油果的主要传播者。</p>
-<p>其他的包括当时的乳齿象（不是象科）、猛犸象、雕齿兽等等成吨的巨兽，都有可能是牛油果的传播者。</p>
-<p>但是不幸的是，人类走出了非洲，正在扩张他们的领地。</p>
-<p><strong>然后就发生了我们现在叫做第四纪灭绝事件的惨事。</strong></p>
-<p>更新世末期，全球范围内发生了一场规模空前的巨型动物灭绝事件，仅北美洲就有<strong>78%，</strong>约有 33 属的大型哺乳动物消失。</p>
-<p>这其中可能是气候变化的原因，也有可能是人类过度捕猎的原因。</p>
-<p>总而言之，对牛油果来说，全新世一开始（11700 年前），曾经的伙伴全都消失了。</p>
-<p>不管是第一传播合作伙伴大地懒或者猛犸象、雕齿兽、乳齿象等备选项乃至于箭齿兽和长颈驼​勉强能吞下牛油果种子的再次选项。</p>
-<p>全部都，灭绝了。</p>
-<p>哎，还真是一个全新的开始呢。</p>
-<p>不过好在牛油果除了有性繁殖以外，还可以无性繁殖，成年植株的根系可在土壤表层产生不定芽，发育为遗传一致的克隆分株。</p>
-<p>但是长期无性繁殖的代价就是物种的遗传多样性会降低，基因相似度很高，容易被病菌一锅端。</p>
-<p>好在很快人类接盘者出现了。</p>
-<p>大约一万年前进入新石器时代后，人类就开始农耕生活了。</p>
-<p>这个时候美洲的阿兹特克人很快发现了牛油果的肥美，开始帮它传播种子。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ae43ee500d761a7dfb89caa889fcd92_720w.jpg?source=8673f162" alt=""><figcaption>美洲壁画里关于牛油果的生活场景</figcaption></figure>
-<p>玛雅文明（尤卡坦半岛）使用牛油果的符号来表示他们历法的第 14 个月。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9a0071a6f8f8724693b9420be8d8ff93_720w.jpg?source=8673f162" alt=""></figure>
-<p>同样的符号也出现在玛雅城市普西利亚（今伯利兹）的徽章中。</p>
-<p>因此，这座城市被称为牛油果王国，其统治者被称为“牛油果之主”。</p>
-<p>后来的事情你们也知道了。</p>
-<p>世界进入大航海时代，约 16 世纪的时候，西班牙人来了。</p>
-<p>除了直接的战争伤亡外、屠杀和奴役、强迫劳动外，西方人带来的天花等美洲原住民从没见过的病原体，种种原因导致大约 90%的阿兹特克人死亡，阿兹特克帝国灭亡。</p>
-<p>1655 年英国夺取牙买加后，牛油果逐渐进入英国航海网络。</p>
-<p>到 18 世纪，欧洲水手因为牛油果的脂肪含量很高，常将其捣碎涂抹在硬饼干上当黄油食用，因此被称为 <strong>“midshipman’s butter”（海军黄油）</strong>。</p>
-<p>另外，牛油果还有另外个名字“鳄梨”<strong>（</strong>alligator pear<strong>）</strong>，这个名字就是在牙买加形成的。</p>
-<p>总而言之，这一时期，西方入侵者替代了美洲原住民，成为牛油果新的传播者。</p>
-<p><strong><strong>二、墨西哥，离天堂太远，离美国太近</strong></strong></p>
-<p>20 世纪 90 年代，随着健康饮食的风潮兴起，牛油果忽然成了美国等发达国家的饮食新指标。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-75d87fb817b8608577d4df2c9ac1abef_720w.jpg?source=8673f162" alt=""><figcaption>亚麻籽、橄榄油、喜马拉雅玫瑰盐、牛油果、冰美式能够组成一顿非常 fashion 的健康早餐</figcaption></figure>
-<p>各种电视台节目以及千禧年后网络媒体都不遗余力的宣传牛油果这种植食性脂肪比动物脂肪更健康。</p>
-<p>总而言之，牛油果确实成为了一种新的饮食范式里面的代表水果。</p>
-<p>美国对此需求量巨大。</p>
-<p>虽然目前墨西哥仍然是最大的牛油果消费国（美国第二），但是按照消费市场的影响力来看，确实是美国这个消费市场引领着全球的牛油果风潮。</p>
-<p>并且美国本土的牛油果产量很少，大约 90%的牛油果消费都依赖进口。</p>
-<p>而墨西哥又是世界上牛油果产量和出口量第一的国家。</p>
-<p>因此牛油果给墨西哥带来巨大的经济效应，被成为绿色黄金。</p>
-<p>墨西哥牛油果产业的核心产区在<strong>米却肯州</strong>。</p>
-<p>这里是全球最大<strong>哈斯牛油果（80%以上）</strong>产地。</p>
-<p>主要是因为米却肯州拥有海拔 1500-2400 米的火山带，火山灰土壤富含矿物质，年均 20-25℃的温度完美匹配牛油果的生长需求。</p>
-<p>这种地理垄断性，使得即便每公顷年耗水 2 万立方米导致溪流干涸（灌溉牛油果的单位用水量是西红柿的十倍左右），农民仍愿意透支地下水。</p>
-<p>但是问题来了，每年十亿美元的经济效应，可是黑帮不愿意放弃的香饽饽。</p>
-<p>围绕这些让人富得流油的牛油果，爆发了多次黑帮冲突。</p>
-<p>米却肯州的乌鲁阿潘是牛油果贸易中心之一。</p>
-<p>2019 年当地发生一起震惊墨西哥全国的事件：一起黑帮冲突后，犯罪集团将 <strong>19 具尸体弃置在桥上</strong>作为恐吓。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c64e2762309d37bc7a36160148895726_720w.jpg?source=8673f162" alt=""></figure>
-<p>这背后涉及多个黑帮争夺当地经济控制权，包括牛油果产业链。</p>
-<p>至于在米却肯多地，犯罪组织向农民征收所谓“保护费”，以及黑帮和当地农民自卫队的冲突小摩擦也是每年不断。</p>
-<p>甚至 2022 年还发生了美国农业部的农业安全检查员在收墨西哥牛油果的时候遭到米却肯黑帮的电话威胁从而导致停止收购牛油果一段时间的新闻。</p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1920047372022547896/answer/1995158625707136127" target="_blank">工作中发生紧急情况，领导正在午睡，要不要叫醒他？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/5ae709fa7331dee9ef6aabef60978bf1" target="_blank">@精神健康咨询中心</a> ：如果你是市长，你希望以下哪种情况发生？</div>
+1 市长你快醒醒吧，市里出事了，省里领导正在往这赶，大约 1 个小时到，我们这里进， 10 分钟就到，先上车吧，上车我给您做具体汇报<br>2 市长你终于醒了，市里出了个小事问题不大，省长已经在现场指挥了，我知道您起来得先喝口茶，我给您先泡上，其他的事都不急，这午睡茶可不能落下</blockquote>
+<p>Q：「<a class="internal" href="https://www.zhihu.com/question/666077010/answer/1995617245649454048" target="_blank">磅</a>」<a class="internal" href="https://www.zhihu.com/question/666077010/answer/1995617245649454048" target="_blank">这个英制单位为什么不译为</a>「<a class="internal" href="https://www.zhihu.com/question/666077010/answer/1995617245649454048" target="_blank">英斤</a>」<a class="internal" href="https://www.zhihu.com/question/666077010/answer/1995617245649454048" target="_blank">？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/91eb508deca22e1d43ac1c921b2cc493" target="_blank">@查无此名 12138</a> ：震撼首发，翻译鬼才</div>
+很少有这么完美避开雅的翻译了<br>什么乱七八糟神鬼传奇总动员，在英斤面前黯然失色</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/6982580050/answer/1992695154390349229" target="_blank">现在豆包的水平到底如何？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/cc99234f48b882e9dec0657445825d14" target="_blank">@真理大教主</a> ：你看看，阴不阴</div>
+</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-2544a0205fb4209271d3ab7c70c5b0c8_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-3dfa87413614a73a8681fcf3bd291314_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/529255579/answer/1986451174753313262" target="_blank"> 有没有人装过头正好撞在你擅长的领域上？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/496ea78b7b9312544e6cdcc22c164805" target="_blank">@想想</a> :这一段盲文上写的是新生南路三段 </div>
+我从没想过这个技能还能起到这个作用</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-860a597d249c5ea7b64b8f82e95d450a_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q :<a class="internal" href="https://www.zhihu.com/question/36513193/answer/1993083382041703387" target="_blank">为什么只有警犬没有警猫，狗的智商比猫高吗？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/df5bf2751b1a37160321e6d1784e3af4" target="_blank">@枕戈待旦</a> :哈哈哈哈哈哈哈哈想起了胡萝卜纸巾猫</div>
+</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-1275534a77e769abab4a3365761f7b2b_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
 <hr>
-<p>总而言之，牛油果就是这么富有传奇色彩的一种水果，你要说它营养价值只应天上有，地上绝无仅有倒也没这么夸张，橄榄油 + 燕麦、坚果等地中海饮食方式也可以提供牛油果提供的那些不饱和脂肪酸。</p>
-<p>并且里面的脂肪含量并不低，不注意营养配比依然有长胖的风险。</p>
-<p>只是作为素食天然正确，再加上健康营销的包装，使得它成为一种看起来很健康的超级食物。</p>
-<p>虽然目前我国有国产的牛油果，但是高端市场还是以进口的牛油果为主，溢价还是很高的（相比其营养成分）。</p>
-<p>不过无论如何，牛油果这么“命硬”，大克四方，还真不是它的主观故意，从某个角度来说，它也是被利用的“孤儿”罢了，毕竟那些曾经陪伴它，帮它传播种子的伙伴已经永远的消失在历史的长河了。</p>
-<p>以上~</p>
 </div>
 </div>
 
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2015540904254007043">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788434</guid><pubDate>Sun, 22 Mar 2026 18:29:42 GMT</pubDate></item><item><title>为什么猫咪长了一双适合直立行走的大脚？</title><link>http://daily.zhihu.com/story/9788438</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-f58e66121e2cf33badfa1245c374d704.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/1931067771132839384/answer/2015804351743017603" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>2009 年，法国网友上传了一段叫“Standing Cat”的视频，一只名叫 Rocky 的虎斑猫直直站在那儿看窗外。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4bebb26e475e63c634d95463ee711fa7_720w.jpg?source=8673f162" alt=""></figure>
-<p>画面很简单，几十秒里什么也没发生，但很快就火了。</p>
-<p>你大概也刷到过类似的画面：猫像人一样“站起来”，表情严肃，姿势僵硬，看久了有一点滑稽。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7853c18403445e9fa8ede00fdf53b599_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d04403767b7d59ca56d7a952136f0dca_720w.jpg?source=8673f162" alt=""></figure>
-<p>问题来了，猫的脚垫这么厚、脚看起来也不小，为什么没有进化成像人一样直立行走？</p>
-<p>先说结论：</p>
-<p>猫的脚看上去“大”，但那套结构主要是为了四肢着地的趾行跑跳服务的。所谓的“大脚”，其实只是误解。</p>
-<p>图中那两条白色的长段，也就是从腿根到趾垫之间那一大截毛茸茸的部分，是<strong>跖骨（metatarsal bones）</strong>，对应的是人类脚掌中段那段骨头。但在猫身上，这段骨头是<strong>竖起来的、悬空的</strong>，平时走路根本不接触地面。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d11d7dda1b2d3939d1c2261ab4926626_720w.jpg?source=8673f162" alt=""></figure>
-<p>但在猫身上，这段骨头是<strong>竖起来的、悬空的</strong>，平时走路根本不接触地面。</p>
-<p>真正算"脚"、也就是着地的部分，只有图片最末端那几个粉色肉垫，也就是趾垫和掌垫。</p>
-<p>先把一个容易混的概念说清楚。哺乳动物的走路姿势，大致有三种。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-986a116e0e56bc4cac6acb418ef91371_720w.jpg?source=8673f162" alt=""></figure>
-<p>一种像人和熊这种，把趾头、脚掌和脚跟都踩在地上，叫跖行（Plantigrade）。身体重量落在整个脚掌上。</p>
-<p>一种是只用趾头和脚趾下方的垫子接触地面，脚跟是悬空的，叫趾行（Digitigrade）。</p>
-<p>还有一种是只用趾尖，也就是蹄子那一小块接地，叫蹄行（Unguligrade）。</p>
-<p><strong>猫属于典型的趾行动物。</strong></p>
-<p>有人觉得猫"脚很大"，相当大程度上是把这整段跖骨区域也算进去了。</p>
-<p>回到前面的图，注意看两张图里猫的后脚底部。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ace73d1ec5409d90e089cbbd9d800c3_720w.jpg?source=8673f162" alt=""></figure>
-<p>站立时，跖骨段也被迫贴近地面，整个后脚接触面积明显扩大，更接近跖行姿势。这不是主动选择，而是为了扩大支撑面、防止向后倒的被动补偿 。</p>
-<p>此时，后肢三个关节同时处于极度伸展状态，把身体整体撑起来。这三个关节在四足奔跑时分工合理，但同时竖向承受全身重量是非常规工作状态，维持时间有限 。</p>
-<p>猫的脊柱是 C 形弓，适合四足跑跳时的水平状态。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-24938af4784081ae1412728e2dae44e9_720w.jpg?source=8673f162" alt=""></figure>
-<p>站立时，腰椎被迫向后过伸，把躯干"撑"在后肢上方。</p>
-<p>你在前面图里可以观察到猫的躯干和地面接近垂直，但这个姿势没有人类 S 形脊柱那种结构性支撑，完全靠腰部肌肉持续发力维持，很快就会疲劳。</p>
-<p>两张图里前肢都是收起来的，没有着地，也没有靠着东西。前肢在这里的主要作用是通过悬空位置微调重心。重心一旦偏前，猫就会俯冲下去；偏后则向后倒。前肢相当于一个动态平衡杆。</p>
-<p>以上这些都需要不断的肌肉主动调整。这和人站立时重心自然落在双脚支撑区域内、不需要持续用力的机制完全不同 。</p>
-<p><strong>那既然这么费力，为什么猫有时会偶尔站起来呢？</strong></p>
-<p>原因主要有三个：看得更远、够东西、在冲突中显得更有压迫感。</p>
-<p>下图中豹子也处于后腿直立的姿势：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-cfe42bca86aff438ccf08c1be181ceee_720w.jpg?source=8673f162" alt=""></figure>
-<p>原因很直接：公路两侧高草完全挡住了视线，豹子需要一个更高的视角来确认猎物位置 。没有树可以爬，没有土坡可以借，直接站起来是最快的解决方案。</p>
-<p>和家猫短暂直立一样，这个姿势涉及同一套临时机制，但放大到一只 50~90 kg 的大型猫科动物上，代价更明显。</p>
-<p>你可以很清楚看到，后脚着地方式改变，跖骨段贴近地面扩大支撑面，但这对豹子的关节压力远大于家猫，因为体重是家猫的几十倍 。</p>
-<p>髋关节、膝关节、踝关节同时强力伸展，这三个关节在水平奔跑时是分工合理的弹射结构，此时被迫纵向承重，不是它们的设计工作状态 。脊柱依然是 C 形弓，腰部肌肉在主动发力维持躯干竖直，这在体重更大的情况下消耗更快，所以豹子站立时间极短。</p>
-<p><strong><strong>直立行走的真正难点，不在脚多大。</strong></strong></p>
-<p>决定一个哺乳动物能不能习惯性直立行走，关键在于枕骨大孔的位置。</p>
-<p>这是一个位于头骨底部的骨骼开孔，脊髓从这里穿过并连接大脑。2013 年，德克萨斯大学奥斯汀分校的人类学副教授克里斯·柯克（Chris Kirk）团队，对 71 个哺乳动物物种的枕骨大孔位置进行了对比测量研究 <sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ada7052efe63ffe2747535d5504f0bf_720w.jpg?source=8673f162" alt=""></figure>
-<p>下图中，习惯直立躯干姿态（Orthograde）的狐猴，其枕骨大孔比非直立姿态的近亲更靠前。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4a707aa6bd20a1200bc233c84f0b8716_720w.jpg?source=8673f162" alt=""></figure>
-<p>研究确认，人类的枕骨大孔位于头骨正下方，这使得头部可以直接平衡在直立的脊柱顶端，眼睛自然平视前方 。而猫科动物的枕骨大孔位于头骨的后方 。</p>
-<p>如果猫长时间依靠后肢直立，脊柱会把头骨向后上方顶起，它的脸会直接朝向天空。猫为了看清前面的路，必须极其费力地把颈椎向前弯折。这种低效的骨骼约束，直接切断了它们常态化直立行走的可能。</p>
-<p>除了脖子受不了，猫的内脏承重机制也完全不支持直立。人类的骨盆为了适应双足直立，进化成了一个宽阔的碗状结构。</p>
-<p>根据 1960 年科学家沃什伯恩（Washburn）提出的产科困境假说<sup>[2]</sup>，以及后续的三维有限元分析研究，人类骨盆的这种形状是为了在纵向上从底部托住整个腹腔的内脏以及胎儿。</p>
-<p>猫的骨盆则是一个狭长的管状结构，走向与脊柱平行。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f93e9a39d2877c50f36d601c9043948b_720w.jpg?source=8673f162" alt=""></figure>
-<p>在四足行走时，猫的内脏是靠腹部肌肉群在横向上悬吊着的。</p>
-<p>如果强迫猫长时间直立，这套悬吊系统就会失效，内脏会在重力作用下全部向骨盆腔堆积。它们狭窄的骨盆根本没有类似碗底的支撑面来防止内脏异常挤压。</p>
-<p>所以，猫偶尔依靠后肢站立，仅仅是为了改变视角获取视野。目前的四足趾行形态，已经满足了伏击捕食者的生存需求。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-12e86df792a9da897045e07947544af1_720w.jpg?source=8673f162" alt=""></figure>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1931067771132839384">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788438</guid><pubDate>Sun, 22 Mar 2026 18:29:43 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788605</guid><pubDate>Mon, 23 Mar 2026 01:51:17 GMT</pubDate></item></channel></rss>
