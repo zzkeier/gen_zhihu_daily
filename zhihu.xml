@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Wed, 25 Mar 2026 18:50:11 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>人为什么不能像狗那样甩干自己呢？</title><link>http://daily.zhihu.com/story/9788608</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-2556910ebd8a502f358edbaf7d47d8a5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Thu, 26 Mar 2026 01:55:16 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>最近一个被人类驯化的物种是什么?</title><link>http://daily.zhihu.com/story/9788612</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-7a15ed6016498b033075b8c75fbad06a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,69 +19,58 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/2009667165461172230/answer/2009670025469002421" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-4e340f36684bbae6619008a0222a2f6f_l.jpg?source=8673f162">
+<span class="author">奔奔马，</span><span class="bio">新疆兵团90后职工，淘宝搜“奔奔马90后养蜂人”自产蜂蜜和枣</span>
+<a href="https://www.zhihu.com/question/15527482854/answer/2004507884864701474" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>在 2012 年，佐治亚理工学院的流体力学团队发表了一项关于哺乳动物如何甩水的实验<sup>[1]</sup>。</p>
-<p>他们用高速摄像机记录了老鼠和熊等动物洗澡后的反应，发现动物甩干是一个极其精密的物理过程，动物的体型越小，为了产生足够的离心力摆脱水的表面张力，甩动的频率就必须越高。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f00a9870bce7aa4a67c4a648d35ed1fc_720w.jpg?source=8673f162" alt=""></figure>
-<p>这时候，可能会有人说，物理教材里不是说没有离心力吗？为什么要提它？</p>
-<p>物理教材说得对，真实的物理世界中确实不存在“离心力”，水滴被甩飞的本质是<strong>惯性</strong>：水滴本想沿着直线飞出去，当动物甩动得太快时，毛发对水滴的表面张力（向心力）再也拉不住它的惯性，水滴就顺着切线方向脱落了。</p>
-<p>下图 (a) 和图 (b) 的高速摄影分别对比了水滴在纯重力下从光滑表面缓慢滴落，与在旋转加速度下从带毛发表面被瞬间（仅耗时几十毫秒）拉扯并甩飞的形态差异。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c204d90c7862cf0d62f1f24200ec5723_720w.jpg?source=8673f162" alt=""></figure>
-<p>然而，如果我们将视角切换到跟着动物一起旋转的系统内，水滴这种向外飞的惯性表现，感觉就像是受到了一股向外拉的真实力量。</p>
-<p>因此，为了更直观、简便地描述这种“被往外甩”的现象及其内部的力量对抗，无论是在日常生活还是严谨的学术论文中，科学家们都会习惯性地借用“离心力”这个虚拟概念。</p>
-<p>OK，回到正题。研究发现，老鼠每秒要甩动 29 次，狗每秒甩动 4 到 7 次，而体型巨大的棕熊每秒只需要甩动 4 次。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8f28e0e41304c4291fb4cd15e430c39b_720w.jpg?source=8673f162" alt=""></figure>
-<p>下图展示了动物毛发在旋转甩干过程中的脱水规律，其中图 (c) 则补充说明了，不同体型动物的自身体重与其毛发所能吸附的水分总质量之间，存在着高度一致的线性正相关关系。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b06a507090e40deb7d55963956ea4d35_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果强行将人类的平均体重（约 60-80 kg）代入该论文的公式中，可以得出，一个体重七十公斤的人类如果想单靠躯干旋转把身上的水甩掉，大概需要每秒扭动身体 3 到 4 次（或每分钟 180-270 转），这与棕熊的结果非常接近。</p>
-<p>但问题是，就算你的脊椎扛得住，真的能扭这么快，你想甩干还是非常困难。</p>
-<p>为什么？因为你缺少多毛哺乳动物身上的一个东西，也就是脂膜肌（Panniculus Carnosus）。</p>
-<p>下图展示了多种研究相关物种中脂膜肌的解剖位置：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5f3effaca7846b16cf240b686549a88e_720w.jpg?source=8673f162" alt=""></figure>
-<p>在猫、狗和马的身上，这层横纹肌覆盖了整个躯干，让它们的皮肤非常松弛，可以完全独立于骨骼滑动 。狗在甩水时，脊柱的转动幅度其实只有 30 度，但依靠松弛皮肤的延迟和回弹，皮肤表面的摆动幅度可以瞬间达到 90 度。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3152d4c0dd58de2bebb816c7ff7d38eb_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种挥鞭效应能产生高达重力加速度 10 到 70 倍的离心力，瞬间把水滴甩飞 。这股力量太大，以至于狗在甩水时必须闭上眼睛防止眼球受损 。</p>
-<p>而人类在进化中几乎完全失去了脂膜肌，只在脸部和脖子保留了一点残迹用来做表情 。我们的皮肤像被铆钉死死固定在深层的肌肉上。下图为脂膜肌残留在人体内的具体定位，黑色字体是明确了的，蓝色字体是尚存争议的：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-23c3d099c2cf2354ffc88a111e21468e_720w.jpg?source=8673f162" alt=""></figure>
-<p>当你扭动身体时，表皮只能和骨骼同速转动，根本无法放大离心力。老实说，长着这么紧绷的皮肤还想甩干自己，纯属痴人说梦。</p>
-<p>如果硬要甩呢？我们能不能借助外部机器（比如发明了什么甩人机器之类的），强行以极高的频率摇晃人类来实现脱水呢？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b27caeef07be62cef68461e6bd47df54_720w.gif?source=8673f162" alt=""></figure>
-<p>答案是你可能会死，因为人类的颅脑结构根本无法承受这种高频的旋转剪切力<sup>[2]</sup>。</p>
-<p>物理学与神经外科研究表明，人类的大脑组织具有类似果冻的黏弹性：它对直线前后的挤压有一定缓冲能力，但对<strong>旋转扭曲</strong>的抵抗力极差。</p>
-<p>在高频的左右交替扭转下，由于大脑外层的灰质和内部的白质密度不同，它们会以不同的惯性发生巨大的相对滑动。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f373c2e97e8f898e6269bb23f8c1fbf5_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种强烈的旋转剪切力不需要大脑去撞击颅骨，它会在大脑内部直接产生“绞肉机效应”，瞬间扯断神经元之间长长的轴突连接。在法医学上，这被称为极其致命的<strong>弥漫性轴索损伤（DAI）</strong>。试图通过复刻动物的高频扭转来彻底甩掉身上几百克的水分，只会将直接将你的脑神经网络物理切断<sup>[3]</sup>。</p>
-<p>下图是人体头部和颈部在三种不同受力方向下的生物力学模拟模型，以及对应的大脑内部不同区域的位移数据。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-55a8ed8faa42f1b18816489320f16dfc_720w.jpg?source=8673f162" alt=""></figure>
-<p>观察图 i 可以发现，各个脑区的位移曲线出现了<strong>极大的发散和差异，</strong>也就是相对滑动，这种巨大的位移差就是撕裂神经轴突的致命旋转剪切力的来源。</p>
-<p>如果你的头发很长，那么你的旋转半径很大，你只需要相对较低的频率就能在发梢产生极大的离心力把水甩飞。这也就是为什么摇滚乐手或刚出浴的长发女生能够比较轻松地甩干发梢的水分（彻底甩干那还是不现实的）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e3b728d79b51c31ca356d2d0cc7d589a_720w.gif?source=8673f162" alt=""></figure>
-<p>短发就不要去想了……</p>
-<p>人类的颈椎（C1-C7）和颈部肌肉群演化出来是为了支撑一颗重约 4-5 公斤的静态头颅，而不是当作高速马达的转轴。</p>
-<p>如果要强行以极高频率甩动短发，颈椎将承受几十甚至上百个 G 的剪切力。人类不仅肌肉根本无法输出如此狂暴的扭矩，即便强行发力，下场就是颈部韧带瞬间撕裂、颈椎错位压迫脊髓，发生医学上所谓的“内部斩首（Atlanto-occipital dislocation）”。下图中间那个：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e322c8a8346fcba7399d6a3f452e211a_720w.jpg?source=8673f162" alt=""></figure>
-<p>为什么人类不要甩水这项技能呢？</p>
-<p>这其实是一笔非常划算的能量交易。大约两百万年前，早期人类生活的环境开始变得干旱炎热，为了在白天长距离奔跑狩猎，人类褪去了厚重的体毛，并演化出了极高密度的排汗系统 。</p>
-<p>2023 年的一项研究指出，人类虽然因为失去毛囊导致伤口愈合速度远远落后于黑猩猩<sup>[4]</sup>（黑猩猩等动物的伤口愈合速度约为每天 0.61 毫米，而人类仅为每天 0.25 毫米。人类的愈合速度比其他非人灵长类动物慢了将近三倍），但却换来了动物界最顶级的蒸发散热能力 。</p>
-<p>对于长着厚重毛发的动物来说，如果不能瞬间把水甩干，水分蒸发会抽走巨大的热量。一只湿透的狗如果任由体表自然风干，会消耗掉它一天所需总热量的百分之二十，这在野外可能会导致致命的失温。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a6ea5b0868fa4fc45d91e161c3f72b68_720w.jpg?source=8673f162" alt=""></figure>
-<p>相比之下，“光秃秃”的人类洗完澡身上没有多少水挂身上了，而且你有一双灵活的手可以拿毛巾擦身体和头发，又有一套顶级的出汗散热系统，大自然当然没有理由为你保留那种极耗能量且容易震碎脑子（还有颈椎）的甩水机制了。</p>
+<p>有一种较为常见的家禽，其完全被驯化为家养动物的历史才 100 多年，已成为今天重要的蛋禽，全世界饲养数量超过 10 亿只，在国内已成为仅次于鸡、鸭的“<strong>第三重要家禽</strong>”。</p>
+<p>这种家禽就是<strong>鹌鹑</strong>。</p>
+<p>今天的<strong>家养鹌鹑</strong>是由<strong>野生鹌鹑</strong>驯化而来，野生鹌鹑分布广泛，整个欧亚大陆到非洲都有<strong>鹌鹑属</strong>的分布，全世界共有鹌鹑属 20 个野生种。东亚地区主要分为<strong>普通鹌鹑</strong>（<em>Coturnix coturnix</em>）和<strong>日本鸣鹑（</strong><em>Coturnix japonica</em><strong>）</strong>两个<strong>物种</strong>，具有一定的<strong>迁徙</strong>习性。两种野生鹌鹑存在生殖隔离，在我国均有分布，分布区域相互重叠，以野生日本鹌鹑居多。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d85b34273e019fa5c3ae6b8f8fbff85_720w.jpg?source=8673f162" alt=""><figcaption>野生鹌鹑</figcaption></figure>
+<p>在中国，鹌鹑 1000 多年前即已经开始进行饲养，在民间常用于观赏、娱乐（斗鹌鹑），但并未开展规模化的驯化、繁育。</p>
+<p>在日本，<strong>野生鸣鹑</strong>600 年前开始作为一种有价值的鸣禽开始捕捉、饲养，主要盛行于武士阶层，1868 年明治维新后在民间得到广泛传播。</p>
+<p>现在的家养鹌鹑大约诞生于 20 世纪初，由一些热心的繁育者利用野生鹌鹑培育而来，特别是小田厚太郎在丰田创办小田鸟类试验所，着手鹌鹑育种工作，经过 10 多年不断的努力，终于培育成了以产蛋为主的新型家养鹌鹑品种，即举世闻名的蛋用型<strong>日本鹌鹑</strong>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-705193fa96b03076a7a85c8dc350b0b6_720w.jpg?source=8673f162" alt=""><figcaption>养殖场规模化饲养的鹌鹑</figcaption></figure>
+<p>第二次世界大战以后，日本的鹌鹑养殖业渐渐发展，其饲养数量曾经长期居世界之首。</p>
+<p>之后，世界许多国家都很重视鹌鹑的饲养，陆续培育出了几十个各具特色的鹌鹑品种（品系）。</p>
+<p>法国培育的<strong>莎维麦脱、法巨</strong>等大个体品种，体型是日本蛋用型鹌鹑的 2~3 倍，不仅产蛋，还具有很高的肉用价值。</p>
+<p>中国从日本、朝鲜等国引进鹌鹑后，不仅发展为鹌鹑养殖大国，还率先解决了鹌鹑养殖过程中雌雄鉴别难题。1984 年，中国成功培育出第 1 个自别雌雄的<strong>隐性白羽鹌鹑</strong>品系，1991 年又通过家养鹌鹑羽色突变，培养出自别雌雄的<strong>隐性黄羽鹌鹑</strong>。</p>
+<p>有了自别雌雄的品种，刚孵出的小鹌鹑就可以通过羽色直接鉴定出性别，如北京白羽公鹑与朝鲜鹌鹑母鹑杂交，子一代初生绒毛呈淡黄色的是雌雏，胎毛呈栗色的就是雄雏，鉴别率几乎 100%，杂交后代自 1 日龄起就可以实现雌雄分养，大大方便了养殖户的规模化饲养与管理。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-61ee8ae4d3af24b37f004991ec053419_720w.jpg?source=8673f162" alt=""><figcaption>鹌鹑蛋</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d67ba76079da409e5ea578ed6e2cfcaf_720w.jpg?source=8673f162" alt=""><figcaption>正在出壳的鹌鹑，刚出生的鹌鹑仅有 7~8 克</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9497d321ee49b7411c45f9abb97c9e3c_720w.jpg?source=8673f162" alt=""><figcaption>刚出壳 1 天的小鹌鹑，出壳就会啄食，成活率很高</figcaption></figure>
+<p><strong>野生鹌鹑年产蛋仅 10~12 枚，但人工驯化、选育后的家养鹌鹑，年产蛋可达 300 枚，几乎每天都可以产 1 枚蛋，产蛋能力提高了几十倍，这是家养鹌鹑与野生鹌鹑最大的区别特征。</strong></p>
+<p>同时，鹌鹑经过驯化后，完全丧失了<strong>孵蛋</strong>习性，也就是<strong>就巢性</strong>，完全依赖人工孵化进行繁殖。这一点，家养鹌鹑和鸭子、蛋鸡等家禽很像，在产蛋提高的同时，完全丧失了抱窝习性。</p>
+<p>野生鹌鹑会自己孵蛋、育雏，但家养的鹌鹑，完全成为了产蛋工具，母鹌鹑对自己产的蛋完全失去了概念，根本不会孵蛋，更不会像农村土鸡那样带着小鹌鹑找吃的。鹌鹑只能靠人类的帮助才能繁殖后代，从这一点来说，人类已经成功驯化了鹌鹑，甚至比鸡的驯化更彻底。</p>
+<p>需要注意的是，经由野生鹌鹑驯化而来的家养鹌鹑，其生物学特性特征与祖先已大相径庭，如产蛋增加，失去了抱窝习性，但因驯化时间很短，不少行为仍然带有野生鹌鹑的习性，在养鹌鹑时需要注意：</p>
+<p><strong>1.野性强，会飞，雄性好斗。</strong></p>
+<p>2025 年 6 月，本人孵化的十几只鹌鹑，养到 30 日龄后，一时疏忽，雌雄个体没有及时分开，公鹌鹑之间互啄，1 天之内 4 只公鹌鹑头破血流，甚至其中 1 只头骨外露，直接死了！</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c8470c65375be1761d0161ffaf270907_720w.jpg?source=8673f162" alt=""><figcaption>鹌鹑生长速度快，这是本人饲养 20 天的鹌鹑</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-85dca0c0bf46017ceea77b46fae28b3b_720w.jpg?source=8673f162" alt=""><figcaption>鹌鹑繁殖速度特别快，养了 45 天的鹌鹑，开始下蛋了。送人了几只，留了 3 只鹌鹑，一公两母，白色的是公的</figcaption></figure>
+<p><strong>2.对温度要求严苛。</strong></p>
+<p>家养鹌鹑对环境要求较为严格，过冷或过热都有强烈反应，需要稳定、平稳、暖和的饲养条件。毕竟野生条件下，环境不利时，鹌鹑就迁徙到更适宜的区域了。</p>
+<p><strong>3.富神经质。</strong></p>
+<p>家养鹌鹑对周围环境应激敏感，稍有风吹草动或异响，就容易躁动不安、上蹿下跳。</p>
+<p><strong>4.受精率低。</strong></p>
+<p>公、母鹌鹑都保留了野生条件下较强的<strong>择偶性</strong>，公鹌鹑性欲旺盛，每日交配率可达几十次，但交配多为强制性行为，使得受精率一般不太高，即便选用 3~4 日 4 月龄的青壮年鹌鹑，种蛋受精率通常仍只有 60~70%。</p>
+<p><strong>5.喜欢沙浴。</strong></p>
+<p>在野外，鹌鹑特别喜欢用沙子洗澡，会用喙刨取沙子涂在身上进行沙浴，笼养条件下，鹌鹑仍保留这一习性，甚至会跳进饲料槽里洗澡，造成饲料浪费。因此，在饲养鹌鹑时，必须合理使用饲喂器，防止鹌鹑沙浴习性造成饲料浪费。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7b0f5b9f28aa35d276e290c1f73ec867_720w.jpg?source=8673f162" alt=""><figcaption>鹌鹑特别喜欢沙浴，在盆里装上沙子，鹌鹑会立即进入洗澡模式</figcaption></figure>
+<p>延伸阅读：</p>
+<p><a class="internal" href="https://www.zhihu.com/answer/1974439571535201559">母鸡在孵化小鸡的时候，不吃不喝，怎么没有饿死？</a><a class="internal" href="https://www.zhihu.com/answer/2003017437449327330">为什么人与人长相不同，动物却都长得一样？</a><a class="internal" href="https://www.zhihu.com/answer/1999756186900267869">如果给一只雄蜂幼虫一直喂食蜂王浆，这只雄蜂发育成成虫后会怎么样？</a><a class="internal" href="https://www.zhihu.com/answer/1962546844124028938">养多少只鸡可以做到一天一个免费的鸡蛋？</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2009667165461172230">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/15527482854">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788608</guid><pubDate>Wed, 25 Mar 2026 18:50:08 GMT</pubDate></item><item><title>为什么说双缝干涉实验很恐怖？</title><link>http://daily.zhihu.com/story/9788641</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-68e91a08d57172527b146dbd85020c46.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788612</guid><pubDate>Thu, 26 Mar 2026 01:55:13 GMT</pubDate></item><item><title>为什么会有那么多人相信阿波罗登月造假？</title><link>http://daily.zhihu.com/story/9788656</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-aa511162de748334b134471a5e93a7a3.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -101,90 +90,90 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-e04c76f0e1e90547916705f714d9ddd8_l.jpg?source=8673f162">
-<span class="author">Dunkirk</span>
-<a href="https://www.zhihu.com/question/585909758/answer/2016572054284043424" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
+<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的战士。</span>
+<a href="https://www.zhihu.com/question/2007901956144907487/answer/2016546892843098938" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>双缝实验恐怖在哪里？双缝实验过程本身并不复杂，复杂的是它带出来的问题。</p>
-<p>每当我们以为找到了一个合理的解释，下一个实验就会把这个解释给否决掉，然后把你推向一个更令人不安的可能。</p>
-<p>我们从头开始，一步一步走看一下双缝实验到底恐怖在哪里。</p>
-<p>01</p>
-<p>1801 年，托马斯·杨做了一个看起来很简单的实验。他让一束光通过一块开了两条细缝的挡板，然后打在后面的屏幕上。结果屏幕上出现了明暗相间的条纹，就像水波穿过两个缝隙之后相互叠加产生的图案一样。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5883c9dc2ab4793da2de4e8142f36c88_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个现象当时没让任何人感到不安。波会干涉，光是波，所以光会干涉，很合理。那时候的物理学家看到这个结果，大概只会点点头，觉得世界运转得很正常。</p>
-<p>不过，后来人们把光换掉了。</p>
-<p>02</p>
-<p>20 世纪初，人们开始用电子来做同样的实验。电子是粒子，是有质量的实体，不是波。如果你把一束电子射向双缝，屏幕上会出现什么结果呢？按理说该出现两列亮斑，对不对？就像下面这样。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ea0250d444d28d8250bbbbffd5ca51ef_720w.jpg?source=8673f162" alt=""></figure>
-<p>但结果是什么呢？你把一束电子射向开了两条缝的挡板，结果屏幕上出现的，是下面这样的干涉条纹。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5febbda1e764335f75a7c61372a4c38c_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就很奇怪了。粒子怎么会干涉？你可以接受光是波，但电子是一个有质量的像小球一样的东西，它怎么能像水波一样叠加？</p>
-<p>物理学家提出了波粒二象性这个概念来解释，说粒子也有波的性质。听起来有点怪异，但还能勉强接受。</p>
-<p>真正让人开始坐立不安的，是下一步。</p>
-<p>03</p>
-<p>有人问了一个问题：如果粒子之间互相干涉，那我一次只发射一个电子，会怎样？</p>
-<p>于是他们就真的这么做了。一次发射一个电子，打到屏幕上，记录落点，然后再发射下一个，如此重复几千次、几万次。每个电子单独飞行，不可能和别的电子相遇，更不可能互相干涉。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-88b68c6aa2e3b38f18fc1cbd1bc2b5b1_720w.jpg?source=8673f162" alt=""></figure>
-<p>最后他们把所有落点叠加在一起，竟然看到了干涉条纹。发射出去的一个个电子通过裂缝后在探测屏上逐渐形成了干涉图样。图（a）～（c）描述了电子形成干涉图样的过程。</p>
-<p>停在这里思考一下。一个电子，只有一个，它穿过了哪条缝？如果它穿过了左缝，那右缝对它来说不存在，怎么会产生干涉？如果它穿过了右缝，同样的问题。干涉需要两列波，但这里只有一个粒子。</p>
-<p>量子力学给出的答案是：这个电子同时经过了两条缝。它处于一种叠加状态，在被探测到之前，它的路径不是确定的。</p>
-<p>这个答案够奇怪了，但至少在数学上是自洽的。人们接受了这个解释，然后又问了下一个问题：好，那我能不能偷偷看一眼，看它到底走了哪条缝？</p>
-<p>04</p>
-<p>于是他们在缝旁边放了探测器，想在电子经过的时候记录它走了哪条路。</p>
-<p>干涉条纹消失了。</p>
-<p>屏幕上只剩下两条普通的光带，对应两条缝的位置，就像你拿石头往两条缝里扔，石头落点的叠加一样，没有任何干涉的痕迹。</p>
-<p>把探测器撤掉，干涉条纹又回来了。再加上，消失。再撤掉，回来。</p>
-<p>这个现象叫做观测效应，也是双缝实验第一次让人真正感觉恐怖的地方。电子似乎知道你在用仪器检测它的轨迹，所以选择老老实实走其中一条，而不是像幽灵般同时经过两条缝。</p>
-<p>你可能会想，也许是探测器在物理上干扰了电子？毕竟探测器要发射光子来探测电子的位置，光子打到电子上，改变了它的状态，这不是很正常的物理扰动吗？</p>
-<p>这个解释听起来很合理，而且很让人安心，因为它把奇怪的事情归结到了一个普通的物理原因上。</p>
-<p>05</p>
-<p>直到 1978 年，约翰·惠勒提出了一个新的思想实验。他问：如果我等电子已经通过了双缝，再决定要不要观测它的路径，会怎样？</p>
-<p>这个问题的关键在于时间顺序。按照之前的解释，探测器影响电子，是因为探测器在电子通过缝的时候发出了光子，物理上改变了它的轨迹。但如果电子已经过了缝，你再决定观测，那时候再做的决定，怎么可能影响已经发生的事？</p>
-<p>于是物理学家们做了这个实验。他们用量子随机数发生器，在光子飞行途中随机决定是否进行路径探测，切换的速度比光子飞行时间还短，确保光子在通过分束器的时候，探测与否的决定还没有做出来。</p>
-<p>结果和惠勒的预言完全一致：无论你何时做出决定，结果都和你提前决定一样。选择观测，干涉消失；选择不观测，干涉出现。</p>
-<p>你在电子通过缝之后做的决定，影响了电子通过缝时的行为。</p>
-<p>那个用物理扰动来解释的退路，被彻底堵死。因为物理扰动只能向前影响，不能向后影响。</p>
-<p>这是不是变得又恐怖了一些？但还没完。</p>
-<p>06</p>
-<p>量子擦除实验从另一个角度追问了同一件事。它想弄清楚，到底是探测本身在影响粒子，还是说，信息的存在与否才是关键？</p>
-<p>实验的设计大致是这样的：产生一对纠缠的光子，一个叫信号光子，让它去穿双缝；另一个叫闲置光子，把它送到另一边。因为这两个光子是纠缠的，你通过观测闲置光子，可以间接知道信号光子走了哪条缝。</p>
-<p>一旦这个路径信息原则上可以被知道，信号光子的干涉条纹就消失了。注意，没有任何东西物理上碰了信号光子，只是另一边的闲置光子携带了路径信息，干涉就没了。</p>
-<p>然后，把闲置光子送进一个特殊装置，让它的路径信息变得无法分辨，也就是把这个信息擦掉。信号光子的干涉条纹，重新出现了。</p>
-<p>没有任何粒子被碰触，没有任何物理扰动，只是信息的可获取性发生了变化，现实就跟着变化了。</p>
-<p>这说明，真正起作用的不是探测器发出的光子打到了电子上，而是宇宙中是否存在某个地方，原则上记录了电子走哪条缝这件事。只要这个信息存在，干涉就消失。把信息抹去，干涉就回来。</p>
-<p>如果你觉得这已经够荒诞了，1999 年的延迟选择量子擦除实验更进一步。</p>
-<p>07</p>
-<p>要理解延迟选择量子擦除实验，先得回到量子擦除实验的基本逻辑：路径信息存在，干涉消失；路径信息被擦掉，干涉恢复。</p>
-<p>好，那现在问题来了——如果我把“擦除”这个动作，安排在信号光子已经打到屏幕之后再做，会怎样？</p>
-<p>金和斯库利在 1999 年就是这么做的。</p>
-<p>实验的核心装置是一个产生纠缠光子对的晶体。每次晶体产生一对光子，两个光子的状态是纠缠在一起的——通过测量其中一个，你就能知道另一个的信息。</p>
-<p>其中一个光子叫信号光子，让它去穿双缝；另一个叫闲置光子，让它走一条绕远路的光路，这条路足够长，长到信号光子已经打到屏幕上、落点已经被记录下来之后，闲置光子才姗姗来迟地到达它的探测装置。</p>
-<p>时间顺序是这样的：信号光子先到屏幕，落点记录完毕。这时候闲置光子还在路上。然后闲置光子到达一个分束器。这个分束器的作用是：如果闲置光子通过它，它的路径信息就变得不可分辨——也就是说，你再也没办法知道它对应的信号光子走了哪条缝，路径信息被“擦除”了。如果绕过分束器，路径信息则保留。</p>
-<p>实验者可以选择让闲置光子走哪条路。</p>
-<p>现在把数据拿出来对照。所有信号光子的落点早就记录好了，一个都没少。但当你把“闲置光子路径信息被擦除”的那些事件单独挑出来，对应的信号光子落点拿来叠加——它们呈现干涉图样。而“路径信息被保留”的那些事件，对应的信号光子落点叠加——没有干涉图样，就是两条普通的亮带。</p>
-<p>停在这里想一下。信号光子落点是早就记录好的，白纸黑字，铁板钉钉。但它这个落点，究竟属于“干涉分布”还是“非干涉分布”，竟然取决于之后对闲置光子做了什么。</p>
-<p>不是说信号光子的落点会变——那个坐标是固定的。而是说，这些落点的统计分布的意义，取决于你未来的选择。</p>
-<p>在你做出选择之前，那些落点同时“潜在地”既属于干涉图样，又属于非干涉图样，只有当你把闲置光子的命运确定下来，对应的信号光子落点才被“归入”某一类。</p>
-<p>已经发生的事取决于之后的选择——这还不离谱吗？但实验的结果就是这样。</p>
-<p>08</p>
-<p>这些实验究竟意味着什么？</p>
-<p>观测改变现实，这已经够奇怪了。但延迟选择实验告诉你，不只是“现在的观测影响现在的结果”——你现在做的决定，影响的是一个已经发生的事件的。</p>
-<p>这意味着什么？它意味着“过去”可能并不像我们想象的那样是一个已经固化、不可更改的东西。“已经发生”这四个字，可能比我们想象的要虚无。</p>
-<p>费曼曾说没有人真正理解量子力学。量子力学的数学是完美的，预测精确到令人叹为观止，从未出过错。但它描述的是一个什么样的现实？没有人知道。</p>
-<p>我们用双缝实验打开了一扇门，门后面是什么，一百年过去了，还没有人真正看清楚。</p>
+<p>你只需要给这群人，科普一个东西：月球激光反射器。</p>
+<p>在缺乏对相关事实的了解，且美国近年再未载人登月的基础上，产生怀疑是情有可原的。</p>
+<p>但如果他们听完这个，还坚信阿波罗登月造假，那就没有继续讨论的价值了。</p>
+<p>这样的人很单纯，单纯地对国不对事。</p>
+<blockquote>前排叠甲：个人认为登月影像小部分存在补录嫌疑，但载人登月行为事实确实毋庸置疑。</blockquote>
+<p>1969 年 7 月 21 日，阿姆斯特朗和奥尔德林乘坐“阿波罗 11 号”登上月球之后，可不只是打了卡、拍了照。</p>
+<p>他们还有很多工作要做。</p>
+<p><strong>比如，在月面挖坑 / 打孔，用以安装、固定月球激光反射器，并且根据地球方面的指挥调整它的姿态，来取得最佳的角度。</strong></p>
+<p>它长这个样子，是一套由 100 个隅角镜构成的阵列：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-324a0fb90b707bf018cefd270bb4c5cb_720w.jpg?source=8673f162" alt=""></figure>
+<p>图中右侧类似吸尘器的东西，其实是个<strong>需要人工、手动操纵的</strong>电动钻机，NASA 至今保留着它的材料：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-560f4475aaa4ff5205c4b53e7cabcca6_720w.jpg?source=8673f162" alt=""></figure>
+<p>说回月球激光反射器，这东西是干什么用的呢？</p>
+<p>每一个隅角镜，不只是一面镜子，而是三面镜子。</p>
+<p>受其构造影响，光无论从哪个角度入射进入，总能被以平行的方向反射回原方向。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a44a5a9f21cffa075ef2aaa33e6ea1c7_720w.jpg?source=8673f162" alt=""></figure>
+<p>由于潮汐锁定的原因，月亮永远只有一面面向地球。</p>
+<p>那么，人们就可以从地球发射一束激光，再经由隅角镜反射回来。</p>
+<p>知道光速，再知道时间，我们就能知道地球到月亮的距离。</p>
+<p>比如，月球正每年以约 3.8 厘米的距离远离地球，就是靠月球激光反射器测量得来的。</p>
+<p>后来，美国人又在月球上放置了 2 套月球激光反射器：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-270f24d191e724063f92e10157b83d64_720w.jpg?source=8673f162" alt=""></figure>
+<p>这些反射器，到现在都能继续使用，在月球上的坐标是公开的。</p>
+<p><strong>全世界的学者（包括我国），利用这些反射器进行了多项研究，发表了不少文章。</strong></p>
+<p>在 2025 年以前，月球上一共有 7 套月球激光反射器。</p>
+<p>这 7 套中，除了美国放置的 3 套月球激光反射器外，月球上还有 2 套是苏联人放置的，2 套是我们中国人放置的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5927af852e024ed070a905c841417ab8_720w.jpg?source=8673f162" alt=""><figcaption>这图漏了咱们的</figcaption></figure>
+<p>那有人该问了，苏联从来没能成功载人登月啊，是怎么放上去的呢？</p>
+<p>答：月球车。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-17c3fc2f03dd71ef00c69a764f82d637_720w.jpg?source=8673f162" alt=""><figcaption>中国科学院国家天文台作者发表文章</figcaption></figure>
+<p><strong>月球激光反射器在放置过程中，哪怕偏离平均地球方向 1 度，就能导致有效反射面积的下降和脉冲展宽效应的升高，使得光束发散，测量准度下降。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8683ab37ed198310a4460c096a072f10_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，苏联这两套月球激光反射器，放置地都不太成功。</p>
+<p>甚至，1970 年月球 17 号放置的那套反射器，一年后就失联了，过了几十年才又被定位和重新启用。</p>
+<p>而且，受月球车载荷影响，苏联的月球激光反射器中隅角镜的数量远低于美国的，只有 14 个。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c04449c19271ba726103ad8b6bbbadc2_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>也正因此，美国人手工放置的大号反射器，工作性能上优于苏联月球车放置的小家伙。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bf1f6cb868c00d624a89ab910e6d5665_720w.jpg?source=8673f162" alt=""><figcaption>美国的三台，与苏联的两台</figcaption></figure>
+<p>美国的反射器数据贡献量，也远高于苏联：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e98bebe9688917a34611a1e6a4ffa12f_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，地月激光测距，并不是说拿根激光笔向月球上的月球激光反射器发射那么简单。</p>
+<p>他本身要克服的技术难点很多，比如极端精确的时间测量、极高精度的望远镜指向、克服大气扰动、做好复杂的天体建模，等等等等。</p>
+<p>所以直到 2019 年，我国“天琴计划”科研团队才成功测得月球上美苏 5 组反射器的回波信号，让我国成为世界上第三个完成该实验的国家。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e8ed7aceb1c0760af655d89d98b3c894_720w.jpg?source=8673f162" alt=""></figure>
+<p>在他们发表的论文中，如是写到：</p>
+<p><strong>来自月面 5 个激光反射器的观测数据量差异较大，其中 Apollo 15 反射器由于其有效反射面积大， 获得的数据量最多。</strong></p>
+<p>2013 年，我国的嫦娥三号在月球雨海北部安装了小型的月球激光反射器。</p>
+<p>2019 年，嫦娥四号又在月球背面安装了一套。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-07afcd2d0a55a754de26a0f679aaeb5a_720w.jpg?source=8673f162" alt=""><figcaption>嫦娥三号</figcaption></figure>
+<p>这两套反射器的阵列规模，虽然不如美国人带上月球的大，但实打实是我们的突破，让我们成为人类历史上第三个在月球上部署激光反射器的国家。</p>
+<p>总而言之，有着月球激光反射器这样的铁证，就不该有人质疑阿波罗登月。</p>
+<p>其实不止反射器，美国前后共完成了 6 次载人登月，在月球表面留下了几百公斤的科学仪器，其中大量设备需要人来手动安装。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-420e54bf2ca9d00dfb44919aac06d974_720w.jpg?source=8673f162" alt=""></figure>
+<p>月轨飞行器拍摄的六次登月遗迹：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-db4d861fc247aeb9c06951bed47515d0_720w.jpg?source=8673f162" alt=""></figure>
+<p>阿波罗 14 号仪器现场：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-43aa780ae8e08a19acbb5c525419a171_720w.jpg?source=8673f162" alt=""></figure>
+<p>阿波罗 17 号仪器现场：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-3108d56310fd0bad7a36daee39530254_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果了解了这些事，还坚信美国载人登月造假的。</p>
+<p>那自不必与其讨论科学问题——</p>
+<p>抛开事实地争辩，没有任何意义。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-00c978e0a0d51eec630711a9fec8c158_720w.jpg?source=8673f162" alt=""></figure>
+<p>以上</p>
+<p>参考内容：</p>
+<p>高添泉,吴先霖,杨山清,等.中山大学月球激光测距研究与实验[J].中山大学学报（自然科学版）, 2021(060-001).</p>
+<p>郑向明,郭锐,李语强,等.我国月球激光测距研究与进展[J].天文研究与技术, 2007, 4(3):7.DOI:10.3969/j.issn.1672-7673.2007.03.006.</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/585909758">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2007901956144907487">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788641</guid><pubDate>Wed, 25 Mar 2026 18:50:09 GMT</pubDate></item><item><title>「法国梧桐」既不来自法国，又不是真的梧桐，为啥还会叫这个名字？</title><link>http://daily.zhihu.com/story/9788646</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-9780881574f4efcf9e7301aac624f92d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788656</guid><pubDate>Thu, 26 Mar 2026 01:55:14 GMT</pubDate></item><item><title>有没有古人写诗时用了典故，结果诗传下来典故没传下来这种情况？</title><link>http://daily.zhihu.com/story/9788659</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a2472725e57bab551a7133b212614c4b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -204,75 +193,35 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-b0a3e4598a57de66b24ee18009c38974_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">哎，本来我是来看段子的，现在好了，段子看我。</span>
-<a href="https://www.zhihu.com/question/3237464007/answer/32132878608" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户，</span><span class="bio">伪史壬一律拉黑</span>
+<a href="https://www.zhihu.com/question/655780336/answer/2016045367960019624" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3645bb9402c7f0c161faadb1e3c34d22_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是一颗梧桐，路边很常见，我们叫他髪国梧桐。</p>
-<p>其实这玩意不是梧桐，甚至和梧桐没一点关系，</p>
-<p>因为它大名叫悬铃木。</p>
-<p>不光和梧桐没啥关系，其实和法国也没啥关系，</p>
-<p>因为它原来叫英国梧桐。</p>
-<p>后面的事大家也应该猜到了，</p>
-<p>不光跟法国没啥关系，其实跟英国也没啥关系，</p>
-<p>反倒是和美国还有点关系。</p>
-<p>最后仔细一查，这玩意压根没原产地，是个串儿。</p>
-<p>欢迎大家收看走近不科学——梧桐在哪里。</p>
-<hr>
-<p>要说这悬铃木家族，有点惨，虽说法国梧桐随地见，但整个悬铃木科就悬铃木属这一根独苗。</p>
-<p>家族兄弟十一个，一个国产都没有。</p>
-<p>国内常见的就仨，分辨起来也非常容易——看蛋蛋。</p>
-<p>一球<em>悬铃木，来自美利坚，叶刃宽分裂少，上下只有一个蛋，树皮开裂掉小块。叫美国梧桐。</em></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c0f46dcb44fdf9220cab45787c1028fb_720w.jpg?source=8673f162" alt=""></figure>
-<p><em>三</em>球<em>悬铃木，上下一串三个蛋，叶子分叉多，所以</em>又叫裂叶悬铃木<em>，</em></p>
-<p><em>树皮片状乱掉渣，跟牛皮癣似得。</em></p>
-<p><em>中国人民的老朋友，东晋（公元 401 年）胡僧引进过，叶子密，长得高，得称雅号</em>祛汗树，</p>
-<p>奈何后来法国人喜欢种，东部人民不认识，看这叶子像梧桐，得，就叫法国梧桐吧。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b0d25ab2aa1d1f51bf8e1172da9f21c0_720w.jpg?source=8673f162" alt=""></figure>
-<p>二球<em>悬铃木，果实一串两个蛋，最早是英国人用一球和三球杂交出来的，所以叫伦敦梧桐，块状掉皮颜值高，马路边上种植多。咱日常路边见的就是它。</em></p>
-<p><em>正经人谁没事天天看长几个蛋啊，所以大众还是沿用他爹旧称，也叫法国梧桐。</em></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-703cf5808f697ac186c1f92845d2c221_720w.jpg?source=8673f162" alt=""><figcaption>二球悬铃木树皮、</figcaption></figure>
-<p>名叫梧桐，实际和梧桐一点关系没有。最多算长得有一点点像。那真正的梧桐长啥样呢？</p>
-<p><strong>有小伙伴抢答了：我知道我知道，叶子大，有绒毛，喇叭紫花开一串，果子像桃有绒毛，材质轻软有空隙，树干容易成中空，能做古琴当棺材，宇宙中心曹县发家致富就靠它。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e146b979f4be5e575e57186c06cb4a6_720w.jpg?source=8673f162" alt=""></figure>
-<p>呃，虽然这个在山东地区确实叫梧桐，实际他是泡桐，属于泡桐科泡桐属的植物，和梧桐还是离着特别远。</p>
-<p>适应力好，南北方都有分布，不过因为长的比较快，木质非常疏松，时间久了可能出现空心现象，碰到风大雨大极易倒掉，一般不会拿着做行道树。</p>
-<p><strong>小伙伴又问了：那像这个，开白色漂亮花，长绿色球果的桐树叫啥咧？</strong></p>
-<p>这是大戟科的油桐，果子用来榨桐油，南方比较多，已经有岗位了，是经济作物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cd865f62e6f897f5c644a247b2a8b530_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>那真正的梧桐到底是啥样咧？！！！！</strong></p>
-<p>记好了，古人讲，凤是种高洁的动物，所以非梧桐不止，非练实不食，非醴泉不饮。</p>
-<p>那梧桐怎么显出是白洁咧？首先颜值高，其次姿态美，最后有个性。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f22ac48499a958d61f7109574bb2613e_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，真正的梧桐是青桐，直挺挺一根从上到下。上到树叶下到皮，全是一水的绿色。</p>
-<blockquote>像唐朝白居易《云居寺孤桐》赞曰：一株青玉立，千叶绿云委。亭亭五丈馀，<span class="nolink">高意</span>犹未已。</blockquote>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-13bf68375897b2ddec936a5be1f1d364_720w.jpg?source=8673f162" alt=""></figure>
-<p>花分五萼，没有花瓣，果似汤勺，边嵌圆果，颜值极高。</p>
-<blockquote>明代《群芳谱》就讲了：“梧桐皮青如翠，叶缺如花，妍雅华净，赏心悦目，人家斋阁多种之。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-512614b29000d60efd1388bc7212ffe8_720w.jpg?source=8673f162" alt=""></figure>
-<p>喜阳，喜暖，耐寒差，根深，喜沙，不耐淹。如果碰到水多的情况，很容易烂根导致死亡。</p>
-<blockquote>最早在《诗经・大雅》讲：“凤凰鸣矣，于彼高冈；梧桐生矣，于彼朝阳。</blockquote>
-<p>你瞅瞅，这青桐，</p>
-<p>论颜值有个性，论个性有逼格，论逼格有颜值，</p>
-<p>那为啥混的连名字都被一堆外姓树抢了个遍咧？</p>
-<p>泡桐：俺适应好，简称适好。</p>
-<p>油桐：俺能卖钱，简称效益好。</p>
-<p>法桐：嘿嘿，俺好养活，简称活儿好。</p>
-<p>梧桐：俺逼格高，简称 B....呃..哥俩好。</p>
+<p>屈原的著名长诗《天问》素以难懂著称，因为里面提到了很多无法考证的上古典故，不仅今人执卷茫然，就是两千年前的汉人也昧然难知其义。</p>
+<p>东汉王逸《天问后叙》云：“昔屈原所作，凡二十五篇，世相教传，而莫能说《天问》，以其文义不次，又多奇怪之事。自太史公口论道之，多所不逮。至于刘向、扬雄，援引传记以解说之，亦不能详悉。所阙者众，日无闻焉。既有解词，乃复多连蹇其文，蒙澒其说，故厥义不昭，微指不晢，自游览者，靡不苦之，而不能照也。”</p>
+<p>比如这段：“该秉季德，厥父是臧。胡终弊于有扈，牧夫牛羊？干协时舞，何以怀之？平胁曼肤，何以肥之？有扈牧竖，云何而逢？击床先出，其命何从？恒秉季德，焉得夫朴牛？何往营班禄，不但还来？昏微遵迹，有狄不宁。何繁鸟萃棘，负子肆情？眩弟并淫，危害厥兄。何变化以作诈，后嗣而逢长？”</p>
+<p>直到王国维依据甲骨卜辞里的商先公先王世系和《古本竹书纪年》才大致疏通了这一段是述商先公王亥、王恒、上甲微三世之事。但是“繁鸟萃棘”以下几句还是不懂是讲什么，只能阙疑："当亦记上甲事，书阙有间，不敢妄为之说。"</p>
+<p>虽今人比王逸距离屈原的时代更远，但比古代注家强一点的地方在有甲骨楚简之类的出土文献可参。</p>
+<p>又如《天问》结尾“薄暮雷电”以下一段古今注家虽能指出是问楚国历史的，但人人言殊，莫衷一是。《天问》结尾段有一句：<strong>“伏匿穴处，爰何云？”</strong>王逸《章句》注释为屈原自己藏于洞穴不说话：“吾将退于江滨，伏匿穴处耳，当复何言乎？”此说影响力很大，但也有人怀疑王逸的注解是错的，这句其实还是讲楚国历史。比如郭沫若认为“伏匿穴处”的是阖闾，林庚以为是楚昭王，汤炳正认为是讲楚贵族若敖氏斗伯比和表妹邙子之女偷情生令尹子文之事。</p>
+<p>直到安大简披露其一篇《楚纪》中记载：</p>
+<blockquote>季連寖内于灘，游于喬山，入伏于丹穴。融乃使人下請季連，求之弗得。見人在穴中，問之不言，以火爨其穴，乃懼，告曰：酓（熊）。使人告融， 融曰：“是穴之熊也。”乃遂名之曰穴酓（熊），是爲荆王。<sup>[1]</sup></blockquote>
+<p>这是一则前所未知的楚先祖传说，讲述了楚先祖季连入伏丹穴不出，祝融的使者以火焚逼其出洞，季连慌忙之下喊了一声：“酓（熊）”！祝融听闻后更其名为穴酓（熊）并立之为王。这个故事可以看成历代楚王所以名酓（熊）某的解释性神话。其地名可以和清华简《楚居》：“季连初降于隈山，抵于穴穷，前出于乔山，宅处爰波，逆上汌水……”相对照。黄德宽先生认为《楚纪》是一部楚国的官修史书，屈原是很有可能看过类似这种史书的。</p>
+<p>陈民镇先生就此撰文言：</p>
+<blockquote>　由于《天问》的尾声部分主要是在追述楚国先王，因此蒋骥和王闿运联系楚国先王是颇有道理的。如果考虑到安大简楚史的记载，我们不难想到：“伏匿穴处”的正是季连（穴熊），所“云”者，季连自谓之“熊”也。由于我们过去不知道楚人曾有过这么一个版本的先祖传说，故对“伏匿穴处，爰何云”一语不明就里。<sup>[2]</sup></blockquote>
+<p>如果不是安大简的出现，历代《楚辞》注释家就是想破脑袋也想不到这个失传的典故。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/3237464007">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/655780336">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788646</guid><pubDate>Wed, 25 Mar 2026 18:50:10 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788710</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788659</guid><pubDate>Thu, 26 Mar 2026 01:55:15 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788712</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -287,7 +236,7 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 在国外旅行时，你发现过哪些中国符号？</h2>
+<h2 class="question-title">瞎扯 · 你的导师对你说过哪些让你至今难以忘怀的话？</h2>
 
 <div class="answer">
 
@@ -298,29 +247,33 @@
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/641372499/answer/86080660353" target="_blank">在国外旅行时，你发现过哪些中国符号？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/558479983/answer/108266313025" target="_blank">你的导师对你说过哪些让你至今难以忘怀的话？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/60bedcd82e49ddd554bdeb0845193d61" target="_blank">@Banach Spaces</a> ：这玩意在<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271287472&content_type=Article&match_order=1&q=%E9%B9%BF%E7%89%B9%E4%B8%B9&zhida_source=entity" target="_blank">鹿特丹</a>。。。一个华人并不是很多的地方</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bf5aae3802c396b90f3354b9778a59f5" target="_blank">@柯烟</a> :他在论文里留给我的最后一句话是：「返校后面谈」。</div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-d88680f0e00ad401f4191ac5e097bf3a_1440w.jpg" alt="" width="674"></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-bd7a65f253250991a0d1cb5c832b39b8_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/630236851/answer/1938790615337903088" target="_blank">幼猫一直冲着主人哈气是什么意思？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/581444649/answer/1946273357059298826" target="_blank"> 能否人工挖一个贝加尔湖?</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/04ba55a37c1bf2eba9be8382abbbb84e" target="_blank">@林登百万</a> ：刚入地球 online 不熟悉键位， w 向前 s 向后 a 转左 d 转右，这个 h 啥意思，按一下。</div>
-按了怎么被打了。</blockquote>
-<p>Q ：<a class="internal" href="https://www.zhihu.com/question/5584842873/answer/1993716419582514546" target="_blank"> 为什么技术人员往往难以沟通？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f58df5eec0823c0b5bf0cbd46b775ed6" target="_blank">@须臾</a> ：《大家都知道我想说什么，四川人也知道，所以四川人肯定不会同意，所以他们肯定愿意去把贝加尔湖打下来，趁他们去打贝加尔湖的时候，我们把<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271286845&content_type=Article&match_order=1&q=%E5%9B%9B%E5%B7%9D%E7%9B%86%E5%9C%B0&zhida_source=entity" target="_blank">四川盆地</a>蓄满水，这样我们就有两个贝加尔湖了》</div>
+</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/346740353/answer/1994069362160710212" target="_blank">你们麻醉后说过什么蠢话？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f13aae7fdc01e5e0d50adc471426b5d6" target="_blank">@英雄和狗熊</a> ：我在火车上，老板一直打电话让我快点。</div>
-给我憋的，一句话也说不出来。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1996005855066338526/answer/1996309373773960702" target="_blank"> 两千万成年人患注意缺陷多动障碍（ ADHD ），这个病真的是「互联网时尚单品」吗？如何判断是否需要就诊？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/846fc62ef609b5356698db0aedcd36fe" target="_blank">@东照权现</a> ：我：我妈呢？</div>
+我太太：妈没来。<br>我：我妈呢？<br>我太太：妈在呢，妈在呢。<br>我端详了她半天：<br>瞎说，我妈比你好看多了。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/19550225/answer/1991999469613494737" target="_blank">如何正确使用知乎？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/96201efa3e1740f6990c9ff92e353863" target="_blank">@打虎武松</a> ：按目前成人 ADHD 的判断标准，每个人都能对号入座。</div>
-你只要能坐住连续打 3 把 <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271287472&content_type=Article&match_order=1&q=DOTA2&zhida_source=entity" target="_blank">DOTA2</a> ，<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271287472&content_type=Article&match_order=1&q=%E5%86%9C%E8%8D%AF&zhida_source=entity" target="_blank">农药</a>，英雄联盟，你就不可能是 ADHD 。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1927837929629292283/answer/1947746639709213853" target="_blank"> 什么样的食物算得上是法西斯主义食物？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/58e8719a69fe5ae25e17fbe3b4312721" target="_blank">@陶豫</a> ：被蜗牛追着，学做西葫芦炖茄子</div>
+</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/326203699/answer/1994427651683813100" target="_blank">为何很多国人称 「美国甜品过甜难以接受」而对国内甜度相同的饮料无甚微词？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ab824b5e81202a0fae8386f10a971668" target="_blank">@落素秋</a> ：法西斯主义的特征是阶级调和、对内高压、对外侵略。</div>
-阶级调和，指把食物混在一起。<br>对内高压，指内部高速旋转与加热<br>对外侵略，指周围人看了心里发怵<br>所以法西斯主义食物是：日得一声打成糊糊</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/8461b6d87007512ce7e7a52d1a141361" target="_blank">@冷静牛排头</a> ：美国没去过，说个我在英国的实例吧</div>
+如图所示，这是一个甜品。<br>问：上面那朵白花可能是什么？<br>A.奶油<br>B.白巧克力<br>C.纯白砂糖<br>答对了，答案是 C。<br>还有面包上的白点子，也都是纯正白砂糖</blockquote>
+<blockquote>齁死我了</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-93a6b35fa54a07217f419518e143a749_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
 </div>
 </div>
 
@@ -329,4 +282,4 @@
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788710</guid><pubDate>Wed, 25 Mar 2026 18:50:11 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788712</guid><pubDate>Thu, 26 Mar 2026 01:55:16 GMT</pubDate></item></channel></rss>
