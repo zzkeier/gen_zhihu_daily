@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Fri, 27 Mar 2026 18:49:30 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么现在的飞机更颠簸了？</title><link>http://daily.zhihu.com/story/9788615</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-b89bd6ba24cd3ebb64cf8cce18a400d9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 28 Mar 2026 01:47:11 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>马和牛都只吃素，为何它们这么壮？</title><link>http://daily.zhihu.com/story/9788616</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7072424f61b31f37bc38e38d29495045.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,55 +19,105 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-5d6eaf13322045da26f9367b6a68659d_l.jpg?source=8673f162">
-<span class="author">太空僧，</span><span class="bio">2022年新知答主｜航天及天文优秀答主</span>
-<a href="https://www.zhihu.com/question/1926630816601047424/answer/1928846971331911871" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a238e228bac402aa4ecc0b5f5107f085_l.jpg?source=8673f162">
+<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
+<a href="https://www.zhihu.com/question/1950166313797412688/answer/1951230667879854359" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这不是错觉，现在的飞机确实更颠了。</p>
-<p>我们知道，飞机颠簸主要是因为飞进了不稳定的乱流造成的。如果你曾认真听过机上广播的话，常会听到这句：</p>
-<blockquote>女士们、先生们：请注意！受航路气流影响，我们的飞机正在颠簸，请您尽快就座，系好安全带。颠簸期间，为了您的安全，洗手间将暂停使用，同时，我们也将暂停客舱服务。谢谢。<br>Ladies and Gentlemen: Our aircraft is experiencing some turbulence. Please be seated as soon as possible, fasten your seat belt.</blockquote>
-<p>里面有一个词：<strong> turbulence</strong>（如果你是在国外乘他们的国内航班，有可能听到的是 air pocket.）</p>
-<p>对于飞机来说，这里的 turbulence 其实更多是指 Clear-air turbulence（晴空湍流），简称 CAT。顾名思义，它是万里晴空中肉眼看不见的那种乱流，是由不同速度的气团相遇而形成的，发现于上世纪 40 年代。对飞行来说，影响最大的晴空湍流主要分布在海拔约 7 千米到 1.2 万<span class="nolink">米</span>。</p>
-<p>晴空湍流看不见（偶尔有个卷云提个醒），传统雷达<sup>[1]</sup>也探不清楚，飞行员很难提前避开它。</p>
-<p>晴空湍流的平均长度大约为 60 公里，相当于约 5 分钟的飞行时间，而 1 公里的平均厚度又让飞机很难通过小幅的快速升降来机动规避<sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0f9e3465cd34a086679f8399176d8f04_720w.jpg?source=8673f162" alt=""></figure>
-<p>当飞机误入 CAT 时，轻则飞机颠簸、重则导致飞机急速上抛和下降造成乘客和空姐受伤，在极端情况下，还可能导致飞机结构损坏或缩短飞机的疲劳寿命。</p>
-<p><strong>那是不是现在的 CAT 更多了呢？</strong></p>
-<p>是的。</p>
-<p>简单地说，现在中纬度地区的飞机巡航高度的风切变更强了<sup>[3]</sup>，晴空湍流也随之变强了<sup>[4]</sup>。FAA 的数据也表明<sup>[5]</sup><sup>[6]</sup>，晴空湍流呈上升趋势。</p>
-<p>而风切变之所以增强，是因为二氧化碳的人为排放增加。比如下图(b)显示二氧化碳的浓度逐年上升<sup>[7]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-91d5d41ee4e26c5171db7dcdb9554d4d_720w.jpg?source=8673f162" alt=""><figcaption>瓦里关测站观测结果与卫星结果对比(a 为月平均变化；b 为逐月变化) / 光合作用与季节强相关</figcaption></figure>
-<p>不断增加的二氧化碳会让对流层变得更暖（极地还有放大效应），平流层就相对更冷，从极地到赤道的平均温度梯度变得更大<sup>[8]</sup>，这种温度梯度形成了更复杂的天气，在对流层上部和平流层下部区域的风变得更强了<sup>[9]</sup>，或者更学究气地说，上下气层流速差异导致在接触界面上产生垂直风切变（开尔文 - 亥姆霍兹波）。</p>
-<p>这种风切变产生晴空湍流的概率，有研究认为会比大气其他区域高三倍<sup>[10]</sup>。</p>
-<p>有研究表明，若大气中的二氧化碳是工业革命前的二倍，那么冬季跨大西洋航线上含有中强晴空乱流的空域体积将增加 40%-170%<sup>[11]</sup>。</p>
-<p>从下图也能看出，1979 年到 2020 年，受气候变化及北大西洋涛动的影响，北大西洋上空发生晴空乱流的概率，也呈上升趋势。比如 2020 年的强 CAT 就比 1979 年高出 37%，而其中强湍流增加 55%（图中未体现）<sup>[12]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be2058a585a2aa83205ad1e8290ccfd2_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>几次事故</strong></p>
-<p>比如去年（2024 年）5 月的新加坡航空 SQ321 航班，就因遇到晴空湍流，飞机在 0.6 秒内经历了垂直加速度从 +1.35G 下降到 -1.5G，导致一名乘客死亡（心脏病发作），104 名乘客受伤（包括椎骨和颅骨在内的骨折，以及大脑、脊髓和其他器官的内伤）</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d42fa1ed4ead44621e31f6f6da1aa45e_720w.jpg?source=8673f162" alt=""><figcaption>新加坡航空 321 航班的飞机：9V-SWM</figcaption></figure>
-<p>2023 年 7 月国航上海飞北京的 CA1524 航班在降落前遭遇湍流，导致一名乘客和一名机组人员受伤，视频如下：</p>
-<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1928845352833913591" target="_blank"> <img class="content-image" src="https://picx.zhimg.com/v2-9bb0dd2194d2e76059c2dd71dfda10f8.jpeg" alt=""> <span class="content"> <span class="title">国航上海飞北京的 CA1524 航班在降落前遭遇湍流<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1928845352833913591</span> </span> </a></p>
-<p>还有 2016 年，<span class="nolink">哥伦比亚航空</span>从利马到布宜诺斯艾利斯的 AV965 号航班<sup>[13]</sup>，晴空湍流也让 8 名正在发餐食的空姐弹至天花板而受伤。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c661254d2941ba15aeb8f1e482104d13_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>总结</strong></p>
-<p>从 1979-2020 年全球的 CAT 趋势数据来看，过去四十年来，受全球变暖影响，晴空湍流较大幅地增加<sup>[14]</sup>，其中增加最为明显的区域也是世界上航班最为繁忙的中纬度地区。</p>
-<p>对于普通乘客来说，记住，只要屁股在座位上，<strong>就要系安全带</strong>。一旦遇到严重的湍流，要保持冷静，注意看有没有人或行李从天上掉下来砸到自己。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0908640d47719bf68e67da2879d33225_720w.jpg?source=8673f162" alt=""></figure>
-<p>记住，系安全带，再不舒服也要系！</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-85df2961476937be99b412dc325995bd_720w.jpg?source=8673f162" alt=""><figcaption>孙越真的系好安全带了，空姐来提醒了好几次，都扒开给空姐看了。</figcaption></figure>
+<p>我这么跟你说吧：</p>
+<p><strong>今天牛牛就是喝西北风，它也有能力把空气中的<strong>氮气</strong>转换成蛋白质来长肉，牛逼不牛逼，人类拿啥跟它比~</strong></p>
+<p>如果去掉牛的基因锁（产生肌肉生长抑制素的基因），牛吃素不仅能长肌肉还能变成肌霸：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fa7805e9d012b603eafe596ccd2381ac_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>从上到下依次是营养不良的老黄牛→氮源充足的神户牛→基因突变的比利时蓝牛</strong></p>
+<p>很神奇是吧！</p>
+<p>其实这里有个误区，牛不是只吃素的，它们是把草料吃到消化系统然后发酵。</p>
+<p>然后把发酵的产物和发酵的细菌一起吃掉……</p>
+<p>相当于荤素都有的。</p>
+<p>人一口荤不吃确实不太行，除非素食营养搭配特别好，并额外补充维生素 B12，要不然真的可能会营养不良早早生病甚至死亡。</p>
+<p>但是问题来了，要命的是哪怕人天天吃肉也要配合很大的锻炼强度才能上大肌肉。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3615be1dabdb55eaf21f6d570cf67b0d_720w.jpg?source=8673f162" alt=""></figure>
+<p>比如超有钱的明星，如果不上九龙拉棺的话，即便是刻苦训练，找高价营养师搭配完美增肌餐，锻炼几年的肌肉量还是比不上动物园吃动物简单午餐的银背大猩猩。</p>
+<p>由此我们引出要壮（长肌肉）的话，必须要要有两个很重要的东西：</p>
+<p><strong>1 氮源</strong><strong>2 增肌的基因</strong><strong>1 氮源：为什么需要氮源？</strong></p>
+<p>以防万一，还是解释一下。</p>
+<p>米饭等<strong>碳水化合物</strong>通式：<strong>Cm(H₂O)n、脂肪通式：C₃H₅(OCOR)₃（R 是 C/H 组成的脂肪链），蛋白质则是</strong>由氨基酸<strong>H₂N—CHR—COOH 通过肽键</strong>（—CO—NH—）连接。</p>
+<p>可见，由于物质守恒的，没有额外补充的氮源是长不了肌肉的。</p>
+<p>人类虽然能将碳水转换成一些非必须的氨基酸（这种情况仍然需要体外补充的氮源），但是必须的九种氨基酸必须从食物里获取，不能通过碳水和脂肪转换而来。</p>
+<p>虽然植物蛋白也能补充氮源，但是利用率低，还是直接吃肉来得快。</p>
+<p>那牛又是怎么获得氮源呢？</p>
+<p>不知道有没有在农村自己沤肥的朋友。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a7530fc0644e14208b543c13fb281875_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是一堆没什么用的秸秆。</p>
+<p>但是我们可以把它烧掉，得到草木灰。</p>
+<p>草木灰主要含<strong>钾，</strong>及少量磷、钙、镁等元素。其钾元素以碳酸钾形态存在，易被植物吸收，是一种速效钾肥。</p>
+<p>不过最近不让烧秸秆了，但是我们仍然有办法把秸秆变成肥料。</p>
+<p>直接埋土里肯定不行啊，秸秆虽然富含纤维素、木质素等大分子有机物，但是直接埋土里植物是吸收不了的。</p>
+<p>所以我们可以通过沤肥的方式把这些不能用大分子变成我们需要的东西。</p>
+<p><strong><strong>传统堆肥法用</strong>秸秆 1000 kg（粉碎至 1–3 cm）加上饼粉（豆饼 / 棉籽饼）20 kg 或尿素 10 kg（提供氮源），再加上几百克发酵活菌，就可以把秸秆和氮源通过发酵菌分解转换为蛋白质、多糖类、脂肪、氮、磷、钾等植物能够利用的物质了。</strong></p>
+<p>这个配方有没有让你想起什么？</p>
+<p><strong>秸秆 + 豆粕或者尿素？</strong></p>
+<p>没错哇，就是牛饲料哇。</p>
+<p>什么，牛还可以吃尿素补充蛋白质吗？</p>
+<p>可以的兄弟。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e5a00bf42f0eab684b2f00109619befe_720w.jpg?source=8673f162" alt=""></figure>
+<p>尿素在牛饲料里面一直是廉价好用的氮源，不过跟豆粕一样，得适量，要不然容易中毒。</p>
+<p><strong>也就是说，你可以不把牛牛看成一种动物，它本身是一座移动的有机肥工厂啊。</strong></p>
+<p>牛本身为了节约氮源，进化出了尿素循环，对于其他动物来说没用的通过尿液排除的尿素，在牛的体内部分可以通过唾液或瘤胃壁返回瘤胃再次利用，减少氮浪费。</p>
+<p>秸秆、草料等非常廉价的素菜加上一些豆粕、尿素、动物边角料等氮源加在一起，在瘤胃工厂通过微生物疯狂发酵。然后通过瓣胃和网胃粗消化，最后才进入真胃：皱胃里进行消化。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ed7d8c4e158f607cbe730aebf2853e0a_720w.jpg?source=8673f162" alt=""></figure>
+<p>也就是说，发酵得到的蛋白质、多糖类、脂肪、氮、磷、钾等等好东西会随着微生物一起直接进入牛的真胃里面去消化，瘤胃可以看成食品加工厂，瓣胃和网胃可以看成分拣车间。</p>
+<p><strong>牛是会把食品加工工人：微生物和它们加工出来的好东西一起吃掉的。</strong></p>
+<p>但是无所谓，反正微生物繁殖很快，吃是吃不完的，至此形成一种循环。</p>
+<p>厉害的就在这些微生物能利用各种氮源合成自身的蛋白质。利用这些人类不能利用的氮源以及碳水化合物提供的能量来构建微生物蛋白质 。</p>
+<p>说到这里还以说句题外话，尿素既然是一种肥料，大家可能就会联想到植物了，生物课本上讲到有种植物可以不需要额外施加氮肥，因为它们有——？</p>
+<p>没错就是豆科植物，它们有根瘤固氮菌，能够把空气中的氮气变成氨，给自己补充氮源。</p>
+<p><strong>神奇的是，牛的胃里也有固氮菌，它们也可以把空气中的氮气转换为氨然后合成蛋白质。</strong></p>
+<p>是不是厉害了？</p>
+<p>瘤胃内的<strong>Clostridium、Klebsiella、Proteus、Pseudomonas 等</strong>固氮菌可以进行固氮，其固氮能力虽不如植物根瘤菌，但可以作为牛体氮源的补充来源。*3</p>
+<p>所以在这一步，就可以看出人类和牛的巨大差距了。</p>
+<p>人的胃只有一个，里面主要是胃蛋白酶、盐酸等主要负责消化蛋白质并软化纤维素。</p>
+<p>肠道是有微生物负责发酵的，但是长度有限，发酵消化能力也有限，人只能食用低纤维蔬菜（如叶菜、瓜果），无法消化高纤维草料或秸秆，吃秸秆或者草料维生是做不到的。</p>
+<p>因为人类肠道菌群含有的纤维素酶比较少，跟牛的瘤胃里面那种对纤维素的利用率能达到 70%的工业级消化完全不一样。</p>
+<p>这是第一层消化系统的限制。</p>
+<p>第二层就是基因限制了。</p>
+<p><strong>2 增肌的基因</strong></p>
+<p>人和大猩猩的基因相似度能高达 98%，大猩猩的首领叫做银背大猩猩，它们可是最强壮的灵长类动物。</p>
+<p>就是这么小小的基因差异导致了我们的肌肉量如此不同。</p>
+<p>最大的差距就在 II 型快肌纤维，这类纤维收缩力强、体积大，非常适合爆发力动作。</p>
+<p>大猩猩的肌肉快纤维比我们多很多。</p>
+<p>人类则在<strong>耐力型的 I 型慢肌纤维</strong>和 II 型纤维之间更为平均，人类的马拉松能力在哺乳动物里面是翘楚。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5c5cf9867e340f366e08327cb1d841b9_720w.jpg?source=8673f162" alt=""></figure>
+<p>可以看出人类的 II 型快肌纤维含量连猕猴都不如，也就是同体型下，人类连猕猴都打不过。</p>
+<p>更不要说体型更大的大猩猩和黑猩猩了。</p>
+<p>另外，大猩猩的“肌肉抑制因子”如 myostatin（肌肉生成抑制素）活性也比人类更低。</p>
+<p>也就是说，同等食物摄入情况下，它们长肌肉的量也比我们的多。</p>
+<p>所以回到开头的地方，比利时蓝牛就是天生 Myostatin 基因突变的牛品种。</p>
+<p>Myostatin(肌肉生成抑制素，GDF-8）是 TGF-β家族的一员，<strong>它是肌肉生长的天然“刹车”</strong>。其功能是限制肌肉细胞分裂和生长。</p>
+<p>虽然缺乏肌肉抑制的基因锁，但是无节制的大肌霸并不是好事情。</p>
+<p>比利时蓝牛伴随<strong>分娩困难、心脏问题和免疫低下</strong>等副作用，寿命比一般的牛短。</p>
+<p>而大猩猩也是如此，不管是在野外还是在饲养环境合理的研究环境。通常寿命只有 30-40 年。</p>
+<p>总的来说，生长肌肉的限制其实对延长寿命有一定的好处，疯狂长肌肉对身体不见得都是益处。</p>
+<p>而且牛能利用微生物发酵获得能量也是有代价的，那就是它们每天得不停的吃吃吃，非睡眠时间不是吃就是在反刍。</p>
+<p>牛每天大约 <strong>60% 的时间（12～18 小时）</strong> 是直接或间接在处理“吃”的事（采食 + 反刍），当然在牧草丰富的地方，可能一天吃 6 小时就够了（然后开始休息反刍），而在高原地区的冬天，野牛可能要花上十多个小时去觅食。</p>
+<p>应该没人羡慕牛的消化能力吧？</p>
+<p>反观纯肉食的猫，一天要睡 16 个小时左右……如果不需要捕猎的话，只需要半小时的吃饭时间就够了。</p>
+<p>以上~</p>
+<p>参考文献：</p>
+<p>1Meta-analysis data of skeletal muscle slowfber content across mammalian species</p>
+<p>2Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle</p>
+<p>3Biochemical and physiological studies with free-living, nitrogen-fixing bacteria</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1926630816601047424">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1950166313797412688">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788615</guid><pubDate>Fri, 27 Mar 2026 18:49:27 GMT</pubDate></item><item><title>捏住老虎的后颈肉，它会像猫咪一样乖巧顺从吗？</title><link>http://daily.zhihu.com/story/9788662</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-9047823e8ec72c81f041d3aa88b5d1fc.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788616</guid><pubDate>Sat, 28 Mar 2026 01:47:08 GMT</pubDate></item><item><title>人类进化为什么不卵生？</title><link>http://daily.zhihu.com/story/9788674</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8ee3073031ae90e1220cda9f055faeb4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -87,106 +137,123 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/15554795453/answer/2018035958893793649" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/279604772/answer/1994436327056355822" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>2008 年，俄亥俄州立大学兽医学院的学生梅根·波扎（Megan Pozza）从文具店买了一盒两英寸的长尾夹，带到了学校的兽医教学医院<sup>[1]</sup>。</p>
-<p>她把这些办公用品夹在了猫的后脖子上。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a3f9ec06751c18f0466181237cd10a8f_720w.jpg?source=8673f162" alt=""></figure>
-<p>波扎和她的导师注意到一个兽医们私下都知道、但从没被正式研究过的现象：</p>
-<p>你捏住猫的后颈皮，它就不动了。很多兽医剪指甲、抽血的时候都靠这一手。</p>
-<p>但这个技巧到底有多可靠，背后是什么机制，一直没有人认真测过。</p>
-<p>于是波扎决定用最朴素的方式来做这个实验：文具店长尾夹，血压计测夹力，再请一位神经科专家在旁边做神经学评估。</p>
-<p>她们测试了 31 只猫（13 只健康猫，18 只患有特发性膀胱炎的猫），用长尾夹夹在颈背正中线 C1 到 C7 之间，夹力大约 140 到 160 毫米汞柱，接近猫的收缩压。</p>
-<p>健康猫中有 92%表现出了明显的行为抑制反应，膀胱炎组则是 100%。被夹住的猫瞳孔缩小（这是副交感神经激活的标志，而不是恐惧时的瞳孔放大），心率稳定，体温没有应激性升高，不少猫甚至开始打呼噜和踩奶。</p>
-<p>可以看到，特别是对于生病的猫，这两种保定方法的反应之间存在高度的正相关。</p>
-<p>有一只猫直接侧倒在桌上，研究者在论文里的描述是"接近木僵状态"。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b9e56cca28a7d0d3cba2bf44f57f5461_720w.jpg?source=8673f162" alt=""></figure>
-<p>波扎把这种反应命名为"<strong>夹诱导行为抑制"（pinch-induced behavioral inhibition，缩写 PIBI，后面都会用缩写</strong>），也叫做"clipnosis"，clip 加 hypnosis，翻译过来大概是"夹催眠"。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-87f7b233a3b69c3ce5678c66da01c7cc_720w.jpg?source=8673f162" alt=""></figure>
-<p>下表是一张散点回归图，揭示了健康猫和患有特发性膀胱炎的猫，对“抓捏后颈皮”的反应与对“夹子诱导的行为抑制”反应之间的相关性 。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b477fde2b7fa9f49f94ff3e50938a36d_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个名字虽然好记，但它其实不是催眠。</p>
-<p>和催眠不同的是，被夹住的猫仍然保留了威胁反应、面部感觉和四肢支撑能力，神经学检查显示受影响的主要是前脑的意识水平，类似一种"降低了警觉但没有失去控制"的状态。</p>
-<p>这也不是"装死"。</p>
-<p>装死（tonic immobility，TI）是一种恐惧驱动的末端防御反应，动物全身僵硬、完全无反应。其自主神经状态较为复杂：通常表现为极度交感激活之后，副交感神经介入所产生的复合状态，而非单纯的交感神经全面激活。</p>
-<p>早在 1974 年，盖洛普（Gallup）在综述中就将其定义为一种与恐惧直接挂钩的状态<sup>[2]</sup>。而波扎观察到的 PIBI 恰好相反：<strong>副交感神经占优势，猫是放松的，不是僵硬的、应激的。</strong></p>
-<p>那这个反应的神经基础是什么？</p>
-<p>最直接的线索来自对小鼠的研究。</p>
-<p>弗莱施曼（Fleischmann）和他的团队在 1988 年发现<sup>[3]</sup>，夹住小鼠颈背诱导的不动反应可以被安非他明（一种多巴胺激动剂）逆转，也可以被多巴胺拮抗剂氟哌啶醇模拟。同时，伴随的镇痛效应不能被纳洛酮阻断，说明不走阿片类通路，而是涉及胆碱能系统。</p>
-<p>下图展示了不同药物对夹子诱导的小鼠镇痛和制动行为的影响：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-664356c1b3c61e780fcd572a52465e58_720w.jpg?source=8673f162" alt=""></figure>
-<p>简单说，<strong>这个反应的核心是多巴胺系统被抑制了（更准确的说法是，多巴胺与胆碱能系统协同参与了不动反应）</strong>，运动启动被关掉了，但痛觉通路并没有被阻断，而是通过另一条路径实现了镇痛。</p>
-<p>问题来了，这种反应对所有年龄的猫都管用吗？</p>
-<p><strong>答案是不。而且衰退的速度比你想象的快。</strong></p>
-<p>2022 年，新西兰梅西大学的科学家在《Journal of Veterinary Behavior》上发表了迄今为止最大规模的 PIBI 年龄效应研究（下图）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-eddaa2b92fd3f68e2ea4cfba2749945e_720w.jpg?source=8673f162" alt=""></figure>
-<p>他们测试了 142 只家猫，按生命阶段分为五组：</p>
-<p>幼猫（0 到 6 个月）、青年猫（6 个月到 2 岁）、成年猫（2 到 6 岁）、壮年猫（6 到 10 岁）和老年猫（10 到 14 岁）。</p>
-<p>结果是一条很明显的下降曲线：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2d1132dc8375758d027efba2b3478f66_720w.jpg?source=8673f162" alt=""></figure>
-<p>幼猫组 100%有效，青年猫降到约 74%，成年猫降到约 70%，壮年和老年猫只剩大约 53%。下降最剧烈的阶段是从幼猫到青年猫，而且公猫比母猫下降得更快。</p>
-<p>连四公斤重的猫长大后，都有将近一半不吃这一套了。</p>
-<p>看到这，你会发现"夹老虎后颈"这件事，看起来不是什么好主意……</p>
-<p>为什么这么说？</p>
-<p>要理解缘由，需要先搞清楚这个反应的来源。</p>
-<p>准确来说，它不是猫的特殊功能，而是一种在哺乳动物中广泛存在的婴儿合作行为，叫做"运输反应"（transport response）<sup>[4]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-cf5539daa11342517bd4e64da0298263_720w.jpg?source=8673f162" alt=""></figure>
-<p>2013 年，日本理化学研究所（RIKEN）脑科学研究中心的黑田团队发表了一项跨物种研究<sup>[5]</sup>。</p>
-<p>他们对人类婴儿和小鼠幼崽同时做了实验。当母亲抱着婴儿走动时，婴儿会立刻停止哭闹和主动运动，心率迅速下降。</p>
-<p>小鼠幼崽被捏住颈背提起来时，反应完全一样：停止超声啼叫，停止挣扎，心率降低，四肢蜷缩成紧凑姿势。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-75fb89cac7e1936673b49b1cad1c714c_720w.jpg?source=8673f162" alt=""></figure>
-<p>关键的发现来自接下来的干预实验。</p>
-<p>当研究者用局部麻醉剂阻断幼崽的触觉，或者用过量维生素 B6 破坏它们的本体感觉时，运输反应消失了——而手术损毁前庭器官（破坏平衡感）却并不影响该反应，说明平衡感并非必要条件。</p>
-<p>这说明这个反应依赖于皮肤触觉和身体位置感觉的联合输入，由副交感神经调节心脏、小脑控制运动姿势共同完成。<strong>它不是一个简单的反射弧，而是一个多系统协调的婴儿合作程序。</strong></p>
-<p>同年，吉田等人的后续研究进一步证明<sup>[6]</sup>，这种运输反应是"幼崽特异性"的（filial-specific），<strong>只在特定的出生后发育窗口内存在</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-96492c26ffdf212549925758a92bb6ce_720w.jpg?source=8673f162" alt=""></figure>
-<p>在<strong>C57BL/6 小鼠</strong>中，这个反应在出生后<strong>第三周末（约第 21 天，上表）</strong>，随小鼠开始自主行走而完全消失。</p>
-<p>回到猫科动物。</p>
-<p>所有记录在案的猫科物种，从家猫到老虎、狮子、豹子、猎豹，母亲都是用嘴叼住幼崽的颈背皮肤来搬运的。</p>
-<p>幼崽的反应也完全一致：<strong>停止挣扎，后腿蜷起，身体变得被动</strong>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-de15b2306a93aab6eaa459e76e18bb2a_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>但这个行为有一个物理上限。</strong></p>
-<p>虎崽出生时体重约 0.8 到 1.6 公斤，大约是母虎体重的 1%。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c1d8a43fc59e1d383f7cd35aaf243f6d_720w.jpg?source=8673f162" alt=""></figure>
-<p>根据印度兰坦博尔国家公园的野外纪录影像，母虎叼着幼崽搬运的时间窗口大约是出生后 6 到 8 周，之后幼崽能自己走了，母亲也叼不动了。到六个月大时，雄性虎崽体重已经接近 40 到 47 公斤<sup>[7]</sup>。</p>
-<p>成年雄虎体重在 180 到 310 公斤之间。即便运输反应的神经回路在成年老虎体内仍然完好无损，你也需要面对一个纯粹的工程学问题：</p>
-<p><strong>谁来提供那个"被叼起来"的力？</strong></p>
-<p>一只成年雄虎的颈背皮肤厚度和韧性远超家猫，但即使你真的能夹住它，<strong>你也无法模拟"被母亲提起"的整套感觉输入，因为没有任何力量能把一头 300 公斤的老虎叼起来。</strong></p>
-<p>值得一提的是，大型猫科动物在交配时，雄性确实会咬住雌性的颈背。老虎交配时的颈咬大约持续 20 秒，狮子、豹子和美洲豹也有类似行为。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a22576bc2b52b0de3ac478cf58efeb95_720w.jpg?source=8673f162" alt=""></figure>
-<p>但这并不会让雌性进入运输反应那样的瘫软状态。</p>
-<p>雌性在交配过程中维持着主动的交配姿势，而且在雄性结束后经常立刻转身攻击对方。颈咬在交配中的功能更可能是固定体位和刺激排卵（猫科动物是诱导性排卵），和婴儿运输反应走的不是同一条路。</p>
-<p>所以理论上讲，<strong>成年老虎对颈背捏压的反应最可能是：什么都不发生，或者更糟。</strong></p>
-<p><strong>而且，就连对家猫使用 PIBI 这件事，现在也变得有争议了。</strong></p>
-<p>2020 年，加拿大圭尔夫大学的穆迪（Moody）等人测试了四种保定方式（被动保定、手动抓颈背、夹子、全身保定）对猫行为和生理指标的影响<sup>[8]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca9000fda9012e6b4702c89edd00c8de_720w.jpg?source=8673f162" alt=""></figure>
-<p>结果发现，夹子保定和全身保定引起的负面反应（瞳孔放大、负面发声、耳朵后压）最多，<strong>手动抓颈背居中</strong>，被动保定的负面反应最少。</p>
-<p><strong>这直接挑战了 Pozza 2008 年"PIBI 对猫无压力"的结论。</strong></p>
-<p>2022 年 AAFP（美国猫科从业者协会）和 ISFM（国际猫科医学会）联合发布的《Cat Friendly Veterinary Interaction Guidelines》中明确指出，猫在抓颈背操作中会表现出恐惧 - 焦虑迹象，<strong>应为保护猫的福利而避免使用</strong><sup>[9]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b2b40042f5db61a5786862ec5e820a95_720w.jpg?source=8673f162" alt=""></figure>
-<blockquote><em>cats show signs of fear-anxiety during such interactions, which should be avoided to safeguard feline welfare</em></blockquote>
-<p>国际猫科关爱组织（International Cat Care）也发起了"无抓颈背运动"，其立场声明更为直接："国际猫科关爱组织反对将抓颈背作为保定手段，因为它会给猫带来压力和痛苦，这是<strong>不可接受的</strong>。"</p>
-<p>所以，捏后颈这件事的全貌大致是这样的：</p>
-<p>猫咪后颈的"一键暂停"功能，<strong>本质上是一段哺乳动物婴儿期的合作程序</strong>。它的设计用途是让无助的幼崽在被母亲叼着转移时不乱动，减轻母亲的负担。</p>
-<p>这段程序随着个体长大而衰退，<strong>在家猫中到了壮年就只对一半个体有效</strong>，<strong>在长大了的大型猫科动物中，几乎可以确定已经被覆盖或删除。</strong></p>
-<p>而且就算它还在，一头 200 多公斤的老虎也不会因为你捏了它的后颈就变成一只大号布偶猫。它更可能的反应是回头看看你在干什么，然后做出它认为合理的回应……</p>
-<p>你懂的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c713ef52a05d23bec559e4d091040f18_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>种了什么因，就收获什么果。</strong><strong>卵生的人类祖先都灭绝了。</strong></p>
+<p>灭绝的原因，和尿酸、尿素的代谢有关。</p>
+<p>含氮物质的代谢，可以追溯到生命诞生之初。</p>
+<p>在过去长达 30 亿年的时间，含氮物质的最终代谢产物变化不大。</p>
+<p>生物内有多种含氮物质，主要来源于氨基酸和核酸（如 DNA）。</p>
+<p>其中氨基酸的代谢是最为简单的，对于早期主要生活在水环境中的生物来说，只需要脱掉氨基，排出产生的氨气就可以了。</p>
+<ul>
+<li><em>氨基酸→氨气。</em></li>
+</ul>
+<p>其他含氮物质，大多也可以经过多个步骤转化成氨气排出。</p>
+<p>其中来自核酸的嘌呤最为特殊。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d0a0ecfb510d0f1355f0fa69b18cf15a_720w.jpg?source=8673f162" alt=""></figure>
+<p>它是特殊的双环、杂环结构，含有 4 个氮原子。</p>
+<p>它的化学性质比较稳定，通常处于强氧化剂、强酸、强碱条件下，结构才会发生改变。</p>
+<p>因此在生物体内，嘌呤都必须先代谢为尿酸（uric acid）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a902de3baa9d1a6fa88840b2bc2012c_720w.jpg?source=8673f162" alt=""><figcaption>嘌呤（Purine）到尿酸（uric acid）的生化过程</figcaption></figure>
+<p>对于早期生物来说，高尿酸带来的尿酸结晶不仅会导致胞体损伤，还可能干扰核苷酸代谢平衡。</p>
+<p>再加上其它各种各样的演化压力，最终早期生物多次独立起源发展出了<strong>尿酸酶</strong>（uricase），从而有了进一步代谢尿酸的能力。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d028dde0e3e00944672c9f5520b87f38_720w.jpg?source=8673f162" alt=""><figcaption>尿酸酶催化下，尿酸代谢为尿囊素</figcaption></figure>
+<p>尿酸被代谢为尿囊素（allantoin）后，易溶于水，不仅容易直接排出体外，也可以进一步代谢成尿素或氨气排出体外<sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f801cb0818d5215e564abba3ca6abd13_720w.jpg?source=8673f162" alt=""><figcaption>尿囊素代谢为尿素 / 氨的过程</figcaption></figure>
+<ul>
+<li><em>核酸（嘌呤）→尿酸 →尿素 / 氨气</em></li>
+</ul>
+<p>4 亿年前，当我们的祖先还是早期鱼类时，便是这样的代谢方式：</p>
+<p>几乎身体内的所有含氮物质，都可以转化成氨气，主要通过鳃排出体外。</p>
+<ul>
+<li>氨基酸 /<em>核酸（嘌呤）→氨气</em></li>
+</ul>
+<p>除此之外，早期的多细胞动物进化出了肾管 / 肾脏为中心的泌尿系统，来调节体内离子平衡。</p>
+<p><strong>然而，随着 3.6 亿年，肉鳍鱼登陆，一切都发生了变化。</strong></p>
+<p>随着肺的演化出现，含氮物质的代谢方式发生了变化。</p>
+<p>早期硬骨鱼发展出一个特殊的气囊，里面拥有毛细血管，可以交换氧气。因此同时具有辅助呼吸和调节浮力，提供升降作用的能力。</p>
+<p>肉鳍鱼这一支登上陆地后，把早期的气囊演化成了后来的肺<sup>[2]</sup>。而留在水里的硬骨鱼发展出辐鳍鱼以后，最终把气囊演化成了特化的鱼鳔，专一提供浮力的调节。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f2d7234dbbe4b397bf0137643c0c8d65_720w.jpg?source=8673f162" alt=""></figure>
+<p>随着肉鳍鱼发展成四足动物，鳃彻底消失，动物无法再通过鳃代谢氨气。</p>
+<p>氨气的高毒性，迫使动物不得不通过其它方式代谢含氮废物。</p>
+<p>早期动物进化出来的肝脏、肾脏，在此时发挥了关键作用。</p>
+<p>经过不断地淘汰迭代，动物演化出了<strong>尿素循环</strong>（urea cycle），把氨气代谢为尿素。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5383bafb6d77db92ae5d37b73dbae0d1_720w.jpg?source=8673f162" alt=""><figcaption>从氨气（左上）到尿素（左下），会经历一个复杂的代谢循环过程</figcaption></figure>
+<ul>
+<li><em>氨基酸→氨气→尿素</em></li>
+</ul>
+<p>尿素溶于水，可以通过泌尿系统排出体外。</p>
+<p>而嘌呤代谢的过程中，产生氨气之前，本身就会产生尿囊素、尿素等溶于水的物质，因此无需再经过尿素循环。</p>
+<p><em>核酸（嘌呤）→尿酸 →尿素</em></p>
+<p>所以，四足动物虽然逐渐脱离了水环境，但含氮废物的代谢和排泄方式（<em>尿素为主</em>）决定了，它们需要依赖大量的饮水。</p>
+<p>所以，两栖类难以长时间离开水源，不仅和皮肤有关，还和代谢的大量水需求有关。</p>
+<p>但随着繁殖过程彻底脱离水环境，羊膜动物出现，一切又发生了变化。</p>
+<p>有了前面的生化演化基础，3.2 亿年前，它们的后裔出现了两个方向的演化：</p>
+<ul>
+<li><em>合弓纲：先发展出类哺乳动物，后发展出现代哺乳动物。</em></li>
+<li><em>蜥形纲：现今的爬行类、鸟类，以及古生物学史上的恐龙，都源于此类。</em></li>
+</ul>
+<p>合弓纲适应较为湿润环境，氨基酸和嘌呤最终都代谢为尿素，通过摄入足够多的水来排出体外。</p>
+<p>绝大多数蜥形纲则省去了尿素代谢环节，不仅直接排除嘌呤产生的尿酸，甚至还把氨基酸代谢的尿素也转化成了尿酸，并最终以晶体形式排出体外，节约水适应干旱环境。</p>
+<p><strong>这样的代谢差异，以及地球气候的交替变化，直接决定了【龙兽争霸】的王朝兴衰。</strong></p>
+<p>2.98 亿年前，随着石炭纪因雨林崩溃事件而结束，二叠纪开启。</p>
+<p>高度依赖水环境的两栖动物遭到重创，但此时气候依旧较为湿润，给合弓纲的大繁荣创造了条件<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d259e51e7e433d9bea355987c563d8ca_720w.jpg?source=8673f162" alt=""><figcaption>各种体型的早期合弓纲动物</figcaption></figure>
+<p>2.51 亿年前，发生了五次大灭绝事件中最严重的二叠纪末期大灭绝事件，合弓纲和早期植被（蕨类）都遭到重创。</p>
+<p>随着三叠纪开启，因为植被的缺少，整个地球都表现出干燥、炎热、低氧的状态，甚至赤道附近一度缺少生命踪迹，被称为“死亡带”<sup>[4]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8a88bdece6d6180003f1690616f7c083_720w.jpg?source=8673f162" alt=""></figure>
+<p>干燥、炎热的环境让我们的兽类祖先在排泄上的更高需求量，成为了致命的缺点，从而导致了物种的大衰退。</p>
+<p>大多数蜥形纲，则因为排泄尿酸晶体需水量很少，从而在干燥的三叠纪，得到了繁荣发展。</p>
+<p>虽然到侏罗纪以后，气候再次湿润了起来，恐龙王朝已经取得了主宰地位。</p>
+<p>时间来到 6600 万年前，一颗小行星结束了白垩纪，也结束了经历近 2 亿年前的恐龙王朝。</p>
+<p>恐龙灭绝后，兽族才再次崛起。</p>
+<p>完全胎生的真兽起源于 1.6 亿年前，以中华侏罗兽为代表。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d89b4b8a8254aa6fcda3ed1f019ded0b_720w.jpg?source=8673f162" alt=""></figure>
+<p>哺乳动物祖先从卵生演化为胎生，其实也和尿素代谢方式有关。</p>
+<p>合弓纲动物的卵在孵化的过程中，尿素浓度也会随着胚胎生长发育的过程，不断代谢积累。</p>
+<p>达到一定的浓度，这些幼崽就只剩下了两个选择：</p>
+<p>要么留在蛋中的被尿素毒死 / 或水分过度流失死亡，要么破壳而出，作为“早产儿”迎接恶劣的环境。</p>
+<p>另一方面，尿素的易溶性，又方便通过胎盘进入母体循环而代谢。</p>
+<p>因此在一正一反的长期演化压力下，哺乳动物祖先最终发展出了胎生的方式，来提升后代的存活率。</p>
+<p><strong>所以，从某种意义上来说，不是人类不进化为卵生，而是卵生的人类远祖都灭绝了。</strong></p>
+<p>恐龙为首的蜥形纲所代谢的尿酸，由于微溶于水，能以白色胶状固体沉积快速排出，不仅直接的生化毒害低，且消耗水分极少，从而可以长期保持卵中的胚胎健康。</p>
+<p>而在胎生演化方面，它们则几乎面临着死胡同。尿酸沉积，无法通过胎盘进入母体。而且尿酸一般需要通过泄殖腔及时排除，才会维持低危害。</p>
+<p>胎生需要专门的产道演化，尿肠道分离，而这些都不利于尿酸排泄。</p>
+<p>可以说，无论是哺乳动物的胎生还是恐龙的卵生，都是种了什么因就收获什么果。</p>
+<p>从 3.6 亿年前的早期四足动物开始，一直到哺乳动物崛起，这一支的嘌呤代谢都以尿素为主，可以说相当的保守。</p>
+<p>而我们人类这一支，更是走向了一个极端，几乎彻底失去了尿酸代谢能力。</p>
+<p><strong>2000 万年前左右开始的基因突变，改变了早期类人猿的嘌呤代谢方式。</strong></p>
+<p>我们祖先的尿酸酶（uricase）基因发生了多个点突变（已鉴定 3 种）和插入 / 缺失事件，使其成为伪基因，失去了编码蛋白质的功能<sup>[5]</sup><sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-896ed775adfb5c11b9ac8584e6dfb0c4_720w.jpg?source=8673f162" alt=""><figcaption>人类祖先与食肉目（共属北方真兽高目）分野后，尿酸酶逐渐减弱，直到最终消失（灰色部分，类人猿几次关键突变）</figcaption></figure>
+<p>由于这一时期的类人猿生活在果实丰富、低盐的环境中，高尿酸血症可能带来糖脂转化、抗氧化的存活优势<sup>[7]</sup>。</p>
+<p>或者由于奠基者效应等遗传效应，都使得后来的类人猿没有尿酸酶。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-41591c151893f590f13d51d569a852ee_720w.jpg?source=8673f162" alt=""><figcaption>遗传漂变与奠基者效应</figcaption></figure>
+<p>虽然类人猿的血尿酸（3~4 mg/dL）比其它哺乳动物更高（1~2mg/dL），但由于早期类人猿嘌呤摄入少，血液中尿酸含量并没有超出健康范围，所以野生非人猿类几乎不见痛风病例。</p>
+<p>然而随着人类这一支逐渐崛起后，饮食发生了截然不同的变化。</p>
+<p>狩猎能力提升，高蛋白、高嘌呤的摄入，是人类演化的关键，但也带来了痛风（尿酸结晶沉积）的后果。</p>
+<p>至少从智人开始，就可能已经有了痛风。</p>
+<p>健康成人血尿酸浓度男性范围为 3.5~7.2mg/dL，女性为 2.6~6.0mg/dL<sup>[8]</sup>。是其它类人猿的 2 倍左右，更是比其它哺乳动物高 3 倍左右。</p>
+<p>痛风病人的血尿酸浓度可以达到大多其它哺乳动物的 3~10 倍<sup>[9]</sup>。而对于我们熟悉的猫狗来说，这个倍数则可以达到数十倍以上。</p>
+<p>猫狗和我们有着 9000 万年的亲缘差距，它们的尿酸酶不仅具有功能，而且活性没有怎么衰退，它们身体内的血尿酸浓度可以低至 0.1mg/dL 左右<sup>[10]</sup><sup>[11]</sup>。</p>
+<p>是的，除了一些异常的动物，几乎只有人类才会痛风。</p>
+<p>不过这里所指的异常动物，主要是蜥形纲动物（包括鸟类）肾相关功能受损时，可能出现内脏 / 体腔的尿酸结晶沉积。</p>
+<p>严格来说，这并不能算是痛风。但至少和痛风一起，都属于尿酸沉积病。</p>
+<p>虽然人类祖先选择了胎生，但人类最终还是要和一些蜥形纲一样，承受尿酸沉积之苦，也是时也命也了。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/15554795453">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/279604772">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788662</guid><pubDate>Fri, 27 Mar 2026 18:49:28 GMT</pubDate></item><item><title>是奴隶主养活了奴隶，还是奴隶养活了奴隶主？</title><link>http://daily.zhihu.com/story/9788669</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-98d05a54a51059f0160213d3f566137a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788674</guid><pubDate>Sat, 28 Mar 2026 01:47:09 GMT</pubDate></item><item><title>为什么在各种字母文字里，只有西班牙文能做到「读写相符」？</title><link>http://daily.zhihu.com/story/9788682</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4bf6bf81cbd8407eba066e60039bc22e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -206,54 +273,66 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-5deb9d792de362790307456c3c64e325_l.jpg?source=8673f162">
-<span class="author">风雪之屋，</span><span class="bio">天下大势，浩浩汤汤</span>
-<a href="https://www.zhihu.com/question/1472562889/answer/2017925399900869977" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a22354e847bd5bd0474c9158d8a26911_l.jpg?source=8673f162">
+<span class="author">莱茵行宫伯爵，</span><span class="bio">B站：河畔的伯爵</span>
+<a href="https://www.zhihu.com/question/1930638385401300209/answer/1934696665471759450" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>严格来说，内战前，南方大量奴隶主都持有此类观点。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-3f5cab63b576ba36ccb382c9e0c754b7_720w.jpg?source=8673f162" alt=""><figcaption>黑奴最仁慈的父亲(大嘘)</figcaption></figure>
-<p>在当时，奴隶主普遍形成了一种自我感动式父权制的道德逻辑：<strong>“我们身为奴隶主，对黑人的恩情是他们永远还不完的。”</strong></p>
-<p>这种观念在当时的南方精英中十分流行。比如，政治领袖约翰·卡尔霍恩就曾宣称，奴隶主对奴隶的照顾是一种“家长责任”，因为许多黑人“智力低下，无法像自由人一样自立”，因此需要白人主人的引导与庇护。南卡罗来纳的参议员詹姆斯·亨利·哈蒙德更是提出了所谓“社会泥底”论，公然声称：“任何社会都必须有一个承担劳役的底层——如果不让黑人做奴隶，难道要奴役白人吗？”。</p>
-<p>他们将奴隶主对奴隶的责任比作对“婴儿和儿童”的照顾。许多种植园主在遗嘱或信件中称奴隶为“我们的人”（our people）或“我们的黑人家庭”（our black family）。</p>
-<p>这种称呼旨在构建一种“恩情永远还不完”的债务关系。奴隶主通过扮演“慈父”角色，将赤裸的财产剥削包装成家庭责任。然而，这种“父爱”是单向且绝对的——正如历史学家尤金·吉诺维斯指出的，“父亲”有权鞭打、出售甚至处决“孩子”，且这种权力不受任何道德约束。当奴隶被送上拍卖台时，这种“家庭”纽带瞬间断裂，还原为赤裸的现金交易。</p>
-<p>与此同时，南方教会的神学家与牧师也为此构建了一套完整的“神学辩护”。他们反复引用《圣经》中的经文——从诺亚诅咒迦南为奴，到摩西律法允许购买外邦人为永久产业，再到新约中保罗对主仆关系的训诫——以此“证明”奴隶制不仅是历史上一直存在的制度，更是<strong>上帝亲自设立并认可的社会秩序</strong>。他们的逻辑简单而强硬：<strong>“上帝早在《圣经》里就规定了可以奴役外邦人，奴役黑人是天经地义，你怎么敢反驳神意？”</strong></p>
-<p>在这套话语的笼罩下，许多奴隶主真诚地相信自己是“仁慈的家长”与“文明的使者”。</p>
-<p>他们出版了大量被称为“反汤姆叔叔小屋”的小说，竭力描绘一种温馨美好的种植园生活。在这些故事里，逃到北方的奴隶往往后悔不已，发现自己在北方“吃得少、过得苦”，远不如留在南方“有房住、有肉吃、有婚结”。</p>
-<p>奴隶主认为非洲人原本是“异教徒”或“野蛮人”。通过奴役，他们被迫接触基督教，灵魂得到拯救。奴隶制是上帝赐予的教化工具，主人有责任管理这些永远长不大的孩子，引导他们脱离原始的兽性。</p>
-<p>奴隶主首先构建了一个历史宿命论：在非洲本土，部落战争是常态，战败者只有两个结局——被杀或被卖。他声称，如果没有奴隶贸易，这些战俘早已死于屠刀之下。约翰·C·卡尔霍恩在《南方的奴隶制度是一种进步的善》演讲中所说，<strong>认为南方黑奴过得比他们在非洲当自由民时过得好，也比北方工业体制下的底层工人过得好。</strong></p>
-<p>当时南方史学家菲利普（Ultrich B. Philips）著的《美国黑人奴隶制》（1918）和《旧南方的生活和劳工》（Life and Labor in the Old South (1929)）中认为，奴隶制是一种父家长温情主义的、非盈利的、保持白人至上的制度。 奴隶主是和善的，他们追求的不是利润。而是一种生活方式。 他认为，黑人的种族特征是“天生顺从”、“漫不经心”、“憨直”、“逢迎讨好”、“善于模仿”、“偷奸耍滑”和“自得其乐”。</p>
-<p>他们很少造反, 即使偶有反抗，也不过是孩子气的种族懒散和装病推脱，或是管束不严时表现出的犯罪倾向。</p>
-<p>他声称，奴隶制种植园是把黑人从非洲野蛮制度下解放出来，使他们日后得以享受文明生活的预备学校。</p>
-<p>当时有位牧师提出，奴隶制是唯一的“仁慈”机制。因为奴隶主为了获取劳动力，才愿意花钱买下战俘，从而“拯救了他们的生命”。他宣称，奴隶制拯救的人口数量，甚至超过了当时全球的总人口。</p>
-<p>在亚伯拉罕时代，奴隶主可能只是“不信神的异教徒”。但在美国，情况发生了质变：奴隶贸易将黑人从“异教之地”非洲，强行带到了“基督教文明”的美国。在美国，他们被迫接触福音，许多黑人因此皈依基督，死后得以进入天堂。</p>
-<p>奴隶主们不断强调：<strong>“如果不是我们把他们从贫穷野蛮的非洲带到富裕的美国，他们怎能听到福音、过上文明生活？他们在这里吃得比在非洲好得多，穿得暖、有保障，还有什么可抱怨的？——没有我们养育，他们哪来这样的日子？所以说，奴隶主的恩情，你们永远还不完。”</strong></p>
-<p>就这样，通过政治论述、神学诠释与文学宣传的合力，南方的奴隶主阶级将一种基于强迫与剥削的制度，包装成了一种负有“神圣责任”与“文明使命”的恩惠体制，并在内部形成了相当稳固的自我认同与道德优越感。</p>
-<p>在这种逻辑的驱动下，许多南方思想家真诚地相信，南方的奴隶制是一种比北方自由雇佣制更优越、更“先进”的社会组织形式。他们的推理并不复杂：既然在私有制下，人与人之间必然存在支配与依附，那么何不选择一种将这种关系公开化、制度化，并赋予支配者相应“终身责任” 的体系呢？</p>
-<p>在他们看来，北方的“工资奴隶制”才是真正残酷的——资本家榨取工人的劳动，却对其生老病死毫无义务，将人用完即弃。而南方的奴隶制，则被他们描绘成一种“恩情永远还不完”的父权式保障体系：<strong>主人为了自身长远利益，会天然地照顾奴隶的温饱、健康甚至灵魂。这种制度不仅避免了自由市场带来的混乱与革命，还实现了“劳动与资本的永久结合”，显得更稳定、更有人情味，因而在道德和实际效能上都“更有说服力、更有能力”。</strong></p>
-<p>要理解 19 世纪南方奴隶主为何能心安理得地为奴隶制辩护，我们需要先了解他们的思维方式。他们的想法看似矛盾，实则自成一派。</p>
-<p>许多南方奴隶主其实是边疆或市场上发家的“新贵”，可他们内心却特别向往古代贵族的那种生活模式。历史学家卡什曾形容，这些“南方绅士”如此痴迷于扮演贵族角色，几乎全身心投入一种仿古的、家长式的田园幻梦——他们自视为现代的罗马英雄“辛辛纳图斯”或雅典的公民，认为自己的“自由”和“体面”，完全得靠奴隶劳动来支撑。</p>
-<p>但问题在于，这种对古代等级制的向往，却发生在一个飞速走向现代的商业社会。十九世纪中叶，工业资本主义和市场经济的浪潮正席卷美国，不断冲击着南方以奴隶制为基础的种植园经济。就在这种传统与现代的激烈碰撞中，南方的知识分子们发展出了一套复杂的话术，来为奴隶制辩护。</p>
-<p>他们一方面从古希腊罗马的历史中找依据，认为古希腊罗马正是由于依靠着奴隶制才发展出繁荣的文明，如果一个社会不靠压榨一个阶层或者种族，怎么可能如此繁荣呢？他们借此为奴隶制作为必要的恶来辩护。</p>
-<p>有趣的是，和当时欧洲那些批判资本主义的思想家（不论是保守派还是早期社会主义者）一样，南方知识分子也察觉到：光靠“市场”“效率”这类说辞，并不能为奴隶制赋予道德上的正当性。于是，他们转而强调那些超越现实、诉诸情感与信仰的“大道理”：他们讲“上帝的旨意”，讲“自然的等级”，讲“社会如同有机的生命体”，硬是把奴隶制说成是一种神圣的、符合自然的、甚至比北方“自由雇佣”更有人情味的“家长保护”制度。</p>
-<p>通过这样一套话语包装，他们试图抵挡北方工业社会那种“一切向钱看”的风气，并为自己那种人身依附式的旧秩序，披上了一件既古典又神圣的外衣。</p>
-<p>但是南方人真的不知道这一点吗？历史学家又指出——在他看来，许多南方白人——尤其是有清教背景的群体——在心底仍保留着基督教传统中对奴役他人的道德质疑。然而，巨大的经济利益与根深蒂固的种族优越感，又使他们无法放弃奴隶制。这种“明知是恶，却不得不为”的内在撕裂，逐渐催生了一种无意识且被压抑的集体罪恶感。</p>
-<p>为了逃避这种心理压力，南方社会逐渐发展出一套心理防御机制，卡什称之为“退入不真实”。这体现在几个方面：他们将种植园生活浪漫化为一种田园牧歌式的“父权制”乐园，把奴隶描绘成需要白人“家长”呵护的“孩子”；</p>
-<p>他们从《圣经》中寻找依据，牵强地论证奴隶制是“神的安排”，试图在信仰层面说服自己；</p>
-<p>他们对外部批评——尤其是北方的废奴主义者——表现出愈发激烈的敌意与攻击性，试图通过否定“他者”来掩盖内在的不安。</p>
-<p>卡什特别指出，这不是简单的“伪善”，而是一种近乎病态的心理逃避。他认为，南方人并非清醒地自欺欺人，而是真的活在自己编织的“南方神话”之中，以此回避直面奴隶制残酷本质所带来的道德压力。</p>
+<p><strong><strong>这跟美洲独立后的局势有很大关系。</strong></strong></p>
+<p>一种语言文字的书写规范，叫做正写法或<strong>正字法</strong>（Orthography）。</p>
+<p>一般来说，一种语言的正字法越强调读写一致，我们就说这种正字法越“激进”，反之读写差别越大，我们就说这种正字法越“保守”。</p>
+<p>这是因为，<strong>读写不一致的现象往往是由历史上语音的流变，以及各种传统的累积导致的。所以想要尽可能保留传统，就得更多接受读写不一致；想要读写一致程度高，就得放弃更多传统。</strong></p>
+<p>所以说，一种语言的读写一致程度，或者说正字法的激进程度，从根本上取决于改革派和保守派之间的博弈。</p>
+<p><strong>如果一种语言的读写一致程度很高，或者说采用了激进正字法，那多半是因为改革派在历史上的某个关键点占据了上风。</strong></p>
+<p>在西班牙语的案例当中，这个关键点就是美洲的独立。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ef35d6d5e3a8e042e47f32361fc56ad5_720w.jpg?source=8673f162" alt=""><figcaption>土耳其共和国建立后凯末尔主导的土耳其文字改革是 20 世纪最激进的正字法改革之一，改革后的土耳其语文实现了拼写高度一致。</figcaption></figure>
+<p><strong>19 世纪之后，新独立的西语美洲国家发起了一场正字法改革，要求实现更高程度的拼写一致，并制定了“贝略正字法”与西班牙分庭抗礼，倒逼西班牙加速改革拼写方案，最终形成了一套比较激进的的统一正字法。</strong></p>
+<p>之所以产生这样的结果，也是因为西语美洲国家独立后有足够的意愿改革语言文字，又有足够大的体量和影响力，以上两个条件缺一不可。</p>
+<p>作为对比，美国虽然独立了，但美国并没有大刀阔斧改变英语拼写的意愿，所以英语维持了拼写高度不一致，也从来没有统一正字法的局面。</p>
+<p>海地独立之后，创造了拼写高度一致的海地克里奥尔语正字法，但是海地在旧宗主国法国面前显然过于弱小，根本影响不到法语的主流。结果就是法语的正字法方案一直相当保守，保留了很多不发音的成分，这是为了体现法语的“历史传承”特别是同拉丁语的关系。</p>
+<p>那么，西班牙语是什么情况呢？</p>
+<p><strong>1823 年，拉丁美洲独立战争尚未完全落下帷幕，有“拉丁美洲文学宗师”之称的安德烈斯·贝略（<span class="nolink">Andrés Bello</span>）就在伦敦的杂志上发表文章，提出西班牙语应该实现字与音的完全匹配。</strong></p>
+<p>在他的文章里，贝略是这么说的：</p>
+<blockquote>“词汇拼写最大的荒谬之一，就是要求我们必须通过其追溯起源来确定写法。还有什么比把两三千年前人们的发音作为现代人的书写规则，进而将我们自己的发音作为两三千年后某些民族的拼写参考更违背理性的呢？”</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a5406ad9463f9d4533cf399b12bf233f_720w.jpg?source=8673f162" alt=""><figcaption>西班牙语追求拼写一致的传统可以追溯到 1492 年向伊莎贝拉一世献上《卡斯蒂利亚语语法》的学者内夫里哈。但是在 18 世纪末，西班牙语的正字法改革陷入停滞的局面，到 19 世纪初才被美洲独立运动重新点燃。</figcaption></figure>
+<p>贝略提出了一些拼写改革方案，例如彻底删除西语传承自拉丁语，但已不发音的字母“h”，把多音的“x”按照发音用不同字母表示等等。</p>
+<p>在贝略方案的基础上，19 世纪上半叶拉美自由主义知识分子的代表，多明戈·萨米恩托（Domingo Faustino Sarmiento，后来成为阿根廷总统）提出了更加激进的方案，并且推荐给了智利政府（当时萨米恩托正在智利流亡）。</p>
+<p>事实上，相比萨米恩托等人，贝略还算保守的。作为独立时期老一代学者的代表，贝略虽然批评西班牙是“野蛮国家”，但是他还愿意维系泛西班牙语文化圈的统一。</p>
+<p>而在那些年轻的自由主义知识分子当中，有人直接提出要引入外语特别是法语的元素，来改造美洲的西班牙语。还有激进者称，随着西班牙帝国的终结，西班牙语也应该像罗马帝国灭亡后的拉丁语一样，分化成几十种语言，美洲各国都会形成自己的民族语言。</p>
+<p><strong>在美洲国家知识分子激烈争论的同时，西班牙发生了变故。</strong></p>
+<p>1843 年，受大洋彼岸正字法争论的影响，西班牙首都马德里的一个基础教育教师协会“<span class="nolink">马德里</span>小学教师文学与科学学院”自发要求改革正字法，在不经西班牙政府批准的情况下，宣布采用一套新的拼写方案，包括合并发音相同的字母“b”和“v”，删除字母“h”以及不发音的“u”等等。</p>
+<p>小学老师们的这场“文字起义”只持续了一年。<strong>1844 年，西班牙女王伊莎贝拉二世签署法令，要求公立学校必须采用西班牙皇家语言学院颁布的标准正字法。</strong></p>
+<p><strong>也正是在 1844 年，智利政府正式采纳了以贝略方案为基础的改革正字法，史称“贝略正字法”。自此，西班牙语出现了两套分庭抗礼的官方正字法，一套来自欧洲，另一套来自美洲。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e40c8a0e794caa29bf92650b1fd3b26f_720w.jpg?source=8673f162" alt=""><figcaption>智利大学工程学院入口处的文字，建成时按贝略正字法写为 ESCUELA DE INJENIERIA，若现行标准拼写应为 ESCUELA DE INGENIERIA。</figcaption></figure>
+<p>“贝略正字法”在智利确立后，迅速开始影响其它西语美洲国家，特别是阿根廷、厄瓜多尔、哥伦比亚和委内瑞拉。</p>
+<p>正字法之争甚至引发了“文字狱”——在 19 世纪仍未独立的西属古巴殖民地，使用或宣传贝略正字法可能被当局视为煽动独立的表现，进而遭到逮捕。</p>
+<p><strong>在两套正字法竞争的大背景下，西班牙皇家语言学院改变了之前一个世纪的消极保守姿态，开始积极吸纳美洲西班牙语的元素，主动进行改革。</strong></p>
+<p>西班牙也充分利用作为前宗主国的影响力，向美洲推广自己的正字法。</p>
+<p>19 世纪的巴黎是拉丁美洲知识分子的聚集地，也是拉美事实上的“文化圣地”。西班牙政府非常重视巴黎的西班牙语书籍出版业，确保了巴黎出版的书籍用的都是西班牙皇家语言学院的正字法。</p>
+<p><strong>经过西班牙人的积极努力，智利正字法没能占据主流。</strong>19 世纪下半叶，美洲各国的知识分子陆续放弃了贝略正字法，只有智利还在坚持。1927 年，智利最终放弃贝略正字法，宣布采用西班牙皇家语言学院制定的正字法，结束了双方长达 83 年的对抗。</p>
+<p><strong>西班牙的正字法胜利了，但胜利的前提是向美洲国家让渡了不少权力。</strong></p>
+<p>特别是第二次世界大战结束后，1960 年前，由于西班牙佛朗哥政权被西方国家孤立，以墨西哥为首的美洲国家在西语语言文字领域一度掌握了很大话语权。</p>
+<p>1951 年，西班牙语语言学院协会（Asociación de Academias de la Lengua Española）在墨西哥城成立。在协会的架构当中，西班牙皇家语言学院事实上依然处于主导位置，但美洲各国也拥有话语权。在协会第一届大会上，大会决议推进正字法改革，追求读写一致，并兼顾各国方言。</p>
+<p><strong>在这个协作框架下，西班牙语最终维持了一套统一的正字法方案，直至今天。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7fd62aa8cae7765f01665f94bc1eae89_720w.jpg?source=8673f162" alt=""><figcaption>西班牙语语言学院协会的纹章。纹章周边的国旗体现了多元话语权，其中甚至包括了美国和菲律宾。</figcaption></figure>
+<p><strong>西班牙语正字法在欧洲各语种当中较为激进，也是这个历史过程的产物：</strong>1492 年西班牙语言学家内夫里哈（Antonio de Nebrija）强调的“拼写一致”原则，在 19 世纪欧洲美洲双方的博弈当中得到了确认和升华。</p>
+<p><strong>在激进传统影响下，现代仍有人持续呼吁改革正字法</strong>，其中代表人物是哥伦比亚作家、诺奖得主加西亚·马尔克斯。</p>
+<p>在 1997 年的西班牙语国际会议上，马尔克斯在演讲中再次提出合并“b”“v”，删除“h”，改革重音等提议，他甚至提出要改革语法，消灭西班牙语中“泛滥成灾的‘que’和‘de que’”。</p>
+<blockquote>我们应该将其（西班牙语）从规范的铁腕中解放出来，让它能够轻松自在地迈入下一个世纪。</blockquote>
+<p>尽管马尔克斯也自嘲说，这些建议或许过于天马行空。但是无论怎样都不可否认的是，这个美洲人——同时也是现代西语文学排名第一的作家的声音，具有足够的分量。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-1f82038b7736aaf78f069cdfb9421685_720w.jpg?source=8673f162" alt=""><figcaption>如果前殖民地比前宗主国更强大，结果会是怎样呢？答案就是葡萄牙语的情况！在 21 世纪以来的正字法改革当中，葡萄牙人经常抱怨现行方案“巴西化”太严重，而莫桑比克等非洲国家则不满巴西和葡萄牙两国的“霸权”。</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1472562889">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1930638385401300209">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788669</guid><pubDate>Fri, 27 Mar 2026 18:49:29 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788717</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788682</guid><pubDate>Sat, 28 Mar 2026 01:47:10 GMT</pubDate></item><item><title>为什么很少听说有鸟类之间的杂交和爬行类动物之间的混血，它们种族的生殖隔离很严重吗？</title><link>http://daily.zhihu.com/story/9788683</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-b4712c1933bad6dfadef7d9df3f85ae7.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -268,61 +347,133 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 走路时间长了大脚趾就不舒服，如果把大脚趾切了，是不是就没这个问题了？</h2>
+<h2 class="question-title"></h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-0940f055d33b6cb39928486943cd123e_l.jpg?source=8673f162">
+<span class="author">高sir，</span><span class="bio">科学丨教育&amp;生物老师丨公众号：高比先生</span>
+<a href="https://www.zhihu.com/question/427590384/answer/1948097116854552018" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1987443048699941485/answer/1987467631347913347" target="_blank">走路时间长了大脚趾就不舒服，如果把大脚趾切了，是不是就没这个问题了？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/4fa5546ae8a6d02f675354f3af2d66fc" target="_blank">@极奇迹</a> ：大拇趾不舒服是因为它受力 80% ，是支柱，切掉就要其他部位代偿，脚底、膝关节受损，而且走不稳。</div>
-你的思维类似于裁员裁掉大动脉。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/535964694/answer/1951724365507966205" target="_blank"> 假装盲人和假装不识字哪个更难？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c7a76bddbcc076f57d8048f3cda1698f" target="_blank">@昺益</a> ：有一种识别假文盲的方法，就是让你快速报出下图中每个字的颜色，能说对的是真文盲，假文盲是报不对的或者报得很慢。</div>
-大家可以试试自己能不能装文盲成功。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-60a1c4da0d0de325dd7e57b967f25ef3_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/662296075/answer/1986477287135277371" target="_blank">想看一看你们拍的有趣的照片?</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c141266fd24e61d176b0586dfb79e15f" target="_blank">@好大鱼</a> :和对面猫咪对视一会之后……</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-6c7f00a2071b8497bca2fbd85ee3660f_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-a82a9b996201da59b79aa8bff3561b5a_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-e84d7d886a6ac2b7efbb7314330e11b5_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q :<a class="internal" href="https://www.zhihu.com/question/545255479/answer/3625991686" target="_blank"> 为什么上海地铁英文提示词中把「路」译为「Road」而南京地铁是「Lu」？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/a2e35d85c232ac12bee0f952351bbd33" target="_blank">@蓝色的破车</a> :我觉得 都不如合肥地铁这个 Di-3 Yiyuan</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-3d1037d38ba9f2e287f8d7ce586ae4dd_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q :<a class="internal" href="https://www.zhihu.com/question/41432739/answer/1953544442817549078" target="_blank">你见过哪些谜之笑点的图片？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/294c9f608051d49152d8a036260789a7" target="_blank">@缄默</a></div>
- :之前在知乎看到的图，笑崩了。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-4d49f77ab20f68634ec85cf782d76853_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
+<p>阿这，看来要先讲一个故事——达尔文雀。</p>
+<p>1981 年，加拉帕戈斯群岛上发生了一件看似平常的事——一只雄鸟飞到了达芙妮岛。</p>
+<p>这只鸟看起来像中地雀，但有些不对劲。</p>
+<p>它比当地的中地雀大 70%，鸣声也完全不同。</p>
+<p>当地的雌鸟从未听过这样的歌声。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8dd9e4c44ad8b0a429a83f1f289968d6_720w.jpg?source=8673f162" alt=""><figcaption>中地雀</figcaption></figure>
+<p>科学家们给它起了个绰号：大鸟。</p>
+<blockquote>基因检测显示，这只大鸟很可能是中地雀与大地雀的杂交后代，来自 8 公里外的圣克鲁兹岛。<sup>[1]</sup></blockquote>
+<p>它是一次偶然杂交的产物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1c1c36d432d98e58c84b129c6bd06794_720w.jpg?source=8673f162" alt=""><figcaption>大嘴地雀</figcaption></figure>
+<p>故事开始了，这只大鸟找到了一只当地雌性中地雀。</p>
+<p>它们交配了，产生了 F1 后代。</p>
+<p>你可能以为故事到此结束。杂交嘛，偶尔发生，没什么特别。</p>
+<p><strong>但接下来发生的事，将会震惊生物学界。</strong></p>
+<p>科学家们开始了一项史无前例的研究，他们标记了大鸟和它的每一个后代。</p>
+<p>年复一年地观察。记录每一次交配。追踪每一只幼鸟。</p>
+<p><strong>第一代后代与另一只中地雀交配。产生了第二代。</strong></p>
+<p>然后奇迹发生了。</p>
+<p>从第二代开始，所有的交配都发生在这个家系内部。</p>
+<p>它们只与自己的兄弟姐妹或堂兄妹交配，不再与岛上其他鸟类杂交。<sup>[2]</sup></p>
+<p><strong>这意味着什么？</strong></p>
+<p>生殖隔离。</p>
+<p>它们变成了一个独立的种群。</p>
+<p>科学家们见证了新物种的诞生。</p>
+<p>不需要几万年、不需要化石记录的推测。</p>
+<p>而是活生生发生在眼前的物种形成。</p>
+<blockquote><strong>仅仅三代，这个杂交家系就实现了生殖隔离，成为了一个新的物种。</strong><sup>[3]</sup></blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-095cdc5661a220f48a5f69db91067e04_720w.jpg?source=8673f162" alt=""></figure>
+<p>关于进化，传统进化理论强调渐进变化，新物种通过长期积累小的变异而形成。</p>
+<p>这个过程需要数万甚至数百万年。</p>
+<p><strong>达尔文雀颠覆了这个观念。</strong></p>
+<blockquote>它展示了一种被称为“同倍体杂交物种形成”的过程，即杂交后代在不改变染色体数量的情况下形成新物种。<sup>[4]</sup></blockquote>
+<p>这种快速物种形成在动物界极其罕见，以前我们认为只有植物才能这样快速分化。</p>
+<p>而达尔文雀生活在加拉帕戈斯群岛，这个岛屿无疑就是一个天然实验室。</p>
+<p>岛屿之间相对隔离，但偶尔有个体跨岛迁移。</p>
+<p>这创造了完美的杂交条件。</p>
+<blockquote>基因组研究显示，达尔文雀的进化历史充满了杂交事件的痕迹。不同种类之间持续发生基因交流，这种交流塑造了它们的遗传多样性。<sup>[5]</sup></blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-df41efa2a6579d10054ecfdd6b5c4585_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong><strong>我们很少听说鸟类杂交？</strong></strong></p>
+<p>不是因为杂交不常见，而是因为我们关注得不够。</p>
+<blockquote>最新研究显示，大约 16.4%的鸟类物种能够在野外杂交，如果算上圈养环境，这个比例达到 22%。<sup>[6]</sup></blockquote>
+<p>五分之一的鸟类能杂交。</p>
+<p>这个比例其实很高。</p>
+<p><strong>但我们为什么很少注意到？我觉得有两个比较重要的原因（鄙人肤浅之见）</strong></p>
+<p><strong>经济原因</strong></p>
+<p>我们关注哺乳动物杂交，主要因为农业需求。</p>
+<p>骡子有使用价值\牛羊杂交影响畜牧业。</p>
+<p>但鸟类杂交大多发生在野外,没有直接经济意义。</p>
+<p><strong>观察难度</strong></p>
+<p>鸟类活动范围大\飞行能力强。</p>
+<p>野外杂交个体很难被发现和研究,不像圈养的哺乳动物那样容易观察。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1d32bb437e5cb7baac5fdc09157710f4_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>其他鸟类有这样的情况吗？</strong></p>
+<p>当然有</p>
+<p><strong>绿头鸭</strong></p>
+<blockquote>已知绿头鸭能与至少 40 个不同物种杂交。<sup>[7]</sup></blockquote>
+<p><strong>为什么——饥不择食</strong></p>
+<p>雄性绿头鸭经常无法区分不同种类的雌鸭，或者说，不在乎——是女的就行！！。</p>
+<p>“不挑食”的态度，当然增加了杂交机会。</p>
+<p><strong>当然，根本原因是遗传兼容性。</strong></p>
+<p>绿头鸭与许多近缘物种的基因差异不够大，还能产生可育后代。</p>
+<p>不过，其实在鸟类中，雁形目（包括鸭、鹅、天鹅）表现出最高的杂交率。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a9c136c74cf4ee332812ac199ad502b2_720w.jpg?source=8673f162" alt=""></figure>
+<p>几乎所有的鸭类或鹅类之间都有杂交记录。</p>
+<p>为什么？</p>
+<p>求偶行为相似。</p>
+<p>大多数水鸟的求偶都包括游泳、展示、追逐等动作。</p>
+<p>不同种类的雄鸟容易误判其他种类的雌鸟。</p>
+<p>还有一种可能，就是强制性交配和种间巢寄生行为，这在水鸟中特别常见。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-dea8168bdb11866f715d1f2639dd1141_720w.jpg?source=8673f162" alt=""></figure>
+<p>白颊黑雁和雪雁的杂交后代</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2d9998fe0db3fd0737fd614c99e057ae_720w.jpg?source=8673f162" alt=""></figure>
+<p>斑头雁和雪雁的杂交后代</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-495927ae60c7a1e8d93d790517589f3a_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>现在让我们看看爬行动物</strong></p>
+<blockquote>在对 94 对遗传差异显著的蜥蜴物种的杂交研究中，大多数 F1 杂交后代都是可育的。</blockquote>
+<p>这说明爬行动物的杂交能力其实很强。</p>
+<p>我们之前有个误解，以为卵生动物天生不利于杂交。其实不是这样的。</p>
+<p>其实爬行动物们乍一看，是不容易杂交的</p>
+<blockquote>爬行动物有个特殊的“锁钥机制”，<strong>雄性爬行动物的生殖器官形态差异很大</strong>，这有助于维持物种间的生殖隔离。<sup>[8]</sup></blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-eb5648517c2e4999587ad4b53f6f258f_720w.jpg?source=8673f162" alt=""></figure>
+<p>简单说，不同种类的生殖器官很难匹配。</p>
+<p>但即使有这种阻隔，杂交依然发生。</p>
+<p><strong>而且产生了一个你意想不到的结果——单性生殖</strong></p>
+<blockquote>已知约 50 种蜥蜴和 1 种蛇能够完全通过单性生殖繁殖。这些单性生殖的种类，很多都是杂交的产物。</blockquote>
+<p>举个例子：鞭尾蜥</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c9f333ece2da19caf5df6f0436a379ab_720w.jpg?source=8673f162" alt=""><figcaption>Aspidoscelis neavesi</figcaption></figure>
+<p>这种蜥蜴现在完全通过克隆方式繁殖，但依然保持着遗传多样性。</p>
+<p>这怎么可能？</p>
+<p>很久以前，两个不同物种的鞭尾蜥发生了杂交。</p>
+<p>这种杂交给后代带来了强大的遗传多样性，然后这种多样性通过特殊的减数分裂机制得以保持。</p>
+<p>结果就是，雌性能够产生遗传多样的后代，不需要雄性参与。</p>
+<p>科学家甚至在实验室里重现了这个过程，通过让两个相关蜥蜴物种杂交，研究人员创造出了一个新的单性生殖物种。</p>
+<p>这个新物种被命名为 Aspidoscelis neavesi。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c63be756043068daefa02696d3f933f4_720w.jpg?source=8673f162" alt=""></figure>
+<p>看看更多案例：</p>
+<blockquote>在蛇中，不同种类的奶蛇之间能够产生可育杂交后代。<sup>[9]</sup></blockquote>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-18a25d14562cd7bc90773e07ee921e97_720w.jpg?source=8673f162" alt=""></figure>
+<p>在龟类中，红耳龟与地图龟也能杂交。<sup>[10]</sup></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f7f11e53d346cd0f26f6c8924277c6f3_720w.jpg?source=8673f162" alt=""></figure>
+<p>甚至在鳄鱼也有，古巴鳄与美洲鳄进行了杂交。<sup>[11]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-748656e2cb8db72223bd0bf6bbec0d80_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>现在回到你的最后一个问题：鸟类和爬行动物能杂交吗？</strong></p>
+<p>不能。</p>
+<p>鸟类和其他爬行动物的分化发生在约 2.5 亿年前。<sup>[12]</sup></p>
+<p>这个时间跨度太长了，遗传差异已经大到无法杂交的程度。</p>
+<p>杂交需要足够的遗传相似性。</p>
+<p>时间越久，物种分化越严重，杂交越困难。</p>
 </div>
 </div>
 
 
+<div class="view-more"><a href="https://www.zhihu.com/question/427590384">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788717</guid><pubDate>Fri, 27 Mar 2026 18:49:30 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788683</guid><pubDate>Sat, 28 Mar 2026 01:47:11 GMT</pubDate></item></channel></rss>
