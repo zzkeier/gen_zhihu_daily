@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sat, 28 Mar 2026 18:33:14 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>马和牛都只吃素，为何它们这么壮？</title><link>http://daily.zhihu.com/story/9788616</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7072424f61b31f37bc38e38d29495045.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 29 Mar 2026 01:58:09 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么越接近现代动物的体型越小，而史前却有很多身形巨大的动物？</title><link>http://daily.zhihu.com/story/9788622</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c1b8984ecebf34cc34cf0f34731de747.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-2af481d1db0ae0c504fb2411e1548f92_l.jpg?source=8673f162">
+<span class="author">赵泠，</span><span class="bio">衣沾不足惜，但使愿无违。</span>
+<a href="https://www.zhihu.com/question/50911911/answer/2016812489870943763" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p><strong>不是那样</strong>。现存的蓝鲸是可确认的地球历史上个体体积最大、个体体重最大的动物。人们科学地测量过身长 27.6 米、体重 177 吨的蓝鲸，记录过身长 33 米的蓝鲸但未称量。任何已知的古动物用正常方法估算的体重都没有这么大。</p>
+<p>而且，大多数恐龙的体型并不惊人。估计现有化石代表的上千个非鸟恐龙物种的中位体重低于 1 吨，这还受到小型物种的化石更难形成且更难保存下来的影响。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-328a5ec1ee66c9807ec1e0874cb0b85e_720w.jpg?source=8673f162" alt=""><figcaption>Campione, N. E. and Evans, D. C. 2020. The accuracy and precision of body mass estimation in non-avian dinosaurs. Biological Reviews. DOI: 10.1111/brv.12638</figcaption></figure>
+<p>这问题的补充说明声称“恐龙时代的蜈蚣都有汽车那么大”，这是以讹传讹的——将石炭纪的倍足纲 - 节胸目 - 节胸科 - 节胸属动物搬到“恐龙时代”并夸大体型。这些动物并不是蜈蚣<sup>[1]</sup>。</p>
+<p>2021 年发现的一具 <em>Arthropleura armata </em>蜕皮化石推定体宽约 55 厘米，推定体长约 1.9 至 2.63 米，推定体重可达 50 千克<sup>[2]</sup>，这是已知范围内陆地上出现过的体重最大的节肢动物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e77cde46f52965292ac08cb3dc12b2ad_720w.jpg?source=8673f162" alt=""><figcaption>By Junnn11 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113699642</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7bfbbbdf454388c7f352ae13f225f89b_720w.jpg?source=8673f162" alt=""><figcaption>https://www.researchgate.net/figure/Arthropleura-armata-Jordan-1854-from-the-late-Moscovian-Westphalian-D-of-the-San_fig3_350580197</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6b4b6c7cb40f8704829321314f1d7079_720w.jpg?source=8673f162" alt=""><figcaption>https://www.researchgate.net/figure/color-online-Impressive-comparative-size-of-Arthropleura-armata-the-up-to-25-m-long_fig1_350580197</figcaption></figure>
+<p>关于古生物的新闻报道和民间传说经常片面夸大古生物的体型、将不同时代的大型动物堆在一起报道、严重忽视小型生物的压倒性数量与多样性，有意无意地歪曲了你对生物体型的印象。</p>
+<ul>
+<li>巨像秘鲁鲸在不严谨地高估时可能比蓝鲸重，正常估计比蓝鲸轻得多。</li>
+</ul>
+<p><a class="internal" href="https://www.zhihu.com/answer/3148729780">科学家可能发现史上最重动物，古代鲸体重或达 340 吨，有哪些研究价值？</a></p>
+<ul>
+<li>“新西兰大鱼龙”之类也如此：只在故意往大了说的时候，体重可能超过蓝鲸。</li>
+<li>将蜥脚类恐龙的体重估计得比蓝鲸还大的案例稀少，证据也不够。</li>
+</ul>
+<p>历史上，一些恐龙的体型与鸡相仿。例如 <em>Foskeia pelendonum</em><sup>[3]</sup>：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2c7e51c7476309c6545da33eb8c8edb8_720w.jpg?source=8673f162" alt=""><figcaption>DOI: 10.1002/spp2.70057</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2cfa5993220d340a5fbe2d0e3743e2fc_720w.jpg?source=8673f162" alt=""><figcaption>DOI: 10.1002/spp2.70057</figcaption></figure>
+<p>自动物诞生以来，体型较大的动物在环境不利时灭绝率明显高，这归因于体型较大的动物的个体数量通常较少、个体维持生命需要的食物供应通常较多。“现存动物的最大体型”随时间流逝而波动。</p>
+<p>对于昆虫之类特定类群，石炭纪的巨脉蜻蜓轻而薄的大翅膀（最大翼展约 71 到 75 厘米）让人产生了不准确的印象，其典型估计体重约 100 克，低于现存的大王花金龟 <em>Goliathus goliatus</em> 幼虫（约 115 克）——当然，历史上也有估计巨脉蜻蜓的体重为 150 到 450 克的文章，但给它超过 100 克的体重会带来严重的飞行时散热问题。</p>
+<ul>
+<li>将巨脉蜻蜓的体型归因于“大气氧含量高有助于昆虫呼吸”也有问题，一些大气氧含量没那么高的时代一样有体型很大的昆虫（更别提体重了），侏罗纪大气氧含量较高时期的昆虫体型不大。在出土巨脉蜻蜓化石的地层里还有几百种古昆虫化石，它们的尺寸普遍不比现代蚱蜢大。</li>
+<li>“较大体型在结果上有助于昆虫防止身体内部氧含量过高对细胞造成损害，在更大的捕食者众多时没有好处；不增大体型，昆虫也能控制气门来调节身体内部氧含量”相对合理。</li>
+</ul>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/50911911">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788622</guid><pubDate>Sun, 29 Mar 2026 01:58:06 GMT</pubDate></item><item><title>为什么正常人大脑里只会诞生一个意识呢？</title><link>http://daily.zhihu.com/story/9788692</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ff1211e6e352f8657ee6031586059642.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -21,103 +83,81 @@
 <div class="meta">
 <img class="avatar" src="https://pic1.zhimg.com/v2-a238e228bac402aa4ecc0b5f5107f085_l.jpg?source=8673f162">
 <span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/1950166313797412688/answer/1951230667879854359" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/6464718815/answer/87497930989" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>我这么跟你说吧：</p>
-<p><strong>今天牛牛就是喝西北风，它也有能力把空气中的<strong>氮气</strong>转换成蛋白质来长肉，牛逼不牛逼，人类拿啥跟它比~</strong></p>
-<p>如果去掉牛的基因锁（产生肌肉生长抑制素的基因），牛吃素不仅能长肌肉还能变成肌霸：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fa7805e9d012b603eafe596ccd2381ac_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>从上到下依次是营养不良的老黄牛→氮源充足的神户牛→基因突变的比利时蓝牛</strong></p>
-<p>很神奇是吧！</p>
-<p>其实这里有个误区，牛不是只吃素的，它们是把草料吃到消化系统然后发酵。</p>
-<p>然后把发酵的产物和发酵的细菌一起吃掉……</p>
-<p>相当于荤素都有的。</p>
-<p>人一口荤不吃确实不太行，除非素食营养搭配特别好，并额外补充维生素 B12，要不然真的可能会营养不良早早生病甚至死亡。</p>
-<p>但是问题来了，要命的是哪怕人天天吃肉也要配合很大的锻炼强度才能上大肌肉。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3615be1dabdb55eaf21f6d570cf67b0d_720w.jpg?source=8673f162" alt=""></figure>
-<p>比如超有钱的明星，如果不上九龙拉棺的话，即便是刻苦训练，找高价营养师搭配完美增肌餐，锻炼几年的肌肉量还是比不上动物园吃动物简单午餐的银背大猩猩。</p>
-<p>由此我们引出要壮（长肌肉）的话，必须要要有两个很重要的东西：</p>
-<p><strong>1 氮源</strong><strong>2 增肌的基因</strong><strong>1 氮源：为什么需要氮源？</strong></p>
-<p>以防万一，还是解释一下。</p>
-<p>米饭等<strong>碳水化合物</strong>通式：<strong>Cm(H₂O)n、脂肪通式：C₃H₅(OCOR)₃（R 是 C/H 组成的脂肪链），蛋白质则是</strong>由氨基酸<strong>H₂N—CHR—COOH 通过肽键</strong>（—CO—NH—）连接。</p>
-<p>可见，由于物质守恒的，没有额外补充的氮源是长不了肌肉的。</p>
-<p>人类虽然能将碳水转换成一些非必须的氨基酸（这种情况仍然需要体外补充的氮源），但是必须的九种氨基酸必须从食物里获取，不能通过碳水和脂肪转换而来。</p>
-<p>虽然植物蛋白也能补充氮源，但是利用率低，还是直接吃肉来得快。</p>
-<p>那牛又是怎么获得氮源呢？</p>
-<p>不知道有没有在农村自己沤肥的朋友。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a7530fc0644e14208b543c13fb281875_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是一堆没什么用的秸秆。</p>
-<p>但是我们可以把它烧掉，得到草木灰。</p>
-<p>草木灰主要含<strong>钾，</strong>及少量磷、钙、镁等元素。其钾元素以碳酸钾形态存在，易被植物吸收，是一种速效钾肥。</p>
-<p>不过最近不让烧秸秆了，但是我们仍然有办法把秸秆变成肥料。</p>
-<p>直接埋土里肯定不行啊，秸秆虽然富含纤维素、木质素等大分子有机物，但是直接埋土里植物是吸收不了的。</p>
-<p>所以我们可以通过沤肥的方式把这些不能用大分子变成我们需要的东西。</p>
-<p><strong><strong>传统堆肥法用</strong>秸秆 1000 kg（粉碎至 1–3 cm）加上饼粉（豆饼 / 棉籽饼）20 kg 或尿素 10 kg（提供氮源），再加上几百克发酵活菌，就可以把秸秆和氮源通过发酵菌分解转换为蛋白质、多糖类、脂肪、氮、磷、钾等植物能够利用的物质了。</strong></p>
-<p>这个配方有没有让你想起什么？</p>
-<p><strong>秸秆 + 豆粕或者尿素？</strong></p>
-<p>没错哇，就是牛饲料哇。</p>
-<p>什么，牛还可以吃尿素补充蛋白质吗？</p>
-<p>可以的兄弟。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e5a00bf42f0eab684b2f00109619befe_720w.jpg?source=8673f162" alt=""></figure>
-<p>尿素在牛饲料里面一直是廉价好用的氮源，不过跟豆粕一样，得适量，要不然容易中毒。</p>
-<p><strong>也就是说，你可以不把牛牛看成一种动物，它本身是一座移动的有机肥工厂啊。</strong></p>
-<p>牛本身为了节约氮源，进化出了尿素循环，对于其他动物来说没用的通过尿液排除的尿素，在牛的体内部分可以通过唾液或瘤胃壁返回瘤胃再次利用，减少氮浪费。</p>
-<p>秸秆、草料等非常廉价的素菜加上一些豆粕、尿素、动物边角料等氮源加在一起，在瘤胃工厂通过微生物疯狂发酵。然后通过瓣胃和网胃粗消化，最后才进入真胃：皱胃里进行消化。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ed7d8c4e158f607cbe730aebf2853e0a_720w.jpg?source=8673f162" alt=""></figure>
-<p>也就是说，发酵得到的蛋白质、多糖类、脂肪、氮、磷、钾等等好东西会随着微生物一起直接进入牛的真胃里面去消化，瘤胃可以看成食品加工厂，瓣胃和网胃可以看成分拣车间。</p>
-<p><strong>牛是会把食品加工工人：微生物和它们加工出来的好东西一起吃掉的。</strong></p>
-<p>但是无所谓，反正微生物繁殖很快，吃是吃不完的，至此形成一种循环。</p>
-<p>厉害的就在这些微生物能利用各种氮源合成自身的蛋白质。利用这些人类不能利用的氮源以及碳水化合物提供的能量来构建微生物蛋白质 。</p>
-<p>说到这里还以说句题外话，尿素既然是一种肥料，大家可能就会联想到植物了，生物课本上讲到有种植物可以不需要额外施加氮肥，因为它们有——？</p>
-<p>没错就是豆科植物，它们有根瘤固氮菌，能够把空气中的氮气变成氨，给自己补充氮源。</p>
-<p><strong>神奇的是，牛的胃里也有固氮菌，它们也可以把空气中的氮气转换为氨然后合成蛋白质。</strong></p>
-<p>是不是厉害了？</p>
-<p>瘤胃内的<strong>Clostridium、Klebsiella、Proteus、Pseudomonas 等</strong>固氮菌可以进行固氮，其固氮能力虽不如植物根瘤菌，但可以作为牛体氮源的补充来源。*3</p>
-<p>所以在这一步，就可以看出人类和牛的巨大差距了。</p>
-<p>人的胃只有一个，里面主要是胃蛋白酶、盐酸等主要负责消化蛋白质并软化纤维素。</p>
-<p>肠道是有微生物负责发酵的，但是长度有限，发酵消化能力也有限，人只能食用低纤维蔬菜（如叶菜、瓜果），无法消化高纤维草料或秸秆，吃秸秆或者草料维生是做不到的。</p>
-<p>因为人类肠道菌群含有的纤维素酶比较少，跟牛的瘤胃里面那种对纤维素的利用率能达到 70%的工业级消化完全不一样。</p>
-<p>这是第一层消化系统的限制。</p>
-<p>第二层就是基因限制了。</p>
-<p><strong>2 增肌的基因</strong></p>
-<p>人和大猩猩的基因相似度能高达 98%，大猩猩的首领叫做银背大猩猩，它们可是最强壮的灵长类动物。</p>
-<p>就是这么小小的基因差异导致了我们的肌肉量如此不同。</p>
-<p>最大的差距就在 II 型快肌纤维，这类纤维收缩力强、体积大，非常适合爆发力动作。</p>
-<p>大猩猩的肌肉快纤维比我们多很多。</p>
-<p>人类则在<strong>耐力型的 I 型慢肌纤维</strong>和 II 型纤维之间更为平均，人类的马拉松能力在哺乳动物里面是翘楚。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5c5cf9867e340f366e08327cb1d841b9_720w.jpg?source=8673f162" alt=""></figure>
-<p>可以看出人类的 II 型快肌纤维含量连猕猴都不如，也就是同体型下，人类连猕猴都打不过。</p>
-<p>更不要说体型更大的大猩猩和黑猩猩了。</p>
-<p>另外，大猩猩的“肌肉抑制因子”如 myostatin（肌肉生成抑制素）活性也比人类更低。</p>
-<p>也就是说，同等食物摄入情况下，它们长肌肉的量也比我们的多。</p>
-<p>所以回到开头的地方，比利时蓝牛就是天生 Myostatin 基因突变的牛品种。</p>
-<p>Myostatin(肌肉生成抑制素，GDF-8）是 TGF-β家族的一员，<strong>它是肌肉生长的天然“刹车”</strong>。其功能是限制肌肉细胞分裂和生长。</p>
-<p>虽然缺乏肌肉抑制的基因锁，但是无节制的大肌霸并不是好事情。</p>
-<p>比利时蓝牛伴随<strong>分娩困难、心脏问题和免疫低下</strong>等副作用，寿命比一般的牛短。</p>
-<p>而大猩猩也是如此，不管是在野外还是在饲养环境合理的研究环境。通常寿命只有 30-40 年。</p>
-<p>总的来说，生长肌肉的限制其实对延长寿命有一定的好处，疯狂长肌肉对身体不见得都是益处。</p>
-<p>而且牛能利用微生物发酵获得能量也是有代价的，那就是它们每天得不停的吃吃吃，非睡眠时间不是吃就是在反刍。</p>
-<p>牛每天大约 <strong>60% 的时间（12～18 小时）</strong> 是直接或间接在处理“吃”的事（采食 + 反刍），当然在牧草丰富的地方，可能一天吃 6 小时就够了（然后开始休息反刍），而在高原地区的冬天，野牛可能要花上十多个小时去觅食。</p>
-<p>应该没人羡慕牛的消化能力吧？</p>
-<p>反观纯肉食的猫，一天要睡 16 个小时左右……如果不需要捕猎的话，只需要半小时的吃饭时间就够了。</p>
+<p>你是否在找：分离性（<em>解离性</em>）人格障碍(Dissociative Identity Disorder，DID)</p>
+<p>也就是我们以前经常听到的<strong>多重人格</strong>。</p>
+<p>为什么精神病会有多重人格出现呢？也就是题目所要问的问题，为什么正常人大脑里只有一个人格？</p>
+<p>因为你的大脑有写保护：</p>
+<p>1 海马体：保证记忆连续</p>
+<p>2 杏仁体：保证情绪连续</p>
+<p>3DISC1 基因：禁止篡改输入</p>
+<p>4 你的训练集只有你的人生，所以所有输出都是雷同的</p>
+<p>等等等等</p>
+<p>不过这里先说明，意识具体如何产生的，到底是什么，科学还没有明确的解释，但是对于个人来说，意识可以看做一种对各种刺激产生的反馈。</p>
+<p><strong><strong>这里为了方便大家理解，把人脑比喻成电脑。</strong></strong></p>
+<p>通常来说，你的电脑因为内存容量有限、方便用户操作等原因，只会预装一个系统，这就是你的主系统（主人格）。</p>
+<p>对于人类来说，海马体、杏仁体等边缘系统出现损伤以及 DISC1 基因变异等等问题会导致人格分裂，出现非连续的意识。</p>
+<p>就像你的硬盘、rom、cpu、防火墙等等出问题的话，就会导致你的电脑加载一些正常情况看不到的内容，这就是系统崩溃。</p>
+<p><strong>下面具体说明：</strong></p>
+<p>你要打开电脑的时候，引导装载程序 Bootloader，引导你进入主系统。</p>
+<p>硬盘是由磁性材料做成的，当它记录的时候，硬盘磁性物质的磁化状态改变，除非被其他磁性材料再次改变，否则不会轻易变化，所以它能够比较稳定的记录数据，方便你开机的时候看到的还是你之前使用的那个系统。</p>
+<p>所以你能稳定地使用你的电脑系统，你收藏的小姐姐和浏览的网站也不会因为关机而消失。</p>
+<p>而你的电脑比较智能，会记住你的喜好，社交网络会根据你的喜好帮你推荐内容，你的输入法也会自动联想你输入过的人名地名，你的地图也会记录你去过的地方，方面你下次输入的时候直接推荐路线。</p>
+<p>哦对了，你还有本地训练的大模型，当你试图输出 ABCD 不同的美女的时候</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-295cd4e50e1705c18d15363d15c270fe_720w.jpg?source=8673f162" alt=""></figure>
+<p>你会发现她们都是长得很像的东亚人，当然那是因为你用了同一个训练集训练出来的。</p>
+<p>对于人脑来说也是类似的体验。</p>
+<p>人的记忆和情感体验往往是连续的，即便是睡眠状态，人脑也依然在工作，海马体和杏仁体等边缘系统像硬盘一样帮你储存好了你的记忆和情绪。</p>
+<p><strong>当你从睡眠中醒来的时候：</strong></p>
+<p><strong>脑干</strong>这个负责呼吸、心率和基本的运动控制等的部分先帮你把呼吸、心率等调整到清醒水平，类似于 Bootloader 在计算机开机时激活基本硬件。</p>
+<p><strong>脑干的网状激活系统（RAS）</strong>就像 Bootloader 一样引导你开机进入主系统，并准备好处理更高层次的信息，RAS 还会过滤掉不必要的感官输入，并帮助确定重要刺激的优先级，就像引导加载程序首先加载最重要的组件一样。</p>
+<p>彻底清醒以后，大脑读取海马体和杏仁体等边缘系统里储存的记忆和情绪，方便你走着熟悉的路上班，你面带跟昨天同样的微笑跟熟悉的同事打招呼，记忆召唤你的手操纵键盘鼠标开始一天的打工生活，而不是跳起来砸了老板的办公桌。</p>
+<p>你会读取熟悉的面孔，这个过程跟大模型训练很像，以马尔（Marr）的理论为例，人脑在识别图像时，首先通过初级视觉皮层处理基本特征，如边缘、线条和方向。这类似于计算机视觉中的预处理步骤，提取图像的基本元素。然后从复杂的视觉输入中选取特定的特征位点，并记录它们的移动模式。这些特征的识别和追踪涉及神经细胞内的结构变化，如 Talin 蛋白的作用，以及新突触的形成与修剪。当遇到类似特征的极简图像时，大脑能激活相应的神经路径，实现联想，比如将动画中的抽象形状与已知的人物形象关联起来。</p>
+<p>而且人脑的模式识别有上下文联系的功能，会根据记忆、经验、期望和情境来辅助识别过程。</p>
+<p><strong>跟电脑里的大数据推荐和自动记忆联想很像。</strong></p>
+<p><strong>人脑通过重复的体验和记忆形成低阻抗的神经网络路径，这个过程类似于生成对抗模型学习。</strong></p>
+<p>随着对特定模式的多次接触，大脑逐渐形成稳定的识别模式，人脑的模式识别还涉及到遗忘机制，即“腐蚀”过程，这有助于去除不重要的神经连接，保留重要特征的识别路径。同时，通过强化学习，大脑会加强与目标行为相关的神经网络路径，这有助于更高效的识别和反应。</p>
+<p>举个简单例子，如果马上叫你想一个美女的形象，你很有可能脑海里立马出现一个东亚面孔，这跟 lora 生成的美女都是一个模子刻出来的道理类似，因为你从出生到现在的训练集基本上也都是东亚的。</p>
+<p>就是因为记忆和情感是有连续性的，而且你的训练集就是你的一生独特所见所闻，所以你对相同事物做出的反应和判断也类似，就结果来看，你就只有一个意识，这就是你的主人格，跟电脑的单一系统类似。</p>
+<p>但是对于身患分离性（<em>解离性</em>）人格障碍(Dissociative Identity Disorder，DID)的人来说（以下简称 DID），世界又是另外一种情况。</p>
+<p><strong><strong>在 DID 的情况下，主人格这个单一系统可能出现故障或异常。</strong></strong></p>
+<p>就像计算机在启动时可能遇到硬件或软件的问题一样，RAS 的功能受到干扰时，大脑就无法有效地整合外界信息，导致意识状态的分离和不同的身份表现。这种系统级的破坏可能导致个体无法正常维持一种连续、统一的自我感知。</p>
+<p>海马体是大脑中与记忆形成和存储紧密相关的区域，可以看成硬盘，杏仁体是大脑中与情绪、尤其是恐惧和应激反应密切相关的区域，可以看成电脑的防火墙。</p>
+<p><strong><strong>与健康受试者相比，DID 患者的海马体积小 19.2%，杏仁核体积小 31.6%。海马体积与杏仁核体积的比率在各组之间存在显着差异。</strong></strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8433a526015d99ad94fdc4791465eeb3_720w.jpg?source=8673f162" alt=""></figure>
+<p>也就是说，他们的硬盘和防火墙也不太能正常运转了。</p>
+<p>硬盘有大量坏道，游戏体验就跟心跳文学社差不多：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-29846ebcfd116d02cffea4a3bb513f01_720w.jpg?source=8673f162" alt=""></figure>
+<p>A 人格还在好好谈恋爱的时候，B 人格怎么就开始魔怔了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-718b1f0f8f0f9e9b4c7b6ca2adcc5089_720w.jpg?source=8673f162" alt=""></figure>
+<p>人格变成不连续的碎片化，可能某个人格还会消失掉。</p>
+<p><strong>在 DID 的情况下，杏仁体的功能可能异常，使得情绪反应失调，</strong> 产生过度的焦虑、恐惧或情绪崩溃。</p>
+<p>个体可能因为极端的应激事件而“分裂”成多个身份，以应对不同的情绪需求。就像一个计算机系统在遇到病毒攻击时突然进入了安全模式，安全模式虽然没有浏览记录没有加载训练好的大模型，但是可以免受外界攻击，DID 患者的情绪和身份就像这样，可能会随着环境的变化而“切换”，从而保护自己免受创伤或情绪伤害。</p>
+<p>在正常的大脑功能下，各个脑区（如海马体、杏仁体、前额叶皮质等）通过高度的神经连接和信息交换，维持着大脑的整体协调和一致性。然而，在 DID 患者中，脑区之间的正常联结和信息传递可能会受到破坏，导致“记忆断裂”或“身份切换”。这种切换通常是由于个体在极度的创伤下，试图通过“分裂”来隔离或避免痛苦的记忆和情感体验。</p>
+<p>可以类比为计算机的 RAM 突然断电，导致数据不再被有效存储或调取。由于系统的损坏或干扰，计算机可能会出现无法启动或频繁的错误信息，DID 患者的“身份切换”正是这种系统崩溃的表现。每个“人格”似乎像是一个独立的操作系统，它们之间缺乏协调，造成了认知、情感和记忆上的重大裂痕。</p>
+<p>DISC1 基因的变异也是导致严重精神分裂的一个因素。</p>
+<p>DISC1 基因编译的蛋白质通过与其他蛋白质的相互作用参与神经突生长和皮质发育。</p>
+<p>DISC1 基因变异就像是电脑主板或中央处理单元（CPU）上的某个关键部件出现了故障。</p>
+<p>数据传输错误：就像电脑的内存（RAM）或者总线连接出现问题，DISC1 基因的变异可能导致神经元之间的信号传递失常，导致大脑信息的交换不流畅。比如大脑处理思维、记忆和情绪等功能时，会出现“卡顿”或错误。</p>
+<p>程序崩溃：如果一个关键的硬件部分出现故障，可能会导致电脑程序崩溃或者无法启动。类似地，DISC1 的突变可能影响大脑的某些区域（如前额叶皮层、海马体等），从而导致思维、情绪和行为上的障碍，表现为幻觉、妄想或情绪不稳等症状。</p>
+<p>等等等等，诸如此类，牵一发而动全身，硬件和防火墙都崩溃的时候，系统也就崩溃了。</p>
+<p>希望这个比喻能有效回答你的问题，一个意识是为了节约资源和保护系统的，如果出现了大脑损伤，记忆和情绪的连续性被破坏就会出现多个意识，而这些多出来的意识可能会对身体的健康造成影响，那是一种有害的状态，只有一个意识才是记忆和情绪等健康稳定运行的表现。</p>
 <p>以上~</p>
-<p>参考文献：</p>
-<p>1Meta-analysis data of skeletal muscle slowfber content across mammalian species</p>
-<p>2Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle</p>
-<p>3Biochemical and physiological studies with free-living, nitrogen-fixing bacteria</p>
+<p>ref：1 Hippocampal and Amygdalar Volumes in Dissociative Identity Disorder</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1950166313797412688">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/6464718815">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788616</guid><pubDate>Sat, 28 Mar 2026 18:33:11 GMT</pubDate></item><item><title>人类进化为什么不卵生？</title><link>http://daily.zhihu.com/story/9788674</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8ee3073031ae90e1220cda9f055faeb4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788692</guid><pubDate>Sun, 29 Mar 2026 01:58:07 GMT</pubDate></item><item><title>为什么龟没有完全抢占鳖的生态位、淘汰掉鳖？</title><link>http://daily.zhihu.com/story/9788697</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-10fba33321e3fb69315fa389b1a1bfd3.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -137,123 +177,124 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/279604772/answer/1994436327056355822" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-b0a3e4598a57de66b24ee18009c38974_l.jpg?source=8673f162">
+<span class="author">祥昊，</span><span class="bio">别成天拿ai说车轱辘话了。</span>
+<a href="https://www.zhihu.com/question/11925442347/answer/125177205568" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>种了什么因，就收获什么果。</strong><strong>卵生的人类祖先都灭绝了。</strong></p>
-<p>灭绝的原因，和尿酸、尿素的代谢有关。</p>
-<p>含氮物质的代谢，可以追溯到生命诞生之初。</p>
-<p>在过去长达 30 亿年的时间，含氮物质的最终代谢产物变化不大。</p>
-<p>生物内有多种含氮物质，主要来源于氨基酸和核酸（如 DNA）。</p>
-<p>其中氨基酸的代谢是最为简单的，对于早期主要生活在水环境中的生物来说，只需要脱掉氨基，排出产生的氨气就可以了。</p>
-<ul>
-<li><em>氨基酸→氨气。</em></li>
-</ul>
-<p>其他含氮物质，大多也可以经过多个步骤转化成氨气排出。</p>
-<p>其中来自核酸的嘌呤最为特殊。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d0a0ecfb510d0f1355f0fa69b18cf15a_720w.jpg?source=8673f162" alt=""></figure>
-<p>它是特殊的双环、杂环结构，含有 4 个氮原子。</p>
-<p>它的化学性质比较稳定，通常处于强氧化剂、强酸、强碱条件下，结构才会发生改变。</p>
-<p>因此在生物体内，嘌呤都必须先代谢为尿酸（uric acid）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a902de3baa9d1a6fa88840b2bc2012c_720w.jpg?source=8673f162" alt=""><figcaption>嘌呤（Purine）到尿酸（uric acid）的生化过程</figcaption></figure>
-<p>对于早期生物来说，高尿酸带来的尿酸结晶不仅会导致胞体损伤，还可能干扰核苷酸代谢平衡。</p>
-<p>再加上其它各种各样的演化压力，最终早期生物多次独立起源发展出了<strong>尿酸酶</strong>（uricase），从而有了进一步代谢尿酸的能力。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d028dde0e3e00944672c9f5520b87f38_720w.jpg?source=8673f162" alt=""><figcaption>尿酸酶催化下，尿酸代谢为尿囊素</figcaption></figure>
-<p>尿酸被代谢为尿囊素（allantoin）后，易溶于水，不仅容易直接排出体外，也可以进一步代谢成尿素或氨气排出体外<sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f801cb0818d5215e564abba3ca6abd13_720w.jpg?source=8673f162" alt=""><figcaption>尿囊素代谢为尿素 / 氨的过程</figcaption></figure>
-<ul>
-<li><em>核酸（嘌呤）→尿酸 →尿素 / 氨气</em></li>
-</ul>
-<p>4 亿年前，当我们的祖先还是早期鱼类时，便是这样的代谢方式：</p>
-<p>几乎身体内的所有含氮物质，都可以转化成氨气，主要通过鳃排出体外。</p>
-<ul>
-<li>氨基酸 /<em>核酸（嘌呤）→氨气</em></li>
-</ul>
-<p>除此之外，早期的多细胞动物进化出了肾管 / 肾脏为中心的泌尿系统，来调节体内离子平衡。</p>
-<p><strong>然而，随着 3.6 亿年，肉鳍鱼登陆，一切都发生了变化。</strong></p>
-<p>随着肺的演化出现，含氮物质的代谢方式发生了变化。</p>
-<p>早期硬骨鱼发展出一个特殊的气囊，里面拥有毛细血管，可以交换氧气。因此同时具有辅助呼吸和调节浮力，提供升降作用的能力。</p>
-<p>肉鳍鱼这一支登上陆地后，把早期的气囊演化成了后来的肺<sup>[2]</sup>。而留在水里的硬骨鱼发展出辐鳍鱼以后，最终把气囊演化成了特化的鱼鳔，专一提供浮力的调节。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f2d7234dbbe4b397bf0137643c0c8d65_720w.jpg?source=8673f162" alt=""></figure>
-<p>随着肉鳍鱼发展成四足动物，鳃彻底消失，动物无法再通过鳃代谢氨气。</p>
-<p>氨气的高毒性，迫使动物不得不通过其它方式代谢含氮废物。</p>
-<p>早期动物进化出来的肝脏、肾脏，在此时发挥了关键作用。</p>
-<p>经过不断地淘汰迭代，动物演化出了<strong>尿素循环</strong>（urea cycle），把氨气代谢为尿素。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5383bafb6d77db92ae5d37b73dbae0d1_720w.jpg?source=8673f162" alt=""><figcaption>从氨气（左上）到尿素（左下），会经历一个复杂的代谢循环过程</figcaption></figure>
-<ul>
-<li><em>氨基酸→氨气→尿素</em></li>
-</ul>
-<p>尿素溶于水，可以通过泌尿系统排出体外。</p>
-<p>而嘌呤代谢的过程中，产生氨气之前，本身就会产生尿囊素、尿素等溶于水的物质，因此无需再经过尿素循环。</p>
-<p><em>核酸（嘌呤）→尿酸 →尿素</em></p>
-<p>所以，四足动物虽然逐渐脱离了水环境，但含氮废物的代谢和排泄方式（<em>尿素为主</em>）决定了，它们需要依赖大量的饮水。</p>
-<p>所以，两栖类难以长时间离开水源，不仅和皮肤有关，还和代谢的大量水需求有关。</p>
-<p>但随着繁殖过程彻底脱离水环境，羊膜动物出现，一切又发生了变化。</p>
-<p>有了前面的生化演化基础，3.2 亿年前，它们的后裔出现了两个方向的演化：</p>
-<ul>
-<li><em>合弓纲：先发展出类哺乳动物，后发展出现代哺乳动物。</em></li>
-<li><em>蜥形纲：现今的爬行类、鸟类，以及古生物学史上的恐龙，都源于此类。</em></li>
-</ul>
-<p>合弓纲适应较为湿润环境，氨基酸和嘌呤最终都代谢为尿素，通过摄入足够多的水来排出体外。</p>
-<p>绝大多数蜥形纲则省去了尿素代谢环节，不仅直接排除嘌呤产生的尿酸，甚至还把氨基酸代谢的尿素也转化成了尿酸，并最终以晶体形式排出体外，节约水适应干旱环境。</p>
-<p><strong>这样的代谢差异，以及地球气候的交替变化，直接决定了【龙兽争霸】的王朝兴衰。</strong></p>
-<p>2.98 亿年前，随着石炭纪因雨林崩溃事件而结束，二叠纪开启。</p>
-<p>高度依赖水环境的两栖动物遭到重创，但此时气候依旧较为湿润，给合弓纲的大繁荣创造了条件<sup>[3]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d259e51e7e433d9bea355987c563d8ca_720w.jpg?source=8673f162" alt=""><figcaption>各种体型的早期合弓纲动物</figcaption></figure>
-<p>2.51 亿年前，发生了五次大灭绝事件中最严重的二叠纪末期大灭绝事件，合弓纲和早期植被（蕨类）都遭到重创。</p>
-<p>随着三叠纪开启，因为植被的缺少，整个地球都表现出干燥、炎热、低氧的状态，甚至赤道附近一度缺少生命踪迹，被称为“死亡带”<sup>[4]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8a88bdece6d6180003f1690616f7c083_720w.jpg?source=8673f162" alt=""></figure>
-<p>干燥、炎热的环境让我们的兽类祖先在排泄上的更高需求量，成为了致命的缺点，从而导致了物种的大衰退。</p>
-<p>大多数蜥形纲，则因为排泄尿酸晶体需水量很少，从而在干燥的三叠纪，得到了繁荣发展。</p>
-<p>虽然到侏罗纪以后，气候再次湿润了起来，恐龙王朝已经取得了主宰地位。</p>
-<p>时间来到 6600 万年前，一颗小行星结束了白垩纪，也结束了经历近 2 亿年前的恐龙王朝。</p>
-<p>恐龙灭绝后，兽族才再次崛起。</p>
-<p>完全胎生的真兽起源于 1.6 亿年前，以中华侏罗兽为代表。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d89b4b8a8254aa6fcda3ed1f019ded0b_720w.jpg?source=8673f162" alt=""></figure>
-<p>哺乳动物祖先从卵生演化为胎生，其实也和尿素代谢方式有关。</p>
-<p>合弓纲动物的卵在孵化的过程中，尿素浓度也会随着胚胎生长发育的过程，不断代谢积累。</p>
-<p>达到一定的浓度，这些幼崽就只剩下了两个选择：</p>
-<p>要么留在蛋中的被尿素毒死 / 或水分过度流失死亡，要么破壳而出，作为“早产儿”迎接恶劣的环境。</p>
-<p>另一方面，尿素的易溶性，又方便通过胎盘进入母体循环而代谢。</p>
-<p>因此在一正一反的长期演化压力下，哺乳动物祖先最终发展出了胎生的方式，来提升后代的存活率。</p>
-<p><strong>所以，从某种意义上来说，不是人类不进化为卵生，而是卵生的人类远祖都灭绝了。</strong></p>
-<p>恐龙为首的蜥形纲所代谢的尿酸，由于微溶于水，能以白色胶状固体沉积快速排出，不仅直接的生化毒害低，且消耗水分极少，从而可以长期保持卵中的胚胎健康。</p>
-<p>而在胎生演化方面，它们则几乎面临着死胡同。尿酸沉积，无法通过胎盘进入母体。而且尿酸一般需要通过泄殖腔及时排除，才会维持低危害。</p>
-<p>胎生需要专门的产道演化，尿肠道分离，而这些都不利于尿酸排泄。</p>
-<p>可以说，无论是哺乳动物的胎生还是恐龙的卵生，都是种了什么因就收获什么果。</p>
-<p>从 3.6 亿年前的早期四足动物开始，一直到哺乳动物崛起，这一支的嘌呤代谢都以尿素为主，可以说相当的保守。</p>
-<p>而我们人类这一支，更是走向了一个极端，几乎彻底失去了尿酸代谢能力。</p>
-<p><strong>2000 万年前左右开始的基因突变，改变了早期类人猿的嘌呤代谢方式。</strong></p>
-<p>我们祖先的尿酸酶（uricase）基因发生了多个点突变（已鉴定 3 种）和插入 / 缺失事件，使其成为伪基因，失去了编码蛋白质的功能<sup>[5]</sup><sup>[6]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-896ed775adfb5c11b9ac8584e6dfb0c4_720w.jpg?source=8673f162" alt=""><figcaption>人类祖先与食肉目（共属北方真兽高目）分野后，尿酸酶逐渐减弱，直到最终消失（灰色部分，类人猿几次关键突变）</figcaption></figure>
-<p>由于这一时期的类人猿生活在果实丰富、低盐的环境中，高尿酸血症可能带来糖脂转化、抗氧化的存活优势<sup>[7]</sup>。</p>
-<p>或者由于奠基者效应等遗传效应，都使得后来的类人猿没有尿酸酶。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-41591c151893f590f13d51d569a852ee_720w.jpg?source=8673f162" alt=""><figcaption>遗传漂变与奠基者效应</figcaption></figure>
-<p>虽然类人猿的血尿酸（3~4 mg/dL）比其它哺乳动物更高（1~2mg/dL），但由于早期类人猿嘌呤摄入少，血液中尿酸含量并没有超出健康范围，所以野生非人猿类几乎不见痛风病例。</p>
-<p>然而随着人类这一支逐渐崛起后，饮食发生了截然不同的变化。</p>
-<p>狩猎能力提升，高蛋白、高嘌呤的摄入，是人类演化的关键，但也带来了痛风（尿酸结晶沉积）的后果。</p>
-<p>至少从智人开始，就可能已经有了痛风。</p>
-<p>健康成人血尿酸浓度男性范围为 3.5~7.2mg/dL，女性为 2.6~6.0mg/dL<sup>[8]</sup>。是其它类人猿的 2 倍左右，更是比其它哺乳动物高 3 倍左右。</p>
-<p>痛风病人的血尿酸浓度可以达到大多其它哺乳动物的 3~10 倍<sup>[9]</sup>。而对于我们熟悉的猫狗来说，这个倍数则可以达到数十倍以上。</p>
-<p>猫狗和我们有着 9000 万年的亲缘差距，它们的尿酸酶不仅具有功能，而且活性没有怎么衰退，它们身体内的血尿酸浓度可以低至 0.1mg/dL 左右<sup>[10]</sup><sup>[11]</sup>。</p>
-<p>是的，除了一些异常的动物，几乎只有人类才会痛风。</p>
-<p>不过这里所指的异常动物，主要是蜥形纲动物（包括鸟类）肾相关功能受损时，可能出现内脏 / 体腔的尿酸结晶沉积。</p>
-<p>严格来说，这并不能算是痛风。但至少和痛风一起，都属于尿酸沉积病。</p>
-<p>虽然人类祖先选择了胎生，但人类最终还是要和一些蜥形纲一样，承受尿酸沉积之苦，也是时也命也了。</p>
+<p>你以为是抢占生态位就是老鳖凶猛跑的快，</p>
+<p>对着乌龟一顿暴揍，乌龟壳硬防御高，对着王八一顿咬。</p>
+<p>实际上，龟鳖本一家，</p>
+<p>想当年，龟祖宗临终有交代：</p>
+<p>爷也没啥可以留给你们的，</p>
+<p>就有几条祖传的脱氧核苷酸，</p>
+<p>里面有肋骨改的龟壳，还有长脖一根可以传世。</p>
+<p>记住，你们的征途是星辰大海，去吧！！！</p>
+<p>龟孙儿！！！</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e96749dab1389ba78355b05a9d77a8e_720w.jpg?source=8673f162" alt=""><figcaption>龟鳖目の征服之路</figcaption></figure>
+<p>于是龟龟们开始在不同生态位寻找契机。</p>
+<p>以泽龟（Emydidae），地龟（Geoemydidae）平胸龟（Platysternidae）为首，</p>
+<p>守住了半水栖的基本盘。</p>
+<p>陆龟（Testudinidae）完全放弃水栖，远渡荒岛内陆，过起清心寡欲的日子。</p>
+<p>这俩大类合称陆龟总科（Testudinoidea）</p>
+<p>还有海龟（Cheloniidae）棱皮龟（Dermochelyidae）志承先辈荣耀，踏上了征服大海的征程。</p>
+<p>还有部分原始种在新大陆独自演化，就成了以鳄龟（Chelydridae）泥龟（Dermatemydidae）动胸龟（Kinosternidae）为基础的鳄龟总科（Chelydrioidea 2021 年新设）</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1176c1bec5cb930db0cdcf0d7f24ad4e_720w.jpg?source=8673f162" alt=""></figure>
+<p>而在半水栖的基础上，还有龟龟选择了更专业的水货生涯。</p>
+<p>比如有些龟龟专注于玩脖子，</p>
+<p>以至于脖子拉成长颈鹿，没法缩回去，</p>
+<p>于是就有了蛇颈龟总科（Cheloidea）、侧颈龟总科（Pelomedusoidea）两大家族。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-26ea4f3ab1606b9d19a576a9b7af709b_720w.jpg?source=8673f162" alt=""><figcaption>长颈龟の脖子花活</figcaption></figure>
+<p>还有一部分为了适应浅水生存，将龟壳退化为部分软甲，</p>
+<p>扁平的身躯有利于融入淤泥沙土，灵活伸缩的长脖有利于捕猎呼吸。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a0afdad791ad99ed7a839dcc145980af_720w.jpg?source=8673f162" alt=""><figcaption>一只藏在淤泥里的甲鱼</figcaption></figure>
+<p>再加上那尖鼻子尖嘴短尾巴，往河滩上一趴天生自带吉利服。</p>
+<p>那是能文能武，样貌非常猥琐。</p>
+<p>就是今个的主角，王。。啊，鳖科（Trionychidae）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fa3e57190514e7e4220483cfa3a98b31_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以说王八也是龟，而且是浅水特化的专业龟。</p>
+<p>伟人曰：庙小妖风大，池浅王八多，就是对鳖的习性极好的诠释。</p>
+<p>国内最常见的就是中华鳖。</p>
+<p>你说巧不巧，和中华鳖齐名共有仨，除了乌龟还有蛋。</p>
+<p>由于生活的环境接近，所以乌龟经常和鳖放在一起，</p>
+<p>虽然生存环境差不多，</p>
+<p>但是常见的比如中华草龟（Mauremys reevesii 俗称草龟）中华花龟（Mauremys sinensis 又叫中华条颈龟 ）等和中华鳖很少产生冲突。。</p>
+<p>这是因为龟龟多数为昼行性，以杂食性为主，</p>
+<p>食物包括水生植物、藻类、昆虫、小鱼等，比较喜欢在水体中上层觅食。</p>
+<p>而且性情温和，一般不咬斗。</p>
+<p>而鳖更喜欢夜间活动，擅长潜入泥沙捕食底栖生物，平时主要偏肉食为主。</p>
+<p>所以这俩除了晒背和生蛋的时可能有点竞争，</p>
+<p>干架的情况并不多。</p>
+<p>很少存在抢占生态位的情况。</p>
+<hr>
+<p>然而，本土乌龟讲规矩，不代表外来龟也听话。</p>
+<p>目前外来入侵物种巴西红耳龟（Trachemys scripta elegans）已经严重影响本土龟鳖的生存了。</p>
+<p>这个巴西红耳龟吧，俗称巴西龟或红耳龟，属于泽龟科，彩龟属动物，也叫红耳彩龟。</p>
+<p>最显著的特征就是眼睛后方有一块红色粗条纹。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-82bccfcdde413bb04c1898b351c778f8_720w.jpg?source=8673f162" alt=""><figcaption>巴西红耳龟（Trachemys scripta elegans）显著特征为而后红斑</figcaption></figure>
+<p>虽然叫巴西龟，</p>
+<p>却是源于北美密西西比河及格兰德河流域，所以也叫密西西比红耳彩龟。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-47bd3613c30916a371e3e367ee34c376_720w.jpg?source=8673f162" alt=""><figcaption>红耳龟三个亚种美国分布区域</figcaption></figure>
+<p>叫巴西龟的原因嘛，</p>
+<p>国内最早的时候引进的巴西产的南美彩龟（Trachemys dorbigni），</p>
+<p>由于二者极像，后续引进更便宜的红耳彩龟也就沿用了这个名称。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-227fc94efbbbdfea54423fee31ddefa3_720w.jpg?source=8673f162" alt=""><figcaption>南美彩龟（Trachemys dorbigni）</figcaption></figure>
+<p>由于最早彩龟属又被翻译成滑龟，所以南美彩龟也有一堆名字。</p>
+<p>黑腹滑龟是它，德奥比尼滑龟是它，杜氏滑龟也是它，斑彩龟，巴西斑彩龟全是它。</p>
+<p>简直看的人头皮发麻。</p>
+<p>那么问题来了，</p>
+<p>巴西龟看起来可可爱爱，</p>
+<p>也没啥太强战斗力，</p>
+<p>咋被世界自然保护联盟（IUCN）认定为世界 100 个危险入侵物种呢？</p>
+<p><strong>主要几点，便宜，能生，好养活</strong>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fe529d413586f064db8b5e2886c24a7a_720w.jpg?source=8673f162" alt=""><figcaption>巴西龟已入侵世界各地。</figcaption></figure>
+<p>相对于国内的龟龟佛系养生，巴西龟可以说是龟中卷王。</p>
+<p>作为一种淡水龟，却可以在 0.5%——1.5%盐度的半咸水中生活。<sup>[1]</sup></p>
+<p>2-3 岁就开始性成熟生崽，每年产卵 6-30 枚，</p>
+<p>而中华鳖最少 3-5 年，北方地区的甚至得 5 年以上，每年产卵也仅有 3-20 枚。</p>
+<p>幼龟运动能力和代谢率远超本土乌龟<sup>[2]</sup>，对温度的适应性更广，</p>
+<p>这意味着存活率会更高，更好养活。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c8a2b215aad0a4c77ea9692a473b5e5b_720w.jpg?source=8673f162" alt=""></figure>
+<p>巴西龟性情凶猛，会主动撕咬、驱赶竞争者，</p>
+<p>食性还极为广泛，以 鱼 、虾、螺 、昆虫 、蝌蚪 、蛙 、水生植物以及水域附近鸟巢中的卵和雏鸟为食。</p>
+<p>在和中华条颈龟的抢食试验里，表现出更强的攻击性，抢食能力远超中华条颈龟<sup>[3]</sup></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1c0e806f3c08a8273a376b08f0777401_720w.jpg?source=8673f162" alt=""></figure>
+<p>这就意味着即使巴西龟在泛滥之后极容易导致资源抢占，从而影响本土龟。</p>
+<p>在 2005 年，舟山晚报《普陀山敲响生物入侵警钟》报道，<sup>[4]</sup></p>
+<p>在普陀山海印池的抽样调查中，捞了 5 只样龟全是红耳彩龟。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4c182af529e730b1f9f64762b7b698b0_720w.jpg?source=8673f162" alt=""><figcaption>各种杂交出来的巴西龟，被注释 5 的文和贴吧老哥坑了一把，这花纹是巴西龟自己亲戚给杂交出来的。</figcaption></figure>
+<p>法国甚至还有巴西龟干扰欧洲池龟的交配行为的记录。<sup>[5]</sup></p>
+<p>现在你去寺庙的放生池瞅瞅，几乎全是挂着小红耳的巴西龟。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbe29d83c3bd239f116e8e5ff5516ecd_720w.jpg?source=8673f162" alt=""><figcaption>南普陀寺龟成灾 奇葩放生行为竟致环境大灾 | 北晚新视觉 </figcaption></figure>
+<p>这还是比较规范送寺庙放生的，</p>
+<p>野外的放生的红耳龟更是泛滥成灾。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c536393c7e9bd8e5a67215ee039cd450_720w.jpg?source=8673f162" alt=""><figcaption>野外发现的放生红耳龟</figcaption></figure>
+<p>只能说在红耳龟跑赢全国大部分龟鳖的事件里，</p>
+<p>善男信女们贡献了不可多得的力量。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc32504bf40742fde61063200c39989c_720w.jpg?source=8673f162" alt=""></figure>
+<p>然而，除了 2022 年将巴西龟列入《重点管理外来入侵物种名录》，</p>
+<p>我国目前并没有相关法规进行限制，</p>
+<p>红耳龟凭借着便宜好养的特性仍旧占据着花鸟市场龟类畅销榜的头把交椅，</p>
+<p>在 2020 年青藏高原甚至都出现了红耳龟个体出现的记录。<sup>[6]</sup></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a91bd5e37838efb5108092e820bc3c45_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个问题下可能大多数人在调侃鳖战斗力不错，跑的比孙杨快。</p>
+<p>实际上，如果随意胡乱放生，</p>
+<p>巴西龟真的会完全抢占鳖的生态位、最终淘汰掉野生鳖。</p>
+<p>不光是鳖，还有各种本土特有的各种龟类。</p>
+<p>只能说有的时候，无知的善良比恶更可怕。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0fbca40c20c081b452d8e7ba0f76112_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/279604772">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/11925442347">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788674</guid><pubDate>Sat, 28 Mar 2026 18:33:12 GMT</pubDate></item><item><title>为什么在各种字母文字里，只有西班牙文能做到「读写相符」？</title><link>http://daily.zhihu.com/story/9788682</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4bf6bf81cbd8407eba066e60039bc22e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788697</guid><pubDate>Sun, 29 Mar 2026 01:58:08 GMT</pubDate></item><item><title>为什么山东人喜欢吃知了猴？</title><link>http://daily.zhihu.com/story/9788702</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-0277cbae92490f4ca9b64b03743a25df.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -273,207 +314,48 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-a22354e847bd5bd0474c9158d8a26911_l.jpg?source=8673f162">
-<span class="author">莱茵行宫伯爵，</span><span class="bio">B站：河畔的伯爵</span>
-<a href="https://www.zhihu.com/question/1930638385401300209/answer/1934696665471759450" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-eb665fa780d6c2ffe7908debeb029b04_l.jpg?source=8673f162">
+<span class="author">斜绿天蛾，</span><span class="bio">点进主页你会发现，这人真就只在乎虫子</span>
+<a href="https://www.zhihu.com/question/285950491/answer/1937190917774742706" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong><strong>这跟美洲独立后的局势有很大关系。</strong></strong></p>
-<p>一种语言文字的书写规范，叫做正写法或<strong>正字法</strong>（Orthography）。</p>
-<p>一般来说，一种语言的正字法越强调读写一致，我们就说这种正字法越“激进”，反之读写差别越大，我们就说这种正字法越“保守”。</p>
-<p>这是因为，<strong>读写不一致的现象往往是由历史上语音的流变，以及各种传统的累积导致的。所以想要尽可能保留传统，就得更多接受读写不一致；想要读写一致程度高，就得放弃更多传统。</strong></p>
-<p>所以说，一种语言的读写一致程度，或者说正字法的激进程度，从根本上取决于改革派和保守派之间的博弈。</p>
-<p><strong>如果一种语言的读写一致程度很高，或者说采用了激进正字法，那多半是因为改革派在历史上的某个关键点占据了上风。</strong></p>
-<p>在西班牙语的案例当中，这个关键点就是美洲的独立。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ef35d6d5e3a8e042e47f32361fc56ad5_720w.jpg?source=8673f162" alt=""><figcaption>土耳其共和国建立后凯末尔主导的土耳其文字改革是 20 世纪最激进的正字法改革之一，改革后的土耳其语文实现了拼写高度一致。</figcaption></figure>
-<p><strong>19 世纪之后，新独立的西语美洲国家发起了一场正字法改革，要求实现更高程度的拼写一致，并制定了“贝略正字法”与西班牙分庭抗礼，倒逼西班牙加速改革拼写方案，最终形成了一套比较激进的的统一正字法。</strong></p>
-<p>之所以产生这样的结果，也是因为西语美洲国家独立后有足够的意愿改革语言文字，又有足够大的体量和影响力，以上两个条件缺一不可。</p>
-<p>作为对比，美国虽然独立了，但美国并没有大刀阔斧改变英语拼写的意愿，所以英语维持了拼写高度不一致，也从来没有统一正字法的局面。</p>
-<p>海地独立之后，创造了拼写高度一致的海地克里奥尔语正字法，但是海地在旧宗主国法国面前显然过于弱小，根本影响不到法语的主流。结果就是法语的正字法方案一直相当保守，保留了很多不发音的成分，这是为了体现法语的“历史传承”特别是同拉丁语的关系。</p>
-<p>那么，西班牙语是什么情况呢？</p>
-<p><strong>1823 年，拉丁美洲独立战争尚未完全落下帷幕，有“拉丁美洲文学宗师”之称的安德烈斯·贝略（<span class="nolink">Andrés Bello</span>）就在伦敦的杂志上发表文章，提出西班牙语应该实现字与音的完全匹配。</strong></p>
-<p>在他的文章里，贝略是这么说的：</p>
-<blockquote>“词汇拼写最大的荒谬之一，就是要求我们必须通过其追溯起源来确定写法。还有什么比把两三千年前人们的发音作为现代人的书写规则，进而将我们自己的发音作为两三千年后某些民族的拼写参考更违背理性的呢？”</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a5406ad9463f9d4533cf399b12bf233f_720w.jpg?source=8673f162" alt=""><figcaption>西班牙语追求拼写一致的传统可以追溯到 1492 年向伊莎贝拉一世献上《卡斯蒂利亚语语法》的学者内夫里哈。但是在 18 世纪末，西班牙语的正字法改革陷入停滞的局面，到 19 世纪初才被美洲独立运动重新点燃。</figcaption></figure>
-<p>贝略提出了一些拼写改革方案，例如彻底删除西语传承自拉丁语，但已不发音的字母“h”，把多音的“x”按照发音用不同字母表示等等。</p>
-<p>在贝略方案的基础上，19 世纪上半叶拉美自由主义知识分子的代表，多明戈·萨米恩托（Domingo Faustino Sarmiento，后来成为阿根廷总统）提出了更加激进的方案，并且推荐给了智利政府（当时萨米恩托正在智利流亡）。</p>
-<p>事实上，相比萨米恩托等人，贝略还算保守的。作为独立时期老一代学者的代表，贝略虽然批评西班牙是“野蛮国家”，但是他还愿意维系泛西班牙语文化圈的统一。</p>
-<p>而在那些年轻的自由主义知识分子当中，有人直接提出要引入外语特别是法语的元素，来改造美洲的西班牙语。还有激进者称，随着西班牙帝国的终结，西班牙语也应该像罗马帝国灭亡后的拉丁语一样，分化成几十种语言，美洲各国都会形成自己的民族语言。</p>
-<p><strong>在美洲国家知识分子激烈争论的同时，西班牙发生了变故。</strong></p>
-<p>1843 年，受大洋彼岸正字法争论的影响，西班牙首都马德里的一个基础教育教师协会“<span class="nolink">马德里</span>小学教师文学与科学学院”自发要求改革正字法，在不经西班牙政府批准的情况下，宣布采用一套新的拼写方案，包括合并发音相同的字母“b”和“v”，删除字母“h”以及不发音的“u”等等。</p>
-<p>小学老师们的这场“文字起义”只持续了一年。<strong>1844 年，西班牙女王伊莎贝拉二世签署法令，要求公立学校必须采用西班牙皇家语言学院颁布的标准正字法。</strong></p>
-<p><strong>也正是在 1844 年，智利政府正式采纳了以贝略方案为基础的改革正字法，史称“贝略正字法”。自此，西班牙语出现了两套分庭抗礼的官方正字法，一套来自欧洲，另一套来自美洲。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e40c8a0e794caa29bf92650b1fd3b26f_720w.jpg?source=8673f162" alt=""><figcaption>智利大学工程学院入口处的文字，建成时按贝略正字法写为 ESCUELA DE INJENIERIA，若现行标准拼写应为 ESCUELA DE INGENIERIA。</figcaption></figure>
-<p>“贝略正字法”在智利确立后，迅速开始影响其它西语美洲国家，特别是阿根廷、厄瓜多尔、哥伦比亚和委内瑞拉。</p>
-<p>正字法之争甚至引发了“文字狱”——在 19 世纪仍未独立的西属古巴殖民地，使用或宣传贝略正字法可能被当局视为煽动独立的表现，进而遭到逮捕。</p>
-<p><strong>在两套正字法竞争的大背景下，西班牙皇家语言学院改变了之前一个世纪的消极保守姿态，开始积极吸纳美洲西班牙语的元素，主动进行改革。</strong></p>
-<p>西班牙也充分利用作为前宗主国的影响力，向美洲推广自己的正字法。</p>
-<p>19 世纪的巴黎是拉丁美洲知识分子的聚集地，也是拉美事实上的“文化圣地”。西班牙政府非常重视巴黎的西班牙语书籍出版业，确保了巴黎出版的书籍用的都是西班牙皇家语言学院的正字法。</p>
-<p><strong>经过西班牙人的积极努力，智利正字法没能占据主流。</strong>19 世纪下半叶，美洲各国的知识分子陆续放弃了贝略正字法，只有智利还在坚持。1927 年，智利最终放弃贝略正字法，宣布采用西班牙皇家语言学院制定的正字法，结束了双方长达 83 年的对抗。</p>
-<p><strong>西班牙的正字法胜利了，但胜利的前提是向美洲国家让渡了不少权力。</strong></p>
-<p>特别是第二次世界大战结束后，1960 年前，由于西班牙佛朗哥政权被西方国家孤立，以墨西哥为首的美洲国家在西语语言文字领域一度掌握了很大话语权。</p>
-<p>1951 年，西班牙语语言学院协会（Asociación de Academias de la Lengua Española）在墨西哥城成立。在协会的架构当中，西班牙皇家语言学院事实上依然处于主导位置，但美洲各国也拥有话语权。在协会第一届大会上，大会决议推进正字法改革，追求读写一致，并兼顾各国方言。</p>
-<p><strong>在这个协作框架下，西班牙语最终维持了一套统一的正字法方案，直至今天。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7fd62aa8cae7765f01665f94bc1eae89_720w.jpg?source=8673f162" alt=""><figcaption>西班牙语语言学院协会的纹章。纹章周边的国旗体现了多元话语权，其中甚至包括了美国和菲律宾。</figcaption></figure>
-<p><strong>西班牙语正字法在欧洲各语种当中较为激进，也是这个历史过程的产物：</strong>1492 年西班牙语言学家内夫里哈（Antonio de Nebrija）强调的“拼写一致”原则，在 19 世纪欧洲美洲双方的博弈当中得到了确认和升华。</p>
-<p><strong>在激进传统影响下，现代仍有人持续呼吁改革正字法</strong>，其中代表人物是哥伦比亚作家、诺奖得主加西亚·马尔克斯。</p>
-<p>在 1997 年的西班牙语国际会议上，马尔克斯在演讲中再次提出合并“b”“v”，删除“h”，改革重音等提议，他甚至提出要改革语法，消灭西班牙语中“泛滥成灾的‘que’和‘de que’”。</p>
-<blockquote>我们应该将其（西班牙语）从规范的铁腕中解放出来，让它能够轻松自在地迈入下一个世纪。</blockquote>
-<p>尽管马尔克斯也自嘲说，这些建议或许过于天马行空。但是无论怎样都不可否认的是，这个美洲人——同时也是现代西语文学排名第一的作家的声音，具有足够的分量。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-1f82038b7736aaf78f069cdfb9421685_720w.jpg?source=8673f162" alt=""><figcaption>如果前殖民地比前宗主国更强大，结果会是怎样呢？答案就是葡萄牙语的情况！在 21 世纪以来的正字法改革当中，葡萄牙人经常抱怨现行方案“巴西化”太严重，而莫桑比克等非洲国家则不满巴西和葡萄牙两国的“霸权”。</figcaption></figure>
+<p><strong>因为它好吃！</strong></p>
+<p>参考某个问题，你甚至可以提问，<strong>“为什么蝉若虫要长得那么适合被吃”</strong>？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c76bfaa5006a54406400cb68b2e35e4f_720w.jpg?source=8673f162" alt=""></figure>
+<p>偌大的昆虫纲，还真没几种虫子像蝉一样那么适合人类食用。</p>
+<p>首先基本条件，蝉没有毒、不携带能感染人类的病原体和寄生虫。也不富集重金属。</p>
+<p>具体来讲，蝉是刺吸式口器、吃植物汁液的昆虫；甚至可以说，它们就是喝糖水长大的。这意味着它体内<strong>不含固体废弃物，没有异味，</strong>而且消化道也不发达，不影响口感、不需要剔除。不需要做任何处理，全身都能吃！</p>
+<p>知了猴不是蛹（虽然经常被叫做蝉蛹），不会经历全变态发育的组织溶解，只要是能捉到的都是准备羽化的末龄若虫，口感保持不变；</p>
+<p>就身体结构而言，蝉若虫有占比很大的强壮<strong>胸部肌肉</strong>，用于挖开土壤，抵达地面，爬上高处并固定自己，并在羽化后驱动翅膀；这些肌肉嘛，你懂的。都是满满的美味蛋白质呀！</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0861a5b90ce69669aa2ad02c8180ba77_720w.jpg?source=8673f162" alt=""><figcaption>蝉若虫的身材，满满的肉呀</figcaption></figure>
+<p>与其它吃植物汁液的昆虫，如蚜虫叶蝉之类不同，蝉科有许多物种体型足够大，足以满足直立猿这种体型的肉食动物！更要命的是，这些大体型的蝉，蚱蝉属 <em>Cryptotympana</em>，它是<strong>城市环境的优势物种！</strong>在你家楼下小区就能抓到，比云南的菌子还要方便</p>
+<p>不仅能吃，好吃，而且还好找，甚至好抓。</p>
+<p>它们爬的慢、无毒、不咬人，浑身上下连根刺都没有。甚至连抵抗意志都是缺失的，抓在手上不会反抗也不会逃跑，真正做到老少咸宜！</p>
+<p>美中不足的是…蝉发育缓慢（说实话，光喝糖水，只需个把年长这么大个已经很厉害了），因此不适合量产。野生的蚱蝉若虫只在每年特定季节的傍晚集中出现，妄图用数量应对天敌的捕杀</p>
+<p>于是遭到恐怖直立猿的集中围捕…</p>
+<hr>
+<p>至于你说为什么广东人不吃……其实也吃的，只是没有形成风气。像这种全民参与的活动，还是文化和习惯占大头。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c4dd2a6d4f9300541a23f7d20b3a7717_720w.jpg?source=8673f162" alt=""><figcaption>我好像不久前用过这张图。</figcaption></figure>
+<p>其实广东吃虫的没有刻板印象中的那么多。这年头要想找吃昆虫的餐厅都不容易了。</p>
+<p>另外有一点因素我也不确定——食材的来源。广东的蝉若虫似乎很不好找，<strong>我从没见过</strong>（我是广东人现在只是外出玩），而在杭州，第一天晚上就捡到好几只蚱蝉若虫。都是同一种黑蚱蝉，为什么会有这种差异，我目前还没有头绪。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-24bbd52b3ef391634dee75f21aca3ebb_720w.jpg?source=8673f162" alt=""><figcaption>在杭州拍到的，刚羽化不久的黑蚱蝉。</figcaption></figure>
+<p>云南吃虫的更多一些，当然，蝉若虫也是包括在内的。既然我现在就在这里，刚品尝过，就发个图。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-def3772ec52dc484cce2cb04e6609f95_720w.jpg?source=8673f162" alt=""><figcaption>emmm，我觉得昆虫拿来油炸不好吃。也可能是这个摊手艺不好</figcaption></figure>
+<p>刚羽化的蝉也能吃，据说更好吃，毕竟刚羽化时外骨骼是软的。但是不好捉。刚羽化的、处于脆弱状态的蝉是不容易遇到的，还得赶早，凌晨去捉。</p>
+<p>东南亚也有吃成虫的。那边会抓大量绿色的蝉，可能是 蜩蝉<em>Dundubia</em> sp.，在锅里煮着吃。感觉这种吃法有点浪费呢</p>
+<hr>
+<p>不过，还是提醒一句。虽然蝉适合食用，也真的很好吃；但这种饱和式捕捉是会破坏生态的。蝉必须在成功羽化后才能繁衍后代，而且繁殖周期长。种群数量容易受捕捉影响。</p>
+<p>大家捕捉的时候还是要留些活口，可持续发展嘛。</p>
+<p>如果只是想吃，可以选择吃养殖的，虽然肯定没那么有意思啦。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1930638385401300209">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/285950491">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788682</guid><pubDate>Sat, 28 Mar 2026 18:33:13 GMT</pubDate></item><item><title>为什么很少听说有鸟类之间的杂交和爬行类动物之间的混血，它们种族的生殖隔离很严重吗？</title><link>http://daily.zhihu.com/story/9788683</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-b4712c1933bad6dfadef7d9df3f85ae7.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-0940f055d33b6cb39928486943cd123e_l.jpg?source=8673f162">
-<span class="author">高sir，</span><span class="bio">科学丨教育&amp;生物老师丨公众号：高比先生</span>
-<a href="https://www.zhihu.com/question/427590384/answer/1948097116854552018" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>阿这，看来要先讲一个故事——达尔文雀。</p>
-<p>1981 年，加拉帕戈斯群岛上发生了一件看似平常的事——一只雄鸟飞到了达芙妮岛。</p>
-<p>这只鸟看起来像中地雀，但有些不对劲。</p>
-<p>它比当地的中地雀大 70%，鸣声也完全不同。</p>
-<p>当地的雌鸟从未听过这样的歌声。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8dd9e4c44ad8b0a429a83f1f289968d6_720w.jpg?source=8673f162" alt=""><figcaption>中地雀</figcaption></figure>
-<p>科学家们给它起了个绰号：大鸟。</p>
-<blockquote>基因检测显示，这只大鸟很可能是中地雀与大地雀的杂交后代，来自 8 公里外的圣克鲁兹岛。<sup>[1]</sup></blockquote>
-<p>它是一次偶然杂交的产物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1c1c36d432d98e58c84b129c6bd06794_720w.jpg?source=8673f162" alt=""><figcaption>大嘴地雀</figcaption></figure>
-<p>故事开始了，这只大鸟找到了一只当地雌性中地雀。</p>
-<p>它们交配了，产生了 F1 后代。</p>
-<p>你可能以为故事到此结束。杂交嘛，偶尔发生，没什么特别。</p>
-<p><strong>但接下来发生的事，将会震惊生物学界。</strong></p>
-<p>科学家们开始了一项史无前例的研究，他们标记了大鸟和它的每一个后代。</p>
-<p>年复一年地观察。记录每一次交配。追踪每一只幼鸟。</p>
-<p><strong>第一代后代与另一只中地雀交配。产生了第二代。</strong></p>
-<p>然后奇迹发生了。</p>
-<p>从第二代开始，所有的交配都发生在这个家系内部。</p>
-<p>它们只与自己的兄弟姐妹或堂兄妹交配，不再与岛上其他鸟类杂交。<sup>[2]</sup></p>
-<p><strong>这意味着什么？</strong></p>
-<p>生殖隔离。</p>
-<p>它们变成了一个独立的种群。</p>
-<p>科学家们见证了新物种的诞生。</p>
-<p>不需要几万年、不需要化石记录的推测。</p>
-<p>而是活生生发生在眼前的物种形成。</p>
-<blockquote><strong>仅仅三代，这个杂交家系就实现了生殖隔离，成为了一个新的物种。</strong><sup>[3]</sup></blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-095cdc5661a220f48a5f69db91067e04_720w.jpg?source=8673f162" alt=""></figure>
-<p>关于进化，传统进化理论强调渐进变化，新物种通过长期积累小的变异而形成。</p>
-<p>这个过程需要数万甚至数百万年。</p>
-<p><strong>达尔文雀颠覆了这个观念。</strong></p>
-<blockquote>它展示了一种被称为“同倍体杂交物种形成”的过程，即杂交后代在不改变染色体数量的情况下形成新物种。<sup>[4]</sup></blockquote>
-<p>这种快速物种形成在动物界极其罕见，以前我们认为只有植物才能这样快速分化。</p>
-<p>而达尔文雀生活在加拉帕戈斯群岛，这个岛屿无疑就是一个天然实验室。</p>
-<p>岛屿之间相对隔离，但偶尔有个体跨岛迁移。</p>
-<p>这创造了完美的杂交条件。</p>
-<blockquote>基因组研究显示，达尔文雀的进化历史充满了杂交事件的痕迹。不同种类之间持续发生基因交流，这种交流塑造了它们的遗传多样性。<sup>[5]</sup></blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-df41efa2a6579d10054ecfdd6b5c4585_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong><strong>我们很少听说鸟类杂交？</strong></strong></p>
-<p>不是因为杂交不常见，而是因为我们关注得不够。</p>
-<blockquote>最新研究显示，大约 16.4%的鸟类物种能够在野外杂交，如果算上圈养环境，这个比例达到 22%。<sup>[6]</sup></blockquote>
-<p>五分之一的鸟类能杂交。</p>
-<p>这个比例其实很高。</p>
-<p><strong>但我们为什么很少注意到？我觉得有两个比较重要的原因（鄙人肤浅之见）</strong></p>
-<p><strong>经济原因</strong></p>
-<p>我们关注哺乳动物杂交，主要因为农业需求。</p>
-<p>骡子有使用价值\牛羊杂交影响畜牧业。</p>
-<p>但鸟类杂交大多发生在野外,没有直接经济意义。</p>
-<p><strong>观察难度</strong></p>
-<p>鸟类活动范围大\飞行能力强。</p>
-<p>野外杂交个体很难被发现和研究,不像圈养的哺乳动物那样容易观察。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1d32bb437e5cb7baac5fdc09157710f4_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>其他鸟类有这样的情况吗？</strong></p>
-<p>当然有</p>
-<p><strong>绿头鸭</strong></p>
-<blockquote>已知绿头鸭能与至少 40 个不同物种杂交。<sup>[7]</sup></blockquote>
-<p><strong>为什么——饥不择食</strong></p>
-<p>雄性绿头鸭经常无法区分不同种类的雌鸭，或者说，不在乎——是女的就行！！。</p>
-<p>“不挑食”的态度，当然增加了杂交机会。</p>
-<p><strong>当然，根本原因是遗传兼容性。</strong></p>
-<p>绿头鸭与许多近缘物种的基因差异不够大，还能产生可育后代。</p>
-<p>不过，其实在鸟类中，雁形目（包括鸭、鹅、天鹅）表现出最高的杂交率。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a9c136c74cf4ee332812ac199ad502b2_720w.jpg?source=8673f162" alt=""></figure>
-<p>几乎所有的鸭类或鹅类之间都有杂交记录。</p>
-<p>为什么？</p>
-<p>求偶行为相似。</p>
-<p>大多数水鸟的求偶都包括游泳、展示、追逐等动作。</p>
-<p>不同种类的雄鸟容易误判其他种类的雌鸟。</p>
-<p>还有一种可能，就是强制性交配和种间巢寄生行为，这在水鸟中特别常见。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-dea8168bdb11866f715d1f2639dd1141_720w.jpg?source=8673f162" alt=""></figure>
-<p>白颊黑雁和雪雁的杂交后代</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2d9998fe0db3fd0737fd614c99e057ae_720w.jpg?source=8673f162" alt=""></figure>
-<p>斑头雁和雪雁的杂交后代</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-495927ae60c7a1e8d93d790517589f3a_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>现在让我们看看爬行动物</strong></p>
-<blockquote>在对 94 对遗传差异显著的蜥蜴物种的杂交研究中，大多数 F1 杂交后代都是可育的。</blockquote>
-<p>这说明爬行动物的杂交能力其实很强。</p>
-<p>我们之前有个误解，以为卵生动物天生不利于杂交。其实不是这样的。</p>
-<p>其实爬行动物们乍一看，是不容易杂交的</p>
-<blockquote>爬行动物有个特殊的“锁钥机制”，<strong>雄性爬行动物的生殖器官形态差异很大</strong>，这有助于维持物种间的生殖隔离。<sup>[8]</sup></blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-eb5648517c2e4999587ad4b53f6f258f_720w.jpg?source=8673f162" alt=""></figure>
-<p>简单说，不同种类的生殖器官很难匹配。</p>
-<p>但即使有这种阻隔，杂交依然发生。</p>
-<p><strong>而且产生了一个你意想不到的结果——单性生殖</strong></p>
-<blockquote>已知约 50 种蜥蜴和 1 种蛇能够完全通过单性生殖繁殖。这些单性生殖的种类，很多都是杂交的产物。</blockquote>
-<p>举个例子：鞭尾蜥</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c9f333ece2da19caf5df6f0436a379ab_720w.jpg?source=8673f162" alt=""><figcaption>Aspidoscelis neavesi</figcaption></figure>
-<p>这种蜥蜴现在完全通过克隆方式繁殖，但依然保持着遗传多样性。</p>
-<p>这怎么可能？</p>
-<p>很久以前，两个不同物种的鞭尾蜥发生了杂交。</p>
-<p>这种杂交给后代带来了强大的遗传多样性，然后这种多样性通过特殊的减数分裂机制得以保持。</p>
-<p>结果就是，雌性能够产生遗传多样的后代，不需要雄性参与。</p>
-<p>科学家甚至在实验室里重现了这个过程，通过让两个相关蜥蜴物种杂交，研究人员创造出了一个新的单性生殖物种。</p>
-<p>这个新物种被命名为 Aspidoscelis neavesi。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c63be756043068daefa02696d3f933f4_720w.jpg?source=8673f162" alt=""></figure>
-<p>看看更多案例：</p>
-<blockquote>在蛇中，不同种类的奶蛇之间能够产生可育杂交后代。<sup>[9]</sup></blockquote>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-18a25d14562cd7bc90773e07ee921e97_720w.jpg?source=8673f162" alt=""></figure>
-<p>在龟类中，红耳龟与地图龟也能杂交。<sup>[10]</sup></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f7f11e53d346cd0f26f6c8924277c6f3_720w.jpg?source=8673f162" alt=""></figure>
-<p>甚至在鳄鱼也有，古巴鳄与美洲鳄进行了杂交。<sup>[11]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-748656e2cb8db72223bd0bf6bbec0d80_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>现在回到你的最后一个问题：鸟类和爬行动物能杂交吗？</strong></p>
-<p>不能。</p>
-<p>鸟类和其他爬行动物的分化发生在约 2.5 亿年前。<sup>[12]</sup></p>
-<p>这个时间跨度太长了，遗传差异已经大到无法杂交的程度。</p>
-<p>杂交需要足够的遗传相似性。</p>
-<p>时间越久，物种分化越严重，杂交越困难。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/427590384">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788683</guid><pubDate>Sat, 28 Mar 2026 18:33:14 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788702</guid><pubDate>Sun, 29 Mar 2026 01:58:09 GMT</pubDate></item></channel></rss>
