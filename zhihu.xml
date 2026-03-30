@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Sun, 29 Mar 2026 18:34:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>为什么越接近现代动物的体型越小，而史前却有很多身形巨大的动物？</title><link>http://daily.zhihu.com/story/9788622</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c1b8984ecebf34cc34cf0f34731de747.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>知乎日报</title><link>https://daily.zhihu.com/</link><content:encoded><![CDATA[知乎日报 RSS feed]]></content:encoded><lastBuildDate>Mon, 30 Mar 2026 02:00:42 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>网传冰箱贴一直不挪会伤害冰箱，有科学依据吗？冰箱贴到底该怎么贴？</title><link>http://daily.zhihu.com/story/9788457</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-14ca86d62e6162c3fe32f53564195982.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -19,49 +19,317 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-2af481d1db0ae0c504fb2411e1548f92_l.jpg?source=8673f162">
-<span class="author">赵泠，</span><span class="bio">衣沾不足惜，但使愿无违。</span>
-<a href="https://www.zhihu.com/question/50911911/answer/2016812489870943763" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
+<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的战士。</span>
+<a href="https://www.zhihu.com/question/2016214590560625837/answer/2016248310512525870" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>不是那样</strong>。现存的蓝鲸是可确认的地球历史上个体体积最大、个体体重最大的动物。人们科学地测量过身长 27.6 米、体重 177 吨的蓝鲸，记录过身长 33 米的蓝鲸但未称量。任何已知的古动物用正常方法估算的体重都没有这么大。</p>
-<p>而且，大多数恐龙的体型并不惊人。估计现有化石代表的上千个非鸟恐龙物种的中位体重低于 1 吨，这还受到小型物种的化石更难形成且更难保存下来的影响。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-328a5ec1ee66c9807ec1e0874cb0b85e_720w.jpg?source=8673f162" alt=""><figcaption>Campione, N. E. and Evans, D. C. 2020. The accuracy and precision of body mass estimation in non-avian dinosaurs. Biological Reviews. DOI: 10.1111/brv.12638</figcaption></figure>
-<p>这问题的补充说明声称“恐龙时代的蜈蚣都有汽车那么大”，这是以讹传讹的——将石炭纪的倍足纲 - 节胸目 - 节胸科 - 节胸属动物搬到“恐龙时代”并夸大体型。这些动物并不是蜈蚣<sup>[1]</sup>。</p>
-<p>2021 年发现的一具 <em>Arthropleura armata </em>蜕皮化石推定体宽约 55 厘米，推定体长约 1.9 至 2.63 米，推定体重可达 50 千克<sup>[2]</sup>，这是已知范围内陆地上出现过的体重最大的节肢动物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e77cde46f52965292ac08cb3dc12b2ad_720w.jpg?source=8673f162" alt=""><figcaption>By Junnn11 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113699642</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7bfbbbdf454388c7f352ae13f225f89b_720w.jpg?source=8673f162" alt=""><figcaption>https://www.researchgate.net/figure/Arthropleura-armata-Jordan-1854-from-the-late-Moscovian-Westphalian-D-of-the-San_fig3_350580197</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6b4b6c7cb40f8704829321314f1d7079_720w.jpg?source=8673f162" alt=""><figcaption>https://www.researchgate.net/figure/color-online-Impressive-comparative-size-of-Arthropleura-armata-the-up-to-25-m-long_fig1_350580197</figcaption></figure>
-<p>关于古生物的新闻报道和民间传说经常片面夸大古生物的体型、将不同时代的大型动物堆在一起报道、严重忽视小型生物的压倒性数量与多样性，有意无意地歪曲了你对生物体型的印象。</p>
+<p>某些水平低下的工作者，滥用 AI+ 虚假引用，制造出来的「造谣式科普」罢了。</p>
+<p>只能说，有些人的工资，真是太好拿了。</p>
+<p><strong>先把结论放在前面：所谓“冰箱贴一直不挪伤害冰箱”是一派胡言。</strong></p>
+<p><strong>大部分冰箱贴轻巧、安全，偶尔挪动、清洁有益家庭卫生，为了避免生锈留印隐患，可以裁剪保鲜膜放在冰箱贴磁铁后面。</strong></p>
+<p>让我们来看看这篇“科普”，多个媒体用了相同的文案，目前浏览量最多的推送来自「新某某」。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2eadbe8e9cbb16c9ffc176f2ff18b4e1_720w.jpg?source=8673f162" alt=""><figcaption>还有一大堆媒体用同标题转发，大家感兴趣可以看看都是些什么号</figcaption></figure>
+<p>原文在问题描述里有，简言之总结了三点「冰箱贴一直不挪会伤害冰箱」的三点原因：</p>
+<p>1.冰箱贴长期固定在一处磁性会增强，难以取下，留下“磁性印痕”；</p>
+<p>2.大量冰箱贴过重，长期集中某一部位能让冰箱门形变，冷气外泄更费电；</p>
+<p>3.冰箱贴与冰箱门之间的微小缝隙，藏污纳垢细菌滋生。</p>
+<p>好，让我们一个一个看，一个一个分析。</p>
+<p><strong>第一点，软磁材料长期固定在同一位置，磁性增强难以取下。</strong></p>
+<p>胡扯。</p>
+<p>原文的解释是，冰箱贴的软磁材料，磁稳定性受环境影响，会在局部区域集中增强。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b52bb0795717cf875a794890bb991eed_720w.jpg?source=8673f162" alt=""></figure>
+<p>还引用了一篇文献，来支持自己的表述。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-de3e7a8e1784cb457e3b4fdff6ad54f4_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>幽默的来了，他引用的论文，大概讲了个啥呢？</strong></p>
+<p>它讲的是，研究者们发现，把非晶态软磁材料做成极细的窄条，再把它的易磁化轴，倾斜到和条带长度方向成 70° 左右的角度，这个材料就解锁了个新技能：</p>
+<p>平时不加特殊磁场时，整个条带里的磁性方向完全统一，这时候它的导磁能力特别低；</p>
+<p>一旦给它加上一个特定的磁场，它就能分出好多方向不同的小磁畴，导磁能力会瞬间大幅提升。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8e1cefab6b80e65c933a4965aae33189_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>跟“科普”里说的，环境温度、冷热循环、水汽变化让冰箱贴磁铁磁性增强，有一分一毫的关系吗？</strong></p>
+<p>疑似让大模型随便找了一个支持自己论点的，先射箭再画靶子，压根就没去看原文。</p>
+<p>今天是 3 月 14 日，国际π日，就可以一派胡言了吗？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0630c94186ceb9732948f541abf28fda_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>事实上，我们能感知到的磁性增强，不可能在冰箱贴这种场景里实现。</strong></p>
+<p>那有人会问了，我的冰箱贴贴久了的确拿不下来啊，这又是怎么回事？</p>
+<p>一方面，有的冰箱贴背面有硅胶垫、橡胶垫，老化发黏，是他们粘在了冰箱上。</p>
+<p>另外一方面，有些油烟大的厨房，油污在冰箱贴与冰箱的缝隙间固化上了。</p>
+<p><strong>跟“磁性增强”，没有任何关系。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d683a40f331b918bd4564f24e07f31bb_720w.jpg?source=8673f162" alt=""></figure>
+<p>另外，所谓的“在金属表面留下磁性印痕，难以恢复”。</p>
+<p>我不知道“磁性印痕”这个疑似 AI 造的词是个什么东西，只能假设它想说的是金属表面或内部产生「剩磁」。</p>
+<p><strong>冰箱贴的磁性，也就几十到几百高斯，几乎不能在冰箱门板上产生普通仪器可检测的剩磁。</strong></p>
+<p>这能影响个啥？我请问了。</p>
+<p>真要说担心冰箱贴留下什么“印痕”，还不如担心磁铁（尤其是黑软磁铁）上锈的问题。</p>
+<p><strong>可以裁一块保鲜膜垫在磁铁下面，避免这种情况。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-54ad4a08e8303111466fe4b7daedee04_720w.jpg?source=8673f162" alt=""></figure>
+<p>再说第二点：</p>
+<p><strong>大量冰箱贴会让冰箱门不堪重负，变形漏气。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-93c8c0fade63ecfa546e874d7e91519f_720w.jpg?source=8673f162" alt=""></figure>
+<p>太高看冰箱贴了。</p>
+<p>一个冰箱贴，也就几克到几十克，上百克立体冰箱贴，都算大的了。</p>
+<p><strong>就当下冰箱门的结构强度，你得弄几公斤重的冰箱贴、集中贴在冰箱门的最边缘位置。</strong></p>
+<p><strong>理论上，才有可能产生影响。</strong></p>
+<p>这已经完全超出了正常的冰箱贴使用场景。</p>
+<p>如果多放一些就能让冰箱门不堪重负变形，甚至铰链不堪重负门板位移漏气的话，该考虑的是产品质量有问题。</p>
+<p>或者，该换密封条了，这东西本身就是消耗品。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a28ef47bb73bb14942621f0412a4b664_720w.jpg?source=8673f162" alt=""></figure>
+<p>第三点，也是唯一有点道理的一点：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-14bd38feaf8526d339bfed7d23acf4d6_720w.jpg?source=8673f162" alt=""></figure>
+<p>毕竟，冰箱贴无论如何，都会与冰箱间留有缝隙。</p>
+<p>厨房又无法避免油烟，大家的冰箱如果在厨房的话，可以摸一把冰箱顶部，会有厚厚一层油泥。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6733a1c3f4b4000186898194e20db5f1_720w.jpg?source=8673f162" alt=""></figure>
+<p>那东西本身就是油脂、灰尘的混合物，滋养细菌是没话说的。</p>
+<p><strong>但话又说回来了，这东西得污染成什么样子，才能从门板上跑到冰箱内部，“影响食材卫生”？</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e64d3245ba6c2405764f98bf85fafe99_720w.jpg?source=8673f162" alt=""></figure>
+<p>小编你住在纳垢花园里吗？</p>
+<p>什么细菌能渗透钢板进入冰箱内部？</p>
+<p><strong>冰箱贴下的缝隙微生物量极小，贴的位置基本又不靠近缝隙，能污染食物比中彩票都难。</strong></p>
+<p><strong>这里又犯了一个老毛病，引用文献跟输出内容毫无关系。</strong></p>
+<p>引用研究说的是，冰箱在专业清洗后食物隔板、蔬菜框和密封条的含菌量明显降低，指出专业清洗冰箱是有用的。</p>
+<p>到这就没了，跟「冰箱贴滋生细菌，渗透到冰箱内部，影响食材卫生」，有哪门子的关系？</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ffaa15a1bed9c309cc846774156b1f9c_720w.jpg?source=8673f162" alt=""></figure>
+<p>最后就是个收尾性结尾了,莫名其妙“从材料学角度看”，疑似 AI 写完个人改的。</p>
+<p>典中典之冰箱贴影响冰箱寿命：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ae3e15a76d9baccacf584d14361dbf2_720w.jpg?source=8673f162" alt=""></figure>
+<p>好了，到这，这篇 ** 不通的“科普”就结束了。</p>
+<p>很难想象，这种水平的“科普”，有如此多账号发布，不乏一些顶流。</p>
+<p><strong>写“科普”的人，连基本的科学素养都没有。</strong></p>
+<p>总而言之——</p>
+<p>所谓“冰箱贴一直不挪伤害冰箱”是一派胡言。</p>
+<p>大部分冰箱贴轻巧、安全，偶尔挪动、清洁有益家庭卫生，为了避免生锈留印隐患，可以裁剪保鲜膜放在冰箱贴磁铁后面。</p>
+<p>以上</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2016214590560625837">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788457</guid><pubDate>Mon, 30 Mar 2026 02:00:39 GMT</pubDate></item><item><title>为何自黑猩猩以后，几乎所有人类亚种全部都灭绝了？</title><link>http://daily.zhihu.com/story/9788458</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-9132b41e5069b9744f4da31f987c54db.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/607606990/answer/2017444278469666741" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p><strong>因为人种斩杀线。</strong></p>
+<p>环境大杀器、竞争淘汰、演化死胡同是一个人种堕落斩杀线的三大根本原因。</p>
+<p>在生态学上，有一个概念叫做<strong>阿利效应</strong>（Allee effect）：</p>
+<blockquote>平均个体适合度与种群密度或种群大小，存在正相关的现象。</blockquote>
+<p>说人话就是，对于一个阿利物种，当种群量低于某个临界阈值，就会不可逆的衰退，甚至走向灭绝。</p>
+<p>这简直非常标准的符合斩杀线定义。</p>
+<p>一般来说，越是群居动物，阿利效应越强。</p>
+<p>而人类祖先至少在 4000 万年前，新旧世界猴的起点，就已经是典型的群居动物，生存和繁衍高度依赖社群关系和亲代照顾，且群居特性随着演化不断强化。</p>
+<p>所以人类具有非常典型的人种斩杀线：</p>
+<p>当种群规模低于<strong>最小可生存种群</strong>（Minimum Viable Population，MVP），掉入阿利效应临界阈值之下，就会不可逆地走向灭绝。</p>
+<p>纵观整个人类演化史，<strong>环境大杀器、竞争淘汰、演化死胡同</strong>是一个人种堕落斩杀线的三大根本原因。</p>
+<p><strong>而环境的剧变，早在 3000 万年前，就埋下了伏笔。</strong></p>
+<p>因为板块运动，南极洲与澳大利亚分离，出现永久冰盖。青藏高原也已经隆起，并很快上升到了 3000 米高度。全球季风、洋流和气候，都彻底改变。</p>
+<p>东非高原也在逐渐形成，并在接下来 1000 万年的时间里，犹如被巨擘之力劈开，形成长达 6500 公里的东非大裂谷。</p>
+<p>以上的综合原因，使得东非、北非的气候走向了极端。</p>
+<p>一年四季都非常干旱，冬天还带着严寒 buff，而夏天则带着炎热、强烈紫外线 buff。从此以后，不再存在稳定的大规模森林，不仅碎片化，还不断变迁。</p>
+<p>此时人类与猴科有着最后的共同祖先，正在朝着古猿演化，一开局就进入了地狱模式 1.0。</p>
+<p>现在很多人问，为什么现在的猴子不进化成人类了。</p>
+<p>其实站在猴子的立场，它们才是森林生态位的成功者，而人类的祖先才是失败者。</p>
+<p>演化是被动淘汰的过程。</p>
+<p>正是因为在森林生态位中竞争不过猴类祖先，在森林边缘生态位中竞争不过黑猩猩的祖先，人类祖先在被迫走出了森林。</p>
+<p>通常认为，乍得沙赫人（<em>Sahelanthropus tchadensis</em>）接近我们与黑猩猩共同祖先的样子，图根原人（<em>Orrorin tugenensis</em>）和地猿（<em>Ardipithecus</em>）则是之后的早期近人古猿，已经属于人亚族（Hominina）。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4649fd72d219d99020b7333bff7477fe_720w.jpg?source=8673f162" alt=""></figure>
+<p>虽然它们已经初步掌握直立行走，但依旧高度依赖森林环境。</p>
+<p>它们其实非常适应森林边缘地带，不仅能在开阔的地面长期活动，遇到危险时，还能重新回到树上躲避天敌。</p>
+<p>同时森林里丰富的水果、嫩叶以及坚果，也能给它们提供食物。</p>
+<p>但如果你稍微了解一点生物演化史，就会发现，这样不上不下是最容易被淘汰的。</p>
+<p>当森林稳定时，它们具有生存优势，但当森林退化时，它们便可能因为失去庇护所、食物短缺而种群衰退，最终在环境大杀器和演化死胡同的双重作用下，跌落斩杀线而灭绝。</p>
+<p>无法栖息在森林，自然只有适应干旱草原的才能生存下来。</p>
+<p>很有可能与地猿关系较近的一支，最终彻底适应长期直立行走，从 400 万年前，逐渐发展成了南方古猿。</p>
+<p><strong>提到南方古猿，很多人可能总有一种很废的感觉。</strong><strong>但其实它们非常的成功。</strong></p>
+<p>即便在寒冷的非洲草原，依旧非常强势。</p>
+<p>它们曾广泛分布于东非、南非，甚至中非大地，发展出大量的支系。</p>
 <ul>
-<li>巨像秘鲁鲸在不严谨地高估时可能比蓝鲸重，正常估计比蓝鲸轻得多。</li>
+<li>阿法南方古猿 <em>A. afarensis</em></li>
+<li>非洲南方古猿 <em>A. africanus</em></li>
+<li>湖畔南方古猿 <em>A. anamensis</em></li>
+<li>羚羊河南方古猿 <em>A. bahrelghazali</em></li>
+<li>近亲南方古猿 <em>A. deyiremeda</em></li>
+<li>惊奇南方古猿 <em>A. garhi</em></li>
+<li>源泉南方古猿<em> A. sediba</em></li>
 </ul>
-<p><a class="internal" href="https://www.zhihu.com/answer/3148729780">科学家可能发现史上最重动物，古代鲸体重或达 340 吨，有哪些研究价值？</a></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-67f400602cb958ff786be539d79203a8_720w.jpg?source=8673f162" alt=""></figure>
+<p>南方古猿这么成功了，那么它们又是如何被斩杀的呢？</p>
+<p>其实与大多数人的想象不同，南方古猿的巅峰时代，持续的时间非常久，至少有 100 多万年的时间。</p>
+<p>大约在 280 万年前左右，南方古猿发展出了两个大类。</p>
+<p>一支为强化个体能力、植食能力的粗壮型，它们最终发展为傍人（<em>Paranthropus</em>）。</p>
+<p>一支起源于阿<strong>法南方古猿</strong>，为强化群体能力、狩猎能力的纤细型，并最终发展为真人属<sup>[1]</sup>。也即人属，我们通常所说的人类。</p>
+<p>傍人非常像恐龙王朝的三角龙，通过容易获得的植食和重装获得了成功。然而，生物演化越专化，也容易进入演化死胡同。它们最终，逐渐走向了衰落。</p>
+<p>这个衰落的大背景，正是一场巨大的环境大杀器——第四纪冰期。</p>
+<p><strong>而我们的人属祖先，第一个被称为人类的人，正是在这样的环境大杀器前后诞生。</strong></p>
+<p>第四纪冰期，开始于 258 万年前。</p>
+<p>它标志着，整个地球，进入 5 亿年来的温度最低谷（之一）<sup>[2]</sup>：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2302e004cf23ef99d67e5a5eb2069031_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e403b2c01e602407a8e30bd7b879a258_720w.jpg?source=8673f162" alt=""><figcaption>注意这个图时间区间前后不同：前 - 百万年，后 - 千年</figcaption></figure>
+<p>此时气候不仅寒冷，还因为米兰科维奇周期（Milankovitch cycle）的影响<sup>[3]</sup>，呈现激烈的周期性变化<sup>[4]</sup>，表现为冰期与间冰期的不断循环。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a30bfb7bbe1acc6dc48595349dc7d258_720w.jpg?source=8673f162" alt=""><figcaption>米兰科维奇周期：地球公转轨道形状在近圆（偏心率约 0.005）与椭圆（约 0.06）之间的周期性变化。</figcaption></figure>
 <ul>
-<li>“新西兰大鱼龙”之类也如此：只在故意往大了说的时候，体重可能超过蓝鲸。</li>
-<li>将蜥脚类恐龙的体重估计得比蓝鲸还大的案例稀少，证据也不够。</li>
+<li><em>冰期通常发育于米兰科维奇周期偏心率极小值时期。短周期‌约 10 万年‌，长周期约 40 万年。</em></li>
 </ul>
-<p>历史上，一些恐龙的体型与鸡相仿。例如 <em>Foskeia pelendonum</em><sup>[3]</sup>：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2c7e51c7476309c6545da33eb8c8edb8_720w.jpg?source=8673f162" alt=""><figcaption>DOI: 10.1002/spp2.70057</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-2cfa5993220d340a5fbe2d0e3743e2fc_720w.jpg?source=8673f162" alt=""><figcaption>DOI: 10.1002/spp2.70057</figcaption></figure>
-<p>自动物诞生以来，体型较大的动物在环境不利时灭绝率明显高，这归因于体型较大的动物的个体数量通常较少、个体维持生命需要的食物供应通常较多。“现存动物的最大体型”随时间流逝而波动。</p>
-<p>对于昆虫之类特定类群，石炭纪的巨脉蜻蜓轻而薄的大翅膀（最大翼展约 71 到 75 厘米）让人产生了不准确的印象，其典型估计体重约 100 克，低于现存的大王花金龟 <em>Goliathus goliatus</em> 幼虫（约 115 克）——当然，历史上也有估计巨脉蜻蜓的体重为 150 到 450 克的文章，但给它超过 100 克的体重会带来严重的飞行时散热问题。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6b27aeec61ab91ce75043b67b613e0a0_720w.jpg?source=8673f162" alt=""></figure>
+<p>虽然一开始冰期相对没有那么长，但循环却非常快，大约每 4.1 万年便会经历一场冰期 - 间冰期周期。</p>
+<p>完全可以说，第一个人类诞生后不久，就进入了地狱模式 2.0 版本。</p>
+<p>人属起源时，早期规模极小，但在这样的逆境下，依旧不断发扬壮大。到 240 万年前，能人诞生时，已经有了不小的规模。</p>
+<p>早期人类能在寒冷中逆袭，离不开灵活的双手。</p>
+<p>此时他们已经能使用简单的石器，获取肉食的能力大大增加。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bd3ff8d3e32d5caf5b3c0d6d202dccf5_720w.jpg?source=8673f162" alt=""></figure>
+<p>灵活双手是我们祖先点开的强大金手指，它驱动着大脑算法升级，而肉食摄入的增加，则支撑着大脑硬件的扩容，共同促使着大脑飞速膨胀。</p>
+<p>南方古猿的脑容量大约为 400~500ml，能人等早期人类的脑容量已经达到 600~800ml。</p>
+<p>一边是环境的严酷，一边是人属的强大竞争力，南方古猿等人属表亲，自然逐渐跌落斩杀线，最终在 200 万年前走向了灭绝。</p>
+<p>也正是在 200 万年前，早期人类中的一支，发展出了更为先进的直立人。</p>
+<p>关于直立人，这里必须说明一下。</p>
+<p>广义上从这以后诞生的所有人种，都属于直立人，未来的智人也包含在内。</p>
+<p>不过狭义上，直立人单指第一批走出非洲的古人类，尤其侧重于在欧亚独立发展的直立人。</p>
+<p>大名鼎鼎的北京人、元谋人便属于狭义上的直立人。</p>
+<p>为了避免混淆，本期我们就采用广义上的直立人定义。</p>
+<p><strong>直立人的出现，标志着恐怖直立猿正式登上了历史舞台。</strong></p>
+<p>2013 年《Nature》上的一篇重磅论文，揭示了人类化身恐怖直立猿的真相<sup>[5]</sup>。</p>
+<p>我们知道，黑猩猩也会扔东西，但它们扔东西的能力很差。</p>
+<p>成年雄性黑猩猩的爆发力高于成年人类男性，但它们的投掷速度却仅仅只有 8 岁小孩的一半，而且准度也非常随缘，很难有远程实战的能力。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-94bcf916290a34cdd664500cb74b74d0_720w.jpg?source=8673f162" alt=""><figcaption>大臂与小臂之间的夹角变得更小，扭转更加高效，减少多余运动阻力</figcaption></figure>
+<p>相比起黑猩猩，我们直立人祖先的身体结构，发生了很大的变化。</p>
+<p>不仅有宽肩膀，大长腿，伸展的手腕。还优化了肩部和整个手臂的骨骼肌肉结构，不仅变得更加灵活，也能更高效地储存和释放来自腰臀的弹性能量。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f32159ad7d65986289bde157d837f232_720w.jpg?source=8673f162" alt=""><figcaption>胸大肌屈曲力与扭转力对齐，直接高效加速大臂，提高稳定性</figcaption></figure>
+<p>高速、稳定、持久的投掷能力，使得人类以恐怖直立猿的身份，开始颠覆整个食物链，再也没有任何天敌。</p>
+<p>他们不仅开始常规性吃肉，还逐渐掌握了自然火种的使用，脑容量开始爆发式增长<sup>[6]</sup>，平均脑容量达到 1000ml。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9bd08ed44a748c13241a02f096b2cc27_720w.jpg?source=8673f162" alt=""></figure>
+<p>从此以后，随着人类在蓝星上开疆拓土，也伴随着大量哺乳动物的灭绝。</p>
+<p>前所未有的优势，使得早期直立人获得了很大的成功，很快开始辐射发展。</p>
+<p>一支率先走出非洲，发展出后来北京人等狭义上的直立人，通常认为这一支与现代人类无关。</p>
+<p>留在非洲的另一支，则以匠人（<em>Homo ergaster</em>）为代表。</p>
+<p>170 万年前左右，是直立人发展的一个分水岭。</p>
+<p>大脑和双手互相促进，使得它们从早期粗糙的奥杜威石器文明，跨入到了先进阿舍利石器文明阶段。</p>
+<p>此时的他们不仅能用灵巧的双手，打造出手斧、手镐和薄刃等大型切割工具，更是能对尖部、刃部进行精细加工处理，从而使得他们能进行大规模的切割、砍伐，以及挖掘工作。</p>
+<p>大量的阿舍利石器不可能靠一己之力打造，这背后甚至可能有着人类原始工业的雏形，它是人类集体力量的早期展现。</p>
+<p>从此以后，直立人持续了长达 100 万年的辉煌。</p>
+<p>而之前的傍人、能人，以及一些早期直立人，自然纷纷跌落斩杀线，最终走向了灭绝。</p>
+<p>当一个物种大辐射发展，获得巨大成功后，分化在所难免。</p>
+<p>120 万年前，第四纪冰期变得更加的极端，冰期 - 间冰期周期，从 4.1 万年一个循环，转变为 10 万年一个循环。</p>
+<p>地球进入地狱模式 3.0 版本。</p>
+<p>不仅间冰期所占的比例缩短了，冰期变得更长，也变得更加严寒。</p>
+<p>再加上激烈的生存竞争，迫使人类祖先发生了进一步的演化。</p>
+<p>大家现在都是恐怖直立猿，身体构造等硬件层面都已经优化，竞争优势自然就落在了软件上面。</p>
+<p><strong>最终，一支继承成阿舍利石器文明的直立人分化出了智人的最早祖先。</strong></p>
+<p>他们的大脑进一步发展，在社交关系、群体合作、工具制造等方面，开始表现出优势。</p>
+<p>甚至很有可能，他们已经有了语言。</p>
+<p>关于语言的演化本期就不细说了，保守的观点认为，智人的出现人类才有了语言，而激进的观点则认为。人属出现以后便有了原始的语言。认为语言在直立人中有了雏形，在智人祖先这一支得到发展，则可能更加接近实际情况。</p>
+<p>此时他们中的一支走出非洲，在欧洲发展成了先驱人。</p>
+<p>虽然有观点认为，我们的祖先很有可能是这一支重返非洲继续演化，但近年的研究却否定了这个猜测<sup>[7]</sup>，先驱人的牙釉质与智人并不相同。</p>
+<p>智人祖先可能一开始从来没有离开过非洲。</p>
+<p>当然，人类三次走出非洲，也仅仅只是对三次大迁徙趋势的归纳，实际人类祖先以及旁支，在过去 300 万年，都可能在不断走出非洲。</p>
+<p>非洲是人类的摇篮，但也是苦寒之地。</p>
+<p>自从第四纪冰期以来，每一次的全球性寒冷和干燥，东非大草原都是首当其冲。</p>
+<p>森林变草原，草原变荒漠。</p>
+<p>一直留存在这里的古人类，可以说是过着最残酷的人生。</p>
+<p>尤其是 80~100 万年前，完全可以用惨烈来形容。</p>
+<p>因为环境剧变，留在非洲的古人类遭到了重创。尤其是我们智人的祖先，在 93 万~81.3 万年前经历了一次严重的人口瓶颈，人口最低只有 1280 个繁殖个体，只有过去 18000 人的 1/14<sup>[8]</sup>。</p>
+<p>而通常认为，人类在这样的环境下，往往需要至少 500 个繁殖个体，才给避免灭绝。</p>
+<p>我们祖先几乎跌落斩杀线，但他们终究坚挺了过来。</p>
+<p>极端的淘汰，往往意味着飞跃式的演化，也为未来这一支的分裂埋下了伏笔。</p>
+<p>我们祖先的脑容量再次迎来了大爆发，当然这个爆发并不是一蹴而就，持续时间以数十万年计。</p>
+<p>面对恶劣的环境，他们中又有一支走出非洲，发展成了海德堡人。</p>
 <ul>
-<li>将巨脉蜻蜓的体型归因于“大气氧含量高有助于昆虫呼吸”也有问题，一些大气氧含量没那么高的时代一样有体型很大的昆虫（更别提体重了），侏罗纪大气氧含量较高时期的昆虫体型不大。在出土巨脉蜻蜓化石的地层里还有几百种古昆虫化石，它们的尺寸普遍不比现代蚱蜢大。</li>
-<li>“较大体型在结果上有助于昆虫防止身体内部氧含量过高对细胞造成损害，在更大的捕食者众多时没有好处；不增大体型，昆虫也能控制气门来调节身体内部氧含量”相对合理。</li>
+<li>一说，海德堡人的祖先为先驱人。</li>
 </ul>
+<p>虽然过去的研究认为，海德堡人可能是智人和尼安德特人的共同祖先，但结合分子人类学来看，它们可能只是智人祖先的最近旁支兄弟。需要把这个最后共同祖先也同时归入海德堡人，这个关系才能继续成立。它们很有可能是非洲的罗德西亚人或近亲，并在未来逐渐演化为智人。</p>
+<p>智人其实也有两种分类方法，广义上把尼安德特人也纳入，属于早期智人。狭义上则把尼安德特人作为单独的种，与智人并列。近年来二者多并列提及。</p>
+<p>海德堡人祖先离开非洲之后不久，广义上的智人便在非洲正式诞生了，最大脑容量已经达到 1200ml 左右。</p>
+<p>随后他们中的一些族群也逐渐离开了非洲，在接下来几十万年时间里，发展为分布于欧亚的尼安德特人和丹尼索瓦人。</p>
+<p>丹尼索瓦人，也即龙人。2025 年付巧妹等人的最新研究，发现他们是同一种人，接下来都统称为龙人。</p>
+<p>龙人可能是最早起源的智人姐妹群。</p>
+<p>分子人类学显示，虽然龙人、尼安德特人 40 万年前才出现，但他们祖先正是在那次惨烈人口瓶颈前后分化了出来。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7fc0fb8e1640127bdcb577d09c62bd07_720w.jpg?source=8673f162" alt=""><figcaption>从左到右：直立人并系、智人祖先旁系、尼安德特人支、哈尔滨龙人支、智人支</figcaption></figure>
+<p>早期龙人和尼安德特人脑容量上限，便已经和现代人相当，达到 1400ml。</p>
+<p>更加发达的智力，使得它们掌握了人工取火。</p>
+<p>随着它们的强势崛起，匠人、直立人、先驱人、海德堡人，逐渐跌落斩杀线而灭绝，只剩下一些零散的支系</p>
+<p>至此，地球上的人种，主要便剩下智人姐妹群。</p>
+<p><strong>在这样的大背景下，20~30 万年前，智人终于应运而生。</strong><strong>智人的诞生，同样与恶劣的环境有关。</strong></p>
+<p>现代分子生物学预估，智人诞生时最大有效繁殖人口规模大约在 3 万人左右，但 19 万~13 万年前，地球气候恰好再次进入冰期周期，我们的祖先再次出现演化瓶颈，最小有效繁殖人口可能低至 1 万人左右<sup>[9]</sup>。</p>
+<p>经过两三万年，种群好不容易稍微恢复，到了 11 万年前，又迎来了最后一次的末次冰期。</p>
+<p>随后我祖先的种群开始再次衰退，但这一次他们没有坐以待毙，终于开启了最后的走出非洲之旅。</p>
+<p>但这个过程中依旧是惨烈的。</p>
+<p>最后一次走出非洲，大约在 5 万年前结束。在此期间，大约 7 万年前，我们祖先经历了最后一次惨烈的人口瓶颈。</p>
+<p>这一次，我们祖先的有效繁殖种群数量，甚至低到了 2000 人左右。通常认为在 1000~1 万人的范围，某些局部种群曾一度低至 150 人<sup>[10]</sup><sup>[11]</sup>。</p>
+<p>这一次的人口瓶颈，过去认为多巴火山喷发是主因，但后来发现并不是，其喷发数量级比以前预估的小了数量级。但即便如此，多巴火山喷发带来的火山冬天持续近 10 年，气候变冷长达 1000 年，所以影响也不容小觑<sup>[12]</sup>。</p>
+<p>面临严酷的环境，我们祖先可能屡次逼近最小可生存种群，但最终没有跌落斩杀线，开始了绝境逆袭。</p>
+<p>随着他们迁移扩散达到了各个大陆，一些支系与龙人、尼安德特人发了短暂的基因交流，少部分基因留在了我们部分人的身体里。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d901a5e37f0b20b77f3b407b0873d2ec_720w.jpg?source=8673f162" alt=""></figure>
+<p>随着他们踏遍九州四海，龙人、尼安德特人等智人姐妹群也走向了灭绝。</p>
+<p>智人和他们接触时，它们已经有所衰落。</p>
+<p>一般认为，他们的衰退灭绝和冰期直接相关。</p>
+<p>末次冰期直接持续到了 1.2 万年前，并在 3.3 万年前寒冷加剧，在 2.65 万至 1.9 万年前达到极限——末次冰盛期。</p>
+<p>整个地球迎来地狱模式 4.0。</p>
+<p>最终在恶劣严寒与竞争之下，3~4 万年前，尼安德特人和龙人种群规模降低到最小可生存种群以下，最终堕落斩杀线而灭绝，所有人种只剩下了唯一的智人。</p>
+<p>晚期尼安德特人的脑容量最高达到 1700ml，为什么他们会竞争不过智人，堕落斩杀线？</p>
+<p>这个问题，的确令无数人着迷。</p>
+<p>毕竟，尼安德特人在体质特征上和现代人已经非常接近，他们也能精制石器、骨器，懂得绘画、雕刻等艺术，能修建简单房屋，男女也有明确的分工……</p>
+<p>嗯，这里就简单说说。</p>
+<p>主要原因在于他们更加的特化，高度依赖近距离猎杀大型动物，对冰期的抵抗能力更差，使得种群在波动中衰退。再加上他们的社交网络相对局限，发展到后期，也就更容易出现繁殖瓶颈，走向演化死胡同。</p>
+<p>相对来说，智人则具有更强的抽象思维，能制造更加复杂的工具，掌握更精细的远程武器。</p>
+<p>同时也具有发达的语言，广泛的社交网络、贸易网络，以及更加深度的社会和文化传承……</p>
+<p>以上这些，使得智人的种群凝聚力更强。</p>
+<p>试想，当智人和尼安德特人的种群规模都足够小的时候，尼安德特人各族群之间的联系可能更加薄弱，使得人与人之间的平均有效繁殖机会、幼崽存活率更低。</p>
+<p>如果说智人种群低于 500 人才会灭绝，那么尼安德特人可能低于 1000 人就会灭绝。</p>
+<p>当与尼安德特人竞争时，种群规模越小，智人越可能表现出显著的优势。</p>
+<p>我们祖先在最后一次人口瓶颈之后，尼安德特人种群规模，的确与我们出现了此消彼长的发展。</p>
+<p>回望人类起源史，可以发现，虽然一个人种是否堕落斩杀线，都是由环境大杀器、竞争淘汰、演化死胡同所综合决定。</p>
+<p>但对于不同人种来说，往往有不同的侧重。</p>
+<p>绝大多数主因都是环境剧变和激烈竞争，只有少部分主因是演化死胡同。</p>
+<p>例如，早期植食强壮化的傍人，以及后来岛屿侏儒化的智人姐妹群过渡人种弗洛勒斯人（Homo floresiensis）。</p>
+<p>演化死胡同可能让一个较原始的人种，远离演化主线，能在特殊生境长期存在，当一旦这些特殊生境不再稳定，它们就会走向灭绝。</p>
+<p>依据古人类学家的不同的分类定义，诞生过的人种，保守估计在 12~18 种，加上有争议的化石，以及亚种归类问题，最高可以达到 30 种。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b5fb6e1d4d737e5da3dc5bea554ed3fa_720w.jpg?source=8673f162" alt=""></figure>
+<p>现代遗传学在分析西非、澳大利亚某些族群的基因组时，发现了不属于智人、尼安德特人的未知 DNA 片段。这意味着，可能存在很多潜在人种，我们尚未发现。</p>
+<p>考虑到潜在人种，诞生过的人种可能在几十种以上。</p>
+<p>这么多的人种，最终只剩下了智人一种，何其的惨烈。</p>
+<p>而我们智人这一支，至少经历了三次明确的人口瓶颈，差点跌落斩杀线。如果追溯到 500 万年前，一直到我们与黑猩猩的最近共同祖先，经历的演化瓶颈，更是不计其数。</p>
+<p>作为唯一的人种幸存者，我们是幸运的，但进入文明阶段以后，人种斩杀线依旧适用。</p>
+<p>近万年来，人类中诞生过大大小小的无数文明，但绝大多数都覆亡了。</p>
+<p>所有跌落斩杀线的文明，无一不能用环境大杀器、竞争淘汰、演化死胡同来解释。</p>
+<p>冰期对农耕文明有着致命的影响，战争是无数古文明覆灭的直接原因，而相对封闭的文明，例如复活节岛文明，往往会因发展进入死胡同而走向终结。</p>
+<p>悠久而深远的社会和文化传承，才是文明长存的基石，这对当代人也极具启示。</p>
+<p>任何短暂的文明，面临剧变都有跌落斩杀线的可能。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/50911911">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/607606990">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788622</guid><pubDate>Sun, 29 Mar 2026 18:34:48 GMT</pubDate></item><item><title>为什么正常人大脑里只会诞生一个意识呢？</title><link>http://daily.zhihu.com/story/9788692</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ff1211e6e352f8657ee6031586059642.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788458</guid><pubDate>Mon, 30 Mar 2026 02:00:40 GMT</pubDate></item><item><title>为什么把鸭嘴兽作为哺乳动物而不是合弓纲的孑遗?</title><link>http://daily.zhihu.com/story/9788464</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-74881028554a3b94b0577a0c5ddcb6a5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -81,83 +349,45 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-a238e228bac402aa4ecc0b5f5107f085_l.jpg?source=8673f162">
-<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/6464718815/answer/87497930989" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户，</span><span class="bio">不做 点缀大时代波澜壮阔的泡沫</span>
+<a href="https://www.zhihu.com/question/663099483/answer/2015371309215922026" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>你是否在找：分离性（<em>解离性</em>）人格障碍(Dissociative Identity Disorder，DID)</p>
-<p>也就是我们以前经常听到的<strong>多重人格</strong>。</p>
-<p>为什么精神病会有多重人格出现呢？也就是题目所要问的问题，为什么正常人大脑里只有一个人格？</p>
-<p>因为你的大脑有写保护：</p>
-<p>1 海马体：保证记忆连续</p>
-<p>2 杏仁体：保证情绪连续</p>
-<p>3DISC1 基因：禁止篡改输入</p>
-<p>4 你的训练集只有你的人生，所以所有输出都是雷同的</p>
-<p>等等等等</p>
-<p>不过这里先说明，意识具体如何产生的，到底是什么，科学还没有明确的解释，但是对于个人来说，意识可以看做一种对各种刺激产生的反馈。</p>
-<p><strong><strong>这里为了方便大家理解，把人脑比喻成电脑。</strong></strong></p>
-<p>通常来说，你的电脑因为内存容量有限、方便用户操作等原因，只会预装一个系统，这就是你的主系统（主人格）。</p>
-<p>对于人类来说，海马体、杏仁体等边缘系统出现损伤以及 DISC1 基因变异等等问题会导致人格分裂，出现非连续的意识。</p>
-<p>就像你的硬盘、rom、cpu、防火墙等等出问题的话，就会导致你的电脑加载一些正常情况看不到的内容，这就是系统崩溃。</p>
-<p><strong>下面具体说明：</strong></p>
-<p>你要打开电脑的时候，引导装载程序 Bootloader，引导你进入主系统。</p>
-<p>硬盘是由磁性材料做成的，当它记录的时候，硬盘磁性物质的磁化状态改变，除非被其他磁性材料再次改变，否则不会轻易变化，所以它能够比较稳定的记录数据，方便你开机的时候看到的还是你之前使用的那个系统。</p>
-<p>所以你能稳定地使用你的电脑系统，你收藏的小姐姐和浏览的网站也不会因为关机而消失。</p>
-<p>而你的电脑比较智能，会记住你的喜好，社交网络会根据你的喜好帮你推荐内容，你的输入法也会自动联想你输入过的人名地名，你的地图也会记录你去过的地方，方面你下次输入的时候直接推荐路线。</p>
-<p>哦对了，你还有本地训练的大模型，当你试图输出 ABCD 不同的美女的时候</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-295cd4e50e1705c18d15363d15c270fe_720w.jpg?source=8673f162" alt=""></figure>
-<p>你会发现她们都是长得很像的东亚人，当然那是因为你用了同一个训练集训练出来的。</p>
-<p>对于人脑来说也是类似的体验。</p>
-<p>人的记忆和情感体验往往是连续的，即便是睡眠状态，人脑也依然在工作，海马体和杏仁体等边缘系统像硬盘一样帮你储存好了你的记忆和情绪。</p>
-<p><strong>当你从睡眠中醒来的时候：</strong></p>
-<p><strong>脑干</strong>这个负责呼吸、心率和基本的运动控制等的部分先帮你把呼吸、心率等调整到清醒水平，类似于 Bootloader 在计算机开机时激活基本硬件。</p>
-<p><strong>脑干的网状激活系统（RAS）</strong>就像 Bootloader 一样引导你开机进入主系统，并准备好处理更高层次的信息，RAS 还会过滤掉不必要的感官输入，并帮助确定重要刺激的优先级，就像引导加载程序首先加载最重要的组件一样。</p>
-<p>彻底清醒以后，大脑读取海马体和杏仁体等边缘系统里储存的记忆和情绪，方便你走着熟悉的路上班，你面带跟昨天同样的微笑跟熟悉的同事打招呼，记忆召唤你的手操纵键盘鼠标开始一天的打工生活，而不是跳起来砸了老板的办公桌。</p>
-<p>你会读取熟悉的面孔，这个过程跟大模型训练很像，以马尔（Marr）的理论为例，人脑在识别图像时，首先通过初级视觉皮层处理基本特征，如边缘、线条和方向。这类似于计算机视觉中的预处理步骤，提取图像的基本元素。然后从复杂的视觉输入中选取特定的特征位点，并记录它们的移动模式。这些特征的识别和追踪涉及神经细胞内的结构变化，如 Talin 蛋白的作用，以及新突触的形成与修剪。当遇到类似特征的极简图像时，大脑能激活相应的神经路径，实现联想，比如将动画中的抽象形状与已知的人物形象关联起来。</p>
-<p>而且人脑的模式识别有上下文联系的功能，会根据记忆、经验、期望和情境来辅助识别过程。</p>
-<p><strong>跟电脑里的大数据推荐和自动记忆联想很像。</strong></p>
-<p><strong>人脑通过重复的体验和记忆形成低阻抗的神经网络路径，这个过程类似于生成对抗模型学习。</strong></p>
-<p>随着对特定模式的多次接触，大脑逐渐形成稳定的识别模式，人脑的模式识别还涉及到遗忘机制，即“腐蚀”过程，这有助于去除不重要的神经连接，保留重要特征的识别路径。同时，通过强化学习，大脑会加强与目标行为相关的神经网络路径，这有助于更高效的识别和反应。</p>
-<p>举个简单例子，如果马上叫你想一个美女的形象，你很有可能脑海里立马出现一个东亚面孔，这跟 lora 生成的美女都是一个模子刻出来的道理类似，因为你从出生到现在的训练集基本上也都是东亚的。</p>
-<p>就是因为记忆和情感是有连续性的，而且你的训练集就是你的一生独特所见所闻，所以你对相同事物做出的反应和判断也类似，就结果来看，你就只有一个意识，这就是你的主人格，跟电脑的单一系统类似。</p>
-<p>但是对于身患分离性（<em>解离性</em>）人格障碍(Dissociative Identity Disorder，DID)的人来说（以下简称 DID），世界又是另外一种情况。</p>
-<p><strong><strong>在 DID 的情况下，主人格这个单一系统可能出现故障或异常。</strong></strong></p>
-<p>就像计算机在启动时可能遇到硬件或软件的问题一样，RAS 的功能受到干扰时，大脑就无法有效地整合外界信息，导致意识状态的分离和不同的身份表现。这种系统级的破坏可能导致个体无法正常维持一种连续、统一的自我感知。</p>
-<p>海马体是大脑中与记忆形成和存储紧密相关的区域，可以看成硬盘，杏仁体是大脑中与情绪、尤其是恐惧和应激反应密切相关的区域，可以看成电脑的防火墙。</p>
-<p><strong><strong>与健康受试者相比，DID 患者的海马体积小 19.2%，杏仁核体积小 31.6%。海马体积与杏仁核体积的比率在各组之间存在显着差异。</strong></strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8433a526015d99ad94fdc4791465eeb3_720w.jpg?source=8673f162" alt=""></figure>
-<p>也就是说，他们的硬盘和防火墙也不太能正常运转了。</p>
-<p>硬盘有大量坏道，游戏体验就跟心跳文学社差不多：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-29846ebcfd116d02cffea4a3bb513f01_720w.jpg?source=8673f162" alt=""></figure>
-<p>A 人格还在好好谈恋爱的时候，B 人格怎么就开始魔怔了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-718b1f0f8f0f9e9b4c7b6ca2adcc5089_720w.jpg?source=8673f162" alt=""></figure>
-<p>人格变成不连续的碎片化，可能某个人格还会消失掉。</p>
-<p><strong>在 DID 的情况下，杏仁体的功能可能异常，使得情绪反应失调，</strong> 产生过度的焦虑、恐惧或情绪崩溃。</p>
-<p>个体可能因为极端的应激事件而“分裂”成多个身份，以应对不同的情绪需求。就像一个计算机系统在遇到病毒攻击时突然进入了安全模式，安全模式虽然没有浏览记录没有加载训练好的大模型，但是可以免受外界攻击，DID 患者的情绪和身份就像这样，可能会随着环境的变化而“切换”，从而保护自己免受创伤或情绪伤害。</p>
-<p>在正常的大脑功能下，各个脑区（如海马体、杏仁体、前额叶皮质等）通过高度的神经连接和信息交换，维持着大脑的整体协调和一致性。然而，在 DID 患者中，脑区之间的正常联结和信息传递可能会受到破坏，导致“记忆断裂”或“身份切换”。这种切换通常是由于个体在极度的创伤下，试图通过“分裂”来隔离或避免痛苦的记忆和情感体验。</p>
-<p>可以类比为计算机的 RAM 突然断电，导致数据不再被有效存储或调取。由于系统的损坏或干扰，计算机可能会出现无法启动或频繁的错误信息，DID 患者的“身份切换”正是这种系统崩溃的表现。每个“人格”似乎像是一个独立的操作系统，它们之间缺乏协调，造成了认知、情感和记忆上的重大裂痕。</p>
-<p>DISC1 基因的变异也是导致严重精神分裂的一个因素。</p>
-<p>DISC1 基因编译的蛋白质通过与其他蛋白质的相互作用参与神经突生长和皮质发育。</p>
-<p>DISC1 基因变异就像是电脑主板或中央处理单元（CPU）上的某个关键部件出现了故障。</p>
-<p>数据传输错误：就像电脑的内存（RAM）或者总线连接出现问题，DISC1 基因的变异可能导致神经元之间的信号传递失常，导致大脑信息的交换不流畅。比如大脑处理思维、记忆和情绪等功能时，会出现“卡顿”或错误。</p>
-<p>程序崩溃：如果一个关键的硬件部分出现故障，可能会导致电脑程序崩溃或者无法启动。类似地，DISC1 的突变可能影响大脑的某些区域（如前额叶皮层、海马体等），从而导致思维、情绪和行为上的障碍，表现为幻觉、妄想或情绪不稳等症状。</p>
-<p>等等等等，诸如此类，牵一发而动全身，硬件和防火墙都崩溃的时候，系统也就崩溃了。</p>
-<p>希望这个比喻能有效回答你的问题，一个意识是为了节约资源和保护系统的，如果出现了大脑损伤，记忆和情绪的连续性被破坏就会出现多个意识，而这些多出来的意识可能会对身体的健康造成影响，那是一种有害的状态，只有一个意识才是记忆和情绪等健康稳定运行的表现。</p>
-<p>以上~</p>
-<p>ref：1 Hippocampal and Amygdalar Volumes in Dissociative Identity Disorder</p>
+<p>哺乳动物的定义本来就是有分歧的，但不论是广义的哺乳（像单孔目的鸭嘴兽那样，有原始的乳腺，但没有乳头），还是狭义的用乳头哺乳（就像兽亚纲的有袋类、胎盘类那样），都是哺乳动物进化到一定阶段的共有衍征，但一般不作为用来定义哺乳动物的共有衍征。</p>
+<p>1988 年，德克萨斯大学的教授 Timothy Rowe 在一篇论文中<sup>[1]</sup>，把哺乳动物（Mammalia）按照系统发生学的角度，定义为广义哺乳动物（Mammal）的冠群。</p>
+<p>这样一来，这种定义下的哺乳动物，指的是现存的单孔目（鸭嘴兽和几种针鼹）、兽亚纲（有袋类和胎盘类）的最近共同祖先所在的进化支，该进化支中含有该祖先的全部后代。</p>
+<p>由于单孔目和兽亚纲相去甚远：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-135e6fd0f1a0ae0b34542c39e20faf5c_720w.jpg?source=8673f162" alt=""></figure>
+<p>中间间隔了很多早已灭绝的，相比于单孔目、更接近兽亚纲的早期哺乳动物。<sup>[2]</sup></p>
+<p>单孔目与兽亚纲的分离时间非常早，一些研究结果表明单孔目起源于于晚侏罗世到早白垩世。<sup>[3]</sup></p>
+<p>但另有一些研究结果认为，与兽亚纲相比，昂邦兽与单孔目更接近；环齿兽属与双兽属则与兽亚纲更接近。上述三个属的化石在 1.67 亿年前的侏罗纪中期都有发现，所以单孔目与兽亚纲（的祖先）分离时间应该在这之前。<sup>[4]</sup></p>
+<p>甚至有一些研究结果认为，单孔目与兽亚纲（的祖先）的分离时间更早，可能在三叠纪时期就分离了。</p>
+<p>四足类、爬行形类的羊膜动物，很早就分成了蜥形纲和合弓纲。</p>
+<p>蜥形纲和合弓纲的分离时间大概是石炭纪，约 3 亿多年前。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dfb24183ecbbd41cfb2a517050dd4417_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是合弓纲到哺乳纲的包含关系，哺乳纲是合弓纲的冠群，是唯一延续到现代的合弓纲成员。</p>
+<p>之前的合弓纲的成员都灭绝了。</p>
+<p>如果你把合弓纲定义成最广义的“哺乳动物”，其实也未尝不可。</p>
+<p>但一般不这么定义，因为早期的合弓纲动物确实非常像爬行动物（准确来讲是和爬行动物一样，保留了不少爬行形类的祖征），并不符合人们眼中“哺乳动物”该有的形象。</p>
+<p>牛津大学的 Tom S. Kemp 曾提出过关于哺乳动物的另一种的定义：“拥有下颌骨–鳞状骨颌关节的合弓纲动物，上下臼齿应能咬合，咬合过程中牙齿应能横向移动”。</p>
+<p>坎普还提出另一定义，即当前存活的哺乳动物冠群与中国尖齿兽的最近共同祖先所形成的进化支。在他看来，这两个定义互相等价。<sup>[5]</sup></p>
+<p>这种定义虽然不至于把合弓纲都包括进去，但比仅包括现存哺乳动物冠群的最近共同祖先及其所有后代这种定义更加广义。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-75b556d171b4da804e0cbab3470cd88e_720w.jpg?source=8673f162" alt=""></figure>
+<p>不论如何，现在的哺乳动物的定义，确实有考虑到现存哺乳动物的成分，不然的话，假设单孔目早已灭绝，那么确实可以仅把狭义的哺乳动物定义为兽亚纲。</p>
+<p>但是另一方面，单孔目虽然没有乳头，但已经有乳腺了，定义为狭义的哺乳动物，其实也并无不可。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/6464718815">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/663099483">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788692</guid><pubDate>Sun, 29 Mar 2026 18:34:49 GMT</pubDate></item><item><title>为什么龟没有完全抢占鳖的生态位、淘汰掉鳖？</title><link>http://daily.zhihu.com/story/9788697</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-10fba33321e3fb69315fa389b1a1bfd3.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788464</guid><pubDate>Mon, 30 Mar 2026 02:00:41 GMT</pubDate></item><item><title>瞎扯 · 如何正确地吐槽</title><link>http://daily.zhihu.com/story/9788466</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-88c6d675b2fcf2127f9d526e6d3f4f96.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -172,190 +402,53 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · OpenClaw 到底能解决什么「非它不可」的需求？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-b0a3e4598a57de66b24ee18009c38974_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">别成天拿ai说车轱辘话了。</span>
-<a href="https://www.zhihu.com/question/11925442347/answer/125177205568" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>你以为是抢占生态位就是老鳖凶猛跑的快，</p>
-<p>对着乌龟一顿暴揍，乌龟壳硬防御高，对着王八一顿咬。</p>
-<p>实际上，龟鳖本一家，</p>
-<p>想当年，龟祖宗临终有交代：</p>
-<p>爷也没啥可以留给你们的，</p>
-<p>就有几条祖传的脱氧核苷酸，</p>
-<p>里面有肋骨改的龟壳，还有长脖一根可以传世。</p>
-<p>记住，你们的征途是星辰大海，去吧！！！</p>
-<p>龟孙儿！！！</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e96749dab1389ba78355b05a9d77a8e_720w.jpg?source=8673f162" alt=""><figcaption>龟鳖目の征服之路</figcaption></figure>
-<p>于是龟龟们开始在不同生态位寻找契机。</p>
-<p>以泽龟（Emydidae），地龟（Geoemydidae）平胸龟（Platysternidae）为首，</p>
-<p>守住了半水栖的基本盘。</p>
-<p>陆龟（Testudinidae）完全放弃水栖，远渡荒岛内陆，过起清心寡欲的日子。</p>
-<p>这俩大类合称陆龟总科（Testudinoidea）</p>
-<p>还有海龟（Cheloniidae）棱皮龟（Dermochelyidae）志承先辈荣耀，踏上了征服大海的征程。</p>
-<p>还有部分原始种在新大陆独自演化，就成了以鳄龟（Chelydridae）泥龟（Dermatemydidae）动胸龟（Kinosternidae）为基础的鳄龟总科（Chelydrioidea 2021 年新设）</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1176c1bec5cb930db0cdcf0d7f24ad4e_720w.jpg?source=8673f162" alt=""></figure>
-<p>而在半水栖的基础上，还有龟龟选择了更专业的水货生涯。</p>
-<p>比如有些龟龟专注于玩脖子，</p>
-<p>以至于脖子拉成长颈鹿，没法缩回去，</p>
-<p>于是就有了蛇颈龟总科（Cheloidea）、侧颈龟总科（Pelomedusoidea）两大家族。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-26ea4f3ab1606b9d19a576a9b7af709b_720w.jpg?source=8673f162" alt=""><figcaption>长颈龟の脖子花活</figcaption></figure>
-<p>还有一部分为了适应浅水生存，将龟壳退化为部分软甲，</p>
-<p>扁平的身躯有利于融入淤泥沙土，灵活伸缩的长脖有利于捕猎呼吸。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a0afdad791ad99ed7a839dcc145980af_720w.jpg?source=8673f162" alt=""><figcaption>一只藏在淤泥里的甲鱼</figcaption></figure>
-<p>再加上那尖鼻子尖嘴短尾巴，往河滩上一趴天生自带吉利服。</p>
-<p>那是能文能武，样貌非常猥琐。</p>
-<p>就是今个的主角，王。。啊，鳖科（Trionychidae）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fa3e57190514e7e4220483cfa3a98b31_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以说王八也是龟，而且是浅水特化的专业龟。</p>
-<p>伟人曰：庙小妖风大，池浅王八多，就是对鳖的习性极好的诠释。</p>
-<p>国内最常见的就是中华鳖。</p>
-<p>你说巧不巧，和中华鳖齐名共有仨，除了乌龟还有蛋。</p>
-<p>由于生活的环境接近，所以乌龟经常和鳖放在一起，</p>
-<p>虽然生存环境差不多，</p>
-<p>但是常见的比如中华草龟（Mauremys reevesii 俗称草龟）中华花龟（Mauremys sinensis 又叫中华条颈龟 ）等和中华鳖很少产生冲突。。</p>
-<p>这是因为龟龟多数为昼行性，以杂食性为主，</p>
-<p>食物包括水生植物、藻类、昆虫、小鱼等，比较喜欢在水体中上层觅食。</p>
-<p>而且性情温和，一般不咬斗。</p>
-<p>而鳖更喜欢夜间活动，擅长潜入泥沙捕食底栖生物，平时主要偏肉食为主。</p>
-<p>所以这俩除了晒背和生蛋的时可能有点竞争，</p>
-<p>干架的情况并不多。</p>
-<p>很少存在抢占生态位的情况。</p>
-<hr>
-<p>然而，本土乌龟讲规矩，不代表外来龟也听话。</p>
-<p>目前外来入侵物种巴西红耳龟（Trachemys scripta elegans）已经严重影响本土龟鳖的生存了。</p>
-<p>这个巴西红耳龟吧，俗称巴西龟或红耳龟，属于泽龟科，彩龟属动物，也叫红耳彩龟。</p>
-<p>最显著的特征就是眼睛后方有一块红色粗条纹。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-82bccfcdde413bb04c1898b351c778f8_720w.jpg?source=8673f162" alt=""><figcaption>巴西红耳龟（Trachemys scripta elegans）显著特征为而后红斑</figcaption></figure>
-<p>虽然叫巴西龟，</p>
-<p>却是源于北美密西西比河及格兰德河流域，所以也叫密西西比红耳彩龟。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-47bd3613c30916a371e3e367ee34c376_720w.jpg?source=8673f162" alt=""><figcaption>红耳龟三个亚种美国分布区域</figcaption></figure>
-<p>叫巴西龟的原因嘛，</p>
-<p>国内最早的时候引进的巴西产的南美彩龟（Trachemys dorbigni），</p>
-<p>由于二者极像，后续引进更便宜的红耳彩龟也就沿用了这个名称。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-227fc94efbbbdfea54423fee31ddefa3_720w.jpg?source=8673f162" alt=""><figcaption>南美彩龟（Trachemys dorbigni）</figcaption></figure>
-<p>由于最早彩龟属又被翻译成滑龟，所以南美彩龟也有一堆名字。</p>
-<p>黑腹滑龟是它，德奥比尼滑龟是它，杜氏滑龟也是它，斑彩龟，巴西斑彩龟全是它。</p>
-<p>简直看的人头皮发麻。</p>
-<p>那么问题来了，</p>
-<p>巴西龟看起来可可爱爱，</p>
-<p>也没啥太强战斗力，</p>
-<p>咋被世界自然保护联盟（IUCN）认定为世界 100 个危险入侵物种呢？</p>
-<p><strong>主要几点，便宜，能生，好养活</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fe529d413586f064db8b5e2886c24a7a_720w.jpg?source=8673f162" alt=""><figcaption>巴西龟已入侵世界各地。</figcaption></figure>
-<p>相对于国内的龟龟佛系养生，巴西龟可以说是龟中卷王。</p>
-<p>作为一种淡水龟，却可以在 0.5%——1.5%盐度的半咸水中生活。<sup>[1]</sup></p>
-<p>2-3 岁就开始性成熟生崽，每年产卵 6-30 枚，</p>
-<p>而中华鳖最少 3-5 年，北方地区的甚至得 5 年以上，每年产卵也仅有 3-20 枚。</p>
-<p>幼龟运动能力和代谢率远超本土乌龟<sup>[2]</sup>，对温度的适应性更广，</p>
-<p>这意味着存活率会更高，更好养活。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c8a2b215aad0a4c77ea9692a473b5e5b_720w.jpg?source=8673f162" alt=""></figure>
-<p>巴西龟性情凶猛，会主动撕咬、驱赶竞争者，</p>
-<p>食性还极为广泛，以 鱼 、虾、螺 、昆虫 、蝌蚪 、蛙 、水生植物以及水域附近鸟巢中的卵和雏鸟为食。</p>
-<p>在和中华条颈龟的抢食试验里，表现出更强的攻击性，抢食能力远超中华条颈龟<sup>[3]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1c0e806f3c08a8273a376b08f0777401_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就意味着即使巴西龟在泛滥之后极容易导致资源抢占，从而影响本土龟。</p>
-<p>在 2005 年，舟山晚报《普陀山敲响生物入侵警钟》报道，<sup>[4]</sup></p>
-<p>在普陀山海印池的抽样调查中，捞了 5 只样龟全是红耳彩龟。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4c182af529e730b1f9f64762b7b698b0_720w.jpg?source=8673f162" alt=""><figcaption>各种杂交出来的巴西龟，被注释 5 的文和贴吧老哥坑了一把，这花纹是巴西龟自己亲戚给杂交出来的。</figcaption></figure>
-<p>法国甚至还有巴西龟干扰欧洲池龟的交配行为的记录。<sup>[5]</sup></p>
-<p>现在你去寺庙的放生池瞅瞅，几乎全是挂着小红耳的巴西龟。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbe29d83c3bd239f116e8e5ff5516ecd_720w.jpg?source=8673f162" alt=""><figcaption>南普陀寺龟成灾 奇葩放生行为竟致环境大灾 | 北晚新视觉 </figcaption></figure>
-<p>这还是比较规范送寺庙放生的，</p>
-<p>野外的放生的红耳龟更是泛滥成灾。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c536393c7e9bd8e5a67215ee039cd450_720w.jpg?source=8673f162" alt=""><figcaption>野外发现的放生红耳龟</figcaption></figure>
-<p>只能说在红耳龟跑赢全国大部分龟鳖的事件里，</p>
-<p>善男信女们贡献了不可多得的力量。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc32504bf40742fde61063200c39989c_720w.jpg?source=8673f162" alt=""></figure>
-<p>然而，除了 2022 年将巴西龟列入《重点管理外来入侵物种名录》，</p>
-<p>我国目前并没有相关法规进行限制，</p>
-<p>红耳龟凭借着便宜好养的特性仍旧占据着花鸟市场龟类畅销榜的头把交椅，</p>
-<p>在 2020 年青藏高原甚至都出现了红耳龟个体出现的记录。<sup>[6]</sup></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a91bd5e37838efb5108092e820bc3c45_720w.jpg?source=8673f162" alt=""></figure>
-<p>这个问题下可能大多数人在调侃鳖战斗力不错，跑的比孙杨快。</p>
-<p>实际上，如果随意胡乱放生，</p>
-<p>巴西龟真的会完全抢占鳖的生态位、最终淘汰掉野生鳖。</p>
-<p>不光是鳖，还有各种本土特有的各种龟类。</p>
-<p>只能说有的时候，无知的善良比恶更可怕。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0fbca40c20c081b452d8e7ba0f76112_720w.jpg?source=8673f162" alt=""></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2014365556946518284/answer/2014430154009621936" target="_blank"> OpenClaw 到底能解决什么「非它不可」的需求？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1a615fad764d96325feae45222c556b4" target="_blank">@SnowyLake</a> ：解决了 <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271625479&content_type=Article&match_order=1&q=AI+%E9%A2%86%E5%9F%9F&zhida_source=entity" target="_blank">AI 领域</a>没有原神的问题。</div>
+</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-9579b38e9517ad4699db8a9ec45aefde_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/541462082/answer/103708246646" target="_blank">你见过哪些神级翻译？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/5454e5917969be82533c317fb49635a5" target="_blank">@希斯莱杰</a> ：<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271625479&content_type=Article&match_order=1&q=%E8%A5%BF%E8%9C%80%E5%AD%90%E4%BA%91%E4%BA%AD&zhida_source=entity" target="_blank">西蜀子云亭</a>，当时看到这个把我笑惨了</div>
+</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-16ac0d5c30ba5dc3a908ed1d5b3abe6f_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/563207946/answer/1913322654649286743" target="_blank">为什么好多人不能接受加班？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/b18680f4c33f9dca33eeb107d765117a" target="_blank">@冬天冷</a> ：我觉得现在还得引入一个概念：</div>
+人均可支配时间是多少</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/641219065/answer/1964040567576074189" target="_blank">你抓拍的小动物是什么样子的？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d7847e97f0c822cd4b6a13aa7ef398d7" target="_blank">@批夫</a> ：不是我拍的，也不是抓拍。翻翻鸽那个热搜里看到的</div>
+</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content_image" src="https://pic2.zhimg.com/v2-da972bc14e9eed22887ced5f22cab427_1440w.jpg" alt="" width="359"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/6544038968/answer/1978882944987861795" target="_blank">你是什么时候发现，这个世界其实就是一个巨大的草台班子？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/943e2d424e4bc8ab35ce0d2b91866235" target="_blank">@Vet.Chong</a>：在我发现我的毕业论文被二百人下载并且被部分人引用之后</div>
+</blockquote>
+<p><br class="Apple-interchange-newline"><br class="Apple-interchange-newline"></p>
 </div>
 </div>
 
-
-<div class="view-more"><a href="https://www.zhihu.com/question/11925442347">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788697</guid><pubDate>Sun, 29 Mar 2026 18:34:49 GMT</pubDate></item><item><title>为什么山东人喜欢吃知了猴？</title><link>http://daily.zhihu.com/story/9788702</link><content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-0277cbae92490f4ca9b64b03743a25df.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-eb665fa780d6c2ffe7908debeb029b04_l.jpg?source=8673f162">
-<span class="author">斜绿天蛾，</span><span class="bio">点进主页你会发现，这人真就只在乎虫子</span>
-<a href="https://www.zhihu.com/question/285950491/answer/1937190917774742706" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p><strong>因为它好吃！</strong></p>
-<p>参考某个问题，你甚至可以提问，<strong>“为什么蝉若虫要长得那么适合被吃”</strong>？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c76bfaa5006a54406400cb68b2e35e4f_720w.jpg?source=8673f162" alt=""></figure>
-<p>偌大的昆虫纲，还真没几种虫子像蝉一样那么适合人类食用。</p>
-<p>首先基本条件，蝉没有毒、不携带能感染人类的病原体和寄生虫。也不富集重金属。</p>
-<p>具体来讲，蝉是刺吸式口器、吃植物汁液的昆虫；甚至可以说，它们就是喝糖水长大的。这意味着它体内<strong>不含固体废弃物，没有异味，</strong>而且消化道也不发达，不影响口感、不需要剔除。不需要做任何处理，全身都能吃！</p>
-<p>知了猴不是蛹（虽然经常被叫做蝉蛹），不会经历全变态发育的组织溶解，只要是能捉到的都是准备羽化的末龄若虫，口感保持不变；</p>
-<p>就身体结构而言，蝉若虫有占比很大的强壮<strong>胸部肌肉</strong>，用于挖开土壤，抵达地面，爬上高处并固定自己，并在羽化后驱动翅膀；这些肌肉嘛，你懂的。都是满满的美味蛋白质呀！</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0861a5b90ce69669aa2ad02c8180ba77_720w.jpg?source=8673f162" alt=""><figcaption>蝉若虫的身材，满满的肉呀</figcaption></figure>
-<p>与其它吃植物汁液的昆虫，如蚜虫叶蝉之类不同，蝉科有许多物种体型足够大，足以满足直立猿这种体型的肉食动物！更要命的是，这些大体型的蝉，蚱蝉属 <em>Cryptotympana</em>，它是<strong>城市环境的优势物种！</strong>在你家楼下小区就能抓到，比云南的菌子还要方便</p>
-<p>不仅能吃，好吃，而且还好找，甚至好抓。</p>
-<p>它们爬的慢、无毒、不咬人，浑身上下连根刺都没有。甚至连抵抗意志都是缺失的，抓在手上不会反抗也不会逃跑，真正做到老少咸宜！</p>
-<p>美中不足的是…蝉发育缓慢（说实话，光喝糖水，只需个把年长这么大个已经很厉害了），因此不适合量产。野生的蚱蝉若虫只在每年特定季节的傍晚集中出现，妄图用数量应对天敌的捕杀</p>
-<p>于是遭到恐怖直立猿的集中围捕…</p>
-<hr>
-<p>至于你说为什么广东人不吃……其实也吃的，只是没有形成风气。像这种全民参与的活动，还是文化和习惯占大头。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c4dd2a6d4f9300541a23f7d20b3a7717_720w.jpg?source=8673f162" alt=""><figcaption>我好像不久前用过这张图。</figcaption></figure>
-<p>其实广东吃虫的没有刻板印象中的那么多。这年头要想找吃昆虫的餐厅都不容易了。</p>
-<p>另外有一点因素我也不确定——食材的来源。广东的蝉若虫似乎很不好找，<strong>我从没见过</strong>（我是广东人现在只是外出玩），而在杭州，第一天晚上就捡到好几只蚱蝉若虫。都是同一种黑蚱蝉，为什么会有这种差异，我目前还没有头绪。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-24bbd52b3ef391634dee75f21aca3ebb_720w.jpg?source=8673f162" alt=""><figcaption>在杭州拍到的，刚羽化不久的黑蚱蝉。</figcaption></figure>
-<p>云南吃虫的更多一些，当然，蝉若虫也是包括在内的。既然我现在就在这里，刚品尝过，就发个图。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-def3772ec52dc484cce2cb04e6609f95_720w.jpg?source=8673f162" alt=""><figcaption>emmm，我觉得昆虫拿来油炸不好吃。也可能是这个摊手艺不好</figcaption></figure>
-<p>刚羽化的蝉也能吃，据说更好吃，毕竟刚羽化时外骨骼是软的。但是不好捉。刚羽化的、处于脆弱状态的蝉是不容易遇到的，还得赶早，凌晨去捉。</p>
-<p>东南亚也有吃成虫的。那边会抓大量绿色的蝉，可能是 蜩蝉<em>Dundubia</em> sp.，在锅里煮着吃。感觉这种吃法有点浪费呢</p>
-<hr>
-<p>不过，还是提醒一句。虽然蝉适合食用，也真的很好吃；但这种饱和式捕捉是会破坏生态的。蝉必须在成功羽化后才能繁衍后代，而且繁殖周期长。种群数量容易受捕捉影响。</p>
-<p>大家捕捉的时候还是要留些活口，可持续发展嘛。</p>
-<p>如果只是想吃，可以选择吃养殖的，虽然肯定没那么有意思啦。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/285950491">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788702</guid><pubDate>Sun, 29 Mar 2026 18:34:50 GMT</pubDate></item></channel></rss>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded><guid isPermaLink="true">http://daily.zhihu.com/story/9788466</guid><pubDate>Mon, 30 Mar 2026 02:00:42 GMT</pubDate></item></channel></rss>
