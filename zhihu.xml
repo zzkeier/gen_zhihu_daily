@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Tue, 07 Apr 2026 18:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 01:59:33 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>Python 中的 range 函数为什么要设计成「左闭右开」的样子，这是有啥用意吗？</title>
-                <link>http://daily.zhihu.com/story/9788744</link>
-                <description>AI解码师，w_ferrari787381610 查看知乎原文 刚学 Python 那会儿也觉得非常别扭。 range(1, 8) 居然不包含 8？写代码的时候老是要 +1-1 的，烦得要死。直到后来读到 Dijkstra 在 1982 年写的一份手稿，才彻底想明白。 Dijkstra 是谁就不用多介绍了吧，最短路径算法那个。他专门手写过一份备忘录，标题叫《Why numbering should…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-3f90fc9ba2a25ce30b08a12e780b1aed.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么拉稀的时候放屁不会出来屎，人体（主要是肛门）是靠什么分辨屎和屁的？</title>
+                <link>http://daily.zhihu.com/story/9788954</link>
+                <description>祥昊，111 查看知乎原文 行了，别瞎琢磨了， 窜稀时放屁崩不出屎纯粹是因为这时直肠里没水货。 但凡有点稀汤带水的这问题就得变成为什么窜稀不能赌下一个屁。 那肯定就有人好奇了， 在腹泻间歇放屁，为啥带不出屎来呢？ 原因很简单， 直肠并不是长期储存粪便的区域，真实作用更像是传达室而非仓库。 平时里面基本没啥东西， 就算里面有粪便，由于大便是半固体，放屁打开的缝隙较小，且气体通过时间较快，一般不会漏出…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e5af5c591c97da37281d49b1149aa3e1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,154 +31,93 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fdac6de0add53a6c59762650c399ff7e_l.jpg?source=8673f162">
-<span class="author">AI解码师，</span><span class="bio">w_ferrari787381610</span>
-<a href="https://www.zhihu.com/question/2017158298030321813/answer/2017979521509367875" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
+<span class="author">祥昊，</span><span class="bio">111</span>
+<a href="https://www.zhihu.com/question/1976788175981676087/answer/2019553218175185845" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>刚学 Python 那会儿也觉得非常别扭。</p>
-<p><code>range(1, 8)</code></p>
-<p>居然不包含 8？写代码的时候老是要 +1-1 的，烦得要死。直到后来读到 Dijkstra 在 1982 年写的一份手稿，才彻底想明白。</p>
-<p>Dijkstra 是谁就不用多介绍了吧，最短路径算法那个。他专门手写过一份备忘录，标题叫《Why numbering should start at zero》，里面用一种极其严谨的方式，把”区间到底该怎么表示”这个问题给彻底终结了。（看到也有其他博主举这个例子，这里简单说）</p>
-<p>他的推导过程大概是这样的——</p>
-<p>要表示 2 到 12 这个序列，无非四种写法：</p>
-<table>
-<tbody>
-<tr><th>写法</th><th>区间</th></tr>
-<tr>
-<td>a</td>
-<td>2 ≤ i &lt; 13</td>
-</tr>
-<tr>
-<td>b</td>
-<td>1 &lt; i ≤ 12</td>
-</tr>
-<tr>
-<td>c</td>
-<td>2 ≤ i ≤ 12</td>
-</tr>
-<tr>
-<td>d</td>
-<td>1 &lt; i &lt; 13</td>
-</tr>
-</tbody>
-</table>
-<p>Dijkstra 逐一排除，过程堪称干净利落。</p>
-<p><strong>第一轮筛选：长度计算。</strong> a 和 b 明显占优。因为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=13+-+2+%3D+11" alt=""></p>
-<p>，</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=12+-+1+%3D+11" alt=""></p>
-<p>，上界减下界直接得到元素个数。而 c 和 d 你还得额外做一次加减运算才能算出来，在编程中是真的麻烦。</p>
-<p><strong>第二轮筛选：下界的选取。</strong> 自然数有最小值（0），但没有最大值。如果下界用严格小于（像 b 和 d 那样），那表示”从 0 开始的序列”时，你得写成</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=-1+%3C+i" alt=""></p>
-<p>，也就是说你被迫引入了一个<strong>不属于自然数的值</strong>来描述自然数序列。这很不优雅。所以下界应该用</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cleq" alt=""></p>
-<p>，a 和 c 胜出。</p>
-<p><strong>第三轮筛选：空序列的表示。</strong> 这个是致命的。假设我们选了 c，用</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=2+%5Cleq+i+%5Cleq+12" alt=""></p>
-<p>这种闭区间。那么当序列收缩为空的时候怎么写？</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=2+%5Cleq+i+%5Cleq+1" alt=""></p>
-<p>？上界比下界还小，这在语义上非常怪异。而如果用 a，空序列就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=2+%5Cleq+i+%3C+2" alt=""></p>
-<p>，干干净净，</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i" alt=""></p>
-<p>不存在，完事。</p>
-<p><strong>最终结果：a 以绝对优势胜出。</strong> 也就是<strong>左闭右开</strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Bbegin%2C+end%29" alt=""></p>
-<p>。</p>
+<p>行了，别瞎琢磨了，</p>
+<p>窜稀时放屁崩不出屎纯粹是因为这时直肠里没水货。</p>
+<p>但凡有点稀汤带水的这问题就得变成为什么窜稀不能赌下一个屁。</p>
+<p><strong>那肯定就有人好奇了，</strong></p>
+<p><strong>在腹泻间歇放屁，为啥带不出屎来呢？</strong></p>
+<p>原因很简单，</p>
+<p>直肠并不是长期储存粪便的区域，真实作用更像是传达室而非仓库。</p>
+<p>平时里面基本没啥东西，</p>
+<p>就算里面有粪便，由于大便是半固体，放屁打开的缝隙较小，且气体通过时间较快，一般不会漏出，漏了也可以假装没看见。</p>
 <hr>
-<p>再回到写代码的场景。<strong>左闭右开</strong>的好处：</p>
-<p><strong>长度计算零成本</strong></p>
-<div class="highlight">
-<pre><code class="language-text">r = range(3, 10)
-len(r)  # 就是 10 - 3 = 7
-</code></pre>
-</div>
-<p><strong>end 减 start 直接得到长度</strong>，不需要任何额外操作。如果是闭区间</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5B3%2C+10%5D" alt=""></p>
-<p>，长度就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=10+-+3+%2B+1+%3D+8" alt=""></p>
-<p>，多出来的那个</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%2B1" alt=""></p>
-<p>看似微不足道，但在大量涉及区间运算的代码里，它是 off-by-one 错误的温床。</p>
-<p><strong>区间拼接无缝衔接，</strong>这一点是我个人认为<strong>最重要</strong>的。</p>
-<p>假设要把一个列表切成两段：</p>
-<div class="highlight">
-<pre><code class="language-text">data = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-first = data[:5]   # [0, 1, 2, 3, 4]
-second = data[5:]   # [5, 6, 7, 8, 9]
-</code></pre>
-</div>
-<p>前一段的终点就是后一段的起点，没有任何重叠或者遗漏，在闭区间下做不到——</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5B0%2C+5%5D" alt=""></p>
-<p>和</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5B5%2C+9%5D" alt=""></p>
-<p>在 5 这个位置上是重复的，你必须手动处理边界。</p>
-<p>这个特性在分治算法、并行计算任务分片、数据分页这些场景里非常关键。你可以放心地用一个切分点把区间一分为二，不用担心边界元素被重复处理或者被漏掉。</p>
-<p><strong>空区间的表达自然</strong></p>
-<div class="highlight">
-<pre><code class="language-text">list(range(5, 5))  # []
-</code></pre>
-</div>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5B5%2C+5%29" alt=""></p>
-<p>就是空。不需要任何特殊标记，不需要用</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=None" alt=""></p>
-<p>或者</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=-1" alt=""></p>
-<p>这种 hack 手段来表示”这里啥也没有”。</p>
+<p>至于为啥直肠平时不咋存屎，这就得从大肠的工作方式讲起了。</p>
+<p><strong>大肠以结肠为主，</strong></p>
+<p><strong>结肠壁的结构并不复杂，主体动力核心是两层平滑肌，</strong></p>
+<p>外层为纵行平滑肌，并未完整包裹肠管，而是集中形成 3 条结肠带（taeniae coli），</p>
+<p>由于结肠带短于肠管本身，牵拉肠壁会形成一个个囊状膨出，即结肠袋（haustra），</p>
+<p>肥肠里那薄皮大馅十八个褶就是这么诞生的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f0be7b40321218ac9a5047e798843a9f_720w.jpg?source=8673f162" alt=""></figure>
+<p>至于内层则是环形平滑肌，跟橡皮筋似的水平环绕肠管，</p>
+<p>主要作用是通过伸缩改变肠管的管径。</p>
+<p>当环形平滑肌按一定节律周期性收缩，内容物就会在囊袋间反复分割混合，</p>
+<p>然后持续揉捏，充分发酵，</p>
+<p>此时，响起一段摇头晃脑的小曲，</p>
+<p>多冷隆冬多冷隆冬多冷隆冬哒哒哒，多冷隆冬多冷隆冬多冷隆冬哒哒哒。</p>
+<p>这被称为袋状运动（Haustral Contractions）</p>
+<p>所以与其说大肠是根管子，倒更像个搓屎流水线，</p>
+<p>除了上下搓屎，这个过程还会使内容物缓慢推进，不过这个速度很慢，约 1-2cm/ 分钟，全天持续存在，主要作用是避免内容物淤积，给屎翻个个。</p>
+<p>另一种则是集团蠕动（Mass Peristalsis）主要由进食后胃扩张诱发的胃结肠反射触发，<sup>[1]</sup></p>
+<p>会从横结肠开始（少数可从升结肠远端发起）产生单方向强力推进的蠕动波，</p>
+<p>将加工好的粪便快速转运到远端，引起排便，堪称大肠的一键清场程序。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0df2123c857faff67633dfce3a1d5eee_720w.gif?source=8673f162" alt=""></figure>
+<p>所以有时闹肚子的话，可能听到肚子咕噜一声，然后瞬间捂着肚子跑厕所，就是集团蠕动导致的。</p>
+<p>当粪便被推入到直肠，</p>
+<p>直肠肠壁上充满敏感的神经，会朝大脑发出信号，产生便意。</p>
+<p>大脑会控制身体去厕所，然后腹腔收缩产生腹压，将里面的粪便挤出来。</p>
+<p>就跟挤牙膏一样。</p>
+<p>如果挤的不干净，我们就会感觉一直有便意，却怎么都拉不出来。</p>
+<p>这事想想就挺折磨。</p>
 <hr>
-<p>那么问题来了，</p>
-<p><code>random.randint(1, 6)</code></p>
-<p>为什么包含 6？</p>
-<p>这其实是 Python 早期的一个<strong>历史遗留问题</strong>。</p>
-<p><code>randint</code></p>
-<p>的设计更多是出于对数学直觉的妥协——掷骰子嘛，你说”1 到 6 的随机数”，人的第一反应就是包含 6 的。但 Python 后来引入了</p>
-<p><code>random.randrange()</code></p>
-<p>，它就是左闭右开的，跟</p>
-<p><code>range()</code></p>
-<p>保持了一致。</p>
-<p><code>randint</code></p>
-<p>没改过来，纯粹是为了<strong>向后兼容</strong>，不想让已有代码炸掉。</p>
-<p>所以严格来说，</p>
-<p><code>randint</code></p>
-<p>是个”设计失误被兼容性锁死”的例子，反过来恰恰证明了<strong>左闭右开才是这门语言真正推崇的约定</strong>。</p>
-<hr>
-<p>其实<strong>左闭右开也不是只有 Python 有这样的设计。</strong>C++ 的 STL，</p>
-<p><code>begin()</code></p>
-<p>和</p>
-<p><code>end()</code></p>
-<p>就是左闭右开，</p>
-<p><code>end()</code></p>
-<p>指向的是最后一个元素的下一个位置。Java 的</p>
-<p><code>substring(beginIndex, endIndex)</code></p>
-<p>也是左闭右开。Go 的 slice 也是。Rust 的</p>
-<p><code>0..n</code></p>
-<p>也是</p>
-<p>甚至早在 1980 年代，Xerox PARC 开发的<strong>Mesa 语言</strong>在讨论了所有可能的区间表示方式后，就已经明确选择了左闭右开，并且强烈建议不要使用其他三种。</p>
-<p>所以当你下次写</p>
-<p><code>range(1, 8)</code></p>
-<p>然后发现它不包含 8 的时候，就感觉不奇怪了，四十多年前就被论证清楚了。</p>
+<p>而直肠内气体过多导致压力升高的时候，也会产生轻微的便意 。</p>
+<p>此时此时肛管的作用就体现了出来，</p>
+<p>肛管有两层括约肌阀门，</p>
+<p>内括约肌是自动档，直肠壁被扩张后，会受肠神经反射被动松弛，<sup>[2]</sup></p>
+<p>外括约肌则能受大脑操控，必要的时候还能夹一夹。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5399cebbd89d7de4c2fea2773eb17ebc_720w.jpg?source=8673f162" alt=""><figcaption>啊，这种夹不行</figcaption></figure>
+<p>所以大脑只要控制外括约肌放松，</p>
+<p>然后腹部轻微用力，屁就可以从松弛肛门挤出缝跑出去。</p>
+<blockquote>当然如果肛门松弛的话，痔疮也能恰巧弥补这一点（bushi）</blockquote>
+<p>此时即使直肠里还有粪便，由于粪便是固体，</p>
+<p>腹压较低，气跑的较快，外加挤出的缝较小，也完全不够把屎挤出来。</p>
+<p>只是如果缝比较小，湿度又比较大的话，声音可能变的浑厚而悠长。</p>
+<blockquote>我们可以继续奏乐帮助他缓解尴尬。<br>多冷隆冬多冷隆冬多冷隆冬噗噗噗，</blockquote>
+<p>以上都是正常情况。</p>
+<p>那不正常是啥情况呢？</p>
+<p>比如你腹泻的时候，由于此时肠道蠕动亢进，粪便还没整完大火收汁的任务就被送了过来。</p>
+<p>即使是刚腹泻完，少量稀便和肠液还会不定时频繁流入直肠。</p>
+<p>由于量太少，产生的便意刺激很低，和屁能产出的信号差不多，</p>
+<p>刚好大脑也一时大意，忘了闪。</p>
+<p>于是你决定赌一把。</p>
+<p>从此江湖上就多了一段顺腿流大师的传说。</p>
+<p>为啥叫这名？</p>
+<p>……据说完美还原了当天的画面。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2017158298030321813">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1976788175981676087">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9788744</guid>
-                <pubDate>Tue, 07 Apr 2026 18:56:43 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9788954</guid>
+                <pubDate>Wed, 08 Apr 2026 01:59:30 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么墨子会觉得音乐是像精神鸦片一样的东西？</title>
-                <link>http://daily.zhihu.com/story/9788752</link>
-                <description>狗子，欲望即命运 查看知乎原文 都是从费钱的角度来分析的嘛…… 看来现代人都已经忘了，音乐的本质就是巫术啊。 什么是巫术，我的极简定义是，通过最原始的手段让你产生精神幻象的技术。 在你老祖还在非洲打猎时，人类就已经喜欢音乐了，尤其是对于规律节奏的痴迷，更是猩猩都喜欢。 而原始时代，大家生存都成问题，仍然要听音乐，创作音乐，那就只能说明，音乐绝对是那个时候的刚需，什么刚需，祭祀的刚需。 国之大事，在…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8a9d3ddda5713aee3cc6fab29f1f4a1f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>刘邦的起义团队，在张良、韩信加入前是不是草台班子?</title>
+                <link>http://daily.zhihu.com/story/9788775</link>
+                <description>知乎用户，盗跖庄屩流誉后，更陈王奋起挥黄钺。 查看知乎原文 张良但凡有一点军事才能，那么该是刘邦投靠他，而不是他投靠刘邦，张良纯粹军事理论家，实战水平怕是秦末三四十个将领里面排倒数。 张良的起点是很高的，父祖“五世相韩”，是真正的贵族，而不是项羽这种将门出身，他爷爷项燕压根没资格参与楚国朝廷决策，结果现在却都尬吹项羽是贵族。张良自己也是相当有名望的，在游侠豪强圈子里属于偶像级人物，为人任侠，对豪杰…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-914d970e05e1478af005432341491936.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -198,58 +137,70 @@ second = data[5:]   # [5, 6, 7, 8, 9]
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-f664a2e5f0789e1bf8c8ea56c98ffc5b_l.jpg?source=8673f162">
-<span class="author">狗子，</span><span class="bio">欲望即命运</span>
-<a href="https://www.zhihu.com/question/1943886722686509710/answer/2018043794780594530" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户，</span><span class="bio">盗跖庄屩流誉后，更陈王奋起挥黄钺。</span>
+<a href="https://www.zhihu.com/question/2018222963602792704/answer/2018758110081238129" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>都是从费钱的角度来分析的嘛……</p>
-<p>看来现代人都已经忘了，音乐的本质就是巫术啊。</p>
-<p>什么是巫术，我的极简定义是，通过最原始的手段让你产生精神幻象的技术。</p>
-<p>在你老祖还在非洲打猎时，人类就已经喜欢音乐了，尤其是对于规律节奏的痴迷，更是猩猩都喜欢。</p>
-<p>而原始时代，大家生存都成问题，仍然要听音乐，创作音乐，那就只能说明，音乐绝对是那个时候的刚需，什么刚需，祭祀的刚需。</p>
-<p>国之大事，在祀与戎。祭祀，不管是耶稣还是老祖宗，都有一个极其重要的作用：凝聚共识，让大家相信我们是一伙的。</p>
-<p>《人类简史》里面也说了，人类之所以能屠杀其他更强的智人，很大的原因就是大家相信故事，相信共同体的神话，相信编造出来的“民族”，“国家”这些虚的概念。</p>
-<p>那你怎么让别人信呢，这就像邪教，如果我能给你制造一种你平常生活中根本体会不到的感觉，你大概率就会拜服。音乐的作用就是这个。</p>
-<p>有条件的可以去大一点的基督教堂，有咏叹合唱的那种，你就知道“上帝是一种感觉”。</p>
-<p>之所以那么明显的大象摆着很多人却答歪了，是因为现在大家都被系统性地阉割了这种体验。</p>
-<p>音乐上，流行乐就跟紫薇一样无限制地冲击你的神经，三四个和弦不停重复，有张力马上就解决，主歌就是为了副歌，副歌还是为了副歌，反正怎么简单怎么来。</p>
-<p>文化上，后现代到来，解构主义盛行，原子化势不可挡，人们从小就没有共同体的意识，也没有进入群体幻觉进而形成群体身份认同的体验。</p>
-<p>现在的人动不动就社恐，真的很正常，因为真的从小就没有什么社交，前现代人很有可能活着的时间全在社交，有点个人空间是奢侈，而现代人反过来，抖音一开谁也不爱。</p>
-<p>教育上，随着工业时代的深入，没有哪个统治者会关心人民像不像人，只关心人民能不能作为一个螺丝钉稳稳地在岗位上。</p>
-<p>为了这种需求，阉割一切可能带来野性，原始失控的因素就是必选项。最明显的就是艺术教育为负数，人不但不懂艺术（这算 0），甚至感觉艺术是“高级的”，普通人不配玩（0 都不如）。</p>
-<p>我早说过，别把艺术看得多么高大上，唱歌，音乐，画画，跳舞，这些东西是因为上限很高所以被称为艺术，但很多人都忽略了它的下限同样很低，低到原始人能在山洞里画，低到你家三岁孩子都会跳舞，画简笔画，听音乐。</p>
-<p>这些东西都是人的天性，既然是人的天性，那就必然带着野性，也就是说，有很多不可控的成分，比如大家如果都会听音乐，那学会跳舞就是迟早的事，这两个其实是捆绑着的，你不可能听到喜欢的音乐却不想动身体，一动身体，饮食男女，人之大欲自然就起来了。</p>
-<p>所以我每次看到国人惊叹拉丁舞，还上知乎问“跳拉丁舞之前要脱敏吗”我就想笑，他们不知道，性本来就不是彩礼结婚，性就是肉体的原始吸引，我怎么展示？当然是跳舞展示啊，所以舞蹈有性暗示很奇怪吗？人家就是为了性而生的好吧。</p>
-<p>高赞说，古代的音乐要很多人一起演奏，劳神费力，所以是精神鸦片，这就纯纯属于皇帝的金锄头。</p>
-<p>一来，他们只会算经济账，算不来政治账和人心账，他们不知道让底下朝拜的人恐惧臣服（这种精神体验音乐当然能做到，哪个皇帝出场不配乐？）不是有钱就行的。</p>
-<p>二来，前面我说了，其实想有巫术的致幻体验根本没那么难，别的不说，你看看演唱会，多少人痛哭流涕流连忘返，或者哪怕一个小酒吧的 livehouse ，相比下顶级耳机也只是路边一条。</p>
-<p>如果作为演奏者就更简单了，一个摇滚乐队，就四五个人，但每一个成员获得的心理爽感远超一个人当卧室音乐人，这个组过乐队的自然懂。</p>
-<p>所以最后的结论是，没错，真正的音乐就是精神鸦片，但 so what?电脑游戏还是电子海洛因呢，没 gpu 你能研究出来 ai 吗你，知道 gpt 的 g 是啥不。</p>
-<p>没这口精神鸦片，你早被尼安德特人烧成灰了。</p>
+<p>张良但凡有一点军事才能，那么该是刘邦投靠他，而不是他投靠刘邦，<strong>张良纯粹军事理论家</strong>，实战水平怕是秦末三四十个将领里面排倒数。</p>
+<p>张良的起点是很高的，父祖“五世相韩”，是真正的贵族，而不是项羽这种将门出身，他爷爷项燕压根没资格参与楚国朝廷决策，结果现在却都尬吹项羽是贵族。张良自己也是相当有名望的，<strong>在游侠豪强圈子里属于偶像级人物，为人任侠，对豪杰仗义，基本遇到个人就欠他人情，什么项伯项梁，碰到之前人五人六的，碰到之后都是恩公您来啦？秦末宋公明了属于是</strong>，博浪刺秦，更是名满天下，刘邦、项梁见到都要规规矩矩，客气的不得了。</p>
+<p>然后张良带着韩王成征战韩国旧地，在秦军主力被项梁怀王刘邦张耳纠缠，周旋于赵魏楚之时，这哥们儿和秦国驻韩治安军打得难解难分……最大战果是占了数城，然后又被秦军残部夺回，韩王成被张良带着去山林打游击，要不是刘邦西征，路过颖川，张良得饿死在城外。</p>
+<p>这时你问我张良改变了刘邦草台班子，我只想说——</p>
+<p>张良：我养你啊！</p>
+<p>刘邦：你先照顾好你自己吧！傻瓜。</p>
 <hr>
-<p>感谢评论区指正，gpt 的 g 是 generative. 但是 gpt 能诞生是因为游戏 gpu 的发展，我混淆了。</p>
+<p>至于韩信，混的还不如张良，张良在乱世里因为军事能力混的越来越菜，但好歹在末世里那是风生水起，敢打敢杀，施恩江湖，天下豪杰仰慕，所以在乱世里混得再差，也有人照顾、保他。</p>
+<p>我常说，秦末是游侠(豪强)革命，您看看这批人的成色：</p>
+<p>刘邦</p>
+<blockquote>仁而爱人，<strong>喜施</strong>，意豁如也。常有大度，<strong>不事家人生产作业</strong>。<br>始高祖微时，尝辟事，时时与<strong>宾客</strong>过巨嫂食。</blockquote>
+<p>王陵雍齿</p>
+<blockquote>王陵者，故沛人，始为<strong>县豪</strong>，<strong>高祖微时，兄事陵</strong>。<br>齿故<strong>沛豪，有力</strong>，与上有郤，故晚从。</blockquote>
+<p>萧何曹参</p>
+<blockquote>平阳侯曹参者，沛人也。秦时为沛狱掾，而萧何为主吏，居县为<strong>豪吏</strong>矣。</blockquote>
+<p>英布</p>
+<blockquote>布已论输丽山，丽山之徒数十万人，布皆与其徒长<strong>豪桀</strong>交通，乃率其曹偶，亡之江中为<strong>群盗</strong>。</blockquote>
+<p>项梁</p>
+<blockquote>项梁<strong>杀人</strong>，与籍避仇於吴中。<strong>吴中贤士大夫皆出项梁下。每吴中有大繇役及丧，项梁常为主办</strong>，阴以兵法部勒宾客及子弟，以是知其能。<br>梁乃召故所知<strong>豪、吏</strong>，谕以所为起大事，遂举吴中兵。使人收下县，得精兵八千人。梁部署<strong>吴中豪杰</strong>为校尉、候、司马。</blockquote>
+<p>项羽</p>
+<blockquote>籍长八尺馀，力能扛鼎，才气过人，虽<strong>吴中子弟</strong>皆已惮籍矣。</blockquote>
+<p>彭越</p>
+<blockquote>常渔钜野泽中，为<strong>群盗</strong>。</blockquote>
+<p>项伯与张良</p>
+<blockquote>（张良）居下邳，为<strong>任侠</strong>。<strong>项伯常杀人</strong>，从良匿</blockquote>
+<p>田氏兄弟</p>
+<blockquote>田儋者，狄人也，故齐王田氏族也。儋从弟田荣，荣弟田横，<strong>皆豪，宗彊，能得人</strong>。</blockquote>
+<p>陈婴</p>
+<blockquote>陈婴者，东阳人。少修德行，<strong>著称乡党</strong>。<br>陈婴者，故东阳令史，居县中，素信谨，<strong>称为长者</strong>。东阳少年杀其令，相聚数千人，欲置长，无适用，乃请陈婴。婴谢不能，遂强立婴为长，<strong>县中从者得二万人</strong>。</blockquote>
+<p>张耳陈余</p>
+<blockquote>张耳尝<strong>亡命</strong>游外黄。<br>秦灭魏数岁，已闻此两人魏之<strong>名士</strong>也，购求有得张耳千金，陈馀五百金。<br>陈涉起蕲，至入陈，兵数万。张耳、陈馀上谒陈涉。<strong>涉及左右生平数闻张耳、陈馀贤</strong>，未尝见，见即大喜。</blockquote>
+<p>以上这帮人，有贵族豪门后裔，有平民百姓出身，但没一个是“良家子弟”，都是游侠豪强，动辄杀人亡命，举事为盗。</p>
+<p>您再看看韩信的画风：身为布衣，忍饥挨饿，却腰胯宝剑，状若王孙，穷装 B 穷得瑟，人憎狗嫌，恶少逼之，竟受胯下之辱，<strong>这明显就是好人家的好孩子，不敢惹祸</strong>。这要换刘邦项羽张良，非砍死恶少不可，大不了亡命天涯。而且韩信对王孙形象、割地封王有着异乎寻常的执念，真正王族出身的韩王信都没他执念强，韩信少时葬母于高地，出仕刘邦时多次提点自己要封王，秦末慕容复了属于是，然而偏偏韩信这个人没法聚拢起队伍，孤僻，冷傲，嘴臭，人缘太差。</p>
+<p>韩信就是这么个充满矛盾的人，</p>
+<p>他不是《楚汉传奇》里臭屌丝的形象，是一个打扮帅气的贵公子人设，哪怕忍饥挨饿都极力维持这个形象，因此漂母虽然接济他，但也臭骂他这种不好好过日子的浮华作风。</p>
+<p>他在史记里被司马迁明言出身草根，但他对封王有着异乎寻常的执念，秦末众人，无论项羽刘邦，还是真六国宗室的韩王信、田氏兄弟，都<strong>没人比韩信更渴望回到战国时代，裂土封王。</strong></p>
+<p>他军事能力上，的确称得上“国士无双”，但他偏偏有着巨大的性格缺陷，自己根本聚拢不了一支队伍，咱不和刘邦项羽田氏兄弟比，就是和英布比，英布被拉壮丁、离开老家，在骊山做徭役，就这人离乡贱、人生地不熟的劳苦环境下，这哥们儿都能和一帮苦力打成一片，结交豪杰，成为这帮人的首领，然后上演《肖申克的救赎》《投奔怒海》《末路狂花》，从陕西流窜到江西，成了长江《贼王》。英布军事水平拍马也比不上韩信，然而在聚拢人心上，英布“组建工会”创业的时候，韩信还在钻裤裆。</p>
+<p><strong>韩信是一个极为优秀的职业经理人，专业领域无敌，有明显的性格弱点、难以自立，偏偏自己所求的欲望太明显，就是想封王。——有能力，有弱点，人缘极差，不能自立，还因为所求太明显容易被拿捏，这就是天选打工人、极品工具人，除了同僚恨他要死，所有领导都会爱的不得了</strong>。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1943886722686509710">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2018222963602792704">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9788752</guid>
-                <pubDate>Tue, 07 Apr 2026 18:56:44 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9788775</guid>
+                <pubDate>Wed, 08 Apr 2026 01:59:31 GMT</pubDate>
             </item>
             
             <item>
-                <title>川西和瑞士的区别在哪里？</title>
-                <link>http://daily.zhihu.com/story/9788758</link>
-                <description>dust 查看知乎原文 由于我之前说过瑞士雪山的接近性了，就先抛开接近性不谈。 如果在国内找相似的画风，在岩石骨架上最像瑞士的是玉龙雪山，而在植被皮相上最像瑞士的则是伊犁。 先说岩石 阿尔卑斯精华段景区的地质基底本质上是从深海中挤压并抬升而起的巨大石灰岩块体。你可以把它简单粗暴地理解为高度放大 10 倍的桂林山水 Pro Max 版 而玉龙雪山也是国内雪山里少见的，大部分山体由石灰岩构成的雪山。（…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-021d28e7769bcc6f0b2c3fe710240870.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>中国古代上流社会的吃货到底能吃到些什么？</title>
+                <link>http://daily.zhihu.com/story/9788957</link>
+                <description>会飞的女巫，如是醉人虽于此时，委卧荆棘便生乐想。 查看知乎原文 你是一个天子曹丕，找人去打诸葛亮，今天你要吃个大的！ 你说，添一碟石蜜。 普通人想吃，吃不起。石蜜是原始版蔗糖，甘蔗炼制，普通人见过几根甘蔗？更不用说炼什么糖。 但身为三国第二位尊贵的甜口吃货，你曾经一次给南方的孙权送过五斛石蜜，汉代一斛约合当今 24.5 公斤，五斛石蜜差不多 123 公斤，够你俩吃出牙疼病了。 今因赵咨，致文马一匹…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4a34c167e8e159505190cb6533fe8ff1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -269,90 +220,93 @@ second = data[5:]   # [5, 6, 7, 8, 9]
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-2aeba89758bda244b95ff360067ef948_l.jpg?source=8673f162">
-<span class="author">dust</span>
-<a href="https://www.zhihu.com/question/477287200/answer/2014474485990978111" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-faaa70aa6db7bcdb8a2ec42dadb8067d_l.jpg?source=8673f162">
+<span class="author">会飞的女巫，</span><span class="bio">如是醉人虽于此时，委卧荆棘便生乐想。</span>
+<a href="https://www.zhihu.com/question/56407099/answer/2017901160028189854" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>由于我之前说过瑞士雪山的接近性了，就先抛开接近性不谈。</p>
-<p>如果在国内找相似的画风，在岩石骨架上最像瑞士的是玉龙雪山，而在植被皮相上最像瑞士的则是伊犁。</p>
-<p><strong>先说岩石</strong></p>
-<p>阿尔卑斯精华段景区的地质基底本质上是从深海中挤压并抬升而起的巨大石灰岩块体。你可以把它简单粗暴地理解为高度放大 10 倍的桂林山水 Pro Max 版</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6ab5688b0acfe28c72ac27ffdd3cc078_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-92b817e3868931fc47d8400da3849cc2_720w.jpg?source=8673f162" alt=""></figure>
-<p>而玉龙雪山也是国内雪山里少见的，大部分山体由石灰岩构成的雪山。（ 只是石灰岩有共性。但是短距落差和雪线、接近性、植被都有差距）：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0a5749a321c0ec6db9967b998d4cca9e_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a7ff50aa06604c4f9ea489d46818433d_720w.jpg?source=8673f162" alt=""></figure>
-<p>石灰岩很容易被水侵蚀。所以石灰岩的山较少有锋利的棱角，轮廓线比较柔和。石灰岩地貌的风景发挥往往很稳定，不会出大错，同时也很容易形成悬崖：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b6ef17f09ffd7175e9419f88efe5ac4c_720w.jpg?source=8673f162" alt=""></figure>
-<p>而其他更耐侵蚀的岩石，山体被冰川刮刨、崩裂的痕迹较为明显，所以轮廓线比较硬朗。这种雪山的发挥就不那么稳定，可能特别美也可能特别丑。 比如川西的四姑娘山，基岩是花岗岩，表面是板岩夹杂着石灰岩，线条就比较锋锐：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c0894347ab637f7832c0bdb1da579cc9_720w.jpg?source=8673f162" alt=""></figure>
-<p>在这个基础上，阿尔卑斯还有一个开挂的天赋，就是他的精华景区大多位于北坡，大西洋常年主吹西风或西北风，在这里落下海量降雪。大家都知道阳台朝北意味着日晒时间极少，所以这些积雪也不容易融化。这使得这里的冰川发育非常暴力。相比之下，我国川西雪山迎接着西南和东南季风，降水集中在夏季，冬季反而干燥；加上纬度低雪线高，冰川的发育旺盛程度不及阿尔卑斯。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5f59663c7929729ba7e6fdc054c8a656_720w.jpg?source=8673f162" alt=""></figure>
-<p>冰川是雪山的雕刻师。形象点说阿尔卑斯就像一个被完整切开的千层蛋糕，而川西的雪山只是被掏了几勺子的蛋糕。这就是高纬度地区的优势了。来看看著名的艾格峰的悬崖是怎么形成的：</p>
-<p>在几万年前的末次冰盛期，巨大的冰盖曾将整个格林德瓦盆地填满，上千米厚的冰川直接抵着艾格峰的北壁摩擦流动。你可以想象一下南极洲那些被冰原埋没、只露尖角的冰原岛峰（Nunatak），就接近阿尔卑斯几万年前的样子（不过没有埋得这么深）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4773a34e1477d6a829247651b50401fa_720w.jpg?source=8673f162" alt=""></figure>
-<p>当气温回升，冰川这个超级推土机退缩后，冰川雕塑的杰作就揭开帷幕。已经被冰川刨切得很陡峭的石灰岩壁失去冰川的支撑后开始崩塌，变得更加险峻。艾格峰北壁就诞生了，在 1800 米的落差坡度达到了 70 度，令人窒息。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-28cda93dc52bbf2e208fe72d854aad96_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4e218b1e021b24a3d56795c926671eee_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-93f30c6d7d794fd8404f2cf2c9bb9413_720w.jpg?source=8673f162" alt=""></figure>
-<p>相同纬度相同气候，也相同雕刻手法的还有美国的冰川国家公园，地形也像切开的千层抹茶蛋糕，只是垂直落差远逊于阿尔卑斯：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-91f3597cfb3c879fa4a64fe85c7c600a_720w.jpg?source=8673f162" alt=""></figure>
-<p>以下都是阿尔卑斯的石灰岩切糕地貌：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-1973a7f29c659b5947e091291362d679_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-310bcf69aeaeb525fd6c63fd8cd9a6ef_720w.jpg?source=8673f162" alt=""></figure>
-<p>相比之下川西雪山的切割感一般集中在山尖，基座普遍很大。所以需要去用长焦特写山尖，让人忽略臃肿的山脚</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fb1455c435e6c3d2155e38d6476d729b_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b9e97445c325b81e79a691dca523fa36_720w.jpg?source=8673f162" alt=""></figure>
+<p>你是一个天子曹丕，找人去打诸葛亮，今天你要吃个大的！</p>
+<p>你说，添一碟石蜜。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5609612c5dd8c6238ed7ed77c4428eb7_720w.jpg?source=8673f162" alt=""></figure>
+<p>普通人想吃，吃不起。石蜜是原始版蔗糖，甘蔗炼制，普通人见过几根甘蔗？更不用说炼什么糖。</p>
+<p>但身为三国第二位尊贵的甜口吃货，你曾经一次给南方的孙权送过五斛石蜜，汉代一斛约合当今 24.5 公斤，五斛石蜜差不多 123 公斤，够你俩吃出牙疼病了。</p>
+<blockquote>今因赵咨，致文马一匹，鼲子裘一领，石蜜五斛，鳆鱼千枚。——曹丕《报吴王孙权书》</blockquote>
+<p>就着石蜜，你独自吃下你甜津津的早餐。</p>
+<p>你吃饭，乐师在堂下为你演奏音乐，歌唱你新写的情诗。</p>
+<p>当时的贵族，吃喝都要配乐，现场听演唱会。你是天子，更不例外。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f90436b3a7a05ec70c30cb8dd80142f9_720w.jpg?source=8673f162" alt=""></figure>
+<blockquote>王者食所以有乐何？乐食天下之太平，富积之饶也——《白虎通》</blockquote>
+<p>享受吧？这只是你早上第一餐，而你天天吃四餐。</p>
+<p>礼制规定，诸侯一天三餐，天子一天四餐，分别叫做平旦食（早餐）、昼食（午餐）、晡 bū食（下午间餐，下午三点到五点吃）、暮食（晚餐）。</p>
+<blockquote>王者平居中央，制御四方。平旦食，少阳之始也。昼食，太阳之始也。食，晡少阴之始也。暮食，太阴之始也。​《论语》曰：​“亚饭干适楚，三饭缭适蔡，四饭缺适秦。​”诸侯三饭，卿大夫再饭，尊卑之差也——《白虎通》</blockquote>
+<p>哀感顽艳的新诗，令你有些多愁善感。</p>
+<p>你放下筷子，随口吩咐一声：接着奏乐，接着舞！</p>
+<p>独自下堂出门，庭前看见甘蔗，你斩下一支，当作宝剑挥了挥。</p>
+<blockquote>掘中堂而为圃，<strong>植诸蔗于前庭</strong>。涉炎夏而既盛，迄凛秋而将衰。——曹丕《感物赋》</blockquote>
+<p>你的剑法是当世一流，可别逼你使出甘蔗剑来。</p>
+<blockquote>固求与余对。时酒酣耳热，方食芋蔗，便以为杖，下殿数交，三中其臂。——曹丕《典论》（他真的用过甘蔗剑）</blockquote>
+<p>一剑舞罢，你看看手中这甘蔗，挺拔多汁，一定很甜。</p>
+<p>你吩咐道：趁热给仲达送去，不可半路上凉了。</p>
+<p>仲达就是你的多年好友、忠实下属司马懿。</p>
+<p>小黄门忙忙捧起甘蔗，细心的你想起司马懿早年有个中风的毛病，又给他加了一杯粥，好消化。</p>
+<blockquote>宣王令兩婢侍邊，持衣，衣落；複上指口，言渴求飲，婢進粥，<strong>宣王持杯飲粥，粥皆流出沾胸。</strong>勝湣——《三国志》（当然，这是曹丕去世多年后的事情，曹丕并不知情）</blockquote>
+<p>三国和汉代一样，风行一种肉汤加碎米黏糊糊的东西，叫做白羹。方才你送司马懿的，正是这种白羹。目前出土文物有鲍鱼笋白羹、鹿肉芋白羹、鲫白羹等等。</p>
+<p>既然要找人打诸葛亮，昼食（午餐）你找了司马懿一起吃，和他商量军机大事。</p>
+<p>你上了许多烤串和美酒。</p>
+<p>当时烤串是主流食物，叫做炙，用铁签子串着肉块烤，有犬肝炙、牛肋炙、豕炙、鹿炙、鸡炙等等，花样百出。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-677541a940c699927a207578e6c116e6_720w.jpg?source=8673f162" alt=""><figcaption>陕西绥德四十铺汉墓墓门画像拓片（局部）</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8edc2e1c72c889b00da9a4d4d5b8fc82_720w.jpg?source=8673f162" alt=""></figure>
+<p>你还上了两串葡萄。</p>
+<p>葡萄是你一生挚爱，你说什么水果都不如葡萄。</p>
+<blockquote>中国珍果甚多，且复为说蒲萄。当其朱夏涉秋，尚有余暑。醉酒宿醒，掩露而食。甘而不腻，酸而不脆，冷而不寒，味长汁多，除烦解渴……既远方之果，宁有匹者乎？——曹丕《与吴监书》</blockquote>
+<p>你还拉一踩一，说葡萄比龙眼、荔枝好吃太多了。为证明你的话对，你买来荔枝给军众分发，让他们亲口尝尝，荔枝可不算什么高贵水果。</p>
+<blockquote>南方有龙眼、荔枝，宁比西国蒲萄、石蜜乎？酢且不如中国，今以荔枝赐将士，噞之则知其味薄矣。——曹丕《群臣诏》</blockquote>
+<p>不过我们都知道，荔枝没有不好，它是替诸葛孔明背了黑锅。</p>
+<p>全怪荔枝产地不对，不长在你的国境里，偏偏长在孔明霸占的西南地区。</p>
+<blockquote>旁挺龙目，侧生荔枝。布绿叶之萋萋，结朱实之<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E7%25A6%25BB%25E7%25A6%25BB/51307%3FfromModule%3Dlemma_inlink" target="_blank" rel="nofollow noreferrer">离离</a>。——左思《蜀都赋》</blockquote>
+<p>想起孔明，你忧郁地多吃了两颗葡萄，心想，要是你抓到诸葛孔明，你会把他怎么样呢？又该给他吃什么？</p>
+<p>是啊，吃什么？</p>
+<p>孔明那边，西南美食特产很多，他有可能吃过茶。</p>
+<p>三国时期已经有茶了，当时不流行，只认为是地方特产，做法也和后世不一样，咸口加葱姜，甜口加橘子。</p>
+<p>你先别管好吃不好吃，你就说提神不提神吧。</p>
+<p>对于孔明那边的事，你虽然经常踩几脚（除了荔枝龙眼风评受害，孔明的蜀锦也吃了你一记严肃差评），其实非常关注。</p>
+<p>你甚至打听过西川的口味问题，听说西川一样爱吃甜口。</p>
+<blockquote>蜀猪鸡鹜味皆淡，故蜀人作食，喜着饴蜜，以助味也。</blockquote>
+<p>其实你打听得不全，西川也爱吃辣。</p>
+<blockquote>德在少昊，故好辛香</blockquote>
+<p>而且西川非常讲究烹饪美学，美食特产又特别丰富，说是四季轮流产出，什么美味都有。</p>
+<blockquote>其辰值未，故尚滋味……其山林泽渔、园囿果瓜，四节代熟，靡不有焉。</blockquote>
+<p>不过你要对决的是建兴早期的孔明，他舍生忘死，宵衣旰食，西川好吃的再多，大概也没有空闲鉴赏。</p>
+<p>但是你也不要高兴太早，因为你寿命甚至不如过度劳累的孔明。</p>
+<p>你只活了 39 岁，后世推测，那可能和你无节制地大醉有关。“醉酒宿醒，掩露而食”、“又酿以为酒，甘于鞠蘖，善醉而易醒”</p>
+<p>当吃货不要紧，酗酒害了你。来生要是还当吃货，曹丕呀，你可千万不要什么都吃了。</p>
+<p>完</p>
+<p>相关：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/10717365036/answer/90940340937?share_code=aR8Ko42JhimP&amp;utm_psn=2017913188142821390">孔明那边的益州平民在吃什么</a></p>
 <hr>
-<p><strong>再说植被。</strong></p>
-<p>瑞士让很多人印象最深刻的植被是什么？很多人马上会想到如天鹅绒一样丝滑嫩绿的草地。在视觉上，草地的嫩绿永远比森林的深绿更抢眼、更讨喜。这一点太占优势了。而在植被层面，瑞士和川西画风截然不同</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-04fb54466f1ef9594e9fd930abc7a885_720w.jpg?source=8673f162" alt=""></figure>
-<p>瑞士是物种相对单一的纯血温带气候（阿尔卑斯人工干预的痕迹很重，当地唯一的猫科动物都是从东欧抓过来的）。其物种多样性在世界温带里也是垫底的。相比中国的横断山区可以说是地球温带的物种诺亚方舟。因为其纬度地处亚热带，植物也带有亚热带的底色。</p>
-<p>也正是这种单调早就了瑞士的纯净画风，瑞士的植被分层极其纯粹：针叶林过后，几乎没有过渡，无缝衔接纯净的高山草甸。高山灌木带的存在感很微弱。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cb4c185eaf7a8d94848ce75cbba18c63_720w.jpg?source=8673f162" alt=""></figure>
-<p>而川西在针叶林之上、草甸之下，横亘着一层极其强势的高山灌木带（其中很多是亚洲特有的高山杜鹃）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-61af16cdd108b34bf5cdcbbe7eaa1b2e_720w.jpg?source=8673f162" alt=""><figcaption>四姑娘山，针叶林再往上是密密麻麻的灌木丛</figcaption></figure>
-<p>这就导致了两地视觉感受的巨大差异： 瑞士的草甸是纯粹单一的羊绒状草毯。而川西的草地总让人感觉不太干净，像是在毯子上长了一层暗色的藓。杜鹃花开时固然极美，但花谢后，深黑色的叶片和木质部枝干会加深山体的灰暗感：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0212b1581bc5d86118ccee09a779de94_720w.jpg?source=8673f162" alt=""><figcaption>这个就是典型的高原灌木杜鹃，颜色深叶片硬。</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0e2632aab97c52f6fce673c602555e3b_720w.jpg?source=8673f162" alt=""></figure>
-<p>另外，由于海拔更高，川西的草甸高山性明显更强。</p>
-<p>首先两地海拔差了近 2000 米，而纬度差了 16 度，带来什么后果呢？就是川西的紫外线爆表，植物必需合成大量的花青素来抵御这种毁灭级的紫外线。造成的结果就是叶片颜色深沉发灰。是的，人为了防晒肤色会变黑，植物也是一样的。</p>
-<p>此外川西高海拔地区的气温波动也更剧烈，降水相对瑞士的温带海洋性气候来说非常不均衡，植物为了抗旱变得更加矮小，叶片更窄且表面高度蜡质化，也比较稀疏（就像程序员为了抗压导致发量变少一样），观感自然就不如瑞士那么柔和，那么“嗲”。</p>
-<p>以下也是川西的草地比较经典的景象，量感少、灌木多，整体色泽发灰。所以我觉得瑞士从视觉上更讨好。人类的视觉本能总是更偏爱干净、柔软、饱满繁盛的画面：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e55c08052cb401419a8acdd824fde26b_720w.jpg?source=8673f162" alt=""><figcaption>格聂草原</figcaption></figure>
-<p>不过川西的灌木带在秋天会迎来它的绝对主场。 部分高山灌木在秋季发色，茂密的灌木丛会呈现出一种色彩斑斓的摇粒绒质感。这种奇幻绚丽的秋季视觉冲击力，是物种单一的阿尔卑斯山所无法比拟的。（图中是降水更丰富的珠峰东坡嘎玛沟一带，效果更好，不过川西也不差）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-54b9f464ef8ec85cada489d0a2cf691b_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-765300e7b0b5d6feafda0202d5cd7dbf_720w.jpg?source=8673f162" alt=""></figure>
-<p>阿尔卑斯的秋天，色彩就比较平淡了：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-269c30cc08a6a55afcdd9db670d4d4c5_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果要在国内寻找与阿尔卑斯植被相近的雪山，最接近的就是新疆伊犁。</p>
-<p>它们都受大西洋西风的恩泽，最佳景观面都位于北坡，雪线极低（哪怕在盛夏，山顶的白雪也能与开阔的翠绿草坪形成鲜明对比）。伊犁的草坪比阿尔卑斯更加天然。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bc3fcc280f1414b16b558bc0a308bcb1_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-740101c8852a4f13f64463bd64dd7f2f_720w.jpg?source=8673f162" alt=""></figure>
-<p>甚至伊犁在视觉的纯粹感上比瑞士做得更极致，虽然伊犁的地形和岩石构造有着自己独特的风貌，绝非瑞士的复刻，但在那种纯净感和疗愈感上，两者有异曲同工之妙：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-07c39837ec9c28ca1e99e801fe92ad87_720w.jpg?source=8673f162" alt=""></figure>
+<p>注：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-301406396fb77e316b6f436b179570f5_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/477287200">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/56407099">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9788758</guid>
-                <pubDate>Tue, 07 Apr 2026 18:56:44 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9788957</guid>
+                <pubDate>Wed, 08 Apr 2026 01:59:32 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9788759</link>
-                <description>瞎扯 · 相貌长得像历史人物，是种怎样的体验？ 知乎日报 查看知乎原文 Q：相貌长得像历史人物，是种怎样的体验？ @余澄空 ：感觉自己有点像明孝宗朱佑樘 Q：鸿门宴上樊哙生吃了一个彘肩（猪前腿），为何没有感染细菌寄生虫等？ @白若虚 ：不是哥们，你在担心这个？ 不吃的话，可能樊哙和刘邦就得死于急性金属中毒了 Q：如何跟孩子说清楚「咱们买不起」这个实情？ @老年人 ：小时候大概是 07 08 年那会…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-753a6e2d9deaeb4f4f3c19af4559b633.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <link>http://daily.zhihu.com/story/9788776</link>
+                <description>瞎扯 · 同学聚会最悲哀的是什么？ 知乎日报 查看知乎原文 Q：同学聚会最悲哀的是什么？ @William ：这个话题下面，这张图算是无比贴切： Q：虾为啥要长得这么适合被吃？ @pk伯爵 ：我吃生蚝时也很困惑，这货为啥要进化出个盘子来？这盘子不仅能装它自己的肉，还恰好能再装些蒜蓉粉丝。 Q：海洋生物真的拿藤壶一点办法都没有吗？ @无何乡居士 ：其实人类消灭虱子是很近代的事情，古人作为万物之灵，一…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-753a6e2d9deaeb4f4f3c19af4559b633.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -367,7 +321,7 @@ second = data[5:]   # [5, 6, 7, 8, 9]
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 相貌长得像历史人物，是种怎样的体验？</h2>
+<h2 class="question-title">瞎扯 · 同学聚会最悲哀的是什么？</h2>
 
 <div class="answer">
 
@@ -378,31 +332,28 @@ second = data[5:]   # [5, 6, 7, 8, 9]
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/31323474/answer/1998124538630779792" target="_blank">相貌长得像历史人物，是种怎样的体验？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/22636295/answer/1997367883962017717" target="_blank">同学聚会最悲哀的是什么？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/190b27f7f53997d2887cb0ba9b5a2dab" target="_blank">@余澄空</a> ：感觉自己有点像明孝宗<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271941870&amp;content_type=Article&amp;match_order=1&amp;q=%E6%9C%B1%E4%BD%91%E6%A8%98&amp;zhida_source=entity" target="_blank">朱佑樘</a></div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/a87bb64b8752dce33e93ce9e8b8ca24f" target="_blank">@William</a> ：这个话题下面，这张图算是无比贴切：</div>
 </blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-6a91dab40745ce662e539e3bc19965a9_1440w.jpg" alt="" width="1279"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-2d59455986f09fe8c38378da05b750fc_1440w.jpg" alt="" width="690"></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/267314352/answer/2000156575336243286" target="_blank">鸿门宴上樊哙生吃了一个彘肩（猪前腿），为何没有感染细菌寄生虫等？ </a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/642964232/answer/1891497837713421146" target="_blank">虾为啥要长得这么适合被吃？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/949600eecbb312de207b8ffc75d49171" target="_blank">@白若虚</a> ：不是哥们，你在担心这个？</div>
-不吃的话，可能樊哙和<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271941870&amp;content_type=Article&amp;match_order=1&amp;q=%E5%88%98%E9%82%A6&amp;zhida_source=entity" target="_blank">刘邦</a>就得死于急性金属中毒了</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/665451884/answer/1996233801714643892" target="_blank">如何跟孩子说清楚</a>「<a class="internal" href="https://www.zhihu.com/question/665451884/answer/1996233801714643892" target="_blank">咱们买不起</a>」<a class="internal" href="https://www.zhihu.com/question/665451884/answer/1996233801714643892" target="_blank">这个实情？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c9d217d27b163eb45c8ab805872473bc" target="_blank">@老年人</a> ：小时候大概是 07 08 年那会，我妈把一周的花费给我，让我管理</div>
-我第二天开始就天天买豆芽，吃炒豆芽。一次 1 块钱的。一大包。<br>因为其他的确实感觉很贵。我妈还要求隔三差五整个水果，零嘴。<br>给我管，全断了，吃了三天炒豆芽。全家都受不了了。<br>我也忌了当时具体是咋想的。反正钱到我手里就舍不得了。看啥啥贵</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/24459313/answer/1983585656237216442" target="_blank">你看过哪些好看的旗帜？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/aee6a2a5ff6c4acc1ada8a5370743ae9" target="_blank">@陈冠同2号</a>：<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271941870&amp;content_type=Article&amp;match_order=1&amp;q=%E5%A8%81%E5%B0%94%E5%A3%AB%E6%B3%95%E5%BE%8B&amp;zhida_source=entity" target="_blank">威尔士法律</a>没有规定国旗上的龙长什么样，所以这也是威尔士的合法国旗</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/094805549ec9b658451fa53c02bf2f3a" target="_blank">@pk伯爵</a> ：我吃<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271941519&amp;content_type=Article&amp;match_order=1&amp;q=%E7%94%9F%E8%9A%9D&amp;zhida_source=entity" target="_blank">生蚝</a>时也很困惑，这货为啥要进化出个盘子来？这盘子不仅能装它自己的肉，还恰好能再装些蒜蓉粉丝。</div>
 </blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic3.zhimg.com/v2-7b0c4ea93f37418ef79c8b62b0cf93ce_1440w.jpg" alt="" width="1350"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1994819098945814792/answer/1999885682387207392" target="_blank"> Vibe Coding有哪些奇技淫巧？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/4074219450/answer/1971257340473893841" target="_blank">海洋生物真的拿藤壶一点办法都没有吗？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/6c2ceedde24d1fa9fbd0ac4eacb9359f" target="_blank">@零陵泠棂</a> ：在 prompt 最开始要求模型对话结尾带「喵～」，当你看到它说话不带喵的时候，就知道要新开一个对话了。</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f4d74b72df1740bdb255b7a71aab2aee" target="_blank">@无何乡居士</a> ：其实人类消灭虱子是很近代的事情，古人作为万物之灵，一样搞不定自己的藤壶。</div>
+</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1941154755620611466/answer/1997361082143097752" target="_blank">钓鱼佬最接受不了什么？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/575069a04d657497c4414f6188993088" target="_blank">@鲍鱼王</a> ：钓上了一条没见过的鱼</div>
+高高兴兴回家煮了一锅<br>当天晚上上网查了一下<br>国二</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/6544038968/answer/1992238469133665898" target="_blank">你是什么时候发现，这个世界其实就是一个巨大的草台班子？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/827b60ed5e84ee05dc804ac7539025c6" target="_blank">@何锐锐</a> ：很多小公司所谓的发展战略取决于老板当天在抖音刷到什么</div>
 </blockquote>
 <p><br class="Apple-interchange-newline"><br class="Apple-interchange-newline"></p>
 </div>
@@ -414,8 +365,8 @@ second = data[5:]   # [5, 6, 7, 8, 9]
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9788759</guid>
-                <pubDate>Tue, 07 Apr 2026 18:56:45 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9788776</guid>
+                <pubDate>Wed, 08 Apr 2026 01:59:33 GMT</pubDate>
             </item>
             
     </channel>
