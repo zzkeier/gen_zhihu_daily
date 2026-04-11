@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Fri, 10 Apr 2026 18:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 01:51:41 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>火车走火车道，那开火车的人怎么知道该走哪条车道了？</title>
-                <link>http://daily.zhihu.com/story/9788799</link>
-                <description>傻瓜乐力，知青 修过铁路 开过火车 ......早已退休。 查看知乎原文 学烧火第一天，师父就教诲：“你得先学认道儿啊，知道该在哪儿填煤，在哪儿拉水儿......” “火车各跑一段儿”，小烧 大烧 大车一点点熬，等到摸闸把子，拉汽门了，路况早就烂熟于心了。 站外运行,按规定速度开车就行,没有辨认走哪条道的问题。问题在进站和出站。 我干那时， 1/ 出站 ，发车根据路票，看信号灯 或信号旗（当时叫”…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0143d490e8e7250dfe8002dc96835cdb.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>在你的专业领域，大模型目前最难跨越的一道「门坎」是什么？</title>
+                <link>http://daily.zhihu.com/story/9788822</link>
+                <description>知乎用户，爱好广泛，喜欢扯淡 查看知乎原文 在我所在的这个领域，也就是金融、量化金融、量化交易这个方向，我越来越清晰地感受到：大模型在这里仍然存在明显的局限性。 这个问题其实是在一个非常具体的背景下暴露出来的。最近我在测试一个行情数据 API 提供的 MCP（Model Context Protocol）时发现了这些现象。我原本的期望很简单——既然给了模型一个标准化的行情数据 MCP，它就应该能够…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-6ab674b32368a1368a26153b0a59c68a.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,149 +31,274 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-0bd53574569fa5fc997d53f2ff66e718_l.jpg?source=8673f162">
-<span class="author">傻瓜乐力，</span><span class="bio">知青     修过铁路   开过火车 ......早已退休。</span>
-<a href="https://www.zhihu.com/question/591788653/answer/46318024292" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户，</span><span class="bio">爱好广泛，喜欢扯淡</span>
+<a href="https://www.zhihu.com/question/2003062708547843506/answer/2008820235373918166" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>学烧火第一天，师父就教诲：</strong><strong>“你得先学认道儿啊，知道该在哪儿填煤，在哪儿拉水儿......”</strong></p>
-<p>“火车各跑一段儿”，小烧 大烧 大车一点点熬，等到摸闸把子，拉汽门了，路况早就烂熟于心了。</p>
-<p>站外运行,按规定速度开车就行,没有辨认走哪条道的问题。问题在进站和出站。</p>
-<p>我干那时，</p>
-<p>1/ 出站 ，发车根据路票，看信号灯 或信号旗（当时叫”扬旗“- 高高地立在铁路边适当位置）。</p>
-<p>2/ 进站前 看信号灯 和 扬旗（早期铁路信号） ，停车或通过。</p>
-<p><strong>“火车各跑一段儿”，通常，开火车都跑固定的熟悉路线，偶然运行陌生线路，都得加派个“带道儿的”进驾驶室 沿途介绍路况。</strong></p>
-<p>发车 根据运行图 调度计划，接受车站值班员给的路票 ，接受路票的副司机或司炉 打开路票兜，取出路票，大声朗读路票内容，最后喊“路票好了！” 驾驶室值乘的三人 同时复唱路票关键词比如：“XXX 车站到 XXX 车站 路票好了！” 然后才开车走人。</p>
-<p>看信号（夜间信号灯），白日看信号板 （扬旗），手动信号旗。</p>
-<p><strong>通常进站才出现弄明白进几道这种情况 - 一旦车出了车站，进入区间就一条道，沿着闭塞区间跑就行了，理论上不该走错路，</strong></p>
-<p>因为火车顺着铁道走，扳道员扳到哪邦道岔，车就进哪股道。但是，常有司机瞭望失误，冒进信号或闯红灯 造成重大事故的。</p>
-<p>机车乘务员操作规程 规定行车要时刻注意瞭望，呼唤应答。</p>
-<p>呼唤应答，应用场合很多。</p>
-<p>比如机车 下了坡 不需要高压蒸汽了，或进站前要停车了，司机在要关上汽门之前要大喊：“关汽！”通知烧火的，副司机 司炉也要跟着复唱“关 - 汽！” 司机才调整廻动机手把，关汽门，同时司炉也停止填煤，打开送风器，拉开水泵往锅炉 注水……此时，如果不及时打开送风器，炉口就会“倒烟”。</p>
-<p>同样， 过弯道， 道口， 桥涵…… 大车和负责瞭望的副司机或司炉都要通报路况 ，呼唤确认 “弯道好了”“道口好了”什么的，</p>
-<p>列车进站前，也要提前在站外“呼叫警示标”处鸣汽笛（两短一长“要信号”），呼叫进站信号，负责瞭望的司机和副司机都要注意观察前方信号，随时通报所观察到的信号灯（或扬旗） 情况 ， 高喊“进站好了！”或 “一个黄的！”（一个黄灯列车进正线）或“俩黄的！”（列车进侧线）或“绿的 - 通过！”（绿灯） 或“没有信号”......，司机副司机司炉都要跟着呼唤应答，据此，司机才采取相应操控： 减速进站，正线或侧线几道停车，还是缓行正线通过车站不停车或站外停车......。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-76b35ac3dc1bbb89e4e853820e3d3bea_720w.jpg?source=8673f162" alt=""><figcaption>在早的信号是手控的“扬旗”</figcaption></figure>
-<p>天不好，有雨 有雪，尤其是雾大，一定要减速，看准路况，彻底确认才行；看错信号，俩人一唱一和还好纠正，必须再确认。如果稀里糊涂“冒进信号”（即列车冒进信号机或越过警冲标，即便没造成任何损失，也属于 B 类事故（造成 1 人以上 10 人以下重伤,直接经济损失 1000 万元以下的责任事故）。闯红灯 ，‘’放一线 ”，就难免酿成“正面” “侧撞” “追尾”......等车毁人亡的 A 类恶性事故,那就等着进班房或降级降职处分。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-058216a65f4b0a972625e797485c3524_720w.jpg?source=8673f162" alt=""><figcaption>现在都是自动信号灯了</figcaption></figure>
-<p><strong>冒进信号事故界定：</strong></p>
-<p>列车前端任何一部分，越过显示为停车信号的固定信号标识时，就构成冒进信号事故。这是造成列车冲突、脱轨等重大险性事故的直接因素，必须预防。</p>
-<p><strong><br> 1/ 误认信号 冒进信号酿成大祸案例：</strong></p>
-<p>1988 年 3 月 24 日，上海嘉定封浜乡沪杭铁路外环线，匡巷站下行出站信号机外，发生了旅客列车正面相撞事故，</p>
-<p><strong>原因就是南京西站开往杭州站的 311 次列车，因机车乘务员误认信号，越过该列车图定停靠的匡巷站 并冒进出站信号机，</strong></p>
-<p>挤坏道岔并闯入区间，与由长沙站开往上海站的 208 次列车迎面相撞<strong>，造成 29 人死亡、20 人重伤、79 人轻伤，机车大破 2 台，客车报废 4 辆、大破 2 辆、中破 1 辆，中断行车 23 小时 07 分</strong>。</p>
-<p>事发时，311 次列车恰巧有来自日本高知县的修学旅行团，<strong>事故导致该旅行团死亡 28 人，重伤 9 人，轻伤 28 人。</strong></p>
-<p><strong><strong>酿成</strong>中国铁路史上外籍旅客伤亡人数最多的事故。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-19ae6a8d8251ce18b1930da85a1e51b6_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>1988 年 9 月 22 日，此次列车正面相撞交通肇事人 311 次列车司机周小牛被判处入狱 6 年 6 个月、副司机刘国隆有期徒刑 3 年。</strong></p>
-<p>事发当天,311 次列车从南京西站正点开出，途经苏州站时列尾加挂 3 辆软座车（由东德进口 24 型客车），以接载准备前往杭州的高知学艺高等学校修学旅行团成员 193 人 。</p>
-<p>311 次列车于当天 13 时 40 分到达真如站，在该站调向并机车换挂作业，本务机车于 13 时 50 分 更换为配属杭州机务段的 N D 2 型 0190 号内燃机车，由杭州机务段司机周小牛、副司机刘国隆值乘 。14 时 07 分，调向后的 311 次列车正点驶出真如站，按计划应在匡巷站停车 8 分钟，会让从长沙抵沪的 208 次列车 。</p>
-<p>当时匡巷站下行预告信号机显示绿灯，进站信号机显示双黄灯，但值乘的两名机车乘务员未按规定在进站前提早制动试验，在进匡巷站时未有呼唤应答，机车无线电话也处于关闭状态，两名机车乘务员在进站后未确认出站信号，也没有及时采取制动措施 。</p>
-<p><strong>匡巷站助理值班员在接 311 次列车时因列车车速较高且无制动迹象，立即举红色信号旗显示停车信号，匡巷站值班员也通过无线电话呼叫 311 次和 208 次列车司机，要求两列车立即紧急停车 ，但 311 次列车无线调度电话被关闭。</strong></p>
-<p>运转车长发现停车信号后拉下紧急制动阀，但列车仍然以每小时约 45 公里的速度通过接车地点 .</p>
-<p>机车乘务员在列车即将使出车站时才发现前方红灯，撂非常刹车，但 311 次列车已失去有效制动距离，冒进出站信号，挤坏车站道岔后进入正线，14 时 19 分与即将进站的 208 次列车正面相撞！</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ba7c55657766940cd713236ccfca023f_720w.jpg?source=8673f162" alt=""></figure>
-<p>208 次列车机车后第一辆行李车冲到其本务机车 N D 2 型 0272 号机车的上方，311 次列车机车后第二辆软座车的大半部分因撞击时的惯性而插入机后第一辆软座车下方并被严重挤压 。除 208 次列车行李车及 311 次列车机车后两辆软座车外，208 次列车机车后第二位的硬卧车也被撞废 ，另有 2 辆客车大破、1 辆客车中破，损坏线路 50 米、枕木 46 根、尖轨 1 根，中断正线行车 23 小时 07 分。</p>
-<p>3 月 25 日统计 28 人遇难 ，包括 311 次列车上的日本旅客 27 人及 208 次列车检车员江意成（长沙局） 。27 人因广泛胸腹挤压伤而当场死亡，1 人因伤重抢救无效死亡，另一平田博稔的日本学生回国后不治身亡 。遇难日本旅客包括领队高知学艺高中体育教谕、剑道教士川添哲夫及高一学生 27 名。</p>
-<p><strong>事故责任：</strong></p>
-<p>除 311 次列车机车乘务员玩忽职守、违规操作外，封浜站调度也违规操作。</p>
-<p><strong>208 次列车图定 14 时 13 分从封浜站开出，但事发当天封浜站没有严格按图行车，于 14 时 11 分提前 2 分钟放行了 208 次列车 ！</strong></p>
-<p>其后 208 次列车运行至匡巷站外确认预告信号显示为绿灯，机车信号、进站信号均为单黄灯，但在接近匡巷站上行进站信号机时，208 次列车机车乘务员突然发现对面交会的 311 次越过道岔，且进站信号变为红灯，遂即采取紧急制动，但仍然无法避免与对面的 311 次列车相撞。</p>
-<p>值得说道的是：</p>
-<p><strong>列车进站信号显示绿灯，表示可以“通过”（列车不在本站停靠，但要适当减速通过），进站后，乘务员（烧火的司炉或副司机）要挎路牌。</strong></p>
-<p>路牌兜中装有站调准许本次列车通过的书面票证。挎到了路牌同样 要“唱路票”（内容是准许列车通行证，或是 调度命令之类），司炉高声朗读路票时，正副司机 也得跟着复唱,比如：</p>
-<p>XXX 次 到站 XXX 站，区间闭塞 ---- 好了！</p>
-<p><strong>什么是铁路路牌和路票？</strong></p>
-<p>好多人， 尤其是年轻人肯定没见过铁路路票。</p>
-<p>最开始，不够等级的车站，常常是车站值班员手举路票圈。标准车站站台上，在适当位置，贴近轨道一米处，固定竖立两米多高的路票杆，杆上有固定路票圈的托架。路票就夹在路牌杆上的一个大约比呼啦圈小点儿，直径半米多的钢丝圈路票兜里。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f1873d2a7aa5ffdc73dae7a70e944bc7_720w.jpg?source=8673f162" alt=""><figcaption>图为值班员在为通过列车递送路牌</figcaption></figure>
-<p>钢丝圈带着一个路票兜，路票兜是皮革做的，起码是结实的帆布缝制的，扁扁的有豆腐块那么大，带有能封叠的兜盖， 穿过锁扣封锁路票兜，路票就叠放在路票兜里。</p>
-<p>现在铁路操控 现代化了，基本都是自动控制，只有铁路实行非正常行车时，才使用路票。</p>
-<p>按照规定：在正常行车闭塞法不能使用的情况下<strong>，</strong>采用临时的代用行车闭塞法—电话闭塞法行车时，需要使用路票。使用前要电话记录号码、车次、区间（甲站到乙站）、年月日等。路票填写完毕交于火车司机。</p>
-<p><strong>“闭塞”指与外界隔绝，这是铁路专用名词，指列车进入区间后，隔断外界，区间两端车站都不再向这一区间发车，以防止列车相撞和追尾。</strong></p>
-<p>路票在列车自动闭塞区段、半自动闭塞区段使用。</p>
-<p>路票是铁路书面凭证中使用最多，电话闭塞法行车时，列车占用区间的许可，是区间通行证，进站时路票圈丢给车站（有个专用路票接收器，安在站台接近机车停车位之前的 2 米来高的木桩上），随后挎走下个区间的路票......</p>
-<p><strong>调度命令，主要指挥列车运行。但有时特殊情况，也交给没车的乘务员使用。</strong></p>
-<p>我就有幸用了一次。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0c8f0e87310130e95ab02c39be824517_720w.jpg?source=8673f162" alt=""><figcaption>这是现在的调度命令</figcaption></figure>
-<p>那年在丰台站待避，通常都要待避好长时间。我下了车头，步行上调度楼，找调度长交涉点儿事儿。可就在我返回车头的路上，调度却命令我们车出站南下！列车开走了，把我丢在了丰台站。</p>
-<p><strong>乘务员没跟上车，叫“漏乘”。</strong></p>
-<p>责任不在我，我返回调度楼找他们分证，包调度长询问了调度，立即给我开了一个“调度命令”，大意：</p>
-<p>沿途各站车，XXX 车乘务员，在丰台站漏乘，前去追赶列车，请给予方便。</p>
-<p>我拿着调度命令，赶到北京站，搭乘特快，一站撵到石家庄，找货运站调，查我们列车还没到！又搭普快折返保定，可等我返回保定，那列车又继续南下了.还得找客车继续追.</p>
-<p>调度命令好使，车站客车都方便。</p>
-<p><strong>2/ 案例：瞎开路票酿成大祸</strong></p>
-<p>1976 年 12 月 24 日，佳木斯机务段解放型蒸汽机车牵引的 1349 次货车正以 40 公里时速行驶在绥佳线望江至兴莲区间下行线路上。按运行图，将在兴莲站（原佳木斯平安乡荣新村四等站，已降为乘降所）正线通过。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-368d11ea820f9322fefc991473cc1900_720w.jpg?source=8673f162" alt=""></figure>
-<p>紧随 1349 次列车一个区间，胜利 6 型蒸汽机车牵引的 451 次旅客列车正行驶在绥佳线汤原至望江区间。按运行图，451 次列车将正线通过前方的望江站（佳木斯郊区望江镇，原四等站，已降为乘降所）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6d9d319b104795f53e32396c6776755b_720w.jpg?source=8673f162" alt=""><figcaption>发车时的守车车长</figcaption></figure>
-<p><strong>当 1349 次列车将要接近兴莲站时，运转车长突然发现守车风表风压有问题：反复确认出现异常的是守车前 12 位货车，于是拉动紧急制动阀，列车停在绥佳线 K 363+700 处。他做好列车尾部安全防护后，就跑到前 12 位货车检查，发现原来该车钩套破裂影响了列主风管贯通，经与牵引列车的机车乘务组会商，决定途停检修排除故障。</strong><strong>此时，451 次旅客列车接近了望江站。按规定，望江站值班员必须确认前方望江至兴莲区间空闲可用，才能将 451 次旅客列车放入区间。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a133ac33a7ea6f2f8f3e9381342eb702_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>无巧不成书，几十分钟前望江站突发停电，无法办理电话闭塞。按照规程，此时望江站值班员必须先将 451 次旅客列车暂时留滞望江站内，然后设法联络前方兴莲站，确认区间是否可用。可是，望江站值班员臆断 1349 次货车已经通过，望江至兴莲区间空闲，擅自给了 451 次列车路票，将 451 次列车放进了有车区间！</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-31b1284a80d833046e6a8cabecddb1af_720w.jpg?source=8673f162" alt=""><figcaption>我干那时有时从值班员手里这样接路票，有时在路票竿挎路票</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6bdc42df09f0ee2a674c3f7626a2b8f5_720w.jpg?source=8673f162" alt=""><figcaption>我干那时 有时在路票竿挎路票</figcaption></figure>
-<p>451 次旅客列车接过路票驶入望江至兴莲区间段，但对区间停着途停的 1349 次货车一无所知，因此依旧按惯常 40 公里时速运行。巧的是，该段线路是弯道，而且下雪瞭望受限，再加上停电，区间信号机无显示，当大车瞭望到前方停着列车时，相距已经不足 100 米！</p>
-<p>“撂非常！”</p>
-<p>随着大车气急败坏地呐喊，451 次列车刺耳欲聋地紧急制动减速，但两车距离已经不足以安全紧急刹车，加上雪天铁轨湿滑， 415 次旅客列车“追尾”1349 次货车的悲剧发生了。</p>
-<p>列车冲撞导致 451 次列车本务机车和 2 辆客车以及 1349 次货物列车守车和 2 辆货车脱轨颠覆。</p>
-<p>9 位铁路职工和乘客遇难，4 人重伤，30 余人轻伤。报废胜利 6 型蒸汽机车 1 台，煤水车 1 台，客车 1 辆，守车 1 辆，货车 2 辆；大破客车 1 辆，货车 2 辆，小破货车 4 辆，绥佳线正线行车中断 15 小时 36 分钟，直接经济损失 40 多万元（1976 年的 40 万元）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3285451f587c3d444484f73229e3e970_720w.jpg?source=8673f162" alt=""><figcaption>那时小站值班员工作状况</figcaption></figure>
-<p><strong>为了避免列车同向运行“追尾”事故，1842 年英国人库克提出了铁路运行‘空间间隔法”，即先行列车与后续列车间隔安全空间。因能较好地保证行车安全而被广泛采用，并逐步形成铁路”区间闭塞制度”。</strong></p>
-<p>1876 年电话发明，很快有了”电话闭塞”。电话（电报）闭塞靠人工保证行车安全，两站间没有设备锁闭关系。</p>
-<p>1878 年英国人泰尔研制成功电气路牌机。</p>
-<p>1889 年发明了电气路签机，不同类型的路签就是一趟列车能否进入闭塞分区行驶的凭证。路签机和闭塞制度保证了铁路列车安全、有序行驶。</p>
-<p>“单路签行车”在相当长的岁月里一直是中国铁路行车闭塞的主要方式。新中国成立后，铁路区间闭塞设备发展迅速，由人工闭塞逐步更新为半自动闭塞和自动闭塞；自行研制的继电半自动闭塞设备性能稳定、操作方便，被新中国铁路广泛应用。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-bfe5472ccdf2bb1b3ed77db41953c706_720w.jpg?source=8673f162" alt=""></figure>
-<p>”路签机闭塞系统”也存在巨大安全隐患：</p>
-<p><strong>”路票”交接必须在列车进站行进中，副司机先将上个区间拿到的路票丢下火车，再用手臂勾住值班员递上的，用以进入下一个区间的路票；值班员则要等列车驶过，再捡起丢在地上的路票，返回值班室放入路签机，整套对区间占用凭证的交接才算完成。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cf4da2ed7dbf65705a6a499c04355ff2_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>这种方式交接路票：</strong></p>
-<p>乘务员要出驾驶室，探身用手臂勾挎路票圈，容易受伤，值班员在递路票携带器时同样存在误侵限碰到列车车身的风险；如果乘务员不能顺利勾挎住路票圈，拿不到路票，疾驶的列车不得不停车交接路票就会影响后续列车运行，如果不刹车又会造成无凭据非法进入区间，违章。</p>
-<p><strong>上世纪 50 年代，上海机务段司机杨兴斋整合相关工程技术人员积极思考解决方案，着手研制”路票自动授受器”- 九十年代前铁路列车与车站间办理电话闭塞自动传递路票的行车设备。列车通过车站时要将上一区间的路票传下来，将下一区间路票接上去，通过列车可以不停车完成这一过程。</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a98a9e70c05d4cf6514f541a7098fa30_720w.jpg?source=8673f162" alt=""><figcaption>车载路票接收器</figcaption></figure>
-<p>“路票授受机”铁桩就立在车站中心里程正线一侧铁路边，铁桩上设有递票盒与接票器（一个可以旋转的带弯钩状铁器），机车上的司机窗下方与地面授受机相对位置亦设有授受机。列车通过时，地面授受机与车上授受机相互作用，自动完成了路票的传递过程。地面授受机的高度和线路的距离由电务人员定期测量检查调整，以保证与机车授受机相互作用的尺寸保持不变。</p>
-<p>列车司机只需打开机车自带的授受器并降减速，即可不停车不出车门，自动套走装有路票的铁圈，接收路票。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1ac495b66367e64100fa21da609f1579_720w.jpg?source=8673f162" alt=""><figcaption>车载路票接收器</figcaption></figure>
-<p>铁路设施不断更新，站 车联系手段越来越先进。中国铁路陆续出现继电式电气信号、电子信号，并逐渐向现代化的电子信号发展，2008 年后，路票自动授受机退出了历史舞台。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-df37b74dae233677b1d51a3eaeffa3c2_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>3/ 熟悉线路 知道走哪条路，但是不按规定确认信号再行车也容易酿成大祸。</strong></p>
-<p>1993 年 7 月 9 日，京广线安阳至光武之间暴雨成灾，铁路边的树木倾倒触碰到线路，铁路线路开启自动断电，七里营至老田庵各站之间停止基本闭塞法改用特定闭塞法。</p>
-<p>7 月 10 日凌晨，由北京开往成都的一六三次列车行至新乡南场，</p>
-<p><strong>司机错误理解调度指令，自行关闭了调度信号凭感觉开车，</strong></p>
-<p>163 次列车以时速 80 公里与缓行的 2011 次货车追尾，造成 40 人死亡，48 人受伤，京广铁路线中断 11 小时 15 分，两位司机分别被判有期徒刑 6 年和 3 年半。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b3bc435cdff0796fdf5e3483ba6e2a3f_720w.jpg?source=8673f162" alt=""></figure>
-<p>“杨庄事故”是新中国建国以来最严重的列车事故之一。事故发生在河南兰考的杨村站。故名。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0988ba5eb044e1e4f083241d0ef09e35_720w.jpg?source=8673f162" alt=""></figure>
-<p>1978 年 12 月 16 日凌晨，西安开往徐州的 368 次列车向东急驶。</p>
-<p><strong>运行图规定，该车在杨庄站侧线停车 6 分钟，等待其它列车通行后再开动。</strong></p>
-<p>然而这次车过杨庄站却没在规定的车位停下来，而是以每小时 40 公里的速度继续前行 -</p>
-<p><strong>原来两个司机都睡着了！副司机阎景发已经睡熟了，正司机马相臣在接近兰考也睡了过去，"无人驾驶"的 368 次就这样驶入了杨庄车站，12 月 16 日凌晨 3 点 12 分与南京至西宁的列车相撞 - 冲向郑州机务南段司机岳万选驾驶的 87 次列车的腰部，将 6、7、8、9 四节车厢撞出铁轨。87 次列车被拦腰斩为三截、铁轨扭成麻花，行李架上指头粗的铁条折成了一段一段，火车地板残片横飞。</strong></p>
-<p>巨响振动了方圆十余里，沿线居民以为地震，抱着被子，赤身裸体夺门而出......</p>
-<p>事故造成 325 人伤亡（死亡 106 人，重伤 47 人，轻伤 172 人）。</p>
-<p>1979 年 10 月 20 日，郑州市中级人民法院公开审理杨庄事故案件，司机马某被判有期徒刑 10 年，副司机阎某被判 5 年，运转车长王某被判 3 年，缓刑 3 年。</p>
-<p>廖诗权，铁道部副部长兼郑州铁路局局长，行政记过处分；李银昌，郑州铁路机务南段党委书记，被记大过；孙建洲，郑州铁路机务南段段长，行政记大过处分。铁道部主管副部长也记大过。</p>
-<p>杨庄站东行 200 米处，立有“杨庄事故遇难旅客纪念碑”，每次列车经过，都要拉响警笛。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-19e50f6335ecfee0eee0b65ac40c704e_720w.jpg?source=8673f162" alt=""></figure>
+<p>在我所在的这个领域，也就是金融、量化金融、量化交易这个方向，我越来越清晰地感受到：大模型在这里仍然存在明显的局限性。</p>
+<p>这个问题其实是在一个非常具体的背景下暴露出来的。最近我在测试一个行情数据 API 提供的 MCP（Model Context Protocol）时发现了这些现象。我原本的期望很简单——既然给了模型一个标准化的行情数据 MCP，它就应该能够直接、可靠地调用数据，并计算一些最基本的指标，比如某只股票当天的涨跌幅。换句话说，我期待的是：给它一个结构化接口，它就能严谨地使用它。</p>
+<p>但实际测试下来，并不是这样。</p>
+<p>而且这种局限，并不只出现在所谓“能力较弱”的模型上。我用过的不管是中国还是美国号称最强的模型，最近都犯过一些相当低级的错误。回头复盘，这些问题的根源往往集中在一点——缺乏这个领域应有的细节把控能力。</p>
+<p>举个最基础的例子。在金融和交易领域，什么是最基本的能力？知道一只股票今天涨了多少、跌了多少。这是最基础的数据认知。如果连涨跌幅的计算口径都不严谨，那后面谈模型分析、策略构建，其实都失去了根基。</p>
+<p>一个量化老兵，拿到一个行情数据 API，第一件事应该做什么？不是马上计算，而是搞清楚：这个 API 返回的字段分别代表什么？时间戳是什么时区？是否包含盘前盘后？close 是 regular session close，还是 extended hours last？这些都是必须明确的前提。</p>
+<p>在 A 股环境里，相对简单一些。因为几乎没有有意义的盘后交易，日涨跌幅的定义空间较小。盘前只有集合竞价，结构比较单一。</p>
+<p>但在美股市场，复杂度显著提高。既有盘前交易，又有盘后时段。因此，当你问一个模型：“What is the performance of Apple today?”——如果没有明确口径，这个问题本身就是不充分的。</p>
+<p>我观察到的一个典型问题是，模型常常把“today’s performance”理解为：</p>
+<p>今日收盘价减去今日开盘价，再除以今日开盘价。</p>
+<p>这其实是 intraday return（open-to-close），而不是标准的日涨跌幅。标准的 daily return 通常是用今日 regular close 相对于前一交易日 regular close 的变化率。</p>
+<p>更进一步，在美股里，“close”本身就可能存在歧义：</p>
+<ul>
+<li>是 16:00 的 regular close？</li>
+<li>还是盘后 20:00 的 extended last？</li>
+<li>API 返回的字段是否已经包含盘后成交？</li>
+<li>时间戳是否已经跨入盘后区间？</li>
+</ul>
+<p>如果不对这些问题做严格界定，就可以在多个价格之间“自由选择”，而计算结果自然可能出现偏差。</p>
+<p>我实际测试过多款主流模型，包括 Claude Opus4.6，MiniMax M2.5，GLM，它们在不同场景下都出现过类似问题。有的公式本身选错口径，有的公式形式是对的，但因为没有核对 API 字段语义，仍然得到错误结果。</p>
+<p>问题的本质并不是模型不会算百分比，而是：</p>
+<p>第一，对金融语境中的概念边界缺乏精确定义。</p>
+<p>第二，对数据字段语义缺乏验证意识，默认字段名等同于经济含义。</p>
+<p>第三，不主动进行数据一致性校验，而是基于“常见用法”进行推断。</p>
+<p>这种局限在量化领域尤为明显。因为量化交易本质上是一个对定义、口径、时间结构极度敏感的行业。一个百分点的偏差，可能只是口径错误，而不是市场信号。</p>
+<p>因此，我想表达的不是模型“算错一次涨跌幅”这么简单，而是：在我所在的这个领域，大模型目前仍然缺乏一种工程级别的严谨性。它们能够给出流畅的解释、看似合理的公式，但在数据定义、字段语义、交易结构这些细节层面，仍然容易出现系统性模糊。</p>
+<p>而这也让我得出一个更现实的结论：</p>
+<p>仅仅给模型一个行情数据 MCP，并不足以保证它能稳定、严谨地完成金融计算。若希望在量化场景中可靠使用，仍然需要在模型之上增加明确的 skills 或 wrapper——把收益口径、字段映射、时段规则、交易日历等逻辑写死、封装好，让模型调用的是经过约束的能力，而不是自由发挥的理解。</p>
+<p>在量化金融里，真正可靠的系统，从来不是“会算”，而是“不会算错”。</p>
+<hr>
+<p>以下是我做的测试，全部在美国时间 2026 年 2 月 24 日完成</p>
+<p>先说结论，在我做的一共七个测试里，大概只有两个算是勉强过关。几乎是完美犯了我说的 API 调用的错误，哪怕我有预期，还是挺震撼的。</p>
+<p><strong>测试 1：Claude Opus 4.6</strong><strong>任务 1：计算 M7 今天的表现【失败】</strong></p>
+<blockquote>calculate M7's performance today.</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f04bd1c1165cfaa8c72601ceb44ae2b7_720w.jpg?source=8673f162" alt=""></figure>
+<p>答案在此</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3073a0aca64ede8a6c6bb9701daf2636_720w.jpg?source=8673f162" alt=""></figure>
+<p>结果是：昨天收盘价抓到了，今天收盘价抓到了，但是涨跌幅不对……为什么呢？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-67ef70d498cb36c6823991eadab2b292_720w.jpg?source=8673f162" alt=""></figure>
+<p>破案了：Opus4.6 使用了 API 给的数据，只要认为 API 有这个“数据”，他就直接用。这其实就是我说的，把 API 里面返回的数值，强加一个自己的理解，然后使用，不去做任何验证。这个其实就还是幻觉的一种体现。</p>
+<p><strong>任务 2：计算 NVDA 今天的表现【失败】</strong></p>
+<blockquote>If I asked you to calculate the performance of NVDA today, what would you do, tell me the plan</blockquote>
+<p>第一次跑这个任务，是在美东时间 2：50 左右。Opus 一开始说明白了 daily return 和 intraday return 的区别，并且在计算结果时，使用了昨日收盘，今日开盘，当前数据等，最后的结果也是对的。但在这里，由于目前还没有收盘，其实在真的调用数据计算时，它使用当前的 snapshot 我也没什么好说的。</p>
+<p>那么我们一会儿收盘后，再来跑一次该任务，看看 Opus 能不能搞清楚，这个可以获取盘后数据的 API，需要注意些什么。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f7df0697825152021979161ce35cd48c_720w.jpg?source=8673f162" alt=""><figcaption>美东时间 2-24 2:50PM 测试</figcaption></figure>
+<p>盘后美东时间 4:50 左右，又跑了一次。计划做的不错，开盘收盘也都对。</p>
+<p><strong>但是，涨跌幅怎么成了 0.57%？说好的 0.68%的今日涨幅呢？原因和刚才一样估计，因为涉及到了盘后数据。功亏一篑啊。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-18c035a2d25de5229a6c408fedbfa057_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>任务 3：计算 M7 表现汇总【成功，高成本】</strong></p>
+<blockquote>what is the 1D,1W,1M,3M,YTD performance of M7 stocks as of yesterday close?</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-de8bf8d4957b4b0f42ecf20d974163ff_720w.jpg?source=8673f162" alt=""></figure>
+<p>大哥算了四分钟了，还在算……我的 token 在烧，心在滴血。</p>
+<p>大哥最后决定，写一个库来计算……好吧，我的心已经流干了。大哥很贴心的给了他定义的几个日期，看起来都还可以。从英伟达昨天 0.91%的涨幅来看，是算对了，看来还是得硬算啊，<strong>不能想当然。这题，</strong>算是过关了……</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-993dece7f35db0d23336893ee715de5a_720w.jpg?source=8673f162" alt=""></figure>
+<p>然后 token 消耗怎么样呢？</p>
+<p>就上面的这几个任务，跑三次基本就可以一下午休息了。just FYI。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-695a300a15d540a7a23168cd41bb9fac_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>测试 2：GLM4.7</strong><strong>任务 1：计算 M7 今天的表现【失败，原因：错误理解 API 返回值】</strong></p>
+<p>先放一个答案：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3073a0aca64ede8a6c6bb9701daf2636_720w.jpg?source=8673f162" alt=""></figure>
+<p>直接提问：</p>
+<blockquote>calculate M7's performance today.</blockquote>
+<p>跟 Opus 一样的问题，直接使用 API 返回值而不假思索，幻觉。英伟达 0.68%的涨幅被说成了 0.71%，特斯拉 2.39%的涨幅被说成了 2.47%。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-98203033617a0ff63e2b5db9116a0090_720w.jpg?source=8673f162" alt=""><figcaption>如期翻车</figcaption></figure>
+<p><strong>任务 2：计算英伟达今天的表现【失败，原因：错误理解 API 返回值】</strong></p>
+<blockquote>If I asked you to calculate the performance of NVDA today, what would you do, tell me the plan</blockquote>
+<p>如果先让他来计划，然后再计算，表现就还可以，跟 Opus4.6 一样，都搞清楚了他们要算什么，且计算今天表现时结果也都正确。下面是我在盘中做的测试，结果和 Opus 一样。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-243a1a166a25e3390d1b05c97ce69058_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>盘后测试结果，也翻车了，原因和 Opus 一样，都是幻觉。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e9d4c1f555bae707654ab2f981a50276_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>任务 3：查看 M7 昨天的表现【失败，原因：错误理解 API 返回值】</strong></p>
+<blockquote>What is the performance of Mag7 stocks yesterday?</blockquote>
+<p>还是那个 Opus 也犯了的问题：直接用涉及到了盘后数据的 API 返回值，而不是计算 close -&gt; close 的变化。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd622671aeca271da21460dd55b0f3bc_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>任务 4：Mag7 表现汇总【算是成功了吧】</strong></p>
+<blockquote>what is the 1D,1W,1M,3M,YTD performance of M7 stocks as of yesterday close?</blockquote>
+<p>从他选择的日期来看，</p>
+<p>1D 的其实要给他加鸡腿，考虑到了昨天收盘是周一，要看上周五的收盘价，</p>
+<p>1W 选择的是 2/13，是上上周五，也是对的。</p>
+<p>但 1M 和 3M 的日期选择就比较机械了。1M 被他蒙对了，但是 3M 就出了问题，往下看。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-91ffca8ff37b7395473e8815c22f7de3_720w.jpg?source=8673f162" alt=""></figure>
+<p>然后，我让他自己做一个述职，告诉我他都干了什么，为什么这么做：</p>
+<blockquote>walk me through your calculation process for the last task: what mcp you used, results, what new mcp call you made, result, what's the formula of each result item?</blockquote>
+<p>以下是她的回答，我直接粘贴在下面。</p>
+<p>从她的回答里，我看到，对于 1M， 3M 以前的日期选取，有些粗糙，是直接减去了 30 和 90 天，以至于都不管是不是交易日，所以出现了 MCP 数据获取时的报错。这其实就是没有提前制定好计划的一个体现吧。</p>
+<div class="highlight">
+<pre><code class="language-text">walk me through your calculation process for the last task: what mcp you used, results, what new mcp call you made, result, what's the          
+  formula of each result item?                                                                                                                   
+                                                                                                                                                  
+⏺ Walkthrough: Mag7 Multi-Period Performance Calculation                                                                                          
+                                                                                                                                                  
+  Step 1: Define Time Periods &amp; Reference Dates                                                                                                   
+                 
+  ┌────────┬────────────────┬────────────────────────────────────────┐                                                                            
+  │ Period │ Reference Date │              Calculation               │                                                                            
+  ├────────┼────────────────┼────────────────────────────────────────┤
+  │ 1D     │ 2026-02-20     │ (Yesterday - Previous Trading Day)     │
+  ├────────┼────────────────┼────────────────────────────────────────┤
+  │ 1W     │ 2026-02-13     │ (Yesterday - 1 Week Ago)               │
+  ├────────┼────────────────┼────────────────────────────────────────┤
+  │ 1M     │ 2026-01-23     │ (Yesterday - 1 Month Ago)              │
+  ├────────┼────────────────┼────────────────────────────────────────┤
+  │ 3M     │ 2025-11-24     │ (Yesterday - 3 Months Ago)             │
+  ├────────┼────────────────┼────────────────────────────────────────┤
+  │ YTD    │ 2025-12-31     │ (Yesterday - Last Trading Day of 2025) │
+  └────────┴────────────────┴────────────────────────────────────────┘
+
+  Yesterday's close (2026-02-23) was already fetched in the previous task.
+
+  ---
+  Step 2: First Round of MCP Calls
+
+  I called get_daily_open_close_agg for all 7 stocks × 5 dates = 35 parallel calls:
+
+  YTD (2025-12-31) - ✅ All 7 succeeded
+
+  get_daily_open_close_agg(ticker="AAPL", date="2025-12-31")
+  → close: 271.86
+
+  get_daily_open_close_agg(ticker="MSFT", date="2025-12-31")
+  → close: 483.62
+
+  ... (all 7 returned data)
+
+  3M (2025-11-23) - ❌ All 7 failed (NOT_FOUND)
+
+  Error: {"status":"NOT_FOUND", "message":"Data not found."}
+  Issue: 2025-11-23 was a Sunday (no trading data)
+
+  1M (2026-01-23) - ✅ All 7 succeeded
+
+  get_daily_open_close_agg(ticker="AAPL", date="2026-01-23")
+  → close: 248.04
+
+  get_daily_open_close_agg(ticker="NVDA", date="2026-01-23")
+  → close: 187.67
+
+  ... (all 7 returned data)
+
+  1W (2026-02-14) - ❌ All 7 failed (NOT_FOUND)
+
+  Issue: 2026-02-14 was a Saturday
+
+  1D (2026-02-22) - ❌ All 7 failed (NOT_FOUND)
+
+  Issue: 2026-02-22 was a Sunday
+
+  ---
+  Step 3: Second Round - Adjusted Dates for Failed Calls
+
+  3M: Changed from 2025-11-23 (Sun) → 2025-11-24 (Mon)
+
+  get_daily_open_close_agg(ticker="AAPL", date="2025-11-24")
+  → close: 275.92
+
+  get_daily_open_close_agg(ticker="NVDA", date="2025-11-24")
+  → close: 182.55
+
+  ... (all 7 succeeded)
+
+  1W: Changed from 2026-02-14 (Sat) → 2026-02-13 (Fri)
+
+  get_daily_open_close_agg(ticker="AAPL", date="2026-02-13")
+  → close: 255.78
+
+  get_daily_open_close_agg(ticker="NVDA", date="2026-02-13")
+  → close: 182.81
+
+  ... (all 7 succeeded except META &amp; TSLA)
+
+  1D: Changed from 2026-02-22 (Sun) → 2026-02-21 (Fri)
+
+  get_daily_open_close_agg(ticker="AAPL", date="2026-02-21")
+  → Error: NOT_FOUND
+  Issue: Feb 21, 2025 appears to be a holiday (Presidents' Day)
+
+  1D: Changed from 2026-02-21 → 2026-02-20 (Thu)
+
+  get_daily_open_close_agg(ticker="AAPL", date="2026-02-20")
+  → close: 264.58
+
+  get_daily_open_close_agg(ticker="NVDA", date="2026-02-20")
+  → close: 189.82
+
+  ... (all 7 succeeded)
+
+  ---
+  Step 4: Formulas Used
+
+  Performance Formula (for all periods)
+
+  % Change = (Current Price - Reference Price) / Reference Price × 100
+
+  Example Calculation: NVDA 1D Performance
+
+  Current (Feb 23)    = 191.55
+  Reference (Feb 20)  = 189.82
+
+  % Change = (191.55 - 189.82) / 189.82 × 100
+           = 1.73 / 189.82 × 100
+           = +0.91%
+
+  Example Calculation: MSFT YTD Performance
+
+  Current (Feb 23)    = 384.47
+  Reference (Dec 31)  = 483.62
+
+  % Change = (384.47 - 483.62) / 483.62 × 100
+           = -99.15 / 483.62 × 100
+           = -20.51%
+
+  ---
+  Summary: All MCP Calls Made
+
+  ┌───────┬────────────┬──────────────────┬──────────┐
+  │ Round │    Date    │      Status      │  Calls   │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 1     │ 2025-12-31 │ ✅ 7/7           │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 1     │ 2025-11-23 │ ❌ 0/7 (Sun)     │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 1     │ 2026-01-23 │ ✅ 7/7           │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 1     │ 2026-02-14 │ ❌ 0/7 (Sat)     │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 1     │ 2026-02-22 │ ❌ 0/7 (Sun)     │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 2     │ 2025-11-24 │ ✅ 7/7           │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 2     │ 2026-02-13 │ ✅ 7/7           │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 2     │ 2026-02-21 │ ❌ 0/7 (Holiday) │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │ 2     │ 2026-02-20 │ ✅ 7/7           │ 7        │
+  ├───────┼────────────┼──────────────────┼──────────┤
+  │       │            │ Total            │ 60 calls │
+  └───────┴────────────┴──────────────────┴──────────┘
+
+  The key learning: When working with financial data, always handle weekends and holidays by trying adjacent business days.
+</code></pre>
+</div>
+<p>他自己最后还总结了一段，可以可以。加鸡腿，升官！</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/591788653">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2003062708547843506">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9788799</guid>
-                <pubDate>Fri, 10 Apr 2026 18:43:29 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9788822</guid>
+                <pubDate>Sat, 11 Apr 2026 01:51:38 GMT</pubDate>
             </item>
             
             <item>
-                <title>古城为什么就要保留下来？</title>
-                <link>http://daily.zhihu.com/story/9788802</link>
-                <description>游旭东，写作者。合作约稿请私信 查看知乎原文 蔚县，河北省张家口市的一个普通县城，一般人不了解这个地方的人会读 wèi 县，对历史稍微熟悉一点的会读 yù县，但要是亲自去一趟，你就知道当地的称呼是 yǔ县。 蔚县街景，摄影：沈小毛 蔚县不算大，常住人口仅 40 万，但却是“中国国保第一县”。所谓国保，就是全国重点文物保护单位，是我国文物行政部门对不可移动文物所核定的最高保护级别。蔚县拥有 1610…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-44a11634db58d59f78285659b7c0e9f0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>吃自助餐能吃回本吗？</title>
+                <link>http://daily.zhihu.com/story/9788832</link>
+                <description>知乎用户 查看知乎原文 说一件反常识的事情，自助餐要想吃回来点本（吃回本你就别想了），那就必须得去高档点的自助餐 那种五六十块钱的，七八十块钱的自助餐，你别看很便宜，但是实际上是很难吃回本（收回百分之三十以上的成本）的 这个价位的自助餐倒是不会添加什么饱腹剂 这个从逻辑上就能想明白 真要是有这么管用的饱腹剂，还开什么自助餐？直接开减肥营，岂不美哉 现在的人，营养过剩，三高问题严重，你要是能够发明一…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-933e029ecb4f8815508b8c31328ce6e9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -193,69 +318,425 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-461e19978564fc74ae2cd8e313d6a5e7_l.jpg?source=8673f162">
-<span class="author">游旭东，</span><span class="bio">写作者。合作约稿请私信</span>
-<a href="https://www.zhihu.com/question/48122357/answer/2021232075425026611" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户</span>
+<a href="https://www.zhihu.com/question/599610325/answer/1947401071224914245" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>蔚县，河北省张家口市的一个普通县城，一般人不了解这个地方的人会读 wèi 县，对历史稍微熟悉一点的会读 yù县，但要是亲自去一趟，你就知道当地的称呼是 yǔ县。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bb432f5f55f864fbb48749b1d52a78fc_720w.jpg?source=8673f162" alt=""><figcaption>蔚县街景，摄影：沈小毛</figcaption></figure>
-<p>蔚县不算大，常住人口仅 40 万，但却是“中国国保第一县”。所谓国保，就是全国重点文物保护单位，是我国文物行政部门对不可移动文物所核定的最高保护级别。蔚县拥有 1610 多处文物遗存，22 处全国重点文物保护单位，是当之无愧的全国第一。</p>
-<p>一个塞外小县，凭什么拥有全国数量第一的“国保”？答案藏在它独特的生存逻辑里：蔚县的古建筑群，<strong>是“战争防御”与“精神信仰”在极限环境下相互交融的结晶。它们伫立至今，就是一部写在大地上的先民军事与信仰史。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-228e52221a6d5c57ca37e2f78c699701_720w.jpg?source=8673f162" alt=""><figcaption>蔚县古城，摄影：沈小毛</figcaption></figure>
-<p>蔚县位于河北西北部，地处太行山、燕山、恒山三山交汇的封闭性高原盆地中，历史上是著名的“燕云十六州”之一。太行山绵延四百余公里，将华北大地一分为二，险峻的山峰构成了天然的屏障。太行山最利于通行的八条道路，被称为“太行八陉”，飞狐陉是其中之一，而蔚县正是飞狐陉的北端起点，使其成为连接边塞与中原的重要战略通道。正是这条飞狐陉，在历史上扮演了福祸相依的角色。它既是商旅驼队输送茶叶与皮毛的财富动脉，更是游牧民族铁骑南下牧马的兵家孔道。</p>
-<p>因蔚县特殊的地理位置，在长达两千五百多年的时间里，这里一直是中原农耕王朝与北方游牧族群（匈奴、鲜卑、契丹、蒙古等）反复争夺的“拉锯”地带 。为了争夺控制权，历代政权都在此修筑长城、城池和堡垒，留下了层层叠叠的防御工事遗存。</p>
-<p>今天蔚县建筑景观的主体来自明朝。明洪武年间，全国广设卫所。蔚州城因其军事地位重要，明廷在此设立了蔚州卫，与蔚州（此处的蔚州，是指州县级别的行政区划）同城并置，蔚州归山西大同府管辖，而蔚州卫归万全都司管辖，开创城中民政与军事两套系统并行的局面。对于明王朝统治者而言，蔚县不仅仅是一块塞外飞地，它是京师西北的最后一道屏障，是一块被夹在“外长城”（张家口坝上防线）与“内长城”（倒马关、紫荆关防线）之间的“腹里”地带。为了防御蒙古，明朝在这里推行了大规模的“村堡建设运动”。不管是官方驻军的卫城，还是百姓聚居的村落，都遵从着同一个残酷的生存法则——<strong>无村不堡，无堡不防</strong>。村堡与长城、卫所共同构成了完整的军事防御体系。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-73ed68d4a8fbd48466112e2e52fe18f9_720w.jpg?source=8673f162" alt=""><figcaption>明代蔚州城地图，来自《蔚州志（崇祯）》</figcaption></figure>
-<p><strong>“墙”是这套防御体系的核心。古语云“铁打的蔚州”，指的便是蔚州这座固若金汤的城池。现存的城墙来自明代，洪武十年（1377），蔚州卫指挥使周房重修蔚州城墙。蔚州城墙的独特性在于其打破了中国传统城池“方正对称”的制式。出于军事防御的考量，蔚州古城依山就势，呈现出不规则的菱形，且在四个城角筑有高大的角楼，以此消除视线死角。</strong></p>
-<p>而漫步在蔚县的乡间，你会发现一种北方罕见的奇观：这里几乎找不到散落的独门独户，所有的村庄都被高大厚实的黄土夯墙紧紧包裹，宛如一座座微缩的城池。史书载蔚县“八百庄堡”，这并非虚指。在明代最为紧张的二百年间，这里的每一寸土地都被“堡垒化”了。这种为了保命而修建的防御体系，其坚固程度远超普通的民居建筑标准，正是这种“过剩”的建筑质量，让这些村堡在数百年风雨侵蚀后，依然能傲立于世。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f1e683f66def0c6aad5811cf7ce49960_720w.jpg?source=8673f162" alt=""><figcaption>蔚县古城墙，摄影：沈小毛</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-3922cf6af22240bed048c2c3bfb73865_720w.jpg?source=8673f162" alt=""><figcaption>蔚县卜庄北堡，摄影：游旭东</figcaption></figure>
-<p>为了防御，许多稍具规模的古堡，会在堡门外再修一道半圆形的城墙，形成瓮城。当敌人攻破第一道门，进入瓮城后，依然会被第二道门阻挡，从而陷入“瓮中捉鳖”、四面受敌的绝境。<strong>这一形制最好的案例是位于暖泉镇的南门的西古堡。作为蔚县“八百庄堡”中最具代表性的一座，西古堡的防御等级之高，令人咋舌。这座集“古城堡、古寺庙、古戏楼、古民居”于一体的村落，至今保存着完好的瓮城结构。漫步在西古堡那幽深狭窄的瓮城通道中，你依然能感受到数百年前那种肃杀的压迫感。这种将军事要塞的规格下沉到普通村落的做法，在全国范围内都极为罕见。</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5a929a258388191c73fba4507b39636b_720w.jpg?source=8673f162" alt=""><figcaption>蔚县暖泉镇瓮城，摄影：游旭东</figcaption></figure>
-<p>在蔚县古城，最受游客欢迎的目的地是位于古城正北方向的玉皇阁。<strong>它的前身，其实是明洪武十年（1377 年）蔚州卫指挥使周房主持修建的靖边楼。当时新修的北城垣为了防御塞外骑兵，特意采取了“有墙无门”的死守策略，只在城墙高处修筑这座高阁以瞭望敌情。起初，这里只有冰冷的兵器与守军，并无半点香火。直到明正德年间，协镇公孙成驻守于此，将玉皇大帝供奉于高阁之上，这座军事堡垒才摇身一变成为“玉皇阁”。</strong></p>
-<p><strong>如今，火爆全球的游戏《黑神话：悟空》便取景于此。如果我们把视角代入古人，当你站在阁楼上俯瞰，一面是城内的万家灯火，一面是城外广阔的塞外原野，依然能感受到那份神圣威严与军事警戒在历史深处的完美统一。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a47e680b21351f90053337ecc45483bb_720w.jpg?source=8673f162" alt=""><figcaption>蔚县玉皇阁，摄影：游旭东</figcaption></figure>
-<p><strong>当然，战争不仅是刀剑的对抗，也是后勤的消耗。在蔚县古镇的中央，有一座常平仓，揭示了防御体系的另一块拼图——粮食。</strong>这座始建于明代的粮仓，以其科学的通风、防潮、防鼠设计，成为了中国北方保存最完好的古粮仓之一。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4e4dcf28427d9b624eac62b6ae70f300_720w.jpg?source=8673f162" alt=""><figcaption>蔚县常平仓，摄影：沈小毛</figcaption></figure>
-<p><strong>而越是危险的地方，人越需要神的慰藉。战争防御重塑了蔚县人的信仰空间，造就了“神人共防”的独特景观。而今天留在蔚县大地上的国保，多是这类信仰空间的遗存。</strong></p>
-<p>在蔚县的古堡中，你总能在最北端的堡墙上看到一座高耸的庙宇，那通常是真武庙，供奉真武大帝。为什么是真武大帝？因为在五行学说中，北方属水，真武大帝是北方之神，也是威赫的武神，能镇火御敌。但更深层的逻辑在于建筑功能：修筑在高高堡墙上的真武庙，实际上就是一座披着宗教外衣的“敌楼”和“瞭望塔”。平时，村民登高祈福，寻求精神的庇护；战时，青壮年据庙而守，在高台上瞭望敌情、指挥战斗。神权与军权、精神寄托与物理防御，在这一刻被完美地焊接在了一起。这种极端的实用主义信仰，是只有在刀尖上舔血的边塞人才能悟出的生存哲学。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-639e8f1d4c4b311d132f9dfcf5708f7a_720w.jpg?source=8673f162" alt=""><figcaption>蔚县真武庙，上方是城墙，摄影：游旭东</figcaption></figure>
-<p>另一个<strong>“神人共防”案例是位于蔚县古城南部的南安寺塔，南安寺的历史远早于蔚州城的建立，曾是香火鼎盛的辽代名刹。然而，明洪武初年，为了扩建蔚州城墙、构筑坚固的防御工事，南安寺因阻碍城墙动线（一说为缺砖），被指挥使周房忍痛拆除，仅留下了这座高耸的实心砖塔。寺院为城墙让路，佛塔却因其制高点的军事价值（瞭望哨）得以幸存。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-64667fe4fec917fc5a6660aefb8b778d_720w.jpg?source=8673f162" alt=""><figcaption>蔚县南安寺塔，摄影：游旭东</figcaption></figure>
-<p>除了真武庙和南安寺，蔚县古城里还有灵岩寺、释迦寺、天齐庙等国保寺院，其中较为特别是灵岩寺，灵岩寺始建于金，元末毁于战火，明代重建，是司礼监大太监王振的三座家庙之一。灵岩寺的特别，在于它的“越级”，因王振受到明英宗恩宠，灵岩寺按照明代官式建筑规格建造。<strong>走进灵岩寺，你很难相信这是身处一座塞外县城：大雄宝殿的形制采用单檐庑殿顶，檐下斗拱硕大、层层叠叠，用料之考究、结构之严谨，完全是明代官式建筑的教科书级范本，与其他民间寺庙形成了鲜明对比。而最令人咋舌的，是殿内的藻井。在古代，藻井象征天宇，非皇宫贵胄不得滥用。但在这里，繁复的斗拱向中心螺旋收拢，雕刻精细，沥粉贴金，其工艺之精湛、气势之恢宏，与北京智化寺（王振的另一座家庙）如出一辙，俨然将紫禁城的一角搬到了蔚州。</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-01e65cd9e0d067d6ddd624c45ac3e1c5_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-af059bff9c709dd4a4b36732a71bfcb1_720w.jpg?source=8673f162" alt=""><figcaption>蔚县灵岩寺，摄影：游旭东</figcaption></figure>
-<p>而整个蔚县旅程，最让我动容的，是在蔚县东北方向的一个小村庄，看到的此地独有的穿心戏楼。</p>
-<p>与江南水乡四通八达的村口不同，蔚县的古堡通常只开一座南门。这不仅是为了防风，更是为了防敌。这座唯一的堡门，往往被修建成坚固的砖石拱券结构，上方筑有高大的门楼，即“堡门楼”。在战时，它是扼守全村咽喉的防御塔；在平时，它是村落的面子与精神坐标。在这种环境里，蔚县特有的穿心戏楼应运而生。</p>
-<p>因为堡内寸土寸金，要留出空间屯兵、储粮，戏楼便只能架在堡门通道之上。这种“楼上唱戏、楼下过人”的奇特建筑，既解决了空间问题，又形成了一种悲壮的浪漫：城外或许狼烟滚滚，城内依然锣鼓喧天。戏台上的悲欢离合，成为了高墙深院中人们化解恐惧、凝聚宗族力量的出口。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8b7fc3c3f13333a90dc3d402c214a390_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0b31e450218f439f171f314e7ff47615_720w.jpg?source=8673f162" alt=""><figcaption>蔚县庄窠村穿心戏楼的内外，摄影：游旭东</figcaption></figure>
-<p>如今，战争的鼓角争鸣早已被塞上的风声吞没。 那些为了保命而夯筑的高墙、为了凝聚人心和预警而架设的神庙、为了在围城中喘口气而搭建的戏台，最终没有毁于兵火，在几百年的遗忘中，凝固成了蔚州大地的骨骼。</p>
-<p>所以回到问题，为什么要保留古城。</p>
-<p>蔚县之所以成为“中国国保第一县”，并非上天的眷顾，而是先民们在生与死的夹缝中，用黄土和砖石，为自己修筑的一座座永不陷落的堡垒，就像一块历史的沉积岩，这些为了“活下去”和“活得好”而建造的实体，最终在塞外相对封闭和干燥的环境中，层层叠叠地保存到了今天。</p>
-<p>而如今保留下来的古城和国保之名，是古人们不屈生命力结出的勋章。</p>
+<p>说一件反常识的事情，自助餐要想吃回来点本（吃回本你就别想了），那就必须得去高档点的自助餐</p>
+<p>那种五六十块钱的，七八十块钱的自助餐，你别看很便宜，但是实际上是很难吃回本（收回百分之三十以上的成本）的</p>
+<p>这个价位的自助餐倒是不会添加什么饱腹剂</p>
+<p>这个从逻辑上就能想明白</p>
+<p>真要是有这么管用的饱腹剂，还开什么自助餐？直接开减肥营，岂不美哉</p>
+<p>现在的人，营养过剩，三高问题严重，你要是能够发明一个一吃就灵的无痛苦饱腹剂</p>
+<p>估计至少得得个国家科技创新进步一等奖，搞个诺贝尔生理学奖也不是不可能</p>
+<p>他们主要靠的是烹饪和优化原料成本来实现盈利</p>
+<p>举一个例子吧，最近这几年，市面上出现了大量的韩式烧烤自助餐</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-611c73441ca106ddccace4d141ab5bcb_720w.jpg?source=8673f162" alt=""><figcaption>图文无关仅供参考</figcaption></figure>
+<p>客单定价一般是六十几块钱到八十几块钱，主打餐品就烤猪五花肉，培根，腌制鸡肉或者各种淀粉肠</p>
+<p>很多人觉得这个自助餐，非常的实惠</p>
+<p>毕竟现在在家里点个外卖，想要吃的好点，也得花个 30 块钱</p>
+<p>这个自助餐，也不过是六十多块钱，但是可以无限畅吃。</p>
+<p>然而，实际上，老板的客单利润是相当可以的</p>
+<p>现在的猪肉价格并不高，批发价更低</p>
+<p>你比如说这种看起来很好的成条的五花肉，一斤只要 7.8 元</p>
+<p>这种肉，一般是限量供应的，服务员会煞有介事的到你餐桌旁给你表演烤肉</p>
+<p>实际上一块的成本也就不到八块钱。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a0f27489e442ed25d4db45e59fd2333c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5fbf4106d4119db2b8f19b9267b57d71_720w.jpg?source=8673f162" alt=""></figure>
+<p>上面这种五花肉块，4.2 一斤，给你做成红烧肉，你吃的可美了</p>
+<p>你现在知道盒饭里面的长方体五花肉哪来的了吧？</p>
+<p>下面这个把子肉，既可以拿去做把子肉，又可以拿去做韩式烤肉自助的大菜</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3694b7a5ca5719b8fc69a68345fdc1c2_720w.jpg?source=8673f162" alt=""></figure>
+<p>你别看照片里面的五花肉和僵尸肉一样</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-52e31247577da047b6d65dbe5002ab3b_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是只要处理处理，好看的很。</p>
+<p>化化冻，加点食品添加剂，比如什么保水剂啊，什么嫩肉粉啊，什么食用色素啊，</p>
+<p>拿花生油一封</p>
+<p>卖相不比鲜肉差。</p>
+<p>拿来当原切五花肉卖，你还得夸老板大方。</p>
+<p>讲实话，你可能觉得已经很便宜了，但是就这个价钱也算是坑人的</p>
+<p>因为这是正常猪肉的批发价。</p>
+<p>这些网上拉客户的肉很有可能是母猪肉，或者储备母猪肉。</p>
+<p>假如是母猪肉的话，实际价格还能再便宜</p>
+<p>储备肉已经不如鲜肉好吃了。</p>
+<p>母猪肉这玩意直接就是不好吃。</p>
+<p>到了储备母猪肉这个地步，基本上就只能销售给餐厅食堂了</p>
+<p>这么说吧，多次产仔的母猪的肉，甚至不允许不标明的情况下销售。</p>
+<p>然而，我们何曾在市场上买到过标明了母猪肉身份的猪肉？</p>
+<p>那么你猜这些肉卖给谁了？</p>
+<p>卖给造肉松的，生产香肠的，造肉酱的，还有部分餐厅、食堂</p>
+<p>唯有他们才知道怎么拿料来压母猪肉的臭味。</p>
+<p>是的，买这种肉的，就没有不加料的</p>
+<p>要不根本压不住母猪肉那个味道。</p>
+<p>所以他们的真实进货价格，只有他们自己知道。</p>
+<p>故而，在廉价自助餐</p>
+<p>你想要靠着吃肉把老板吃赔了，几乎不可能。</p>
+<p>也不是不存在这样的好汉，但是一般人是断然没有这个本事的</p>
+<p>更何况，喜欢吃韩式烤肉的，有相当一部分是小姑娘，他们那点战斗力，也就是半斤五花肉的量</p>
+<p>一顿六十的烤肉自助老板恨不得能够含泪赚他四十。</p>
+<p>这还是最值钱的五花肉</p>
+<p>至于那些调理鸡肉，成本更是低的令人发指了</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2221e1f2e6ae1785e4c08af53954da76_720w.jpg?source=8673f162" alt=""></figure>
+<p>看着眼熟不？老板拿去给你用泡菜汤子，奥尔良鸡肉粉腌制一下，就是下面这玩意</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ce7ed1e351c940c6ea7da72da0b37ac4_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果说开牛肉烧烤的还得对接一下进口商之类的角色</p>
+<p>毕竟十来块钱一斤的进口碎牛肉，也不是随便什么人都能搞到的。</p>
+<p>上面说的这种猪肉、鸡肉直接去冻货市场批发就行了</p>
+<p>现在又到了猪肉出栏的季节</p>
+<p>你要是不相信，可以去你们本地的冻货市场看看，一件起批（三十斤左右），二百四十块钱一件——就是菜市场上买到的那种冷冻猪肉</p>
+<p>比他这个质量还好点。</p>
+<p>当然，买这玩意，一定要注意部位和生产时间</p>
+<p>他看你不大懂，真拿母猪肉或者陈货骗你。</p>
+<p>哦对了，母猪肉除了能够拿料压味道</p>
+<p>再吃法上还有技巧</p>
+<p>母猪肉，是绝对不能炖着吃的，腥臊的很</p>
+<p>但是烤着吃，炸着吃，味道上和鲜猪肉其实差距不大</p>
+<p>因为温度一高，不好的味道就挥发了。</p>
+<p>再加点科技提鲜，糊弄个一般人不成问题</p>
+<p>所以你看，廉价自助都是烤肉店</p>
+<p>罕有炖肉店。</p>
+<p>至于烹饪上面省钱，烤肉店的蘸料，一般是掺了桃酥的</p>
+<p>桃酥这玩意属于老太太的零嘴，本质上就是糖油混合物，一个桃酥基本上就能把你腻住了</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-40aabe69380f33fb2d9502bce9518eed_720w.jpg?source=8673f162" alt=""></figure>
+<p>外加他们的肉，一般都搞得特别咸（也有防腐目的），所以吃不了几块肉，就会口渴</p>
+<p>口渴就得喝饮料</p>
+<p>一杯碳酸饮料下肚，看着开胃，实际上也就没什么战斗力了</p>
+<p>这还是比较规矩的自助餐厅</p>
+<p>至于六七十的韩式烤肉之下的自助餐厅</p>
+<p>最典型的就是酱大骨自助了。</p>
+<p>这种自助餐厅一般收费在 30 块钱到 40 块钱。</p>
+<p>其主要食材的采购价格如下</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6659d912e9056c1fbf17b968e7f0690_720w.jpg?source=8673f162" alt=""></figure>
+<p>是五块钱一斤的猪骨，</p>
+<p>你看搞冻货的老板自己都说了</p>
+<p>饭店自助酱大骨食材。</p>
+<p>这都是网上公开的货源，你要是线下去大量进货</p>
+<p>价格还能够更便宜，压到四块五一斤，也不是不可能的</p>
+<p>这种大骨头，其实就是边角料，最开始的用途是打成粉当宠物饲料用的</p>
+<p>不过，既然大家都这么爱吃骨头</p>
+<p>于是就由宠物饲料而成为廉价自助餐的食材了</p>
+<p>如前所说，这种冷冻肉，只能烤着吃，不能炖着吃</p>
+<p>但是酱大骨，又是炖着吃</p>
+<p>那么你就知道了，为了把这个冷冻猪骨的异味压制住，酱骨自助老板往里面加了多少料了</p>
+<p>科技与狠活则未必，但是一定是用了科技了</p>
+<p>就说那个卤肉用的高汤吧，他说没往里面加猪肉香精，你信么？</p>
+<p>吃完了口渴的要命，</p>
+<p>无非就是加料加多了的证据罢了</p>
+<p>不过有一说一，要不是因为这种冷冻库存母猪的龙骨上面没什么肉，实在是没法烤着吃</p>
+<p>老板其实也不愿意下猛料给你作酱骨头。</p>
+<p>这类自助餐，一般还有一个炸货区，全都是淀粉丸子</p>
+<p>比面团子贵不了几块钱。</p>
+<p>这就是廉价自助，而且还是讲良心的那种</p>
+<p>不讲良心的，那个肉可就不知道是什么来路了</p>
+<p>鸭子肉兑羊油拿卡拉胶黏上，过一下机器冒充羊肉，鸭子肉兑牛油拿卡拉胶黏上，过一下机器冒充牛肉</p>
+<p>那都是常规操作。</p>
+<p>很多自助餐，成本最高的菜品可能是他们店里的绿叶菜。</p>
+<p>至于高档自助，虽然说吃回本的概率比廉价自助高</p>
+<p>但是实际上也是有一大堆坑</p>
+<p>比如说虾，之前经济景气的时候，都是上的大虾</p>
+<p>现在经济不景气了，上的都是盐田虾</p>
+<p>这个盐田虾，其实味道比大虾还好</p>
+<p>但是便宜多了</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd5e1e39e87a33a43f1caeeac812be04_720w.jpg?source=8673f162" alt=""></figure>
+<p>12 块钱一斤，你随便吃，吃十斤老板才会赔钱</p>
+<p>还有一个类似的海鲜，就是青口贝，又叫海虹</p>
+<p>这玩意，属于海鲜养殖的副产品，一般生长在网上</p>
+<p>你比如说你养了一大堆生蚝吧，相信我，海虹一定长得比生蚝更壮</p>
+<p>你要是不尽早处理，你的生蚝就废掉了</p>
+<p>因为这玩意和生蚝抢食</p>
+<p>所以海鲜养殖户，都是拿出一副处理垃圾的态度，去处理这些青口贝</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b110c4bab1dd102db5db43aeb757ece_720w.jpg?source=8673f162" alt=""></figure>
+<p>有的时候，你帮他处理这东西，他不要钱就能送给你</p>
+<p>九毛钱一斤，八千斤起批，</p>
+<p>欢迎购买</p>
+<p>便宜吧？</p>
+<p>这个价格其实都算是冤人的价钱</p>
+<p>因为海边零售价才两块钱一斤</p>
+<p>这玩意别说在海边了，就算是拉到济南贩卖，都算是便宜货</p>
+<p>当然了，要是是活着的青口贝，那就又是另外一说了</p>
+<p>毕竟把这玩意活着带到济南之类的内陆城市，到底算是一个成本极高的事情</p>
+<p>不过你猜自助餐厅用的是活青口还是死青口？</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0eae90266eaa223b8955b54b6c4ed216_720w.jpg?source=8673f162" alt=""></figure>
+<p>青口这玩意在自助餐中，一般是出现在海鲜大咖中的</p>
+<p>上面这个是沿海的海鲜大咖</p>
+<p>在人家沿海城市，因为大家都知道青口到底是怎么回事</p>
+<p>所以经营者不敢在海鲜大咖里面只放扇贝、青口，还是多少放了点大虾螃蟹的</p>
+<p>但是在咱们内陆，海鲜大咖那可真就是海鲜三贱客聚会了</p>
+<p>是的，除了青口不值钱，红扇贝（一般五块钱一斤），小生蚝（八块钱一斤）也都是很贱的东西</p>
+<p>你也不知道，还以为是什么高档货呢</p>
+<p>吃的可开心了</p>
+<p>这玩意吃二十斤，老板照样赚钱</p>
+<p>当然了，这还不是最无耻的</p>
+<p>最无耻的是芝士焗青口</p>
+<p>我都不知道他们是怎么发明出来这种盈利菜品的</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-13bde3851d294b00e68842fe4d344e2f_720w.jpg?source=8673f162" alt=""></figure>
+<p>看着和多么高档一样，其实就属他不值钱。</p>
+<p>哦，对了，青口贝最肥美的季节是春季</p>
+<p>但是这也是青口贝毒性最大的季节</p>
+<p>是的，这玩意倒是没有毒，但是他吃的水藻有毒</p>
+<p>于是他也有毒了，在正常情况下是微量毒性</p>
+<p>可是吧，只要是发生了赤潮，这个青口贝就成了小毒药了</p>
+<p>每年春天，都有几个倒霉蛋吃青口贝把自己吃进医院去的</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2a569b4df2fb5e476c6c03df2e25ae37_720w.jpg?source=8673f162" alt=""></figure>
+<p>“去医院，这么厉害么？”</p>
+<p>由于青口贝的毒素是神经相关的毒，所以中毒者除了上吐下泻之外，面部神经还会麻木疼痛</p>
+<p>较为严重者甚至会无法站立，呼吸困难，个别人甚至直接休克</p>
+<p>据说他这个毒，和河豚的有一拼。</p>
+<p>要是运气足够坏，没准就那啥了也说不定</p>
+<p>所以，廉价自助餐上个青口贝到时无可厚非</p>
+<p>一百四五十的自助餐，再上青口贝，那就是良心大大的坏了。</p>
+<p>这玩意属于一票否决</p>
+<p>当然了，如果是活体的，那倒是可以稍微原谅</p>
+<p>内陆城市的活青口，大约也得要二三十块一斤了。</p>
+<p>星级酒店的自助餐都有三文鱼，三文鱼是区分中档自助餐和低档自助餐的标志性菜品</p>
+<p>但你以为都是挪威进口的？</p>
+<p>错了不是</p>
+<p>其实有相当一部分餐厅用的是虹鳟</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aa285e4fe56c3b9774eaa0a17d9e372f_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是江苏那边的价格，你要是去青海产地批量采购，价格比 24 元一斤还得便宜</p>
+<p>至于虹鳟和三文鱼有什么区别？</p>
+<p>一个是淡水鱼，一个是海水鱼</p>
+<p>一个可能会有寄生虫，一个只要经过冷冻处理大概是没有寄生虫</p>
+<p>一个推荐的吃法是熟吃，一个可以生吃（当然说是没有寄生虫，也未必真就没有，反正蔡澜是建议大家不要吃生鱼片）</p>
+<p>过去，分辨三文鱼和虹鳟有两个办法，一来虹鳟身上有一条线，二来虹鳟的肉呈现赤红色</p>
+<p>但是随着渔业科学家的努力</p>
+<p>终于解决了虹鳟肉发红的难题，培育出来了更像三文鱼的三倍体虹鳟</p>
+<p>一举解决了食客们因为颜色问题不吃虹鳟的商业问题。</p>
+<p>食客们再也无法通过颜色分辨出哪个是三文鱼，哪个是虹鳟了</p>
+<p>甚至某些日料师傅都无法单纯靠着肉的外形来分辨哪个是三文鱼，哪个是虹鳟</p>
+<p>所以很多比较好的自助餐，会明档分割三文鱼，自证清白</p>
+<p>有的比较含蓄，但是也会把鱼头摆在明档处</p>
+<p>你去吃自助，只有三文鱼肉而不见鱼头，那就得寻思下了</p>
+<p>不过，虹鳟鱼这玩意虽然可能有寄生虫，但是只要饲养环境干净也没关系</p>
+<p>据说现在的虹鳟也没多少寄生虫</p>
+<p>不过，既然三文鱼是区分低档自助和中档自助的关键菜品</p>
+<p>一个拿着虹鳟糊弄事的酒店</p>
+<p>那就不太对了</p>
+<p>不值得原谅</p>
+<p>当然，要是人家挂着牌子说了，那就是消费者的问题了。</p>
+<p>大酒店的自助里面的另外一个主打产品是烤肉</p>
+<p>大家去酒店吃自助餐，其实是吃牛肉吃饱的。</p>
+<p>这类餐品的代表作就是巴西烤肉</p>
+<p>什么烤牛肩肉，什么烤牛肋条，什么烤牛胸肉</p>
+<p>酒店的牛肉一般走的是进口渠道</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a0ab40c2e5138a49a1d1cfe827ca687f_720w.jpg?source=8673f162" alt=""></figure>
+<p>由于最近进口牛肉价格涨了快三成，在涨价前，一斤食材成本可能也就二十块钱，现在得二十四五了</p>
+<p>所以假如，咱们最近如果去吃自助餐的话，可能就会发现了，某些酒店的牛肉类的菜品少了很多，但猪肉类或者鸡肉类的产品，却多了很多</p>
+<p>这种酒店就不要去了</p>
+<p>太小气了，一斤三四块钱的利润都计较。</p>
+<p>对了，还有一件事，最近中国和阿根廷人谈好了，准备进口阿根廷的牛下货</p>
+<p>估计用不了多久，满大街就又会生长出什么牛杂自助餐了</p>
+<p>假如一个自助餐收费一百五六，但是忽然不上牛肉改上牛杂了</p>
+<p>那么，猜都不用猜，这就是阿根廷牛杂，办这事的属于盈利入脑</p>
+<p>他家的自助餐，性价比绝对很差。</p>
+<hr>
+<p>所以，你要是抱着少亏钱的心态去吃自助餐</p>
+<p>第一，不要去百元以下的</p>
+<p>第二，去一百五六十的自助餐厅，也得挑</p>
+<p>那种上了虹鳟，上了盐田虾，上了青口贝（尤其是上了芝士焗青口的）的餐厅，就不要去了。一看就是想要冤你钱的。</p>
+<p>那种忽然不上牛肉，反而是上了大批牛下水的餐厅也别去了，别看吹得好，其实很抠唆；当然了要是只是增加了牛下水，这个也可以原谅。</p>
+<p>既然荣膺星级餐厅之列</p>
+<p>他还给你上这些东西</p>
+<p>那就是摆明了不把你当回事</p>
+<p>起了愚弄你的心思</p>
+<p>同时星级酒店的住客都是见过世面的</p>
+<p>他拿这玩意糊弄事还没被举报，只能证明其住客资源流失很严重了</p>
+<p>真正算是相对物美价廉的自助餐厅</p>
+<p>必须要有下列配置，第一要有挪威进口的三文鱼、金枪鱼之类的东西；第二要有榴莲类菜品（当然这个也是盈利菜品，不过没那么黑）；第三烤肉必须得是整肉烧烤（只有串烧的就算了，碎牛肉做的）；第四主要菜品里面要有鲍鱼（三块钱一个）；第五肉类菜品里面除了酱大骨，猪蹄，还要有排骨等菜品；第六扇贝是虾夷扇贝而绝非是红扇贝，生蚝要大生蚝绝对不能是小生蚝。要有螃蟹。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-04abb8ba7a7ca68771bca160275338b2_720w.jpg?source=8673f162" alt=""><figcaption>虾夷扇贝</figcaption></figure>
+<p>你比如说这个虾夷扇贝，一斤至少得五十块钱</p>
+<p>去了壳子，里面这个肉，恨不得得一百多一斤。</p>
+<p>不过能够上这些东西的自助餐厅，最便宜也得小二百了</p>
+<p>稍微贵了点</p>
+<p>但是，宁肯多花五十块钱，去二百多的自助餐厅吃饭，也别去上了虹鳟，上了盐田虾，上了青口贝（尤其是上了芝士焗青口的）的餐厅</p>
+<p>二百多的是做买卖，那种什么都敢上的餐厅，名曰星级酒店实际上就是来冤你钱的</p>
+<p>当然了，二百多的餐厅，也得注意一个大坑</p>
+<p>这个大坑就是烤鳗鱼，这玩意，全是预制菜，价格很便宜</p>
+<p>但是吧，由于日本人吹得猛，大家还觉得这个挺高档的</p>
+<p>另外一个小坑，就是鹅肝了</p>
+<p>全球最大的鹅肝生产基地就在山东省，一斤鹅肝也就 100 来块钱</p>
+<p>给你切上一片，成本估计也就不到五块钱。</p>
+<p>但是这玩意本质上就是鹅的脂肪肝，成分主要是脂肪，你吃上五十块钱的，基本上也就算是被腻住了</p>
+<p>当然了，我说他物美价廉，不过是站在我们一般消费者立场上的</p>
+<p>真要算利润</p>
+<p>人家这种的客单利润也不低</p>
+<p>不过好处是什么呢？在这种餐厅，能够吃到不少稀罕东西</p>
+<p>你就说虾夷扇贝吧，这玩意咱们正常人，谁会买啊？</p>
+<hr>
+<p>既然自助餐厅在食材成本上控制的很严格</p>
+<p>那么他们生意很好干吧？</p>
+<p>未必不会亏</p>
+<p>因为除了食材成本，还有房租成本和人工成本</p>
+<p>这个其实真不比食材成本的分量小</p>
+<p>一家正经自助餐厅，怎么着不得小二百平米啊</p>
+<p>这种店铺一年的租金，就算是在济南这种地方，但凡是商圈还行的，那都是至少得二十万</p>
+<p>老板早上起床睁开眼，啥也没干就背上了六百块钱的债</p>
+<p>六百块钱的房租，加上人工，水电费，那至少就得是一千五百块钱</p>
+<p>由于餐费都是一样的</p>
+<p>不存在什么高消费的可能</p>
+<p>盈利完全取决于人流量。</p>
+<p>八十块钱一位的自助餐，得来多少人才能赚回来每天的固定支出呢？</p>
+<p>一个二百平米的场地，又能够摆下多少张桌子，又能接待多少人呢？</p>
+<p>所以你们大概注意到了，自助餐厅的桌子都是紧紧巴巴的挤在一起。</p>
+<p>只要人流量维持不住，这种店铺三到六个月必然倒闭</p>
+<p>而且都是巨亏</p>
+<p>之所以是巨亏</p>
+<p>自助餐和小饭店毕竟不一样，人家小饭店，一桌五六个人可能一顿饭就消费三四百块；但是也有可能吃嗨了，一顿饭就花出去个一千块钱。</p>
+<p>所以他的客单价是一切皆有可能的。</p>
+<p>有的小饭店，就是做霸王别姬——王八炖鸡这种菜做的好</p>
+<p>一道菜就 188 元</p>
+<p>大家还真未必不去这种小饭店请客吃饭</p>
+<p>因为他有特色啊。</p>
+<p>这种小餐馆可能不到十张桌子就能够经营了</p>
+<p>就这种规模，老板夫妻二人经营不是不可能，充其量再雇佣一个服务员或者帮厨。</p>
+<p>这种饭店就算是亏，能够亏多少呢？</p>
+<p>更何况别看人家客单利润率不高，但是人家客单利润的绝对值高</p>
+<p>一道霸王别姬，连买王八带买乌鸡带中药成本是很贵的，但是一道菜就能赚八十块钱。</p>
+<p>你自助餐行么？</p>
+<p>你是走量的，因为你客单利润率高但是利润绝对值低</p>
+<p>所以你必须走量</p>
+<p>既然走量，那场地就绝对不可能小</p>
+<p>毕竟，多摆一张桌子，月底就可能能多赚五千块钱。</p>
+<p>场地不小，那房租就得高，雇佣的工人就得多</p>
+<p>那成本就得高</p>
+<p>成本高了，就存在一个收回成本的问题</p>
+<p>一般情况下，只要这个自助餐厅，总是坐不满人（四成座位没人），那他就距离倒闭不远了。</p>
+<p>干自助餐的人，那都是狠人，玩的是对赌</p>
+<p>赌的是能够以最小的成本笼络住顾客，让大家一边吃廉价肉一边夸老板厚道，用最小的钱换取客户优秀体验。</p>
+<p>能够让他这两下子糊弄住的，都是小孩子</p>
+<p>更何况了，现在小孩子也糊弄不住了</p>
+<p>一来竞争者多，这些竞争者分两类人，一个是很多脑瓜子一热入场的，一个是心灰意冷离场的</p>
+<p>二来消费观念转变了</p>
+<p>先说竞争者</p>
+<p>脑瓜子热的不提，脑瓜子热的人办的傻事儿，五光十色，不一而足。</p>
+<p>按照一句说烂了的话，聪明人都是相似的，但是天真汉各有各的天真。</p>
+<p>就心灰意冷离场的来说</p>
+<p>现在生意不好做</p>
+<p>很多人已经准备退出餐饮业了</p>
+<p>但是这些人，手里面还有大量的食材，房租也还没到期</p>
+<p>他们就容易转成自助，目的是把库存清理，把租期用完</p>
+<p>等房租到期撤店的时候，亏损没这么大。</p>
+<p>对于他们来说，现在已经不是做买卖了，而是尽可能的挽回损失</p>
+<p>他们已经失败了</p>
+<p>你和人家竞争？你是竞争不过人家的</p>
+<p>人家不是做买卖了，人家是避免进一步亏损。</p>
+<p>这些人会分流走你的客流</p>
+<p>至于消费观念转变</p>
+<p>自助餐，是看着实惠，实际上不实惠</p>
+<p>更何况</p>
+<p>吃的那么撑，对健康也不好</p>
+<p>现在是一个追求性价比和健康观念的消费趋势。</p>
+<p>八十一位的自助餐，能够买至少五斤猪肉，回家炖了够全家吃两天</p>
+<p>也不用吃的那么难受</p>
+<p>更何况</p>
+<p>过去是经济条件好，市场景气，大家比较忙，都喜欢下馆子</p>
+<p>现在经济条件未必和当年一样了，同时市场也不甚太景气</p>
+<p>大家的时间也没有那么珍贵了</p>
+<p>有的是时间在家里炖红烧肉</p>
+<p>这两个因素让自助餐厅的客流无法再维持。</p>
+<p>不要说什么小自助餐了</p>
+<p>甚至就连星级宾馆的自助餐都不敢保证利润了</p>
+<p>比如说吧，我经常去的那一家自助餐，本来是周一到周末，七天营业的</p>
+<p>现在好了，只在周五到周末营业</p>
+<p>你还得提前打电话预约座位</p>
+<p>须知</p>
+<p>星级宾馆的自助，并不是一个单纯的餐厅，他实际上还承担着招待食客和各种会议的参会者（是的，租赁会场也是他们的一块重要业务）的就餐的任务</p>
+<p>其运行成本的相当大一部分，已经被摊入了房费或者会费</p>
+<p>连他们都支撑不住了</p>
+<p>只敢在周末开业，且要你打电话提前预约（省的你不来，多准备了饭菜，形成浪费）</p>
+<p>你说自助餐的未来会是什么吧?</p>
+<p>所以依我看，这一轮自助餐热，最后的结局也无非是一地鸡毛</p>
+<p>最近牛肉价格上涨，大家是不是看到牛肉自助烧烤少了很多呢？</p>
+<p>其真实利润之微薄，由此可知。</p>
+<hr>
+<p>之前有一个网红，一天到晚的去各种自助餐厅胡吃海塞，声言要给老板上一课</p>
+<p>结果吃了不到两年，这个人就去世了</p>
+<p>去世的原因</p>
+<p>一来是暴饮暴食，</p>
+<p>二来，自助餐的客单价既然已经锁死，那么利润要么来自于客流，要么来自于降低成本。客流自然没什么好说的，至于成本，最容易降低的成本就是食材成本；那种廉价食材吃多了，没病也得有病了。</p>
+<p>“难道是不合格么？”</p>
+<p>还真不是。</p>
+<p>你别看着这个食材，根据现行中国法律，他是合格品，</p>
+<p>但是你坚持吃上半年</p>
+<p>你的身体一定得垮</p>
+<p>何故？</p>
+<p>廉价自助餐厅为了控制成本，用的都是冷冻肉，甚至边角料</p>
+<p>为了让边角料看起来好看，有卖相，那就得加嫩肉粉、保水剂、色素、香精、卡拉胶之类的</p>
+<p>有的甚至直接连八块钱一斤的碎牛肉，四块钱一斤的五花肉，三块五一斤的鸡肉都舍不得用</p>
+<p>给你弄点羊油、鸭子肉和着香精制造假羊肉，假猪肉，假牛肉</p>
+<p>同时</p>
+<p>为了让你少吃，那就必须得多放盐，多放辣椒，还让你口渴，去喝各种高糖的饮料</p>
+<p>为了实现这个图谋</p>
+<p>有的自助餐，甚至连白开水都不提供</p>
+<p>一顿自助餐吃下来，食客们光是喝饮料摄入的糖分就得爆表</p>
+<p>更不用提油脂和各种添加剂了</p>
+<p>糖分摄入超标的结果是血糖不正常，血糖不正常的后果就是糖尿病</p>
+<p>高盐分摄入的后果就是高血压</p>
+<p>高脂肪摄入的后果就是脂肪肝</p>
+<p>年纪轻轻三个慢性病一得，基本上也就要痛风了</p>
+<p>那点吃自助带来的愉快心情，是不如因为生病导致的生活质量下降的痛苦的</p>
+<p>所以，作为一个曾经的自助餐爱好者，我觉得吧，最好别吃自助，就算是吃也吃点好的</p>
+<p>因为星级宾馆他必须要达标才能够评星</p>
+<p>而且人家那个自助餐厅属于搭售服务，主要是为了服务房客，其次才是为了服务外客</p>
+<p>在材料上面偷奸耍滑的概率不大</p>
+<p>但是也不能一概如此说</p>
+<p>比如我前面说的那种上了虹鳟，上了盐田虾，上了青口贝（尤其是上了芝士焗青口的）的餐厅</p>
+<p>他虽然是星级酒店，但是因为债务压力大，还债任务重，已经不管不顾了</p>
+<p>哦，对了，好的星级酒店和坏的星级酒店还有一个重要区分</p>
+<p>好的星级酒店的自助餐炒菜一般会不错</p>
+<p>而坏的星级酒店的自助餐，他的炒菜一般很差劲，不是豆腐就是预制菜</p>
+<p>根据常识来说，在自助餐中，炒菜的盈利能力最强</p>
+<p>没有空口吃炒菜的道理</p>
+<p>大家总是得就着炒菜吃主食才得劲</p>
+<p>比较好的酒店自助餐</p>
+<p>一般会有几个特别好吃，但是却特别占肚子的菜</p>
+<p>比如说吧，我吃的最好的红烧肉，就是在一个星级酒店的自助餐厅吃到的</p>
+<p>吃了还想吃。</p>
+<p>另外给我留下深刻印象的是酒店里面的打卤面</p>
+<p>每回去，想吃有心疼</p>
+<p>花二百块钱喝打卤面！！</p>
+<p>而且不止我这样，大家都是这样，真不知道那一盆红烧肉，节约了酒店多少螃蟹大虾鲍鱼牛肉呢！</p>
+<p>你只要把打卤面一吃，把蛋炒饭一吃</p>
+<p>这基本上就算是退出本轮自助餐了</p>
+<p>老板招待你，基本上算是稳赚不赔了</p>
+<p>假如一个星级酒店，能够在自助餐的炒菜上面糊弄事</p>
+<p>只能够证明他们认为，别的菜品你怎么吃也回不了本了。</p>
+<p>他们认为，你吃别的菜品造成的损失，远远小于给自助餐厅多配置一个炒菜厨师的损失。</p>
+<p>这样的自助餐还吃他干啥？？？</p>
+<p>不过</p>
+<p>就算好酒店的好自助，</p>
+<p>你也别当精算师，非得要吃回本来什么的。</p>
+<p>因为别管这个餐厅多么厚道，你都是不可能吃回本的</p>
+<p>你非要吃回本，只会毁掉自己的身体。</p>
+<p>我们要爱惜身体。</p>
+<p>写到这里，我也有点想吃自助餐了</p>
+<p>不过转念一想，我又不敢吃自助餐</p>
+<p>一来，部分指标不甚正常，胡吃海塞只会让我的身体承担没有必要的负担。</p>
+<p>二来，胃口不如十年前的时候了，吃着吃着就觉得</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a1fbac4eaa75d548d67f589a07e3b5e6_720w.jpg?source=8673f162" alt=""></figure>
+<p>实在是怪伤心的。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/48122357">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/599610325">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9788802</guid>
-                <pubDate>Fri, 10 Apr 2026 18:43:30 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9788832</guid>
+                <pubDate>Sat, 11 Apr 2026 01:51:39 GMT</pubDate>
             </item>
             
             <item>
-                <title>各位学界大佬是怎么发现新史料的？</title>
-                <link>http://daily.zhihu.com/story/9788811</link>
-                <description>拉格朗日的忧郁，凝聚态场论方向，在做post-doc 查看知乎原文 前段时间米兰大学的 Ivan Mallara 从犄角旮旯里找到了伽利略的亲笔文字，其过程之奇妙可以说是新史料发掘的一个典范案例。 先介绍一下 Ivan Mallara，他现在还在做博后，研究核心是伽利略和托勒密的继承关系（examination of Galileo Galilei’s reception of Ptolemy）。…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-85b9a941fad5c4d30872a06a2d2d8a63.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>曾经大干快上的垃圾分类为何没人再提了？</title>
+                <link>http://daily.zhihu.com/story/9788838</link>
+                <description>牛顿顿顿，让商业更性感，合作联系 : f5746253 查看知乎原文 因为老外们做梦也想不到中国的垃圾已经不够烧了，甚至成了一个日赚斗金的行业。 上海已经把埋了 20 年的垃圾挖出来了。 是的，当年总有人拿日本和欧洲垃圾分类多严格，对比批评中国人素质低，垃圾不分类，人家叫文明，我们是破坏环境。 但是我们今天却出现焚烧厂&quot;抢垃圾&quot;的魔幻场景。 而且我们这还不是简单的焚烧，这背后藏着一场你可能完全没注…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7c3e4a7f4e3cc35f77e85b6f2eda8fce.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -275,42 +756,89 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-738cf72ff0ad6f3a8ae490825415efe6_l.jpg?source=8673f162">
-<span class="author">拉格朗日的忧郁，</span><span class="bio">凝聚态场论方向，在做post-doc</span>
-<a href="https://www.zhihu.com/question/2012663924428931104/answer/2021545621971018927" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-91e3eba8443167eccd2ba6e16e63cff1_l.jpg?source=8673f162">
+<span class="author">牛顿顿顿，</span><span class="bio">让商业更性感，合作联系 : f5746253</span>
+<a href="https://www.zhihu.com/question/1927442845930861674/answer/2020081174169568332" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>前段时间米兰大学的 Ivan Mallara 从犄角旮旯里找到了伽利略的亲笔文字，其过程之奇妙可以说是新史料发掘的一个典范案例。</p>
-<p>先介绍一下 Ivan Mallara，他现在还在做博后，研究核心是伽利略和托勒密的继承关系（examination of Galileo Galilei’s reception of Ptolemy）。这位老哥的一大主要的工作方式就是去图书馆找各种奇奇怪怪的老书，特别是那些十五十六世纪留存下来的和托勒密相关的书籍。这种书通常都会有一些笔记在上面，这位老哥就去研究这些笔记在写什么内容，然后去理解那个时代人对于托勒密体系的看法和理解。</p>
-<p>譬如说，1515 年在威尼斯由印刷商彼得·利希滕斯坦印制了拉丁语版本的《至大论》，这个书是托勒密的杰作，但却是从阿拉伯语翻译过来的，毕竟中世纪的科学之光在阿拉伯人手中。Ivan Mallara 在维也纳奥地利国家图书馆就找到了这么一本书，其中包含了大量批注。老哥通过仔细阅读批注意识到这个作者出在哥白尼时代后，而伽利略前，精通天文学，还试图改写托勒密理论，然而最后没有辨认出批注者到底是谁。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8887aefe4704914f8cddef35788c74d5_720w.jpg?source=8673f162" alt=""></figure>
-<p>然而幸运的是，他并不是总找不到批注者的身份。事实上，据佛罗伦萨国家图书馆讲，他们在做一个很特别的文献识别的项目，目标就是确定伽利略读过哪个版本的《至大论》，以及这些阅读在他与哥白尼日心说模型的对抗中扮演了什么角色。</p>
-<p>最终他们找到了一个收藏于图书馆的马利亚贝基亚诺藏书中的 1551 年巴塞尔版的至大论。在检查过程中，老哥发现，总共 13 卷的这部作品，其中前五卷有大量的旁注，而依据对笔记的古文字和内容分析，他发现页边的文字与伽利略年轻时的笔迹高度吻合，同时也与他早期和后期著作中的思想和表述相符。于是便怀疑这个笔迹很可能就是伽利略本人的，那么伽利略当年读的至大论很可能也就是这一本。而进一步根据古文字学分析和注释内容，这些笔记被认为可追溯至 1589 年至 1592 年间，那个时候伽利略正在比萨大学教授数学。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-10d0a87aa00f1d07d31541c66982ac4c_720w.jpg?source=8673f162" alt=""></figure>
-<p>那么可能有人会觉得，搞清楚伽利略读了什么书有什么用呢？这就是历史学，特别是科学史的有趣之处。科学史通常是被写成了从一个胜利走向另一个胜利的赢学段子，智慧的科学家灵光一闪带领人类走向新世界。然而事实并不是这样的，科学的发展是建立在对旧有理论的熟悉和对现有问题的理解基础上的，即便是天才的伽罗瓦提出群论，也是建立在拉格朗日研究基础上的。而通过研究伽利略读的是什么版本的至大论，以及在读书过程中做了什么样的笔记，我们就可以了解到真实的伽利略是如何从旧有的天文学体系中汲取营养，新的科学是如何从旧知识的残骸中生长出来的，我们就能看到活的科学史。</p>
-<p>其中更为微妙的是，老哥发现，伽利略在正文研究之前会写有一段简短的祷文，只能说这书实在是太难了，即便对伽利略来说也太难了，所以在阅读至大论前会进行祈祷，这样的伽利略要比刻板印象中有意思许多，就像我们写了几百行代码要跑之前也想着要不要向图灵或冯诺依曼祈祷，千万不要出 Bug。</p>
-<p>P.S. 这个问题本身我觉得是一个非常有意思的问题，新史料的发掘总是会让我们对历史有一些新的理解，然而可惜大多数回答都围绕着键政展开，实在无趣。故而写一个最近在 science 上看到的足够有趣的案例分享。</p>
+<p><strong>因为老外们做梦也想不到中国的垃圾已经不够烧了，甚至成了一个日赚斗金的行业。</strong></p>
+<p>上海已经把埋了 20 年的垃圾挖出来了。</p>
+<p>是的，当年总有人拿日本和欧洲垃圾分类多严格，对比批评中国人素质低，垃圾不分类，人家叫文明，我们是破坏环境。</p>
+<p>但是我们今天却出现焚烧厂"抢垃圾"的魔幻场景。</p>
+<p>而且我们这还不是简单的焚烧，这背后藏着一场你可能完全没注意到的垃圾处理技术逆袭。</p>
+<p>我们国家在垃圾分类处理焚烧发电这个领域有了重大的技术革命，已经牛到让分类变得没那么必要。</p>
+<p>垃圾场把旧垃圾挖出来，分类完了还能赚钱。布料皮革撕碎了做成 RDF 燃料卖给电厂，木头柴草厨余垃圾还可以制成生物质颗粒，连碎砖头，建筑垃圾，焚烧残渣都能破碎了重新做成生态透水砖。</p>
+<p><strong>说白了，不是我们不想垃圾分类，而是我们的技术已经先进到已经不用分类了。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f82a4e403eee90cff455371d97ae975c_720w.jpg?source=8673f162" alt=""></figure>
+<p>十年前我们要相信后人的智慧，没想到十年之后我们就是那个后人。</p>
+<p>所以啊有些活就不能干太快，拖着拖着就不用干了。</p>
+<p>我们这边垃圾分类还没开始上手段呢，突然就没了，你说气人不？</p>
+<p>日本那种严格到变态，要求劲巴拉在家里先分类好，然后再分类扔，分类去运输处理，是当年技术落后的的“土法环保”笨办法。</p>
+<p>一定是我们现在集中运输，工厂大规模，批量化，机械化处理效率更高。</p>
+<p>而且处理的精细度，环保程度都会都更高，甚至能让这些垃圾变成了一门"抢手生意"。</p>
+<p>中国用技术给了垃圾一条更燃的出路——直接烧掉,而且烧得比谁都干净。</p>
+<p>甚至垃圾里面现在还得掺点煤，不然马上要停炉了，天天想着烧垃圾，哪有那么好的事儿。</p>
+<p>这事得从 2018 年说起。</p>
+<p>那一年国家启动"无废城市"建设，杜祥琬院士带队死磕垃圾焚烧技术。</p>
+<p>原本只是为了"活下去"，结果一不小心闯出了一个全球领先的新赛道。</p>
+<p>当年我们也引进过日本和欧洲的焚烧炉，结果这些洋设备一到中国就水土不服,经常趴窝。</p>
+<p>主要是这些设备没见过大场面，从小就没打过这么艰苦的仗。</p>
+<p>我们只能自己研发，这套技术最大的突破在哪?</p>
+<p>温度和系统的分类处理。</p>
+<p>中国科研人员硬是把焚烧炉温提到 1100 摄氏度以上。</p>
+<p>你知道这意味着什么吗?</p>
+<p>当年最让人害怕的二噁英——毒性是砒霜 900 倍的玩意儿——在这个温度下，99.99%直接被分解成无害物质。如今中国的焚烧排放标准，比欧盟还严。</p>
+<p>得益于中国制造的强大能力，中国科学家把原本娇气的洋设备淘汰，自研成了拥有超强挤压和干燥能力的"钢铁巨兽"。</p>
+<p>现在的国产焚烧炉早就进化成了六边形战士，不管你倒进去什么垃圾，它都能烧得干干净净，而且排放物质也能处理的干干净净。</p>
+<p>中国强悍的工业巨兽，已经强大到不需要你去迁就它了。</p>
+<p>什么都能吃得下。</p>
+<p>更何况，在神秘的东方大国，每天晚上都会在垃圾桶旁边刷新出一群环保精灵，自动帮你垃圾分类，什么塑料瓶子易拉罐纸壳子，就不可能浪费。</p>
+<p>垃圾处理的技术一突破,产能直接爆炸。</p>
+<p>到 2024 年，全国焚烧厂超过 1000 家，焚烧炉 2000 多台，日处理能力突破 111 万吨。</p>
+<p>要知道,全球焚烧厂加起来也就 2000 来座,中国一家占了一半。</p>
+<p>于是戏剧性的一幕来了。</p>
+<p>全国焚烧能力一年能吞掉 2.8 亿吨垃圾,可城市生活垃圾总量只有 2.5 亿吨。</p>
+<p>不够烧。</p>
+<p>为了"吃饱",有些地方甚至跨省抢垃圾,去老填埋场"挖垃圾"。</p>
+<p>为了"吃饱",中国企业搞出了两个更硬核的操作。</p>
+<p>首先是挖地下库存——深圳把罗湖一个埋了 20 多年的填埋场重新挖开,把陈年垃圾送去烧。这不仅填补了产能,还把寸土寸金的土地腾了出来,附加价值高了去了。</p>
+<p>其次是进军海外市场。现在中国的垃圾焚烧企业正排队往东南亚跑。欧美那些娇贵的设备在东南亚湿热环境下根本不好使,反而是中国这套"在地狱模式里练出来的设备",吃粗粮、耐造、效率高,到了那边简直就是降维打击。</p>
+<p>从"垃圾围城"到"垃圾不够",这反转来得有点魔幻。</p>
+<p>唯一的遗憾是中国人恐怕永远都拍不出机器人总动员了[宕机]</p>
+<p>更狠的还在后面。</p>
+<p>一座日处理 1000 吨的焚烧厂,一年发的电够 3.5 万户家庭用。</p>
+<p>烧剩下的炉渣做成生态透水砖去铺路,渗滤液处理后干净到能养鱼,热能拿来发电供暖。很多焚烧厂不仅处理免费,还能靠卖电卖砖赚钱。</p>
+<p>垃圾从头到脚被吃得干干净净,真正实现了"变废为宝"。</p>
+<p>回头看,当年轰轰烈烈的垃圾分类从来不是一场失败的尝试,而是中国环保路上一个温暖的过渡。</p>
+<p>从垃圾围城到占全球产能过半,我们只用了不到 15 年。</p>
+<p>这背后折射出的是中国工业发展的奇迹。</p>
+<p>当一个常见的社会矛盾最终被技术突破和商业利益彻底消化,甚至变成了一门需要抢着做的生意时,这才是真正的在发展中解决问题。</p>
+<p>从垃圾围城到垃圾不够烧,从人人嫌弃到人人争抢,这背后藏着的是中国科技的硬核崛起。</p>
+<p>总有人觉得中国环保落后,总觉得外国的月亮更圆。</p>
+<p>可事实是,在垃圾处理这条赛道上,中国早就从追随者变成了引领者。我们用 15 年时间,把一场生态危机走成了别人抄都抄不会的技术优势。</p>
+<p>我是牛顿，把商业讲性感，让天下没有好割的韭菜。</p>
+<p>我爱这个魔幻的世界，散会。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2012663924428931104">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1927442845930861674">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9788811</guid>
-                <pubDate>Fri, 10 Apr 2026 18:43:31 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9788838</guid>
+                <pubDate>Sat, 11 Apr 2026 01:51:40 GMT</pubDate>
             </item>
             
             <item>
-                <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9788817</link>
-                <description>瞎扯 · 你见过哪些神似的Logo? 知乎日报 查看知乎原文 Q：你见过哪些神似的Logo? @疯狂的小猪猪 ：哈啰和知乎和比亚迪的 app 太像了！ Q：为什么老师不提前把社会的现实告诉学生？ @jacob benseal ：你以为老师就知道社会现实？老师才是在学校里呆了一辈子的人… Q：为什么好多人不能接受加班？ @龙吾 ：人不是能活到六十岁之后才会死的 人是随时随地随刻都会死 Q： 有哪些鲜…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-b34d1d72cf1109adaa1d413afe5aa793.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>人，可以废物到什么程度？</title>
+                <link>http://daily.zhihu.com/story/9788847</link>
+                <description>小蓝同学，关山迢递，风雨未央 查看知乎原文 93 年生人，到现在为止 32 岁。2025 年元月底辞掉了流水线工作，原本打算春节之后就结束掉这荒诞的一切。后来一个知乎网友告诉我说，他成都乡下的老房子已经荒废数年，若我不嫌弃，可以来这住一段时间。 就这样，我买了从上海到成都的火车票，37 个小时的硬座，硬生生从除夕那天坐到了正月初二中午。当然我一般都是买硬座车票，然而这是坐最久的一次。然后倒地铁公交…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-1ada93a578f639c4f3cc759f939f9369.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -325,55 +853,1059 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 你见过哪些神似的Logo?</h2>
+<h2 class="question-title"></h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-19326368f0aeee6d6ffa35b33945fdcb_l.jpg?source=8673f162">
+<span class="author">小蓝同学，</span><span class="bio">关山迢递，风雨未央</span>
+<a href="https://www.zhihu.com/question/296665682/answer/103523176846" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/20917550/answer/1985074211182638562" target="_blank">你见过哪些神似的Logo? </a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/17b3cdb70e4070bb11b8537f1e60a3c8" target="_blank">@疯狂的小猪猪</a> ：哈啰和知乎和比亚迪的 app 太像了！</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-3973c907a5707055bfd3f500b4f85989_1440w.jpg" alt="" width="1206"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1953870384047841580/answer/1988876084817723938" target="_blank">为什么老师不提前把社会的现实告诉学生？ </a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/455d135625d4737f8bcd54526295ab2c" target="_blank">@jacob benseal</a></div>
- ：你以为老师就知道社会现实？老师才是在学校里呆了一辈子的人…</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/563207946/answer/1914353705324613852" target="_blank">为什么好多人不能接受加班？ </a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1fdb34f496abe3773db8d13c6ea7a0b9" target="_blank">@龙吾</a> ：人不是能活到六十岁之后才会死的 人是随时随地随刻都会死 </div>
-</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/12041837651/answer/1996079067796115548" target="_blank"> 有哪些鲜为人知但非常有趣的历史冷知识？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/feeb87de880999d171d6df5d048743be" target="_blank">@杯中酒</a> ：耶稣被钉在十字架上拉着洪秀全的手说「吾弟当为<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271940650&amp;content_type=Article&amp;match_order=1&amp;q=%E5%B0%A7%E8%88%9C&amp;zhida_source=entity" target="_blank">尧舜</a>」</div>
-</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/540216188/answer/112935355309" target="_blank">北京学生都在卷什么？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d519df8a8b11766e00560403440f199d" target="_blank">@图库斯买买提</a> ：有句话怎么说来着？</div>
-你在清华大学可能算个人物，可这里是<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=271940650&amp;content_type=Article&amp;match_order=1&amp;q=%E5%8C%97%E4%BA%AC%E5%B8%82%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AD%E5%AD%A6&amp;zhida_source=entity" target="_blank">北京市第十四中学</a>。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-f2bc174ea221131ad1994422fee63cf0_1440w.jpg" alt="" width="869"></div>
-<figcaption></figcaption></figure>
-<p><br class="Apple-interchange-newline"><br class="Apple-interchange-newline"></p>
+<p>93 年生人，到现在为止 32 岁。2025 年元月底辞掉了流水线工作，原本打算春节之后就结束掉这荒诞的一切。后来一个知乎网友告诉我说，他成都乡下的老房子已经荒废数年，若我不嫌弃，可以来这住一段时间。</p>
+<p>就这样，我买了从上海到成都的火车票，37 个小时的硬座，硬生生从除夕那天坐到了正月初二中午。当然我一般都是买硬座车票，然而这是坐最久的一次。然后倒地铁公交，加上步行，经过朋友最后的视频导航，才到达目的地。</p>
+<p>朋友常住市里，很少回乡下，而且过年期间也依旧没有在家。</p>
+<p>我先找了个扫把，把院子里的落叶清扫了一下。收拾了床铺，步行去镇上买了点食材，在堂屋的一角简单做了个晚饭。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6ba4f84a2ab7ab20084648082edb9dfc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b8a38f840c25ee4e1e4bad6ad17dbc48_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c2a89d126b69cbf32adf6c08eb8c4bc5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-66ef0bcd34e60980183ef890fcff2d4a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd319e4902937dad80d01e1c2c249006_720w.jpg?source=8673f162" alt=""></figure>
+<p>这大概可以叫做开始躺平了吧，把自己的一切社会属性抹去，不去考虑工作与社交。一个人的村居生活，不知道是否能治愈这个废物的余生。</p>
+<p>第二天，我开始收拾屋子周围的柴火，想着后面烧柴火做饭的话，可以省点电费。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ec79a8c2a89f53cd8181a48209143ba1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5227e8482e85f828b34037e98d9da893_720w.jpg?source=8673f162" alt=""></figure>
+<p>没有了收入来源，只有尽量减少开支。</p>
+<p>我一直以来，消费水平都特别低。手机话费是固定开支，洗漱用品的话，有一小瓶洗发水，可以用好几个月，洗脸洗澡都用的舒肤佳香皂，一块可以用两个月，牙膏就用最便宜的那种，也是一支可以用好几个月。</p>
+<p>如果自己做饭，食材可以控制在每天十块钱以内，一天吃两顿，大概可以保证身体所需的能量。偶尔会喝点廉价白酒。</p>
+<p>衣服鞋子几乎不买，化纤的外套压根就穿不破，而且如果别人有不要的衣服，我看合适的也会自己留着穿。贴身的衣服穿破了才会换新的。</p>
+<p>一般出行，五公里以内的，基本靠步行，再远就会骑个单车。在一个地方待着，就很少有特别远的外出活动。</p>
+<p>有一些爱好，写书法、跑步，或者爬山，都是没有什么花费的活动。</p>
+<p>没有什么规划，但也没有闲着，想到什么就做什么。</p>
+<p>准备育点菜苗，天气也开始暖和了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9432595a792b2c3dedc4316963944309_720w.jpg?source=8673f162" alt=""></figure>
+<p>后来柴火也越攒越多。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-01447182e98a62237b8106468686d50e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9e0f7cfece6c2fb1e3425c63f0ece188_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c7dc08ac6d5ff99ad4ad7feddddc5faf_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-31f8e5143adf5205d7dfd145a7136e79_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbd33d6bd5d4c8a8b8337e77ce981bec_720w.jpg?source=8673f162" alt=""></figure>
+<p>清理掉横七竖八的柴火，我开始整理土地，准备把菜园规划一下，在网上又买了些其他的种子。找了块塑料布，做个简易的温室，没有什么经验，边学边做，希望能有成活的苗子吧，如果不行，就只能到时候买菜苗了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4712f6579434506437bb62e374e7fe1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-066cd11945550db2ef0f28eddf49c439_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8061712e2e0f906b6ecfe895ccb61ce3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-677fb1fe4c90faa28653ef56146e632d_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友周末回来的时候，给我搞了个柴火炉，我现在已经在用柴火做饭了。炉子自带的烟道有点短，我找了根竹子，打通竹节，接在原有的铁皮烟道上，在室内做饭的话，烟就不会太大。竹子比原有的烟道细，所以有效果，但不是太好，只能先凑活用。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2722c13bbb31637ca1c1a04cf9747321_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-76f357e5b943502f63f6a0a8618295fa_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4a7db299bdeca1da0a1f7da1dc1f4e83_720w.jpg?source=8673f162" alt=""></figure>
+<p>我还是习惯北方人做的烩菜。做一次菜可以吃好几顿，第一顿吃个米饭，下一次可以用剩的菜做个焖面。再或者蒸点淀粉类的东西，也可以作为简单的一餐。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-adc18618bb192ead7262d71ae57d477b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bdc590a3c4a9a290e00185b545bd43b3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6ad9d80c3ff1c7a32126780bb82c6248_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f68e8bac38b1a4326c5484a5b45801c2_720w.jpg?source=8673f162" alt=""></figure>
+<p>在柴火堆里找了几个棍子，简单做了个衣架。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8b003111af2db4622955c128399ce221_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6611b7c698dabc14e3715c8a7a0db8c9_720w.jpg?source=8673f162" alt=""></figure>
+<p>厨房的操作台面塌了，我就用竹子编织了一个，就是不太平整，若只是放个东西还是可以的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a82804f180b606614ab91ac609bad1f1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2e70a02811267523738d904891260c79_720w.jpg?source=8673f162" alt=""></figure>
+<p>这原本是喂猪的石槽，现在也没用了，在里面种了些多肉。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-30062095ddbc95f6f53d7438e8de13b3_720w.jpg?source=8673f162" alt=""></figure>
+<p>我在路边采了一枝花，放在卧室。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1d89e3103d49c576b2f835ecea1ccebe_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-84a94bd903a39a5f5c177c052f16753c_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是朋友奶奶以前用的三轮车，奶奶过世之后，也就闲置了。拿出来的时候，轮胎没气了，我在网上买了三条新的内胎换上。这以后就是我的代步工具，偶尔去镇上买个东西或者取个快递，还是比较方便。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2be97a7776c272165e3b2bb3022e156a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-585a47e708d94d89ea3219ee3601b713_720w.jpg?source=8673f162" alt=""></figure>
+<p>最近晚上睡觉之前，又开始写写字，好久没有动过笔了，已经生疏了许多。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-79a23319c1d12c0f2f6d13bc2f1da178_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2ebe21fcfeb62b598215dfbae92d30b6_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dcd957cc87bcc72116daa44d488b00f9_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6e46dc340cf97d93a2198c173623ed0a_720w.jpg?source=8673f162" alt=""></figure>
+<p>房子没有做防水，单薄的砖墙会吸收水分，每个房间墙体下面都有反碱掉皮的现象。</p>
+<p>我打算用 1000 块钱的预算将卧室稍微改造一下，因为预算有限，其他空间就先将就用着。</p>
+<p>在网上买了一些建材，尽量在预算范围之内买一些东西，镇上也有门面，只是小地方可能会乱要价，所以大部分都在网上买了。陆陆续续有取回来的包裹，还在隔壁房间里放着，等东西都到齐了，再开始动工吧。</p>
+<p>偏房这个地方的瓦破了，长时间的风水雨淋，下面的檩子也腐朽了，我废了九牛二虎之力，将原有的檩子取下来，掉到地上直接碎成渣了。然后换了一根竹子，第二天朋友回来的时候，帮忙一起重新铺上瓦片，也算是解决了一个燃眉之急。房子还是需要人养着，随时可以修修补补，如果不住人了，房子真的是烂的特别快。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fb1d98251a02eb12e3be1cf6a1baad14_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6ea2a9d207b64a98a7e5581fd7388ca9_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是修好房檐之后的样子。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-53dd21f49f6ddd42ac01f1f0602da7a0_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b499526404ec1bdb20707179242c8d36_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025-2-15↑</p>
+<p>——————————————————</p>
+<p><strong>2025-2-17</strong></p>
+<p>今天开始清理卧室，不一会儿一身汗，也弄得满身尘土。总算是清理干净了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-54f1d4c696efc7f766841e9b32b23907_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b3ce541caeb6257eb5fe8eebcd25ab2b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-dbbcbfbdf95da29a125ffa892a163116_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c9e659e8a42f356d9c51f460acd745a1_720w.jpg?source=8673f162" alt=""></figure>
+<p>然后清扫了墙面，先刷了一遍乳胶漆，等明天干了之后再刷一遍。</p>
+<p>我只刷了一米往上的部分，因为下面掉灰太严重了，买了墙纸，把下面的直接贴住就行了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-62b6cf20454f08a267b0c6ceb2f7d99b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-155ae47b0ce8bde94eb09ee0d4748a64_720w.jpg?source=8673f162" alt=""></figure>
+<p>在房子后面，捡了个破瓦罐，弄了几片多肉叶子种进去，那个石槽里种的太密集了，又移栽过来几株。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-affd8791858703053e0a9b6337cb053e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e3c39ab83f18fec61ecdfba819d4fcc7_720w.jpg?source=8673f162" alt=""></figure>
+<p>炒了一盘抱儿菜，这是南方特有的，在北方的时候没吃过。后味有点微苦，但是口感特别好，还挺下饭。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f344130dc23c7636ddf50aa7a0b53c27_720w.jpg?source=8673f162" alt=""></figure>
+<p>晚上就先睡在另一个房间，等过几天卧室布置好了再搬过去吧。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0796e6acf6040c0980d5e7abe5a2ce95_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025-2-17↑</p>
+<p>——————————————————</p>
+<p><strong>2025-2-19</strong></p>
+<p>看到一些朋友的留言，可能有些疑问。第一张照片中的那条狗在这里已经半年了，朋友家没人，但是隔壁二伯一直在家，会给狗喂点饭。</p>
+<p>说来也有缘分，去年八月份骑行川藏线来到成都，朋友带我来了乡下的房子，那天跑来的一条流浪狗，就这么栓起来了，还特意给买了狗粮吃。</p>
+<p>上厕所是旁边的旱厕，没有洗澡的地方，我隔几天会用热水随便擦一下，等天热了就方便了。</p>
+<p>还有那堆柴火，从我来的那天起，就开始慢慢收集了。房子旁边有好多高压电塔，电力部门的人会定期清理掉高压线下的高树。我来的时候那两棵树已经被锯倒了，其中一棵是干的，一棵是湿的。只是杂七杂八放在那里，我就一点一点挪到院子里面。柴火也分了两堆，湿的放房檐下了，把一部分干的就直接拿进厨房了。</p>
+<p>这边农村人大部分已经不烧柴火了，也没有什么劈柴的工具，朋友有一把很小的手锯。我就是用这把锯子一点一点锯的，效率确实很慢。粗一点的就转着圈锯，还有几根更粗的木头，可能暂时还锯不了，就先放这里了。</p>
+<p>我把大点的柴火码在外面，里面的细枝是用朋友修剪花草的剪子剪的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1aa8c9fb1ce0d9ad832e06e9cd4e2eba_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-eb6df2771655be56bb059061ba419073_720w.jpg?source=8673f162" alt=""></figure>
+<p>刚开始做饭的时候，还没有菜刀用，我用一把美工刀切菜。后来找到了一把菜刀，不但有缺口，而且还锈迹斑斑，用钢丝球把上面的铁锈除去之后，就这么用了，只用刀尖部分。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5c06b9adf55f9bd6d7f8405bd83f1c84_720w.jpg?source=8673f162" alt=""></figure>
+<p>昨天给卧室刷了第二遍乳胶漆，吃完午饭，去镇上取了快递，我买的桌板到了。组装好之后，就先放在了临时住的这边。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be556b2e8a1460f5e74037bf389062df_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a7e55685d74493fa44087a5414d5c849_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ecc495fa8ad42f337d2a6d62e0bd0635_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友花园里面，有几样菜，儿菜，蒜苗和小葱，这都是二伯年前种的。他们对我很热情，让我随便吃。而且朋友为了给我腾地方种菜，还挖走了一些月季苗，真的不胜感激。</p>
+<p>这个儿菜我已经吃了好几顿了，一次炒两餐的量，第二顿生火热一下就行了，当初朋友给我拿的腊肉还有点没吃完呢，还有一根香肠，用衣架挂在厨房。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ea15b56ef9765e65b574715f214e05e4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d1d652bccd386828ce546aacc6319c35_720w.jpg?source=8673f162" alt=""></figure>
+<p>今天把墙下面的霉斑铲掉了，把墙纸贴上去，可能是还有浮灰的缘故，贴的不是很牢固。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c914754f8db06e7d3ee626c768409efe_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-668153bbe05cdca044ea876ad3d104b4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7c501a77797954d3931a92e739662d02_720w.jpg?source=8673f162" alt=""></figure>
+<p>2 月 1 号育的几样菜苗，甘蓝已经发芽了，后面塑料棚是 13 号才弄的，里的好像还没什么动静。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5803581cdfc3061709ed05c6d0a83e53_720w.jpg?source=8673f162" alt=""></figure>
+<p>住在这里并没有什么确切的计划，除去布置卧室的花费，生活费应该能控制在一个月 500 以内。</p>
+<p>很久之前，有网友给我说过一句话“逃避可耻但有用”。自救还是逃避我也傻傻分不清。</p>
+<p>2025-2-19↑</p>
+<p>——————————————————</p>
+<p><strong>2025-2-21</strong></p>
+<p>今天成都下起了小雨，我这两天还住在这间石棉瓦房间里，有一条电热毯，稍微可以御点寒。</p>
+<p>最近左手腕处有点痛不知道是为什么，休息两天吧，不干活了。今天下午一直在写毛笔字。这个字帖是以前买的一本赵孟頫全集，很厚的一本书，这是其中的一部分，我从里面撕下来的，《洛神赋》和《仇锷墓志铭》，和行李放在一起。原本想着上班期间有空了写写，但后来一直没有动，直到这本字帖跟我辗转到了成都。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ed5b01acb214efe74a29d73e2349770_720w.jpg?source=8673f162" alt=""></figure>
+<p>午饭吃的是炒青笋，几天前的一个晚上，有位邻居送给我了几根青笋。本打算分两次炒的，但是削掉皮之后没剩多少肉了，就一次炒光了，晚上吃饭的时候热一下就行了。我一般米饭也会做两顿的量，等下一顿热的时候和菜放在一起，加点水闷一下就行了，也比较方便。</p>
+<p>我把青笋的叶子留着了，放到明天想办法吃了吧。我打算拌点干面粉蒸一下。这种吃法陕西人叫麦饭或者焖饭，河南人叫蒸菜。也是最方便的一种吃法，算是面食，但是不用和面揉面，是我比较喜欢的一种方式，万物皆可蒸。</p>
+<p>刚来的时候买了 20 斤大米，到今天还剩两三斤，这样算下来一天一斤大米就够了。在多多买菜上买了点食材，我这里没有冰箱，所以鲜肉鲜豆腐之类的不好放，特别微小的量又不方便买，因此我买了一斤腊肉。同样是淀粉，面粉比大米的单价还便宜点，就买了一袋。</p>
+<p>这样看下来，口粮一天一斤，一个月就 60 块钱左右，剩下的就是菜了，买点肉蛋，稍微注意一下营养均衡。这些应该够我吃好久好久了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e398a7b6ac5fdb54cb01fd620e10026f_720w.jpg?source=8673f162" alt=""></figure>
+<p>评论里面有朋友说，高压线有辐射，石棉瓦对肺不好，还有墙上的霉菌对身体有害。</p>
+<p>这里的高压电塔确实挺密集的，从村庄穿过，我还特意在网上查了一下对人体有没有影响，各种说法都有。但是有一个比较精确的说法，就是人工发的电周围其实是定频电场和定频磁场，因此不管是高压线还是家用的低压电都会有，而根据精确的计算，家用电器对人体的辐射强度竟然比高压线还要高。</p>
+<p>至于这些电磁场对人体有没有影响，谁也说不清楚，除了这些，还有各种的信号辐射，其实不用考虑它们的存在。至于其他对身体有害的因素，在有限的范围内慢慢解决吧。</p>
+<p>其实到大了说，人活着就有死亡的风险，有各种防不胜防的意外因素。因此看开了倒也没有什么事无巨细的注意了，只要留意一些大的安全隐患就行了。</p>
+<p>我住的房子周边有好几座坟，当初朋友害怕我住着不舒服。但是我给他说，我是个唯物主义者，我从来没有怕过这些。我心里也确实是这么想的，我怕的是活人而不是死人。</p>
+<p>这种性格可能也就是天生的吧。小时候怕的东西挺多的，听别人讲鬼故事都会害怕，长大了一些之后，对这方面就完全没有反应了，我记得我小时候还躺过太奶奶的棺材，看看睡在里面是什么感觉。</p>
+<p>但是一直不太喜欢和人打交道，这种局面像是刻在基因里的东西，试图改变过，但没有任何结果。只能被迫接受这种先天的缺陷。</p>
+<p>当初给家里人说我来成都玩一段时间，然后就回去上班，并没有说出我的实情。直到几天前的一个晚上，我给一个亲戚说了我的具体情况，并且将我在知乎上写的东西发给了她。这位亲戚是我们家人最信任与尊敬的人，或许也是我的精神靠山。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-40debe690427e3db878f1c719261c99f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6bbc415d2501ce80b18e258fc5969a1b_720w.jpg?source=8673f162" alt=""></figure>
+<p>渐行渐远的光阴消磨着阴晴冷暖的世事。</p>
+<p>2025-2-21↑</p>
+<p>——————————————————</p>
+<p><strong>2025-2-26</strong></p>
+<p>一周前用些烂菜叶子做了点酸菜，在网上找的教程，第一次做，也不知道算不算成功，倒是有点浆水的味道。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-038c896054b81eff5229bbec03acf790_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-84f114a02d011c8cfa70cb78e4e51af1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c91605a29f2168ebebc2e77b152bfd90_720w.jpg?source=8673f162" alt=""></figure>
+<p>我刚来的时候，朋友就给我拿了些排骨香肠，一直放着没吃，随便做了一下，还真好吃。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b2a7f0e53940234494d92f5365c90fc0_720w.jpg?source=8673f162" alt=""></figure>
+<p>从昨天开始，终于放晴了，打扫卧室之后，把地板革铺上。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-01cab16d64f9b341605cdbd4c79e4cbd_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d6f99baa97bed17f051404cbe2acc65_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有趁着太阳，床垫和被子也晒晒。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d16ab76468b27caa10f71f9897a2deb1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-59bf403b8bedb762bbcf738ae33436a8_720w.jpg?source=8673f162" alt=""></figure>
+<p>我把原先的这个旧木板床的床腿锯掉了，上面放上床垫，高度刚好合适。原本打算用来做吊顶的两块布，一个盖了沙发，一个做了门帘，原先的卧室门有点蹭地，而且门框还有点腐烂，我直接把卧室门卸掉了。将朋友以前买的书也放在了桌子上。我在墙上装了新插座，只是还没有走电。电闸在邻居家里，我没办法去关，所以就先这样用吧。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ff24b12b2356ff0d41e990028b1109ff_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9f81940ab52ce60a7c04743ced8423cc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6dfcc0c4ff31b984ab599aa6a39467f7_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f7272476ed304c188e730222d0cbae4e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0a43760357257b83c5abc584b44db560_720w.jpg?source=8673f162" alt=""></figure>
+<p>接着种了几样蔬菜，小白菜、快菜、茼蒿和空心菜，这几样菜的生长周期比较短，我只种了一点点，分批种可以多收几茬。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b11a075baf1537a664866dc920941e8c_720w.jpg?source=8673f162" alt=""></figure>
+<p>傍晚时分，步行出去在周边转了转，最近一直呆在家里，也没熟悉周边环境。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0a237f34ddd6938fbe07745e1e895055_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d477b1961f5a872623145b80474db718_720w.jpg?source=8673f162" alt=""></figure>
+<p>早上起来，阳光刚好洒在床上。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-feffe10061cdea47014b7848c00db320_720w.jpg?source=8673f162" alt=""></figure>
+<p>村里有人家的萝卜不要了，我拿个蛇皮袋去拔了点，明天用来做萝卜干。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9bd2a97313de55a80d2bdf2ec15d4bd5_720w.jpg?source=8673f162" alt=""></figure>
+<p>今天在门口的自留地里开了一条路，右手边是朋友的月季花卉，左边我留着种菜。从此一边是月亮，一边是六便士。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a45a846ff6b602ee048dac48dcc860aa_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025-2-26↑</p>
+<p>——————————————————</p>
+<p><strong>2025-3-2</strong></p>
+<p>看着不太多的萝卜，切成条竟然有两盆加一塑料袋。还留了些最近可以吃新鲜的，剩下的全都做成萝卜干了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6b36eed07b690374c8363e6fb751e47_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b5e243c311a9fb717f738367d076610d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-036f3a7d45a7a5233d87a657ef09436c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-adad10b119f398636682c1f6d583e119_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-83c9cbdd8f4de00bc71c3e96c6349b41_720w.jpg?source=8673f162" alt=""></figure>
+<p>为了追赶太阳一天挪了好几次。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ec564881e2aa4ce59b9dc0a92d83e60f_720w.jpg?source=8673f162" alt=""></figure>
+<p>上午就吃萝卜了，切成丝用水焯一下，放上蒜末和辣椒面，用热油一泼，简单的一道菜就好了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-35739b63441de16086a1576180b01051_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d775994598fb70e0286e4b7f8d529395_720w.jpg?source=8673f162" alt=""></figure>
+<p>垃圾堆里又发现了一个破陶罐，用来造个景应该不错。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a821ac632a9bebb6f56af13d060e929_720w.jpg?source=8673f162" alt=""></figure>
+<p>趁着太阳不错，把腊肉拿出去晒晒，我才发现这根香肠竟然被什么东西偷吃了一块。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a0a061f0d122683529fc0145292a847a_720w.jpg?source=8673f162" alt=""></figure>
+<p>地里的蒜苗和香葱还有很多。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7a9ac62baa5086e14876bd2435435d1f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6ab7b6ba1e3740f79d36cb754756a994_720w.jpg?source=8673f162" alt=""></figure>
+<p>之前收集的干柴火烧完了，剩下的还是湿的。其实干竹子也挺好烧的，只是没有木柴耐烧。吃过早饭去屋后的竹林捡了点竹子，直接放在厨房的角落，不打算锯断了，直接整根烧也挺方便的，但是要将竹管打破，要不然放炮挺吓人的，虽然没有多大威力。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-60880d61811eacdbe80d20dd569a6a36_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9d5405df807317e5705da66c61e42de3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-3e66445e2ee327ee50bc327724419a25_720w.jpg?source=8673f162" alt=""></figure>
+<p>我用角钢做的简易书架，层板用的竹子代替，将竹子劈成两半，依次铺开，跨度只有 70 公分，因此承重还是可以的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d298eadc365d4f957ebd51e8af4a94a4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c92d166530d3e9cfc2bde2916c04570c_720w.jpg?source=8673f162" alt=""></figure>
+<p>第一次育的番茄苗可能太早了，温度太低，发现没有成活，后面塑料棚里面的菜苗陆续有发芽的，我又重新买了番茄种子，这次打算催芽之后再下种，成活率会高点。</p>
+<p>傍晚时分，牵着小黄出去放放风。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fd509a81004a29e6f41734620da7e5bc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0974748b5dd3a3d77b9abe907977092_720w.jpg?source=8673f162" alt=""></figure>
+<p>平时吃的都比较简单，蛋炒饭。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-afdbc0e9ba73766f60ac65bbecbaa487_720w.jpg?source=8673f162" alt=""></figure>
+<p>尝试了一下酸辣粉，味道不错。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-afb76a4d968aedb96df8dd3ebb894b1f_720w.jpg?source=8673f162" alt=""></figure>
+<p>又是万能的烩菜。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4e35c2ff97d0f1c120e4328b4ac06378_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8aeaca3d7129a774255fd8c11b3eda29_720w.jpg?source=8673f162" alt=""></figure>
+<p>囤了一些物资，到目前为止，已经住了一个月了，生活开销不到五百，包括囤积的食材在内，预计有大半个月的口粮。在我的预算范围之内，伙食控制在了一天十块钱以内。到了夏天，吃上自己种的菜的话，生活费还可以再低点，我准备了将近二十种瓜果蔬菜。我觉得每样不必多种，但是可以发展物种多样性。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e51ed4ff1ff2c66a684eaa352a9622e3_720w.jpg?source=8673f162" alt=""></figure>
+<p>我用腐殖土、田园土、草木灰和锯末拌在一起，做了点育苗用的营养土，用袋子装起来。留着备用，育菜苗，或者种点盆景应该都是可以的。过几天重新搞点番茄苗。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0a20291a67710e9c692a86781a036793_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f74dbe4a5fd4718cc303a0e91fd00fc7_720w.jpg?source=8673f162" alt=""></figure>
+<p>插花放在室内用水养着，可以放一周左右，这次又换上了樱花。细竹筒绑在了铁丝网上面，上墙的效果也不错。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5f90e752ad3cbb8233a53256026cd731_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6ea76b93f415a3aa1d66dbdc59d6670b_720w.jpg?source=8673f162" alt=""></figure>
+<p>今天来了两位骑行的朋友，趁着周末，顺便过来玩玩，待了几个小时就回去了。他们说，有了家庭和孩子，虽然向往这样的生活，但是已经没有机会了，顺便感叹一句，上车容易下车难，孩子才是真正的软肋。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ce75192da37209c87429ede0b252cb04_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-43c97f10f1b30f3fbf7e1fbb665dea52_720w.jpg?source=8673f162" alt=""></figure>
+<p>晚上躺在床上，写下这些文字的时候，外面又下起了小雨，希望我的小菜苗在春雨的滋润下茁壮成长。</p>
+<p>2025-3-2↑</p>
+<p>——————————————————</p>
+<p><strong>2025-3-4</strong></p>
+<p>当初的一盆酸菜，晒干就剩这么点儿了，当我装进塑料袋的时候，掂量着应该还不到一斤吧。总算可以长久保存了，以后炖个肉啥的或许很方便。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d4b781640e3603130e38a6caef217125_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有萝卜干，缺点火候，还没有完全干。晒的久了，白色的萝卜干上面会沾上各种小杂质和灰尘，吃的时候要用清水淘洗一下。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5a8a8426117a4ffbb5f89408f05b3618_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-623a04934af27ca3314b2fc841950389_720w.jpg?source=8673f162" alt=""></figure>
+<p>小白菜真的是生命力很旺盛，刚下种没几天就已经发芽了，因为手法的问题，撒的种不是很均匀，只是苗够多，等过段时间大点了还要间苗。</p>
+<p>挨着小白菜，今天又撒了三行生菜的种子。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-38b6a0c08165d0327f7e9425cee02efe_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友在网上买了一棵樱桃树苗，说让我随便找个地方栽着。打开包装，上面已经开花了，我栽的过程中又碰掉了一些花，第一年大概率是挂不了果子了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-46cbc3eac5ff5061c76b916bda8308b3_720w.jpg?source=8673f162" alt=""></figure>
+<p>大棚里育了蛮多种子的，但可能是经验不足，并没有完全发芽，这是南瓜苗，出来蛮多，而且长得特别快，一天一个样。剩下细细碎碎的基本上杂草，黄瓜和豆角的苗子也冒出来了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8c695a57f1c7634b64e7f493e9dd53f7_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca71b2241d14b93e3bb02916ab1c8204_720w.jpg?source=8673f162" alt=""></figure>
+<p>二伯家昨天晚上突然没电了，他过来叫我给看看，大晚上的而且也没有电笔啥的，也不好弄，就只能等第二天再搞。中午的时候，幺爷叫来了电力部门的人来看，人家检查了入户以外的部分，没问题便扭头就走了，说是室内的他们不管，你们自己找电工修理吧。</p>
+<p>后来幺爷说他家有电笔，问我能不能帮忙搞下，我说那试一下吧，我怀疑是入户的那根线断路了，当抽出来的时候，果不其然，入户部分线管里面有个接头，已经氧化烧断了，去掉烧断部分重新接上就好了。</p>
+<p>出了点小插曲，在拉线的时候，手指不小心碰到了彩钢瓦，锋利的铁皮一下子把手指划破一道口子。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8861a9e66a4b3fb9d5dc743ed4e8eeee_720w.jpg?source=8673f162" alt=""></figure>
+<p>番茄是 2 月 1 号育苗的，那时候温度有点低，大半个月过去了也没啥动静，我原本以为冻死了，在网上重新买了种子，可是种子还没有到的时候，地里又奇迹般的冒出来苗了，都一个月了，竟然没有死。我数了数，有二十多棵，如果都能成活的话，也够我栽了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fae5bca9478f3de03646f0bdd61c96ce_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-73f869eb24bd01d679e04ef2f55c66b1_720w.jpg?source=8673f162" alt=""></figure>
+<p>总算吃上一顿面食了，对于北方人来说，面食是要从面粉开始加工。我做的第一顿面食是洋芋叉叉，土豆丝裹上面粉，上锅蒸熟，放上辣椒面和蒜末，热油一泼就好了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ea886abfadef170228a7e381de073a2_720w.jpg?source=8673f162" alt=""></figure>
+<p>还尝试了一次烙饼，没有老酵坨，只能用发酵粉，比较方便，发好面直接可以上锅了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c4ebd6af0b615f2ced329d3622a10845_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ed5f64b4bde07ad1d3ff4a59780221a_720w.jpg?source=8673f162" alt=""></figure>
+<p>没什么卖相，口感还可以，总共烙了五个饼，明天可以吃了，加上油泼辣子，在随便做个小菜，做主食也可以。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-53d1b593fa584e4f63d7ed41fb4978d3_720w.jpg?source=8673f162" alt=""></figure>
+<p>住在乡下，开销确实少了，但是并没有收入来源。如果想长久住下去，或多或少还得找点活干，附近的大片橘子园，偶尔还会请人干点零活，都是找当地的村民。如果可以的话，到时候我也去试试。</p>
+<p>用我的生活状态，来写知乎回答，也算是日记吧。没有文法，全是流水账。之所以有这么多人看，可能是因为我们人天生的自然属性，却又被生活牢牢捆绑在了都市里。向往着小桥流水、草木山河，心有余而力不足。月色朦胧下的万家灯火、喧嚣人间，不是海市蜃楼，而是属于我们每个人的星辰大海。</p>
+<p>朋友说让我用视频记录一下日常生活，我试着一个人拍了几段视频，放在了哔站上，零零星星的村居日常，也不知道是否有人喜欢。</p>
+<p>【小蓝_同学的个人空间 - 哔哩哔哩】 <a class=" external" href="http://link.zhihu.com/?target=https%3A//b23.tv/B3cxYhP" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">b23.tv/B3cxYhP</span><span class="invisible"></span></a></p>
+<p>知乎上的回答，我会不定期更新下去，作为日记，也是我的墓志铭。或许有一天，你我终将灰飞烟灭，这也是我曾经存在过的痕迹。</p>
+<p>2025-3-4↑</p>
+<p>——————————————————</p>
+<p><strong>2025-3-11</strong></p>
+<p>我把写的字拼起来贴在墙上，这一篇总共上千字，还是挺壮观的，只是被我写的笔法稍显稚嫩。我和朋友打趣说，我在卧室贴了一篇别人的墓志铭，我倒没有觉得晦气，墓志铭就是一部缩略版的人物传记或者生平简介。虽然内容挺俗气的，墓主人做过什么官，娶过几个老婆，分别生了几个儿子和几个女儿，活了多少岁，逝后葬在什么地方之类的话语。但是这篇墓志铭字体特别潇洒，真的很喜欢。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-34b0b68b950a693e6de17531ef568181_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9a2899a88dfeba69bdf696562611630f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-08a0d918d8ce780906350108bd81b981_720w.jpg?source=8673f162" alt=""></figure>
+<p>最近下了几天雨，麦子长得飞快，一不留神都好高了，小黄喜欢去麦地里玩，之前还能露出个头，现在进去的话完全看不见了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-43691be12f54fe3b88d249b1050c49c4_720w.jpg?source=8673f162" alt=""></figure>
+<p>油菜花也开了，一片黄色的花海。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4f5eb11953ae3a75df351ba7aae7407e_720w.jpg?source=8673f162" alt=""></figure>
+<p>南瓜苗和黄瓜苗。</p>
+<p>每天早上起来的第一件事就是去看菜苗，太急切了总感觉长得很慢。白天天热的时候，我会把塑料纸揭开通通风，晚上再盖起来。那天下午去盖塑料纸的时候，有几个苗子不见了，后来发现被丢在了旁边，还有正在冒芽的籽也出来了，好像是小鸟啄的，有点烦人，确实也不好防。我又把苗子轻轻地栽回土里。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-39d706d540049863f102707d4110f26b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a47e74feb6a2c9ea6499c6bc670ba286_720w.jpg?source=8673f162" alt=""></figure>
+<p>之前做的那个衣架摇摇晃晃的，不打算用了，然后在墙上横一根棍子，这样一下子稳多了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f00c2de5f982f3340da76b65679c55c0_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a465c7e82ef81666d678a4dea09b4296_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是朋友埋的芍药花，已经冒出来了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-943ddcd3fff3f0d8ba7292a785474be8_720w.jpg?source=8673f162" alt=""></figure>
+<p>挨着院子的是花园和菜地，再往外就是麦子地，由于没有院墙，虽然视野很开阔，但是没有隐私感。我在挨着麦子地的地方挡了个简易的篱笆，到时候顺着篱笆种些黄瓜豆角之类的，一来不用再重新搭架子了，二来长高了能遮挡一些视线。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a89e26c1a1264df82a504b1b3abf4397_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4b788fa2c0d4dde84598ecc6366ea319_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ec710ce540706fd42355c88b641e915b_720w.jpg?source=8673f162" alt=""></figure>
+<p>李子树和桃树这几天马上就要开花了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ab64eaac4d5532179ad241890275e1b3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-17c1aa35f5f3b41996d313bc5a9f16db_720w.jpg?source=8673f162" alt=""></figure>
+<p>那天下午二伯告诉我说，那六座坟后面有好多干竹子，让我捡回来可以烧火用。第二天中午我就去了，离得很近，跑了六七趟就搞了一大堆。上次捡的干竹子烧了十天刚好烧完了，这次捡得多些，估计也可以烧个十多天。干竹子挺方便的，唯一不足就是没木柴经烧。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dac1d05af1cbea55f47961ede0c31a6e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7eb28112af08713e472f00571f27377_720w.jpg?source=8673f162" alt=""></figure>
+<p>昨天下午又烙了一次饼。我发现了一个规律，把发酵粉直接倒进面粉里和面，比把酵母粉用水化开和面发的要好点。我怕温度不够，将揉好的面用塑料纸盖着，埋进被窝里，然后开着电热毯，这样确实快了不少。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0e55f6553441f244c10c46fc15d8c7f2_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-87a415beb7c8d9a89ee0f00d2db3ec41_720w.jpg?source=8673f162" alt=""></figure>
+<p>今天干了一件大事，我把厕所拆了，这边厕所我一直没用过，几面墙摇摇欲坠，看着都有点怕。上厕所我一直用的另外一边一个旱厕。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-350403de5133bc4459746c245f13e337_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a3ed624da47d55a53faabe5a1f1b0091_720w.jpg?source=8673f162" alt=""></figure>
+<p>果不其然，拆了一面，另外两面跟着就倒了，只是有些砖掉进了化粪池。我打算用化粪池里的水浇菜地，到时候用锄头把掉下去的砖捞起来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8457f428f8366ccaed8abe2395c3eecc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e9fb67a8216abc6112ab651974ee29e_720w.jpg?source=8673f162" alt=""></figure>
+<p>把拆下来的砖码在了一起，数了一下，整转 400 多块，剩下的就是一些烂砖头了。这个化粪池可以留着，以后如果重新做的话还可以再利用。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-59ffba435b8f8936204dc9485cbdaf2b_720w.jpg?source=8673f162" alt=""></figure>
+<p>一位知乎网友给我寄来了一些字帖，真的不胜感激。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b4acba6dc6b261203563f2ef439d278e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8b2c56ed02d54c7ad3d6f33e773dbe1f_720w.jpg?source=8673f162" alt=""></figure>
+<p>天下第一行书可真是不好写的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-76cec577eb32738e4ab105eb33ed2a0f_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025-3-11↑</p>
+<p>——————————————————</p>
+<p><strong>2025-3-19</strong></p>
+<p>前段时间已经开始暖和起来了，可是最近一周又迎来倒春寒。狗窝是用水泥管子做的南北通透户型，看着风有点大，我用破衣服和砖头把一端堵住了，应该会暖和一点。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ad5d44e9f3323d6e9e467d49665c84dc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1776a50f33b03c163f4ccab0e3a4b1af_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a148a74d65bd53f55f07453f10a824a_720w.jpg?source=8673f162" alt=""></figure>
+<p>门口的水泥路和边上的水沟隔了一条土壤地带，将草拔了之后，看着应该能种点菜，可以利用起来，我只清理了几米长，远处的就不弄了，如果邻居想种点啥的话可以利用。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7cd1b0ca5930b9687a9404d4638190fa_720w.jpg?source=8673f162" alt=""></figure>
+<p>前几天一直没太阳，干坐着又特别冷，在周围转的时候看到林子里有段烂木头，拉回来锯柴火了。动起来确实是一个御寒的好办法，不一会儿就浑身发热，暖和起来了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7eb5e53f0ea495694e3db1f27b723421_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-309e8b2616672995a6c6a4ac88962b7b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e1169052bb9b2734ef53a3d2359c9ee7_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a752faaaae02ca18047fa17f12972d83_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友上次说在市里溜达的时候，发现垃圾堆有人丢了棵大叶绿萝，捡回来送给我了，他在市里住的地方比较小，放不下大件的植物。还送给我了一盆蕨类植物。</p>
+<p>之前他送我的那几条绿萝藤被我养死了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4560401b7efaf70a6ef918b103bfa5ea_720w.jpg?source=8673f162" alt=""></figure>
+<p>有时候不想做饭的话，做随便弄点吃的，蒸土豆、煎蛋，花生米和凉拌萝卜丝。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-cffa3dde488c88d7bc17ec04688517dc_720w.jpg?source=8673f162" alt=""></figure>
+<p>在网上买了个蒸锅，容量还挺大的，拿回来之后，摸着材料也挺厚实，用来煮东西比较方便，过段时间如果有竹笋了，再晒点笋干，就用这个蒸锅来焯水。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-11938fba5380a23ec0241e4af9c0a76d_720w.jpg?source=8673f162" alt=""></figure>
+<p>一位朋友送给我的宣纸，真的好开心。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-35238d1a7c53efd3194da87f269671c5_720w.jpg?source=8673f162" alt=""></figure>
+<p>羽衣甘蓝的苗子都有十厘米高了，过几天暖和点了再移栽。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-985bb9ccea8e86148bb27f0012ffe7a7_720w.jpg?source=8673f162" alt=""></figure>
+<p>番茄的真子叶也长出来了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-15a7fb052b8474e0ca15fe61cbb67bd8_720w.jpg?source=8673f162" alt=""></figure>
+<p>小香葱有点旺盛，再吃不了可能就要老了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-333dbcb97e51997dc4f79ac10cf125ad_720w.jpg?source=8673f162" alt=""></figure>
+<p>育苗盘里种的荷兰豆，全都长出来了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-48fee1d748a0efd814e7bd6019c3f1b1_720w.jpg?source=8673f162" alt=""></figure>
+<p>四季豆也开始往外顶了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-506a826392035b1068d7960d9599f9f9_720w.jpg?source=8673f162" alt=""></figure>
+<p>秋葵生长有点缓慢，只是好在还没有挂掉。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7d61ed284fd366b6ee1a2f01913286bb_720w.jpg?source=8673f162" alt=""></figure>
+<p>苦瓜就这一棵独苗，丝瓜一个也没有发，我又重新买了种子，不知道是方法不对还是当时下种有点早。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d132a49edee7fd90cdae6d60a40ef296_720w.jpg?source=8673f162" alt=""></figure>
+<p>小白菜长得挺快的，今天揭开看的时候，叶子上有好多虫眼，我往上面撒了点草木灰。种的挺密的，等大点了间苗移栽一部分。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-79162fba48822b2af59962f8d7a393c3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-147de2495c70338354a0a6637a39897d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8de79dd0d4dfc792f2b891822aa1f88f_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友买的韭菜根，在市里的阳台上用泡沫箱栽了一些，剩下的韭菜根带回乡下给我了。我说我还下了韭菜籽，已经发出来了，现在相当于有两个品种的韭菜了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7fbdf06129a75a6e8b3e13d02bea6ef2_720w.jpg?source=8673f162" alt=""></figure>
+<p>西瓜苗只有这两个，其他西瓜籽应该已经烂掉了，也不知道能不能指望上吃西瓜。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ded55ca820afad91bfc47964bcee27e5_720w.jpg?source=8673f162" alt=""></figure>
+<p>辣椒出的还挺好的，密密麻麻的估计都有好几百棵苗，我想着到时候挑大的用，然后其他的就不要了。朋友后来还给我说，可以把多余的菜苗挂在闲鱼上卖，城里有人在阳台上种菜的，可能会需要买。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c92cf27b53851b3468f042084779c3f8_720w.jpg?source=8673f162" alt=""></figure>
+<p>这几年好像慢慢喜欢上了听秦腔，不知道是年纪大了还是作为西北人的血脉觉醒。去年年底，甘肃的安万剧团在西安义演了一周大戏。虽然我没有回去，但是在网上看到了特别热闹，人山人海。尤其是那段《潼关》，听得人热泪盈眶。</p>
+<p>西北人在牙牙学语的时候，几乎都能唱出几句的《张连卖布》，里面有一段戏词是描写菜园的，内容如下:</p>
+<p>正月里菠菜满地青</p>
+<p>二月闪上个羊角葱</p>
+<p>三月韭菜担上卖</p>
+<p>四月莴笋拿秤称</p>
+<p>五月黄瓜搭起架</p>
+<p>六月胡子一张弓</p>
+<p>七月茄子像个钟</p>
+<p>八月芫荽绿个莹莹</p>
+<p>九月白菜嫩生生</p>
+<p>十月的萝卜吃上一冬</p>
+<p>也不知道我的菜地能不能有这么丰盛，但至少有点盼头了。</p>
+<p>从上周开始晨跑了，早上七点起床，在附近马路上画圈，找了个大概五公里的路线，如果不出意外的话，就每天跑，下雨天除外，就当是休息了。</p>
+<p>那天早上跑步去看了油菜花海，还挺震撼的。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-06aa42feb138114f72368b02a65bcb32_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-02d20eab279b959dc0c63cd2a27a94f7_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-be61c4b0e8e167f4ef4c3108a01ac995_720w.jpg?source=8673f162" alt=""></figure>
+<p>这两天，春天应该真的就要来了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-90528775abd14890c23507aacc267e8b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1c5cccc6315a739da3d612ef52f1b442_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dcfa448be127af51e2e88e70e79ebd44_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-740f9abe90cfbc68c9796108b601fbe6_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025-3-19↑</p>
+<p>——————————————————</p>
+<p><strong>2025-3-26</strong></p>
+<p>“二十岁探了探头</p>
+<p>就瞥见了七十岁的自己”</p>
+<p>这是在许立志的诗集《新的一天》里看到的。</p>
+<p>我又瞎写了几句</p>
+<p>“再掂一掂脚</p>
+<p>看见了坟头草</p>
+<p>比二十岁的自己还芳华正茂”</p>
+<p>当我们已然觉得，向死而生是不争的事实之后，那种安稳便成了毕生的追求，诗与远方只不过是锦上添花。</p>
+<p>从小都是循规蹈矩的人，没有自己的思想，这么说，我更像一台机器，一台任由摆布的机器。像一头拉磨的驴，在黑暗里踽踽前行，一圈又一圈。那时候，村里人和玩伴就是我的全世界，我了解的世界也就是这个样子。他们说，好好读书才有好的未来，我那幼稚的灵魂也信以为真，只要学习好，以后就可以挣大钱，过好日子，改头换面。</p>
+<p>岂不知，我的身体里就躺着他们的血液，那是世代务农的祖先们的血液，刻在基因里的认知，一代一代向下流淌。</p>
+<p>如果说到觉醒，那要追溯到大学时期，我不清楚为什么会是这个点，可能是因为身边的人都换了好几批，也或许是第一次来到城市的缘故。</p>
+<p>顶着学霸的光环开始摆烂，准确的说是反抗吧，以我的能力，确实也荡不起一丝波澜。我想象过，参加完毕业典礼，抱着自己的学位证书，从教学楼的最高点一跃而下，那光滑坚硬的地面，足以使我粉身碎骨。这样的反抗显得有点窝囊，竟然是以结束生命为代价，说来真是可笑。</p>
+<p>从那时起，我的反抗似乎带了点悲剧的成分。在别人眼里，我好勇敢，为自己而活，不畏惧他人的眼光。那次川藏之行，我是将其作为我的遗愿来完成的，我知道，以我的能力不足以将自己的足迹遍布更广阔的大地，一辈子，这一次就足够了。</p>
+<p>我将那次出行路上的照片摆在了我现在的卧室。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7397bdee762f2d51f75fbfcdaeb18568_720w.jpg?source=8673f162" alt=""></figure>
+<p>勇敢、特立独行、率真、不随波逐流……</p>
+<p>一系列这样对我百般注解的标签是我吗，一点也不是，我知道我的骨子里依旧是个懦弱且无知的人。信奉着书本和文化里的仁义道德，又比我祖辈多了点对科学的认知，仅此而已，仅此而已……</p>
+<p>上周末朋友带我去市里住了两天，当天晚上，他们为我准备了丰盛的晚餐。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-16b2c9cf916f54ca51091ef193b02613_720w.jpg?source=8673f162" alt=""></figure>
+<p>扫了共享单车去骑骑成都的绿道，在这里，第一次见到了五颜六色的油菜花。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0cd1a51c7002d662838c7121e63fd760_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-831e38dbd77d2cf47a64465c8891e3f6_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4bac1aad95966c4f6fa97eb33fd3508a_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友楼顶上有邻居用泡沫箱子打造的菜园，竟然如此有生命力，必定是主人精心打理的结果。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-738b761c985c1cb400b4a61fbceeb213_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bcdab70f6c1beebbc04e0ce5c42b0842_720w.jpg?source=8673f162" alt=""></figure>
+<p>周六那天，他带我去了烈士陵园，还有旁边市民的陵园。那里没有他的亲人朋友，他只是提过，以后也不会有子孙后代了，在墓园里面转转，幻想着以后某一块墓碑上刻着自己的名字，选一个自己喜欢的款式。</p>
+<p>路过他上次捡绿植的垃圾堆，我们在里面捡了点砖块，拿回乡下来铺菜园里的路面。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e585d7f90d670e655d75fa0160be7d51_720w.jpg?source=8673f162" alt=""></figure>
+<p>还捡了几张车里的垫子，看着又大又平整，没想好怎么用，先带点回去吧。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-528dd64af835b48acd4edc4eb494cfd5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ccbb6b301c0f2225105ff5c4dc6dc5d_720w.jpg?source=8673f162" alt=""></figure>
+<p>烈士陵园里，看到了 2019 年为救凉山大火牺牲的这几位英雄，当年在网上看到的报道还历历在目。然而，他们已经在这里安息了五六个年头。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cbd99b3c0e05b35c5330c66c62bd0a76_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-298343faba9fc4efb9279b786adc3404_720w.jpg?source=8673f162" alt=""></figure>
+<p>之后去了一家月季苗圃和那个热闹的花卉市场。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-42243905d8986cafe52ba226e0c33316_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d6e24b8c944c4c728ea1c831ab2d3513_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac658d2e2a9b7c3674f843560ad766c0_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e819b14081334bd189a1e1c743b4250e_720w.jpg?source=8673f162" alt=""></figure>
+<p>晚上我给他们做了油泼扯面，他们直夸我做的比楼下面馆的还好吃。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a3c9be36f67a72452a2cda2c0fff8e53_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fe96d46930473475ddf0e34fef969a6c_720w.jpg?source=8673f162" alt=""></figure>
+<p>周日那天，他带我回乡下，临走他让我在书架上挑几本书带着。包括许立志的那本诗集。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e8ac4a007b5c4bfa4029721b72a63085_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cb7687a75d4c1cd3d066ef9c56de415a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ec0558baeca5d85503401faccae26968_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bdab0b867132bdc37743a0691f1462c8_720w.jpg?source=8673f162" alt=""></figure>
+<p>用门口的小香葱炸了点葱油，再不吃可能真要长老了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d36663636dfa18f8663d175538375371_720w.jpg?source=8673f162" alt=""></figure>
+<p>昨天下午，来了一位老爷爷，目测应该有八十多岁了，我之前也没见过。拍照问了朋友，他说是村里一个发小的爷爷，这几年有点老年痴呆。在跟我交谈的过程中，他一直提起我朋友的爷爷，而朋友的爷爷过世已经快三十年了。从他的只言片语里，似乎还能感受到那个年代的交情。老年痴呆，被困在了记忆的漩涡，但周遭的一切都变了，也回不去了。愈发苍老的身体和家人的无奈，着实令人感慨。</p>
+<p>前段时间左手腕处疼痛，对此症状之后，大概率是腱鞘炎。直到今天才发现，左手腕处的骨骼明显要比右手的突出。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0f8a5101b64d6b0cc1330aaf2ad07afe_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c447eb78762688928d92cd50ca643061_720w.jpg?source=8673f162" alt=""></figure>
+<p>树下堆在一起的枝条干了，一把火烧掉，清爽了许多。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-877a5b6b387bfe4deb85b71a22f23697_720w.jpg?source=8673f162" alt=""></figure>
+<p>今天中午，坐在堂屋门口的小马扎上，看完了许立志这本诗集，生前在富士康的流水线上打工。在他笔下，数以万计的男男女女在血汗工厂消磨着青春，直到攒够了一身的疲倦与疾病，便完成了这个工业帝国的使命，而自己的生活依旧满目疮痍。文中不止一次用生卒年的方式记录并调侃着自己，2014 年他用那个悲惨的方式结束了短暂的一生。</p>
+<p>有一篇题为“深圳深圳”的诗，分为上下两阙，全是名词的堆砌，上阕提到了世界之窗、欢乐谷、地王大厦、植物园、图书馆、音乐厅、少年宫、歌剧院……。下阕写到电子厂、塑料厂、家具厂、五金厂、玩具厂、服装厂……。</p>
+<p>冥冥之中，在一座城市中建起了一堵铜墙铁壁，这些象征着文明高度与现代化的光鲜始终与一群人无关，他们的生命里只有日夜颠倒、机器轰鸣，和千里之外家人的医药费与孩子的学杂费。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e79dfb4fc013ab22d2790a57e36f3837_720w.jpg?source=8673f162" alt=""></figure>
+<p>有太多的共鸣了，内心深处在滴血，一个鲜活的生命，在很多年前就已经走向了灭亡。</p>
+<p>我将这本诗集举在阳光里，2025 年的暖阳打在了封面上这张模糊泛黄的照片上，这或许是一种另类的缅怀，用这种粗浅的方式让他的生命得以延续。</p>
+<p>新的一天，是他写给人间的最后一句话，写给人间，也写给自己。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8a37f4a14394898b9808e28c8072315c_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025-3-26↑</p>
+<p>——————————————————</p>
+<p><strong>2025-4-7</strong></p>
+<p>清明节了，屋子旁边是朋友爷爷的坟，还有屋后太爷太奶的坟。他们家的亲戚是提前半个多月祭祀过了，那时候我刚好在市里。夜里下了大半夜的雨，到了白天确是大太阳。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-175446389db42b7dded0760f93ff5271_720w.jpg?source=8673f162" alt=""></figure>
+<p>从上周开始，我就在陆陆续续移栽了一些菜苗。经验不足，黄瓜苗险些全军覆没，直到现在为止，发现有叶子已经枯了。大概原因是苗子太小，还有根须比较脆弱，容易伤到。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4a237f9718883d59905bc4f331fafeb0_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-421e5add268b844ef57524f7b4f486f1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9564de0377f00b36823113e393f94821_720w.jpg?source=8673f162" alt=""></figure>
+<p>能感觉到所有的瓜类苗子都比较脆弱，南瓜苗比黄瓜强点，倒是无伤大碍。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ff1437b6111e31217303af2287d4fcf_720w.jpg?source=8673f162" alt=""></figure>
+<p>四季豆与荷兰豆是我在育苗盘里育的，移栽的话和土球一起，不会伤到根，因此长得还不错，另一方面是豆类的苗子容易活，天然生命力比较顽强。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9555788edde631dab7ada1d26c79fbda_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f2039a23661a398cfd21131aafa0ac95_720w.jpg?source=8673f162" alt=""></figure>
+<p>那天在菜地里忙活的时候，一个邻居阿姨走了过来，她说想要两颗南瓜苗，我让她随便挖，我这些也用不完，后来她作为感谢，给我了一把毛豆苗子，原本也没预留地方，索性种到田埂上了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-da80f64940bcfafab0ece4f00d7c68ae_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b5e46501a80ad583ce9baeb2af5703f2_720w.jpg?source=8673f162" alt=""></figure>
+<p>最先吃到嘴里的是小白菜，长得很快，挑大的吃，后来我看太密了，还拔了一些分开栽上了，不知道还能不能再长大些。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-994197c2b717b3b651937c1f1f968617_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b378d594b7af23791e7d2ec10bc01303_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-70f1eb518ba3cfd2e7fc902c104bcbf6_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b145001231b57e2211d87bf794d91629_720w.jpg?source=8673f162" alt=""></figure>
+<p>难得认真一次，炒了个像样的菜，小白菜鸡蛋木耳。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-bf49bc5a712fce42e1d97666bf3669c6_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e4e2339ef3da4c8e08dc62679f18ee0c_720w.jpg?source=8673f162" alt=""></figure>
+<p>我竟然和小黄用的同款餐具。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bf6fb70dedce6db803cbdd0e36c3e103_720w.jpg?source=8673f162" alt=""></figure>
+<p>这一排从上到下依次种了荷兰豆、空心菜、茼蒿、小白菜、快菜、生菜、茴香、韭菜。茴香是刚种的，还没发芽。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4f9ec2b9358a0fa52bb8b85c978fbd27_720w.jpg?source=8673f162" alt=""></figure>
+<p>闹了个笑话，那个邻居阿姨说这是茼蒿，我一直以为是空心菜，当时种的时候还把包装袋放在旁边拍了照，结果茼蒿和空心菜放反了，我才知道到现在长出来的是茼蒿，我的空心菜竟然一个都没有发。我翻了一下袋子，还有几粒种子，又把剩下的补种在了旁边。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7eb6a2ba4387d01f9916beb1cbca540f_720w.jpg?source=8673f162" alt=""></figure>
+<p>原本打算移栽番茄了，但是介于黄瓜的失败，还是再等几天吧，我已经把种番茄的地方土地整好了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a7cd4952a531194a418272d3e312940_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d8fb06060a4137bf0ee2c7ca2c7531e7_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9b06bad998ff2c9342a4e45c08c39060_720w.jpg?source=8673f162" alt=""></figure>
+<p>新学的种法，说是番茄苗躺着栽后期可以多发根，长势就好。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-54c9c8bfcdcb6c328d5f972bc4f1b936_720w.jpg?source=8673f162" alt=""></figure>
+<p>菜地里的砖是之前在垃圾堆捡的。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0521dd47a208e0349870ddab7ef6db99_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0e431f1ecc223034afe82758624d58a5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-090f66722d59b5cc68e99fcdf933521a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7155f6d36fc8f4709633075e35cceb07_720w.jpg?source=8673f162" alt=""></figure>
+<p>生菜也被我移栽了四行。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b6c2580ce905ddf160d774a5c3a3c2c_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友弄的多肉，大概每次回来都要带点，他真的是太喜欢花卉了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a0c59037c3739aefda3bb6679134dd2f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b239bdc77c2f6efea977876b03bc1748_720w.jpg?source=8673f162" alt=""></figure>
+<p>最近一直在晨跑，乡下的道路车不太多，但是过路口还是格外小心的。大概一周四五次的频率，已经从最开始的四公里增加到现在的八公里了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ecc3eafe328427a87b0032e863c2732_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a17b7e3101db288d5aa1316dabcef771_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-99d33f3a4a261e43f31b515b098b5724_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-62a8641cc27bac11f6a2250771d0d753_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-035d2c1dea2e5203341f4cc11ce25fc9_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6eb9f46222e6d4ad2b4a787fa2ec9ce5_720w.jpg?source=8673f162" alt=""></figure>
+<p>趁着天气不错，给小黄洗了个澡，我长这么大，好像还没体验过泡澡的感觉。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3861ec2b49c1415d585b84480f55387_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-cde9f266486d2d4e4b17a5bace77fe26_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友送给我的水培薄荷，已经长出了很长的根须。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-823b5bbeca2c60ad42da023671394a8e_720w.jpg?source=8673f162" alt=""></figure>
+<p>这本《百年孤独》也是上次从成都拿回来的。应该是四五年前吧，在喜马拉雅上听过原版的朗读，当时也没有做笔记，主要是人物关系，好几代人叫同样的名字是他们的习俗，容易混淆。魔幻且古老的世界像是电影一样在脑海里上演，感受着书里每个人物的命运。</p>
+<p>最近又开始从头看了，看了三分之一左右。从老何塞建立马孔多开始，通过游走江湖的吉普赛人给他们带去了形形色色的稀奇玩意与见识，直到第三代长孙被处死，又给自己的孩子们起了祖父母的名字，这位长孙直到临死都不知道自己的身世，以至于他的后代们总是弄混在家族中的辈分问题。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c121617e66b2b816dadf012b4386b227_720w.jpg?source=8673f162" alt=""></figure>
+<p>在我写这篇回答不久后，收到了蛮多朋友的私信，表示了对我的关心和鼓励。私信和评论很多，可能回复不过来，我在这里谢谢广大网友。说实话，这样的生活应该是有治愈的作用。每天都会看看蔬菜的生长情况，盼望着丰收的场景。</p>
+<p>二月底的一天晚上，收到了一条对我来说很有意义的私信。他说，从我只言片语的文字看到了理想中伴侣的模样，在这一刻具象化了。他又说，害怕竞争不过任何对我表达喜欢的人。“有很多人想和你认识，其实，我也害怕自己会被忽略。不管别人的意图是什么，但是我爱上了你的灵魂。这种顽强在黑暗中求生的精神，让我震撼。什么是真正的爱呢？是外貌还是身材？是学历还是家世呢？都不是，是知道一个人破碎不堪，还愿意捡起碎片拼凑出来一个完整的自己。我期望你破碎冰冷的世界里可以出现一束光，来救赎破碎的你。”</p>
+<p>他对我表达的爱意让我温暖，同时我也有点不知所措，感情是需要双向奔赴的，而我身上又缺乏提供情绪价值的能力。我回复了他“真的很感谢，一时间不知道该怎么表达了，爱情对我来说，变得极为奢侈，好多年来，我都做好了单身的准备。作为人，其实是有情感需求的，可是我谨小慎微，不敢去对外界有任何奢求，将自己包裹起来，逐渐和这个社会剥离，一直都在逃避遁世，甚至想着彻底离开。这种状态下的我，还不知道有没有明天。”</p>
+<p>此后的很多个日夜，是他在陪着我，就像他说的，在某个风和日丽的日子里，想起来可以聊聊内心的心事。我在他身上发现很多和我相似的地方，但是他又比我勇敢且乐观。 我在做的每一件事都是他此前想做而不敢做的。 我突然发现，在等死的这条路上，可以再等一些其他的东西，而这些东西，大概可以叫做希望，是在某个疲倦的日子里换来一丁点多巴胺的分泌。</p>
+<p>最近偶尔会在网上看别人的直播切片，有个女生说她没有丝毫挣钱的欲望，在出租屋里躺了一年了，找不到活着的意义，对任何事都没有兴趣。连麦的主播一语中的，说她缺少与他人的联系，太孤独了。在这种情况下可以试着建立起一个没有血缘的亲密关系，朋友、爱人、或者一个新生命都可以。当我看到这个女生的时候，我把这个视频分享给了他，我说我和这个女生太像了。</p>
+<p>或许在我写知乎回答的时候，也是出于人的本能，和外界建立微弱的联系，只是在生活中，这种关系被我处理得很糟糕。</p>
+<p>认真生活，与人分享。阳光打在枝叶上，看着蓬勃的生机努力向上伸展，这就是最好的回应，就像四月里冲天的麦芒一样。</p>
+<p>2025-4-7↑</p>
+<p>——————————————————</p>
+<p><strong>2025-4-14</strong></p>
+<p>朋友说要给我买个冰箱，怕我天热了食物没法储存。4 月 8 号早上，快递员送过来了，但我没想到是个大冰箱，一个人用确实有点奢侈，他说最近买家电有政府补贴。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ca3a296ccc4c5c4b82971cd36d54a10_720w.jpg?source=8673f162" alt=""></figure>
+<p>然后我就开始疯狂烙饼，全部塞进冰箱。在所有面食里面，可能只有饼是不需要配菜就能吃的东西。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a1e9dcad2316fde78e13219f0ed97dcf_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b6c360102b6d5403094f2b1519853ffb_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-71cb3aa443b0dc0ed667056270914fce_720w.jpg?source=8673f162" alt=""></figure>
+<p>种了那么多的菜，只是还要等好久才能吃到，自从小白菜长起来之后，不管是下面条，还是炒着吃，我都会一次采摘好多。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fb4501ef573fca357616ce3465ad0c7e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5d8bc098d5f38bebc16b7a21ad52d268_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a91babc0d30c389aa5aac415c710b0db_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-131f7a1935a541a99a93f6242e7ade8c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-05ca66e595f7a82de412a8fcbe2156ed_720w.jpg?source=8673f162" alt=""></figure>
+<p>不久前移栽出来的一部分小白菜，我还盼着长大呢，可是中间已经开始抽芯了，所以我还是要快点吃完。虽然小白菜四季都可以种，但春播不及秋季的长势好，植物对气候的感知还是很敏感的。不过比起刚移栽的时候，确实变大了许多。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e5d0acdc59a9c1b26993144b0c877176_720w.jpg?source=8673f162" alt=""></figure>
+<p>上周五下了一夜的雨，一直下到周六早上，朋友说他周六就回来了。吃完早饭以后，我一直坐在堂屋门口看书。等到下午四点才看到他开着车回来了，这次回来这么晚是有原因的。</p>
+<p>他在小红书上看到有人处理家里的花盆和植物。是个女生，在家里养了几年的花，但是一直养不好，下决心以后再也不碰养花了。发帖说如果有人要就免费送，但前提是把家里所有和种植有关的东西全部拿走，如果拿不完就不要来了。我朋友开着车去的，万万没想到，比想象中的东西还要多好多，步梯六楼的小区，他周六那天搬了一下午，才勉勉强强塞进车里，全部拉到乡下了。</p>
+<p>当我们从车里搬下来的时候，惊讶于小小的车竟然塞下了这么多的东西。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-953aa408fb9915406278ca285b4c9122_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友说可以让我用这些东西打造一个乌尔苏拉的花园，让他想起了秋海棠、棕榈树、合欢花，还有绑着老何塞的那棵栗树。我指了指放在椅子上的《百年孤独》，我还在看着呢。只能在文字里靠着想象感受那些场景，那个遥远的世界，真实与虚幻相互参杂。</p>
+<p>经过我们一下午的抢救，还是整理出来了一部分没有死透的植物，在房檐下码了一排。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9c6c43718771237dd19ac4cf7278e963_720w.jpg?source=8673f162" alt=""></figure>
+<p>在那一堆东西中，捡出来一些鹅卵石。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a85f071df31662ef0e89c03b9aa425cf_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友晚上临走的时，我给他带了些菜，让他拿回去吃。这算得上是纯天然蔬菜了，从开始播种到现在，没有用过农药化肥。早些时候，叶子上的虫眼，用草木灰基本解决了，隔三差五用化粪池里的水浇灌。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8ab0ab863d32792932f17d333ba8d93e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-738122ab3d1772a8030d89e78b83d841_720w.jpg?source=8673f162" alt=""></figure>
+<p>我找了个好看点的花盆代替了之前的垃圾桶，以前的垃圾桶也是用的花盆。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b78a005a08ee39fcd9adabe18b96b9e5_720w.jpg?source=8673f162" alt=""></figure>
+<p>毛笔的笔筒和薄荷的容器也被我换了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4eb2a10faf7955aa587242e2a6f045e0_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1a612d6a4f4188dd182aa6eeb1763d19_720w.jpg?source=8673f162" alt=""></figure>
+<p>借着这两个树桩，在小黄的窝旁搭起个架子，作为以后丝瓜苦瓜爬藤的地方，二来也可以给小黄遮阳。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7a8c52bcfe600e26d2bd214978b55e6e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7aa56d30024cb0f5ad20cbdb6aff2433_720w.jpg?source=8673f162" alt=""></figure>
+<p>茴香刚发芽的时候，我还不大认识，直到看见有个细长的叶子上顶着茴香籽的外壳才确定。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3109df5205085c0e5836ecbc62e1c2f0_720w.jpg?source=8673f162" alt=""></figure>
+<p>当初躺着栽的番茄苗，经过一段时间的缓和，已经直起腰来了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-442974c3c872439b1d9f5858192150a5_720w.jpg?source=8673f162" alt=""></figure>
+<p>四季豆自从移栽之后，就长得飞快，那个触须已经快要够到铁丝网篱笆墙了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd8f25b99fe17f2057cde8d333ba3b13_720w.jpg?source=8673f162" alt=""></figure>
+<p>羽衣甘蓝那皱皱巴巴的叶子，像极了一朵绿色的花。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-25cdfe6d50715c4ee033807ca3fcbd04_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd1c5d3dcdb618eb5c099deb74179b5e_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是韭菜籽长出来的韭菜。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c433fec4ee7481bed99a99e2c0a2c437_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是韭菜根长出来的韭菜。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbb4ecb5f9b13b2a42babcd898c4bc47_720w.jpg?source=8673f162" alt=""></figure>
+<p>辣椒苗有十公分高了，听说栽辣椒不怕晚，等开第一朵花都来得及。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7f37c21142bbbdde26f6ca19f71590a_720w.jpg?source=8673f162" alt=""></figure>
+<p>密密麻麻的生菜，很像一张绿色的地毯。生菜配烤肉很不错的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ed923aea02f79b301ac1a5bd5818ee2e_720w.jpg?source=8673f162" alt=""></figure>
+<p>邻居阿姨来我这里挖了几颗番茄苗，还挺欣慰的，相比于他们，我才是种菜的小白，竟然还能被别人看上我育的菜苗。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5520e4afb3d9d5c41e4a061cf6a2ddad_720w.jpg?source=8673f162" alt=""></figure>
+<p>农历三月十六晚上的月亮，格外圆。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8236cf95a008c211187ab128cd05cd1a_720w.jpg?source=8673f162" alt=""></figure>
+<p>在我这篇帖子发布后，突然有一天收到了一位年纪和我妈妈差不多的知乎网友的私信。她字里行间表达了对我目前生活的向往，并且表示要送给我一些东西，言辞恳切，我本想婉言拒绝，可是又怕负了这位阿姨的好意，便接受了她的馈赠。</p>
+<p>“小蓝，你的文字好打动我。我可能跟你妈妈年纪相仿或稍大一些，已经在钢筋水泥的大都市里呆了很多年。小时侯在乡下住过一小段，田园梦依然还在。也经常觉得存在的虚无与孤独，但也经常被一些光照亮。活着就是意义，如果我们不去贴标签，一切的体验都有意义。谢谢你的文字。我想送你一个礼物，电脑或者手机或者家具或者健身器材或者别的什么。能不能给我一个地址，告诉你比较用得着的东西？2025 年我的目标是多结善缘，请满足我的心愿吧，谢谢！海若阿姨”</p>
+<p>我很感谢这位阿姨对我的帮助和支持，她送给我一台电脑，她希望我一直可以把这种生活持续下去。我想，我的无意记录生活的帖子，没想到给大家这么大的信心和希望，我很受宠若惊。我会一直记录下去，如果能帮助到一些在黑暗中寻找光明的人，我内心还是很开心的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9f34ede3ca570e90dc45f3d6d6f18c76_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有一位朋友送给我的一把毛笔。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-639f865b2058b3bbcded318c5af729e2_720w.jpg?source=8673f162" alt=""></figure>
+<p>堂屋门后面，我用红砖磊了一个架子，把所有工具分类放置，比之前放在一堆方便多了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ec4eb8d0f92893c5af73f238727fb841_720w.jpg?source=8673f162" alt=""></figure>
+<p>买了各五十斤的大米和面粉，大概算了一下，可以吃四个多月。大袋比小袋划算一些。以前听过一句话还是蛮有道理的:必须消费走量（如米、面、油之类），可选消费降级（如衣服、鞋子、电子产品之类）。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d833e1043e593cfe6d2ae3c2123b329c_720w.jpg?source=8673f162" alt=""></figure>
+<p>为了防老鼠，我把米面放进了这个大缸。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6c710c2b0105f0a4668a7da86a201894_720w.jpg?source=8673f162" alt=""></figure>
+<p>白砂糖里面竟然跑蚂蚁了，在网上寻找的方法，说是蒜瓣可以赶走蚂蚁，让后我就试了试。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b5058f73e61fadd744e4aaf8d9b8348a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cb810c3553b23cec73d4836b4df20a41_720w.jpg?source=8673f162" alt=""></figure>
+<p>等到晚上，我还是有点不放心，把白砂糖倒在纸上，认真翻检，完事后用玻璃瓶装起来。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-edb3d49efaebf602afe19b6afe2c45f0_720w.jpg?source=8673f162" alt=""></figure>
+<p>在晨跑的路上看到的一些风景。成片的紫藤花从墙头垂了下来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-80d09a182b578088a8908766d9c9ec25_720w.jpg?source=8673f162" alt=""></figure>
+<p>牛角装饰的围墙，自带一种神秘感。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d07df9e7bcdb3322ffa0ba7b4207cc0_720w.jpg?source=8673f162" alt=""></figure>
+<p>林荫道上，蹬着三轮车的老夫妻，这也许是爱的具象化表现。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-195d4d18398352cd85148f14c4801038_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-97a05e996510fb04b2d28a8003c7ce58_720w.jpg?source=8673f162" alt=""></figure>
+<p>今天下午用茼蒿和小白菜叶子做了一次麦饭，方便又好吃的面食。把菜叶子切碎，拌干面粉上锅蒸，然后油泼就好了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-565429778b7787bb67c657e14e05bd93_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-12a127c129ee712a96dfe80c0bc8d6e0_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-1bd54710adbc26ff0d9bc564471cb4a2_720w.jpg?source=8673f162" alt=""></figure>
+<p>饭后挖了一块地，过段时间在这里栽辣椒。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5a8f21acf25db52c407b79497ea1f648_720w.jpg?source=8673f162" alt=""></figure>
+<p>草深迷市井，地僻懒衣裳。</p>
+<p>2025-4-14↑</p>
+<p>——————————————————</p>
+<p><strong>2025-4-28</strong></p>
+<p>15 日早上跑步的时候，在路边看到一棵洋槐树。原本在老家，这会儿正是吃槐花的季节，在这里却极少见，看着这零星的槐花，也不够我吃一顿，便走开了。除此之外再也没有见到一棵槐树。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c7079651b3813939d3d0c197c7745c8e_720w.jpg?source=8673f162" alt=""></figure>
+<p>睡到半夜，听到外面噼里啪啦的声音，被吵醒了，当我打开房门的那一刻，被吓到了，对面人家发生了火灾。直到第二天清晨，消防车才陆续离开。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-73aa5c2a99f2462073e2a39b29da4762_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c8b5292960d3442ea39ed8f5f72f4ca7_720w.jpg?source=8673f162" alt=""></figure>
+<p>第一波小白菜全部采收了，周末朋友回来的时候给带了一大包。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8458c7d5a504cf52d4fe5aeebb817860_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fe0525587dcb25c25b2d4fbed053ac50_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f67252ff1c7f8aa349b1f86454ac9b1f_720w.jpg?source=8673f162" alt=""></figure>
+<p>跑步的路上看到垃圾桶旁边有人扔了一张床，我看上了那个排骨架，这里离住的地方差不多四公里远，我赶紧跑回去骑着三轮车就去了，可是紧跑慢跑，还是晚了一步，排骨架被人捡走了，剩下的东西中，我看着床侧板和尾板还不错，就装上车了。全都是实木指接板，床头没什么用就没有拿。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8910898edeb08557f879a0a168b2348f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d16abd2680b71bfcd2e8feb2aecac860_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友在评论区里看到有好多人说，小黄的居住条件太简陋了，两头漏风的水泥管子。不知道他从哪里弄的一些旧木板，周末带回家了，我们两个人一起手搓了个狗窝。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-32fe1ecf563d6a15119c7a57c456b6e9_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd83416f51886b8b1b843316018ddedb_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-75d3b03d231ebaa41ea9dbff46014f8c_720w.jpg?source=8673f162" alt=""></figure>
+<p>在乔迁新居之前，朋友给小黄洗了个澡。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-317de821cd3ba5f6fcf2b4058d026650_720w.jpg?source=8673f162" alt=""></figure>
+<p>他还让我给小黄写了一幅对联，内容是在淘宝上找的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dbae423831d463e6fc034b2aaabe6001_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友从二伯家拿来了一些闲置的餐具，从此我和小黄的的餐具区别开来了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1e02281d48b64794e28cd3ef9932e155_720w.jpg?source=8673f162" alt=""></figure>
+<p>从 19 号开始，陆陆续续栽了一些菜。</p>
+<p>这一片是螺丝椒。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-17d5a746cb3d7c2917c4b914fe18a11b_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有牛角椒。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2c0b4bd70574f5eba54487c97b42f275_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-65582d4d6dffecef6499739c3b96cd33_720w.jpg?source=8673f162" alt=""></figure>
+<p>圣女果和小黄番茄。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8904443419b3b7b2f725f02f14aee723_720w.jpg?source=8673f162" alt=""></figure>
+<p>之前栽的大番茄已经开花了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a5ce95f01108ee93bba7d2bb3defbd5a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-36d08c6828add009a861902e75097fa7_720w.jpg?source=8673f162" alt=""></figure>
+<p>还栽了一片茄子。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3d960c56cac4a818e3b013cce69e7639_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是南瓜，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-88ca8b1fddb7ba3ca83ac7e74a402205_720w.jpg?source=8673f162" alt=""></figure>
+<p>南瓜，</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a9a6b54ef965ca408550203dff75ec55_720w.jpg?source=8673f162" alt=""></figure>
+<p>还是南瓜。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7c15ca805373c3fb59811c2a18fb0d48_720w.jpg?source=8673f162" alt=""></figure>
+<p>苦瓜，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c925c959fb562a0161d318f849073735_720w.jpg?source=8673f162" alt=""></figure>
+<p>丝瓜，</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8a0a048928664df33acb613f6b371e78_720w.jpg?source=8673f162" alt=""></figure>
+<p>小香瓜，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0db37636bc13d7816340835ef2c6b14e_720w.jpg?source=8673f162" alt=""></figure>
+<p>丝瓜，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a68f8f93024622883bf0040b29191f9c_720w.jpg?source=8673f162" alt=""></figure>
+<p>南瓜，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc85fbeab6488ca478599055ae071a69_720w.jpg?source=8673f162" alt=""></figure>
+<p>丝瓜，</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e8f135fc74af2dff51066d91484234f9_720w.jpg?source=8673f162" alt=""></figure>
+<p>……</p>
+<p>当我把所有的地种满的时候，还有这么一大堆菜苗。后来，每次有邻居过来的时候，只要有人需要菜苗，我都会让他们尽量多挖点走，毕竟放在这里也浪费掉了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2f759997eadbab4d5217c942c69f932b_720w.jpg?source=8673f162" alt=""></figure>
+<p>上个月在拆除后面厕所的时候，朋友也没跟我商量，以为我要动工改造了，他周末回家给我带了两袋水泥。当初我只是想排除安全隐患，并没有改造计划，但是他把水泥买回来了，我就先把这两袋水泥用完再说，毕竟砖也不够，而且水泥的保质期比较短。</p>
+<p>厨房是一个 4*4 米的正方形，我打算在里面隔出一个浴室。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ab7a20dfdf93b0f9a162a006e59119b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-75c65f91687fcb86061f554def577c3f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-42e3eba8ff6b2e70ccfdec4d627e5963_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-931909bbc5d6cf88b26b88d62afbc074_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f245bf8a9469276c26df0d71c8ea3ac_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5c1e3187e11361f5344f4b2de64e4bb7_720w.jpg?source=8673f162" alt=""></figure>
+<p>一个人弄的很慢，前前后后四天的时候弄成了现在的样子。</p>
+<p>到目前为止，我把旧砖已经全部用完了，离顶还有三分之一，才用了一袋多点的水泥。上次和我爸提起的时候，我爸说我水泥比例用大了，12 墙本来就很省材料砂浆。</p>
+<p>规划蓝图如下图所示，至于什么时候完工并不着急。我打算五一回老家一趟，等五一回来之后再想办法，看看在外面能不能捡点废砖头，毕竟重新买不划算，也差不了多少。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-04e149c3e880fe0e2c840e64c82acb40_720w.jpg?source=8673f162" alt=""></figure>
+<p>最近做的一些饭菜。</p>
+<p>原本想做个麻婆豆腐，貌似有点失败，我只用了辣椒面和豆瓣酱炖了炖，但还是将就吃完了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1585320507950383974a94bbe1a77192_720w.jpg?source=8673f162" alt=""></figure>
+<p>路边采了一把灰灰菜，开水锅里焯一下，油泼凉拌就很入味。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-eb68edcee0718f48fa3f04315dcc8ce2_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4177fa3d045551820148b9adbdec8dd4_720w.jpg?source=8673f162" alt=""></figure>
+<p>蒜蓉小白菜。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c16c1f5f04315342c5fb2d35e88f81c8_720w.jpg?source=8673f162" alt=""></figure>
+<p>荷包鸡蛋没包住，下了一碗面条。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-42a73a24ccbb56f58192262a66202836_720w.jpg?source=8673f162" alt=""></figure>
+<p>茼蒿炒肉。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5b48711b8464cafa35a81bdb78b4b448_720w.jpg?source=8673f162" alt=""></figure>
+<p>最近吃饭我会洗一盘生菜，就这样直接吃，生菜很嫩，口感非常不错。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c867fe975f7fd523457aa1df43faf9dd_720w.jpg?source=8673f162" alt=""></figure>
+<p>一顿没有吃完，第二顿上锅蒸热，没想到竟然吃这么多。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a198cc270a1ba4dc7ded64b851376d78_720w.jpg?source=8673f162" alt=""></figure>
+<p>第一次吃我种的韭菜，和鸡蛋一起炒，另外一盘是羽衣甘蓝的叶子，我也是直接洗干净这样吃，口感不是很好，不及生菜，但听说营养价值很丰富。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-959bb139a78bc45de15bd04aa1890a5d_720w.jpg?source=8673f162" alt=""></figure>
+<p>又蒸了一次茼蒿麦饭，麦饭太干了，必须泡一杯茶，边吃边喝，这样不容易噎住。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e6f07eb6d532079e050276fde30d0acf_720w.jpg?source=8673f162" alt=""></figure>
+<p>继续我的茼蒿炒肉和生菜。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1d9e7d66835b7599b7928920f8c4c55d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a27cea045db5fee055583bf4f20b5ee9_720w.jpg?source=8673f162" alt=""></figure>
+<p>尝试了一次中式汉堡，很好看也很好吃，每次吃面食都会不自觉吃多。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fb832beb8b9cc3cdf8a84fd9bdb6e8fc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-25eeef8c1f99ec8202a45686f0ad5e1a_720w.jpg?source=8673f162" alt=""></figure>
+<p>萝卜干炒豆豉。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-583be3ba219f359369890ff8e698379e_720w.jpg?source=8673f162" alt=""></figure>
+<p>这一盘菜弄的不太好看了，做的是牛皮菜炒胡豆，牛皮菜和胡豆都是邻居阿姨给我的，六片叶子竟然吃了好几顿。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5bd88ad055233cb7fc3b31e251b3fcf8_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0f134d68df120bd273baae94ddfa219a_720w.jpg?source=8673f162" alt=""></figure>
+<p>用吃剩的菜做了一大碗泡馍。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2e4980374ddc3d8aceb40a296acb4f5c_720w.jpg?source=8673f162" alt=""></figure>
+<p>时隔不久，灰灰菜又长了一大片，随便掐一把就是一餐的量。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5e16cc267e60357c433e71de04b9ff29_720w.jpg?source=8673f162" alt=""></figure>
+<p>4 月中下旬，朋友的花园正是最美的季节，第一批月季爆满枝头。他是个月季大佬，种了好多品种，他还将名称做了牌子插在地上。这些我都不怎么认识，但是并不妨碍我欣赏，真的很漂亮。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0178879f743dda2ddffb9e81f400e912_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-3f917361f6db3a344594019bd9fb878a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d053a356f9c09194d31b5aab063c198d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c5d58b6d7ad1e4a80e8beeac340dabcb_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8268b5b8b5b728c77718476ff60b9091_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-36fe93d95154e7af548cecce3c73c224_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-32547ff60718698509f2a43ec65a9619_720w.jpg?source=8673f162" alt=""></figure>
+<p>简陋的屋舍在花园的映衬下都已经蓬荜生辉了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-168914b6fca2ef2e9dd60102a905a777_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-147d1ed1c4be812ace19f4b5c5ccb6d0_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-009dc2aeef0af04c5c65638865b3c048_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ed3f7bebb1385718ba846cb5996f3e1a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-05850b2510830090d1db0fb5af5f1e5a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9d49c0af65c8202de518d0d35d38e119_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-3076ace0ea821aef9803a0e46ba13093_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f7e64962d45f188ac6bc9b1d75af6430_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-278b5c2158f6008cdad6ca798bd4a6b7_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e26b96b37fc51198bf5d970dba26ae32_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac9dc87f2683d88ca5ee9fcf7fb46d4a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-890fa0451a71f1116426503252ac8a2e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-510b53014fc0d360f53c4b619e2452e1_720w.jpg?source=8673f162" alt=""></figure>
+<p>自从上一次离家已经有半年之久了，五一回去住段时间，我已经给二伯说过了，帮忙照看一下菜园，等我来了之后再慢慢打理。</p>
+<p>2025-4-28↑</p>
+<p>——————————————————</p>
+<p><strong>2025-5-12</strong></p>
+<p>最近回了一次家，差不多半个月没有更新了。</p>
+<p>4/29 日前夕，下了一夜的雨，看着被花朵压变形的树枝，找来了绳子拉起来，以免被压断了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e5103e72d76c5d3da276fd2a466f2eb3_720w.jpg?source=8673f162" alt=""></figure>
+<p>那时候番茄有一尺高了，索性先搭了架子，怕我离开的这十多天里长倒了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-af0cd98bf2cccf6ad3cbedc93e53443c_720w.jpg?source=8673f162" alt=""></figure>
+<p>忙活完之后，弄了两脚的泥巴，走起路来很是吃力。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-abb5cbbae15ff647d34710c702fb9245_720w.jpg?source=8673f162" alt=""></figure>
+<p>剩下的四五个鸡蛋也被我一顿吃完了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-55f6e6af40c2f34dc4aaa36969704942_720w.jpg?source=8673f162" alt=""></figure>
+<p>我买的 30 号的火车票，得坐一夜的车他买的是高铁票，一号早上才出发，我们都是中午到西安的。看着时间还早，我们约定先在大明宫见面，顺便在公园里走走。以前上学的时候，经常去大明宫，不管是骑行还是夜跑，都很舒服。唐朝的皇宫，由于年代太过久远，只剩下了遗址，作为附近人休闲娱乐的场所。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-efc627f67b006c191c7e595f6f62a3a6_720w.jpg?source=8673f162" alt=""></figure>
+<p>我们刚见面，我就带他在附近吃了一碗刀削面。北方的天确实比南方热很多，我们从大明宫最北边走到南边的丹凤门，然后在火车站附近坐地铁去了住处。</p>
+<p>聊了这么久之后的第一次奔现，我们定在了西安见面，这是他是第一次来陕西，我也可以趁着此次机会回一趟家。他准备了两条红手绳，我们一人带一条，还买了两个黑色的吊坠，应该是玻璃材质。准确来说，手绳并不是单独买的，而是买吊坠送的。</p>
+<p>在这之前的一段时间里，我们就商量着买个什么纪念用的东西。结果我们两个想法出奇的一致，就在网上找那种比较廉价的饰品就行了，我们依然可以把其视为最重要的东西。这样下来，九块九就搞定了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dde605e69c294620eed8a0f1d2b831e7_720w.jpg?source=8673f162" alt=""></figure>
+<p>晚上我们在外面买了凉菜和啤酒带回了宾馆，计划着第二天的出行计划。他假期只有三天假期，除去来回路上的时间，留给我们完整的只有 2 号一天了。以前在西安待过几年，稍微熟悉一点。我说那就不要去远点的地方了，在市内玩玩就行了。我大概规划了一下路线：钟楼、回民街、书院门、大雁塔、曲江池，晚上再返回来看看大唐不夜城的夜景。</p>
+<p>2 号早上还在钟楼附近吃到了甑糕。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f306b20e78f9cd72c2aad0668bfad253_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6118f34604ecb7d4a7b97d216c497c06_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-019b67b69d2d36331bf9da9175583315_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9fdbfdd4801bfe7dc5900b2f1c33fe74_720w.jpg?source=8673f162" alt=""></figure>
+<p>放在展厅的兵马俑模型被我拍出了俑坑的效果。他执意要买走几个带回去，说下个月来成都的时候再带过来。我并没有反对，只是心疼他背着几块石头跋山涉水。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-38496a129a69085145b695ffa3a6a488_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-08356dc70a34c5d03a81f248ddcda927_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3ab8ec22d10fda4ae892e85b15b05f17_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b6d5f5820d100955e8c67eff276d033b_720w.jpg?source=8673f162" alt=""></figure>
+<p>碑林博物馆的门票那天只要十块钱，只是当前时段已经预约满了，再看了看省博的门票，只有五六天之后才有票。想想还是算了，从这里回酒店去吧，反正也到中午了，在街上吃了一碗油泼面。一直躺倒快四点的时候才出发去大雁塔。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c215c0fd0aa41202a2893dc9b3350c7e_720w.jpg?source=8673f162" alt=""></figure>
+<p>这天温度是格外的热，最高温 39 度。公交车司机还说，因为假期限流，去不了大雁塔，我们当即就决定骑单车去。顶着烈日，花了四十多分钟才骑到。确实是人太多了，所有的节目和喷泉都取消了，我们只能顺着人群一直往南走。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0433cfcf68ee86d4d2758029dbe508a3_720w.jpg?source=8673f162" alt=""></figure>
+<p>步行街上好多穿汉服的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4e9954a51d3568644c99ae01be9568af_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-47cb9e84193d6db7672e4334165b8051_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-89ab9e30014d1f076ca32278682cab29_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-20655b01120314c0b5a9caa3e45dc191_720w.jpg?source=8673f162" alt=""></figure>
+<p>在这里等夜景还有点太早，我们决定接着骑单车去曲江池转一圈，路过了胡亥墓和寒窑，一圈下来再回不夜城看夜景。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3fe45b0639c1ed07a175904f5eab4cf4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6d065dce46743ffbcd1c6839d2a3d9f5_720w.jpg?source=8673f162" alt=""></figure>
+<p>不限流的话估计要发生踩踏事件了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6430dd18d7198a6a0f2cc7fc7ec33b65_720w.jpg?source=8673f162" alt=""></figure>
+<p>第二天一早，我带他去见了我姨奶奶，她住在西安东二环，离得不是很远，我们还是决定骑单车过去。我和姨奶奶已经三年没有见面了，我们几个在外面吃了个饭，稍微休息片刻之后，我就送她到高铁站去了，不过姨奶奶非得留我住一晚再让我回家，我随即答应了她。</p>
+<p>5/4 日便看到了老家的秦岭，久违的亲切感。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f29f3fa9e16c0321a54c75ad606e0b41_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b1c4d4bb1301f11e0f9f1b7b8c5a80bc_720w.jpg?source=8673f162" alt=""></figure>
+<p>在回家之前，老妈说想让我带点我的菜苗回家，但是后来因为长得太大就没带了。那天去镇上买了点，才发现老家的菜苗超级便宜，一块钱十棵，我买了一大堆才不到十块钱。种在了爷爷院子里的空地上。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-87c35649eb84a53cac431de443cc4a9e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6270ada6ce569a547e07d7b4b4f14c7f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-be492f9c29cbc15e937fcef3ac01a5e4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a34ccd2a2c47b86e285e22d3bc1923ef_720w.jpg?source=8673f162" alt=""></figure>
+<p>抓拍了一张爷爷奶奶的照片。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1f9545422798533005ac0c7a519c6811_720w.jpg?source=8673f162" alt=""></figure>
+<p>计划在家待一周的时间，一有空就在收拾我要带的东西，在书架上找了几本书，以前买的也没来得及看。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9afa1ff10508b90dbc7796be74055685_720w.jpg?source=8673f162" alt=""></figure>
+<p>还有我的一些骑行的东西，等下个月他来了之后，我们计划出去骑行一次。</p>
+<p>我们聊天的这些日子里，她曾畅想过能和我走过更多的地方。但是这次来西安之后，他似乎改变了想法，但凡是景区，都是人挤人的场景，和雷同的商业模式。他说，我们今年初秋一起去长途骑行一次，回来之后就在乡下好好生活。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7f87295b965337f998078d179e97a7cc_720w.jpg?source=8673f162" alt=""></figure>
+<p>我妈给我包的饺子，是真的大，装不了几个就一碗。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8e36b3bc9effaf554bbe5f268f79766f_720w.jpg?source=8673f162" alt=""></figure>
+<p>这也是我妈烙的煎饼，在面食里面，我做煎饼可能还有点困难。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dba7f30592cc7b7bd4ae654e6217ea10_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-717a0be97ad8d9cdc5e3c9acdf05ca69_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是二十多年前家里出租的餐具，后来淘汰之后就一直堆在家里，这么多年过去了，也没舍得扔。我在里面挑了几个品相还不错的，准备带到成都来用。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8045dc8423d7ba9676e0a794e01d26e5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-446e2b3ff4fbcc3279715ee49a103f1b_720w.jpg?source=8673f162" alt=""></figure>
+<p>家里从年后到现在没怎么下过雨，小麦只有一尺高，麦穗也特别小，又是年景不好的一季。在村子周围散步的时候，随手拍了一些家乡的照片。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-46f45420bd5974b10ace893f105e768b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc1546be546740744be8e36aee6558be_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e4066412a54de725470c238f21c23497_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6a662942b914166ed087bc235481c50c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5070eeb02b9890ef5d45778334923c10_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8b06f9b6ea2294ce9f57790b19684153_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-079cfc33622694c8dd57f775118f216a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-434e0e73fe97a79984e8a8477cc5bb39_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-410d31fb291033853f0717b3379c30e1_720w.jpg?source=8673f162" alt=""></figure>
+<p>整理好行李之后，上秤称了一下，足足有 27 公斤。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4880a0f4704ec09eba451c95bae32070_720w.jpg?source=8673f162" alt=""></figure>
+<p>临行前的当天下午，我给我妈做了油泼扯面吃，这也是面食中她唯一不会做的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-54c45b2c3049aed31d4274d7cd4f564c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9b5545d0f0b3eccc6b6294189047d65d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8d733c9f08b9fde91bec75cdee182b1b_720w.jpg?source=8673f162" alt=""></figure>
+<p>一夜之隔，成都和关中的麦子竟然是两个世界，这边麦浪滚滚、颗粒饱满，而那边则薄地歉收。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-61acb1890b419fd5dd3fd9b6bfb95de3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a6b1768e6b14ce713a8b4e56392131ef_720w.jpg?source=8673f162" alt=""></figure>
+<p>离开了 12 天，南瓜和番茄都已经坐果了，但是满地的杂草比菜地还茂盛。听朋友说前几天下了一场大雨，结果上次搭的丝瓜架子也塌了，工具房那边的半张石棉瓦也断了。明天得赶早拔草、还要给番茄打岔、搭菜架。破败的速度真的很可怕，光阴可以吞噬一切。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b83de3b8f13328942afac36beb01122d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-05e418c0a50b6f1aaf5ea25aedd23278_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4d0971de9365082f237384731092833_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-543c6e0e370dd04c2406b3bdfce60fda_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d9c59e3b13a84b0bc76e1eb7a1f06cc6_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025/5/12↑</p>
+<p>——————————————————</p>
+<p><strong>2025-5-21</strong></p>
+<p>刚过来的这几天，除草和搭架子可谓是当务之急了，番茄有陆陆续续开花坐果的，只是长时间没打理都已经顺地爬了，而且还长了好多枝杈。我妈给我说过，番茄只能留一个头，如果枝杈多了就营养跟不上了。我看着有些侧枝长得和主干都差不多粗了，没舍得剪，所以个别的留了双头。</p>
+<p>花了好大力气拔掉生菜地里的草，才显露出清晰的行陇。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-69f7b39ddd54e1433ed151dc1d894655_720w.jpg?source=8673f162" alt=""></figure>
+<p>唯一难消灭的是被叫做胖子草的植物，叶子长得有点像马齿苋，根茎在地下绵延交错，只要有残留在土里的细微根茎，都能疯狂地生长，除之不尽。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ec8ae95ec3779f3198419d9f066aa5ec_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e4f3976d089aa9008f5c36d02b9b9df3_720w.jpg?source=8673f162" alt=""></figure>
+<p>拔完草之后，手都被染色了，直到几天之后才洗干净。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2915d89cca385dfe33cddf5baca5cfa9_720w.jpg?source=8673f162" alt=""></figure>
+<p>摘了一颗比头还大的的生菜，用来卷煎饼，这是我第一次尝试烙煎饼，就在电锅里做了，面糊里拌的韭菜段。我烙的煎饼很厚，比起我妈做的还有很大的差距。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-140e266c552afb14033ba2b333087831_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6a644fcbc5f584828d223f7a6e74250_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a74089a4c26560a20f9714c07035f036_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0065d083b283376f6d276d36d01fe4bc_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个韭菜面疙瘩是我自创的，蒸出来蘸着料汁吃，还挺有嚼劲的，好处是方便操作。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-074c1b5f0c0b9ea818e7da84ea94425c_720w.jpg?source=8673f162" alt=""></figure>
+<p>用手机简单调色的照片，充满了童年的气息。最近气温很高，而且麦子即将收割，宣传车架着喇叭循环播放着禁止焚烧秸秆，我将所有可燃的东西都拿回厨房生火了，夏天是极度省柴火的季节，就连烧一壶水也用不了几根棒子。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5e176e447b95dd00358bdaa7ebdee445_720w.jpg?source=8673f162" alt=""></figure>
+<p>我的黄瓜和豆角都是顺着边上的篱笆种的，主要是给番茄搭架子，后来算了一下，用去了大概八九十根的棍子，好在房前屋后都长满了竹子。刚开始我是用布条绑扎的，后来不够用了，朋友让我用他的塑料扎条，这下比布条方便多了，一拉就好。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c6cc85918dc7e6ad5aa64ca861cbe58b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-95e58fda6821bf29686758c0b047a4bb_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8919aa88f355a821766f055431befa03_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2ae84af8b476e3b18ec0f2340672e38e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b7bce4dccc030db76701aa06725183b1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b2c56203a06dbdcb228a7ac733cd629_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f9dc5fea0cad95c3a957874c3c5da529_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-45356174d2de4dd2d1f53694e870da45_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是丝瓜的架子，前段时间被大风刮倒了，我又重新弄了一下，这次捆扎好之后就稳当多了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd1daf22bee3a15b07fb3613f740eb70_720w.jpg?source=8673f162" alt=""></figure>
+<p>她下个月初要来成都找我，就在最近，她给我转钱让我买了两辆自行车。当她决定想让我今年夏天陪她去骑行川藏线的时候，我还是很激动的。真的没想到，距离上次骑行仅仅时隔一年，再一次去挑战这条天路。我们商量着这次去的话就走 317，对于我们两个人来说，都是一次新的体验，这或许能成为我们刻骨铭心的记忆。进藏的路充满了危险与挑战，每一次的筋疲力竭与对未知的渴望，都能让人焕发出额外的力量。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bf3a1f16403e80964fce0c0866daab5e_720w.jpg?source=8673f162" alt=""></figure>
+<p>组装好自行车之后，在附近骑了骑，感觉还可以。我想等他来之后，我们再去骑几次绿道热热身。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fcda603d1177bef36a5b448980d76abd_720w.jpg?source=8673f162" alt=""></figure>
+<p>附近骑行路上的照片，蓝天与夕阳。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-95aef809eb1fa0852a82a6b9a70b0ee6_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4c09773d0cf288b39c8ca12d978dd1f9_720w.jpg?source=8673f162" alt=""></figure>
+<p>有知乎网友给我寄来了一些闲置书籍，这些书是他自己挑的，不过还是很意外，里面的《失明症漫记》和《窄门》这两本小说是我以前看过的，他或许 get 到了我喜欢的书籍风格。后面的一段时间，可以用这些书来打发时间了，还有这次从家里带来的一些书。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a357908db6b3e9aa7f06b43ad9155ae4_720w.jpg?source=8673f162" alt=""></figure>
+<p>上周六朋友回来的时候，给我带了川西的特产坛子肉和一大块鱼肉，他说如果用来炒蒜苗或者咸菜可能比较好吃，只是我这里都没有，从菜地里割了一把韭菜，我炒了盘韭菜肉片。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-20122daac06cd61cdc873fbe275ec2b3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-10782e53eb41b01733070f265cf3710c_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是一条大鱼的一部分，鱼肉已经腌制过了，我做了鸡蛋面芡，裹上之后直接用油炸。这些鱼肉足足做了两大盘，分两次吃都有点奢侈。但我确实是两次吃完的。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-651091ef780cf146f6544a3d646a8073_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f42027eb0f7e91b79c046017837039b2_720w.jpg?source=8673f162" alt=""></figure>
+<p>就在昨天迎来了我 32 岁的生日，这或许是唯一一次碰到 520 的生日。她给我在网上预定了蛋糕，还特意在上面留了纸条“小蓝同学要一直幸福下去”。蛋糕中午就收到了，我放在了冰箱，打算晚上等他下班的时候再吃。</p>
+<p>夜色降临时，我和他打通了视频，在屏幕的那一端，她祝福我生日快乐，还让我点上蜡烛许愿。我们隔着屏幕边聊边吃，在卧室虽然只有我一个人，但是我觉得这是我过的最隆重的一次生日。还有剩的那盘炸鱼块，作为今天的晚餐。直到夜深时，我们各自已经喝了四瓶啤酒。</p>
+<p>她说跟我相处的这些日子，肉眼可见的我的状态在一点点变好。我当初觉得注定是要孤独终老的，直到冥冥之中我和他相遇了。</p>
+<p>还记得小时候，每次生日的时候，妈妈总会给我做两个荷包蛋，然后再做一碗手擀面——长寿面。就那样，我也已经很满足了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bb21b2c42f560547742eff1ee5a831d8_720w.jpg?source=8673f162" alt=""></figure>
+<p>无意间，篱笆上已经结了好多四季豆，今天早上摘了一把，做了一盘干煸四季豆，没想到竟然如此清甜。吃上自己种的蔬菜，满满的成就感。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8fccb2a763c29e783d25cea600d6015e_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ad1d6a456099271ffcbb039da4b72e7b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0f9660f112f6c1145f4930e7ce6b7e92_720w.jpg?source=8673f162" alt=""></figure>
+<p>写下这些字的时候，又从篱笆上摘了一根黄瓜吃掉，还吃了一块昨晚剩的蛋糕。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fb942fa0943140fbd704e1f39f028dde_720w.jpg?source=8673f162" alt=""></figure>
+<p>2025-5-21↑</p>
+<p>——————————————————</p>
+<p><strong>2025-5-30</strong></p>
+<p>天热了之后，蚊子尤其猖狂。胳膊上，脸上，脚踝，经常被咬，经常忍不住去抓挠，到处是结痂的印子。还好我没有穿短裤的习惯，腿上并无大碍。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c398867a01a0aefac975d5dc65729150_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b8f987cb69970e1e4a8777771145c35a_720w.jpg?source=8673f162" alt=""></figure>
+<p>是时候撑起蚊帐来抵御蚊子的侵袭了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cb148c8a644c62c97bd08edfa8d8fbbe_720w.jpg?source=8673f162" alt=""></figure>
+<p>几个月前买的干辣椒，当初买的是整根的，最近觉得有点返潮，剪成小段之后在太阳底下暴晒了一中午，待干透之后装袋放起来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9aff3b5be70dd07ac1bcb4d27c586915_720w.jpg?source=8673f162" alt=""></figure>
+<p>五一之前在厨房建的砖墙一直处于停工状态，也没有去找砖。后来听说朋友的发小家里有废弃的砖，放在后院的角落里，那次过来聊天的时候正好提起，上周末还专门去她家看了看。离我这里只有一公里远，她家的房子是八十年代建成的两层三合院，后面还加盖了一层彩钢房，在当时算得上是相当气派了。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9582168f7cc3ed2436de66bf03ad294d_720w.jpg?source=8673f162" alt=""></figure>
+<p>后院是以前养牲口的地方，如今已经废弃，砖头就堆放在这里，她说需要多少拿多少就行，不够的话，那些断壁墙头还可以继续拆点。我打算等过几天小尧过来的时候一起去拉，就用我的小三轮车，每次最多也只能拉 50 块左右，到时候就多跑几趟。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b1364ef1028b3c895e579518fdbaa564_720w.jpg?source=8673f162" alt=""></figure>
+<p>那天我们一起吃了次油泼面 ，怕这么多人不够吃，我还拿出来了上午剩的几个茴香饼。一群人吃裤带面的场面真是壮观，我们将面挑起，拍了张照片，韧劲十足。我把北方的饮食文化带到四川，一点也不违和。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7021fc855e4bbd9575994fa103a98aa6_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-33b556e5774c969a711180490ca397ee_720w.jpg?source=8673f162" alt=""></figure>
+<p>终于迎来了收麦子的季节，那天骑车出去溜达的时候，在路边拍了这张秸秆打捆的麦田，颇有梵高油画的感觉。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dda86ada10523ce53cb3c632dac95093_720w.jpg?source=8673f162" alt=""></figure>
+<p>方圆几公里的小麦，只有我附近的收割最晚。等收割机走后，接下来我就在周围麦田里捡掉落的麦穗。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-734a1233e0c46b92b3bdd13d0f961dff_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e88713000b35431254675486d70e85b_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是最近几天的收获，我发现在这种事上，远远比不过村里的老太太，一个个眼疾手快，应该都比我捡的多。而且一激动，剪刀竟然剪到手指了，伤势不重，只得裹上创口贴继续干。目测两三个月的口粮就到手了，待天气好了脱粒晒干，然后储存起来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-18b886c601b261432cdee9d8e01be57a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b5d7df4c386fcb4b286fdd9906830700_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友周三的时候找来个砍树的师傅，砍掉了厨房后面的三棵大树，其中有一棵正好趴在瓦上，每当刮风下雨的时候，与屋面来回磨蹭，偶尔还会弄坏旁边的石棉瓦，所以决定砍掉消除隐患。正好趁着麦田空了，抓紧时间解决掉，等过不了多久，田里就要放水插秧了。错过机会可能就要再等半年。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aac3b50a867e2684256b5e0ef8c2d2cf_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a824d18269d2baba9457c40f8f02fba1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1da7f415efe3194c04083537d7b0ed40_720w.jpg?source=8673f162" alt=""></figure>
+<p>没有大树遮挡，一下子豁然开朗了。现在只剩左后方的竹子了，以后慢慢人工清理，划不来花钱请人砍。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d3732940f5620ebbbe0eac9467e1b1c2_720w.jpg?source=8673f162" alt=""></figure>
+<p>砍树撞坏了两块石棉瓦，当天下午，我找来了几块烂瓦片，把这个破洞补起来了。好在这个棚子很矮，一个人踩在凳子上就能操作。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4a1f43a41469fa6e1fd8ea8f0e27c898_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d4bf11a43e2835a113423a031b527380_720w.jpg?source=8673f162" alt=""></figure>
+<p>昨天朋友休假回家，我们两个花了一下午的时间，把麦田里的木头搬回来。大的放在棚子里面，细一点的全部堆在院子里，后面就抽空一点点锯短。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c4576bdabe15fbaa2ca5b4921b2bd8b4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e92f2e988a39898586be0ddeaaacd779_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e214d60f53fbdd719faa653dd469dde3_720w.jpg?source=8673f162" alt=""></figure>
+<p>骑车在附近溜达溜达，也稍微熟悉一下周边的环境。我打算等她过来的时候，骑行去周边市区转转，我和他说，为了节省开支，我们出发前可以带好水和干粮，回家之后再自己做饭吃。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ecfa1528e9e03c1523a795d6d796b160_720w.jpg?source=8673f162" alt=""></figure>
+<p>良田万顷，颗粒归仓，号称天府粮仓也是实至名归。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-baf870134460277e805dff3aa01103b9_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be017a94c2b3c34bf70420d4283d2a89_720w.jpg?source=8673f162" alt=""></figure>
+<p>茄子、辣椒、还有西瓜，在绿草掩映的地方悄悄生长。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9d3e4335fa83e221e82634cab4361a6a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a6c9c62ae9978a16dd54ae84759dfc37_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-475210d1f721fde745475e26ed78704f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7c2f42f1435217b0557944f2e440fc4c_720w.jpg?source=8673f162" alt=""></figure>
+<p>只有西红柿坐果率超级高，还在疯狂地生长，到时候还真的可以尝试一下做番茄酱。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-12ffc408f3497f59ce1dd34c87625b00_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6090aa224b5c82e8aab25f4f800e7657_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8321e1f0aa8355c3b0277eddb84db4d8_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a4a94b811b31c1bb4ffbff4fcdcba5bb_720w.jpg?source=8673f162" alt=""></figure>
+<p>四季豆也不甘示弱，爬满了篱笆。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6794a9c38ea4e9e76e5563decd6d1d7f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-716ecfbc392415967431172034be4c38_720w.jpg?source=8673f162" alt=""></figure>
+<p>最近小黄来大姨妈了，为了避免再生小狗，朋友从他发小家里借来了一个大狗笼，小黄被关禁闭了。前两天貌似有公狗来找过小黄，只是不知道这次操作会不会有点晚。朋友为了节省狗粮和养育成本，只能牺牲掉小黄的恋爱自由了。方圆几公里的土狗，还属小黄的颜值出众。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac1445481dad4dbff7f2e094fbb3cbfa_720w.jpg?source=8673f162" alt=""></figure>
+<p>从五一之后，将近一个月的时间没有动笔练字了，最近一个月要忙的事情着实有点多。</p>
+<p>2025-5-30↑</p>
+<p><strong>2025-6-15</strong></p>
+<p>——————————————————</p>
+<p>那天下午，朋友叫我去成都爬山，挺仓促的。他一号下午就过来了。朋友说 31 号去爬山，然后我 1 号下午去车站接他一起回家。就这么计划了。</p>
+<p>我坐地铁去的，光路上就花了近两个小时，临走时顺便摘了一把四季豆，晚上朋友用来烧土豆吃。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1777ba7ef9f464fddf4ee3c5ad518b05_720w.jpg?source=8673f162" alt=""></figure>
+<p>爬山正好赶上端午节，虽然高速免费，但是 100 多公里的路走了好几个小时，最后实在没办法了才下了高速。直到过了中午才到山脚下，在路边吃的查渣面。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-396ae25fa9aac46cc6d7874713bff1c6_720w.jpg?source=8673f162" alt=""></figure>
+<p>进山没多久下起了小雨，不是很大就冒雨继续爬。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ee94d99e4be6c7b153a7a7ef63ac2dcf_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-751884a8b39c483e762834d5a1ceb713_720w.jpg?source=8673f162" alt=""></figure>
+<p>在山里遇到的一片野百合。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac839f8828bffeeb027ff3bfbd3f6725_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b1dd46b58e7f680ed3ea394c699dfe6a_720w.jpg?source=8673f162" alt=""></figure>
+<p>这棵参天古树特别有意境。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2cd5329e2310411ec4bb140d5a3abbbb_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cbfe20e394c6997d7c1bebd75cd0bf37_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-67708c14c629fef2592ec797cb2a1e92_720w.jpg?source=8673f162" alt=""></figure>
+<p>下山的时候鞋子全湿了，下午回成都路过了一个古镇，去里面转了转，刚开始还在下着小雨，直到傍晚时分，出现了夕阳。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-287f3044173bfaee53f70b3c2ea342a3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca238ad43b0630643d2a38aec3fb861b_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d9a9775983e654c6cf313ca5f4719be5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-443b26ac808b5f62ed43571617304774_720w.jpg?source=8673f162" alt=""></figure>
+<p>去东站接他回家。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1641fed342d3ee25e557c57d28214f7c_720w.jpg?source=8673f162" alt=""></figure>
+<p>一个月前烙的饼还有几个，我们当早饭吃。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0aaee1a5d199e9e81c67f209c6b43b0b_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友回来带的橘子，我们一起喝喝下午茶。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-09b623ec8704ea15d22fdc75d6ad455c_720w.jpg?source=8673f162" alt=""></figure>
+<p>之前骑行的时候在地图上看到三星堆离得不远，后来和他一起骑车去溜达一圈，来回 60 公里。。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9a2fb5cbcfc80bc919dfcec021b84104_720w.jpg?source=8673f162" alt=""></figure>
+<p>6 月初的几天，趁着天气还不错，从邻居家借来了连枷，把我捡来的麦子脱粒，好多年前用过这款农具，现在有点生疏，那天下午，二伯帮我示范了一下，果然专业多了。</p>
+<p>用小风扇吹去麦糠之后，就可以晒干装袋了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b83de5ad14f358f08e0d2b16d12f5aa_720w.jpg?source=8673f162" alt=""></figure>
+<p>捡了三天的麦子，脱粒之后也就不到一袋子，目测有个七八十斤左右。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4bc67e79e4dbc21b3bdc4116a84f262b_720w.jpg?source=8673f162" alt=""></figure>
+<p>门口的稻田已经开始放水准备插秧了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-32e3bcab0867187fce3f2419e6b09010_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8304bc8e191c313e764bd9139f2a3bc0_720w.jpg?source=8673f162" alt=""></figure>
+<p>四月底，卫生间的墙只建了一人高，直到最近，在他的帮助下才勉强封顶。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-67c8be5a42e518891995db695a7d3b79_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-72f1ababd30125b7c33410dc18e19dfe_720w.jpg?source=8673f162" alt=""></figure>
+<p>最近喝的是他带过来的酒。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-521dbfd6b4ab879895357ea5a71b6e76_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7cc57bc288db21250a362228ff7536c8_720w.jpg?source=8673f162" alt=""></figure>
+<p>6 月 10 号我们一起去骑了绿道，为了节省开支，我们提前准备了足够的凉白开和烙的饼子。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-993de010ff3b354d71631ec773e236e1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6543d57d015456bfbe86c766d67df9bc_720w.jpg?source=8673f162" alt=""></figure>
+<p>出门的时候没带充电宝，路上为了省电，息屏的时间太长了，结果骑行轨迹拉了直线。这是他第一次百公里骑行，累是肯定累，但是很有成就感。我们打算后面选择不太热的天气，多骑几次绿道，也算是给长途骑行打打基础。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-120dff8effe0e7cf31423b847553cb52_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5bef694fb9df4896ba5656ab321e8304_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5593d5104709c918342a1550a477552c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-57e849bf1463d9cee1c506e79f74cf31_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-afc856bc3fe754a3c0dab7950ceb625a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f7e1c6ec603e0ed13f3b194324751867_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1944378f53fafd228e3db11678b817fd_720w.jpg?source=8673f162" alt=""></figure>
+<p>两个月前，二伯给我了一条鱼，我一直放在冰箱里，准备和他吃顿大餐，后来费尽力气做的酸菜鱼一股子腥味，上桌拍照之后就拿给小黄吃了，鱼肉放的太久可能有点变质了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b237d03fc05c520718c68aa750e74ab0_720w.jpg?source=8673f162" alt=""></figure>
+<p>朋友回来给我买了需要用到的建材。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d2b4985119416fde07955ffef0da4a4c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbb21163fb9d00bcbaa59ce803041b1b_720w.jpg?source=8673f162" alt=""></figure>
+<p>思来想去，还是砖砌的灶台省钱。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3513c28c9220fc7ab740a6b5f3044139_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-284c766f4f24db1ca09b98515389ed4c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-04b2aa030f5b19df5849550429150dc3_720w.jpg?source=8673f162" alt=""></figure>
+<p>最近一直在干活，家里乱糟糟的，在水龙头和书桌附近装了两块板子，将小东西收纳上去就稍稍整洁一点。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8a1e7b85f87822b200e4167eddf5b80f_720w.jpg?source=8673f162" alt=""></figure>
+<p>左边的向日葵是他以前模仿梵高画的，用的丙烯颜料，我感觉和油画的质感挺像的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-724c93d6ceba41566196a155ab76e843_720w.jpg?source=8673f162" alt=""></figure>
+<p>前段时间，结的第一个茄子被偷了，不过最近又有好多了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-465885558dc43a76a776a252ce29a875_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d22463ea9525c9047bac632892142f65_720w.jpg?source=8673f162" alt=""></figure>
+<p>六月中旬，番茄才陆陆续续变红。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8043e2a695f10e61fb500842e36ffb4f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c00364dfb958b2f06780f89d98449917_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bd21afc32d40815dba6e9058c9a282b9_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-edec07d9c372fe8466be06cb43546920_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是个长得最好的贝贝南瓜，只是西瓜长着自己长坏了，也不知道是因为采光还是别的原因。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-20c8dfeff5864bc69564e486d100b989_720w.jpg?source=8673f162" alt=""></figure>
+<p>辣椒地里全是草，十多天没打理，又一次荒废了。</p>
+<p>2025-6-15↑</p>
+<p>——————————————————</p>
+<p><strong>2025-7-23</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c40ba11814db8eec373d9e47027a8f37_720w.jpg?source=8673f162" alt=""></figure>
+<p>时隔一个多月，这将是最后一次更新。也算是给众多喜爱我的粉丝一个交代。</p>
+<p>回顾年初那段时间，我来到四川成都，承载着朋友的热情，我来这里住下，将这原本荒废的院落重新整改。那个时候的我，是悲观的，是消极的，是厌世的。可是随着时间一点点推移，我的心态渐渐的发生变化。我无意间记录了我的当下生活状态，没想到一下子吸引了很多人来驻足观看。这让我受宠若惊。</p>
+<p>有人质疑，有人支持，有人羡慕，有人责骂，在这里，有很多人想帮助我，再次我对你们说声谢谢。谢谢你们能如此对待这样一个不能入世的人。也谢谢你们让我一点点打开心扉。</p>
+<p>我在成都这段时间，收获了友情，也成长了很多。当我意识到生命是一场旅程的时候，我开始认真的观赏路边的每一颗花花草草。原来，它们也有自己的价值。</p>
+<p>明天，我就再次踏上西藏的骑行之路。前方依然有美景，也有艰辛。可是我会一直走下去。我会带着大家的期盼，认真的活着。</p>
+<p>这也是我最后一次更新此贴，以后这个帖子将不再更新。天下没有不散的筵席，也没有一直更新下去的文字，总有要结束的时刻。不过大家不用担心，帖子结束了，生活不会结束。</p>
+<p>再此，我再次谢谢大家对我的喜爱。我也忠诚祝福大家可以认真的活着。享受生活中的每一天。</p>
+<p>2025-7-23↑</p>
+<p>——————————————————</p>
 </div>
 </div>
 
+
+<div class="view-more"><a href="https://www.zhihu.com/question/296665682">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9788817</guid>
-                <pubDate>Fri, 10 Apr 2026 18:43:32 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9788847</guid>
+                <pubDate>Sat, 11 Apr 2026 01:51:41 GMT</pubDate>
             </item>
             
     </channel>
