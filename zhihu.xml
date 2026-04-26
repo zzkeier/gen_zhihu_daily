@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sat, 25 Apr 2026 18:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 02:11:54 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>媒体称每天做三顿饭，肺癌风险高 2.1 倍，真的是这样吗？油烟机怎样用能把风险降到最低？</title>
-                <link>http://daily.zhihu.com/story/9789181</link>
-                <description>注册营养师刘又姣，2024全国营养师技能大赛一等奖，2025年湖北省科普大使 查看知乎原文 如果你去问一个欧美医生： “什么样的女性最容易得肺癌？” 他很可能会回答： “吸烟的女性。” 这没错。 美国 20-49 岁女性肺癌患者中，72%有吸烟史。 但问中国胸外科医生，他会给你不同的答案。 他会告诉你： 相当一部分肺癌患者，是从不吸烟的女性。 数据不会说谎。 中国女性的吸烟率只有 2.1%[1]。…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-c863d50f714deccf3f8f5403a006a712.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>有人把蓝莓当消炎药吃，多吃蓝莓真能减轻身体炎症反应吗？</title>
+                <link>http://daily.zhihu.com/story/9789223</link>
+                <description>阿源老师，科普作者，医学硕士，科技公司创始人 查看知乎原文 不行的。 首先，蓝莓肯定是有抗炎成分的——花青素 这类物质本质上是一类多酚，进入人体后会参与一系列和氧化应激、炎症信号相关的通路。细胞实验和动物研究中，花青素可以降低 TNF-α、IL-6 等炎症因子的表达，同时影响 NF-κB、MAPK 等信号路径[1]。这些路径本身，正是慢性炎症反应的重要调控节点。 蓝莓花青素的健康效应、研究资料、影…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-3aa5b558ae10ce0997dbaa3732b12c67.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,179 +31,72 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-f73f726ed6f2ba7f915cf3ccbc46950e_l.jpg?source=8673f162">
-<span class="author">注册营养师刘又姣，</span><span class="bio">2024全国营养师技能大赛一等奖，2025年湖北省科普大使</span>
-<a href="https://www.zhihu.com/question/2026290085625164355/answer/2026323338784417047" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-9210e3294647ed0a29e2388d2d0d7af0_l.jpg?source=8673f162">
+<span class="author">阿源老师，</span><span class="bio">科普作者，医学硕士，科技公司创始人</span>
+<a href="https://www.zhihu.com/question/2024971982073066683/answer/2024985356542452887" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>如果你去问一个欧美医生：</p>
-<blockquote>“什么样的女性最容易得肺癌？”</blockquote>
-<p>他很可能会回答：</p>
-<blockquote>“吸烟的女性。”</blockquote>
-<p>这没错。</p>
-<p>美国 20-49 岁女性肺癌患者中，72%有吸烟史。</p>
-<p>但问中国胸外科医生，他会给你不同的答案。</p>
-<p>他会告诉你：</p>
-<blockquote><strong>相当一部分肺癌患者，是从不吸烟的女性。</strong></blockquote>
-<p>数据不会说谎。</p>
-<p>中国女性的吸烟率只<strong>有 2.1%</strong><sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-319fd45d599b020db847e2483d1af6f1_720w.jpg?source=8673f162" alt=""><figcaption>《中国吸烟危害健康报告 2020》</figcaption></figure>
-<p>但女性肺癌患者中，<strong>从不吸烟</strong>比例却高达<strong>86%</strong>。</p>
-<p>这是一个典型的“中国式悖论”：</p>
-<p>中国的男性肺癌患者中，<strong>82%</strong>都吸烟。</p>
-<p>但中国女性肺癌患者中，只有<strong>5.2%</strong>吸烟。</p>
-<p>是什么原因，导致<strong>95%不吸烟女性罹患肺癌</strong>？</p>
-<p>原因很多。</p>
-<p>最值得每一个家庭关注、也最容易被忽视的一个，就是——<strong>厨房油烟</strong>。</p>
-<p><strong>“2.1 倍”是真的吗？别被吓到，但别忽视</strong></p>
-<p>先说结论：<strong>这个数据不是标题党，它确实有权威研究的支持。</strong></p>
-<p>早在 2009 年，同济大学肿瘤研究所一项长达 5 年的流行病学调查就发现：</p>
-<blockquote><strong>中青年女性长期接触厨房高温油烟，患肺癌的危险性会增加 2-3 倍</strong>。</blockquote>
-<p>但请注意一个关键点：</p>
-<p><strong>“做一顿饭”不等于“风险立刻增加 2.1 倍”。</strong></p>
-<p>这个数据是说，<strong>长期、高频、缺乏防护的暴露</strong>。</p>
-<p>一项 2024 年发表的病例对照研究，给出更精确的描述：</p>
-<blockquote>只有<strong>成年时期和未成年时期都有厨房油烟暴露</strong>的人，肺癌风险才会飙升至<strong>3.45 倍。</strong><br>仅仅是成年时期暴露，风险约为<strong>1.97 倍</strong>。</blockquote>
-<p>用更通俗的话说：</p>
-<p><strong>每天做三顿饭，连续做几十年，不做任何防护。</strong></p>
-<p><strong>这种情况下，风险才真正逼近那个“2.1 倍”。</strong></p>
-<p>这和吸烟的逻辑一模一样：</p>
-<p>不是抽一根烟就得肺癌。</p>
-<p>而是<strong>日积月累的“剂量”</strong> ，最终压垮了你的肺。</p>
-<p><strong>厨房油烟里到底藏着什么“毒”？</strong></p>
-<p>目前研究发现，这类女性（<strong>东亚、不吸烟</strong>）的肺癌类型，以<strong>EGFR 突变腺癌</strong>为主。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9cf826486db3c07e6cc7344bdb03f5fe_720w.jpg?source=8673f162" alt=""><figcaption>人体共有 23 条染色体，EGFR 基因位于 7 号染色体上。亚洲人、女性、非吸烟者以及腺癌患者中，EGFR 突变率相对较高</figcaption></figure>
-<p>而上述突变位点，常常能发现<strong>多环芳烃</strong>或<strong>亚硝胺</strong>这两种致癌物质的特征。</p>
-<p>这两类物质多在<strong>煤的燃烧、尾气、油脂食物煎炸 / 熏烤和腌制食物</strong>中出现。</p>
-<p>很多人觉得油烟只是“呛人”，忍忍就过去了。</p>
-<p>你不知道的是，它里面已检测出<strong>超 300 种化学成分</strong>，好些都是<strong>“老牌致癌物”</strong>。</p>
-<p>评论区有知友说：</p>
-<blockquote>“为什么只提女性？厨师接触的油烟比家庭做饭多多了！”</blockquote>
-<p>这是一个好问题。</p>
-<p>台湾和哈佛联合开展，针对 35 万名厨师的研究结果显示：</p>
-<p><strong>中餐厨师</strong>患肺癌概率比非中餐厨师高出 1.69 倍</p>
-<p><strong>女厨师</strong>患肺癌概率，是<strong>男厨师</strong>的 2 倍（4.73vs2.12）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c26d6d50ed48e82c36e1363770b50881_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种差异，与女性的<strong>内分泌系统（性激素）、免疫系统</strong>都有关。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-31ce014287673968254c4de1103d0117_720w.jpg?source=8673f162" alt=""></figure>
-<p>继续说厨房油烟里的致癌物。主要有以下几种：</p>
-<p><strong>1. 苯并芘（多环芳烃的代表）</strong></p>
-<p>国际癌症研究机构认定的<strong>1 类致癌物</strong>（明确对人类致癌）。</p>
-<p>当油温超过 200℃时，生成量会急剧增加。</p>
-<p>你闻到的“糊味”“焦味”里，往往就有它。</p>
-<p><strong>2. 甲醛、丙烯醛</strong></p>
-<p>甲醛是<strong>1 类致癌物</strong>，丙烯醛是<strong>2A 类可能致癌物</strong>。</p>
-<p>它们不仅致癌，还会强烈刺激你的眼睛和呼吸道，让你做饭时不停咳嗽、流眼泪。</p>
-<p><strong><strong>3. PM2.5 细颗粒物</strong></strong></p>
-<p>通风不良的厨房里，高温油炸时 PM2.5 浓度可以飙升至<strong>800 微克 / 立方米。</strong></p>
-<p>是国家标准限值的<strong>15 倍以上</strong>。</p>
-<p>微小的颗粒可以钻进肺泡，甚至进入血液循环。</p>
-<p><strong><strong>4. 燃气燃烧产生的二氧化氮（NO₂）和苯</strong></strong></p>
-<p>这一点很多人完全没想到。</p>
-<p>你以为只有油烟有害？</p>
-<p>不，<strong>燃气灶本身就在“放毒”</strong>。</p>
-<p>斯坦福大学的一项研究发现，燃气灶开启后，室内<strong>二氧化氮</strong>浓度会急剧上升。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-11f55f0284d3b568d219c526f40e3e57_720w.jpg?source=8673f162" alt=""></figure>
-<p>哪怕只是烧一壶水，有害气体依然在释放。</p>
-<p>更可怕的是，<strong>关火后 2-3 小时，卧室里 NO₂浓度仍然降不到安全值以下</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-79ec1d00890b337d4c7b8fd20ff0dbe1_720w.jpg?source=8673f162" alt=""></figure>
-<p>还有研究指出，燃气灶和烤箱苯排放量为每分钟 2.8-6.5 微克，比其他电热设备高<strong>10-25 倍</strong>。</p>
-<p>苯，同样是<strong>1 类致癌物。</strong></p>
-<p>长期接触会增加白血病和淋巴瘤的风险。</p>
-<p>燃气不好，传统的燃料就安全了吗？</p>
-<p>国内很多地区，还在用<strong>木材和煤块</strong>做饭取暖。</p>
-<p>一项在云南宣威进行的调研表明：</p>
-<blockquote><strong>使用烟煤的女性，终生肺癌风险要比使用无烟煤的女性高 99 倍</strong>。</blockquote>
-<p>所以你看，<strong>厨房里的“烟火气”，其实是多种有害物质的“混合炸弹”</strong>。</p>
-<p><strong>油烟机到底有没有用？怎么用才最有效？</strong></p>
-<p>很多人说：“我家装了油烟机，没事了吧？”</p>
-<p>有用，但前提是——<strong>你得会用</strong>。</p>
-<p>斯坦福那项研究测试了<strong>外排式油烟机。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-09a14993007c4a5707d12e6ef4f70d83_720w.jpg?source=8673f162" alt=""><figcaption>这个范围很大，说明用得好和用得不好，效果天差地别</figcaption></figure>
-<p>结果显示它能将厨房 NO₂浓度降低<strong>10%-70%</strong>。</p>
-<p><strong>1. 门窗开法：不是全开，也不是全关</strong></p>
-<p>很多人做饭时把窗户大开，觉得通风好，</p>
-<p>其实不对。</p>
-<p>门窗全部大开，空气<strong>强对流</strong>，会把油烟吹散。</p>
-<p>超出油烟机吸入范围，反而降低吸烟效率。</p>
-<p>如果全部紧闭，厨房会变成负压区，油烟机吸力减弱，噪音变大。</p>
-<p><strong>正确做法是：把厨房门关上，窗户留 10 厘米缝。</strong></p>
-<p>既能保证新鲜空气补充进来，又不影响吸力。</p>
-<p><strong>2. 时间点：早开晚关</strong></p>
-<p><strong>开火前 3-5 分钟，就把油烟机打开。</strong></p>
-<p>燃气灶一点火，废气就已经开始产生了。</p>
-<p>不要等看到油烟了才开，那已经吸进去不少了。</p>
-<p><strong>炒完菜后，继续让油烟机运行至少 5-10 分钟。</strong></p>
-<p>因为厨房里还飘着大量 PM2.5 和有害气体。</p>
-<p>有研究指出，仅仅做到“早开晚关”这一项，就能将相关的患癌风险<strong>降低 51%</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-06a80343d07b9d53edaee99a265ed774_720w.jpg?source=8673f162" alt=""><figcaption>别说中国了。美国的抽油烟机使用率都并不高</figcaption></figure>
-<p><strong>3. 定期清洗：别只看外表</strong></p>
-<p>很多人只擦油烟机外壳，觉得外面干净就行了。</p>
-<p>真正影响排烟效果的，是<strong>风扇、涡轮和油盒</strong>。</p>
-<p>油垢堆积多了，排烟效率直线下降。</p>
-<p>高温下，油垢本身也会挥发产生有害物质。</p>
-<p><strong>建议：油网每月清洗一次，整机深度清洁每年一次，油盒一个月倒一次。</strong></p>
-<p><strong>4. 蒸煮炖也要开油烟机</strong></p>
-<p>觉得蒸馒头、煮汤没有油烟，就不用开了？</p>
-<p>错！</p>
-<p><strong>只要燃气燃烧，就会产生二氧化氮和一氧化碳</strong>。</p>
-<p>烧水时，废气一样会被人体吸进去。</p>
-<p>哪怕只是煮个面条，也请把油烟机打开。</p>
-<p><strong>除了油烟机，还有这 5 招能保命</strong></p>
-<p>油烟机是最后一道防线。</p>
-<p>更聪明的做法，是在源头就把风险降下来。</p>
-<p><strong>1. 改变烹饪方式</strong></p>
-<p>少做煎炸爆炒，多尝试<strong>蒸、煮、炖、凉拌</strong>。</p>
-<p>有一个“烹饪指数”可以参考：</p>
-<blockquote>每周煎、炸、炒的次数 × 年限，乘积<strong>≥110</strong>（比如每周 6 次爆炒，持续 20 年，就是 120）。</blockquote>
-<p>那就属于肺癌高风险人群。</p>
-<p>建议每年做一次<strong>低剂量胸部 CT</strong>。</p>
-<p><strong>2. 控制油温</strong></p>
-<p>别等油冒烟了再下菜。</p>
-<p>食用油达到烟点后，才会大量冒烟。</p>
-<p>这时，有害物质已经开始大量产生了。</p>
-<p>你可以用油温计，或者把一根木筷子伸进油里。</p>
-<p>当筷子周围出现小气泡时（约 160-180℃），就可以下菜了。</p>
-<p><strong>3. 选对油</strong></p>
-<p>高温烹饪时选择烟点高的油，比如<strong>精炼花生油、葵花籽油、茶籽油</strong>。</p>
-<p>食用油烟点的高低跟油脂的加工工艺息息相关。</p>
-<p><strong>“精炼”</strong>过的植物油，烟点更高。</p>
-<p>因为油脂精炼，可去除杂质，大大提高烟点。</p>
-<p>比如大豆和花生油，烟点在 160°C 左右，精炼之后能达到 230°C 以上。</p>
-<p><strong>有“初榨”“特级初榨”“冷榨”</strong>字样的，适合凉拌菜。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-957be33011dee3e8972b1134d15e2bd2_720w.jpg?source=8673f162" alt=""><figcaption>为什么肯德基用棕榈油油炸，因为烟点高</figcaption></figure>
-<p>千万不要反复使用炸过的油，致癌物含量翻倍。</p>
-<p><strong>4. 戴口罩（重油烟时）</strong></p>
-<p>偶尔做油炸、爆炒的时候，可以戴上<strong>防油性颗粒物的口罩（KP 系列）</strong> 。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4c43f7bf1ee5b3f52b58d9db5261d24b_720w.jpg?source=8673f162" alt=""><figcaption>根据 GB 2626-2019《呼吸防护 自吸过滤式防颗粒物呼吸器》中的分类，要达到防油烟目的，应选择可以防油性颗粒的 KP 类口罩</figcaption></figure>
-<p>普通 N95 口罩只能过滤非油性颗粒，对厨房油烟效果有限。</p>
-<p>虽然戴着做饭不太舒服，但关键时刻。</p>
-<p>它确实是“最后的保险”。</p>
-<hr>
-<p>厨房烟火气是家的味道，这没错。</p>
-<p>真正的爱，不是让那个天天为你做饭的人。</p>
-<p>默默承受，看不见的健康代价。</p>
+<p>不行的。</p>
+<p>首先，蓝莓肯定是有抗炎成分的——花青素</p>
+<p>这类物质本质上是一类多酚，进入人体后会参与一系列和氧化应激、炎症信号相关的通路。细胞实验和动物研究中，花青素可以降低 TNF-α、IL-6 等炎症因子的表达，同时影响 NF-κB、MAPK 等信号路径[1]。这些路径本身，正是慢性炎症反应的重要调控节点。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-86312adfb1e43f074bf3d9981b0309b1_720w.jpg?source=8673f162" alt=""><figcaption>蓝莓花青素的健康效应、研究资料、影响因素和潜在机制</figcaption></figure>
+<p>但是这是在“细胞环境”和“实验剂量”下观察到的，并不能直接等同人体，我们有强大的消化系统。</p>
+<p>大多数花青素并不会完整被吸收。在消化过程中，它们会被分解、转化，最终以各种小分子代谢产物的形式进入循环[1]。也就是说，真正发挥作用的是花青素在体内的代谢物。</p>
+<p>所以，蓝莓的摄入量和作用效果之间，并不是线性关系。</p>
+<p><strong>一、吃进去了，不等于身体真的用上了</strong></p>
+<p>很多人默认一个逻辑——既然花青素有抗炎作用，那多吃一点，总归更好。</p>
+<p>但从代谢过程来看，这个逻辑并不成立。</p>
+<p>花青素在小肠中的吸收比例本身就有限，大部分会进入结肠，被肠道菌群进一步分解[1]。不同人的菌群结构不同，分解后的产物种类和数量也不同，这会直接影响最终的生物效应。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-69fc027d4e89772ac5fb25000448a88f_720w.jpg?source=8673f162" alt=""><figcaption>蓝莓花青素摄入后的吸收、分布、代谢和排泄（ADME）过程</figcaption></figure>
+<p>换句话说，同样吃一份蓝莓，有些人可能产生较多具有活性的代谢物，有些人则相对有限。</p>
+<p>再往前一步看，花青素本身也不稳定。温度、光照、pH 变化都会影响其结构，使其在储存和消化过程中逐渐降解[1]。这意味着，即使是同样重量的蓝莓，不同来源、不同处理方式，其有效成分并不一致。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-06ef73c7c2bf10c40deba76c772d9abe_720w.jpg?source=8673f162" alt=""><figcaption>化学结构、生理因素、加工工艺和环境因素等不同因素都会产生影响</figcaption></figure>
+<p>所以“多吃蓝莓=更多抗炎效果”，在实际生理过程中，很难直接成立。</p>
+<p><strong>二、蓝莓在人体里是怎样体现抗炎效果的？</strong></p>
+<p>从人群研究来看，蓝莓确实和一些炎症相关指标存在关联。</p>
+<p>在不少心血管相关研究中，长期摄入富含花青素的食物，与血管内皮功能改善、血压下降以及炎症标志物降低有关[2]。这些变化通常是多因素共同作用的结果，其中包括抗氧化、改善血管舒张能力以及调节脂质代谢等路径。</p>
+<p>但这些研究有一个共同特点：干预是“整体饮食的一部分”，而不是单独依赖某一种食物。</p>
+<p>进一步看机制，<strong>花青素对炎症的影响，更多体现在“调节”</strong>，而不是直接抑制。</p>
+<p>例如，它们可以通过提高一氧化氮（NO）生物利用度改善血管功能，同时降低氧化应激水平，从而间接影响炎症状态[2]。这类作用往往比较温和，也依赖长期积累。</p>
+<p>这和很多人期待的那种快速消炎，不是同一类机制。</p>
+<p><strong>三、为什么很多人吃了蓝莓，会感觉身体更轻松了</strong></p>
+<p>这种体验并不少见，但很难简单归因于“炎症被压下去了”。</p>
+<p>一方面，蓝莓中的膳食纤维和多酚会影响肠道菌群结构，而肠道环境本身与炎症水平、情绪状态都有联系[1]。在一些研究设计中，蓝莓补充（约 48g 冻干粉，对应约 600 mg 花青素和 8 g 膳食纤维）被用于干预久坐且伴有轻度抑郁症状的人群，目标之一就是通过降低炎症相关通路，改善动力和行为状态[3]。</p>
+<p>另一方面，炎症与中枢神经系统之间存在交互。炎症因子升高时，会影响多巴胺相关通路，从而改变动机和行为表现[3]。如果炎症水平略有下降，人的主观感受可能会发生变化，比如更愿意活动、疲劳感减轻。</p>
+<p>这些变化，并不完全等同于“炎症被治好了”，更接近一种整体状态的微调。</p>
+<p><strong>四、真正需要区分的，是“饮食调节”和“治疗行为”</strong></p>
+<p>把蓝莓当作日常饮食的一部分，本身没有问题。</p>
+<p>它提供的花青素、膳食纤维以及其他多酚，确实参与了多条与炎症相关的生理路径[1-3]。在长期饮食结构中，这类食物可以作为一个稳定的“低强度调节因素”。</p>
+<p>但如果把它当作一种针对炎症的“干预手段”，甚至替代药物或系统性治疗，就是想多了。</p>
+<p>炎症本身是一个非常复杂的过程，涉及免疫系统、代谢状态、神经调节等多个层面。单一食物能够影响的，只是其中很小的一部分，而且作用幅度有限。</p>
+<p>当炎症来源明确，比如感染、自身免疫问题或慢性疾病，核心处理仍然依赖针对性治疗，而不是单纯依赖饮食。</p>
+<p>蓝莓可以参与这个系统，但很难单独改变系统。</p>
+<p>很多看似“有效”的体验，本质上是长期生活方式调整叠加的结果，而不是某一种食物的直接作用。</p>
+<p>参考文献</p>
+<p>[1]Ramzan R, Muhammad Z, Amjad A, et al. Enhanced bioavailability and health benefits of blueberry anthocyanins: an updated review on mechanisms and approaches. Molecules. 2026;31(5):793.</p>
+<p>[2]Arshad MT, Maqsood S, Ikram A, Abdullahi MA. Recent perspectives on the role of anthocyanins in blueberries (Vaccinium spp.) against cardiovascular diseases and their complications: an updated review. eFood. 2025;6:e70072.</p>
+<p>[3]Millar CL, Wolfe A, Baldyga K, et al. Berries and steps: a protocol of a randomized, placebo-controlled pilot study testing freeze-dried blueberry powder in sedentary older adults with mild depressive symptoms. Nutrition Journal. 2025;24:87.</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2026290085625164355">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2024971982073066683">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789181</guid>
-                <pubDate>Sat, 25 Apr 2026 18:41:58 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789223</guid>
+                <pubDate>Sun, 26 Apr 2026 02:11:51 GMT</pubDate>
             </item>
             
             <item>
-                <title>一角钱为什么叫一毛钱？</title>
-                <link>http://daily.zhihu.com/story/9789188</link>
-                <description>晴耕雨读的浣熊君，在知乎撂地的闲散科普创作者，争取每周双更 查看知乎原文 前边已经有答主解释过，我们今天代称“角”为“毛”，最早就是起源自东南沿海地区，尤其是广东在晚清民国铸造的银辅币，也就是所谓的毫子。 《二十年目睹之怪现状》也有讲过，一个因为傍洋老头发财的咸水妹，拿这种零钱用的桥段，说她&quot;咸水妹又在衣袋里随意抓了十来个毫子给他&quot;。 之所以找零钱用的是小银币而不用铜钱，也是因为在鸦片战争前的中国…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-87d0b7cf23f2634f75a08aef4eacb21e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>专家称花洒中病菌是自来水的百倍，易引发感染，建议每 3 月清洁一次，真有如此严重吗？多久清洗一次合适？</title>
+                <link>http://daily.zhihu.com/story/9789235</link>
+                <description>SUNNY CHAN，「林研智库」委员｜人居环境安全专家｜二喵监工的家居家电实验室 查看知乎原文 话不多说咱依然还是直接给他实测一下！ 这次是自己家用了六年的包浆传世花洒（印象中似乎从未拆下来刷洗或者泡过白醋什么的），测一下已经 20 多个小时没开过的蓬蓬头里的余水，检测结果——啊咧，细菌值才这么点的吗？ 真相戳⬇️ 测试对象： 我家老房子这个花洒，用了六年了大概，我们家有人喜欢用顶上的大喷头，有…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-f6cc714d0496a240f1d02b4c531419f7.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -223,58 +116,70 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-cef37bf0392e114344d6b861bb1ba938_l.jpg?source=8673f162">
-<span class="author">晴耕雨读的浣熊君，</span><span class="bio">在知乎撂地的闲散科普创作者，争取每周双更</span>
-<a href="https://www.zhihu.com/question/1935471165800939619/answer/1935665812313707122" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/e85b6b147_l.jpg?source=8673f162">
+<span class="author">SUNNY CHAN，</span><span class="bio">「林研智库」委员｜人居环境安全专家｜二喵监工的家居家电实验室</span>
+<a href="https://www.zhihu.com/question/2027419326609712950/answer/2027761799370478558" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>前边已经有答主解释过，我们今天代称“角”为“毛”，最早就是起源自东南沿海地区，尤其是广东在晚清民国铸造的银辅币，也就是所谓的毫子。</p>
-<p>《二十年目睹之怪现状》也有讲过，一个因为傍洋老头发财的咸水妹，拿这种零钱用的桥段，说她"咸水妹又在衣袋里随意抓了十来个毫子给他"。</p>
-<p>之所以找零钱用的是小银币而不用铜钱，也是因为在鸦片战争前的中国东南沿海地区有比较严重的银贵钱贱现象，铜钱的购买力早就不能承担平时交易的需求了，就好像买东西现在人也不会带一大堆硬币一样。</p>
-<p>越是如江浙、广东等繁华所在，依赖白银的情况越严重，除了极其日常的吃穿用度使用环境外，但凡想要置办个物件就需要掏银子。</p>
-<p>所以在道光十三年（1833）四月，时任江苏巡抚的林则徐与两江总督陶澍联名上奏，此事在《林则徐集·奏稿》中的《会奏查议银贵钱贱除弊便民事宜折》亦有记载</p>
-<blockquote>“<strong>至民间日用，除零星小数始用钱文，其稍大者皆用银。而用银之处，弊病尤多。”</strong></blockquote>
-<p>因为对于朝廷来说，民间大量使用白银交易爽是爽，但也意味着交易过程中有着大量火耗磨损，整块的银子或银元经常被剪开，散碎称重使用，这样一来就让不法分子有了可乘之机</p>
-<blockquote><strong>盖市肆交易，或将整锭之银剪为细块，名曰‘碎银’。每次剪时，轻重不能适中，非多即少。更有奸徒，于剪口之处，或灌以铜铅，或补以他锡。及至倾熔成锭，所耗不赀。是以商民交困，而银价日昂。此剪凿之弊也。</strong></blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d7e4a9edd5ae1269bbd0007830e29de_720w.jpg?source=8673f162" alt=""><figcaption>黄花梨的一副戥子，也就是称银两的小称子</figcaption></figure>
-<p>在江苏人们剪的大多还是清政府熔炼的银锭元宝等，而在有外贸方便的广东，剪的大多就是洋人的银元了，《粤海关志》卷二十三《贡舶三·夷商》记载过在民间流通银币交易</p>
-<blockquote><strong>小民日用零星，则多将洋银凿为数块，每块重数分、钱余不等，以便分用。粤人呼为‘碎银’，亦曰‘坎银’。</strong></blockquote>
-<p>那么既然市场上有着切割银元的需求，自然也有干这行的手艺，彭信威的《中国货币史》第七章《清代的货币》第三节《白银和银币》中就讲过，福建漳州一带有一种手艺叫“割辫”，就是切割银元的工艺手法。</p>
-<blockquote><strong>通行所谓‘割辫’的办法，就是把银元切成两半，叫做‘半块’或‘对开’；切成四块叫‘四开’或‘角子’；切成八块叫‘八开’或‘撬边’。</strong></blockquote>
-<p>这些将一块银元分割的方式在民间有着极强的影响力，比如说在《我的团长我的团》里边，有一段是讲龙文章收到 1000 半开当做军饷，在缅甸战场这就属于是发了邪财了，毕竟这是实实在在的白银而不是纸张的钞票。</p>
-<p>这里所说的半开，其实就是面额为 0.5 元的云南省造半开银元，以采用滇银矿坑“库平三钱六分”高保值出名，在缅甸那可是远超法币的硬通货。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e762cddf343079dab30d0b14ef726d88_720w.jpg?source=8673f162" alt=""><figcaption>满饷不可敌の团长</figcaption></figure>
-<p>也是因为分割银元的这种方式，所以日后各国政府的纸币面额，划分大多都是以 1、2、5 角为主，比如说在现在小孩眼里已经快成为都市传说的 2 角人民币()</p>
-<p>如果我们将半开视为是 5 角，那么真正的一毛钱则出现在 19 世纪后半叶生产的广东光绪元宝，其中的银毫，便出现了壹毫、贰毫，以及少量的半毫也就是伍分的小面额辅币。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-20bb43ed31960fcc94c83f7c6a2130a1_720w.jpg?source=8673f162" alt=""></figure>
-<p>这一版中，毫已经成为了官方规定的计量单位，在华南地区尤其是两广福建，以及香港流通，这一称呼也随之广而告之，渐渐从金融行业术语成为了一种惯例甚至是俗语，尤其在南方各地的方言和口头用语中存在。</p>
-<p>但有趣的是，作为中国银元铸造的先锋之一，广东省在辛亥革命后，依然继续采用了“毫”这一单位。</p>
-<p>直到 1927 年以后改铸孙中山像银元时，广东省铸的辅币依然用“毫”，而简写和简称为“毛”的习惯也很快北上传播，并成为了零钱的代名词，这一称呼连续用了龙洋、袁大头、孙像三代银元，并且成为了一种习惯直到今天。</p>
-<hr>
-<p>这里是浣熊君，一个在知乎撂地的闲散作者</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1935106429632639568/answer/1935319468030026746">中世纪欧洲农奴结婚时，行使「初夜权」的领主身份如何确定？是基于新郎所属的庄园，还是新娘所属的庄园？</a><a class="internal" href="https://www.zhihu.com/question/1934270840310052020/answer/1934639136981096401">现在世界上除了中国和英国喜欢喝茶，还有历史上一直就喜欢喝茶的国家吗（日子棒子不算，东大传过去的）?</a></p>
-<p><a class="internal" href="https://www.zhihu.com/question/1933825312900220583/answer/1933862435888010475">释永信、释学诚、释小龙，僧人改“释”姓从何时开始的？</a></p>
+<p>话不多说咱依然还是<strong>直接给他实测一下</strong>！</p>
+<p>这次是自己家用了六年的包浆传世花洒（印象中似乎从未拆下来刷洗或者泡过白醋什么的），测一下已经 20 多个小时没开过的蓬蓬头里的余水，检测结果——啊咧，细菌值才这么点的吗？</p>
+<p>真相戳⬇️</p>
+<p><strong>测试对象：</strong></p>
+<p>我家老房子这个花洒，用了六年了大概，我们家有人喜欢用顶上的大喷头，有人喜欢用下面的小喷头，我就几乎只用下面这个，也从未拆下来清洗去水垢或者泡白醋消毒之类的玩意，刚近距离看了下似乎确实水垢已经很多了，打算下午拆下来泡一下柠檬酸完事儿。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-646f2729046525f009003e4a3d504096_720w.jpg?source=8673f162" alt=""><figcaption>看上去很脏了有木有，其实就是水垢啦——图源：自拍</figcaption></figure>
+<p>为了保持“原生态”，测一下内部长期潴留的余水——这应该是最糟糕的状态了吧我觉得——把花洒取下来蓬蓬头放到最低海拔让它流出一点已经库存了 20 来个小时的水，ATP 水拭子取样走起！</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7bcb7e7fe8717f1548bdc2a0bcf74d79_720w.jpg?source=8673f162" alt=""><figcaption>内部潴留水取样——图源：自拍</figcaption></figure>
+<p>下面祭出咱们的美国海净纳 Hygiena SystemSURE Plus ATP 荧光检测仪，这东西价格一两万，数据还是将就能看的，那么，我们看看到底有几万个细菌宝宝呢：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-81d3494ad06fda53423ef6198f0639c8_720w.jpg?source=8673f162" alt=""><figcaption>ATP 测试结果——图源：自拍</figcaption></figure>
+<p>哎呀，怎么才这么点儿，和想象中无边无际的细菌军团画风似乎略微有一点小偏差呢？</p>
+<p>这个细菌量咱就是说，和没有细菌也差不多少吧，比室内常用物品几乎任何一个表面（粗糙干纤维什么的或者抗菌材料那些除外）估计都要少点儿。</p>
+<p>好，接下来咱们开闸放水，看看半分钟以后又当如何呢？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f101e6747825fbd9d29d26dbdad25e35_720w.jpg?source=8673f162" alt=""><figcaption>计时器走起——图源：自己现截的</figcaption></figure>
+<p>切到最小水量档位放水 30 秒以后咱拿出第二根水拭子去蹭一下水流：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-224017fd1220533fe6a03003486e7163_720w.jpg?source=8673f162" alt=""><figcaption>放水 30 秒之后水拭子取样——图源：自拍</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f5c0ce4ff964fa60991f0ec98e84d36a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d90888885951a0ca39c872a341cf4bc7_720w.jpg?source=8673f162" alt=""><figcaption>最小水量档放水 30 秒之后的含菌量——图源：自拍</figcaption></figure>
+<p>它是 0 啊，额的个娘亲咧，它不是 999，也不是 99，它直接就干到 0 了！家人们，宝子们，咱们今天的折扣力度还满意吧！满意那就赶紧的下单（啊不是~</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ae9c793e6edf7233e5c17822a49da8a5_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>那为什么自来水里的细菌其实并不多呢？</strong></p>
+<p><strong>——因为正常来说，至少咱们国家的，自来水，那本身就没啥细菌啊！</strong></p>
+<p>其实我之前也不止一次测过自来水中的细菌，要么是 0，要么是 1，当然主要还是 0（什么大成都特色二进制）。</p>
+<p>那么列位亲，介四为嘛呢？</p>
+<p>因为啊，自来水厂为了保证全程无菌效果，会多安排一丢丢氯，所以咱们自来水龙头出来的水里边是有一点点余氯的。放心这东西没啥致癌性，顶多对敏感肌有微量的刺激啥的，当然比起细菌残留来说我觉得这点可能的刺激完全是无所谓的。</p>
+<p>我之前测试净水器净化效果的时候测过自来水中的余氯，我们可以看到净化之前确实是有一点的：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9c549975d0a8cdb38da09a63ac03144c_720w.jpg?source=8673f162" alt=""><figcaption>自来水中的余氯存在保证了几乎无菌的效果——图源：自拍</figcaption></figure>
+<p>正是自来水中余氯的存在保证了几乎无菌的效果——等等，为啥说几乎呢？</p>
+<p>那是因为：一方面高层住户都需要二次供水，二次供水系统老化或清洁不及时可能会产生超过余氯处理能力的细菌残余；二是自来水中也会存在一些耐氯菌，虽然常规的氯消毒技术一直是保障饮用水生物安全性的核心手段而且极为高效，不过人们逐渐发现，在饮用水体系中，部分细菌对氯消毒剂表现出高耐受性，这类细菌被定义为耐氯菌（Chlorine resistant bacteria, CRB）。顾名思义，耐氯菌能够一定程度逃逸氯消毒作用得以存活，成为常规消杀手段的漏网之鱼，因此我们有时候也能在自来水中测出极少量的 ATP 比如我打开很长一段时间没开过的厨房水龙头就测了一个 1 出来：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-35d7fb08a8e80ee0f41412d73df70fee_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-398d0c7cd1c9a00a456aabc5ef4090e9_720w.jpg?source=8673f162" alt=""></figure>
+<p>但更多时候都是 0 啦哈哈！</p>
+<p>咱就是说，媒体咋就这么喜欢搞个大新闻的呢？如果自来水是受啊不，是 0，众所周知 0 不能做分母，就算有多少细菌也不能说几百倍；如果自来水是 1，那测出来这么点也就十几倍，远远说不上百倍什么的吧——当然咱们也不能排除有些小区二次供水系统长期未清洗或者蓬蓬头不晓得干啥了真的很脏这样一些情况——但个人以为，正常情况下应该不会普遍很多才对。</p>
+<p>而且就算是有，你让他先放一会儿再洗不也就没多少了吗，30 秒不算多吧，谁家好人上去就开了直接冲的啊，就算零冷水系统打开先放一小会儿（比如 30 秒）再洗我觉得也不算是罕见吧？</p>
+<p>当然，我还是要声明一下：</p>
+<p><strong>——本次测试为个例，仅供参考</strong>！</p>
+<p>扩展阅读：上次关于电饭煲保温期间会细菌爆棚的大新闻实测结果可移步这里：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/2021897595077837439/answer/2022435089825498315">媒体称电饭煲保温超 4 小时将繁殖细菌，甚至产生致癌物，是真的吗？我们日常使用电饭煲时还要注意什么？</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1935471165800939619">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2027419326609712950">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789188</guid>
-                <pubDate>Sat, 25 Apr 2026 18:41:59 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789235</guid>
+                <pubDate>Sun, 26 Apr 2026 02:11:52 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么在中国用香水容易被嫌弃？</title>
-                <link>http://daily.zhihu.com/story/9789189</link>
-                <description>nell nell，你很动人 查看知乎原文 其实“香”这个东西，最开始就是一种宗教的表达。 英文的“perfume”，“fume 就是烟，“per fume”意思是“通过烟”（through smoke），也就是把香料放在火上焚烧，让香气随着烟升上去——献给神。 中文的“香”也是会意字，它的甲骨文长这样： 你看像啥？ — 付航？ — 别闹！ 成熟的谷物对吧？ “香”这个字，最初的意思就是谷物煮熟后…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c3af9984c162887d1e16871216cc0149.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么以前的自行车容易掉链子，现在的共享单车，基本上不会掉链子？</title>
+                <link>http://daily.zhihu.com/story/9789241</link>
+                <description>铝制铭，INTP，机械结构工程师 查看知乎原文 先说结论，这件事情一定程度上算是中国工业发展成果的一个体现。 具体来讲，现在很少掉链条这件事，是车架以及传动系统材料，工艺，设计的全方位优化的结果。是这么些年自行车行业工艺技术发展的一个结果。 链条掉落这件事，本质上就是链条和牙盘不在同一平面了，牙盘齿不能顺畅的与链条的链节孔啮合，导致的脱链。 从车架角度： 以前的民用自行车，大家俗称的买菜车，或者 …</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-33961f6831f79be289f9510ee6ea97ef.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -294,66 +199,48 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-5dccc4ae6a1e34c95be659af22f30cc2_l.jpg?source=8673f162">
-<span class="author">nell nell，</span><span class="bio">你很动人</span>
-<a href="https://www.zhihu.com/question/26984941/answer/2024780791608091828" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-7b4e7830a2ce6267bc1ff95e6fa725d8_l.jpg?source=8673f162">
+<span class="author">铝制铭，</span><span class="bio">INTP，机械结构工程师</span>
+<a href="https://www.zhihu.com/question/2021664161407475783/answer/2028088780188390009" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>其实“香”这个东西，最开始就是一种宗教的表达。</p>
-<p>英文的“perfume”，“fume 就是烟，“per fume”意思是“通过烟”（through smoke），也就是把香料放在火上焚烧，让香气随着烟升上去——献给神。</p>
-<p>中文的“香”也是会意字，它的甲骨文长这样：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-93367dbbdcce0ba1bc4dc1b315c27365_720w.jpg?source=8673f162" alt=""></figure>
-<p>你看像啥？</p>
-<p>— 付航？</p>
-<p>— 别闹！</p>
-<p>成熟的谷物对吧？</p>
-<p>“香”这个字，最初的意思就是谷物煮熟后散发的香气，这香气也是献给神的。</p>
-<p>古人认为神不直接吃祭品，只能通过吸食食物散发出的气味悦纳人的献祭，所以无论东方还是西方，最开始调制香薰，都是为了宗教的目的。</p>
-<p>但后来为什么在西方演变成了香水，在我们这里就没有？</p>
-<p>这里面既有生理因素也有文化因素。</p>
-<p>生理因素是相较于西方人，我们确实没有太大体味。</p>
-<p>这一方面和饮食有关，另一方面也和基因有关。东亚人群中有一个比例很高的基因变体（ABCC11），这个基因决定人类耳垢类型和腋下分泌物类型，高达 80-95%的东亚人都具有这个突变。结果就是东亚人几乎没什么特别的体味。但欧洲、中东、印度那些地方的人，体味就很明显了。所以他们本来就比我们更需要处理身体异味的问题。</p>
-<p>除此之外，东西方对香的理解也有分歧。</p>
-<p>其实在中世纪以前，西方教会是不允许在宗教礼仪之外使用香的。特别是奥古斯丁非常反感任何与身体享受、装饰相关的东西，当然包括个人用香这种行为。</p>
-<p>转折是发生在文艺复兴、启蒙运动之后。人的地位开始被抬高，上帝的地位开始下降，导致很多过去的禁忌被打破，这当中就包括“香的世俗化”。</p>
-<p>过去是人通过焚香去接近神，现在是人通过涂香水来呈现和表达自己。这其实是宗教世俗化之后，人对神的一个小小的挑衅和反抗的姿态。</p>
-<p>所以直到今天，选择什么样的香水依然保留了这样一层含义在里面，就是你想表达怎样的一种态度，展现一种怎样的人格魅力，而不仅仅是掩盖体味就完了。</p>
-<p>个性表达比好不好闻更重要。所以，咱就是说，有的香型也不比体味好到哪去。。。就是这个原因。</p>
-<p>而在东亚这边，香的发展是走了一条不一样的路径。</p>
-<p>因为中国去宗教化的人文革命发生的太早了，从三千年前周人摒弃商人的鬼神崇拜、建立以“天命”为核心的思想体系就已经完成了。所以中国人没有个人用香等于罪恶的包袱。</p>
-<p>再加上我们也没什么体味，所以从一开始就没有想过要把“香”发展成一种贴在身体上的个性的、叛逆的表达。</p>
-<p>我们的思路是，香是自然界中的一种广泛存在的<strong>可以利用的资源</strong>。就像风雨云露、花草鸟兽，是可以纳入到中国的整体性的文化系统中的东西。</p>
-<p>在西方，香是身体的，是个性标签；在中国，香是大自然的馈赠，是不依附于身体的，但可以为人所用来营造氛围、调剂生活、甚至进行疗愈的功能性物品。</p>
-<p>中国传统文人其实非常讲究香，甚至经常自己参与调香。但他们都不是制作香水往身上擦，而是用焚香的方法，让香在空间中自由发挥，人是在香中自然而然的受到熏陶。这种是间接的、空间性的使用方法。</p>
-<p>我们还会把香作为一种医疗手段来使用。比如很多古人身上都会佩戴香囊，这不是纯为了好看好闻，这些香囊里装的都是药材，主要还是用来防虫、避秽、提神的。属于最早的可穿戴医疗装置了。</p>
-<p>所以中国人是把气味优先纳入了“身体管理系统”，而不是西方的“身份表达系统”。</p>
-<p>我们是功能性的使用香，用香来营造氛围、疗愈身体。自我表达并不在我们传统用香的考虑范围内。其实现在也有很多人是把花露水当香水来用的。</p>
-<p>所以在中国用香水，特别是浓重味道的香水会被嫌弃，主要是因为这确实是西方的文化传统，和中国普遍的对香的理解和应用是截然不同的路径。</p>
-<p>而且人的嗅觉又是唯一一个直接进入情绪系统的感官，不像视觉、听觉都要先经过复杂的信号处理才能被感知。所以当气味进入大脑后，你来不及理性分析，就会直接唤起某种情绪和记忆。而这些情绪和记忆都是和我们千百年来香的实践密不可分的。</p>
-<p>可以说我们在基因里就抵触那些个人身上散发出的浓烈味道。在中国如果要用好香水，让周围人感觉愉悦，可以尝试我们更习惯的<strong>间接的、空间性的原则</strong>。也就是不把气味放在身体上，而是通过环境、物品、介质，让人“在香中”，而不是“带着香”。</p>
-<p>比如在屋子中使用香薰，在床品上用香水，在摆放衣物的抽屉和衣柜里挂一些香袋，或者佩戴有香气的手串、手帕等随身物，也可以仅仅就是买些味道好闻的沐浴液、洗发水，每天勤洗澡就好了。</p>
-<p>总之原则就是只有靠近到一定距离才能闻到，而且气味也是若有若无就好，切忌对他人产生刺激的香型，在国外还好，在国内很多地方恐怕都会被视为骚扰了。</p>
+<p>先说结论，这件事情一定程度上算是中国工业发展成果的一个体现。</p>
+<p>具体来讲，现在很少掉链条这件事，是车架以及传动系统材料，工艺，设计的全方位优化的结果。是这么些年自行车行业工艺技术发展的一个结果。</p>
+<p>链条掉落这件事，本质上就是链条和牙盘不在同一平面了，牙盘齿不能顺畅的与链条的链节孔啮合，导致的脱链。</p>
+<p>从<strong>车架</strong>角度：</p>
+<p>以前的民用自行车，大家俗称的买菜车，或者 28 杠等等，车架材料通常是高碳钢，管径很细，勾爪部位通常就是钢管直接拍扁以后开槽，把轮轴卡进去。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-bfe393ce87c90e58b162687632668cb0_720w.jpg?source=8673f162" alt=""><figcaption>甚至上叉也是拍扁以后铆接的</figcaption></figure>
+<p>由此带来的结果就是，车架的踩踏刚性比较差，在发力的时候，五通或者后轮，就会一定程度的偏离车架中心面，牙盘的飞轮就会出现比较大幅度的错位，导致链线偏斜。</p>
+<p>而共享单车，现在已经全面铝合金化了，勾爪厚度普遍是 7mm 以上的铝板，车架管材也都是管径很粗的铝管，车架本身的踩踏刚性，后轮和勾爪的安装稳固程度，都有了非常大的优化。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-036dff5e717ba904966ab5301ae24905_720w.jpg?source=8673f162" alt=""></figure>
+<p>从<strong>曲柄牙盘</strong>角度：</p>
+<p>老式的自行车通常用的是销钉式的中轴，中轴就是一根圆棒插进曲柄，通过一根销钉实现中轴和区别的链接，这种链接实际上是相当不稳固的，抛开时间长了松动不谈，即使安装牢固了，本身的组合刚性也很差，踩踏的时候会出现比较明显的变形，导致链线偏移。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dcd3f8c9213896b0d3e3cdb26716314d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aadfc194c05ab321f4d871455a40c4af_720w.jpg?source=8673f162" alt=""></figure>
+<p>而共享单车使用的是更粗可靠性更强的方孔中轴，采用密封轴承，锥面方孔压入曲柄，再加上更厚实的盘片，不论是单个零件本身的刚性和可靠性，还是中轴和曲柄，曲柄和牙盘的组合方式都普遍更稳固，不会导致链线大幅的偏移，也不容易发生松脱晃动等等导致掉链。</p>
+<p>而从<strong>链条</strong>角度来看，老式自行车的链条，材质普通，也没有设计针对优化牙盘啮合的倒角，所以本身链条的磨损速度更快，以及对于链线偏移的适应能力，也不如现在的链条。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-60c5c7c756a4ab26b9a95e301250d8d2_720w.jpg?source=8673f162" alt=""><figcaption>哪怕这么污糟糟的照片，也能看得出内链片边缘的倒角痕迹</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/26984941">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2021664161407475783">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789189</guid>
-                <pubDate>Sat, 25 Apr 2026 18:42:00 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789241</guid>
+                <pubDate>Sun, 26 Apr 2026 02:11:53 GMT</pubDate>
             </item>
             
             <item>
-                <title>人类基因是一套屎山代码吗？</title>
-                <link>http://daily.zhihu.com/story/9789192</link>
-                <description>Dunkirk，勇气与真意 查看知乎原文 人类基因组大约有 30 亿个碱基对，但真正用来编码蛋白质的部分只占不到 2%。剩下将近 98%，里面堆满了各种东西：失去功能的假基因，曾经能用，后来突变坏掉了，但就这么留着没被清除；转座子的残骸，一种会自我复制、到处乱插入的寄生序列，光这一类就占了将近一半的基因组；还有数不清的重复片段，有些短序列在基因组里重复出现几十万次，没有人知道为什么。 很长一段时间…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-1464445c690c37117aae0306f943b9ba.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>14 岁初中生自学微积分半年「手搓」出一台航空发动机，含金量如何？对青少年教育有何启示？</title>
+                <link>http://daily.zhihu.com/story/9789243</link>
+                <description>知乎用户 查看知乎原文 微型航发我不评价，但是对比一下这张草图，同样是火箭，这是哥们 15 岁的时候画的东西： 运力指标是用计算器嗯敲齐氏方程算的 请无视严重过轻的超级天顶星氢氧二级指标 当时毕竟才初二，太年轻，太简单，有时候很拿衣服，导致很多指标过于乐观，总体参数也过于想当然，虽然现在回头看来“想象力”是挺丰富的（笑） 这款架空运载火箭的设计在此后的数年里又经历了多次迭代，构型也不断变化，但总的…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5202ab126b08a18a416116b8c1149350.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -373,37 +260,213 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-e04c76f0e1e90547916705f714d9ddd8_l.jpg?source=8673f162">
-<span class="author">Dunkirk，</span><span class="bio">勇气与真意</span>
-<a href="https://www.zhihu.com/question/579039786/answer/2018805556085813283" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户</span>
+<a href="https://www.zhihu.com/question/2027325698818286789/answer/2028231727223457034" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>人类基因组大约有 30 亿个碱基对，但真正用来编码蛋白质的部分只占不到 2%。剩下将近 98%，里面堆满了各种东西：失去功能的假基因，曾经能用，后来突变坏掉了，但就这么留着没被清除；转座子的残骸，一种会自我复制、到处乱插入的寄生序列，光这一类就占了将近一半的基因组；还有数不清的重复片段，有些短序列在基因组里重复出现几十万次，没有人知道为什么。</p>
-<p>很长一段时间里，这些东西被统称为垃圾 DNA。这非常像一个几十年的老项目，里面全是注释掉的函数、废弃的模块、没人敢动的死代码，因为没有人确定它们是不是真的没用。</p>
-<p>然后是内含子。一个基因在被转录成 RNA 之后，里面大量的片段需要先被剪掉，剩下的部分拼接在一起，才能用来合成蛋白质。被剪掉的叫内含子，留下来的叫外显子。人类基因里内含子的比例远大于外显子，有些基因超过 95%都是内含子。整个过程相当于写了一万行代码，运行之前要先自动删掉九千行，再把剩下的拼起来才能执行。更麻烦的是同一个基因还可以通过不同的剪接方式产生结构和功能都不同的蛋白质，这叫可变剪接。人类基因数量大约只有两万个，但蛋白质种类远不止这个数，很大程度上就靠这个机制。同一段源代码，在不同条件下剪出完全不同的版本，行为各异。从复用的角度看勉强算聪明，从可维护性的角度看是彻底的灾难。</p>
-<p>基因组里还有一类叫内源性逆转录病毒的东西。人类基因组里大约 8%的序列来自古代逆转录病毒，它们在某个时间点感染了我们的祖先，把自己的基因组插进了宿主 DNA，然后病毒死了，但插入的序列就这么一代代遗传下来。其中一些后来被身体改造成了有用的东西，比如胎盘形成过程中用到的合胞素蛋白，就来源于古病毒的包膜蛋白基因。这相当于当年被注入的一段恶意代码，后来被主系统改造成了自己的基础设施，将错就错，还真的跑起来了。</p>
-<p>有一类叫增强子的调控序列，它可以在距离目标基因几十万甚至几百万碱基对之外的地方，通过 DNA 在空间上的折叠弯曲，远程影响目标基因的表达。一个增强子可以调控多个基因，一个基因也可以被多个增强子调控，调用关系不是线性的，是通过三维空间结构实现的，根本看不出来谁在影响谁。这相当于代码库里存在大量全局变量和远程调用，而且所有依赖关系只有在把整个代码库在三维空间里折叠起来之后才看得清楚。</p>
-<p>还有一个现象叫基因多效性，意思是一个基因往往同时参与多个完全不相干的生理过程。P53 基因既参与抑制肿瘤，又调控细胞周期，还涉及 DNA 修复和细胞凋亡。这种高度耦合在软件工程里是教科书级别的反模式，一个函数同时承担七八种职责，牵一发而动全身，让人想重构都不知道该从哪里下手。</p>
-<p>基因组里也存在很多没有人敢动的区域。有些序列在从鱼到人几亿年的进化过程中几乎一字未改，高度保守。按理说，如果一段序列真的无关紧要，进化早就把它改得面目全非了。保持不变说明它非常重要，但很多至今我们不知道它在做什么。这就是那种典型的屎山，不知道做什么，但谁也不敢删。</p>
-<p>我们今天还保留着控制鳃弓发育的基因，在胚胎早期会短暂出现类似鳃的结构，然后消失。我们还带着一段合成维生素 C 的基因的残骸，这个基因在某个祖先身上突变坏掉了，我们就这么带着一段损坏的代码一路活到了今天。最典型的是喉返神经，它连接大脑和喉咙，本来走几厘米就够了，但实际上要绕过心脏和主动脉，在人体里走将近一米的弯路。这是因为在鱼类祖先身上这条路径是合理的，后来颈部和胸腔的结构变了，但神经的走线从来没有被重新规划，就这么将错就错地延续了几亿年。</p>
-<p>如果基因组是精心设计的，越复杂的生物应该有越大的基因组。但现实情况是，某些蝾螈的基因组是人类的十倍，有一种叫巴黎草的野花，基因组是人类的五十倍。代码量和系统复杂度完全脱钩，这在任何正经的工程项目里都意味着存在大量冗余和膨胀。</p>
-<p>Y 染色体是另一个值得单独说的案例。哺乳动物的祖先，X 和 Y 染色体最初大小相当，基因数量接近。但在几亿年里，Y 染色体持续萎缩，基因从最初的数百个降到今天不足百个。原因是 Y 染色体没办法像其他染色体那样通过交叉互换来修复自身的突变，错误只能不断积累，功能基因一个个消失。这是一个因为架构限制导致无法自我修复、只能持续退化的模块，而且目前没有任何迹象表明这个过程会停止。</p>
-<p>DNA 修复机制也一样是屎山。基因组本身并不稳定，每天每个细胞的 DNA 都会发生数以万计的损伤，来自辐射、氧化压力、复制错误。为了应对这些损伤，细胞演化出了十几种不同的修复机制，各管一类问题，互相之间有备份和协调，整套系统涉及数百个蛋白质。这像是一个在生产环境上不断打补丁的系统，每出现一类新问题就再加一套应对机制，久而久之，补丁比原始代码还复杂，而且各种补丁之间的相互关系没有人完整地理清楚过。</p>
-<p>所以我们的基因组不只是一段没有注释的老代码，它同时还是一个混入了大量历史病毒注入、模块之间高度耦合、调用关系靠三维折叠实现、文档近乎为零、技术债堆积如山、却从未停机一次的系统。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-93e9b0934d0e429ad5f02be6e237ca52_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>微型航发我不评价，但是对比一下这张草图，同样是火箭，这是哥们 15 岁的时候画的东西：</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8b12f44b569c11317aa514ae53cb4a67_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d8bb599ec7db10e848e8abc50a733647_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-32d8a7885bd3352ece92df5199a385f9_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1f69a3e51aa9fd878f961c403683aa37_720w.jpg?source=8673f162" alt=""><figcaption>运力指标是用计算器嗯敲齐氏方程算的</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-eff8ad8e22cea7fb956619aa9e8d2872_720w.jpg?source=8673f162" alt=""><figcaption>请无视严重过轻的超级天顶星氢氧二级指标</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-dd1ec11061869a9361066083a948360c_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f8b0e4ca4ec2b61c85d2965423b96e4f_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-226f71d8f9d5b65233888bee42278f92_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-79931b1d13d13ec9cfc35d8b30b3d0ef_720w.jpg?source=8673f162" alt=""></figure>
+<p>当时毕竟才初二，太年轻，太简单，有时候很拿衣服，导致很多指标过于乐观，总体参数也过于想当然，虽然现在回头看来“想象力”是挺丰富的（笑）</p>
+<p>这款架空运载火箭的设计在此后的数年里又经历了多次迭代，构型也不断变化，但总的中心思想是一致的：一款采用氢氧低温高能上面级、体型与 F9 同级的大型商业运载火箭，用于满足高轨和深空的通信卫星、探测器等发射任务需求。</p>
+<p>一年后这个设计进行了较大幅度的变更，将一级推进剂由液氧煤油更换为液氧甲烷，采用更大直径（3.85 米）的箭体、5 米左右直径大型整流罩，二子级由双机并联改为大单机，并加入了捆绑助推器的设计：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fab31e099936538449637692ea285eb2_720w.jpg?source=8673f162" alt=""><figcaption>部分信息涉及个人隐私已做处理（</figcaption></figure>
+<p>至此总体方案基本上就没改过了，只是在微调细节。</p>
+<p>又过了一年，在这个方案的大框架下又重新画了一次，基本上是正式定稿：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e6f26c125e7ee85cd31db5efbe2567ef_720w.jpg?source=8673f162" alt=""></figure>
+<p>然后就是把设定电子化：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4d86422a9c91ef433a1ddfe5140da9c8_720w.jpg?source=8673f162" alt=""><figcaption>注意此时我的二子级性能设定依然严重过度乐观。右下角的 2026 是口胡的，不是真正的完成日期</figcaption></figure>
+<p>然后，在很多很多年后，又想起来了这玩意，就把它变成了 3D 模型：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9eb8bad0618804e50ffc582c64d326d0_720w.jpg?source=8673f162" alt=""><figcaption>进行了一些设计修改，使用的软件依然是我最熟悉的 Sketchup 2021</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fb7e22b2f39ae2700fbc5d970f319a26_720w.jpg?source=8673f162" alt=""><figcaption>不同构型和名称</figcaption></figure>
+<p>同时在这一轮建模的过程中，也对整个火箭的指标进行了重新计算和完善，尤其是修正了过于乐观的二子级干质比。原来的氢氧上面级质量比是极为天顶星的 16.5，现在降低到 14，虽然相比现实中氢氧上面级出现过的最佳值 13.5 还是略显离谱，但至少可行性大得多了。另一方面，上面级的部分膨胀循环发动机设计和指标均参考现实中的 MB-60，将其比冲从原来设定的 455s 大幅提升到 465s，以补偿质量比下降造成的性能损失（MB-60 推力 267kN，尺寸相近，且没有用 RL10B-2、C-2 和 C-3 那种伸缩喷管，比冲可达 467s，所以我这个架空发动机有稍高的推力和略低的比冲并且不用伸缩喷管应该也是有一定工程可行性的）。原本我用 Gemini 验算的时候它认为 294kN 对于现存膨胀循环发动机来说太高了，希望我能降推力到 160-180kN 左右，这样得到一台性能类似 Vinci（阿里安 6 二级）的发动机，指标相对保守且现实；但是我带入一算发现这毕竟还是个两级火箭，二级分离时刚过卡门线，并且二级重量超过 60 吨，因此降推力之后二级重力税太高会严重拉低运力，加上查资料发现 MB-60 和 RL-60 这两个现实中类似级别的膨胀循环发动机方案分别能做到 267kN 推力、比冲 467s 和 289kN 推力、比冲 470s，那我这个架空型号做到 294kN 推力、比冲 465s 应该是没问题，所以就没有改推力指标了。</p>
+<p>最终这枚火箭的定稿就如图中所示，使用类似电子放大版的碳纤维缠绕成型一子级贮箱，二子级则是铝锂合金的半气球贮箱，两级贮箱都是共底设计。级间段和整流罩也都采用碳纤维复材设计。一子级使用 7 台梅林尺寸的全流量分级燃烧液氧甲烷发动机 NeFC-49D，起飞推力 881kN，混合比 4.0，海平面比冲 318s；二子级使用单台类似 MB-60 的部分膨胀循环发动机 NeFH-16S，真空推力 294kN，混合比 6.0，真空比冲 465s。</p>
+<p>基本型使用的氢氧上面级名为 HHUS，即<strong>高性能氢氧上面级（High-performance Hydrolox Upper Stage）</strong>的缩写；此外还有一个缩短燃箱（并把共底翻过来了）、加强结构（加厚壁）后改为液氧甲烷的上面级，使用一台一子级 NeFC-49D 的真空版，称为<strong>重载甲烷上面级（Heavylift Methane Upper Stage, HMUS）</strong>，用于可能的近地轨道任务。火箭还可以两两一组在一子级下端捆绑共 6 枚 NeFR-200 固体火箭助推器，类似阿特拉斯 V 和火神的 CCB 概念。</p>
+<p>火箭的型号命名里，第一位数字代表助推器数量，第二位数字代表助推器类型<em>（S=固推，C=CBC）</em>，第三四位数字代表上面级类型，10=HMUS，20=HHUS。因此，火箭的基本光杆构型命名为 0S20，此外还有 6S10、6S20、2C10 和 2C20 四种构型。后两种构型采用 CBC 助推器，所以顾名思义往往也直接叫 Sunshower Heavy。</p>
+<p>此外，由于 POGO 等因素，火箭总长被定死在 74.35 米，以确保对应 3.85 米直径的长细比在 19.17 的合理范围内，所以火箭虽然有 12.5 米和 15.7 米两种整流罩，但基本上是固定搭配，即 12.5 米配 HHUS、15.7 米配 HMUS。毕竟通常情况下也只有重型 LEO 发射任务会需要那么长的整流罩，所以姑且还算合理，但这也意味着这火箭基本上打不了高轨道双星任务，算是一个设计缺憾。</p>
+<p>理论上 0S10 构型也是可以存在的，但这个构型哪怕不算有效载荷的起飞推重比也只有 1.24，有点太低了，所以基本上都会选择捆助推器发射。至于能不能像真正的 CCB 那样只捆 1 枚、2 枚或者 3 枚助推器发射，我还没算，但是考虑到设定的 SRB 尺寸很小（单枚 26 吨，和 D4M 的 SRB 差不多大，每枚起飞推力 615kN），估计少捆了助推器的话对火箭的性能增益幅度不是很大，因此这些构型暂时不做考虑，毕竟算起来还是挺麻烦的。</p>
+<p>各子级的参数见下表：</p>
+<table>
+<tbody>
+<tr><th>模块</th><th>一子级</th><th>HHUS</th><th>HMUS</th><th>SRB（NeFR-200）</th></tr>
+<tr>
+<td>全长，米</td>
+<td>49.65（含级间段）</td>
+<td>18.54（从仪器舱到发动机尾喷管末端）</td>
+<td>15.50（从仪器舱到发动机尾喷管末端）</td>
+<td>14.71</td>
+</tr>
+<tr>
+<td>直径，米</td>
+<td>4.68（含着陆腿）</td>
+<td>3.85</td>
+<td>3.85</td>
+<td>1.25</td>
+</tr>
+<tr>
+<td>推进剂组分</td>
+<td>液氧 / 甲烷</td>
+<td>液氧 / 液氢</td>
+<td>液氧 / 甲烷</td>
+<td>HTPB</td>
+</tr>
+<tr>
+<td>氧化剂质量，kg</td>
+<td>299,605</td>
+<td>50,701</td>
+<td>79,584</td>
+<td>-</td>
+</tr>
+<tr>
+<td>燃料质量，kg</td>
+<td>74,901</td>
+<td>8,450</td>
+<td>20,293</td>
+<td>-</td>
+</tr>
+<tr>
+<td>总推进剂质量，kg</td>
+<td>374,506</td>
+<td>59,151</td>
+<td>99,877</td>
+<td>24,270</td>
+</tr>
+<tr>
+<td>干质量，kg</td>
+<td>25,373（含级间段和回收装置）</td>
+<td>4,550</td>
+<td>6,242</td>
+<td>2,646</td>
+</tr>
+<tr>
+<td>质量比</td>
+<td>15.7</td>
+<td>14.0</td>
+<td>17.0</td>
+<td>10.8</td>
+</tr>
+<tr>
+<td>起飞推力，kN</td>
+<td>6,168.2</td>
+<td>294.2</td>
+<td>1,011.12</td>
+<td>615</td>
+</tr>
+<tr>
+<td>工作时间（总），秒</td>
+<td>~190-240，视飞行时序不同</td>
+<td>~915</td>
+<td>~350-400，视飞行时序不同</td>
+<td>102</td>
+</tr>
+</tbody>
+</table>
+<p>一子级的工作时长会有变化是诸多因素导致的。除了显而易见的回收需要之外，还有其他因素，其一是因为在捆绑 SRB 之后，火箭的起飞推力会有些“过剩”，因此在捆绑 SRB 的构型中，芯级起飞时会节流以控制起飞推重比在 1.4-1.45 左右（下面也会提到），直到助推器分离后芯级才恢复全推力，因此一子级的工作时间自然就比光杆构型发射时始终全推力燃烧变长了；其二是因为高质量比设计意味着火箭关机质量会比起飞质量小很多，这就导致了在一子级飞行末段火箭的过载可能过大，因此为一子级在上升段末段设计了梯次关机程序。一子级共有 7 台成星形分布的发动机，在一子级飞行段末端过载达到 4G 左右时，中心发动机会首先关闭，然后两侧的两台发动机也会关闭，只留下 4 台发动机继续工作，直到一子级关机分离。那么对于不同的任务来说，火箭的重量变化不同，一子级触发梯次关机的时间点自然不同，接下来一子级的继续工作时间也就不同了。对于需要回收的发射任务来说，这提前关闭的 3 台发动机也将是接下来回收机动所需要使用的发动机，从而降低发动机负荷延长工作寿命。</p>
+<p>不过这枚火箭的回收其实是个问题，因为我的一子级关机速度非常之高（可能接近甚至超过 3km/s），比 F9 高出了不少，而能为回收预留的推进剂余量又不是很多（最多 7.5%，介于 F9 海上回收的 5%和原场回收的 10%之间），否则会过度折损运力，这样一来一子级再入时的制导和热防护就成了问题。早期的设计构想里在一子级尾舱里藏了个充气防护罩来省掉再入点火，不过这么做的话可靠性和气动特性会是问题，所以具体的解决措施目前还没想好，但姑且一子级上是有了空气舵（画成这个样子一方面是不想被人说太像 F9，另一方面是格栅舵实在不好建模）和着陆腿，至于回收的具体操作问题么，反正是架空（</p>
+<p>火箭各构型的指标如下：</p>
+<table>
+<tbody>
+<tr><th>型号</th><th>0S20</th><th>6S20</th><th>6S10</th><th>2C20</th><th>2C10</th></tr>
+<tr>
+<td>全长，米</td>
+<td>74.35</td>
+<td>74.35</td>
+<td>74.35</td>
+<td>74.35</td>
+<td>74.35</td>
+</tr>
+<tr>
+<td>箭体直径，米</td>
+<td>3.85</td>
+<td>3.85</td>
+<td>3.85</td>
+<td>3.85</td>
+<td>3.85</td>
+</tr>
+<tr>
+<td>最大直径（含着陆腿 / 捆绑助推器），米</td>
+<td>5.8</td>
+<td>6.65</td>
+<td>6.65</td>
+<td>13.86</td>
+<td>13.86</td>
+</tr>
+<tr>
+<td>级数</td>
+<td>2</td>
+<td>2+6×SRB</td>
+<td>2+6×SRB</td>
+<td>2+2×CBC</td>
+<td>2+2×CBC</td>
+</tr>
+<tr>
+<td>起飞重量（不含载荷），吨</td>
+<td>465.240</td>
+<td>624.096</td>
+<td>667.354</td>
+<td>1,261.598</td>
+<td>1,304.896</td>
+</tr>
+<tr>
+<td>起飞推力，kN</td>
+<td>6,168.2</td>
+<td>8,700.79（芯级节流 80%）</td>
+<td>9,858.2（芯级节流 90%）</td>
+<td>17,340.52（芯级节流 50%）</td>
+<td>18,196.12（芯级节流 60%）</td>
+</tr>
+<tr>
+<td>LEO 回收运力，kg</td>
+<td>-</td>
+<td>-</td>
+<td>16,780</td>
+<td>-</td>
+<td>36,500</td>
+</tr>
+<tr>
+<td>GTO 回收运力，kg</td>
+<td>7,680</td>
+<td>10,000</td>
+<td>-</td>
+<td>17,200</td>
+<td>-</td>
+</tr>
+<tr>
+<td>GEO 直送回收运力，kg</td>
+<td>3,620</td>
+<td>5,150</td>
+<td>-</td>
+<td>9,800</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<p>总的来说，这枚火箭的设计目标是同步轨道及高轨发射市场，其目标是在成本稍高于 F9 的情况下以相似的规模取得远为优秀的高轨运力，能够以 F9 级别的尺寸满足 7-10 吨级大型同步卫星的 GTO 发射任务而不用去选更大更贵的火箭，最重要的是还能提供 4-5 吨级中型同步卫星的 GEO 直送能力，这样那些选择了全电推进同步卫星的用户选了这款火箭之后就可以让火箭直接把卫星送进工作轨道，不用加上面级和远地点发动机，也不用花几个月苦等卫星自己爬轨。</p>
+<p>所以这枚火箭的核心就是光杆构型和 6S20 两种，6S10 则是因为这么好的一个一子级不拿来射 LEO 载荷有些浪费。至于 CBC 设计纯粹属于充话费送的，反正是架空，CBC 多酷炫为何不画一个（</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbf595ab7deea38d63942ba5bd98d35a_720w.jpg?source=8673f162" alt=""><figcaption>6S20 构型在工位上的想象图，发射工位模型是从 SU 模型库现成扒拉的卡角 SLC-41，实在没心思从头做一个了</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/579039786">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2027325698818286789">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789192</guid>
-                <pubDate>Sat, 25 Apr 2026 18:42:01 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789243</guid>
+                <pubDate>Sun, 26 Apr 2026 02:11:54 GMT</pubDate>
             </item>
             
     </channel>
