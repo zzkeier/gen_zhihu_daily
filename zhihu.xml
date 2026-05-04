@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sun, 03 May 2026 18:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 02:26:51 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>为什么所有知识点都在书本上却还是要做笔记整理？</title>
-                <link>http://daily.zhihu.com/story/9789377</link>
-                <description>知乎用户，秉忠贞之志，守谦退之节。 查看知乎原文 因为大家说的，现在的教材存在着“防自学机制”，至于啥是防自学机制，听我讲个故事吧。 评论太多了，哥们在这里补充三点： 第一，哥们不会做西红柿炒鸡蛋，做出来的是黑色的； 第二，看完你就知道，哥们从来都没抨击教材，别曲解； 第三，可能是各地习俗不同吧，在我们宁夏，太长不看这件事是不需要发个评论区专门告诉对方的，关了就行了。 话说在几百年前，外国人发现了…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-b457f00d9882df55d8d78b1590d36972.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>人为什么会随年龄而保守?</title>
+                <link>http://daily.zhihu.com/story/9789396</link>
+                <description>Jay哥讲数学，清华数学研究生, B站账号: Jay哥讲数学 查看知乎原文 如果你去过清华大学,就会知道清华的食堂多得离谱.我刚到清华读书的时候,第一个学期几乎每周都会去一个没去过的食堂,即便如此,一个学期下来别说把所有窗口吃一遍了,还有好多食堂根本一次都没去过! 可是现在不一样了.这个学期,我基本只在两三家常去的食堂之间轮换,而且在每个食堂里也只吃固定的那几个窗口.相比刚入学的时候,我变得更保守…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-41277afd208fac6c1a97dbf0fd2801cd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,244 +31,355 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
-<span class="author">知乎用户，</span><span class="bio">秉忠贞之志，守谦退之节。</span>
-<a href="https://www.zhihu.com/question/32055966/answer/1978912852862601212" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-2bb07090fb75c1c8a8fc0390bf9217e8_l.jpg?source=8673f162">
+<span class="author">Jay哥讲数学，</span><span class="bio">清华数学研究生, B站账号: Jay哥讲数学</span>
+<a href="https://www.zhihu.com/question/357807301/answer/1988988948022857994" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>因为大家说的，现在的教材存在着“防自学机制”，至于啥是防自学机制，听我讲个故事吧。</p>
-<p>评论太多了，哥们在这里补充三点：</p>
-<p>第一，哥们不会做西红柿炒鸡蛋，做出来的是黑色的；</p>
-<p>第二，看完你就知道，哥们从来都没抨击教材，别曲解；</p>
-<p>第三，可能是各地习俗不同吧，在我们宁夏，太长不看这件事是不需要发个评论区专门告诉对方的，关了就行了。</p>
+<p>如果你去过清华大学,就会知道清华的食堂多得离谱.我刚到清华读书的时候,第一个学期几乎每周都会去一个没去过的食堂,即便如此,一个学期下来别说把所有窗口吃一遍了,还有好多食堂根本一次都没去过!</p>
+<p>可是现在不一样了.这个学期,我基本只在两三家常去的食堂之间轮换,而且在每个食堂里也只吃固定的那几个窗口.相比刚入学的时候,我变得更保守了吗?至少在吃饭这件事上,的确如此.但我想说,这种"变保守",其实是一种理性的结果——因为探索阶段已经差不多完成,现在轮到专心收获了.</p>
+<p>这就引出了探索和收获之间的取舍问题:我们到底应该在什么情况下探索新事物,什么情况下专注于已有的东西?在数学中这叫作"探索与收获的取舍问题(Explore/Exploit Tradeoff)"<sup>[1]</sup>.从本质上来讲,这个问题是说,你到底应该花费精力去探索新的信息,还是专注于从已有的信息中获得收获?<sup>[2]</sup></p>
+<p>比如你家附近有个餐馆,你已经去过 15 次,其中 9 次的体验非常好,有 6 次的体验不怎么好.今晚你打算出去吃饭,是应该继续去这家熟悉的老餐馆,还是尝试一家从没去过的新餐馆呢?</p>
+<p>类似的情形无处不在.你在一个单位工作多年,感受好坏参半.某天猎头找到你,给你推荐一个新机会,你要不要跳槽?你读过一位老作者的七本书,其中四本书写得很好,有三本不太行;还有个新作者,你只读过他两本书,其中一本比较好,一本比较差.现在两个人都出了新书,你只能选一本来读,你会选谁?</p>
+<p>这类探索与收获问题是数学上非常难的一类问题,完全不亚于秘书问题,直到上世纪 70 年代才被数学家基廷斯(Gittins)解决<sup>[1]</sup>.</p>
+<p>当时基廷斯是牛津大学一位年轻的统计学教授,有一家医药公司找到他,请他帮忙优化药物试验.那家公司向基廷斯提出这样一个问题:已知有好几种化合物,怎么用最短的时间确定哪种化合物对疾病最有效?</p>
+<p>基廷斯不仅完美解决了这个问题,还顺带解决了探索与收获的问题,他提出了"动态分配指数",现在人们都称之为基廷斯指数.后来别人谈起这项成就时,基廷斯谦虚地说:"这又不是费马大定理."</p>
+<p>基廷斯的思路是,把几种化合物看成赌场里一排老虎机.每台老虎机吐钱的概率各不相同,代表不同药物的疗效.但你一开始并不知道这些概率是多少,所以你会在每台机器上都尝试一番,然后专门挑那些最可能吐钱的机器来玩.</p>
+<p>我们还得考虑时间因素,医药公司希望尽快确定新药的疗效,因此拖得越晚,回报就越低.于是我们要给未来的收益打折扣——你应该已经想到了,这不就是上一讲我们说过的贴现率吗?在这里,贴现率就反映为未来回报的贬值速度,我们最终的目标,是让未来所有时间的折扣回报之和的期望值尽量大.</p>
+<p>具体来说,我们考虑如下多臂老虎机游戏(multi-armed bandit)<sup>[3]</sup>.赌场里共有</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=K" alt=""></p>
+<p>台老虎机,这些老虎机你可以理解成各种不同的选项,比如不同的餐馆或者不同的工作机会.每一轮游戏,你只能选其中一台机子来玩.如果赢了,你获得一个固定回报,不妨设为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
+<p>;输了,回报就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0" alt=""></p>
+<p>.</p>
+<p>设第</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i" alt=""></p>
+<p>台老虎机的回报服从伯努利分布</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctext%7BBernoulli%7D%28%5Ctheta_i%29" alt=""></p>
+<p>,但是参数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
+<p>未知.不过,我们给</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
+<p>赋予一个先验分布,它是我们对机子吐钱概率的先验信念.设</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
+<p>的先验分布是 Beta 分布</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Ctheta_i%5Csim+%5Cmathrm%7BBeta%7D%28%5Calpha%2C%5Cbeta%29%2C%5Cquad+p_%7B%5Ctheta_i%7D%28x%29%3D%5Cfrac%7B%5CGamma%28%5Calpha%2B%5Cbeta%29%7D%7B%5CGamma%28%5Calpha%29%5CGamma%28%5Cbeta%29%7Dx%5E%7B%5Calpha-1%7D%281-x%29%5E%7B%5Cbeta-1%7D%2C%5Cquad+x%5Cin%280%2C1%29%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>至于为什么选择 Beta 分布?原因很简单:它在数学上非常方便.如果参数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
+<p>的先验分布是 Beta 分布,那么在观察到样本数据之后,</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=+%5Ctheta_i" alt=""></p>
+<p>的后验分布依然是 Beta 分布(只是参数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Calpha%2C%5Cbeta" alt=""></p>
+<p>的值会发生变化).数学上就把 Beta 分布称为伯努利分布的共轭分布(conjugate distribution).如果你学过一点数理统计,对此应该不会陌生.</p>
+<p>先验分布中参数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%28%5Calpha%2C%5Cbeta%29" alt=""></p>
+<p>的一个常见取法是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%281%2C1%29" alt=""></p>
+<p>,也就是先验分布是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%280%2C1%29" alt=""></p>
+<p>上的均匀分布.这反映了我们一开始对这台老虎机的态度:既不知道它吐钱的概率大,还是不吐钱的概率大,不妨假定所有可能的吐钱概率都是等可能的.</p>
+<p>接下来,每玩一次老虎机,它都会给我们一个"赢 / 输"的反馈.比如你在某台老虎机上玩了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=10" alt=""></p>
+<p>次,其中</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=9" alt=""></p>
+<p>次都赢了,一次输了.此时你再认为这台老虎机赢和输的概率一样大就不合适了,所以你需要根据经验调整对这台机器的看法,也就是用贝叶斯公式更新信念.</p>
+<p>一般地,如果已知第</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i" alt=""></p>
+<p>台老虎机玩了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w%2Bl" alt=""></p>
+<p>次,其中赢了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w" alt=""></p>
+<p>次,输了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=l" alt=""></p>
+<p>次,那么</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
+<p>的后验分布是:</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++p_%7B%5Ctheta_i%7D%28x%5C%2C%7C%5C%2C%28w%2Cl%29%29%3D%5Cfrac%7Bp%28%28w%2Cl%29%5C%2C%7C%5C%2C%5Ctheta_i%3Dx%29p_%7B%5Ctheta_i%7D%28x%29%7D%7B%5Cdisplaystyle%5Cint_0%5E1p%28%28w%2Cl%29%5C%2C%7C%5C%2C%5Ctheta_i%3Dt%29p_%7B%5Ctheta_i%7D%28t%29%5C%2C%5Cmathrm%7Bd%7D+t%7D%3DCx%5E%7B%5Calpha%2Bw-1%7D%281-x%29%5E%7B%5Cbeta%2Bl-1%7D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>因此</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Ctheta_i%5C%2C%7C%5C%2C%28w%2Cl%29%5Csim%5Cmathrm%7BBeta%7D%28%5Calpha%2Bw%2C%5Cbeta%2Bl%29%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>于是,下一次玩这台老虎机时,赢钱和空手而归的概率分别为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++P%28X_i%3D1%5C%2C%7C%5C%2C%28w%2Cl%29%29%3D%5Cfrac%7B%5Calpha%2Bw%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%7D%2C%5Cquad+P%28X_i%3D0%5C%2C%7C%5C%2C%28w%2Cl%29%29%3D%5Cfrac%7B%5Cbeta%2Bl%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%7D.+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>现在假设这个多臂老虎机游戏我们会一直玩下去,我们希望找到一个策略,使得折扣化后的收益和的期望值最大.这里的策略</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpi" alt=""></p>
+<p>,就是指玩到第</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=t" alt=""></p>
+<p>轮的时候,根据前</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=t-1" alt=""></p>
+<p>轮在各个老虎机上的输赢结果,选择一台老虎机</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpi%28t%29" alt=""></p>
+<p>.最佳策略就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Cpi%5E%2A%3D%5Cunderset%7B%5Cpi%7D%7B%5Carg%5Csup%7D%5C%2CE_%5Cpi%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Cinfty%5Cdelta%5E%7Bt-1%7DX_%7B%5Cpi%28t%29%2Ct%7D%5Cright%5D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>其中</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""></p>
+<p>表示贴现率,</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=+X_%7Bi%2Ct%7D" alt=""></p>
+<p>表示第</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=t" alt=""></p>
+<p>轮时选择第</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i" alt=""></p>
+<p>台老虎机带来的随机回报.</p>
+<p>为了找到最佳策略</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpi" alt=""></p>
+<p>,基廷斯先从一个更简单的情形入手:只考虑一台老虎机的情况.这台老虎机的回报仍然服从伯努利分布</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctext%7BBernoulli%7D%28%5Ctheta%29" alt=""></p>
+<p>,参数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta" alt=""></p>
+<p>的先验分布为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmathrm%7BBeta%7D%28%5Calpha%2C%5Cbeta%29" alt=""></p>
+<p>.假设我们已经在这台老虎机上玩了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w%2Bl" alt=""></p>
+<p>局,赢了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w" alt=""></p>
+<p>局,输了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=l" alt=""></p>
+<p>局.我们想知道这台老虎机未来的期望收益如果折合成稳定的现金流应该是多少?</p>
+<p>更具体地说,假如给你另外一个选项:只要你答应再也不玩这台老虎机,那么从下一轮开始,每一轮你都可以获得一个固定回报</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda" alt=""></p>
+<p>.那这个</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda" alt=""></p>
+<p>要大到什么程度,你才愿意立即放弃玩这台老虎机?</p>
+<p>如果你暂时不想放弃玩这台老虎机的权利,而是准备再玩</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
+<p>轮,那么这</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
+<p>给你带来的折扣化期望收益就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>而你因此放弃掉的获取稳定回报的折扣化收益为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++E%5Cleft%28%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Clambda%5Cright%29%3D%5Clambda+E%5Cleft%28%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%29%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>之所以写成和式的期望而不是直接写和式,是因为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
+<p>也可以是随机变量,事实上它就是最优停止理论中的停时.</p>
+<p>考虑两者比值的最大值:</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Csup_%5Ctau%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+%5Clambda+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%7D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>如果这个值大于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
+<p>,意味着存在某个停时</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
+<p>,在你玩了</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
+<p>轮之后停下所获得的折扣化期望收益,要比一开始就选择稳定现金流方案更高.这种情况下,你当然不会立刻放弃老虎机.让你刚好愿意放弃的临界点</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda%5E%2A" alt=""></p>
+<p>,就是让上述比值等于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
+<p>的那个点,也就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Clambda%5E%2A%3D%5Csup_%5Ctau%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%7D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>这里的</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda%5E%2A" alt=""></p>
+<p>就被称为状态为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%28w%2Cl%29" alt=""></p>
+<p>的老虎机的基廷斯指数(Gittens index),记作</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>.</p>
+<p>有了单臂老虎机的基廷斯指数,我们再回到原来的多臂老虎机问题.基廷斯发现多臂老虎机游戏有个简单到不可思议的解法——每一轮都去玩当前基廷斯指数最大的老虎机!</p>
+<p><strong>基廷斯指数定理(Gittins index theorem)</strong><sup>[3]</sup><strong>: 记 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmathcal%7BF%7D_t%3D%28%28w_%7Bi%2Ct%7D%2Cl_%7Bi%2Ct%7D%29%29_%7B1%5Cleqslant+i%5Cleqslant+K%7D" alt=""> 表示到第 <img class="content-image" src="https://www.zhihu.com/equation?tex=t" alt=""> 轮为止,在每台老虎机上赢和输的次数,那么多臂老虎机的最佳策略为</strong></p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++%5Cpi%28t%29%3D%5Cunderset%7B1%5Cleqslant+i%5Cleqslant+K%7D%7B%5Carg%5Cmax%7D%5C%2C+G_%5Cdelta%28w_%7Bi%2Ct%7D%2Cl_%7Bi%2Ct%7D%29.+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
 <hr>
-<p>话说在几百年前，外国人发现了一种奇异的果实，长得像苹果但是比苹果柔软，原住民给它起的名字却叫做爱情，这种果实颜色艳丽无比，一旦切开便会有汁液流淌出来，有人大胆尝试了一下子，发现汁液的味道居然是酸的，这玩意的种子是扁平的肾形或心形，类似缩小版‌腰果……</p>
-<p>对了，中国本土还有一种奇特的动物，它的幼崽在出生之前，会被母亲放置在一个奇特形状的孕育仓之中，孕育仓的材料与我们常见的石灰石、大理石等石头是一样的，并且在里边还包裹了一层纯天然的保护膜。但即便是如此严密的保护，该动物的幼年期依旧逃不出被残忍捕食用的命运……</p>
-<p>谁知道在之前的哪一天，可能有个天才厨师吧，手里正好拿着这俩玩意，捉摸着了一下，因为肚子实在是太饿了，所以起锅烧油，发现味道出人意料的好吃，于是，西红柿炒鸡蛋就诞生了。</p>
-<p>但此时的西红柿炒鸡蛋还不足以成为《食物》这门学科中一道真正的《菜品》，也就是我们所谓的知识，因为这个好吃可能是个人口味，也可能是出于偶然性。</p>
-<p>于是，听闻了此事的越来越多的厨师开始尝试这件事，终于，在大家的不断努力下，西红柿炒鸡蛋这个菜肴，也就是这个《知识》，就诞生了。</p>
+<p>在具体应用中,人们会事先把各种输赢次数的基廷斯指数计算出来,整理成一张表格.比如,假设先验分布是均匀分布</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmathrm%7BBeta%7D%281%2C1%29" alt=""></p>
+<p>,贴现率</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""></p>
+<p>分别取</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=99%5C%25" alt=""></p>
+<p>和</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=90%5C%25" alt=""></p>
+<p>,我们就可以得到如下两张基廷斯指数表<sup>[1]</sup>:</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cba3468af95a54a13a7aa5def164537f_720w.jpg?source=8673f162" alt=""><figcaption>贴现率为 99%的基廷斯指数表</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c95ead6960d3380aef464d8a85a212b_720w.jpg?source=8673f162" alt=""><figcaption>贴现率为 90%的基廷斯指数表</figcaption></figure>
+<p>简单解释一下这张表的含义.比如在第一张表格中,第 4 列第 3 行对应的是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%283%2C2%29" alt=""></p>
+<p>这个格子,数值是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0.7696" alt=""></p>
+<p>.这表示已知过去一共玩了 5 次,其中赢了 3 次,输了 2 次,那么在贴现率为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=99%5C%25" alt=""></p>
+<p>的前提下,继续玩老虎机的折扣化价值就是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0.7696" alt=""></p>
+<p>.</p>
+<p>接下来我们看看基廷斯指数</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>的一些性质.</p>
+<p><strong>命题 1: <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu%28w%2Cl%29%5Cleqslant+G_%5Cdelta%28w%2Cl%29%5Cleqslant+%5Cmu%28w%2Cl%29%2B%281-%5Cmu%28w%2Cl%29%29%5Cdelta." alt=""> 其中 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu%28w%2Cl%29%3D%5Cfrac%7B%5Calpha%2Bw%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%7D" alt=""> .</strong></p>
+<p>证明: 根据</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>的定义,它是对所有停时</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
+<p>取比值的上确界,因此令</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau%5Cequiv1" alt=""></p>
+<p>,就有</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++G_%5Cdelta%28w%2Cl%29%5Cgeqslant+E%28X_1%5C%2C%7C%5C%2C%28w%2Cl%29%29%3DP%28X_1%3D1%5C%2C%7C%5C%2C%28w%2Cl%29%29%3D%5Cfrac%7B%5Calpha%2Bw%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%7D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>这就证明了左边的不等式.又因为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++%26%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%7D%5Cleqslant%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5BX_1%2B%5Csum_%7Bt%3D2%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%7D%3D%5Cfrac%7B%5Cdisplaystyle%5Cmu%28w%2Cl%29%2B%5Csum_%7Bt%3D2%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%7D%7B%5Cdisplaystyle%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%7D%5C%5C+++++++++%26%3D%5Cmu%28w%2Cl%29%2B%281-%5Cmu%28w%2Cl%29%29%5Ccdot%5Cfrac%7B%5Cdisplaystyle%5Csum_%7Bt%3D2%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%7D%7B%5Cdisplaystyle%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%7D%5Cleqslant%5Cmu%28w%2Cl%29%2B%281-%5Cmu%28w%2Cl%29%29%5Cdelta.+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
+<p>因此对停时</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
+<p>取上确界,也有上述不等式,这就证明了右边的不等式.</p>
 <hr>
-<p>《食物》这种东西，自从人类诞生起可能就出现了，伴随着火焰的发现而正式确立，但《食物》这种东西成为一门学科，却是近几十年的事情。当时一大批顶尖的教育工作者聚集在一起，意识到，《食物》这门学科与我们的生活息息相关，是历史上无数人类努力探索并且总结出的大智慧。</p>
-<p>教育工作者们很快就达成了共识：这门学科是对我们国家的发展有意的，这门学科里边涉及到的关于食物的知识，是每一个青少年都应该知道的。于是，《食物》这门学科就诞生了，而我们前边提到的主角，西红柿炒鸡蛋，自然也就进入了《食物》这门学科的某一章节之中。</p>
-<p>最初，《食物》这门学科的教材很简单，毕竟在那个饭都吃不饱的年代，编撰课本的主要专家，大都是一些曾出国留学的，见过人家国外课本是什么样子的鸿儒，他们甚至经历过那个大众都吃不饱饭都不知道饭菜怎么做的年代，所以他们的梦想很简单：让每个人都会做西红柿炒鸡蛋。</p>
-<p>这个时候，他们把《食物》这门课程给分为了三年学习，一共六册，分别是：《食物的起源和主要烹饪方法》《外国食物的制作方法》《我国古代食物的制作方法》《鲁菜、川菜和湘菜》《粤菜、闽菜以及浙江菜》《苏菜和徽菜》，而我们提到的西红柿炒鸡蛋，就在第四本书的第三章节。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-626b8f6badf89fd6da3b9e80d5722c93_720w.jpg?source=8673f162" alt=""></figure>
-<p>这一节的内容也很简单：</p>
-<p>先介绍西红柿，酸；再介绍鸡蛋，鲜；再介绍炒，融合。</p>
-<p>第一步，先把西红柿洗干净，起锅烧油，炒。</p>
-<p>第二步，再把鸡蛋打散，放进去一起，炒。</p>
-<p>第三部，撒盐，出盘，吃。</p>
-<p>最简单的教材，最朴素的讲述，没别的了，但这就够用了，毕竟当年能参加考试的也没几个，参加考试的人还得自己想办法购买西红柿和鸡蛋呢，至于多少西红柿多少鸡蛋多少盐，已经很清楚了，前面给了一个详细的食材表，自己稍微琢磨一下就没问题了。</p>
-<p>但就是这样，还有好多人炒不好这道菜呢，毕竟那个年代，这道菜不难，但能凑出其它食材的不多。</p>
+<p>在这里,</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=+%5Cmu%28w%2Cl%29" alt=""></p>
+<p>是只允许再玩一次老虎机的平均回报,我们看到</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>总是大于等于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu%28w%2Cl%29" alt=""></p>
+<p>.这多出来的部分</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5CDelta_%5Cdelta%28w%2Cl%29%3DG_%5Cdelta%28w%2Cl%29-%5Cmu%28w%2Cl%29+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>就可以看作探索带来的附加值.如果只能再玩一次,那么探索就没有必要,如果你有权继续玩,那么探索就是值得的,会多出</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>这一块价值.</p>
+<p>直觉上,贴现率越高,也就是越看重未来的回报,探索的附加值也就越大.反之,如果你只关心眼前的利益,那么探索就不太值钱<sup>[2]</sup>.</p>
+<p>比如我在清华还要待上很久,这时候如果我听说有哪个食堂推出了新窗口,那么我去尝试一下,冒点险是值得的.因为要是那个窗口确实不错,以后还可以去吃很多次.但是假如明天我就从清华毕业了,那最稳妥的做法就是去自己一贯觉得不错的老食堂,哪怕此时有什么新的好吃的,也已经跟我关系不大了.</p>
+<p>找工作也是一样,如果你还年轻,那么就应该积极探索,寻找最适合自己的工作.如果再过两个月就退休了,你还跳什么槽?</p>
+<p>从前面两张基廷斯指数表我们也能看到这个趋势:贴现率为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=90%5C%25" alt=""></p>
+<p>时,表中的数字整体比贴现率为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=99%5C%25" alt=""></p>
+<p>时要小.下面我们从数学上严格证明这一观察.</p>
+<p><strong>命题 2: <img class="content-image" src="https://www.zhihu.com/equation?tex=+%5CDelta_%5Cdelta%28w%2Cl%29" alt=""> 关于 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""> 是单调递增函数,并且 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdisplaystyle%5Clim_%7B%5Cdelta%5Cto0%7D%5CDelta_%5Cdelta%28w%2Cl%29%3D0" alt=""> .</strong></p>
+<p>证明: 设</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta_1%3C%5Cdelta_2" alt=""></p>
+<p>,再设</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Crho%3A%3D%5Cdfrac%7B%5Cdelta_1%7D%7B%5Cdelta_2%7D%5Cin%280%2C1%29" alt=""></p>
+<p>,构造几何型随机变量</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=N" alt=""></p>
+<p>满足</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++P%28N%3Et%29%3D%5Crho%5E%7Bt-1%7D%2C%5Cquad+t%3D1%2C2%2C3%2C%5Ccdots.+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>对任意停时</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
+<p>,构造与之对应的另外一个停时</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau%27%3A%3D%5Cmin%5C%7B%5Ctau%2CN%5C%7D" alt=""></p>
+<p>.于是由重期望公式</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++%26E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%27%7D%5Cdelta_2%5E%7Bt-1%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_2%5E%7Bt-1%7D1_%7B%5C%7Bt%5Cleqslant+N%5C%7D%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_2%5E%7Bt-1%7DE%281_%7B%5C%7Bt%5Cleqslant+N%5C%7D%7DX_t%5C%2C%7C%5C%2C%28w%2Cl%29%29%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_2%5E%7Bt-1%7DE%281_%7B%5C%7Bt%5Cleqslant+N%5C%7D%7D%29E%28X_t%5C%2C%7C%5C%2C%28w%2Cl%29%29%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Crho%5E%7Bt-1%7D%5Cdelta_2%5E%7Bt-1%7DE%28X_t%5C%2C%7C%5C%2C%28w%2Cl%29%29%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_1%5E%7Bt-1%7DE%28X_t%5C%2C%7C%5C%2C%28w%2Cl%29%29%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_1%5E%7Bt-1%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D.+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
+<p>类似地,可以证明</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%27%7D%5Cdelta_2%5E%7Bt-1%7D%5Cright%5D%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta_1%5E%7Bt-1%7D%5Cright%5D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>因此设</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau_1" alt=""></p>
+<p>是对应于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta_1" alt=""></p>
+<p>的最佳停时,那么</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++G_%7B%5Cdelta_1%7D%28w%2Cl%29%3D%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau_1%7D%5Cdelta_1%5E%7Bt-1%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau_1%7D%5Cdelta_1%5E%7Bt-1%7D%5Cright%5D%7D%3D%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau_1%27%7D%5Cdelta_2%5E%7Bt-1%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau_1%27%7D%5Cdelta_2%5E%7Bt-1%7D%5Cright%5D%7D%5Cleqslant+G_%7B%5Cdelta_2%7D%28w%2Cl%29.+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
+<p>于是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>关于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""></p>
+<p>是单调递增的,从而</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>也单调递增.至于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdisplaystyle%5Clim_%7B%5Cdelta%5Cto0%7D%5CDelta_%5Cdelta%28w%2Cl%29%3D0" alt=""></p>
+<p>,由前一命题立即可以得到.</p>
 <hr>
-<p>这么一晃悠，几十年就过去了。</p>
-<p>这几十年来，课本上的西红柿炒鸡蛋还是那道菜，但我们的生活发生了巨变。</p>
-<p>有厨师发现，鸡蛋要打散，打成蓬松状态，炒出来之后特别吸汁。</p>
-<p>有厨师意识到，西红柿可以先去皮，这样做出来的更好吃。</p>
-<p>有厨师试着勾芡，有厨师加了白糖，有厨师加入了白胡椒粉，效果都不错。</p>
-<p>农科专家培育出了极品西红柿，比之前的西红柿大多了，而且口感还更好。</p>
-<p>研究人员破解了鸡蛋炒出清香的秘密，哦，原来是蛋白质变性之后的作用。</p>
-<p>还有专家解开了西红柿怎么释放更多汁水，只要让它的细胞壁破碎就可以了。</p>
-<p>营养学家给出了西红柿和鸡蛋中的营养搭配，美术学家建议炒完之后再撒上一把葱花点缀……</p>
-<p>总之，不管是国内还是国外，西红柿炒鸡蛋都已经不再是当年课本上的那道菜了。</p>
-<p>咋办呢？再写一版教材呗。</p>
+<p>这个命题严格证明了我们刚才的直觉:贴现率</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""></p>
+<p>越大,探索带来的附加值</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>也越大;当贴现率趋近于 0 时,探索的附加值也几乎为零.换回现实生活里就是:你越在乎长远,越应该给自己一些探索的空间;你越只在乎眼前,越没必要折腾.</p>
+<p>不过,我觉得基廷斯指数最有意思的启示是:在同等条件下,新选项比老选项更有吸引力.看看贴现率为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=99%5C%25" alt=""></p>
+<p>的那张表,你会发现对于从未尝试过的选项(对应</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%280%2C0%29" alt=""></p>
+<p>的格子),基廷斯指数竟然也高达</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0.87" alt=""></p>
+<p>,甚至比已经尝试过 10 次,其中赢 8 次输 2 次的选项(对应</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%288%2C2%29" alt=""></p>
+<p>还要高.而沿着对角线往右下角,你会发现基廷斯指数是不断下降的.</p>
+<p>一个直观的解释是小样本的统计很可能不准,也许一次不好只是偶然,因此探索的附加值还很高<sup>[2]</sup>.相比之下,老餐馆你已经去过很多次了,测量结果已经稳定在一个一般的水平,不会再给你带来惊喜.</p>
+<p>这个现象总结为更正式的数学命题就是:</p>
+<p><strong>命题 3: 如果 <img class="content-image" src="https://www.zhihu.com/equation?tex=%28w_1%2Cl_1%29%2C%28w_2%2Cl_2%29" alt=""> 满足 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu%28w_1%2Cl_1%29%3D%5Cmu%28w_2%2Cl_2%29" alt=""> ,且 <img class="content-image" src="https://www.zhihu.com/equation?tex=w_1%2Bl_1%3Cw_2%2Bl_2" alt=""> ,那么</strong></p>
+<p><strong><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++%5CDelta_%5Cdelta%28w_1%2Cl_1%29%5Cgeqslant+%5CDelta_%5Cdelta%28w_2%2Cl_2%29.+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></strong></p>
+<p><strong>令 <img class="content-image" src="https://www.zhihu.com/equation?tex=n%3Dw%2Bl" alt=""> ,则有 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdisplaystyle%5Clim_%7Bn%5Cto%5Cinfty%7D%5CDelta_%5Cdelta%28w%2Cl%29%3D0" alt=""> .</strong></p>
+<p>证明: 我们先证明第二个结论,相对来说容易一些.当</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n%3Dw%2Bl" alt=""></p>
+<p>充分大时,无论接下来是赢还是输,对后验分布的改变都非常小(量级约为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=O%281%2Fn%29" alt=""></p>
+<p>).从而由重期望公式</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%26%3DE%5Cleft%5C%7B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta%5E%7Bt-1%7D%5Cleft%5B%5Cmu%28w%2Cl%29%2BO%5Cleft%28%5Cfrac%7B1%7D%7Bn%7D%5Cright%29%5Cright%5D%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5C%7D%5C%5C+++++++++%26%3D%5Cmu%28w%2Cl%29E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%2BO%5Cleft%28%5Cfrac%7B1%7D%7Bn%7D%5Cright%29%2C+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
+<p>由此可知</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++G_%5Cdelta%28w%2Cl%29%3D%5Cmu%28w%2Cl%29%2BO%281%2Fn%29%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>因此</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdisplaystyle%5Clim_%7Bn%5Cto%5Cinfty%7D%5CDelta_%5Cdelta%28w%2Cl%29%3D0" alt=""></p>
+<p>.</p>
+<p>第一个结论的证明稍微复杂一些.首先记</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++V_%5Cdelta%28n%2C%5Cmu%3B%5Clambda%29%3D%5Csup_%5Ctau%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta%5E%7Bt-1%7D%28X_t-%5Clambda%29%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%3Aw%2Bl%3Dn%2C%5Cmu%28w%2Cl%29%3D%5Cmu%5Cright%5D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>容易证明</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda%5E%2A%3DG%28w%2Cl%29" alt=""></p>
+<p>正是上述函数关于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda" alt=""></p>
+<p>的零点.</p>
+<p>考虑一步递推,也就是对</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=X_1" alt=""></p>
+<p>的结果进行分类讨论,如果第一轮赢了,那么后验分布变为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++%5Cmu_n%5E%2B%3D%5Cfrac%7B%5Calpha%2Bw%2B1%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%2B1%7D%3D%5Cmu%2B%5Cfrac%7B1-%5Cmu%7D%7B%5Calpha%2B%5Cbeta%2Bn%2B1%7D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>如果第一轮输了,那么后验分布为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++%5Cmu_n%5E-%3D%5Cfrac%7B%5Calpha%2Bw%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%2B1%7D%3D%5Cmu-%5Cfrac%7B%5Cmu%7D%7B%5Calpha%2B%5Cbeta%2Bn%2B1%7D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>因此有</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++V_%5Cdelta%28n%2C%5Cmu%3B%5Clambda%29%3D%5Cmax%5C%7B0%2C%28%5Cmu-%5Clambda%29%2B%5Cdelta%5Cleft%5B%5Cmu+V_%5Cdelta%28n%2B1%2C%5Cmu_n%5E%2B%3B%5Clambda%29%2B%281-%5Cmu%29V_%5Cdelta%28n%2B1%2C%5Cmu_n%5E-%3B%5Clambda%29%5Cright%5D%5C%7D+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
+<p>利用向前归纳法,可以证明</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=V_%5Cdelta%28n%2C%5Cmu%3B%5Clambda%29" alt=""></p>
+<p>是关于</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu" alt=""></p>
+<p>的凸函数.</p>
+<p>构造随机变量</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=M_n" alt=""></p>
+<p>满足</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++P%28M_n%3D%5Cmu_n%5E%2B%29%3D%5Cmu%2C%5Cquad+P%28M_n%3D%5Cmu_n%5E-%29%3D1-%5Cmu.+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>从</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu_n%5E%5Cpm" alt=""></p>
+<p>的表达式可以看出,</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=+%7C%5Cmu_n%5E%5Cpm-%5Cmu%7C" alt=""></p>
+<p>随</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n" alt=""></p>
+<p>单调递减,从而</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmathrm%7BVar%7D%28M_n%29" alt=""></p>
+<p>随 n 单调递减.于是由 Jensen 不等式,当</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n_1%3Cn_2" alt=""></p>
+<p>时,我们有</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++E%5BV_%5Cdelta%28n_1%2B1%2CM_%7Bn_1%7D%3B%5Clambda%29%5D%5Cgeqslant+E%5BV_%5Cdelta%28n_2%2B1%2CM_%7Bn_2%7D%3B%5Clambda%29%5D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
+<p>因此</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++V_%5Cdelta%28n_1%2C%5Cmu%3B%5Clambda%29%26%3D%5Cmax%5C%7B0%2C%28%5Cmu-%5Clambda%29%2B%5Cdelta+E%5BV_%5Cdelta%28n_1%2B1%2CM_%7Bn_1%7D%3B%5Clambda%29%5D%5C%7D%5C%5C+++++++++%26%5Cgeqslant%5Cmax%5C%7B0%2C%28%5Cmu-%5Clambda%29%2B%5Cdelta+E%5BV_%5Cdelta%28n_2%2B1%2CM_%7Bn_2%7D%3B%5Clambda%29%5D%5C%7D%5C%5C+++++++++%26%3DV_%5Cdelta%28n_2%2C%5Cmu%3B%5Clambda%29.+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
+<p>也就是说,当</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n" alt=""></p>
+<p>较小时,这个状态"赚取正回报"的能力更强,相应的其零点</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
+<p>也就更大.因此当</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w_1%2Bl_1%3Cw_2%2Bl_2" alt=""></p>
+<p>时,就有</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta_%5Cdelta%28w_1%2Cl_1%29%5Cgeqslant%5CDelta_%5Cdelta%28w_2%2Cl_2%29" alt=""></p>
+<p>.</p>
 <hr>
-<p>这一版教材，编写的哥几个，就把它试做是很浪漫的事情，并且想拼尽毕生所学了。</p>
-<p>这一版本的西红柿炒鸡蛋就介绍的比较详细了，大致的提了一下西红柿和鸡蛋的种植历史，从怎么去菜市场选购开始简单的讲了一下，然后就是起锅烧油时候的注意事项，没错，上个版本的教材没有提到起锅烧油的注意事项，所以导致意外时有发生，接下来是西红柿的去皮和鸡蛋的清洗，因为不重要，所以就随口一提，重点还是放在了西红柿炒鸡蛋该怎么做上，其实，这一部分的内容反倒是更改最小的，毕竟当年那群鸿儒即便是身处于过去的时代，对这道菜该怎么做的理解还是很深刻的，所以顶多就是加了点新的调料罢了，至于勾芡啦白胡椒粉啦白糖啦之类的，就成为了选做内容，什么是选做内容呢？就是如果有条件的话可以试着做一下，没条件就算了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ee90bf0f825abae7669ce0ff589337c_720w.jpg?source=8673f162" alt=""></figure>
-<p>这一版本的教材出来之后，基本上将《西红柿炒鸡蛋》这一个知识给定性了，没什么争议点了。</p>
-<p>但随着人们生活的发展，不止是西红柿炒鸡蛋这道菜变得丰富了，参加考试的人也变得多了起来，像是西红柿炒鸡蛋这种简单的东西，孩子们只要在家里尝试着做一遍，基本上都会做出来的。就算是做不出来的孩子，家长们抽出皮带揍一顿，多联系几次，也能照猫画虎的炒出西红柿炒鸡蛋。</p>
-<p>这个时候，一些乱象就慢慢的出来了：</p>
-<p>有钱人家的家长，会聘请曾制作过国宴的老厨师，给自己的孩子一对一的指导如何制作西红柿炒鸡蛋，甚至孩子们用的锅都是苏轼当年研究东坡肉时用过的；这些家长有一个苦恼，就是西红柿炒鸡蛋有些太简单了，大家都会做，而且味道也都差不多，那咋凸显出我儿子的老师有多优秀呢？</p>
-<p>有一些家长吧，儿子实在是学不会，或者说炒菜的天赋太差了，就开始琢磨其它方面的东西了，西红柿不够酸，没事，超市里有现成的番茄酱呢，拿来倒进去不就行了，炒鸡蛋的味道不够浓郁？那就狂加鸡精呗，随着这些窍门被发现，这件事甚至还形成了产业，基本上所有的孩子都开始加入鸡精和番茄酱了，如果你不加，反倒是你的菜没有别人的好吃。更有甚者，还有人发明出来西红柿炒鸡蛋预制菜料理包，只要你的孩子买了，拿回家去一炒，基本上大家的西红柿炒鸡蛋都没什么问题。而这些家长也有一个苦恼：哥们花钱买料理包，不就是希望我的孩子高人一头么，现在大家的西红柿炒鸡蛋都一个味道了，那还干屁啊。</p>
-<p>那现在你猜猜，最烦的是谁？没错，是老师，你教西红柿炒鸡蛋吧，别的班级用料理包，你班里的孩子拼不过那些用预制菜的孩子；你让孩子也用料理包吧，你的家长骂你，说什么破老师，自己教不会就让孩子用料理包，黑心；你直接摆烂吧，也不行，一个简单的西红柿炒鸡蛋都教不会，我们学校要你有啥用？你作为一个老师，难道连让孩子买料理包这么简单的事情都不会吗？</p>
-<hr>
-<p>但现在，还有更烦的人呢，你猜猜是谁？</p>
-<p>是谁我就不说了，但显然，有人发现不对劲了，怎么一百万个孩子考试，做出来的西红柿炒鸡蛋，居然一模一样，可我考试的目的不就是挑选最优秀的，淘汰一部分人么？这你让我怎么淘汰？</p>
-<p>各位，好玩的来了哈，真正好玩的来了。</p>
-<p>哥们现在是个选拔人才的官员，我现在要做一件事：从一百万份一模一样的西红柿炒鸡蛋料理包做出来的西红柿炒鸡蛋里，挑选出它们中最优秀的那个厨师。</p>
-<p>怎么办？一个一个品尝？那你怕是要把哥们给撑死。</p>
-<p>可不尝尝，我怎么知道这一百万个娃，谁的西红柿炒鸡蛋做的好吃？</p>
-<p>各位，我现在给你十秒钟的时间来思考这个问题的解决方法，看你能不能解决这个问题。</p>
-<p>十</p>
-<p>九</p>
-<p>八</p>
-<p>七</p>
-<p>六</p>
-<p>五</p>
-<p>四</p>
-<p>三</p>
-<p>二</p>
-<p>一</p>
-<p>答案揭晓：</p>
-<p>没错，就是，我不考西红柿炒鸡蛋啦！</p>
-<p>反正大家都是预制菜，做的味道都一样，考这玩意还有什么意义呢？</p>
-<p>但是！但是！但是！理论上，只要是课本上的知识，是不是我都可以考，这没毛病吧。</p>
-<p>咱先别上去翻看课本上有啥知识了，我直接来几个问题你感受一下：</p>
-<p>选择题：</p>
-<p>以下哪个不是西红柿炒鸡蛋中可能会使用到的食材？</p>
-<p>A、西红柿 B、鸡蛋 C、胡椒 D、以上都对</p>
-<p>答案是 C，胡椒，因为胡椒分为黑胡椒和白胡椒，而白胡椒是西红柿炒鸡蛋中可能使用的，这里并没有提到特定的白胡椒；其次，如果是黑胡椒的话，黑胡椒粉是一种食材，而黑胡椒的壳是不可以使用的，所以严格意义上来说黑胡椒不算食材，因此，这里不能选择胡椒，西红柿和鸡蛋都是在西红柿炒鸡蛋这道菜之中很常见的食材。</p>
-<p>填空题：</p>
-<p>如果在做西红柿炒鸡蛋的时候不小心油倒多了，请简述接下来需要做的三个步骤：</p>
-<p>简答题：</p>
-<p>有人认为，西红柿炒鸡蛋应该用青色的番茄，而不应该用红色的番茄，你觉得哪个好？请简述为什么。</p>
-<p>为什么西红柿传入中国的时间是在明朝偏后期？你觉得这件事的背后存在着什么逻辑？</p>
-<p>请简述西红柿炒鸡蛋过程中可能存在的化学反应，并且写出对应的方程式。</p>
-<p>什么？你觉得我出不了更多的题目了？</p>
-<p>那我们来个简单题：</p>
-<p>话说在几百年前，外国人发现了一种奇异的果实，长得像苹果但是比苹果柔软，原住民给它起的名字却叫做爱情，这种果实颜色艳丽无比，一旦切开便会有汁液流淌出来，有人大胆尝试了一下子，发现汁液的味道居然是酸的，这玩意的种子是扁平的肾形或心形，类似缩小版‌腰果……</p>
-<p>对了，中国本土还有一种奇特的动物，它的幼崽在出生之前，会被母亲放置在一个奇特形状的孕育仓之中，孕育仓的材料与我们常见的石灰石、大理石等石头是一样的，并且在里边还包裹了一层纯天然的保护膜。但即便是如此严密的保护，该动物的幼年期依旧逃不出被残忍捕食用的命运……</p>
-<p>请告诉我，这个植物是什么，动物是什么，并且写出用它们为食材制作出来的一道经典美食。</p>
-<p>我一直都跟我的孩子们强调一件事，现在的好多数学题，物理题，本质上都是语文题，考察的不是你这个知识点会不会，毕竟，知识点在老师的打压下怎么可能不会呢？那些计算怎么可能算不出来呢，现在的题目开始内卷的方向是很奇怪的，是用一大堆毫无意义的话，来引出一个很简单的问题，但为了让这个问题看上去没有那么简单，这一大堆毫无意义的话好多都是干扰项，或者干脆在里边夹在几句很简单很关键的词语，普通孩子一看头都大了，第一遍看了之后这个题目你肯定不会做，第二遍看完之后，你大概才能了解出题老师的意图，第三遍看完之后，你大概会意识到，原来这里边还存在一个巨大的坑呢，绕开这个坑，才是这个题目的正确答案。</p>
-<hr>
-<p>然而，这些问题，虽然跟西红柿炒鸡蛋的做法没什么关系，虽然在课本上只提了一嘴但考的时候会考的很深入的确能筛选出一部分学生，但这些问题，其实一点都不难。</p>
-<p>毕竟，这些问题的答案的确也在课本上，或者说，虽然课本上要求这些问题不学，但是教材中会学，各种教辅资料，哦，不对，预制包，怎么写着写着穿帮了，各种预制包里早就把这些问题的解决思路给写出来了，所以，即便是这样的问题，学生们只要“有心”，也一定会写出来的。</p>
-<p>我还是举个最简单的例子吧，在教材中，西红柿炒鸡蛋的勾芡属于部分厨师会做的，在家常西红柿炒鸡蛋之中，这个步骤通常是可以省略的，也不需要学生们去掌握这件事。</p>
-<p>勾芡，那是高中的事情了。</p>
-<p>但是，在考试中，会有老师要求，学生们试着勾芡，这道题会以新课标的形式出现，也不会直接告诉学生们，你们现在需要勾芡，而是引导学生们，如果存在着另一种西红柿炒鸡蛋的做法，这种做法跟传统的不太一样，但是可以得到阿巴阿巴阿巴的效果，你们要不思考一下，我们到底用淀粉这种东西，做出了什么样的事情，才会达到这种效果呢？是玉米淀粉，红薯淀粉，还是土豆淀粉呢？</p>
-<p>一道压轴题就这样诞生了。</p>
-<p>要不再来一道压轴题吧。</p>
-<p>假设有一个孩子叫做小明，他在制作西红柿炒鸡蛋的时候，意外的发现自己家里的食用油用光了，而打开冰箱之后，发现冰箱里只有以下若干物品：昨天妈妈买的鸡腿肉、爸爸喝剩下的酸奶、姐姐减肥的时候用的沙拉酱，阿巴阿巴阿巴，请问小明最后应该怎么办？</p>
-<p>咋，你想不到可以用鸡腿肉炒出油脂，你想不到沙拉酱和酸奶也可以代替油来炒西红柿炒鸡蛋，那你这个题目就炸了，偏偏这还是个开放型题目。</p>
-<p>所以，好多孩子的主观题，开放型题目，全部都是空着的。</p>
-<hr>
-<p>出题，出到这个时候也就够了。</p>
-<p>啥意思呢？就西红柿炒鸡蛋大家都会做了，不会做的过上两年也就都会做了。</p>
-<p>那就出各种细节方面的题目，只要是课本上出现的，就都可以考。</p>
-<p>西红柿可以用什么东西替换，鸡蛋可以用鸭蛋鹅蛋鸵鸟蛋来代替吗，油可以用什么东西代替。</p>
-<p>西红柿炒鸡蛋的历史，西红柿炒鸡蛋的发展，西红柿炒鸡蛋的未来。</p>
-<p>西红柿煮鸡蛋，西红柿炸鸡蛋，西红柿蒸鸡蛋，西红柿白灼鸡蛋。</p>
-<p>别怕，你要信任那些制造预制菜的机构，往往第一天题目出来，第二天，市面上连西红柿红烧鸡蛋的预制菜都已经给整出来了。</p>
-<p>主打一个火力覆盖，毫无视角，以量取胜，用枚举法来干掉所有的可能性。</p>
-<p>来吧，兄弟们，感受一下，我敢说，如果你手里没有一本课本的话，这些题目你做的刷刷刷的快，思考的贼顺畅，但如果你手里有一本关于西红柿炒鸡蛋的课本，你偏偏又翻到了这一章节，下面的这些题目，你一道都不会做。</p>
-<p>食物学科・西红柿炒鸡蛋专题</p>
-<p>（考试时间：60 分钟 满分：100 分）</p>
-<p><strong>一、单项选择题（本题共 6 小题，每小题 4 分，共 24 分。在每小题给出的四个选项中，只有一项是符合题目要求的）</strong></p>
-<ol>
-<li>下列关于西红柿炒鸡蛋历史的说法，正确的是（ ）<br>A. 西红柿原产于中国，自古就是常见烹饪原料<br>B. 西红柿炒鸡蛋是明清时期宫廷御膳的经典菜品<br>C. 西红柿传入中国后，逐渐从观赏植物转变为食用食材并用于炒菜<br>D. 该菜品的记载最早见于《齐民要术》等古代农书</li>
-<li>选购用于制作西红柿炒鸡蛋的西红柿时，最适宜选择的是（ ）<br>A. 表皮青涩、手感坚硬的未成熟果实<br>B. 表皮光滑、色泽鲜红、手感略软有弹性的果实<br>C. 表皮起皱、果肉软烂的过熟果实<br>D. 个头过大、果形不规则的果实</li>
-<li>给西红柿去皮的核心目的是（ ）<br>A. 去除农药残留，保证食用安全<br>B. 减少果皮中的膳食纤维，便于消化<br>C. 避免果皮影响菜肴口感，使成品更细腻<br>D. 防止果皮加热后变色，影响菜品外观</li>
-<li>下列操作中，属于西红柿炒鸡蛋关键步骤且顺序正确的是（ ）<br>A. 先炒西红柿至软烂出汁，再倒入打散的鸡蛋翻炒<br>B. 鸡蛋液中提前加入大量盐，避免炒制时入味不均<br>C. 西红柿切块后直接下锅，无需预处理<br>D. 炒好的鸡蛋盛出后，需用清水冲洗锅具再炒西红柿</li>
-<li>下列物质中，不属于西红柿炒鸡蛋食材的是（ ）<br>A. 白胡椒粉 B. 食用油 C. 炒锅 D. 葱花</li>
-<li>关于西红柿炒鸡蛋的营养搭配，说法错误的是（ ）<br>A. 西红柿富含维生素 C 和番茄红素，鸡蛋提供优质蛋白<br>B. 炒制时油温过高会破坏西红柿中的部分维生素<br>C. 适量加入生抽可增加菜品鲜味，但会提高钠含量<br>D. 鸡蛋煎制时间越长，蛋白质越容易被人体吸收</li>
-</ol>
-<p><strong>二、多项选择题（本题共 3 小题，每小题 5 分，共 15 分。在每小题给出的四个选项中，有多项符合题目要求。全部选对的得 5 分，部分选对的得 3 分，有选错的得 0 分）</strong></p>
-<ol>
-<li>下列关于西红柿去皮方法的描述，合理的有（ ）<br>A. 将西红柿顶部划十字花刀，放入沸水中烫 10-15 秒，捞出后可轻松撕去外皮<br>B. 用削皮刀直接削去西红柿外皮，适合表皮较硬的果实<br>C. 将西红柿冷冻后取出解冻，果皮会自然脱落<br>D. 用勺子轻轻刮擦西红柿表面，使果皮与果肉分离后撕去</li>
-<li>影响西红柿炒鸡蛋口感和风味的因素有（ ）<br>A. 西红柿的成熟度和酸甜度<br>B. 鸡蛋液中是否加入料酒或清水<br>C. 炒制时的火候大小和时间长短<br>D. 调料（盐、糖、生抽等）的用量比例</li>
-<li>下列关于西红柿炒鸡蛋的延伸知识，正确的有（ ）<br>A. 加糖的目的是中和西红柿的酸味，提升整体风味<br>B. 该菜品可根据地域差异加入辣椒、番茄酱等调整口味<br>C. 剩余的西红柿炒鸡蛋冷藏后，第二天加热食用不会影响营养<br>D. 用熟猪油炒制可使菜品香味更浓郁，口感更醇厚</li>
-</ol>
-<p><strong>三、填空题（本题共 4 小题，每空 3 分，共 18 分）</strong></p>
-<ol>
-<li>西红柿原产于______洲，传入中国后被称为 “番柿”“番茄”，因其外形似柿、来自外国而得名。</li>
-<li>选购新鲜鸡蛋时，可通过______（填一种方法）判断鸡蛋是否新鲜，新鲜鸡蛋的蛋黄饱满、蛋清黏稠。</li>
-<li>西红柿炒鸡蛋的经典烹饪顺序是：先将鸡蛋液炒至______状态盛出，再炒西红柿至出汁，最后倒入鸡蛋翻炒均匀。</li>
-<li>除了直接作为菜肴食用，西红柿炒鸡蛋还可用于______（填一种用途），如搭配米饭、拌面等。</li>
-</ol>
-<p><strong>四、简答题（本题共 2 小题，第 14 题 10 分，第 15 题 13 分，共 23 分）</strong></p>
-<ol>
-<li>简述西红柿炒鸡蛋中 “给西红柿去皮” 的常用方法及操作要点。</li>
-<li>结合烹饪原理和食材特性，分析 “先炒鸡蛋后炒西红柿” 这一烹饪顺序的合理性。</li>
-</ol>
-<p><strong>五、应用题（本题共 1 小题，20 分）</strong></p>
-<ol>
-<li>某同学在制作西红柿炒鸡蛋时遇到以下问题：①西红柿炒后不出汁，口感偏硬；②鸡蛋炒后发老，缺乏嫩滑感；③菜品酸甜味失衡，偏酸或偏淡。<br>请针对以上每个问题，分析可能的原因，并给出具体的改进措施。要求结合食材选择、操作步骤、火候控制等方面进行阐述，逻辑清晰，措施可行。</li>
-</ol>
-<p>兄弟们，发现了没，这些题目最难的不是给出答案，而是给出一个，如课本上那般合理的答案。任何大家都觉得很简单的事情一旦体系化，规模化，那你给出的答案就一定是很拧巴的。</p>
-<p>那这样就结束了吗？并没有，真正的防自学机制开始了。</p>
-<hr>
-<p>那么，我们现在回到那个话题，什么叫做防自学呢？原因是什么呢？</p>
-<p>原因就在于，某一天，有一个头脑正常的人想吃一碗西红柿炒鸡蛋，于是找了个小孩子，说你不是学过这个东西么，给我表演一下呗。</p>
-<p>小孩面不改色的掏出章丘铁锅，展现出了不属于国宴大厨的专业性，起锅烧油，所有动作一气呵成，等到端上盘子的时候，西红柿被切成了细细的臊子，不带有一点西红柿皮的，而那鸡蛋，更是呈现出了一种金黄色的光泽，上面点缀的绿色葱花，让整个画面更像是古典主义的油画。</p>
-<p>但问题在于，这道菜看着无比华丽，可当这个人询问小孩，什么是西红柿炒鸡蛋的时候，这个小孩就是说不出来这个问题。哪怕这个题目小孩已经很熟练了，可小孩就是不知道这是什么。</p>
-<p>此人大惊，曰，我只想吃一盘西红柿炒鸡蛋，你告诉我什么是西红柿炒鸡蛋。</p>
-<p>小孩茫然，不知所措。</p>
-<p>于是，此人倡议，学生就应该在学习西红柿炒鸡蛋的年龄只学习西红柿炒鸡蛋！</p>
-<p>很快，政策出台，减压，减负，教材不要再出现那些破玩意了！什么西红柿炒鸡蛋的历史，那是现在这一门学科需要研究的内容吗？那是以后需要出来的东西，提都不要提了！</p>
-<p>于是，课本上光速切割，将我刚才提到的那些乱七八糟的东西全删了，回归初心，只出现西红柿炒鸡蛋相关的内容，就跟当初版本的教材一样。</p>
-<p>但问题出来了，孩子们也不是傻子，他们又不是看不出来这些东西过时了，但教材又不能写超纲的内容，也不能把东西写的太难，那该怎么办呢？</p>
-<p>于是，很有意思的一幕出现了。</p>
-<p>教材中，最核心的内容是：将西红柿跟鸡蛋炒在一起。</p>
-<p>但课本中不会直接写，这样写的话，就太难了。</p>
-<p>所以，教材中写的是：</p>
-<p>想想看，西红柿应该怎么做，鸡蛋打碎之后应该怎么做？</p>
-<p>你们观察一下身边，你们的妈妈在处理西红柿的时候，一般情况下是怎么做的？</p>
-<p>饭店里的厨师炒鸡蛋的时候，会用什么样的方式呢？</p>
-<p>最后，在这一章节的结尾，小心翼翼的给出结论：西红柿炒鸡蛋是这么炒的。</p>
-<hr>
-<p>那问题解决了吗？没有解决。</p>
-<p>为什么呢？因为课本虽然尊重了孩子们的脑子，变得简单了，只涉及到西红柿炒鸡蛋的核心了。</p>
-<p>但我们的预制菜行业反而更头疼了，因为考试的题目没有变，考试的时候，考官们在你做西红柿炒鸡蛋的时候，会冷不丁的问你一句，这个西红柿的年龄有多大了呀？</p>
-<p>孩子们更不会做了，翻开书，发现书上写的是：</p>
-<p>宝宝，我们自己来思考一下，西红柿的年龄跟什么有关系？</p>
-<p>考试没有变化，考试的结构没有变化，教材变得简单了，那如果有孩子自己看了教材，试着去做了一下考试相关的习题，那可不就炸了么。</p>
-<p>毕竟，现在考试中的每一个大题难题，在教科书中，都是以选修、选做、了解、课后习题的方式给出来的，不是消失了，是变得小心翼翼，开始不再强调概念的背诵和反复地联系了，开始强调引导学生们如何思考了。</p>
-<p>可问题是，我们的孩子一年要做一千盘菜呢，哪里有那么多的时间去思考这些事情。你让一个每天都想着如何玩耍的孩子自己琢磨西红柿炒鸡蛋的做法并且琢磨出来，而且还能自己炒出来，那这个世界还需要那么多厨师做什么?</p>
-<p>这就相当于，牛顿当年推导出了西红柿炒鸡蛋要勾芡，现在我们的教材希望，孩子们也能重走牛顿当年的道路，用自己的脑子想出来西红柿炒鸡蛋要勾芡这件事，从而熟练地应用。</p>
-<p>可问题是，牛顿所在的年代，所有人都热衷于勾芡这件事，而牛盾本身也是个鲁菜世家，他爸爸就是开养鸡场的，每天卖不掉的鸡蛋几百个几百个的给牛顿拿去玩呢；学校里的孩子，甚至连鸡蛋都没有摸过……</p>
-<p>你让学校里的每一个孩子都走牛顿当年的那条路线， 你觉得可能吗。</p>
-<p>这个时候，你当一个记者，去采访一个厨师世家的孩子，对方一定会说：</p>
-<p>西红柿炒鸡蛋？我觉得挺简单的呀，怎么会有孩子不会做这道菜呢？我从小就在我爸的实验室，呸，不对，我从小就在我爸的厨房里接触这个东西呀，你们不会做是不是你们的问题呀。</p>
-<p>就这，还有一大堆厨师 抱怨呢，说自己的孩子太笨了，学不会作西红柿炒鸡蛋。</p>
-<hr>
-<p>所以，关于西红柿炒鸡蛋，最终就出现了一个很拧巴的情况。</p>
-<p>教材中教的是：西红柿炒鸡蛋怎么炒。</p>
-<p>考试中问的是：鸵鸟蛋是不是有一股腥臊味？</p>
-<p>你说这个题，我靠教材自学是学不会的，我问你，凭啥学不会？</p>
-<p>这道题的解法明明就很简单：西红柿炒鸡蛋这一章里提到过了，不建议用鸵鸟的蛋作西红柿炒鸡蛋；在动物那一章节页学习过了，鸵鸟的蛋很大，存在着一种特殊的味道；在炒菜的那一章节中也提到过了，人类在炒菜的过程中逐渐意识到，只有鸡蛋是最鲜嫩的，其它动物的蛋可能有些味道；在语文中我们学习过了，腥臊味往往指的是肉的味道……</p>
-<p>如此重重，结合一下子，答案不就出来了么，我问你，哪个没学过？</p>
-<hr>
-<p>但是，但是，但是，我们又来但是了哈。</p>
-<p>哥们写这篇东西，显然不是为了批判教材或者所谓的应试教育的，批判的人已经够多了，问题症状也有好多人都说过了，哥们的这点举例子，显然是不恰当且不合适的。</p>
-<p>那哥们为什么要说这么多呢？</p>
-<p>诶，好玩的来了，现在再给你十秒钟，不要作弊，想想看，你点开的这个知乎问题叫啥来着。</p>
-<p>是：为什么所有知识点都在书本上，却还是要做笔记整理。</p>
-<p>你看，就一个简单的知乎问题，过了一会之后，你可能看着西红柿炒鸡蛋的故事，看着看着都忘记了这个问题，你甚至可能看着看着都忽略了，哥们根本就没回答那个问题，而是跑题讲故事去了。</p>
-<p>那你说说看，课本上比哥们的故事枯燥了一百倍的西红柿炒鸡蛋的制作方法，以及让你思考如何才能做出西红柿炒鸡蛋的那些语焉不详的文字，那些刻意避开了重点让你找不到背诵内容的文字，你觉得，这玩意是只看了几眼就能学会的吗？</p>
-<p>所谓的防自学机制，不是一种真实存在的机制，而是一种名为：</p>
-<p>《这东西就算是摆在你的面前了你也不会看因为你是一个不喜欢思考的笨蛋你不知道什么东西重要什么东西不重要你不知道这一个章节写的是什么你只知道老师让你背诵什么你就背诵什么你不知道西红柿炒鸡蛋有什么意义也不知道西红柿炒鸡蛋做完之后可以吃饱饭你只知道西红柿炒鸡蛋在课本中你就需要学这个东西所以如果你看了这个东西记下了这个概念背会了这个公式然后遇到一个题目之后你就想着套用公式你就想着在课本上找到对应的黑体字概念套用进去结果你发现题目出的跟你想象之中的根本不一样所以你没有办法套用这个公式结果算出来要么错要么不会的互相博弈机制》</p>
-<p>没错，孩子不知道《食物》这门科目讲述的是《食物》，也不知道为什么西红柿炒鸡蛋会被分在《鲁菜》这个行列中，更没有意识到西红柿炒鸡蛋就是生活中常见的那道《美食》，更是对西红柿炒鸡蛋一点兴趣都没有，所谓的背诵是老师逼迫的，所谓的做题是老师逼迫的，所谓的成绩，也是老师和家长们用预制菜共同填充的结果。</p>
-<p>哦豁，那遇到这种问题，是你给一本老课本就可以解决的吗？不是的，老课本更糟糕，毕竟，新课本的插图和排版还能让孩子们打起几分兴趣，老课本上面就写了西红柿炒鸡蛋的做法，孩子们看了之后就更懵懂了，怎么一点都没有鸵鸟蛋的事情？</p>
-<p>那咋办呢？有道是，毒药的三步之内必有解药。</p>
-<p>这个问题的答案，也就在这个问题的谜面上了。</p>
-<p>为什么要做笔记？</p>
-<p>因为你不是出题的老师，你看不懂老师的排版和布局，你翻开书之后是懵的。</p>
-<p>但你是自己的老师，你知道自己家厨房的布局是什么样子的，你知道自己的锅碗瓢盆怎么摆放，你也知道自己厨房里的柴米油盐酱醋茶分别放在什么地方，你可以信手拈来，随手取放。</p>
-<p>你更是这个厨房的管理人员，每一道菜，你只有在自己的厨房里做一遍，才能游刃有余。</p>
-<p>别人的厨房，别人的厨具，别人的食材，别人的预制菜，那终究只是别人的。</p>
-<p>你看着人家做了一碗西红柿炒鸡蛋，你觉得太简单了，觉得自己也会了。</p>
-<p>美食，现在就打开厨房，试着做一碗西红柿炒鸡蛋吧，如果你是第一次错，哪怕对着十几个教学视频，你也会发现，咦，这玩意怎么是我之前从来没有想过的。</p>
-<p>而我们的老祖宗，做了无数顿饭，走了无数的弯路，尝试了无数的排列组合，最终无数大厨，测试了好多次，想了好多办法，排除了无数错误答案，抱着最善意的心，充满期待的，充满慈爱的，充满了愿景的，给了你一个建议：</p>
-<p>眼过千遍，不如手过一遍。</p>
-<p>你却觉得没啥用。</p>
-<hr>
-<p>哦，对了，差点又忘记正事了，你看哥们这记性，一吹牛逼，就忘记在最后面给自己打广告了。</p>
-<p>什么？有人问哥们是干啥，为啥这么能吹牛逼？</p>
-<p>请看 VCR：</p>
-<p><a class="internal" href="https://zhuanlan.zhihu.com/p/1976980405778420273">进入初中前的准备</a><a class="internal" href="https://zhuanlan.zhihu.com/p/1960863897012672440">如何学好语文</a><a class="internal" href="https://zhuanlan.zhihu.com/p/1973781096538846340">如何学好物理（初中物理）</a><a class="internal" href="https://zhuanlan.zhihu.com/p/1962008839676232498">【如何学好数学 · 其一 · 先考到 72 分】</a><a class="internal" href="https://zhuanlan.zhihu.com/p/1964508298662361059">如何学习英语</a></p>
-<p>各位家长有兴趣的话，点开我的头像进入我的专栏翻翻~~~</p>
+<p>从这个模型我们至少能获得三个人生智慧<sup>[2]</sup>.</p>
+<p>第一是,年轻时应该多探索.</p>
+<p>年轻人有长远的未来,贴现率很高,所以大胆探索才是最优选择.正如你在一座城市要待很多年,那就应该多尝试不同的餐馆,找找哪一家最好吃.</p>
+<p>你看小孩子就非常明白这个道理.虽然他们不懂什么是基廷斯指数,但是非常愿意探索.他们会把家里的电器按钮都按一遍,特别喜欢玩新玩具,总是充满好奇心.</p>
+<p>2014 年美国有一项研究,从职业选择与匹配的框架出发<sup>[4]</sup>,指出:如果你在二十多岁的时候经常换工作,你会更容易找到适合你的工作.也就是说等你到三四十岁的时候,你会更喜欢你的工作,收入水平也会更高.</p>
+<p>所以,年轻人频繁换工作不但不是任性,反而是必要的,这是在探索.很多人担心频繁跳槽会被认为缺乏忠诚,但在今天这个世界里,决定你职业前途的首要因素,是你的能力和声望.在美国硅谷,一个典型的工程师首先追求的是他在整个行业中的声望,其次才是他对某家公司的具体贡献——当然,前者要靠后者来证明.只要你在自己的行业中有足够高的声望,去哪家公司,待遇都不会差.</p>
+<p>如果你已经不是二十几岁的年轻人了,那是不是就不用探索了呢?也不一定,如果你从事的是创造性的工作,那你一生都要有战略性的探索期.我们在第 9 讲中提到过,那些最厉害的科学家,都是"探索 + 深耕"的模式<sup>[5]</sup>.科学探索是一项永无止境的事业,即便科学家的寿命是有限的,但是他开辟出的方向还会有后人继续发展和完善.从这个意义上说,科学研究的贴现率其实很高,所以你会看到,有些科学家哪怕年过花甲,依然在不断拓展新方向.</p>
+<p>当然,强调探索,就意味着没有那么多收获,所以家庭因素就很重要.一个年轻人要想不断试错,背后需要父母提供强有力的支持!现在很多年轻人执着于考公、考编,热衷于一眼望到头的工作.并不是他们不想探索,而是他们输不起!如果我们希望社会变得更有活力,就需要多一些包容,允许年轻人有试错的机会.</p>
+<p>第二个智慧是,随着年龄增长要慢慢专注于收获.</p>
+<p>一个一般规律是,人的社交圈子会随着年龄增长逐渐变窄.年纪大了之后,经常见面的总是那几个人,经常做的事情也就那么几件,去的地方也很有限.比如总是去同一家餐馆、点同样的菜,好像已经失去了探索的动力.过去人们认为这是老年人的悲哀.</p>
+<p>但是斯坦福有一位心理学教授却不这么认为<sup>[6]</sup>,他认为这其实是老年人的理性选择,老年人已经完成了探索!他们知道自己最适合做的事情是什么,和哪些人在一起最舒服,哪个餐馆最符合自己口味,他们已经没有冒险探索的必要,只要享受人生就行了.</p>
+<p>所以人到了一定阶段,就要慢慢安定下来,开始把以前探索的成果兑现.很多人忙忙碌碌大半生,到头来什么也没得到,这就是不懂得收获的重要性.有些大学教授,在功成名就之后,就跑到企业里当顾问,做技术转化,这就是把资源和能力兑现了.这件事通常在四五十岁以后考虑比较合适,在此之前,探索才刚刚完成,资源和能力还在积累,过早兑现,挣不了多少钱.也有一些人不懂得这个道理,五十岁以后,眼看着自己的资源和能力不断贬值、过时,这是非常可惜的.</p>
+<p>第三个智慧是,在慢慢变老的过程中,你的生活其实在变得越来越好.</p>
+<p>我们鼓励年轻人多探索,并不是探索本身有很大的好处,而是为了找到那些能够带来丰厚回报的选项.实际上,探索并不像我们想象得那么有趣,大部分的探索都以失败告终,你会不断遭遇挫折,根本没有那么多惊喜.</p>
+<p>老年人不再探索,并不是他们不敢探索了,而是他们已经不用探索了,他们可以享用年轻时探索带来的成果.如果你知道自己喜欢什么,你会很乐意被自己喜欢的事物所包围.</p>
+<p>下一次当你看到一位老人,每天去同一个公园散步,走同一条路线,跟同一群老伙计聊天,你可能以为他的生活很无趣——殊不知这才是最浪漫的事,他在享受用一生的时间探索出来的成果!</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/32055966">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/357807301">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789377</guid>
-                <pubDate>Sun, 03 May 2026 18:51:52 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789396</guid>
+                <pubDate>Mon, 04 May 2026 02:26:48 GMT</pubDate>
             </item>
             
             <item>
-                <title>华语乐坛有没有中国风歌曲能比得过《东风破》《青花瓷》《发如雪》这三首?</title>
-                <link>http://daily.zhihu.com/story/9789379</link>
-                <description>莫也，在情绪的波涛中深沉思考 查看知乎原文 很早就有超过这几首的中国风歌曲了，只是那时不叫“中国风”。 方文山真正开创的现象是什么？取一个古意的名字，堆砌一箩筐古典的词汇，写些半通不通的歌词，然后就大言不惭、美其名曰“中国风”。 真正高级的中国风，不仅看有多少古代词汇、意象，更重要是看情怀、意境、格调——最好二者兼有，如不能有后者亦可，但到了方文山，变成只追求前者，后者往往残缺和碎裂。 先看一首古…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-4f5f9b57a1b9f7c15331c8fc7163c04e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>历史上有哪两件事听起来不在同一个年代，实际上却同时发生的？</title>
+                <link>http://daily.zhihu.com/story/9789403</link>
+                <description>铜锣卫门小叮当 查看知乎原文 最后一个玛雅国家，和大清几乎同时灭亡。 大众印象，要么认为玛雅文明在古代已“神秘消失”，要么认为玛雅人在 1492 年新大陆发现后即被西班牙征服。了解过玛雅史的朋友则会知道，最后一个玛雅王国——佩腾伊查王国，一直到 1697 年才被西班牙入侵者灭亡，此时南明已经灭亡 35 年。 西班牙对尤卡坦玛雅人的征服，诺赫佩腾（Nojpeten）即为佩腾伊查王国的首都 但比较鲜为…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-81bc4470a5d7111eca2f0cfc3c3aa294.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -288,79 +399,51 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/ed6b013537ae672f8fa326d66f329c5d_l.jpg?source=8673f162">
-<span class="author">莫也，</span><span class="bio">在情绪的波涛中深沉思考</span>
-<a href="https://www.zhihu.com/question/1912987175370363662/answer/2026987836981743831" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a4dfae10a72b7487147f1cd009a2ff3b_l.jpg?source=8673f162">
+<span class="author">铜锣卫门小叮当</span>
+<a href="https://www.zhihu.com/question/333199024/answer/2027692688388932266" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>很早就有超过这几首的中国风歌曲了，只是那时不叫“中国风”。</p>
-<p>方文山真正开创的现象是什么？取一个古意的名字，堆砌一箩筐古典的词汇，写些半通不通的歌词，然后就大言不惭、美其名曰“中国风”。</p>
-<p>真正高级的中国风，不仅看有多少古代词汇、意象，更重要是看情怀、意境、格调——最好二者兼有，如不能有后者亦可，但到了方文山，变成只追求前者，后者往往残缺和碎裂。</p>
-<p>先看一首古典意象和古典情怀统一得比较好的歌曲：</p>
-<blockquote>沧海一声笑，滔滔两岸潮，浮沉随浪，只记今朝。<br>苍天笑，纷纷世上潮，谁负谁胜出天知晓，<br>江山笑，烟雨遥，涛浪淘尽红尘俗世几多娇，<br>清风笑，竟惹寂寥，豪情还剩了一襟晚照。<br>—— 《沧海一声笑》</blockquote>
-<p>如果不考虑匹配曲牌，放在元曲中，也会是经典曲词了。</p>
-<p>这样的词在 8090 年代有很多，大多出现在古装题材尤其是武侠影视中。</p>
-<blockquote>我剑何去何从，爱与恨情难独钟；<br>我刀划破长空，是与非懂也不懂；<br>我醉一片朦胧，恩和怨是幻是空；<br>我醒一场春梦，生与死一切成空。<br>—— 《刀剑如梦》<br><br>吞风吻雨葬落日未曾彷徨，欺山赶海践雪径也未绝望。<br>拈花把酒偏折煞世人情狂，凭这两眼与百臂或千手不能防，<br>天阔阔雪漫漫共谁同航，这沙滚滚水皱皱笑着浪荡，<br>贪欢一饷偏教那女儿情长埋葬。<br>—— 《难念的经》</blockquote>
-<p>你说这些歌词，哪首比方文山的差？</p>
-<p>21 世纪有一种错误认知，以为歌词越多古典词语中国韵味就越足，其实中国韵味不取决古词多少，取决歌曲的内容和情感。</p>
-<p>陈慧娴《千千阕歌》，歌词没有很多古典的词语、意象，但有中国韵味。</p>
-<p>首先，这首歌的歌名就很有古意。“千千”，古意为“千千万万、重重叠叠”之意，例如张先的词“心似双丝网，中有千千结”；“阕”，古时核心意思是终了、结束，后引申为歌的一段，“上阕”“下阕”，古曲常有“歌阕”（唱完）、“曲阕”（曲终）的说法。</p>
-<p>古人一般是说“歌阕”，很少说“阕歌”，“阕歌”应是填词人林振强据古意的自创，“千千阕歌”，意思就是“千丝万缕情感终了的歌”。</p>
-<p>《千千阕歌》的最初唱片文案是写成《千千阙歌》，据说为唱片公司排版疏忽，林振强本人的文字记载都写成“千千阕歌”，故而唱片的“阙”通“阕”，“阙”古代又通“缺”，表意缺失，所以如果写成“阙歌”，亦有缺失之歌、遗憾之歌的意思。</p>
-<p>光《千千阕歌》的歌名就有那么多可说的，所以如果比中国风，仅“千千阕歌”四字就可抵方文山一首词。</p>
-<p>不仅是歌名，更重要的是歌曲表达的意思。《千千阕歌》唱的是离别，送别友人，或被友人送别，这恰是中国古代诗歌的第一题材，数量远超关于爱情的诗歌，《送杜少府之任蜀州》《赠汪伦》《送孟浩然之广陵》......诗史名作数不胜数。</p>
-<p>《千千阕歌》唱的是纯粹的送别，它无关爱情，无关亲情，就表现友人间的珍重和祝福，题材上它就很古典、很中国，同样古典、中国的还有叶倩文唱的《祝福》，只是《祝福》少了一个古意的歌名，便稍逊《千千阕歌》一筹。</p>
-<p>中国古人送别的时候是会唱歌的，不仅唱，而且还要唱三遍，所谓“一唱三叠”。送别时唱的歌最有名的是《阳关三叠》，歌词是王维的《送元二使安西》。</p>
-<blockquote>渭城朝雨浥轻尘，客舍青青柳色新。<br>劝君更尽一杯酒，西出阳关无故人。</blockquote>
-<p>这个歌词要唱三遍，才能充分表达送别的情感，故名“阳关三叠”。</p>
-<p>你去听《千千阕歌》，唱完全曲之后，“来日纵使千千阕歌，飘于远方我路上”的副歌唱了几遍？</p>
-<p>没错，正好是三遍。</p>
-<p>如此有古典文化的歌名，表达最古典、最传统的送别，且尊崇古人一唱三叠的形式，就本质而言，《千千阕歌》的中国风，远比送你一堆红尘、阑珊、流年、青瓷、汉服、月下、相思、浊酒的歌曲高级。</p>
-<p>有事出去，先写到这里。</p>
-<hr>
-<p>再说一首完全不像中国风的“中国风”。</p>
-<p>此处“中国风”加引号，是说这首歌几乎没用到什么古典词语，反映生活也很现代，但巧妙融入中国古典化意境。</p>
-<p>钟伟强词曲，梁朝伟原唱、梅艳芳翻唱的经典粤语歌《朦胧夜雨里》：</p>
-<blockquote>在毛毛夜雨里，显得一片惨淡，<br>重读你的信里，觉热情未冷。<br>信中，你声声说再会，<br>但感到你的双眼，在期望再见的一晚。<br>回望过去，再想今天的冷淡，<br>谁明日再暖我，不觉又寒又冷。<br>相片中，烛光中的晚饭，<br>香槟芬芳的挥散，在刺激我的眼。<br>—— 《朦胧夜雨里》</blockquote>
-<p>早年听这歌时，就有一种奇异的感觉：这歌很都市，又很古典。</p>
-<p>之所以有这种感觉，是因为歌词有意无意化用了李商隐的名诗《夜雨寄北》。</p>
-<blockquote>君问归期未有期，巴山夜雨涨秋池。<br>何当共剪西窗烛，却话巴山夜雨时。<br>——《夜雨寄北》</blockquote>
-<p>同样夜雨时分，同样收到对方的来信，同样有对她的思忆，同样提到了烛光，同样有对她的回复——一个回复是明，是诗寄远方，一个回复是暗，是内心独白。</p>
-<p>两者用了同一套抒情符号，只不过《朦胧夜雨里》把场景从巴山夜雨、西窗剪烛，搬到了 80 年代香港都市的雨夜街巷。</p>
-<p>但两者情感关系又很不一下，《夜雨寄北》表现的是相隔两地的夫妻，《朦胧夜雨里》表现的是已成分手的恋人；《夜雨寄北》期盼的是打破空间距离的重逢，《朦胧夜雨里》期盼的是打破情感冷漠的片刻温存。</p>
-<p>《朦胧夜雨里》就是都市失恋版的《夜雨寄北》。</p>
-<p>歌曲几乎没有强塞的古典意象，没有文言，没有典故，歌词多是大白话，夜雨、信、烛光、街灯，甚至出现“香槟”这样现代的事物，还有“I say a little prayer”等英文歌词。</p>
-<p>然而依然觉得歌曲的味道很中国、很古典，含蓄，蕴藉，重意境，重氛围，不是西式的直白宣泄，而是中式的克制惆怅。</p>
-<p>上世纪 8090 年代，香港老一辈填词人往往能填出兼具古典风格和都市气质的歌词，现在很多人认为当年的港乐喜好主要源于经济差距产生的文化仰视。我不否认有这方面影响，但生活在那个年代的人，当时有种来自“熟悉陌生人”的心灵触动，这点现在的人很难理解。</p>
-<p>最后回到主题，贴首方文山代表作：</p>
-<blockquote>狼牙月，伊人憔悴，我举杯，饮尽了风雪，<br>是谁打翻前世柜，惹尘埃是非，缘字诀，几番轮回，<br>你锁眉，哭红颜唤不回，纵然青史已经成灰，我爱不灭，<br>繁华如三千东流水，我只取一瓢爱了解，<br>只恋你化身的蝶，你发如雪，凄美了离别，<br>我焚香感动了谁，邀明月，让回忆皎洁，<br>爱在月光下完美，你发如雪，纷飞了眼泪，<br>我等待苍老了谁，红尘醉，<br>微醺的岁月，我用无悔，刻永世爱你的碑。<br>—— 《发如雪》</blockquote>
-<p>半文半白，古意堆砌，情感重复，情绪碎裂，很难说没有无病呻吟。</p>
-<p>现在流行这类所谓“中国风”，本质是某种恋词癖。作者和受众沉醉青瓷、长袖、红尘、阑珊等符号化词语，将文字标签等同审美意蕴，忽视意象背后文化精神与真实情感。以空洞词藻替代深沉意境，营造虚假文化优越感，既缺乏中式审美的含蓄留白，也背离以意驭词、情韵相生的传统内核，沦为形式化语言狂欢。</p>
-<p>假定苏轼、李清照穿越到现代，如果给他们看《沧海一声笑》，他们大概率觉得还能一看。</p>
-<p>如果给他们看《千千阕歌》，除了一些现代词需要解释，他们大致能明白是说什么，只是会诧异，“原来你们爱用大白话写歌！”（想了解宋元人怎么说大白话可参考《水浒传》）</p>
-<p>如果给他们看《发如雪》，他们从头到尾看完，然后会说出那句很经典的话：</p>
-<p>“每个词我都认识，就是合起来不知道什么意思。”</p>
+<p>最后一个玛雅国家，和大清几乎同时灭亡。</p>
+<p>大众印象，要么认为玛雅文明在古代已“神秘消失”，要么认为玛雅人在 1492 年新大陆发现后即被西班牙征服。了解过玛雅史的朋友则会知道，最后一个玛雅王国——佩腾伊查王国，一直到 1697 年才被西班牙入侵者灭亡，此时南明已经灭亡 35 年。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f6c2f60f3cb16bdbed0c940509d5e19d_720w.jpg?source=8673f162" alt=""><figcaption>西班牙对尤卡坦玛雅人的征服，诺赫佩腾（Nojpeten）即为佩腾伊查王国的首都</figcaption></figure>
+<p>但比较鲜为人知的是，在 19 世纪中期，和太平天国几乎同时，尤卡坦半岛的玛雅人掀起了复国战争，一度重建了玛雅国家，并且一直坚持到上世纪初叶，这即是轰轰烈烈的尤卡坦种姓战争。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a9489745c39691e2859a90b2be878f00_720w.jpg?source=8673f162" alt=""><figcaption>尤卡坦半岛，地跨墨西哥东南部、危地马拉北部和伯利兹（原英属洪都拉斯）</figcaption></figure>
+<p>1821 年，墨西哥在土生白人的主导下从西班牙独立。独立后的墨西哥长期陷入中央集权派和联邦派的内斗当中。1836 年，德克萨斯宣布脱离墨西哥独立，受此鼓舞，1841 年，尤卡坦的白人也自行建国，成立了尤卡坦共和国。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b6eb4f665349bc32179154cd70b400bb_720w.jpg?source=8673f162" alt=""><figcaption>1847 年的墨西哥，东北、东南分别是自行独立的德克萨斯共和国和尤卡坦共和国</figcaption></figure>
+<p>尤卡坦虽然独立，但统治者依然是当地的白人后裔。白人为了扩大利润丰厚的龙舌兰和甘蔗种植业，大量侵占玛雅人的公有土地，并经常虐待玛雅工人，而只支付十分微薄的工资。玛雅人在政府中没有平等的代表权，却背负着沉重的税负，还遭受着种族歧视，被称为“退化种族”。</p>
+<p>但独立的尤卡坦共和国为了应对墨西哥中央政府的军事威胁，只好将上万名玛雅人征入军队，以保卫政权。这些受到压迫的玛雅人在获得武器后，最终将枪口对准了白人统治者。</p>
+<p>1847 年 6 月，尤卡坦政府得知一大批玛雅人聚集，于是先下手派兵洗劫数个玛雅城镇，搜捕叛乱分子，并进行任意处决。7 月 30 日，两位玛雅首领塞西利奥·奇（Cecilio Chi）与哈辛托·帕特（Jacinto Pat）联手进攻<span class="nolink">特皮奇</span>，尤卡坦种姓战争爆发。为了报复此前白人对玛雅人的无差别屠杀，奇下令屠杀所有非玛雅居民，他对此声称“感谢上帝，白人死的比玛雅人多得多”。到 1848 年春，玛雅军队已占领尤卡坦半岛的大部分地区，仅剩<span class="nolink">坎佩切</span>和<span class="nolink">梅里达</span>两座有城墙守卫的城市以及西南沿海地区。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4d621552ef7526bf7f335c954ceb653e_720w.jpg?source=8673f162" alt=""><figcaption>特皮奇的塞西利奥·奇雕像</figcaption></figure>
+<p>尤卡坦政府在绝境下向英国、西班牙、美国求援，甚至提出申请并入美国，但都没有得到答复。走投无路之下，尤卡坦共和国只好重新投入墨西哥的怀抱，在 1848 年 8 月 17 日再次并入墨西哥。</p>
+<p>在墨西哥政府提供的枪支、资金和军队的援助下，尤卡坦军队重整旗鼓。同时玛雅领袖之间也无法和睦相处。尤卡坦政府利用玛雅人领导层的混乱，击败了大部分叛军，奇和帕特都在 1849 年死于非命，并通过免除赋税义务和授予自治权，招安了部分原玛雅叛军。</p>
+<p>在玛雅起义陷入低谷时，一位叫胡安·德·拉·克鲁斯的宗教领袖出现了。1850 年，克鲁斯在得到异象指引后创立了“说话的十字架”宗教，他自称耶稣基督，并将天主教元素与玛雅传统信仰融合起来。他在位于昌圣克鲁斯镇（Chan Santa Cruz，小圣十字）的圣十字架神龛前布道，号召玛雅人驱逐白人，收复玛雅土地，并许诺他的信徒们将获得刀枪不入的能力。</p>
+<p>尤卡坦半岛东南部的玛雅人在克鲁斯的号召下稳住了阵脚，他们被称为“克鲁索人”（Cruzob）即十字架人（十字军），并在他们的宗教中心建立了小圣十字国。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9f3b9f02c1455e8f25ca43417c6bcaef_720w.jpg?source=8673f162" alt=""><figcaption>深色为小圣十字国势力范围</figcaption></figure>
+<p>1852 年克鲁斯失踪，此后韦南西奥·普克接管了神谕。普克加强了小圣十字政府的纪律，巩固了独立的玛雅国家，使其能够控制尤卡坦半岛加勒比海沿岸的大片地区。1858 年，他甚至攻占了巴卡拉尔。但 1863 年，由于在处决俘虏问题上和将军们的分歧，普克被政变推翻。将军们揭露一个叫何塞·纳赫的人其实就是替圣十字架说话的人，并处决了他和普克。“说话的十字架”从此沉默了。普克的死堪称小圣十字国的天京事变，代表着国家衰落的开始。1875 年，小圣十字国再次爆发内战。</p>
+<p>与此同时，外部环境也在恶化。<span class="nolink">英国</span>原来事实上承认了小圣十字国，因为它与<span class="nolink">英属洪都拉斯 </span>（<span class="nolink">伯利兹 </span>）之间存在大量贸易往来，伯利兹商人也是小圣十字国武器的主要来源。但 1876 年墨西哥的<span class="nolink">波菲里奥·迪亚斯</span>政府上台后，英国在墨西哥的投资在经济上的重要性远超过小圣十字国与伯利兹的贸易。1893 年英国与墨西哥签署条约，承认墨西哥对小圣十字国的主权，并关闭了伯利兹与小圣十字国的贸易往来，玛雅人从此失去了外部武器来源。</p>
+<p>内忧外患下的小圣十字国的领土日益萎缩。1901 年 5 月 4 日，墨西哥军队开进小圣十字城内，宣告了玛雅人最后一个独立国家的覆灭。此时，八国联军已经占领北京，距离辛亥革命只有十年而已了。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1912987175370363662">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/333199024">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789379</guid>
-                <pubDate>Sun, 03 May 2026 18:51:53 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789403</guid>
+                <pubDate>Mon, 04 May 2026 02:26:49 GMT</pubDate>
             </item>
             
             <item>
-                <title>餐饮店用来「过油」的油，炸了那么多不同种类的食物，再用来炒菜难道不会串味吗?</title>
-                <link>http://daily.zhihu.com/story/9789386</link>
-                <description>擒贼先擒王先生，十年中大型餐饮资深从业者，高层管理人员，三家自营餐饮店主。 查看知乎原文 我是擒贼先擒王先生，十年餐饮人。 我刚入行当学徒的时候，也问过我师傅这个问题， 那时候我看着师傅把炸完酥肉的油，又拿来炸藕盒， 我当时就懵了，拉着师傅的袖子说问师傅， 你这不对啊，这油都有肉味了，炸藕盒不就串味了吗？ 师傅当时就给我了个脑瓜崩说，你小子懂个屁，这是后厨的门道， 你以为跟你在家似的，炸完鱼直接炸…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8ffb93c889414bff849db6d047455c2e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么日本海鱼可以做顶级刺身，而中国的海鱼却大多做熟?</title>
+                <link>http://daily.zhihu.com/story/9789408</link>
+                <description>biokiwi，用生命科学的角度看世界！ 查看知乎原文 先说结论：不是因为海鱼没有寄生虫，而是因为冷链杀死了寄生虫。 你在日料店吃的挪威三文鱼、蓝鳍金枪鱼，在端上餐桌之前，已经经历了 4 到 5 天以上、零下 35 度的低温运输。在这个过程中，鱼肉里的寄生虫早就被冻死了。而你追求”新鲜”的当天现捞生腌虾、现切鱼生，恰恰跳过了这个最关键的杀虫步骤。 所以问题的本质不是”海鱼 vs 淡水鱼”，而是“有…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-3872d11780b5c22e4a458baab23943e1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -380,114 +463,71 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-e283943499601283c7ae38627b1e1bbe_l.jpg?source=8673f162">
-<span class="author">擒贼先擒王先生，</span><span class="bio">十年中大型餐饮资深从业者，高层管理人员，三家自营餐饮店主。</span>
-<a href="https://www.zhihu.com/question/2014321032002036362/answer/2026728414443258032" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-4cdc8dc004835c64495966f8a36ec5f6_l.jpg?source=8673f162">
+<span class="author">biokiwi，</span><span class="bio">用生命科学的角度看世界！</span>
+<a href="https://www.zhihu.com/question/548875804/answer/2027156008548540973" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>我是擒贼先擒王先生，十年餐饮人。</p>
-<p>我刚入行当学徒的时候，也问过我师傅这个问题，</p>
-<p>那时候我看着师傅把炸完酥肉的油，又拿来炸藕盒，</p>
-<p>我当时就懵了，拉着师傅的袖子说问师傅，</p>
-<p>你这不对啊，这油都有肉味了，炸藕盒不就串味了吗？</p>
-<p>师傅当时就给我了个脑瓜崩说，你小子懂个屁，这是后厨的门道，</p>
-<p>你以为跟你在家似的，炸完鱼直接炸土豆啊。</p>
-<p>饭店的油，不是你想的那样，一桶油从新用到黑，什么都往里面炸，那是黑作坊。</p>
-<p>正经饭店的油，是有一套严格的流程的，别说串味了，我们能把油用出花来。</p>
+<p>先说结论：<strong>不是因为海鱼没有寄生虫，而是因为冷链杀死了寄生虫。</strong></p>
+<p>你在日料店吃的挪威三文鱼、蓝鳍金枪鱼，在端上餐桌之前，已经经历了 4 到 5 天以上、零下 35 度的低温运输。在这个过程中，鱼肉里的寄生虫早就被冻死了。而你追求”新鲜”的当天现捞生腌虾、现切鱼生，恰恰跳过了这个最关键的杀虫步骤。</p>
+<p>所以问题的本质不是”海鱼 vs 淡水鱼”，而是<strong>“有没有经过规范的低温处理”</strong>。</p>
 <hr>
-<p><strong>首先油是分等级的，炸东西是有顺序的</strong></p>
-<p>后厨的油，就跟后宫似的，是有等级的，</p>
-<p>新油刚进来的时候，是最金贵的，我们只会用它炸那些味道最淡的东西。</p>
-<p>比如，新油第一天，我们先炸蔬菜：</p>
-<p>土豆条、藕片、茄子，这些东西，本身没什么味道，</p>
-<p>炸完之后，油里只会带一点点的清香味，根本不会有什么杂味。</p>
-<p>然后，油用了一天，稍微有点阅历了，我们再拿来炸禽肉：</p>
-<p>比如炸鸡柳、炸鸡翅，这些肉的味道，比蔬菜重一点，但是也不会太冲，</p>
-<p>炸完之后，油里带了一点点肉香，反而更香了。</p>
-<p>再然后，油用了两天，颜色稍微深一点了，我们再拿来炸猪肉：</p>
-<p>炸酥肉、炸排骨，这些肉的味道更重，但是这时候的油，已经不是新油了，</p>
-<p>就算带点肉味，我们后面用来炒肉菜，也根本不会串。</p>
-<p>最后，油快用到头了，颜色有点黑了，我们才会拿来炸那些味道最重的东西：</p>
-<p>比如炸鱼、炸臭豆腐，这些东西的味道重，炸完之后，油里会带点鱼腥味，</p>
-<p>但是没关系，这些油我们不会拿来炒青菜了，</p>
-<p>我们会拿来做鱼香肉丝、做水煮鱼、做麻辣香锅，那些重口味的菜，</p>
-<p>刚好能把那个味盖掉，反而还增香。</p>
-<p>你看，这个顺序，从淡到重，根本不会串味。</p>
-<p>反过来，要是把顺序搞反了，新油先炸鱼，那完了，这油全是鱼腥味，</p>
-<p>后面炸什么都串味，那就是不会干活了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5420caf18eca59f2f260680f006033a0_720w.jpg?source=8673f162" alt=""></figure>
+<p>说到吃生鱼片的风险，最早的病例记录可能要追溯到三国时期。</p>
+<p>《三国志》里记载了一位叫<strong>陈登</strong>的人，广陵太守，封地大约在今天的江苏扬州一带，渔产丰富。陈登酷爱吃鱼，尤其爱吃生鱼片。结果有一天突然发病——”胸中烦懑，面赤不食”，心里堵得慌，脸色发红，吃不下饭。</p>
+<p>恰好华佗路过，诊断说你肚子里有虫。当场开药催吐，一口气吐出”三升虫子”，书里描述这些虫子”红色，头犹动，半身犹是生鱼脍”——红色的、头还在蠕动、半边身子还带着没消化的生鱼片。</p>
+<p>画面感极强，也极其恶心。</p>
+<p>吐完之后陈登舒服了，但华佗留了一句话：<strong>这病三年后还会复发，到时候一定要找好医生。</strong>结果三年之期已到，华佗不在身边，陈登就此离世。</p>
+<p>这大概是全世界最早有记录的、因吃生鱼片感染寄生虫的案例。</p>
 <hr>
-<p><strong>其次我们每天都会给油洗澡，把杂味都洗掉</strong></p>
-<p>很多人以为，炸完东西的油，就那么放着，渣子都在里面，那能不串味吗。</p>
-<p>不对！我们每天打烊前，第一件事，就是给油洗澡。</p>
-<p>首先，我们用滤油纸，把油里的渣子都滤掉，那些渣子才是串味的根源，</p>
-<p>什么炸剩下的鱼鳞啊、肉渣啊、面包糠啊，</p>
-<p>这些东西泡在油里，才会把味道染到油里，把这些渣子滤掉，油里的杂味就少了一大半。</p>
-<p>然后，我们还会给油去味，</p>
-<p>比如，油有点味了，我们就把面粉调成糊，放进去炸一下，</p>
-<p>面粉的吸附性超强，能把油里的杂味、色素都吸走，</p>
-<p>炸完之后，把面粉捞出来，油就又变清了。</p>
-<p>然后，我们再放姜片、葱段、花椒，进去炸一下，</p>
-<p>把油里的腥味都去掉，这么一套下来，油跟新的差不多。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-af774f4308327499d1483d54bc9b7c27_720w.jpg?source=8673f162" alt=""></figure>
+<p>从现代寄生虫学的角度来看，陈登感染的很可能是<strong>华支睾吸虫</strong>，也就是俗称的<strong>肝吸虫</strong>。</p>
+<p>这种寄生虫专门寄生在淡水鱼体内，人吃了含有活囊蚴的生鱼片后，虫体会跑到肝脏和胆囊里安家。早期症状就是隐隐发痛、发烧——对照陈登的”胸中烦懑，面赤不食”，胸口往下一点就是胆的位置，面赤可能就是发烧的表现，吻合度相当高。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0646c3cb999ea9318b33208e685c23a5_720w.jpg?source=8673f162" alt=""></figure>
+<p>更可怕的是它的寿命。肝吸虫在人体内可以存活<strong>15 到 20 年</strong>。这不是打错字——这种寄生虫的生存策略就是不急着弄死宿主，而是长期潜伏，慢慢造成慢性损伤。15 到 20 年间，它会持续损害肝脏和胆囊，引发胆管炎（虫体死亡后碎片堵塞胆管）、肝硬化，最终可能发展为<strong>胆管癌</strong>。2009 年，肝吸虫被列为<strong>一级致癌物</strong>。</p>
+<blockquote>肝吸虫感染目前是世界第三常见的寄生虫疾病，全球感染人数约 1300 万到 1500 万，其中<strong>85%在中国</strong>。感染最严重的四个省份是广东、广西、黑龙江和吉林。</blockquote>
+<p>广东好理解——珠三角、潮汕地区都有吃鱼生的传统。但黑龙江和吉林？原来东北也有”杀生鱼”的吃法，鱼切丝拌醋拌姜葱，做法跟广东鱼生几乎一样。</p>
 <hr>
-<p><strong>最后以为油会反复用一辈子，想多了</strong></p>
-<p>很多人说，你们饭店的油，是不是用了一个月，都黑了还在用。</p>
-<p>那是黑心小贩和不讲究的烂商家，</p>
-<p>我的油，最多用 3 天，就换新的了。</p>
-<p>在大酒店工作的话我们每天都会测油的酸价，</p>
-<p>要是酸价高了，哪怕才用了一天，我们也直接倒了。</p>
-<p>你想啊，我们开店的，要是油用太久，会有哈喇味，</p>
-<p>客人一吃就吃出来了，那不是砸自己的招牌吗。</p>
-<p>大酒店每天光油就要倒掉好多少斤啊，要是为了省那点油，把客人都跑了，那才是亏大了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ba29fcbc7ba395de35768b7a60237e9c_720w.jpg?source=8673f162" alt=""></figure>
-<p>其实说白了，在家你之所以会串味，是因为你在家，炸完东西，</p>
-<p>油就直接放着了，也不过滤，也不分顺序，炸完鱼，直接炸土豆，那就会串味啊。</p>
-<p>但是后厨，我们是专业的，有一套完整的流程，所以根本不会有这个问题。</p>
+<p>那很多人会说：<strong>我知道淡水鱼有肝吸虫，所以我只吃海鱼啊。</strong></p>
+<p>这就是最常见的误解了。</p>
+<p>淡水鱼有淡水鱼的寄生虫（肝吸虫），海水鱼当然也有海水鱼的寄生虫——最典型的就是<strong>异尖线虫</strong>。吃下去同样会导致严重的胃肠疾病。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-40da515768103375d26e3a65b95ccc1a_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以”海鱼没有寄生虫”这个说法<strong>完全是错的</strong>。</p>
+<p>那为什么日料店的刺身相对安全？前面说了，关键在于<strong>冷链</strong>。正规渠道的刺身级海鱼，在运输过程中会经过零下 35 度、持续 4 到 5 天以上的深度冷冻。这个温度和时间足以杀死鱼肉中的寄生虫（包括异尖线虫）。如果是零下 20 度，则需要至少 7 到 10 天。</p>
+<p>而你在码头上现钓现切的海鱼呢？当天早上钓的、中午就片了蘸酱油吃？那它身上的异尖线虫可是活蹦乱跳的。这种情况下，吃海鱼生鱼片的寄生虫风险<strong>跟吃淡水鱼生差不多，纯靠撞大运</strong>。</p>
+<p>同样的道理，最近很火的潮汕生腌虾、生腌蟹，追求的就是”新鲜”，当天现捞现腌。而且虾蟹的外壳结构复杂，更容易残留寄生虫和细菌。用酱油泡几个小时，是杀不死寄生虫的。</p>
 <hr>
-<p><strong>4.14 更新一下。</strong></p>
-<p>挺多朋友有疑问，</p>
-<p>客人不按你油的使用顺序点菜，</p>
-<p>厨房不大放不下那么多油锅，</p>
-<p>主要问题都是一个卫生健康问题。</p>
-<p>这里我的理解是越大型的餐饮越卫生，</p>
-<p>油本身的品质和种类都会更好更多，</p>
-<p>中大型餐饮的厨师们都是各管各的灶台，</p>
-<p>每个师傅根据自己做菜的类型和道数配置工具。</p>
-<p>一般新油会放在灶台边上方便用，炸过的油和其他很多调料都放背后的操作台上。</p>
-<p>每个灶台上最少都是两个盛放油的盆或缸，</p>
-<p>但并不是油锅，油不会放在炸锅里面不倒出来。</p>
-<p>看一下这个图片就明白了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8ff5ac26aff36f66476a4337e0b0ffd1_720w.jpg?source=8673f162" alt=""></figure>
-<p>我是擒贼先擒王先生，一个可以手把手教你的老餐饮人，</p>
-<p>你在家炸过的油是怎么使用的？评论区聊聊。</p>
-<p><strong>对了，我最近在整理八大菜系的专栏，里面有很多餐馆招牌菜的家庭做法，</strong></p>
-<p><strong>新手也能跟着做，关注我，下次做饭就不会踩坑了。</strong></p>
-<p><strong>感谢您对手艺人的点赞关注，祝点赞发财，关注暴富。</strong></p>
-<p><strong>加入我们的圈子@自制美食晒出来，和五千多位美食家一起频繁记录生活。</strong></p>
-<p><a class="internal" href="https://www.zhihu.com/people/c9b784b495a0638d217902e4cb6d5fc2">@知乎美食</a></p>
-<p><a class="internal" href="https://www.zhihu.com/answer/1942707993654331091">为何“西葫芦炖茄子”一菜在知乎上爆火？</a><a class="internal" href="https://www.zhihu.com/answer/1985844420231309307">有哪些天生自带鲜味的食材？</a><a class="internal" href="https://www.zhihu.com/answer/2014352248499615081">有哪些为了健康你一定不吃的食物？</a></p>
+<p>还有几个常见的误区，顺便一起澄清：</p>
+<p><strong>“高度酒 / 醋 / 芥末能杀死寄生虫？”</strong>——不能。这些调味品的浓度和接触时间远远不够。</p>
+<p><strong>“鱼片烫几秒就熟了，能杀虫？”</strong>——广东人喝粥讲究鱼片烫到”半熟”状态，或者把鱼片贴在碗壁上用滚粥烫一下。疾控中心明确说了，这种短时间的加热<strong>杀不死寄生虫</strong>，时间太短了。</p>
+<p><strong>“家用冰箱冻一冻行不行？”</strong>——家用冰箱一般是零下 18 到 20 度，远达不到零下 35 度的标准。即使是零下 20 度，也需要连续冻 7 到 10 天，而且家用冰箱开开关关温度不稳定，效果大打折扣。更别说口感也会变差。</p>
+<p><strong>“新疆三文鱼（虹鳟鱼）是淡水鱼，能生吃吗？”</strong>——虹鳟鱼和三文鱼（大西洋鲑）是两个不同的物种，虹鳟鱼确实是完全在淡水中生活的。但如果经过了跟挪威三文鱼同样标准的低温处理，达标的话理论上也是可以生吃的。关键永远是<strong>处理工艺</strong>，而不是鱼的种类。</p>
+<hr>
+<p>国家标准其实已经对这个问题有了明确规定。<strong>GB 10136-2015</strong>（动物性水产制品安全标准）要求生食鱼片制品中<strong>完全不得检出寄生虫</strong>。所以正规渠道、符合国标的产品，寄生虫层面是有保障的。</p>
+<p>不过要注意一点：低温能杀死寄生虫，但<strong>杀不死微生物</strong>（细菌）。所以即使是经过冷链处理的刺身，冷链断裂后的细菌滋生仍然是另一个风险维度。所以相对来说最安全的，是在养殖的全流程都使用完全无菌的技术，只不过那成本就太高了（想想 SPF 级小鼠吧）</p>
+<p>回到最初的问题。从陈登吃鱼生染虫、三年后因此丧命，到今天全球 1300 多万人感染肝吸虫，人类吃生鱼片的历史和吃生鱼片出事的历史一样悠久。日料店的刺身不是因为”日本的鱼更干净”，而是因为现代冷链物流替你完成了杀虫这一步。</p>
+<p><strong>下次有人跟你说”海鱼没有寄生虫”，你可以告诉他：海鱼有异尖线虫，淡水鱼有肝吸虫，真正保护你的不是海水，是零下 35 度。</strong></p>
+<p>本期内容来自我们最新播客，生物漫游指南，在知乎、小宇宙、网易云等多个平台均可以收听：</p>
+<p><a class="internal" href="https://www.zhihu.com/podcast/episode/2018064264984802951">关羽脱发？曹操脑癌？三国病友交流会｜三国里的生物</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2014321032002036362">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/548875804">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789386</guid>
-                <pubDate>Sun, 03 May 2026 18:51:54 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789408</guid>
+                <pubDate>Mon, 04 May 2026 02:26:50 GMT</pubDate>
             </item>
             
             <item>
-                <title>大象喝水会不会吸到鼻涕？</title>
-                <link>http://daily.zhihu.com/story/9789393</link>
-                <description>苏澄宇，自然科学/分享动物们的小秘密/Animalonearth 查看知乎原文 一起吸了，但没有你想的这么简单。 亚特兰大动物园的大象二级饲养员 Caleb 有自己的博客，写过一句坦率直白的话[1]： When an elephant uses their trunk to drink, the elephant sucks water into their trunk, holds it in …</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-bd09a680ed9139872f1e6d73f932e1a1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>一个人从万米高空坠落，落在 100 米厚的棉花上，棉花能起到缓冲作用吗？</title>
+                <link>http://daily.zhihu.com/story/9789418</link>
+                <description>pin008，人生太轻，乐业太难，执念太苦。 查看知乎原文 棉花能起到缓冲作用，但很不理想，人可能会死亡或受伤。 2016 年 7 月 30 日，美国 42 岁的跳伞运动员 Luke Aikins，不使用降落伞或翼装，从 7620 米高空跃下并安全着陆。出舱 40 秒后，Luke 在距地面 6000 米的高空达到了下落期间的最高时速 241 公里，相当于急速行驶的跑车的速度。随后因为空气阻力作用，…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-286c083d9adc4c51ad7530f8917208e0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -507,68 +547,41 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/2027037464112408538/answer/2027322128672801785" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-0f0b441fa611ffb4a46315c8cdb30c93_l.jpg?source=8673f162">
+<span class="author">pin008，</span><span class="bio">人生太轻，乐业太难，执念太苦。</span>
+<a href="https://www.zhihu.com/question/2025565191627130255/answer/2025969217749414169" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>一起吸了，但没有你想的这么简单。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7640513860e8e3c3579b47f119d807b0_720w.jpg?source=8673f162" alt=""></figure>
-<p>亚特兰大动物园的大象二级饲养员 Caleb 有自己的博客，写过一句坦率直白的话<sup>[1]</sup>：</p>
-<blockquote>When an elephant uses their trunk to drink, the elephant sucks water into their trunk, holds it in their trunk, and then squirts the water from their trunk into their mouth (boogers and all).</blockquote>
-<p>大意是：水吸进鼻子、存在鼻子里、喷进嘴里，然后混着鼻屎一起下肚。</p>
-<p>不过，另一位有十多年经验的大象护理专家 Jessica 补充说<sup>[2]</sup>，正常情况下那点黏液的量，跟你漱完口后嘴里附着的那层差不多，几乎可以忽略不计。</p>
-<p>当然这说的是健康状态。大象要是得了肺炎或呼吸道感染，鼻涕的量会明显增多，兽医手册里把“黏液从象鼻滴落”列为典型症状之一。但那种情况下大象可能连喝水的力气都没有，鼻涕水反而不是最大的问题了。</p>
-<p>为什么量这么小，得从象鼻内部说起。</p>
-<p>象鼻内部不是一根空心管子，而是被肌肉和隔板结构分成左右两条独立的鼻道，从鼻尖一直延伸到头骨内部的鼻咽部。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-85b1b1aee96c84c813b461975f86977a_720w.jpg?source=8673f162" alt=""></figure>
-<p>2018 年 Thitaram 团队对亚洲象做的组织学检查，下图是象鼻内壁组织切片：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6bb6a938ee78a13a9045247c0bba35a0_720w.jpg?source=8673f162" alt=""></figure>
-<p>最外层是厚厚的角化层（KL），下方是复层鳞状上皮（SS），质感更像皮肤而非鼻腔黏膜。</p>
-<p>翻成“人话”就是，它的质感更接近你嘴唇内侧那种耐磨的皮肤，而不是鼻孔深处那层一碰就出血的薄膜，这也意味着象鼻本身，恐怕不会像人类鼻腔那样源源不断分泌大量黏液。</p>
-<p>吸的本来就不多了，那它的“防水设计”，则避免了鼻涕进肺的风险，</p>
-<p>象鼻里其实有两道“闸”<sup>[3]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7818454fde3531af52be147430541e7e_720w.jpg?source=8673f162" alt=""></figure>
-<p>第一道在鼻腔靠近颅骨的位置，有一组肌肉结构，能把两条鼻道无意识地捏闭，让吸上来的水到不了深处的鼻窦。</p>
-<p>下图是<strong>大象头骨正中矢状切面，你可以看到</strong>内窥镜从鼻腔进入后的路径，它穿过象鼻根部软骨板处形成的“S 形狭窄”（sigmoid stricture），再向前推进，通过喉部、进入气管。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b128f89c5219d326fec3a9ebf9ddceaf_720w.jpg?source=8673f162" alt=""></figure>
-<p>它直观证明了“象鼻内部存在一处软骨板 / 收窄结构”，而且内窥镜必须绕过这道弯才能进入气道。这个结构正好对应第一道"闸"的位置。</p>
-<p>前面做这份整理的研究者都承认<sup>[4]</sup>，这个肌肉结构目前还“有些神秘”，只能确定它是靠肌肉在工作，具体形状和细节还不清楚。</p>
-<p>第二道在喉部：大象和我们一样有会厌（下图大象会厌内窥镜实拍），但它们喉咙里还有一个<strong>额外</strong>的瓣膜，和会厌配合着关上，挡住通往喉和肺的那条路，让水只能往食道方向走。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6fdc190a7cfac776d3c50294f3a968b9_720w.jpg?source=8673f162" alt=""></figure>
-<p>前后一上一下两道闸，平时几乎是自动工作的，所以正常喝水的时候，大象基本不会呛到肺里去。</p>
-<p>知道了结构，下一个问题是：水进去有多快？</p>
-<p>2021 年，佐治亚理工学院的博士生 Andrew Schulz 和导师 David Hu 在亚特兰大动物园，做了一个实验<sup>[5]</sup>。</p>
-<p>他们让一头 34 岁的雌性非洲象 Kelly 从透明水族箱里喝水，用高速摄影机拍摄全过程，还往水里加了奇亚籽来追踪水流轨迹，同时用便携式超声波设备实时观测鼻壁厚度的变化。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-31006ff9ab0752ac1eb2e4180b3ec373_720w.jpg?source=8673f162" alt=""></figure>
-<p>结果相当惊人，Kelly 在 1.5 秒内吸入了 3.7 升水，流量约每秒 3 升，大概相当于同时冲 20 个马桶。</p>
-<p>而且这还不是鼻腔的极限。超声显示吸水的瞬间鼻孔半径主动扩大了 30%，鼻腔容积因此增加 64%，所以大象能吸入远超静态鼻腔容积的水量。根据压力推算，象鼻吸气时的空气流速可以超过每秒 150 米，大约时速 540 公里，比人类打喷嚏快将近 30 倍。</p>
-<p>水以这种速度涌进鼻腔，内壁上那薄薄一层黏液当然会被冲下来混进水里。但反过来想，大象每天要喝 60 到 100 升水，鼻腔等于一直在被反复冲洗，鼻涕根本来不及积攒。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-27ae6255f78de3dc2a595334753db54f_720w.jpg?source=8673f162" alt=""></figure>
-<p>兽医学从另一个方向证实了这一点。大象结核病检测有一种标准方法，业内称为“三重象鼻灌洗“（triple sample trunk wash），做法是训练大象自愿把生理盐水吸进鼻腔，再主动吹进采样袋里，然后做培养和 PCR 检测<sup>[6]</sup>。</p>
-<p>兽医协议要求在早晨饮水之前操作，推测原因就是饮水会冲洗鼻腔，带走可供培养的分枝杆菌。而这种方法的灵敏度本来就低得可怜：有一项研究做了 60 次灌洗只检出 2 例阳性，另一项对 5 头确认感染的大象采集了 189 份样本，只有 7 份能培养出菌。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-20ce6d6ef362372bff4bbd27c4ce3705_720w.jpg?source=8673f162" alt=""></figure>
-<p>连想认真研究鼻腔里有什么的科学家，都得赶在大象喝水之前抢着采样。</p>
-<p>说到底，大象喝水吞下那点鼻涕，可能是它一天里最微不足道的事情。</p>
-<p>倒是人类自己值得想一想。正常成年人每天鼻腔会产生大量黏液，其中相当一部分通过鼻后滴漏悄悄流进咽喉，进了胃<sup>[7]</sup>。</p>
-<p>你每天都在吞自己的鼻涕，量比大象混进水里的多得多，只不过进化替你关掉了对这件事的感知开关。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a20107300614920b28d882b26a196d9a_720w.jpg?source=8673f162" alt=""></figure>
-<p>宾夕法尼亚大学的 Paul Rozin 是厌恶心理学领域的奠基人<sup>[8]</sup>，他和同事们的一系列研究显示，人对体液的厌恶感随亲密度递减：陌生人的最恶心，熟人的好一点，伴侣的勉强能忍。自己的呢？压根不进入意识。进化大概觉得，对自己的分泌物恶心是一种浪费。</p>
-<p>大象也一样。</p>
+<p>棉花能起到缓冲作用，但很不理想，人可能会死亡或受伤。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-79d6f7b078e11565a15d830a7d1c40fb_720w.jpg?source=8673f162" alt=""></figure>
+<p>2016 年 7 月 30 日，美国 42 岁的跳伞运动员 Luke Aikins，不使用降落伞或翼装，从 7620 米高空跃下并安全着陆。出舱 40 秒后，Luke 在距地面 6000 米的高空达到了下落期间的最高时速 241 公里，相当于急速行驶的跑车的速度。随后因为空气阻力作用，下降速度有所减缓，Aikins 以稳定时速 193 公里，最后阶段及时翻身，收紧下巴，背卧安全着网。这张降落安全网有三分之一个足球场的大小。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-85871313475e30e9890bfcca5f08a5bf_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1225ade7ba3ae7b4779e307fffd7a100_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-db6d8da87fb70719dafcdf802ba65a43_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ceb33a0789266a800012f7bb33939f2_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-22a2be669aff2132c5f9208b69b8b10d_720w.jpg?source=8673f162" alt=""></figure>
+<p>Luke 成功的要素很多，他本身深厚的跳伞功底，准确姿势精确入网是重要条件。而缓冲网本身的设计也至关重要。缓冲网高 60 米，下方还有第二层安全网以防万一。Luke 在网上的缓冲用了足足 0.6s，下陷 15–20 米，停在第二层安全网上方几米的地方。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-460a6e7629b4d6c68300977fda022e5a_720w.gif?source=8673f162" alt=""></figure>
+<p>万米高空（10000 米）自由下落的人体，并不会无限加速。空气阻力会与重力快速平衡，让人体进入匀速下落的终端速度状态，四肢张开、保持稳定下落姿态时，低空稠密大气中的终端速度稳定在 50-60m/s（约 180-220km/h）。这个速度在下落高度超过 1500 米后就基本恒定，万米高空和 2000 米高空落地前的最终速度差异极小。</p>
+<p>人体能正常承受的最大减速度为 10g（约 98m/s²，相当于严重车祸但可能幸存），终端速度 55m/s、安全加速度 10g，代入公式 v^2=2ac 可算出理论上仅需约 15 米的匀减速距离，就能将人体速度从 55m/s 降至 0m/s。如果考虑短时间，人体可承受的安全减速加速度上限约为 20g（约 196m/s²，正向受力，超过该值会造成内脏破裂、骨骼粉碎等致命损伤），则 7.7m 就够了。Luke 的成功得益于那张网在 0.6s 内持续提供足够的缓冲阻力，所以 15-20m 缓冲足够了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d9958fa4524487502f2cc49404274229_720w.jpg?source=8673f162" alt=""></figure>
+<p>单从距离上看，100 米棉花的厚度远大于理论所需的最小缓冲距离，具备充足的减速空间。棉花并不是均匀的缓冲阻力。一方面棉花本身会被压缩，压缩比可达 100 倍以上，越压缩越重，越重越压缩，且阻力随压缩程度呈指数级上升，100 米厚的棉花可能几米表面是柔软的，底下压得很实很硬。另一方面，无约束的蓬松棉花，人体刚砸入时棉花会被快速挤压、横向冲散，初期阻力远不足以提供足够的减速力，人体仍会以接近终端速度高速深入硬棉花层，依然是致命的硬着陆。而有约束的棉花，高速冲击下，棉花纤维来不及排开空气，瞬间呈现类似固体的刚性，减速度可能超过 100g，同样存在受伤的风险。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f6bf95e73e74e82ebc02d27463c0cc57_720w.jpg?source=8673f162" alt=""><figcaption>没有适当蓬松处理，棉花其实很结实</figcaption></figure>
+<p>所以相比落在水泥地上，棉花能起到缓冲作用，可将减速度降至百 g 级别，大概率从摔的骨骼碎碎的变为骨折、重伤乃至死亡。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2027037464112408538">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2025565191627130255">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789393</guid>
-                <pubDate>Sun, 03 May 2026 18:51:55 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789418</guid>
+                <pubDate>Mon, 04 May 2026 02:26:51 GMT</pubDate>
             </item>
             
     </channel>
