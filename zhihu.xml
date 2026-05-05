@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Mon, 04 May 2026 19:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 02:22:14 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>人为什么会随年龄而保守?</title>
-                <link>http://daily.zhihu.com/story/9789396</link>
-                <description>Jay哥讲数学，清华数学研究生, B站账号: Jay哥讲数学 查看知乎原文 如果你去过清华大学,就会知道清华的食堂多得离谱.我刚到清华读书的时候,第一个学期几乎每周都会去一个没去过的食堂,即便如此,一个学期下来别说把所有窗口吃一遍了,还有好多食堂根本一次都没去过! 可是现在不一样了.这个学期,我基本只在两三家常去的食堂之间轮换,而且在每个食堂里也只吃固定的那几个窗口.相比刚入学的时候,我变得更保守…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-41277afd208fac6c1a97dbf0fd2801cd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么很多人能理解陈胜吴广，却很难对黄巢产生同情？</title>
+                <link>http://daily.zhihu.com/story/9789428</link>
+                <description>猴子公社，欢迎关注我的公众号：猴子公社。 查看知乎原文 汉高祖刘邦称帝后，干过一件特有意思的事情。 他下了一道诏书，给那个早就死透了的大泽乡起义领袖陈胜，在砀地置守冢三十家。 什么意思呢？就是专门拨了三十户人家，世世代代伺候陈胜的坟头香火。司马迁写《史记》的时候，这笔账还记着：&quot;至今血食&quot;。 你要知道，这时候大汉江山已经坐稳了，陈胜是个什么身份？是个造反失败的&quot;贼&quot;。可刘邦偏偏要把这个&quot;贼&quot;供起来…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e2db4764952602e01a7d29091f1152b3.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,355 +31,74 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-2bb07090fb75c1c8a8fc0390bf9217e8_l.jpg?source=8673f162">
-<span class="author">Jay哥讲数学，</span><span class="bio">清华数学研究生, B站账号: Jay哥讲数学</span>
-<a href="https://www.zhihu.com/question/357807301/answer/1988988948022857994" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-80bc7e1f85d2240d12664718f5d03076_l.jpg?source=8673f162">
+<span class="author">猴子公社，</span><span class="bio">欢迎关注我的公众号：猴子公社。</span>
+<a href="https://www.zhihu.com/question/2001687794410550101/answer/2020034438306747822" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>如果你去过清华大学,就会知道清华的食堂多得离谱.我刚到清华读书的时候,第一个学期几乎每周都会去一个没去过的食堂,即便如此,一个学期下来别说把所有窗口吃一遍了,还有好多食堂根本一次都没去过!</p>
-<p>可是现在不一样了.这个学期,我基本只在两三家常去的食堂之间轮换,而且在每个食堂里也只吃固定的那几个窗口.相比刚入学的时候,我变得更保守了吗?至少在吃饭这件事上,的确如此.但我想说,这种"变保守",其实是一种理性的结果——因为探索阶段已经差不多完成,现在轮到专心收获了.</p>
-<p>这就引出了探索和收获之间的取舍问题:我们到底应该在什么情况下探索新事物,什么情况下专注于已有的东西?在数学中这叫作"探索与收获的取舍问题(Explore/Exploit Tradeoff)"<sup>[1]</sup>.从本质上来讲,这个问题是说,你到底应该花费精力去探索新的信息,还是专注于从已有的信息中获得收获?<sup>[2]</sup></p>
-<p>比如你家附近有个餐馆,你已经去过 15 次,其中 9 次的体验非常好,有 6 次的体验不怎么好.今晚你打算出去吃饭,是应该继续去这家熟悉的老餐馆,还是尝试一家从没去过的新餐馆呢?</p>
-<p>类似的情形无处不在.你在一个单位工作多年,感受好坏参半.某天猎头找到你,给你推荐一个新机会,你要不要跳槽?你读过一位老作者的七本书,其中四本书写得很好,有三本不太行;还有个新作者,你只读过他两本书,其中一本比较好,一本比较差.现在两个人都出了新书,你只能选一本来读,你会选谁?</p>
-<p>这类探索与收获问题是数学上非常难的一类问题,完全不亚于秘书问题,直到上世纪 70 年代才被数学家基廷斯(Gittins)解决<sup>[1]</sup>.</p>
-<p>当时基廷斯是牛津大学一位年轻的统计学教授,有一家医药公司找到他,请他帮忙优化药物试验.那家公司向基廷斯提出这样一个问题:已知有好几种化合物,怎么用最短的时间确定哪种化合物对疾病最有效?</p>
-<p>基廷斯不仅完美解决了这个问题,还顺带解决了探索与收获的问题,他提出了"动态分配指数",现在人们都称之为基廷斯指数.后来别人谈起这项成就时,基廷斯谦虚地说:"这又不是费马大定理."</p>
-<p>基廷斯的思路是,把几种化合物看成赌场里一排老虎机.每台老虎机吐钱的概率各不相同,代表不同药物的疗效.但你一开始并不知道这些概率是多少,所以你会在每台机器上都尝试一番,然后专门挑那些最可能吐钱的机器来玩.</p>
-<p>我们还得考虑时间因素,医药公司希望尽快确定新药的疗效,因此拖得越晚,回报就越低.于是我们要给未来的收益打折扣——你应该已经想到了,这不就是上一讲我们说过的贴现率吗?在这里,贴现率就反映为未来回报的贬值速度,我们最终的目标,是让未来所有时间的折扣回报之和的期望值尽量大.</p>
-<p>具体来说,我们考虑如下多臂老虎机游戏(multi-armed bandit)<sup>[3]</sup>.赌场里共有</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=K" alt=""></p>
-<p>台老虎机,这些老虎机你可以理解成各种不同的选项,比如不同的餐馆或者不同的工作机会.每一轮游戏,你只能选其中一台机子来玩.如果赢了,你获得一个固定回报,不妨设为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
-<p>;输了,回报就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0" alt=""></p>
-<p>.</p>
-<p>设第</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i" alt=""></p>
-<p>台老虎机的回报服从伯努利分布</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctext%7BBernoulli%7D%28%5Ctheta_i%29" alt=""></p>
-<p>,但是参数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
-<p>未知.不过,我们给</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
-<p>赋予一个先验分布,它是我们对机子吐钱概率的先验信念.设</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
-<p>的先验分布是 Beta 分布</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Ctheta_i%5Csim+%5Cmathrm%7BBeta%7D%28%5Calpha%2C%5Cbeta%29%2C%5Cquad+p_%7B%5Ctheta_i%7D%28x%29%3D%5Cfrac%7B%5CGamma%28%5Calpha%2B%5Cbeta%29%7D%7B%5CGamma%28%5Calpha%29%5CGamma%28%5Cbeta%29%7Dx%5E%7B%5Calpha-1%7D%281-x%29%5E%7B%5Cbeta-1%7D%2C%5Cquad+x%5Cin%280%2C1%29%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>至于为什么选择 Beta 分布?原因很简单:它在数学上非常方便.如果参数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
-<p>的先验分布是 Beta 分布,那么在观察到样本数据之后,</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=+%5Ctheta_i" alt=""></p>
-<p>的后验分布依然是 Beta 分布(只是参数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Calpha%2C%5Cbeta" alt=""></p>
-<p>的值会发生变化).数学上就把 Beta 分布称为伯努利分布的共轭分布(conjugate distribution).如果你学过一点数理统计,对此应该不会陌生.</p>
-<p>先验分布中参数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%28%5Calpha%2C%5Cbeta%29" alt=""></p>
-<p>的一个常见取法是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%281%2C1%29" alt=""></p>
-<p>,也就是先验分布是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%280%2C1%29" alt=""></p>
-<p>上的均匀分布.这反映了我们一开始对这台老虎机的态度:既不知道它吐钱的概率大,还是不吐钱的概率大,不妨假定所有可能的吐钱概率都是等可能的.</p>
-<p>接下来,每玩一次老虎机,它都会给我们一个"赢 / 输"的反馈.比如你在某台老虎机上玩了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=10" alt=""></p>
-<p>次,其中</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=9" alt=""></p>
-<p>次都赢了,一次输了.此时你再认为这台老虎机赢和输的概率一样大就不合适了,所以你需要根据经验调整对这台机器的看法,也就是用贝叶斯公式更新信念.</p>
-<p>一般地,如果已知第</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i" alt=""></p>
-<p>台老虎机玩了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w%2Bl" alt=""></p>
-<p>次,其中赢了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w" alt=""></p>
-<p>次,输了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=l" alt=""></p>
-<p>次,那么</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta_i" alt=""></p>
-<p>的后验分布是:</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++p_%7B%5Ctheta_i%7D%28x%5C%2C%7C%5C%2C%28w%2Cl%29%29%3D%5Cfrac%7Bp%28%28w%2Cl%29%5C%2C%7C%5C%2C%5Ctheta_i%3Dx%29p_%7B%5Ctheta_i%7D%28x%29%7D%7B%5Cdisplaystyle%5Cint_0%5E1p%28%28w%2Cl%29%5C%2C%7C%5C%2C%5Ctheta_i%3Dt%29p_%7B%5Ctheta_i%7D%28t%29%5C%2C%5Cmathrm%7Bd%7D+t%7D%3DCx%5E%7B%5Calpha%2Bw-1%7D%281-x%29%5E%7B%5Cbeta%2Bl-1%7D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>因此</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Ctheta_i%5C%2C%7C%5C%2C%28w%2Cl%29%5Csim%5Cmathrm%7BBeta%7D%28%5Calpha%2Bw%2C%5Cbeta%2Bl%29%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>于是,下一次玩这台老虎机时,赢钱和空手而归的概率分别为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++P%28X_i%3D1%5C%2C%7C%5C%2C%28w%2Cl%29%29%3D%5Cfrac%7B%5Calpha%2Bw%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%7D%2C%5Cquad+P%28X_i%3D0%5C%2C%7C%5C%2C%28w%2Cl%29%29%3D%5Cfrac%7B%5Cbeta%2Bl%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%7D.+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>现在假设这个多臂老虎机游戏我们会一直玩下去,我们希望找到一个策略,使得折扣化后的收益和的期望值最大.这里的策略</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpi" alt=""></p>
-<p>,就是指玩到第</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=t" alt=""></p>
-<p>轮的时候,根据前</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=t-1" alt=""></p>
-<p>轮在各个老虎机上的输赢结果,选择一台老虎机</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpi%28t%29" alt=""></p>
-<p>.最佳策略就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Cpi%5E%2A%3D%5Cunderset%7B%5Cpi%7D%7B%5Carg%5Csup%7D%5C%2CE_%5Cpi%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Cinfty%5Cdelta%5E%7Bt-1%7DX_%7B%5Cpi%28t%29%2Ct%7D%5Cright%5D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>其中</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""></p>
-<p>表示贴现率,</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=+X_%7Bi%2Ct%7D" alt=""></p>
-<p>表示第</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=t" alt=""></p>
-<p>轮时选择第</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=i" alt=""></p>
-<p>台老虎机带来的随机回报.</p>
-<p>为了找到最佳策略</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cpi" alt=""></p>
-<p>,基廷斯先从一个更简单的情形入手:只考虑一台老虎机的情况.这台老虎机的回报仍然服从伯努利分布</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctext%7BBernoulli%7D%28%5Ctheta%29" alt=""></p>
-<p>,参数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta" alt=""></p>
-<p>的先验分布为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmathrm%7BBeta%7D%28%5Calpha%2C%5Cbeta%29" alt=""></p>
-<p>.假设我们已经在这台老虎机上玩了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w%2Bl" alt=""></p>
-<p>局,赢了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w" alt=""></p>
-<p>局,输了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=l" alt=""></p>
-<p>局.我们想知道这台老虎机未来的期望收益如果折合成稳定的现金流应该是多少?</p>
-<p>更具体地说,假如给你另外一个选项:只要你答应再也不玩这台老虎机,那么从下一轮开始,每一轮你都可以获得一个固定回报</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda" alt=""></p>
-<p>.那这个</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda" alt=""></p>
-<p>要大到什么程度,你才愿意立即放弃玩这台老虎机?</p>
-<p>如果你暂时不想放弃玩这台老虎机的权利,而是准备再玩</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
-<p>轮,那么这</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
-<p>给你带来的折扣化期望收益就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>而你因此放弃掉的获取稳定回报的折扣化收益为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++E%5Cleft%28%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Clambda%5Cright%29%3D%5Clambda+E%5Cleft%28%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%29%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>之所以写成和式的期望而不是直接写和式,是因为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
-<p>也可以是随机变量,事实上它就是最优停止理论中的停时.</p>
-<p>考虑两者比值的最大值:</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Csup_%5Ctau%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+%5Clambda+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%7D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>如果这个值大于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
-<p>,意味着存在某个停时</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
-<p>,在你玩了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
-<p>轮之后停下所获得的折扣化期望收益,要比一开始就选择稳定现金流方案更高.这种情况下,你当然不会立刻放弃老虎机.让你刚好愿意放弃的临界点</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda%5E%2A" alt=""></p>
-<p>,就是让上述比值等于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
-<p>的那个点,也就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5Clambda%5E%2A%3D%5Csup_%5Ctau%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%7D%2C+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>这里的</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda%5E%2A" alt=""></p>
-<p>就被称为状态为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%28w%2Cl%29" alt=""></p>
-<p>的老虎机的基廷斯指数(Gittens index),记作</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>.</p>
-<p>有了单臂老虎机的基廷斯指数,我们再回到原来的多臂老虎机问题.基廷斯发现多臂老虎机游戏有个简单到不可思议的解法——每一轮都去玩当前基廷斯指数最大的老虎机!</p>
-<p><strong>基廷斯指数定理(Gittins index theorem)</strong><sup>[3]</sup><strong>: 记 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmathcal%7BF%7D_t%3D%28%28w_%7Bi%2Ct%7D%2Cl_%7Bi%2Ct%7D%29%29_%7B1%5Cleqslant+i%5Cleqslant+K%7D" alt=""> 表示到第 <img class="content-image" src="https://www.zhihu.com/equation?tex=t" alt=""> 轮为止,在每台老虎机上赢和输的次数,那么多臂老虎机的最佳策略为</strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++%5Cpi%28t%29%3D%5Cunderset%7B1%5Cleqslant+i%5Cleqslant+K%7D%7B%5Carg%5Cmax%7D%5C%2C+G_%5Cdelta%28w_%7Bi%2Ct%7D%2Cl_%7Bi%2Ct%7D%29.+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<hr>
-<p>在具体应用中,人们会事先把各种输赢次数的基廷斯指数计算出来,整理成一张表格.比如,假设先验分布是均匀分布</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmathrm%7BBeta%7D%281%2C1%29" alt=""></p>
-<p>,贴现率</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""></p>
-<p>分别取</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=99%5C%25" alt=""></p>
-<p>和</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=90%5C%25" alt=""></p>
-<p>,我们就可以得到如下两张基廷斯指数表<sup>[1]</sup>:</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cba3468af95a54a13a7aa5def164537f_720w.jpg?source=8673f162" alt=""><figcaption>贴现率为 99%的基廷斯指数表</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c95ead6960d3380aef464d8a85a212b_720w.jpg?source=8673f162" alt=""><figcaption>贴现率为 90%的基廷斯指数表</figcaption></figure>
-<p>简单解释一下这张表的含义.比如在第一张表格中,第 4 列第 3 行对应的是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%283%2C2%29" alt=""></p>
-<p>这个格子,数值是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0.7696" alt=""></p>
-<p>.这表示已知过去一共玩了 5 次,其中赢了 3 次,输了 2 次,那么在贴现率为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=99%5C%25" alt=""></p>
-<p>的前提下,继续玩老虎机的折扣化价值就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0.7696" alt=""></p>
-<p>.</p>
-<p>接下来我们看看基廷斯指数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>的一些性质.</p>
-<p><strong>命题 1: <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu%28w%2Cl%29%5Cleqslant+G_%5Cdelta%28w%2Cl%29%5Cleqslant+%5Cmu%28w%2Cl%29%2B%281-%5Cmu%28w%2Cl%29%29%5Cdelta." alt=""> 其中 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu%28w%2Cl%29%3D%5Cfrac%7B%5Calpha%2Bw%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%7D" alt=""> .</strong></p>
-<p>证明: 根据</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>的定义,它是对所有停时</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
-<p>取比值的上确界,因此令</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau%5Cequiv1" alt=""></p>
-<p>,就有</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++G_%5Cdelta%28w%2Cl%29%5Cgeqslant+E%28X_1%5C%2C%7C%5C%2C%28w%2Cl%29%29%3DP%28X_1%3D1%5C%2C%7C%5C%2C%28w%2Cl%29%29%3D%5Cfrac%7B%5Calpha%2Bw%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%7D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>这就证明了左边的不等式.又因为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++%26%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%7D%5Cleqslant%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5BX_1%2B%5Csum_%7Bt%3D2%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%7D%3D%5Cfrac%7B%5Cdisplaystyle%5Cmu%28w%2Cl%29%2B%5Csum_%7Bt%3D2%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%7D%7B%5Cdisplaystyle%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%7D%5C%5C+++++++++%26%3D%5Cmu%28w%2Cl%29%2B%281-%5Cmu%28w%2Cl%29%29%5Ccdot%5Cfrac%7B%5Cdisplaystyle%5Csum_%7Bt%3D2%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%7D%7B%5Cdisplaystyle%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%7D%5Cleqslant%5Cmu%28w%2Cl%29%2B%281-%5Cmu%28w%2Cl%29%29%5Cdelta.+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
-<p>因此对停时</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
-<p>取上确界,也有上述不等式,这就证明了右边的不等式.</p>
-<hr>
-<p>在这里,</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=+%5Cmu%28w%2Cl%29" alt=""></p>
-<p>是只允许再玩一次老虎机的平均回报,我们看到</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>总是大于等于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu%28w%2Cl%29" alt=""></p>
-<p>.这多出来的部分</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%2A%7D+++++%5CDelta_%5Cdelta%28w%2Cl%29%3DG_%5Cdelta%28w%2Cl%29-%5Cmu%28w%2Cl%29+%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>就可以看作探索带来的附加值.如果只能再玩一次,那么探索就没有必要,如果你有权继续玩,那么探索就是值得的,会多出</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>这一块价值.</p>
-<p>直觉上,贴现率越高,也就是越看重未来的回报,探索的附加值也就越大.反之,如果你只关心眼前的利益,那么探索就不太值钱<sup>[2]</sup>.</p>
-<p>比如我在清华还要待上很久,这时候如果我听说有哪个食堂推出了新窗口,那么我去尝试一下,冒点险是值得的.因为要是那个窗口确实不错,以后还可以去吃很多次.但是假如明天我就从清华毕业了,那最稳妥的做法就是去自己一贯觉得不错的老食堂,哪怕此时有什么新的好吃的,也已经跟我关系不大了.</p>
-<p>找工作也是一样,如果你还年轻,那么就应该积极探索,寻找最适合自己的工作.如果再过两个月就退休了,你还跳什么槽?</p>
-<p>从前面两张基廷斯指数表我们也能看到这个趋势:贴现率为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=90%5C%25" alt=""></p>
-<p>时,表中的数字整体比贴现率为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=99%5C%25" alt=""></p>
-<p>时要小.下面我们从数学上严格证明这一观察.</p>
-<p><strong>命题 2: <img class="content-image" src="https://www.zhihu.com/equation?tex=+%5CDelta_%5Cdelta%28w%2Cl%29" alt=""> 关于 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""> 是单调递增函数,并且 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdisplaystyle%5Clim_%7B%5Cdelta%5Cto0%7D%5CDelta_%5Cdelta%28w%2Cl%29%3D0" alt=""> .</strong></p>
-<p>证明: 设</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta_1%3C%5Cdelta_2" alt=""></p>
-<p>,再设</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Crho%3A%3D%5Cdfrac%7B%5Cdelta_1%7D%7B%5Cdelta_2%7D%5Cin%280%2C1%29" alt=""></p>
-<p>,构造几何型随机变量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=N" alt=""></p>
-<p>满足</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++P%28N%3Et%29%3D%5Crho%5E%7Bt-1%7D%2C%5Cquad+t%3D1%2C2%2C3%2C%5Ccdots.+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>对任意停时</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau" alt=""></p>
-<p>,构造与之对应的另外一个停时</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau%27%3A%3D%5Cmin%5C%7B%5Ctau%2CN%5C%7D" alt=""></p>
-<p>.于是由重期望公式</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++%26E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%27%7D%5Cdelta_2%5E%7Bt-1%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_2%5E%7Bt-1%7D1_%7B%5C%7Bt%5Cleqslant+N%5C%7D%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_2%5E%7Bt-1%7DE%281_%7B%5C%7Bt%5Cleqslant+N%5C%7D%7DX_t%5C%2C%7C%5C%2C%28w%2Cl%29%29%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_2%5E%7Bt-1%7DE%281_%7B%5C%7Bt%5Cleqslant+N%5C%7D%7D%29E%28X_t%5C%2C%7C%5C%2C%28w%2Cl%29%29%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Crho%5E%7Bt-1%7D%5Cdelta_2%5E%7Bt-1%7DE%28X_t%5C%2C%7C%5C%2C%28w%2Cl%29%29%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_1%5E%7Bt-1%7DE%28X_t%5C%2C%7C%5C%2C%28w%2Cl%29%29%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5D%5C%5C+++++++++%26%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta_1%5E%7Bt-1%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D.+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
-<p>类似地,可以证明</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%27%7D%5Cdelta_2%5E%7Bt-1%7D%5Cright%5D%3DE%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta_1%5E%7Bt-1%7D%5Cright%5D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>因此设</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctau_1" alt=""></p>
-<p>是对应于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta_1" alt=""></p>
-<p>的最佳停时,那么</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++G_%7B%5Cdelta_1%7D%28w%2Cl%29%3D%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau_1%7D%5Cdelta_1%5E%7Bt-1%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau_1%7D%5Cdelta_1%5E%7Bt-1%7D%5Cright%5D%7D%3D%5Cfrac%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau_1%27%7D%5Cdelta_2%5E%7Bt-1%7DX_t%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%7D%7B%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau_1%27%7D%5Cdelta_2%5E%7Bt-1%7D%5Cright%5D%7D%5Cleqslant+G_%7B%5Cdelta_2%7D%28w%2Cl%29.+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
-<p>于是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>关于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""></p>
-<p>是单调递增的,从而</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>也单调递增.至于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdisplaystyle%5Clim_%7B%5Cdelta%5Cto0%7D%5CDelta_%5Cdelta%28w%2Cl%29%3D0" alt=""></p>
-<p>,由前一命题立即可以得到.</p>
-<hr>
-<p>这个命题严格证明了我们刚才的直觉:贴现率</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdelta" alt=""></p>
-<p>越大,探索带来的附加值</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>也越大;当贴现率趋近于 0 时,探索的附加值也几乎为零.换回现实生活里就是:你越在乎长远,越应该给自己一些探索的空间;你越只在乎眼前,越没必要折腾.</p>
-<p>不过,我觉得基廷斯指数最有意思的启示是:在同等条件下,新选项比老选项更有吸引力.看看贴现率为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=99%5C%25" alt=""></p>
-<p>的那张表,你会发现对于从未尝试过的选项(对应</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%280%2C0%29" alt=""></p>
-<p>的格子),基廷斯指数竟然也高达</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=0.87" alt=""></p>
-<p>,甚至比已经尝试过 10 次,其中赢 8 次输 2 次的选项(对应</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%288%2C2%29" alt=""></p>
-<p>还要高.而沿着对角线往右下角,你会发现基廷斯指数是不断下降的.</p>
-<p>一个直观的解释是小样本的统计很可能不准,也许一次不好只是偶然,因此探索的附加值还很高<sup>[2]</sup>.相比之下,老餐馆你已经去过很多次了,测量结果已经稳定在一个一般的水平,不会再给你带来惊喜.</p>
-<p>这个现象总结为更正式的数学命题就是:</p>
-<p><strong>命题 3: 如果 <img class="content-image" src="https://www.zhihu.com/equation?tex=%28w_1%2Cl_1%29%2C%28w_2%2Cl_2%29" alt=""> 满足 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu%28w_1%2Cl_1%29%3D%5Cmu%28w_2%2Cl_2%29" alt=""> ,且 <img class="content-image" src="https://www.zhihu.com/equation?tex=w_1%2Bl_1%3Cw_2%2Bl_2" alt=""> ,那么</strong></p>
-<p><strong><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++%5CDelta_%5Cdelta%28w_1%2Cl_1%29%5Cgeqslant+%5CDelta_%5Cdelta%28w_2%2Cl_2%29.+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></strong></p>
-<p><strong>令 <img class="content-image" src="https://www.zhihu.com/equation?tex=n%3Dw%2Bl" alt=""> ,则有 <img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdisplaystyle%5Clim_%7Bn%5Cto%5Cinfty%7D%5CDelta_%5Cdelta%28w%2Cl%29%3D0" alt=""> .</strong></p>
-<p>证明: 我们先证明第二个结论,相对来说容易一些.当</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n%3Dw%2Bl" alt=""></p>
-<p>充分大时,无论接下来是赢还是输,对后验分布的改变都非常小(量级约为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=O%281%2Fn%29" alt=""></p>
-<p>).从而由重期望公式</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7DX_%7Bt%7D%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%5Cright%5D%26%3DE%5Cleft%5C%7B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta%5E%7Bt-1%7D%5Cleft%5B%5Cmu%28w%2Cl%29%2BO%5Cleft%28%5Cfrac%7B1%7D%7Bn%7D%5Cright%29%5Cright%5D%5C%2C%5CBigg%7C%5C%2C%5Ctau%5Cright%5C%7D%5C%5C+++++++++%26%3D%5Cmu%28w%2Cl%29E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%5Ctau%5Cdelta%5E%7Bt-1%7D%5Cright%5D%2BO%5Cleft%28%5Cfrac%7B1%7D%7Bn%7D%5Cright%29%2C+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
-<p>由此可知</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++G_%5Cdelta%28w%2Cl%29%3D%5Cmu%28w%2Cl%29%2BO%281%2Fn%29%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>因此</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cdisplaystyle%5Clim_%7Bn%5Cto%5Cinfty%7D%5CDelta_%5Cdelta%28w%2Cl%29%3D0" alt=""></p>
-<p>.</p>
-<p>第一个结论的证明稍微复杂一些.首先记</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++V_%5Cdelta%28n%2C%5Cmu%3B%5Clambda%29%3D%5Csup_%5Ctau%5Cdisplaystyle+E%5Cleft%5B%5Csum_%7Bt%3D1%7D%5E%7B%5Ctau%7D%5Cdelta%5E%7Bt-1%7D%28X_t-%5Clambda%29%5C%2C%5CBigg%7C%5C%2C%28w%2Cl%29%3Aw%2Bl%3Dn%2C%5Cmu%28w%2Cl%29%3D%5Cmu%5Cright%5D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>容易证明</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda%5E%2A%3DG%28w%2Cl%29" alt=""></p>
-<p>正是上述函数关于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Clambda" alt=""></p>
-<p>的零点.</p>
-<p>考虑一步递推,也就是对</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=X_1" alt=""></p>
-<p>的结果进行分类讨论,如果第一轮赢了,那么后验分布变为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++%5Cmu_n%5E%2B%3D%5Cfrac%7B%5Calpha%2Bw%2B1%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%2B1%7D%3D%5Cmu%2B%5Cfrac%7B1-%5Cmu%7D%7B%5Calpha%2B%5Cbeta%2Bn%2B1%7D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>如果第一轮输了,那么后验分布为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++%5Cmu_n%5E-%3D%5Cfrac%7B%5Calpha%2Bw%7D%7B%5Calpha%2B%5Cbeta%2Bw%2Bl%2B1%7D%3D%5Cmu-%5Cfrac%7B%5Cmu%7D%7B%5Calpha%2B%5Cbeta%2Bn%2B1%7D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>因此有</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++V_%5Cdelta%28n%2C%5Cmu%3B%5Clambda%29%3D%5Cmax%5C%7B0%2C%28%5Cmu-%5Clambda%29%2B%5Cdelta%5Cleft%5B%5Cmu+V_%5Cdelta%28n%2B1%2C%5Cmu_n%5E%2B%3B%5Clambda%29%2B%281-%5Cmu%29V_%5Cdelta%28n%2B1%2C%5Cmu_n%5E-%3B%5Clambda%29%5Cright%5D%5C%7D+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
-<p>利用向前归纳法,可以证明</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=V_%5Cdelta%28n%2C%5Cmu%3B%5Clambda%29" alt=""></p>
-<p>是关于</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu" alt=""></p>
-<p>的凸函数.</p>
-<p>构造随机变量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=M_n" alt=""></p>
-<p>满足</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++P%28M_n%3D%5Cmu_n%5E%2B%29%3D%5Cmu%2C%5Cquad+P%28M_n%3D%5Cmu_n%5E-%29%3D1-%5Cmu.+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>从</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmu_n%5E%5Cpm" alt=""></p>
-<p>的表达式可以看出,</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=+%7C%5Cmu_n%5E%5Cpm-%5Cmu%7C" alt=""></p>
-<p>随</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n" alt=""></p>
-<p>单调递减,从而</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cmathrm%7BVar%7D%28M_n%29" alt=""></p>
-<p>随 n 单调递减.于是由 Jensen 不等式,当</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n_1%3Cn_2" alt=""></p>
-<p>时,我们有</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Bequation%2A%7D+++++++++E%5BV_%5Cdelta%28n_1%2B1%2CM_%7Bn_1%7D%3B%5Clambda%29%5D%5Cgeqslant+E%5BV_%5Cdelta%28n_2%2B1%2CM_%7Bn_2%7D%3B%5Clambda%29%5D%2C+++++%5Cend%7Bequation%2A%7D%5C%5C" alt=""></p>
-<p>因此</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=++++%5Cbegin%7Balign%2A%7D+++++++++V_%5Cdelta%28n_1%2C%5Cmu%3B%5Clambda%29%26%3D%5Cmax%5C%7B0%2C%28%5Cmu-%5Clambda%29%2B%5Cdelta+E%5BV_%5Cdelta%28n_1%2B1%2CM_%7Bn_1%7D%3B%5Clambda%29%5D%5C%7D%5C%5C+++++++++%26%5Cgeqslant%5Cmax%5C%7B0%2C%28%5Cmu-%5Clambda%29%2B%5Cdelta+E%5BV_%5Cdelta%28n_2%2B1%2CM_%7Bn_2%7D%3B%5Clambda%29%5D%5C%7D%5C%5C+++++++++%26%3DV_%5Cdelta%28n_2%2C%5Cmu%3B%5Clambda%29.+++++%5Cend%7Balign%2A%7D%5C%5C" alt=""></p>
-<p>也就是说,当</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n" alt=""></p>
-<p>较小时,这个状态"赚取正回报"的能力更强,相应的其零点</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=G_%5Cdelta%28w%2Cl%29" alt=""></p>
-<p>也就更大.因此当</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=w_1%2Bl_1%3Cw_2%2Bl_2" alt=""></p>
-<p>时,就有</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta_%5Cdelta%28w_1%2Cl_1%29%5Cgeqslant%5CDelta_%5Cdelta%28w_2%2Cl_2%29" alt=""></p>
-<p>.</p>
-<hr>
-<p>从这个模型我们至少能获得三个人生智慧<sup>[2]</sup>.</p>
-<p>第一是,年轻时应该多探索.</p>
-<p>年轻人有长远的未来,贴现率很高,所以大胆探索才是最优选择.正如你在一座城市要待很多年,那就应该多尝试不同的餐馆,找找哪一家最好吃.</p>
-<p>你看小孩子就非常明白这个道理.虽然他们不懂什么是基廷斯指数,但是非常愿意探索.他们会把家里的电器按钮都按一遍,特别喜欢玩新玩具,总是充满好奇心.</p>
-<p>2014 年美国有一项研究,从职业选择与匹配的框架出发<sup>[4]</sup>,指出:如果你在二十多岁的时候经常换工作,你会更容易找到适合你的工作.也就是说等你到三四十岁的时候,你会更喜欢你的工作,收入水平也会更高.</p>
-<p>所以,年轻人频繁换工作不但不是任性,反而是必要的,这是在探索.很多人担心频繁跳槽会被认为缺乏忠诚,但在今天这个世界里,决定你职业前途的首要因素,是你的能力和声望.在美国硅谷,一个典型的工程师首先追求的是他在整个行业中的声望,其次才是他对某家公司的具体贡献——当然,前者要靠后者来证明.只要你在自己的行业中有足够高的声望,去哪家公司,待遇都不会差.</p>
-<p>如果你已经不是二十几岁的年轻人了,那是不是就不用探索了呢?也不一定,如果你从事的是创造性的工作,那你一生都要有战略性的探索期.我们在第 9 讲中提到过,那些最厉害的科学家,都是"探索 + 深耕"的模式<sup>[5]</sup>.科学探索是一项永无止境的事业,即便科学家的寿命是有限的,但是他开辟出的方向还会有后人继续发展和完善.从这个意义上说,科学研究的贴现率其实很高,所以你会看到,有些科学家哪怕年过花甲,依然在不断拓展新方向.</p>
-<p>当然,强调探索,就意味着没有那么多收获,所以家庭因素就很重要.一个年轻人要想不断试错,背后需要父母提供强有力的支持!现在很多年轻人执着于考公、考编,热衷于一眼望到头的工作.并不是他们不想探索,而是他们输不起!如果我们希望社会变得更有活力,就需要多一些包容,允许年轻人有试错的机会.</p>
-<p>第二个智慧是,随着年龄增长要慢慢专注于收获.</p>
-<p>一个一般规律是,人的社交圈子会随着年龄增长逐渐变窄.年纪大了之后,经常见面的总是那几个人,经常做的事情也就那么几件,去的地方也很有限.比如总是去同一家餐馆、点同样的菜,好像已经失去了探索的动力.过去人们认为这是老年人的悲哀.</p>
-<p>但是斯坦福有一位心理学教授却不这么认为<sup>[6]</sup>,他认为这其实是老年人的理性选择,老年人已经完成了探索!他们知道自己最适合做的事情是什么,和哪些人在一起最舒服,哪个餐馆最符合自己口味,他们已经没有冒险探索的必要,只要享受人生就行了.</p>
-<p>所以人到了一定阶段,就要慢慢安定下来,开始把以前探索的成果兑现.很多人忙忙碌碌大半生,到头来什么也没得到,这就是不懂得收获的重要性.有些大学教授,在功成名就之后,就跑到企业里当顾问,做技术转化,这就是把资源和能力兑现了.这件事通常在四五十岁以后考虑比较合适,在此之前,探索才刚刚完成,资源和能力还在积累,过早兑现,挣不了多少钱.也有一些人不懂得这个道理,五十岁以后,眼看着自己的资源和能力不断贬值、过时,这是非常可惜的.</p>
-<p>第三个智慧是,在慢慢变老的过程中,你的生活其实在变得越来越好.</p>
-<p>我们鼓励年轻人多探索,并不是探索本身有很大的好处,而是为了找到那些能够带来丰厚回报的选项.实际上,探索并不像我们想象得那么有趣,大部分的探索都以失败告终,你会不断遭遇挫折,根本没有那么多惊喜.</p>
-<p>老年人不再探索,并不是他们不敢探索了,而是他们已经不用探索了,他们可以享用年轻时探索带来的成果.如果你知道自己喜欢什么,你会很乐意被自己喜欢的事物所包围.</p>
-<p>下一次当你看到一位老人,每天去同一个公园散步,走同一条路线,跟同一群老伙计聊天,你可能以为他的生活很无趣——殊不知这才是最浪漫的事,他在享受用一生的时间探索出来的成果!</p>
+<p>汉高祖刘邦称帝后，干过一件特有意思的事情。</p>
+<p>他下了一道诏书，给那个早就死透了的大泽乡起义领袖陈胜，在砀地置守冢三十家。</p>
+<p>什么意思呢？就是专门拨了三十户人家，世世代代伺候陈胜的坟头香火。司马迁写《史记》的时候，这笔账还记着："至今血食"。</p>
+<p>你要知道，这时候大汉江山已经坐稳了，陈胜是个什么身份？是个造反失败的"贼"。可刘邦偏偏要把这个"贼"供起来，当成王侯一样祭祀。</p>
+<p>我觉得吧，刘邦这人虽然是个流氓出身，但在这种大是大非的历史节点上，却是特明白的人——他心里清楚，大汉的合法性，有一半是踩在陈胜的肩膀上得来的。</p>
+<p>他把陈胜供起来，其实是告诉天下人：我刘邦不是篡位，我是继承陈胜的反秦大业。</p>
+<p>他这一手“接盘”，玩得那叫一个漂亮，直接把陈胜从“贼”的位置拔高到了“王”的位置，他自己的起点位置，自然也跟着水涨船高了。</p>
+<p>后来，司马迁写《史记》，那更是一个顺水推舟，索性把陈胜塞进了“世家”里。</p>
+<p>要知道，“世家”，那可是给诸侯王留的位置，历来除了至圣先师孔子，就只有陈胜这个起义头子挤进来了。</p>
+<p>孔子入世家，是因为他是圣人；陈胜一个雇农出身的失败者，凭什么也能挤进这里头？ 凭的就是大汉王朝需要他的合法性。</p>
+<p>你看，这就是历史的吊诡之处。有时候，你的命运，不掌握在你自己手里，而掌握在那些为你“接盘”的人手里。</p>
+<p>我曾经一度感到疑惑，为什么同样是揭竿而起，同样是把旧王朝搞得灰头土脸，后人能理解陈胜吴广，却很难对黄巢产生同情？甚至很多人一提黄巢，就觉得那是个杀人不眨眼的魔头。</p>
+<p>论才华，论魄力，可以说黄巢完全不在陈胜之下——</p>
+<p>他是个屡试不第的盐商之子，论文化那是要甩陈胜几条街，他写的“冲天香阵透长安”，里头的那股子狠劲和志气，那真是力透纸背；</p>
+<p>他率领起义军转战大半个中国，两入长安，把门阀士族杀了个血流成河，“内库烧为锦绣灰，天街踏尽公卿骨”，彻底终结了魏晋以来三百年的门阀政治……</p>
+<p>单纯从历史进程看，可说以黄巢的破坏力比陈胜大得多，贡献其实也不小。</p>
+<p>但要是联系起唐末五代的那段历史，你就会从后人能理解陈胜吴广却不会同情黄巢的这个视角中，看出来不止一点端倪。</p>
+<p>其实黄巢的悲剧，不在于他起了兵，而在于他不像陈胜那样身后有人接盘，反而只有一帮浑水摸鱼的奸商在那搞事。</p>
+<p>黄巢起义直接导致了唐朝的灭亡，但接棒的是谁？是朱温。</p>
+<p>朱温本是黄巢的大将，后来叛变降唐，反过来咬了旧主一口，最后篡唐建梁。</p>
+<p>接下来是什么？接下来就是你方唱罢我登场的五代十国。</p>
+<p>你想啊，短短五十多年里，中原大地就换了五个朝代，十几个皇帝，今天你上台，明天我砍头，百姓活得那真是连狗都不如。</p>
+<p>这笔账，后世的史官们可是算得清清楚楚的。既然后梁没站稳脚跟，后面的后唐、后晋、后汉、后周，乃至大宋，谁愿意承认自己是黄巢、朱温这一脉的？没人愿意。</p>
+<p>后唐自诩是大唐秽土重生，既然要恢复大唐，那黄巢自然是逆贼；</p>
+<p>后晋修《旧唐书》，为了彻底把大唐装进棺材，更得把导致大唐灭亡的黄巢写成罪魁祸首……</p>
+<p>于是我们在《旧唐书》里看到这么一句荒唐话：“时天下承平日久，人不知兵。”</p>
+<p>这简直就是在睁眼说瞎话好吧。</p>
+<p>黄巢起兵时，大唐早就被安史之乱折腾得千疮百孔，藩镇割据，长安六陷，天子九迁，哪来的承平日久？</p>
+<p>那么问题就来了，史官们为什么要这么写？</p>
+<p>因为只有把唐朝写得好好的，把黄巢写得坏坏的，才能证明后来者推翻唐朝是“拨乱反正”，而不是趁火打劫嘛。</p>
+<p>这说明一件事，那就是历史评价，从来都不是客观的，它是胜利者为了巩固系统而构建的一种叙事。</p>
+<p>陈胜有幸，是因为他死得早，没来得及犯大错，且身后有大汉撑腰；</p>
+<p>黄巢不幸，是因为他活得太久，留下了太多烂摊子，身后还只有一群互相攻讦的军阀。</p>
+<p>整个中国古代的历史评价史，其实也是高度遵循这种“接盘定律”——</p>
+<p>如果一个破坏者身后，跟着一个能建立新秩序的建设者，那他就是先驱；</p>
+<p>如果他身后跟着的是更乱的乱世，那他就是罪人。</p>
+<p>说到底，即便是历史评价这么宏大的命题，其本质也从来不是道德审判，而是成本核算。</p>
+<p>陈胜的“义”，是因为汉朝替他支付了重建秩序的成本；</p>
+<p>黄巢的“贼”，是因为百姓被迫为他留下的乱世买单。</p>
+<p>这，正是社会运行的底层逻辑：破坏永远比建设容易，但只有建设者才配享有解释权。</p>
+<p>而这，也正是陈胜和黄巢留给我们的最世俗的教训：善始不如善终，破局不如收官。</p>
+<p>能把烂摊子收拾成好日子，那才是真本事；反之，哪怕初衷再好，也不过是给史书添了几行血泪罢了。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/357807301">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2001687794410550101">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789396</guid>
-                <pubDate>Mon, 04 May 2026 19:21:51 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789428</guid>
+                <pubDate>Tue, 05 May 2026 02:22:10 GMT</pubDate>
             </item>
             
             <item>
-                <title>历史上有哪两件事听起来不在同一个年代，实际上却同时发生的？</title>
-                <link>http://daily.zhihu.com/story/9789403</link>
-                <description>铜锣卫门小叮当 查看知乎原文 最后一个玛雅国家，和大清几乎同时灭亡。 大众印象，要么认为玛雅文明在古代已“神秘消失”，要么认为玛雅人在 1492 年新大陆发现后即被西班牙征服。了解过玛雅史的朋友则会知道，最后一个玛雅王国——佩腾伊查王国，一直到 1697 年才被西班牙入侵者灭亡，此时南明已经灭亡 35 年。 西班牙对尤卡坦玛雅人的征服，诺赫佩腾（Nojpeten）即为佩腾伊查王国的首都 但比较鲜为…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-81bc4470a5d7111eca2f0cfc3c3aa294.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>动物交配的过程，都有哪些难以令人置信的事实？</title>
+                <link>http://daily.zhihu.com/story/9789438</link>
+                <description>瞻云，先让一部分知识有趣起来 查看知乎原文 首先相比起人类，动物交配往往都是自带 BUFF。 第一大 BUFF，就是人类没有的阴茎骨。 不同动物的阴茎骨，不仅五花八门，更是大小各异。 阴茎骨：海象、北海狮、港海豹、髯海豹、加州海狮、环斑海豹、山河狸、鹿鼠、旱獭、囊鼠、白鼬、长尾鼬、美洲水貂、北美水獭、美洲獾、红狼、郊狼、北极狐、敏狐、美洲黑熊、短尾猫、美洲狮 阿拉斯加原住民用海象阴茎骨制作的艺术品…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-149b9f35b7ac6dc5c45c89e16322e819.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -399,51 +118,114 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a4dfae10a72b7487147f1cd009a2ff3b_l.jpg?source=8673f162">
-<span class="author">铜锣卫门小叮当</span>
-<a href="https://www.zhihu.com/question/333199024/answer/2027692688388932266" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/1889122850172018930/answer/1995183752834471872" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>最后一个玛雅国家，和大清几乎同时灭亡。</p>
-<p>大众印象，要么认为玛雅文明在古代已“神秘消失”，要么认为玛雅人在 1492 年新大陆发现后即被西班牙征服。了解过玛雅史的朋友则会知道，最后一个玛雅王国——佩腾伊查王国，一直到 1697 年才被西班牙入侵者灭亡，此时南明已经灭亡 35 年。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f6c2f60f3cb16bdbed0c940509d5e19d_720w.jpg?source=8673f162" alt=""><figcaption>西班牙对尤卡坦玛雅人的征服，诺赫佩腾（Nojpeten）即为佩腾伊查王国的首都</figcaption></figure>
-<p>但比较鲜为人知的是，在 19 世纪中期，和太平天国几乎同时，尤卡坦半岛的玛雅人掀起了复国战争，一度重建了玛雅国家，并且一直坚持到上世纪初叶，这即是轰轰烈烈的尤卡坦种姓战争。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a9489745c39691e2859a90b2be878f00_720w.jpg?source=8673f162" alt=""><figcaption>尤卡坦半岛，地跨墨西哥东南部、危地马拉北部和伯利兹（原英属洪都拉斯）</figcaption></figure>
-<p>1821 年，墨西哥在土生白人的主导下从西班牙独立。独立后的墨西哥长期陷入中央集权派和联邦派的内斗当中。1836 年，德克萨斯宣布脱离墨西哥独立，受此鼓舞，1841 年，尤卡坦的白人也自行建国，成立了尤卡坦共和国。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b6eb4f665349bc32179154cd70b400bb_720w.jpg?source=8673f162" alt=""><figcaption>1847 年的墨西哥，东北、东南分别是自行独立的德克萨斯共和国和尤卡坦共和国</figcaption></figure>
-<p>尤卡坦虽然独立，但统治者依然是当地的白人后裔。白人为了扩大利润丰厚的龙舌兰和甘蔗种植业，大量侵占玛雅人的公有土地，并经常虐待玛雅工人，而只支付十分微薄的工资。玛雅人在政府中没有平等的代表权，却背负着沉重的税负，还遭受着种族歧视，被称为“退化种族”。</p>
-<p>但独立的尤卡坦共和国为了应对墨西哥中央政府的军事威胁，只好将上万名玛雅人征入军队，以保卫政权。这些受到压迫的玛雅人在获得武器后，最终将枪口对准了白人统治者。</p>
-<p>1847 年 6 月，尤卡坦政府得知一大批玛雅人聚集，于是先下手派兵洗劫数个玛雅城镇，搜捕叛乱分子，并进行任意处决。7 月 30 日，两位玛雅首领塞西利奥·奇（Cecilio Chi）与哈辛托·帕特（Jacinto Pat）联手进攻<span class="nolink">特皮奇</span>，尤卡坦种姓战争爆发。为了报复此前白人对玛雅人的无差别屠杀，奇下令屠杀所有非玛雅居民，他对此声称“感谢上帝，白人死的比玛雅人多得多”。到 1848 年春，玛雅军队已占领尤卡坦半岛的大部分地区，仅剩<span class="nolink">坎佩切</span>和<span class="nolink">梅里达</span>两座有城墙守卫的城市以及西南沿海地区。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4d621552ef7526bf7f335c954ceb653e_720w.jpg?source=8673f162" alt=""><figcaption>特皮奇的塞西利奥·奇雕像</figcaption></figure>
-<p>尤卡坦政府在绝境下向英国、西班牙、美国求援，甚至提出申请并入美国，但都没有得到答复。走投无路之下，尤卡坦共和国只好重新投入墨西哥的怀抱，在 1848 年 8 月 17 日再次并入墨西哥。</p>
-<p>在墨西哥政府提供的枪支、资金和军队的援助下，尤卡坦军队重整旗鼓。同时玛雅领袖之间也无法和睦相处。尤卡坦政府利用玛雅人领导层的混乱，击败了大部分叛军，奇和帕特都在 1849 年死于非命，并通过免除赋税义务和授予自治权，招安了部分原玛雅叛军。</p>
-<p>在玛雅起义陷入低谷时，一位叫胡安·德·拉·克鲁斯的宗教领袖出现了。1850 年，克鲁斯在得到异象指引后创立了“说话的十字架”宗教，他自称耶稣基督，并将天主教元素与玛雅传统信仰融合起来。他在位于昌圣克鲁斯镇（Chan Santa Cruz，小圣十字）的圣十字架神龛前布道，号召玛雅人驱逐白人，收复玛雅土地，并许诺他的信徒们将获得刀枪不入的能力。</p>
-<p>尤卡坦半岛东南部的玛雅人在克鲁斯的号召下稳住了阵脚，他们被称为“克鲁索人”（Cruzob）即十字架人（十字军），并在他们的宗教中心建立了小圣十字国。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9f3b9f02c1455e8f25ca43417c6bcaef_720w.jpg?source=8673f162" alt=""><figcaption>深色为小圣十字国势力范围</figcaption></figure>
-<p>1852 年克鲁斯失踪，此后韦南西奥·普克接管了神谕。普克加强了小圣十字政府的纪律，巩固了独立的玛雅国家，使其能够控制尤卡坦半岛加勒比海沿岸的大片地区。1858 年，他甚至攻占了巴卡拉尔。但 1863 年，由于在处决俘虏问题上和将军们的分歧，普克被政变推翻。将军们揭露一个叫何塞·纳赫的人其实就是替圣十字架说话的人，并处决了他和普克。“说话的十字架”从此沉默了。普克的死堪称小圣十字国的天京事变，代表着国家衰落的开始。1875 年，小圣十字国再次爆发内战。</p>
-<p>与此同时，外部环境也在恶化。<span class="nolink">英国</span>原来事实上承认了小圣十字国，因为它与<span class="nolink">英属洪都拉斯 </span>（<span class="nolink">伯利兹 </span>）之间存在大量贸易往来，伯利兹商人也是小圣十字国武器的主要来源。但 1876 年墨西哥的<span class="nolink">波菲里奥·迪亚斯</span>政府上台后，英国在墨西哥的投资在经济上的重要性远超过小圣十字国与伯利兹的贸易。1893 年英国与墨西哥签署条约，承认墨西哥对小圣十字国的主权，并关闭了伯利兹与小圣十字国的贸易往来，玛雅人从此失去了外部武器来源。</p>
-<p>内忧外患下的小圣十字国的领土日益萎缩。1901 年 5 月 4 日，墨西哥军队开进小圣十字城内，宣告了玛雅人最后一个独立国家的覆灭。此时，八国联军已经占领北京，距离辛亥革命只有十年而已了。</p>
+<p>首先相比起人类，动物交配往往都是自带 BUFF。</p>
+<p>第一大 BUFF，就是人类没有的阴茎骨。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6308e907c4940b397feaa1edc30736a8_720w.jpg?source=8673f162" alt=""></figure>
+<p>不同动物的阴茎骨，不仅五花八门，更是大小各异。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-70fa90112116cceec5369beb847be2b5_720w.jpg?source=8673f162" alt=""><figcaption>阴茎骨：海象、北海狮、港海豹、髯海豹、加州海狮、环斑海豹、山河狸、鹿鼠、旱獭、囊鼠、白鼬、长尾鼬、美洲水貂、北美水獭、美洲獾、红狼、郊狼、北极狐、敏狐、美洲黑熊、短尾猫、美洲狮</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-38c4bc782c92dac3393b56bddc9a36a1_720w.jpg?source=8673f162" alt=""><figcaption>阿拉斯加原住民用海象阴茎骨制作的艺术品</figcaption></figure>
+<p>不仅你熟悉的猫有，狗有。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6847b62994dc4eda1c9ac8babe5056bf_720w.jpg?source=8673f162" alt=""><figcaption>狗的阴茎骨和尿道沟（箭头所指）</figcaption></figure>
+<p>甚至与人类亲缘关系最近的黑猩猩也有<sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-07d569e9dbfc5ce8268f0a6a9b9351a3_720w.jpg?source=8673f162" alt=""><figcaption>不同灵长类的阴茎骨</figcaption></figure>
+<p><strong>除了阴茎骨外，雄性动物们的生殖器官在形态上，也是天赋各异。</strong></p>
+<p>雄猪的阴茎是螺旋状，进入雌猪身体后，前端会被母猪的宫颈卡主。</p>
+<p>雄猪射精时间可以持续数分钟，有长达 30 分钟的记录，最多可以射出 500g 的精液（也即 1 斤）。</p>
+<p>海豚是海洋中性欲最强的物种，阴茎可舒卷，可旋转，甚至可以随心所欲地伸长缩短！</p>
+<p>拥有着地球上最灵活的阴茎，或者说它们的阴茎更接近灵长类的手，而且自带多种形态。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a42e619b2dd0727d38d18ae526ded891_720w.jpg?source=8673f162" alt=""></figure>
+<p>而你以为的水怪，甚至可能是：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e39141cd6228cbe0193835344bfc192c_720w.jpg?source=8673f162" alt=""><figcaption>尼斯湖水怪与鲸阴茎形态对比</figcaption></figure>
+<p>蓝鲸不仅是动物中最大的体型，也拥有最大的阴茎，平均 3 米。</p>
+<p>冰岛阴茎博物馆有一段蓝鲸 1.7m 的阴茎前端，实际原本全长 5 米，重达 450kg。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-420945e1a85bb4417c20bc5d9a2ce833_720w.jpg?source=8673f162" alt=""><figcaption>蓝鲸阴茎前端（冰岛阴茎博物馆）</figcaption></figure>
+<p>细尾鹩莺长着世界上最大身体比例的蛋蛋，睾丸重量超过体重的 10%。</p>
+<p>藤壶则拥有世界上身体比例最大的交配器官，长度可达体长的 8-30 倍。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-ae6cb24a3b6b1aa90c6445b62d4f2880_720w.gif?source=8673f162" alt=""></figure>
+<p>雄性针鼹器官有四个头：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ad8936c57f79ef40f5a3b0fdf036234b_720w.jpg?source=8673f162" alt=""></figure>
+<p>而雌性针鼹，则具有双阴道。</p>
+<p>每次交配时，针鼹只会使用四条中的两条，以便和雌性的双阴道配合。</p>
+<p>针鼹不仅可以在没有停顿的情况下射精 10 次，而且精子还会抱成 100 个精子的团体，具有更强的运动能力<sup>[2]</sup>。</p>
+<p>一些爬行动物和原始哺乳动物大多都是双。</p>
+<p>软骨鱼、蛇、蜥蜴、负鼠和鼩负鼠都是双工具。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2218bcb0a93f7bb1b9f73b069a2bca84_720w.jpg?source=8673f162" alt=""><figcaption>像外星人的白鳐：左雄右雌</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ec82fd0d69587d83c00fcc632f0659ab_720w.jpg?source=8673f162" alt=""><figcaption>蛇的半阴茎五花八门 ，很多都有倒刺</figcaption></figure>
+<p>蜥蜴、蛇类的“阴茎”，仅仅只能通过沟槽输送精液，所以才被称为半阴茎。</p>
+<p>雄性袋鼠丁丁也有两条：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7f1c078a50af119cb7981e962d3422ea_720w.jpg?source=8673f162" alt=""></figure>
+<p>雌性都有三个阴道，其中两个输送精液，中间的作为产道。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9588875e2bfbbf6874e50d107089c429_720w.gif?source=8673f162" alt=""><figcaption>有袋类两个子宫</figcaption></figure>
+<p>其实有袋类的两个阴茎，本质上还是一个，只不过头部分叉，可以分别进入雌性两个分叉的阴道。</p>
+<p><strong>在两性关系中，不同动物之间，往往很难用人类的道德观去判断。</strong></p>
+<p>蚯蚓、蜗牛、蛞蝓等一些动物雌雄同体，往往互相交配，同时受孕。</p>
+<p>雌雄同体的海蛞蝓雄性生殖器用过即抛，并在一天内再生。</p>
+<p>一些扁形虫则会上演击剑，一决雌雄。</p>
+<p>这些扁形虫的头部下方有着两个短剑状的阴茎，交配时，双方比剑，都试图把短剑插入对方的表皮下受精。</p>
+<p>胜者为父，败者为母。</p>
+<p>偶尔也会出现双向受精的情况，这究竟是双赢还是双败呢？<sup>[3]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7f949a0259886788d2cc00e63523a1a5_720w.jpg?source=8673f162" alt=""></figure>
+<p>一些章鱼的繁殖腕会在受精时脱落，暂时留在雌性的身体里。</p>
+<p>雄性达纳章鱿会在配偶身上打个洞，把精液射入伤口。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8b84390c99ab6806bb36ec7e253b7b88_720w.jpg?source=8673f162" alt=""></figure>
+<p>绝大部分的鸟类和昆虫在求偶的时候，都会通过跳舞的方式向让雌性获得欢心。</p>
+<p>一些品种的极乐鸟，一生绝大部分的时间都在向雌鸟跳舞表达爱意。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f5f1fff82965988dd1c74e33cc0c92dd_720w.gif?source=8673f162" alt=""></figure>
+<p>然而，一些精美舞蹈背后，等待的是死亡。</p>
+<p>不仅仅是螳螂，一些蜘蛛也有性食现象。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a5839186c313c68a89edd6a17e1c1881_720w.gif?source=8673f162" alt=""><figcaption>孔雀蜘蛛为爱舞蹈</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f8446771d8338130dd3750c795e5b0e3_720w.gif?source=8673f162" alt=""><figcaption>然后被吃了</figcaption></figure>
+<p>在诸多动物的交配行为中，总是充满着暴力或死亡。</p>
+<p>雄性袋鼩在每年的交配季节，会连续交配 8-14 小时，直至精尽而亡<sup>[4]</sup>。</p>
+<p>乃至于雄性袋鼩的平均寿命只有 1 岁。</p>
+<p>绿头鸭，鸽子，袋鼠，蜥蜴、企鹅以及海狮都会与死去的动物交配。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e9c742fc9eed327fafbd44a9001e93c4_720w.jpg?source=8673f162" alt=""></figure>
+<p>海豹和海狗都有强奸企鹅的习惯，而且不分雌雄。它们会用丁丁多次侵犯企鹅的泄殖腔，每次持续 5 分钟。</p>
+<p>大约有 3/4 的海狗发泄完之后，都会放走企鹅。</p>
+<p>但也有 1/4 的海豹相当残暴，在兴奋过程中会咬碎企鹅的头颅，甚至吃掉它们。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b2a91bca4977b0688ba04a6659a1fcba_720w.jpg?source=8673f162" alt=""></figure>
+<p>雄性海豚会把丁丁插入同性的排气孔，如果没有同类，那就咬断海鱼自制飞机杯。</p>
+<p>甚至还会把魔爪伸向鳗鱼、乌龟、鲨鱼，甚至人类。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-89e20ab7794be039dc6b4e18baf5b534_720w.gif?source=8673f162" alt=""></figure>
+<p>对于一些具有高等认知的动物来说，交配完全可以是获利的工具。</p>
+<p>雌性阿德利企鹅为了筑巢，可能会向拥有漂亮卵石的雄性企鹅出卖肉体。</p>
+<p>雌性黑猩猩会通过交配向雄性换取肉食，但它们并不是人类之外，唯一会进行性交易的动物。</p>
+<p>雄性猴子会为梳理毛发以向雌性同类出卖肉体。</p>
+<p>倭黑猩猩是几乎没有性羞耻的人科动物，性行为是它们维持社群联结的基本工具。</p>
+<p>它们会用交配的方式来打招呼，以及处理相应的纠纷。</p>
+<p>甚至仇恨和杀戮，都能一炮泯恩仇。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b93ca03670a88925cad30db92b7f4c15_720w.jpg?source=8673f162" alt=""></figure>
+<p>它们的性关系，包括不限于异性、亲子。</p>
+<p>不过，超过 6 岁之后，雄性倭黑猩猩不再与母亲发生性关系。</p>
+<p>倭黑猩猩的交配姿势，以及法式接吻习性，都和人类具有高度相似性。</p>
+<p>无论从生理上还是行为上，其实有很多动物的交配过程，都令大多数人难以置信。</p>
+<p>每一种动物都适应着自身所处的自然环境，不能总用人类的视角和观念去看待。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/333199024">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1889122850172018930">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789403</guid>
-                <pubDate>Mon, 04 May 2026 19:21:51 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789438</guid>
+                <pubDate>Tue, 05 May 2026 02:22:12 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么日本海鱼可以做顶级刺身，而中国的海鱼却大多做熟?</title>
-                <link>http://daily.zhihu.com/story/9789408</link>
-                <description>biokiwi，用生命科学的角度看世界！ 查看知乎原文 先说结论：不是因为海鱼没有寄生虫，而是因为冷链杀死了寄生虫。 你在日料店吃的挪威三文鱼、蓝鳍金枪鱼，在端上餐桌之前，已经经历了 4 到 5 天以上、零下 35 度的低温运输。在这个过程中，鱼肉里的寄生虫早就被冻死了。而你追求”新鲜”的当天现捞生腌虾、现切鱼生，恰恰跳过了这个最关键的杀虫步骤。 所以问题的本质不是”海鱼 vs 淡水鱼”，而是“有…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-3872d11780b5c22e4a458baab23943e1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么越菜的软件工程师看问题越简单越高级的软件工程师看问题越复杂？</title>
+                <link>http://daily.zhihu.com/story/9789448</link>
+                <description>chouheiwa，快 10 年开发经验了 查看知乎原文 0.34 秒的浮点精度误差，28 条人命。这段出事的代码没有任何语法错误，逻辑也很清晰，就是一个每 0.1 秒累加一次的计时器。一个刚入行的新手做 code review，大概率会直接跳过这段，觉得没什么好看的。而一个写了十年代码的老兵盯着这个 0.1，脑子里会自动弹出一个问题：0.1 在二进制里是无限循环小数，累加次数多了误差会不会爆？ …</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ed60e853a2a8cd4004734cbefeebfb8f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -463,71 +245,74 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-4cdc8dc004835c64495966f8a36ec5f6_l.jpg?source=8673f162">
-<span class="author">biokiwi，</span><span class="bio">用生命科学的角度看世界！</span>
-<a href="https://www.zhihu.com/question/548875804/answer/2027156008548540973" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-bb422c33dff39fb6b86240c390f407fd_l.jpg?source=8673f162">
+<span class="author">chouheiwa，</span><span class="bio">快 10 年开发经验了</span>
+<a href="https://www.zhihu.com/question/1914788115631044465/answer/2027007746558505995" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>先说结论：<strong>不是因为海鱼没有寄生虫，而是因为冷链杀死了寄生虫。</strong></p>
-<p>你在日料店吃的挪威三文鱼、蓝鳍金枪鱼，在端上餐桌之前，已经经历了 4 到 5 天以上、零下 35 度的低温运输。在这个过程中，鱼肉里的寄生虫早就被冻死了。而你追求”新鲜”的当天现捞生腌虾、现切鱼生，恰恰跳过了这个最关键的杀虫步骤。</p>
-<p>所以问题的本质不是”海鱼 vs 淡水鱼”，而是<strong>“有没有经过规范的低温处理”</strong>。</p>
-<hr>
-<p>说到吃生鱼片的风险，最早的病例记录可能要追溯到三国时期。</p>
-<p>《三国志》里记载了一位叫<strong>陈登</strong>的人，广陵太守，封地大约在今天的江苏扬州一带，渔产丰富。陈登酷爱吃鱼，尤其爱吃生鱼片。结果有一天突然发病——”胸中烦懑，面赤不食”，心里堵得慌，脸色发红，吃不下饭。</p>
-<p>恰好华佗路过，诊断说你肚子里有虫。当场开药催吐，一口气吐出”三升虫子”，书里描述这些虫子”红色，头犹动，半身犹是生鱼脍”——红色的、头还在蠕动、半边身子还带着没消化的生鱼片。</p>
-<p>画面感极强，也极其恶心。</p>
-<p>吐完之后陈登舒服了，但华佗留了一句话：<strong>这病三年后还会复发，到时候一定要找好医生。</strong>结果三年之期已到，华佗不在身边，陈登就此离世。</p>
-<p>这大概是全世界最早有记录的、因吃生鱼片感染寄生虫的案例。</p>
-<hr>
-<p>从现代寄生虫学的角度来看，陈登感染的很可能是<strong>华支睾吸虫</strong>，也就是俗称的<strong>肝吸虫</strong>。</p>
-<p>这种寄生虫专门寄生在淡水鱼体内，人吃了含有活囊蚴的生鱼片后，虫体会跑到肝脏和胆囊里安家。早期症状就是隐隐发痛、发烧——对照陈登的”胸中烦懑，面赤不食”，胸口往下一点就是胆的位置，面赤可能就是发烧的表现，吻合度相当高。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0646c3cb999ea9318b33208e685c23a5_720w.jpg?source=8673f162" alt=""></figure>
-<p>更可怕的是它的寿命。肝吸虫在人体内可以存活<strong>15 到 20 年</strong>。这不是打错字——这种寄生虫的生存策略就是不急着弄死宿主，而是长期潜伏，慢慢造成慢性损伤。15 到 20 年间，它会持续损害肝脏和胆囊，引发胆管炎（虫体死亡后碎片堵塞胆管）、肝硬化，最终可能发展为<strong>胆管癌</strong>。2009 年，肝吸虫被列为<strong>一级致癌物</strong>。</p>
-<blockquote>肝吸虫感染目前是世界第三常见的寄生虫疾病，全球感染人数约 1300 万到 1500 万，其中<strong>85%在中国</strong>。感染最严重的四个省份是广东、广西、黑龙江和吉林。</blockquote>
-<p>广东好理解——珠三角、潮汕地区都有吃鱼生的传统。但黑龙江和吉林？原来东北也有”杀生鱼”的吃法，鱼切丝拌醋拌姜葱，做法跟广东鱼生几乎一样。</p>
-<hr>
-<p>那很多人会说：<strong>我知道淡水鱼有肝吸虫，所以我只吃海鱼啊。</strong></p>
-<p>这就是最常见的误解了。</p>
-<p>淡水鱼有淡水鱼的寄生虫（肝吸虫），海水鱼当然也有海水鱼的寄生虫——最典型的就是<strong>异尖线虫</strong>。吃下去同样会导致严重的胃肠疾病。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-40da515768103375d26e3a65b95ccc1a_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以”海鱼没有寄生虫”这个说法<strong>完全是错的</strong>。</p>
-<p>那为什么日料店的刺身相对安全？前面说了，关键在于<strong>冷链</strong>。正规渠道的刺身级海鱼，在运输过程中会经过零下 35 度、持续 4 到 5 天以上的深度冷冻。这个温度和时间足以杀死鱼肉中的寄生虫（包括异尖线虫）。如果是零下 20 度，则需要至少 7 到 10 天。</p>
-<p>而你在码头上现钓现切的海鱼呢？当天早上钓的、中午就片了蘸酱油吃？那它身上的异尖线虫可是活蹦乱跳的。这种情况下，吃海鱼生鱼片的寄生虫风险<strong>跟吃淡水鱼生差不多，纯靠撞大运</strong>。</p>
-<p>同样的道理，最近很火的潮汕生腌虾、生腌蟹，追求的就是”新鲜”，当天现捞现腌。而且虾蟹的外壳结构复杂，更容易残留寄生虫和细菌。用酱油泡几个小时，是杀不死寄生虫的。</p>
-<hr>
-<p>还有几个常见的误区，顺便一起澄清：</p>
-<p><strong>“高度酒 / 醋 / 芥末能杀死寄生虫？”</strong>——不能。这些调味品的浓度和接触时间远远不够。</p>
-<p><strong>“鱼片烫几秒就熟了，能杀虫？”</strong>——广东人喝粥讲究鱼片烫到”半熟”状态，或者把鱼片贴在碗壁上用滚粥烫一下。疾控中心明确说了，这种短时间的加热<strong>杀不死寄生虫</strong>，时间太短了。</p>
-<p><strong>“家用冰箱冻一冻行不行？”</strong>——家用冰箱一般是零下 18 到 20 度，远达不到零下 35 度的标准。即使是零下 20 度，也需要连续冻 7 到 10 天，而且家用冰箱开开关关温度不稳定，效果大打折扣。更别说口感也会变差。</p>
-<p><strong>“新疆三文鱼（虹鳟鱼）是淡水鱼，能生吃吗？”</strong>——虹鳟鱼和三文鱼（大西洋鲑）是两个不同的物种，虹鳟鱼确实是完全在淡水中生活的。但如果经过了跟挪威三文鱼同样标准的低温处理，达标的话理论上也是可以生吃的。关键永远是<strong>处理工艺</strong>，而不是鱼的种类。</p>
-<hr>
-<p>国家标准其实已经对这个问题有了明确规定。<strong>GB 10136-2015</strong>（动物性水产制品安全标准）要求生食鱼片制品中<strong>完全不得检出寄生虫</strong>。所以正规渠道、符合国标的产品，寄生虫层面是有保障的。</p>
-<p>不过要注意一点：低温能杀死寄生虫，但<strong>杀不死微生物</strong>（细菌）。所以即使是经过冷链处理的刺身，冷链断裂后的细菌滋生仍然是另一个风险维度。所以相对来说最安全的，是在养殖的全流程都使用完全无菌的技术，只不过那成本就太高了（想想 SPF 级小鼠吧）</p>
-<p>回到最初的问题。从陈登吃鱼生染虫、三年后因此丧命，到今天全球 1300 多万人感染肝吸虫，人类吃生鱼片的历史和吃生鱼片出事的历史一样悠久。日料店的刺身不是因为”日本的鱼更干净”，而是因为现代冷链物流替你完成了杀虫这一步。</p>
-<p><strong>下次有人跟你说”海鱼没有寄生虫”，你可以告诉他：海鱼有异尖线虫，淡水鱼有肝吸虫，真正保护你的不是海水，是零下 35 度。</strong></p>
-<p>本期内容来自我们最新播客，生物漫游指南，在知乎、小宇宙、网易云等多个平台均可以收听：</p>
-<p><a class="internal" href="https://www.zhihu.com/podcast/episode/2018064264984802951">关羽脱发？曹操脑癌？三国病友交流会｜三国里的生物</a></p>
+<p>0.34 秒的浮点精度误差，28 条人命。这段出事的代码没有任何语法错误，逻辑也很清晰，就是一个每 0.1 秒累加一次的计时器。一个刚入行的新手做 code review，大概率会直接跳过这段，觉得没什么好看的。而一个写了十年代码的老兵盯着这个 0.1，脑子里会自动弹出一个问题：0.1 在二进制里是无限循环小数，累加次数多了误差会不会爆？</p>
+<p>1991 年海湾战争，沙特达兰，一枚爱国者导弹<sup>[1]</sup>未能拦截来袭的飞毛腿。根因是系统用 24 位定点寄存器追踪时间，以 0.1 秒为单位累加。0.1 在二进制里是无限循环小数，截断后每个 0.1 秒引入约 <strong>0.000000095 秒</strong>的误差。系统连续运行 100 小时，误差累积到 <strong>0.34 秒</strong>，飞毛腿时速 1676 m/s，0.34 秒就是 500 多米的追踪偏差。导弹飞偏了，28 个美国佬没能回家。</p>
+<p>五年后，1996 年，阿丽亚娜 5 号火箭<sup>[2]</sup>首飞爆炸，损失 <strong>5 亿美元</strong>。根因是 64 位浮点数转 16 位有符号整数溢出。程序员从阿丽亚娜 4 号继承了这段代码，认为"这个值不可能溢出"，甚至主动关掉了编译器的溢出保护。7 个类似转换里只有 4 个做了保护，剩下 3 个最终炸了火箭。</p>
+<p>这两个案例有一个共同特征：<strong>出事的代码，新手看一眼觉得"没问题"，老手看一眼觉得"这里可能出事"。</strong> 差别到底在哪？</p>
+<p><strong>人人都高估自己，但新手错得最离谱</strong></p>
+<p>心理学里有个现象：越是在某个领域能力差的人，越倾向于高估自己的水平。1999 年两个康奈尔大学的心理学家 Kruger 和 Dunning<sup>[3]</sup> 做了一系列实验验证了这件事，后来被叫做"达克效应"。这个概念在互联网上传播极广，很多人用一句"菜鸟不知道自己菜"就把这个问题解释完了。</p>
+<p>但事情没这么简单。Gignac（2024）<sup>[4]</sup> 在 Intelligence 期刊发表的论文重新建模后发现，达克效应的峰值出现在 <strong>IQ 55 的人群中</strong>，仅占总人口 <strong>0.14%</strong>。到 IQ 70 时过度高估已降至 7 分，覆盖人口 <strong>2.3%</strong>。换句话说，这个效应只影响极小比例的极端人群，对绝大多数软件工程师根本不适用。Magnus &amp; Peresetsky（2022）<sup>[5]</sup> 进一步证明，经典的达克曲线图可以用纯统计模型完美复现，压根不需要任何心理学解释。说白了，那条著名的"自信心曲线"很可能只是均值回归加有界数据<sup>[6]</sup>的统计伪迹。那真正在起作用的是什么？</p>
+<p>其实吧，更站得住脚的解释是 Kruger &amp; Dunning 原始论文里一个经常被忽略的洞察：<strong>评估自身能力需要的技能，恰恰就是完成任务本身需要的技能。</strong> 你不会写分布式系统，你也无法判断自己写的分布式系统有多烂。这个道理古人早就讲过，老子说"知不知，尚矣；不知知，病也<sup>[7]</sup>"，知道自己不知道，是高明的；不知道却以为自己知道，那才是真正的毛病。孔子说"知之为知之，不知为不知，是知也<sup>[8]</sup>"，能准确判断自己知道什么、不知道什么，这本身就是最大的智慧。现代认知科学给这种能力起了个名字，叫元认知<sup>[9]</sup>（metacognition）。Rum &amp; Zolkepli（2018）的研究发现，元认知意识分数与编程成绩的相关系数高达 <strong>r = 0.8226</strong>，在 1% 水平显著。编程活动越困难，程序员越需要元认知控制技能，而低能力程序员恰恰缺乏这种自我评估能力。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-08b5535ecda217b0ee14afa728f7ab51_720w.jpg?source=8673f162" alt=""></figure>
+<p>这四个阶段跟 Noel Burch 的能力模型<sup>[10]</sup>完全对应，也跟 Dreyfus 技能习得模型<sup>[11]</sup>的五级框架高度一致。国内程序员圈子把它浓缩成了一句话：<strong>从"不知道自己不知道"到"不知道自己知道"。</strong> 这条路，没有捷径。</p>
+<p><strong>专家的大脑里到底多装了什么</strong></p>
+<p>认知科学家 Gary Klein<sup>[12]</sup> 研究消防队长的决策过程时发现，<strong>87% 的专家决策通过模式匹配完成</strong>，而非逐项比较选项。一个消防队长走进火场，30 秒内就能判断"地板下面有火"，不是因为他做了热力学计算，是因为他经历过类似的模式：脚底异常发烫 + 烟雾颜色偏黄 + 火焰声音偏低沉。这些模式已经编码进了他的直觉回路。</p>
+<p>软件工程的"火场"也是一样的。一个资深架构师看到系统设计图，能瞬间识别出"这里有单点故障""这个查询在数据量到百万级时会全表扫描""这两个服务之间的循环依赖会导致级联故障"。他靠的不是比新手更聪明，而是脑子里装了几千个失败模式。新手没有这个模式库，所以他看到的只是"功能需求被满足了"。</p>
+<p>我自己的经历倒是印证了这一点。写 iOS 快十年，早期做外包驻场银行的时候，拿到一个需求就是"赶紧实现"，很少想边界条件。后来做逆向工程的时候被迫养成了一个习惯：拿到一段代码，第一反应是"它在什么条件下会崩"，然后才去看它在做什么。说白了就是"失败视角"优先。跟我之前在<a class="internal" href="https://www.zhihu.com/question/1953056523677852284/answer/2021535782448440355">数据结构选型那篇文章</a>里讲的一样，理论上的"正确"和工程上的"能跑"之间，隔着一整座冰山。</p>
+<p>还有一个吊诡的地方。认知负荷理论<sup>[13]</sup>告诉我们，人类工作记忆容量大约只有 <strong>4 个组块</strong>。新手的工作记忆被语法细节、API 调用方式、框架配置占满了，根本没有剩余容量去考虑并发安全、性能退化或安全漏洞。专家通过多年经验把常见模式压缩成单个认知单元（这叫"组块化"），释放出来的认知空间，全部用来扫描更高维度的风险。结果就是：<strong>同一个登录功能，新手想到"用户名密码校验"，专家同时想到 SQL 注入、暴力破解限速、密码哈希算法选择、会话管理、CSRF 防护、日志审计合规。</strong> 新手估 2 天，专家估 2 周，不是专家效率低，是专家看到了 10 倍的工作量。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0eb21800ebb3921394ae70e596a1e033_720w.jpg?source=8673f162" alt=""></figure>
+<p>GitHub 上 zakirullin 的 cognitive-load 项目<sup>[14]</sup>把这件事讲得很透彻，获得了 Rob Pike 和 Andrej Karpathy 的推荐。Google Chrome 工程师 Addy Osmani<sup>[15]</sup> 在推荐中提到过一个观察：很多制造复杂性的架构模式，恰恰是以"代码整洁"的名义引入的。新手学了设计模式就到处套用，这种"中级陷阱"在国内程序员圈子里有个精准吐槽："你蒙中了，就叫正交分解。你没蒙中，就叫过度设计。"</p>
+<p><strong>本质复杂性是隐形的</strong></p>
+<p>写代码写得越久，越能体会 Fred Brooks 1986 年<sup>[16]</sup>提出的那组区分：<strong>本质复杂性</strong>（Essential Complexity）是问题域固有的，你换什么语言、什么框架都消灭不了；<strong>偶然复杂性</strong>（Accidental Complexity）是工具和实现带来的，可以通过技术进步消减。</p>
+<p>新手以为自己面对的大部分是偶然复杂性，因为他接触到的痛苦（语法报错、配置出错、编译不过）确实多数属于这一类。但本质复杂性对新手是隐形的。时区处理不是"调个 API"就完事的，IANA 时区数据库<sup>[17]</sup>每年更新 <strong>3-8 次</strong>，因为政府可以随时修改夏令时规则。缓存失效不是"设个 TTL"就解决的，Phil Karlton 说<sup>[18]</sup>计算机科学只有两个真正困难的问题：缓存失效和命名。分布式系统的 exactly-once delivery 在数学上被证明不可能实现<sup>[19]</sup>，所有声称做到的消息队列，要么在骗你，要么在用幂等性做 at-least-once 的包装。</p>
+<p>Ian Duncan（2025）<sup>[20]</sup> 写过一段特别到位的自我反省："我自己也犯过这个错：走进一个新代码库，看到复杂的架构，立刻想'这过度设计了吧'。但有些复杂性是业务驱动的，来自真实世界的需求和约束，对新加入系统的人来说，这些约束不是一眼就能看出来的。"</p>
+<p>Clojure 的创始人 Rich Hickey<sup>[21]</sup> 在 Strange Loop 2011 的演讲 Simple Made Easy 里做了一个关键区分：<strong>"简单"（Simple）是客观的，意味着没有纠缠交织；"容易"（Easy）是主观的，意味着熟悉、顺手。</strong> 新手优化的是"容易"，选熟悉的框架、能快速跑起来的方案；专家优化的是"简单"，选纠缠最少的方案，即便学习曲线更陡。这个区别，外行看不出来。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b79f2254c50aedfb7da298972120e177_720w.jpg?source=8673f162" alt=""></figure>
+<p>Peter Deutsch 等人<sup>[22]</sup>在 1990 年代总结的分布式计算八大谬误至今仍是新手最大的盲区。2025 年 Neal Ford &amp; Richards<sup>[23]</sup> 在架构书第二版中又新增了三条：版本控制很容易、补偿性更新总能奏效、可观测性是可选的。新手调用一次 API 看到 200 OK 就以为万事大吉，根本不会想到：<strong>如果响应丢失了但副作用已经发生了怎么办？</strong> Two Generals Problem<sup>[24]</sup>（1975）在数学上证明了通过不可靠通道协调行动是不可能的。Leslie Lamport<sup>[25]</sup> 的名言堪称完美注脚："分布式系统就是这样一种系统，你甚至不知道存在的某台计算机坏了，也能让你的计算机变得不可用。"</p>
+<p><strong>AI 编码工具：达克效应的类固醇版</strong></p>
+<p>2025 年之后这个话题多了一个全新的变量。Andrej Karpathy 造了个词叫 vibe coding<sup>[26]</sup>，声称"我 Accept All，不再读 diff"。这个词后来成了 Collins 2025 年度词汇。看起来很美好，但数据讲了一个完全不同的故事。</p>
+<p>METR（2025 年 7 月）<sup>[27]</sup>的随机对照实验发现：经验丰富的开发者<strong>主观上认为 AI 让他们快了 20%，但客观测量显示他们实际上慢了 19%</strong>。这个认知偏差本身就是达克效应在 AI 时代的完美再现。Veracode 2026 年的报告<sup>[28]</sup>显示 <strong>45% 的 AI 生成代码引入安全漏洞</strong>。Stack Overflow 2025 调查<sup>[29]</sup>中，AI 工具使用率从 70% 涨到 76%，但正面情绪首次下降，从 77% 降到了 72%。开发者开始意识到：AI 让你写得更快，但不一定让你写得更对。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fa752d28187078198799eaeae2d88201_720w.jpg?source=8673f162" alt=""></figure>
+<p>我每天用 <a class="internal" href="https://www.zhihu.com/question/2022395025309352665/answer/2022572673213953603">Claude Code</a> 写代码，它确实帮我省了大量样板代码的工作。但我注意到一个现象：AI 生成的代码跑通 happy path 的概率很高，但防御性编程几乎为零。它不会主动考虑并发竞态、不会预判内存泄漏、不会质疑你的架构决策。说白了，AI 擅长消减偶然复杂性（生成样板代码、处理语法、写标准模式），但对本质复杂性束手无策（理解业务领域、管理系统级架构一致性、识别真实世界约束产生的边界条件）。跟我之前在<a class="internal" href="https://www.zhihu.com/question/1891616492644172459/answer/2019724170037080744">底层逻辑那篇文章</a>里讲的一样，AI 时代底层知识的角色变了，从"用来写代码"变成"用来判断代码"。</p>
+<p>Addy Osmani 概括得精准："AI 工具放大你的专业能力。对于缺乏扎实基础的人，AI 可能导致达克效应的类固醇版本，看起来你建了个很棒的东西，直到它崩溃。" Hacker News<sup>[30]</sup> 上有帖子直接叫 "AI is Dunning-Kruger as a Service"。一位用户分享了真实案例：一个初级工程师本该部署一个写好的 Terraform 模块，结果交上来的仓库一团糟，里面多了一堆莫名其妙的 Python 代码。问他"为什么有这些代码？"他说："我不知道，Claude 弄的。"</p>
+<p>2026 年初 Agent 这波热潮把这个问题推到了极端。2 月份最出圈的事故是 Meta 超级智能实验室的 AI 对齐总监 Summer Yue 被自己的 Agent 坑了<sup>[31]</sup>：她用开源 Agent 框架 OpenClaw 管理邮箱，结果 Agent 直接批量删除了几百封邮件，她在聊天窗口连打好几次"stop"都没用，最后只能物理断电。她事后承认这是"rookie mistake"，因为之前在小规模测试数据上跑得很顺利，就过度自信地直接接入了真实邮箱。一个职位是"AI 对齐总监"的人都会掉进这个坑，其他人只会更容易中招。</p>
+<p>其实吧，Agent 的问题比编码工具更深一层。编码工具生成的烂代码好歹还需要人来部署，你有一道人工审核的缓冲。Agent 不一样，它直接操作真实系统，发邮件、改数据库、调 API，一旦判断出错，后果是即时的、不可逆的。CNBC 报道<sup>[32]</sup>了一个饮料制造商的案例：AI 系统因为不认识新换的节日包装标签，把正常产品判定为异常，自动触发了额外生产线，等人发现的时候已经多生产了几十万罐。系统没有 malfunction，它严格执行了程序，只是程序员没预料到包装会变。还有一个更扎心的数据：如果 Agent 每一步的准确率是 <strong>85%</strong>（听起来不低了吧），一个 10 步工作流的整体成功率只有 20%<sup>[33]</sup>。这不是优化问题，是概率的乘法法则。要让 10 步流程整体成功率超过 80%，每一步的准确率得到 <strong>98%</strong> 以上。Gartner 预测<sup>[34]</sup>截至 2026 年 2 月已有 <strong>40%</strong> 的 Agent 项目被暂停或取消。</p>
+<p>这就回到了这篇文章的核心论点：<strong>你越觉得一件事简单，越说明你没看到它真正的复杂性。</strong> Agent 让这个判断失误的成本从"代码写烂了"升级到了"系统直接出事了"。</p>
+<p>其实吧，初级工程师还不是最极端的情况。现在越来越多完全没写过代码的人，用 AI 搭了个能跑的 demo，就觉得编程也不过如此。他们跳过了"不知道自己不知道"这个阶段，直接进入了"我什么都能做"的幻觉。一个程序员好歹知道"部署""数据库""并发"这些词的存在，非程序员连这些概念都没有，AI 帮他把偶然复杂性清零了，他就真以为复杂性本身不存在。这才是 vibe coding 最危险的地方：它让完全没有工程判断力的人，产出了看起来完整的软件产品。</p>
+<p><strong>怎么从"看到简单"走向"看到复杂"</strong></p>
+<p>React 核心团队成员 Dan Abramov<sup>[35]</sup> 2018 年发了一篇 Things I Don't Know，作为前端领域最受尊敬的工程师之一，公开列出了自己的大量知识盲区：Unix 命令、底层语言、算法（"你最多从我这得到一个冒泡排序"）、TypeScript、DevOps……他的核心洞察是："无论你多有经验，你仍然会在感到胜任、感到不够格和感到过度自信之间切换。"</p>
+<p>HN 上一条高赞评论<sup>[36]</sup>把这个现象提炼为一句话：<strong>"偏执是经验的绝佳指标，过度自信是缺乏学习的绝佳指标。"</strong></p>
+<p>Monica Lent<sup>[37]</sup> 写过一篇 "7 Absolute Truths I Unlearned as Junior Developer"，其中提到她作为新手会"重写 300 行不熟悉的代码而不是试图理解它"。这种行为背后的认知模式很典型：新手面对不理解的东西，本能反应是推倒重来，因为"理解别人的代码"对他来说比"自己写一套"认知负荷更高。而专家恰恰相反，他倾向于先理解再动手，因为他知道不理解上下文就动手改代码，十次有九次会引入新的问题。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d1773c05b5a55dd5204b93518ec23d3_720w.jpg?source=8673f162" alt=""></figure>
+<p>我的个人方法论倒是很朴素，就是化工出身那套<a class="internal" href="https://www.zhihu.com/question/1953056523677852284/answer/2021535782448440355">数据结构选型那篇文章</a>。在化学实验室里做实验，出了问题你不知道是哪一步错了，只能一次改一个变量，其他条件全部固定，然后观察结果。写代码调 bug 是一模一样的逻辑。但更深层的意义在于：<strong>控制变量法强迫你承认自己不知道答案。</strong> 它的前提是"我不确定问题在哪里"，这本身就是元认知的起点。很多新手面对 bug 的第一反应是"我知道问题在这里"，然后凭直觉同时改好几个地方，改完发现问题没解决，也不知道是哪个改动让事情变得更糟了。</p>
+<p>中国互联网公司的 <a class="internal" href="https://www.zhihu.com/question/366212151">P 级体系</a>里有一个广泛认同的观察：<strong>P6 到 P7 是认知分水岭。</strong> P6 是"熟练的执行者"，还稍微缺乏对复杂项目的阅读能力与大局观；P7 要求"不但能干好手上的活，还知道为什么要这么干"，能把复杂项目分解到可落地并理解系统级问题。一篇广为流传的晋升分析<sup>[38]</sup>说得很直白："阿里不缺技术牛逼的人，缺的是能够用牛逼的技术解决问题的人。"</p>
+<p>这就是这道题的终极答案。新手看到的是需求，专家看到的是需求背后的约束、约束之间的冲突、以及冲突带来的失败模式。<strong>看到复杂性的能力，本身就是最稀缺的工程能力。</strong> 它不来自聪明，来自踩坑。每一个让你觉得"这很简单"的判断，都值得再多想三十秒。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/548875804">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1914788115631044465">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789408</guid>
-                <pubDate>Mon, 04 May 2026 19:21:52 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789448</guid>
+                <pubDate>Tue, 05 May 2026 02:22:13 GMT</pubDate>
             </item>
             
             <item>
-                <title>一个人从万米高空坠落，落在 100 米厚的棉花上，棉花能起到缓冲作用吗？</title>
-                <link>http://daily.zhihu.com/story/9789418</link>
-                <description>pin008，人生太轻，乐业太难，执念太苦。 查看知乎原文 棉花能起到缓冲作用，但很不理想，人可能会死亡或受伤。 2016 年 7 月 30 日，美国 42 岁的跳伞运动员 Luke Aikins，不使用降落伞或翼装，从 7620 米高空跃下并安全着陆。出舱 40 秒后，Luke 在距地面 6000 米的高空达到了下落期间的最高时速 241 公里，相当于急速行驶的跑车的速度。随后因为空气阻力作用，…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-286c083d9adc4c51ad7530f8917208e0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么以前电视和光盘都没杀死电影，现在电影行业突然就凉了?</title>
+                <link>http://daily.zhihu.com/story/9789455</link>
+                <description>雪叔，巅峰引来虚伪的看客，黄昏见证虔诚的信徒 查看知乎原文 很多人没有在剧组里工作过，所以理解不了这个行业到底有多么封闭。 这行业你说是半个中世纪封建制度都成，风（钱）能进、雨（权）能进，国王（外人）不能进。 简单来讲，影视剧组的所有从业者都沾亲带故，任何部门任何岗位都一定和剧组里某一个高阶位的人有点关系，拒绝一切外人进入这个行业，这一点无论上至导演、制片、演员，下至摄影、灯光、录音、服化道，都是…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-b62624d1e00c74bcfccc859a02dcceac.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -547,41 +332,41 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-0f0b441fa611ffb4a46315c8cdb30c93_l.jpg?source=8673f162">
-<span class="author">pin008，</span><span class="bio">人生太轻，乐业太难，执念太苦。</span>
-<a href="https://www.zhihu.com/question/2025565191627130255/answer/2025969217749414169" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-5da9df8f4557cb43f77d3423177b4daf_l.jpg?source=8673f162">
+<span class="author">雪叔，</span><span class="bio">巅峰引来虚伪的看客，黄昏见证虔诚的信徒</span>
+<a href="https://www.zhihu.com/question/567076004/answer/2026618589839410765" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>棉花能起到缓冲作用，但很不理想，人可能会死亡或受伤。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-79d6f7b078e11565a15d830a7d1c40fb_720w.jpg?source=8673f162" alt=""></figure>
-<p>2016 年 7 月 30 日，美国 42 岁的跳伞运动员 Luke Aikins，不使用降落伞或翼装，从 7620 米高空跃下并安全着陆。出舱 40 秒后，Luke 在距地面 6000 米的高空达到了下落期间的最高时速 241 公里，相当于急速行驶的跑车的速度。随后因为空气阻力作用，下降速度有所减缓，Aikins 以稳定时速 193 公里，最后阶段及时翻身，收紧下巴，背卧安全着网。这张降落安全网有三分之一个足球场的大小。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-85871313475e30e9890bfcca5f08a5bf_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1225ade7ba3ae7b4779e307fffd7a100_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-db6d8da87fb70719dafcdf802ba65a43_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ceb33a0789266a800012f7bb33939f2_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-22a2be669aff2132c5f9208b69b8b10d_720w.jpg?source=8673f162" alt=""></figure>
-<p>Luke 成功的要素很多，他本身深厚的跳伞功底，准确姿势精确入网是重要条件。而缓冲网本身的设计也至关重要。缓冲网高 60 米，下方还有第二层安全网以防万一。Luke 在网上的缓冲用了足足 0.6s，下陷 15–20 米，停在第二层安全网上方几米的地方。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-460a6e7629b4d6c68300977fda022e5a_720w.gif?source=8673f162" alt=""></figure>
-<p>万米高空（10000 米）自由下落的人体，并不会无限加速。空气阻力会与重力快速平衡，让人体进入匀速下落的终端速度状态，四肢张开、保持稳定下落姿态时，低空稠密大气中的终端速度稳定在 50-60m/s（约 180-220km/h）。这个速度在下落高度超过 1500 米后就基本恒定，万米高空和 2000 米高空落地前的最终速度差异极小。</p>
-<p>人体能正常承受的最大减速度为 10g（约 98m/s²，相当于严重车祸但可能幸存），终端速度 55m/s、安全加速度 10g，代入公式 v^2=2ac 可算出理论上仅需约 15 米的匀减速距离，就能将人体速度从 55m/s 降至 0m/s。如果考虑短时间，人体可承受的安全减速加速度上限约为 20g（约 196m/s²，正向受力，超过该值会造成内脏破裂、骨骼粉碎等致命损伤），则 7.7m 就够了。Luke 的成功得益于那张网在 0.6s 内持续提供足够的缓冲阻力，所以 15-20m 缓冲足够了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d9958fa4524487502f2cc49404274229_720w.jpg?source=8673f162" alt=""></figure>
-<p>单从距离上看，100 米棉花的厚度远大于理论所需的最小缓冲距离，具备充足的减速空间。棉花并不是均匀的缓冲阻力。一方面棉花本身会被压缩，压缩比可达 100 倍以上，越压缩越重，越重越压缩，且阻力随压缩程度呈指数级上升，100 米厚的棉花可能几米表面是柔软的，底下压得很实很硬。另一方面，无约束的蓬松棉花，人体刚砸入时棉花会被快速挤压、横向冲散，初期阻力远不足以提供足够的减速力，人体仍会以接近终端速度高速深入硬棉花层，依然是致命的硬着陆。而有约束的棉花，高速冲击下，棉花纤维来不及排开空气，瞬间呈现类似固体的刚性，减速度可能超过 100g，同样存在受伤的风险。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f6bf95e73e74e82ebc02d27463c0cc57_720w.jpg?source=8673f162" alt=""><figcaption>没有适当蓬松处理，棉花其实很结实</figcaption></figure>
-<p>所以相比落在水泥地上，棉花能起到缓冲作用，可将减速度降至百 g 级别，大概率从摔的骨骼碎碎的变为骨折、重伤乃至死亡。</p>
+<p>很多人没有在剧组里工作过，所以理解不了这个行业到底有多么封闭。</p>
+<p><strong>这行业你说是半个中世纪封建制度都成，风（钱）能进、雨（权）能进，国王（外人）不能进。</strong></p>
+<p>简单来讲，影视剧组的所有从业者都沾亲带故，任何部门任何岗位都一定和剧组里某一个高阶位的人有点关系，拒绝一切外人进入这个行业，这一点无论上至导演、制片、演员，下至摄影、灯光、录音、服化道，都是绝对适用的。没有谁是莫名其妙入行的，要么亲戚是制片人，要么自己认识的熟人是部门老大，最差的也得是“你这个部门缺个人，老大让你帮忙找人顶上”这样的形式。无论中外，哪怕是好莱坞，也是这样的风气，中国的“师徒制”你觉得不好听？那换成好莱坞的“制片中心制”、法国的“学院派”也是一样的嘛，都是开拍之前拉熟人进组开工。</p>
+<p>这套制度严重到什么程度呢？在我国，电影学院毕业出来的学生他都不一定能进剧组干活，除非他本身有个亲戚就在这行里工作，否则绝大部分电影学院毕业生进入社会后要么只能去个传媒公司拍广告，要么当自媒体，要么改行。连他都进不了，何况其他人呢？</p>
+<p>那为什么几十年前这一套这么吃香呢？</p>
+<p>几十年前，电影、电视剧行业的资源集中在各个制片厂里，在这些地方就读出身的导演、摄影、灯光能够接受到最好的教育资源、可以得到最强的艺术培养，那么作为在这个体制内受益的顶层人物，他们也想要培养自己用得舒服的拍摄班底，自然就会想着去拉凑和自己水平差不多的从业者，强强联手。或者干脆从零开始培养、把自己的知识分享给他看中的新人，一部戏一部戏地带着走，这样一来，这一小帮子人的知识储备、人文素养就会远超当时的观众，这种教育是成体系的，是汇聚了各方面知识量形成的，<strong>信息差就这样被扩大化，形成了看起来莫名其妙很高大上的“神秘感”</strong>。而当时的普通人哪知道这些什么镜头、画面、艺术、光影、剧情之类的知识，更别提审美了，苦逼逼为了生活奔波的人才不在乎这些东西，一年到头都不一定会看两部电影。这些审美差距、信息差距、知识差距之类的东西，在普通观众眼里就会显得十分震撼、很容易打动观众。</p>
+<p>但是几十年后的现在，信息和知识获取的渠道被普及化了，人们的审美水平和鉴赏水平也比几十年前要强，观众群体中比导演读过的书更多、经历过的风雨更多、了解的知识更多，任何拍摄题材都有了解过相关方面信息的观众存在，战争片里有军迷、历史片里有朝代粉丝、现代片大家都是打工仔、哪怕三级片都有鉴赏家，现在你往影片里整个莫名其妙露个奶子的镜头都不算啥事，毕竟大家都是成年人谁没打过几个茄伦。当信息差被抹平后、所有的套路和走向都已经被拍过之后，整个影视行业就再也忽悠不了普通观众了，现在大家能获取的知识渠道都是一样的，出租车司机都能跟你聊半天国际政治，抖音上键政的个个都不输给凤凰卫视主持人，你还上哪里搞认知差距呢？</p>
+<p>这样一来就坏菜了，你跟着师傅学了那么多年的知识，确实是在行业内看起来好像很牛逼的样子，可最终没有取悦观众，只是取悦行业内的“自己人”，那你拍片子的意义是什么？讨好同行？这样的例子近年来实在是太多了，去年《情感价值》和《接近终点》拿了一堆奖，还以为是什么不可一世的划时代大作，一看，还是行业自己人疯狂吹嘘，观众倍感无聊的自 high 型作品，甚至演员演技都拉胯。说来搞笑，电影演员的演技居然不过关，这是给我整到哪个时间线上了......</p>
+<p>这个世界整体认知的框架大幅度提升了不知道多少倍，大家现在都是同处一个知识信息框架内的，<strong>现在的观众就是有史以来最难哄的观众，他们（或者说我们）有自己的价值观和社会观，讨厌被说教</strong>，而拍摄手法与桥段、编剧剧本、演员演技等各方面水平依然停滞不前，甚至有倒退的趋势，还哪来的电影大师？</p>
+<p>现在还有些电影导演或者说从业者，认为剧本剧情不重要，镜头技巧才最重要，他们鼓吹电影是展现“声画技术”，故事本身烂成一坨屎都无所谓，我就亲眼见过所谓的大导演就是这么跟摄影指导聊天的，你指望他们能带领行业重回巅峰......不如期盼哪天第三次世界大战打起来吧。</p>
+<p>我一个该行业的从业者，我自己都对这个行业深感绝望了。</p>
+<p>很多从业者依然抱着几十年前的老套路不放，觉得只要掌握了几种拍摄手法、编几个激情高昂的剧情就能打动观众，你要打动谁？你要说服谁？总不能搞个希区柯克变焦就觉得自己水平很高很强吧？总不能搞个多线叙事最终汇合主线就觉得自己编剧水平很强吧？这都烂大街的拍摄手法了，宣传片小广告都会用。</p>
+<p>第一个提出来的是创新者、引领者，之后的都是抄袭者、重复者。</p>
+<p>新的血液进不来，旧的血液又死死霸占着最上游的资源，几乎完全没有更新迭代，曾经的信息差红利消失殆尽，观众的审美和认知已经觉醒，而很多从业者依然在走着认师傅、拜求学院教学、熟人内部推荐的老路，和几十年前没有任何区别，或者应该这么说，现在的电影的本质和几十年前的老电影没有任何区别，不是说你往里面加点斯坦尼康或如影 2 镜头、加点伸缩炮或者车拍镜头、剧本加什么什么细节或暗线，就叫进步了，一千年前的草鞋和现在的运动鞋，它本质不 TM 还是鞋子么？</p>
+<p>现在的观众才不管你是不是大师，只看你的作品有没有创新、好不好观赏、有没有诚意、有没有紧跟观众的审美需求。</p>
+<p>而不是把一个桥段重复拍三遍，同样的桥段同样的剧情一再使用，然后鼓吹自己拍的是特效大片所以故事不重要。看看阿凡达吧，三部曲都拍成啥样了。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2025565191627130255">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/567076004">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789418</guid>
-                <pubDate>Mon, 04 May 2026 19:21:53 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789455</guid>
+                <pubDate>Tue, 05 May 2026 02:22:14 GMT</pubDate>
             </item>
             
     </channel>
