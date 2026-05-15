@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Thu, 14 May 2026 19:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 02:40:50 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>游戏中有哪些你以为很真实，其实「全是演的」游戏设计？游戏开发层面都有哪些骗过玩家的小把戏？</title>
-                <link>http://daily.zhihu.com/story/9789678</link>
-                <description>叶兰舟，世界观架构师，独立游戏人，武斗派中年宅男，公众号@兰舟说游戏 查看知乎原文 那可太多了。 实际上，游戏里绝大部分你能看到的东西，都是用各种办法偷鸡做出来的，但凡你想要更真实一点儿，可能就得付出在 BUG 之海中蛄蛹的代价。 举个最简单的例子，就是游戏里的「水体」。 当你操作角色走到水边，看着波光粼粼的水面，那一朵朵雪白的浪花，再纵身一跃，在水里欢快地游着泳，你可能就会自然而然地觉得，游戏里…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-25ff077b391b2155e18b5927017bb5f5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>研究发现有史以来最大的章鱼，这一发现对海洋生物学有何意义？</title>
+                <link>http://daily.zhihu.com/story/9789711</link>
+                <description>广町七深Official，若我生性如蜂，谨防我尾后针。 查看知乎原文 只能说确实震撼。 图源网络 实际上，这章鱼并不是刚被发现；它们的化石最初由田边一成于 2008 年描述，推测来自晚白垩纪的森诺曼期至坎帕期。在当时，它们被归入了Paleocirroteuthis属下的P. pacifica和P. haggarti两个物种。这个属并不属于真正的章鱼（八腕目），而是它们的姊妹群——幽灵蛸目。唯一现存…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-bea8982020cc46264012ba04762e078d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,75 +31,54 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-96382175080b8d8da21d9b1cc29c9439_l.jpg?source=8673f162">
-<span class="author">叶兰舟，</span><span class="bio">世界观架构师，独立游戏人，武斗派中年宅男，公众号@兰舟说游戏</span>
-<a href="https://www.zhihu.com/question/2029649478576010554/answer/2030579921207170696" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-039a297ea95822fbdcd67f6e410eba44_l.jpg?source=8673f162">
+<span class="author">广町七深Official，</span><span class="bio">若我生性如蜂，谨防我尾后针。</span>
+<a href="https://www.zhihu.com/question/2031426397126796763/answer/2032265735813208061" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>那可太多了。</p>
-<p>实际上，游戏里绝大部分你能看到的东西，都是用各种办法偷鸡做出来的，但凡你想要更真实一点儿，可能就得付出在 BUG 之海中蛄蛹的代价。</p>
-<p>举个最简单的例子，就是游戏里的「水体」。</p>
-<p>当你操作角色走到水边，看着波光粼粼的水面，那一朵朵雪白的浪花，再纵身一跃，在水里欢快地游着泳，你可能就会自然而然地觉得，游戏里真做了那么一大摊的液体，它们有粘滞性，有流动性，可以根据物理法则跟你互动……</p>
-<p>错了。</p>
-<p>绝大多数游戏里的做法，都是在地上挖一个大坑，加一些沟渠，然后在它们上面放一张平面的贴图，再写点着色器代码，让这些贴图按照特定的规律流动，看起来就像美妙的海浪一样，但其实它连物理意义上的厚度都没有。</p>
-<p>也许你会问，既然水底下是空的，那我「扑通」一声跳进去，那种水流包裹全身的粘稠感、视线模糊的效果，又是怎么回事？总不能是我脑补的吧？</p>
-<p>实际上，游戏代码在后台做了几件事：</p>
-<p>首先，把角色的标准重力系统换掉，让你飞起来——是的，在水下用的就真的是飞行模式，只是飞得不太快而已。</p>
-<p>然后，给屏幕加上滤镜，把视野范围调低，给你加点雾气特效，让你觉得眼前一片模糊。</p>
-<p>接下去放点背景音效，再来点水下吐泡泡之类的音频。</p>
-<p>最后，再把角色的移动动画从移动 / 跑步，换成狗刨或者蛙泳。</p>
-<p>哦对了，多半还要加上水下呼吸的限制，以及没氧气掉血的功能……</p>
-<p>所以，实际上你可以理解为，游戏里所谓的游泳，就是你戴着个 MR 眼镜，在天上慢悠悠地用游泳的姿势在飞。</p>
-<p>大部分游戏里，考虑到「挖个坑再倒水」也挺麻烦的，还会干脆在整个游戏海拔最低的地方，直接铺上这么一张覆盖全地图的水网，并且把低于它高度的区域，都设置为水下。</p>
-<p>这就是为什么，如果你曾经在某个游戏里，因为恶性 BUG 卡穿了地面，一直往下掉的时候，最终可能会掉进一片无边无际的汪洋大海里淹死。</p>
-<p>顺便一提，在发生这种 BUG 的时候，如果你没有急着读盘或者重置，而是往上看，会看到什么呢？几百米厚的泥土岩层，或者城市的基盘？</p>
-<p>哈，当然不会！而是跟下图这种，地面全是透明的，你能隔着「地表」，看到上面的各种建筑、怪物和 NPC。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4cce24498ed34f932829e6f843562e81_720w.jpg?source=8673f162" alt=""></figure>
-<p>那为什么呢？</p>
-<p>因为游戏里看到的所有东西，无论是巍峨的大山，厚实的城墙，还是看起来沉重的巨剑，它们都没有物理意义上的厚度，所有的东西，都是一个「壳子」。</p>
-<p>说得再具体一点，整个游戏世界就像是一个用没有厚度的纸板糊起来的折纸工艺品。在现实世界里，你砸开一块砖头，里面还是砖头，但在游戏里，所有的物体，都只是拼凑在一起的集合面而已。</p>
-<p>而且为了节省算力，这些片都会用到单面渲染技术，就是只有从外面（也就是玩家正常的视角）看的时候，才会被渲染出材质和纹理，而从背面看的时候，则是完全不会渲染的，所以当你卡进石头的时候往外看，就会发现，这块石头变成了全透明的单向玻璃。</p>
-<p>角色也是一样，所以你如果卡进其他角色的躯体里面，看到的也会是类似的景象，这个看到过的朋友就应该挺多的了。</p>
-<p><strong>地铁头盔</strong></p>
-<p>如果说水体和外壳只是基础的引擎知识，那么游戏史上还有不少类似的好玩的操作，比如非常著名的辐射 3 的地铁头盔。</p>
-<p>有一个任务需要玩家乘坐总统地铁，你坐在车厢里，看着窗外飞速掠过的景色，看起来好像一切都挺正常的对吧？但如果这时候你开控制台把视角拉一下，你就会发现……</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-776cf1901aea430ade38b8c0730edd1a_720w.jpg?source=8673f162" alt=""><figcaption>是这样的！</figcaption></figure>
-<p>因为游戏的引擎根本不支持载具，所以他们做了一件特殊的装备，这件装备的头盔部分，就是一个巨大的火车头模型。</p>
-<p>你以为你在坐地铁，其实是你的角色正戴着一个火车头钢盔，在隧道里迈开大腿猛跑……但管他呢，反正在玩家视角来看，这是在移动就行了，背后的原理就甭计较了呗。</p>
-<p><strong>万能的兔子</strong></p>
-<p>这是个更有名的例子。</p>
-<p>在早期的魔兽世界里，它的引擎有个绕不开的限制：只有 NPC 才能拥有坐标，释放技能，发出声音或者亮出血条，空地、石头什么的，全都没有这种资格。</p>
-<p>那如果任务要指向某个空地，或者奥妮克希亚要往某个地点喷吐怎么办呢？</p>
-<p>暴雪的程序员们想了个绝妙的招儿，就是既然只有 NPC 能干活，那就在空地上放 NPC 呗，他们就弄了隐形的兔子，然后塞进世界的各个角落。</p>
-<p>所以，洞穴的阴森风声，其实是洞顶的隐形兔子在吼。</p>
-<p>奥妮克希亚的龙息，其实也不是对着你喷的——它只是对着那些隐形的兔子在喷。</p>
-<p>所有的图腾，本身只是个没有碰撞、没有血条的壳子，你砍图腾的每一刀，其实都砍在了藏在图腾正中央的兔子身上。</p>
-<p>如果你能看得见它们的话，你会发现整个艾泽拉斯，全都挤满了这些任劳任怨的兔子，在不断配音，浇水，被当做计数器跟干掉，被龙喷死……</p>
-<p>当年还出过一个有名的 BUG，就是法师一个火焰风暴下去，空地里冒出一堆击杀，然后副本瘫痪了。为啥？因为这个副本里的关键兔子被烧死了……后来的解决方法也很简单，就是给这些兔子加了个无敌。</p>
-<p>顺便一提，为什么是兔子？</p>
-<p>因为在当时暴雪的生物模型库里，所有物件是按字母表顺序排列的。而排在第一位的那个模型，名字刚好叫做 critter_bunny，如果要换别的，得多按几下键盘……</p>
-<p>其实这类还有很多，比如游戏里的镜子全都是假的、老滚 5 的商人是从脚下虚空中的箱子里拿东西这种，就不一一细说了。总之，偷鸡是好文明，做游戏的哪有不偷鸡的呢是吧。</p>
+<p>只能说确实震撼。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be0b8910bb362f7442e34e61b3287780_720w.jpg?source=8673f162" alt=""><figcaption>图源网络</figcaption></figure>
+<p>实际上，这章鱼并不是刚被发现；它们的化石最初由<span class="nolink">田边一</span>成于 2008 年描述，推测来自晚白垩纪的森诺曼期至坎帕期。在当时，它们被归入了<em>Paleocirroteuthis</em>属下的<em>P. pacifica</em>和<em>P. haggarti</em>两个物种。这个属并不属于真正的章鱼（八腕目），而是它们的姊妹群——幽灵蛸目。唯一现存的幽灵蛸<em>Vampyroteuthis infernalis</em>生存在深海中，以碎屑和小动物为食，会喷出荧光<sup>[1]</sup>粘液自卫。它们可能代表了章鱼的祖先形态。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f978f81e6f1ea4a3ada7fe8e3d6ef86_720w.jpg?source=8673f162" alt=""><figcaption>图源网络</figcaption></figure>
+<p>然而，就在前不久题目中提到的研究中，<em>P. pacifica</em>和<em>P. haggarti</em>经历了分类学大变——它们被移入了八腕目下的有须亚目，得名于这类章鱼触手上的软须。它们被分配到了<em>Nanaimoteuthis</em>属下，更名为<em>N. jeletzkyi</em>和<em>N. haggarti。</em>这次重新分类将八腕目的化石记录提前了约 500 万年，将有须亚目的化石记录提前了约 1500 万年。</p>
+<p>现存的有须亚目分为四个总科，其中最特化、也最广为人知的是面蛸总科<span class="nolink">Opisthoteuthoidea</span>。这类章鱼变得小型化、凝胶化，在远洋的海底捡拾碎屑和小型动物。与其他有须亚目成员类似，它们有一个 U 形的内壳，用以支撑一对小鳍。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8aa6d630a609fb805b3787e79d41f055_720w.jpg?source=8673f162" alt=""><figcaption>加州面蛸 Opisthoteuthis californiana，图源网络</figcaption></figure>
+<p>面蛸中出现了许多因为可爱外表而广为人知的物种，并且作为一种文化符号享有极高的人气，其中最著名的可能是扁面蛸<em><span class="nolink">Exsuperoteuthis depressa</span>。</em>（饺子醋来了）</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4dff76bcf33a29600c32585316df3667_720w.jpg?source=8673f162" alt=""><figcaption>在《超时空辉夜姬！》中，月见八千代胸前的就是一只扁面蛸。图源网络</figcaption></figure>
+<p>在有须亚目的其他类群中，章鱼们保留了更长的触手，看起来与幽灵蛸有些相似。与无须亚目，也就是那些没有鳍和内壳、在浅海捕捉虾蟹的典型章鱼不同，它们更早分家，主要依赖鳍在较远、较深的海域活动，用宽大的触手间的膜捕食。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-1c4992547dcaf3fb2d48f6916332531e_720w.jpg?source=8673f162" alt=""><figcaption>Stauroteuthis syrtensis,图源网络</figcaption></figure>
+<hr>
+<p>说回我们的主角，<em>N. jeletzkyi</em>和<em>N. haggarti。</em>作为软体动物，它们只有喙部形成了化石。之前根据幽灵蛸做出的体型推测均为 1-3m 左右。对于章鱼，这已经是不小的体型，但是当它们被重新分类，更令人惊讶的体型预测出现了——他们估算<em>N. jeletzkyi</em>的胴长（被外套膜包裹的“头部”）为 0.67–1.84 米，总长 2.8–7.7 米；他们还估算了<em>N. haggarti</em>的胴长为 1.58 米（基于<em><span class="nolink">Cirroteuthis muelleri</span></em>）至 4.43 米（基于<em><span class="nolink">Stauroteuthis syrtensis</span></em>），总长度范围为 6.6 米和 18.6 米（22 和 61 英尺）——这足以让后者成为中生代海洋中最大的动物。而现存最大的头足动物——雌性大王乌贼的胴长约为 3-4m，全长为 12-13m。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0aeadb0be025f3caea2f77a8b23120c3_720w.jpg?source=8673f162" alt=""><figcaption>两种巨型章鱼与其他中生代海洋顶级掠食者、以及大王乌贼的对比。图源网络</figcaption></figure>
+<p>更奇妙的发现来自喙部本身。与捕食软质猎物的乌贼、鱿鱼不同，章鱼时常需要处理坚硬的猎物外壳，因此喙会留下磨损，在这两种大章鱼身上也一样。它们的喙时常剧烈磨损，缺损甚至达到总长度的 10%。这表明它们是凶猛的掠食者，可以捕食大型鱼类乃至海洋爬行类，可以想象这些恐怖的捕食者用长长的触手缠住猎物，坚硬有力的喙可以麻利地咬断骨头。即便如此，将它们归类为顶级掠食者仍是激进的，它们可能受到沧龙的威胁。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9d734e2cab729780101ee68791ff5e4c_720w.jpg?source=8673f162" alt=""><figcaption>N. jeletzkyi、N. haggarti 和大王乌贼的喙对比。图源网络</figcaption></figure>
+<p>此外，在喙部的磨损呈现出不对称的模式——这表明它们可能具有大脑偏侧化。这与发达的大脑和认知功能有关，读者可以想到人类的利手现象。现代不少章鱼都出现了偏侧化现象，并且展现出不逊于灵长类的智力，可以推测，这两种巨型章鱼同样聪慧，懂得在狩猎或防御时使用计策。</p>
+<hr>
+<p>论文提到了一个有趣的观点——头足类和脊椎动物经历了趋同演化。它们都在古生代演化出喙和颚骨，失去了沉重的外壳（盾皮鱼 / 鹦鹉螺、菊石），代之以光滑的表皮，并增大了体型、提升了游泳能力和智力。但是，在板足鲎类没落之后的数亿年里，上层捕食者的位置一直都被脊椎动物占据，不管是一直在海里的还是重新下海的。然而，在这一情况持续很久之后，一直处于生态位中层的头足类终于演化出了能够与它们匹敌的身体结构。于是，在晚白垩纪，巨型章鱼用它们的触手推开了上层捕食者的大门。</p>
+<p>然而，风光总是短暂的。白垩纪末大灭绝后，巨型章鱼迅速绝迹，辉煌一时的有须亚目不得不将位置让给更先进的鱿鱼和鱼类，退缩到深海之中，与它们曾经祖先的后代幽灵蛸为伴。不过，它们较晚出现的后辈——无须亚目，正在浅海以极高的多样性与生存智慧续写着八条触手编织的传奇。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b4786db7e6a875a5be7f7080b253c4ec_720w.jpg?source=8673f162" alt=""><figcaption>北太平洋巨型章鱼 Enteroctopus dofleini，现存最大的章鱼之一。图源网络</figcaption></figure>
+<p>当你再次见到来自深海的软萌面蛸时，会不会想起它们这些硕大无朋、在远洋挥动着鳍缓缓游动的前辈呢？</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2029649478576010554">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2031426397126796763">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789678</guid>
-                <pubDate>Thu, 14 May 2026 19:40:05 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789711</guid>
+                <pubDate>Fri, 15 May 2026 02:40:47 GMT</pubDate>
             </item>
             
             <item>
-                <title>既然历史上有气候更温暖、二氧化碳含量更高的时期，这是否意味着不用担心全球变暖？</title>
-                <link>http://daily.zhihu.com/story/9789686</link>
-                <description>气象喵探员，点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~ 查看知乎原文 正常变暖和现在的全球变暖，就像是下楼和跳楼的区别。 只谈变暖强度而不谈速率的，其实就是耍流氓，这跟只谈剂量不谈毒性是一样的，但总有人以此做文章并渲染变暖无害论。 当今全球变暖的独特性根本不在于升温有多强，而是在于升温速率异常快，历史上升温超 5℃的情况有的是，但没有任何一次过程的速率能超过现在。 有比现在更暖的…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e225b6b302bfc9cab5873eadd92b3f6b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>杨振宁先生说海森堡是伟大的物理学家，但不喜欢他的研究方法（taste），海森堡的研究方法是怎样的？</title>
+                <link>http://daily.zhihu.com/story/9789721</link>
+                <description>momo 查看知乎原文 你看看他俩的文章就明白了。杨振宁的风格是给一个假设，一通硬算，得出几个漂亮的结论，然后试着推广到一般情况。强调一个数学要漂亮，推导要严谨。这种思路非常接近今天的高能形式理论，就是威腾、泡尔钦斯基这些人的研究范式，继承的是麦克斯韦做场方程和爱因斯坦做狭义相对论的理论物理传统。一个极端的例子是 62 年的非对角长程序，这篇文章一开篇就是这样的 第一句就是 让我们考虑一个固定粒子…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-89fa11057cc695957c492dcbb4fef23e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -119,89 +98,52 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
-<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
-<a href="https://www.zhihu.com/question/2033242411309191835/answer/2033494872930432471" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-c53eb978b6a298e89c944072d07f053d_l.jpg?source=8673f162">
+<span class="author">momo</span>
+<a href="https://www.zhihu.com/question/1964049209050247941/answer/1968071207023809486" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>正常变暖和现在的全球变暖，就像是下楼和跳楼的区别。</strong></p>
-<p>只谈变暖强度而不谈速率的，其实就是耍流氓，这跟只谈剂量不谈毒性是一样的，但总有人以此做文章并渲染变暖无害论。</p>
-<p>当今全球变暖的独特性根本不在于升温有多强，而是在于升温速率异常快，历史上升温超 5℃的情况有的是，但没有任何一次过程的速率能超过现在。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d2c0266c585e9277919e4a7b26b5f86_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>有比现在更暖的时期吗？当然有！但这根本不重要</strong></p>
-<p>诚然，比当今更温暖的时期确实存在，但这代表不了什么，因为每个阶段的变暖都是有原因的，速率也远没有那么快。</p>
-<p>过去 5600 万年前发生了一次古新世 - 始新世极热事件（PETM），<strong>这是全球在新生代经历的最快、最显著的变暖事件。</strong></p>
-<p>这时全球平均气温在数千到上万年里升温了 5~8℃，高纬度的升温更加剧烈，但是从升温速率来看，还不及现在变暖的 1/10。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-46b1965156d4caceb97c62a3db52da41_720w.jpg?source=8673f162" alt=""></figure>
-<p>随后全球气温在波动中逐步下降变冷，自约 260 万年前第四纪大冰期开始，地球进入以约 10 万年为周期的冰期 - 间冰区旋回。</p>
-<p>在间冰期中，全球平均气温比现在持平或还要再高 1~2℃的情况也有的是，海平面比现在高 5 米的情况也很常见，但是升温速率仍然非常慢，大多不及现在的 1%。</p>
-<p>这是由米兰科维奇循环驱动的，<strong>地球轨道参数的周期性变化改变了高纬度夏季接收到的太阳辐射</strong>，并通过反照率反馈增大。</p>
-<p>尔后的过去 80 万年左右，全球二氧化碳浓度始终在冰期的 180ppm 与间冰期的 280ppm 之间波动，远远低于当今的 430ppm。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b9dec0e629ce7aedc98e9b94b940fd6f_720w.jpg?source=8673f162" alt=""></figure>
-<p>而在过去 2.1 万年地球经历了末次冰盛期，此时全球平均气温比工业化前低 4~7℃，随后进入冰消期的快速增温，但升温速率也仅约每千年 1℃。</p>
-<p>而在过去 5000 年中，即便是经常被大家用来比较变暖的汉唐暖期，全球平均气温也才勉强不偏低而已，并没有很多人说的偏高好几度那么夸张。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-63629f02c5af8a33dac0b29ee7ce15bd_720w.jpg?source=8673f162" alt=""></figure>
-<p>直到约过去 300 年前，工业革命伴随着地球有记录以来最强变暖开始，<strong>大量温室气体进入地球循环并产生强大温室效应</strong>，强迫地球吸收更多的太阳辐射。</p>
-<p>直到现在全球平均气温已上升约 1.5℃左右，近期的升温速率超过了 0.3℃/ 十年，并且仍在持续加强，已达到历史之最，是自然变暖想都不敢想的强度。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1c1fafb424d75fae1e1294f6f070f2dd_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>当今的变暖强度已经快到要命，这才是最大的威胁</strong></p>
-<p>聚焦一下核心，当今全球变暖与地质历史上任何自然变暖事件，最根本也是最危险的区别就是变化速率，在地质尺度上看现在的变暖就是直冲云霄。</p>
-<p>工业化前大气二氧化碳浓度稳定在 280ppm 左右，始终没有出现过明显过高的情况，<strong>但自工业革命开始，特别是 20 世纪 50 年代以来这一浓度直线飙升</strong>。</p>
-<p>到了现在也就是 2026 年初，全球大气二氧化碳浓度已经达到 430ppm 左右，这意味着过去一个世纪增加的二氧化碳浓度，能顶上过去几万年自然进程的增加总量。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-099cc9deecb16064fbca3761ea7ca9e8_720w.jpg?source=8673f162" alt=""></figure>
-<p>严重偏高的二氧化碳增加速率对应的是巨额的变暖速率，过去 50 年来全球地表平均温度的上升速率约为每十年的 0.2℃，并在 21 世纪初增加为每十年 0.3℃。</p>
-<p>这相当于每千年升温 20℃甚至 30℃的速度，相比之下末次冰盛期之后的冰消期最快的升温速率也仅为每千年 1℃左右，更别提正常的间冰期了，那可能还不到 5000 年 1℃。</p>
-<p>从这些数据中可以看得出来，<strong>当今变暖速率是自然快速变暖的 20~30 倍，是正常变暖的数百倍乃至更高</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c927e06525d85f80d5a979152e347c20_720w.jpg?source=8673f162" alt=""></figure>
-<p>而且现在的整个地球系统的能量收支非常不平衡，这也是变暖不正常的体现，由于温室气体的增加地球系统吸收的太阳辐射略多于反射的红外辐射。</p>
-<p><strong>这就会导致每年有相当于全球发电总量数百倍的额外能量被滞留在地球系统内</strong>，其中约 91%被海洋吸收，陆地占比相对较小。</p>
-<p>像这样持续性的能量不平衡，就会导致全球平均气温以高速且持续加码的形式快速上升，并促使海洋快速酸化，削弱海洋碳汇，并让变暖更为剧烈。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8ecbe45f498f7126efb8845978de3979_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>全球变暖正在导致多系统崩溃，根本没有能力不担心</strong></p>
-<p>目前变暖的超高速率已经叠加在相对较高的绝对温度水平之上，有人认为这对地球来说没啥事的，但事实上这已经地球多系统产生非常明显的影响。</p>
-<p>就比如现在的西南极冰盖和格陵兰冰盖的消融，已经出现明显加速和不可逆临界点的信号，<strong>部分地区的接地线已经后退至反向坡，可能已经越过不可逆退却的标准</strong>。</p>
-<p>北极海冰的夏季海冰范围也在逐步缩小，其面积已经从 20 世纪末的 800 万平方千米降低至最近几年的不到 400 万平方千米，首个北极夏季无冰日可能就是这几年的事。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-69dafdf1e07959e22bddf633538a381d_720w.jpg?source=8673f162" alt=""></figure>
-<p>同时热带珊瑚礁系统已经在去年 10 月份过了临界点，也是目前唯一一个被突破的气候临界点，当今已有全球 84%的珊瑚礁经历过白化事件。</p>
-<p>并且关键造珊瑚礁的繁育成功率在多区域已经低于种族维持所需最低值，<strong>也就意味着即便现在全球气温恢复如初，大部分珊瑚礁系统也回不去了</strong>。</p>
-<p>更何况现在变暖仍在持续加剧，这对珊瑚礁来说是毁灭性的，只要变暖不停歇，未来一定还会有更强的白化事件。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5639a0ff69f6969988dc17ce23e44979_720w.jpg?source=8673f162" alt=""></figure>
-<p>不少人可能不知道的是，每个临界点之间还会有关联性，它们并不是独立存在，<strong>这种隔空影响在气象学上被称之为遥相关反应</strong>。</p>
-<p>比如说北极海冰融化以及格陵兰冰盖融化产生的大量冰川融水在注入海洋之后，会影响到北大西洋经向翻转环流（AMOC）。</p>
-<p>这会直接影响其核心部分，也就是深层水的形成，并会使其强度逐步削弱，在后果严重的情况之下甚至有可能触发停滞。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d39ced5386568266565e02e25ee38dca_720w.jpg?source=8673f162" alt=""></figure>
-<p>而 AMOC 一旦真的大幅减弱，就会严重影响到欧洲乃至全球的海陆热力，从而影响到依赖海陆热力所产生降水的季风，可能使其强度也减弱。</p>
-<p>而全球季风一旦发生显著变化，那么就会影响到全球降水分布以及其强度，再叠加上变暖本身导致的热带环流扩张，就会导致干旱带的范围也显著扩大。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8984655117853ab31e5ed24f2326f7ed_720w.jpg?source=8673f162" alt=""></figure>
-<p>而亚马逊雨林这几年毁林率只高不下，部分地区甚至已经从碳汇变成碳源，即产生的温室气体排放大于吸收的温室气体。</p>
-<p>这么一搞就可能让亚马逊雨林雪上加霜，<strong>如果后续毁林面积持续增大的话，是有向稀疏草原转变的可能性</strong>，那就彻底完球了。</p>
-<p>这种一环扣一环的机制，就会导致变暖产生的影响无限扩散，而且有些系统还会反过来加剧变暖，相当于左脚踩右脚一步登天。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd5d40d16bb680a095bab25d88095ac0_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以历史上有比现在更暖、二氧化碳浓度有比现在更高的时期，根本不能证明当今变暖就不危险，不代表我们可以不管它了。</p>
-<p><strong>现在就像是加强版的温水煮青蛙，只要敢不管就一定被烫死。</strong>至于怀疑全球变暖真实性的那就更没必要了，现在时代已经变了，这种想法很像是上世纪的产物。</p>
-<p>以上（亲，看完记得点赞呀，喵喵喵~）。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0d30312aa62ee35fedd1ecd5db4073c0_720w.jpg?source=8673f162" alt=""></figure>
+<p>你看看他俩的文章就明白了。杨振宁的风格是给一个假设，一通硬算，得出几个漂亮的结论，然后试着推广到一般情况。强调一个数学要漂亮，推导要严谨。这种思路非常接近今天的高能形式理论，就是威腾、泡尔钦斯基这些人的研究范式，继承的是麦克斯韦做场方程和爱因斯坦做狭义相对论的理论物理传统。一个极端的例子是 62 年的非对角长程序，这篇文章一开篇就是这样的</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ee9bf11f8856f1d828e59b66274e7a4d_720w.jpg?source=8673f162" alt=""></figure>
+<p>第一句就是</p>
+<blockquote>让我们考虑一个固定粒子数的多体系统，我们定义约化密度矩阵为…</blockquote>
+<p>二话不说，上来就干。</p>
+<p>海森堡的风格则完全相反，一般是从实验和现象出发，一通类比比喻，然后从天而降一套运算法则或者“唯象”方程。强调的是“言出法随”，我猜的就是对的。这种思路其实就是高能物理黄金时代的范式，也很像后来的凝聚态理论（想想拉夫林和李帕锤），继承的是普朗克量子假说、爱因斯坦做广义相对论这类工作的传统。让我们看最有名的，建立矩阵力学的第一篇文章，除去引言和背景介绍，这篇文章的逻辑起点大概是这样的</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3958c4b2adfb0ef7005942e5ae686d66_720w.jpg?source=8673f162" alt=""></figure>
+<p>解释一下，海森堡这里首先给经典辐射公式做傅立叶展开，展开频率当然是展开阶数 n 的函数，然后他指出量子情况下这样不行。这是当然的，因为这是经典公式。精彩的是他的下一句：</p>
+<blockquote>为了描述这种（量子化）辐射，我们首先需要让频率变成两个变量的函数。</blockquote>
+<p>这种由两个变量（指标）关联起来的一组数，就是后世所谓的“矩阵”。文章后面的讨论就变成了基于“矩阵”物理量的自然推导。</p>
+<p>怎么着，您是偷看答案了是吧？</p>
+<p>从现代的角度看，海森堡相当于猜出了哈密顿量在坐标表象下是非对角的，或者说，他从物理上意识到了傅里叶变换是某种更广义的“表象变换”的特例。</p>
+<p>平心而论，前一种范式的好处是能得到漂亮的数学、推广性可以很强，但物理上很有可能是错的。杨米尔斯理论、非对角长程序、杨巴克斯特方程，在今天看来其在原本处理的问题上都谈不上太成功，但都成了有价值的数学框架。超弦理论现在也是差不多的情况。</p>
+<p>而后一种范式往往数学上漏洞百出，但在合适的时候可以倒逼数学家创造新数学。这套范式也极为依赖学者本人的物理直觉，找到窍门的时候有如接到了神谕，往往是学不来的。</p>
+<p>近现代能在两种范式上都游刃有余、指哪打哪的，基本就是早年的爱因斯坦了。</p>
+<hr>
+<p>最后说一下广义相对论吧。有人认为爱因斯坦做广义相对论的路子是基于对称性（广义协变性）做数学推广，这主要是因为后期爱因斯坦经常谈这个，他做统一场论也是这个套路。</p>
+<p>但如果你仔细看一下就会发现不是这么回事。从狭义相对论出发做协变引力，最自然的数学路子是 Fierz-Pauli 线性引力，也就是在闵可夫斯基时空流形上引入自旋为 2 的引力场算符。当然这是线性理论，引力场本身不产生引力场，形式上不对称。为了得到 GR，下一步是引入引力的自相互作用，这勉强算是“自然”的推广，但这个过程是比较微妙的，具体可以看看 GR 的“非几何推导”（<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//arxiv.org/abs/0910.2975" target="_blank" rel="nofollow noreferrer">Gravity from self-interaction redux</a>和里面的引用）。最后把时空度规“重新定义”成这一过程中“演生”出的引力场场量，让时空几何随之演生出来。</p>
+<p>而爱因斯坦走的是完全不同的路子，他本质上是靠理想实验猜出了弯曲时空的概念（等效原理、爱因斯坦电梯），然后通过时空几何与物质分布“成正比”的信念猜出了场方程。特别是等效原理，现在看来从数学上讲就是错的。总之这个过程是比较磕绊的，远没有希尔伯特的做法优雅，这大概让爱因斯坦受了不少刺激，导致他晚年完全转向了“数学式”探索。但是我们回过头来看，希尔伯特能够顺利导出场方程的前提，是他知道应该在弯曲时空（伪黎曼流形）上构造引力理论，如果没有爱因斯坦的铺垫，这本身就是一个非常诡异、很难说清有什么道理的思路。</p>
+<p>希尔伯特以为这一步很简单，其实这一步才是伟大的“信仰之跃”。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2033242411309191835">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1964049209050247941">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789686</guid>
-                <pubDate>Thu, 14 May 2026 19:40:06 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789721</guid>
+                <pubDate>Fri, 15 May 2026 02:40:48 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么动能的公式中有 1/2？</title>
-                <link>http://daily.zhihu.com/story/9789689</link>
-                <description>酱紫君，QQ群1014125 查看知乎原文 我大概知道你想问什么，你是想说既然静态部分 E = mc^2，那为何动态部分的动能非要多个 1/2？ 要解答这个问题还得回到动能概念的起源，那时候还真就没有 这个拖油瓶系数。 Energeia 时间回到 17 世纪，经典力学刚刚建立，世界太新，很多东西都还沒有名字，包括我们今天熟知的「能量」。 如果你问牛顿爵爷，这个砸到你的苹果蕴含多少的 Energy？…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-b28ba005ec5b3337543e574104491502.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>如何计算一只鸡的表面积？</title>
+                <link>http://daily.zhihu.com/story/9789728</link>
+                <description>北冥有鱼，北大理论物理博士，互联网从业 查看知乎原文 这个问题很好，真的有生物学家测量过动物的表面积，并且发现了一个深刻的数学规律：标度率，它定义出了所有生物体的物理边界。 方法其实很简单，给鸡均匀涂一层石蜡，称重前后差值除以涂层密度和厚度，反推面积——19 世纪末生物学家用得很多。再粗暴一点的是剥皮法，把皮剥下来铺平测量。现代当然有 3D 扫描，精度可以做到 1% 以内。 19 世纪的德国生理学…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-9e7820975863414640934c87d114d109.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -221,266 +163,118 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-8bec9d5bd4a7b338b2b91d0ce1e70ee3_l.jpg?source=8673f162">
-<span class="author">酱紫君，</span><span class="bio">QQ群1014125</span>
-<a href="https://www.zhihu.com/question/595635574/answer/2035661632110585441" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/c9a266ba34dbc5652ca15e16179984fb_l.jpg?source=8673f162">
+<span class="author">北冥有鱼，</span><span class="bio">北大理论物理博士，互联网从业</span>
+<a href="https://www.zhihu.com/question/266104988/answer/2034367378990036938" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>我大概知道你想问什么，你是想说既然静态部分 E = mc^2，那为何动态部分的动能非要多个 1/2？</p>
-<p>要解答这个问题还得回到动能概念的起源，那时候还真就没有</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>这个拖油瓶系数。</p>
-<p><strong>Energeia</strong></p>
-<p>时间回到 17 世纪，经典力学刚刚建立，世界太新，很多东西都还沒有名字，包括我们今天熟知的「能量」。</p>
-<p>如果你问牛顿爵爷，这个砸到你的苹果蕴含多少的 Energy？</p>
-<p>牛顿必然一脸懵逼，Energy 这个词可是相当的古老，老到可以追溯到古希腊，源自希腊语 ἐνέργεια，转写为 Energeia。</p>
-<p>亚里士多德在公元前 4 世纪发明了这个词，在随后的两千年里，这个词一直留在文学和哲学领域，用来形容一个人精力充沛，或者某种艺术表达很有张力，和数学、物理领域半毛钱的关系都没有。</p>
-<p>在亚里士多德的哲学体系里，Energeia 的意思是处于活动状态。</p>
-<p>比如，苹果种子的潜能是长成一棵苹果树，当它真的长成苹果树时，它就处于 Energeia 状态。</p>
-<p>大致来说，牛顿时代这个词的意思是用于行动、运作的某种活着的生命力。</p>
-<hr>
-<p>所以牛顿听到 Energy 这个词会大脑宕机，谈哲学是吧，不过没问题，这个老夫也略懂一些。</p>
-<p>想了一会儿回过味来了，他会说，我懂了，你是想问<strong>「力的量（Force）」</strong>吧？我给你算一下！</p>
-<p>没错，当时的物理学家都明确知道物体运动里藏着某种守恒的东西，但他们都不知道该叫它什么。</p>
-<p>牛顿管它叫力，更准确的说，应该翻译成力量。</p>
-<p>按照现代的观点，牛顿在不同地方说的 Force 这个词，有时指</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=F%3Dma" alt=""></p>
-<p>，有时指动量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=mv" alt=""></p>
-<p>，有时又指能量。</p>
-<p>乱套了。</p>
-<hr>
-<p><strong>Vis viva</strong></p>
-<p>早在笛卡尔时代，现代能量的雏形就已经出现，并演变成了一场持续了半个多世纪的活力论之争（Vis viva controversy），争论的双方是笛卡尔学派和莱布尼茨学派。</p>
-<p>笛卡尔认为，宇宙中存在一种叫做<strong>「运动量（Quantity of Motion）」</strong>的东西，它是绝对守恒的，他将其定义为质量乘以速度的绝对值</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=m%7Cv%7C" alt=""></p>
-<p>。</p>
-<p>但莱布尼茨在研究惠更斯的完全弹性碰撞实验时发现，笛卡尔的那个量在碰撞前后并不总是守恒的。</p>
-<p>相反，莱布尼茨注意到，有一个量在弹性碰撞以及物体自由落体过程中始终保持不变，那就是质量乘以速度的平方</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=mv%5E2" alt=""></p>
-<p>。</p>
-<p>莱布尼茨把</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=mv%5E2" alt=""></p>
-<p>命名为<strong>「活力（Vis viva）」</strong>，所以在物理学最原始的动能雏形中，的确是没有</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>的。</p>
-<p>为什么没有？</p>
-<p>因为在当时，这只是一个比例常数的问题。</p>
-<p>莱布尼茨只是想寻找一个在运动中守恒的量，至于这个量前面是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
-<p>还是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>，又或者是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=114.514" alt=""></p>
-<p>。</p>
-<p>全都无所谓，只要它在系统演化前后相等就行了，那就选个最简单的系数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
-<p>好了。</p>
-<hr>
-<p>到了 1807 年，英国物理学家托马斯·杨在他的著作《自然哲学讲义》里，正式建议用 Energy 这个词来取代莱布尼茨的活力（Vis viva）。</p>
-<p>当时由于牛顿的影响，Force（力）这个词被用得太泛滥了，简直是个垃圾筐，什么都往里装。</p>
-<p>可以类比于现在的量子，什么都™的叫量子 XX，一堆风马牛不相及的东西。</p>
-<p>托马斯·杨受不了了，他觉得必须有一个专门的词来描述做功的能力。</p>
-<p>他翻遍了古希腊词典，觉得亚里士多德那个处于活动状态的词根就挺合适。</p>
-<p>他认为能量（Energy）这个词，可以非常贴切地表达质量与速度平方的乘积。</p>
-<p>这个时候的物理学家仍就认为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=E%3Dmv%5E2" alt=""></p>
-<p>。</p>
-<hr>
-<p><strong>Work</strong></p>
-<p>虽然托马斯·杨在 1807 年发明了 Energy 在物理学中的这一用法，但 Energy 真正变成物理学的绝对核心，还要等到 19 世纪中叶。</p>
-<p>这时候出现了几个猛人，焦耳（Joule）通过实验证明了热和机械功是可以转换的。</p>
-<p>威廉·兰金（William Rankine）在 1853 年发表了论文，第一次区分了动能（此时被称为 Actual Energy，真能）和势能（Potential Energy，潜能）。</p>
-<p>开尔文勋爵（Lord Kelvin）和克劳修斯（Clausius）最后正式确立了能量守恒定律，Actual Energy 也被改名为 Kinetic Energy。</p>
-<p>这时候动能系数的问题开始暴露出来了。</p>
-<hr>
-<p>当物理学家试图把「力对空间的累积效应」与物体「运动状态的改变」联系起来时，怪事来了。</p>
-<p>根据牛顿第二定律，力</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=F+%3D+ma+%3D+m+%5Cfrac%7Bdv%7D%7Bdt%7D" alt=""></p>
-<p>。</p>
-<p>如果我们要计算力在一段位移</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
-<p>上做的功</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W" alt=""></p>
-<p>，积分过程为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W+%3D+%5Cint+F+%5C%2C+dx+%3D+%5Cint+m+%5Cfrac%7Bdv%7D%7Bdt%7D+%5C%2C+dx" alt=""></p>
-<p>因为位移对时间的导数就是速度</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=v+%3D+%5Cfrac%7Bdx%7D%7Bdt%7D" alt=""></p>
-<p>，所以</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=dx+%3D+v+%5C%2C+dt" alt=""></p>
-<p>，代入上式就变成了：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W+%3D+%5Cint+m+%5Cfrac%7Bdv%7D%7Bdt%7D+v+%5C%2C+dt+%3D+%5Cint+mv+%5C%2C+dv" alt=""></p>
-<p>算到这里，根据数学定律，对于幂函数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=v%5E1" alt=""></p>
-<p>的积分，结果必然是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7B2%7Dv%5E2" alt=""></p>
-<p>，所以做功的结果是：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W+%3D+%5Cfrac%7B1%7D%7B2%7Dmv%5E2+-+%5Cfrac%7B1%7D%7B2%7Dmv_0%5E2" alt=""></p>
-<p>到了这一步，当时的物理学界其实有两个选择：</p>
-<p><strong>选择 A：</strong> 坚持莱布尼茨的传统，定义动能</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=E_k+%3D+mv%5E2" alt=""></p>
-<p>，如果这么做，那么为了让定理成立，我们必须重新定义做功的公式为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W+%3D+2+%5Cint+F+%5C%2C+dx" alt=""></p>
-<p>。</p>
-<p><strong>选择 B：</strong> 坚持做功的定义</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=W+%3D+%5Cint+F+%5C%2C+dx" alt=""></p>
-<p>，毕竟力乘位移非常符合直觉，那么就必须把动能定义为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=E_k+%3D+%5Cfrac%7B1%7D%7B2%7Dmv%5E2" alt=""></p>
-<p>。</p>
-<p>那么，这两个定义到底谁更加的合适呢？</p>
-<hr>
-<p>从现代分析力学的视角来看，在一个系统中，最核心的物理量是拉格朗日量，通常为动能减去势能</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=L+%3D+T+-+V" alt=""></p>
-<p>。</p>
-<p>在没有任何势能的自由空间里，</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=L+%3D+T" alt=""></p>
-<p>，此时拉格朗日量等于动能。</p>
-<p>分析力学认为动量是拉格朗日量对速度的偏导数，这被称为共轭动量（Conjugate momentum）：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p+%3D+%5Cfrac%7B%5Cpartial+L%7D%7B%5Cpartial+v%7D" alt=""></p>
-<p>假设我们定义动能为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=T+%3D+mv%5E2" alt=""></p>
-<p>， 那么根据共轭动量的绝对定义，动量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p" alt=""></p>
-<p>就变成了：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p+%3D+%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial+v%7D+%28mv%5E2%29+%3D+2mv" alt=""></p>
-<p>所以如果动能没有</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>，动量就变成了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=2mv" alt=""></p>
-<p>。</p>
-<p>一旦动量变成了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=2mv" alt=""></p>
-<p>，根据牛顿第二定律的原始定义，力是动量对时间的导数</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=F+%3D+%5Cfrac%7Bdp%7D%7Bdt%7D" alt=""></p>
-<p>，力就变成了：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=F+%3D+%5Cfrac%7Bd%7D%7Bdt%7D%282mv%29+%3D+2ma" alt=""></p>
-<p>倒反天罡了属于是，改制改到老祖宗头上了！</p>
-<p>祖宗之法不可变！！！</p>
-<hr>
-<p>开个玩笑，其实也不是祖宗之法不可变，物理学家只看真理不看祖宗。</p>
-<p>以物理学的美学视角，力</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=F%3Dma" alt=""></p>
-<p>和动量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p%3Dmv" alt=""></p>
-<p>被认为是比动能更原始、更本质的定义。</p>
-<p>它们是描述状态和状态改变的最直接参量，它们的系数必须是干净的</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
-<p>。</p>
-<p>既然我们强行把动量和力的系数锁定为了</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1" alt=""></p>
-<p>，那么在对速度</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=v" alt=""></p>
-<p>进行积分或者积分逆运算的时候，幂函数的数学性质就不可避免地把</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>这个系数缝合进动能公式里。</p>
-<hr>
-<p>这在几何上其实非常直观。</p>
-<p>你在坐标纸上画一个横轴是速度</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=v" alt=""></p>
-<p>，纵轴是动量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p" alt=""></p>
-<p>的二维图。</p>
-<p>因为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p+%3D+mv" alt=""></p>
-<p>，这是一条过原点的斜线，而动能就是你把物体从静止到速度</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=v" alt=""></p>
-<p>所累积的能量，在图上，它恰好就是这条斜线下方的三角形面积。</p>
-<p>三角形的面积公式是什么？</p>
-<p>底乘高除以二：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctext%7BArea%7D+%3D+%5Cfrac%7B1%7D%7B2%7D+%5Ccdot+v+%5Ccdot+%28mv%29+%3D+%5Cfrac%7B1%7D%7B2%7Dmv%5E2" alt=""></p>
-<p>这不就完事了？</p>
-<p>只要经典力学里的动量和速度还是线性关系，只要物理定律对应的几何空间还是平直的，那</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>就是三角形存在于二维平面上的客观数学属性。</p>
-<hr>
-<p><strong>Relativity</strong></p>
-<p>等等，只要物理定律对应的几何空间还是平直的？</p>
-<p>这可不是现代物理学该有的认知，我们所处的宇宙明明是弯曲的四维时空啊？</p>
-<p>在四维时空中，时间和空间是不分家的，它们组合成一个四维的坐标。</p>
-<p>同理，能量和动量也是不分家的，它们组合成了四维动量（Four-momentum）</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%5E%5Cmu" alt=""></p>
-<p>。</p>
-<p>在四维时空里，四维动量的定义是：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%5E%5Cmu+%3D+%28P%5E0%2C+P%5E1%2C+P%5E2%2C+P%5E3%29+%3D+%5Cleft%28%5Cfrac%7BE%7D%7Bc%7D%2C+p_x%2C+p_y%2C+p_z%5Cright%29" alt=""></p>
-<p>时间分量是能量除以光速</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=c" alt=""></p>
-<p>，空间分量是普通的三维动量。</p>
-<p>根据闵可夫斯基时空的定义，任何一个四维矢量的模长的平方，在任何惯性参考系下都是一个不变的常数，即洛伦兹不变量。</p>
-<p>对于四维动量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=P%5E%5Cmu" alt=""></p>
-<p>，它的内积定义为时间分量的平方减去空间分量的平方，这个不变量恰好等于物体的静止质量乘光速的平方：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=-+%5Cleft%28%5Cfrac%7BE%7D%7Bc%7D%5Cright%29%5E2+%2B+%7C%5Cvec%7Bp%7D%7C%5E2+%3D+-%28m_0+c%29%5E2" alt=""></p>
-<p>稍微移项整理一下，你会得到能动关系式：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=E%5E2+%3D+%28pc%29%5E2+%2B+%28m_0+c%5E2%29%5E2" alt=""></p>
-<p>仔细看着这个公式，注意到它其实就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=A%5E2+%3D+B%5E2+%2B+C%5E2" alt=""></p>
-<p>，这是闵可夫斯基时空中的勾股定理！</p>
-<p>这说明在四维质能空间里：</p>
-<ul>
-<li>直角三角形的一条直角边是静止能量 <img class="content-image" src="https://www.zhihu.com/equation?tex=m_0+c%5E2" alt="">。</li>
-<li>另一条直角边是动量能量 <img class="content-image" src="https://www.zhihu.com/equation?tex=pc" alt="">。</li>
-<li>斜边就是物体的总能量 <img class="content-image" src="https://www.zhihu.com/equation?tex=E" alt="">。</li>
-</ul>
-<p>在这个纯粹的四维几何图像里，没有任何讨厌的常数，没有任何</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>。</p>
-<p>一切都是那么的完美、对称！</p>
-<p>那么，我们熟悉的动能在哪呢？</p>
-<p>此时的动能</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=E_k" alt=""></p>
-<p>，定义为物体运动时的总能量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=E" alt=""></p>
-<p>减去它静止时的能量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=m_0+c%5E2" alt=""></p>
-<p>。</p>
-<p>在几何上，也就是斜边减去一条直角边的差值：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=E_k+%3D+E+-+m_0+c%5E2+%3D+%5Csqrt%7B%28pc%29%5E2+%2B+%28m_0+c%5E2%29%5E2%7D+-+m_0+c%5E2" alt=""></p>
-<p>如果物体的速度极慢时，动量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p" alt=""></p>
-<p>极小，那么此时直角边</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=pc" alt=""></p>
-<p>远远短于直角边</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=m_0+c%5E2" alt=""></p>
-<p>，这可以看成一个极端瘦长的直角三角形。</p>
-<p>在这个极限下，斜边</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=E" alt=""></p>
-<p>比直角边</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=m_0+c%5E2" alt=""></p>
-<p>到底长了多少？</p>
-<p>使用泰勒展开，这个微小的差值近似为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cfrac%7B%28pc%29%5E2%7D%7B2+m_0+c%5E2%7D" alt=""></p>
-<p>，代入</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=p+%3D+m_0+v" alt=""></p>
-<p>，恰好就是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7B2%7Dm_0+v%5E2" alt=""></p>
-<p>！</p>
-<p>原来如此，数学上的</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>是在四维勾股定理中，当一条边无限短时用来求斜边与长直角边差值的几何系数。</p>
-<p>那么在物理意义上，</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%2F2" alt=""></p>
-<p>就应该被理解为四维圆锥曲线投影到低速三维世界时，由于空间扭曲程度极小而留下的一阶近似比例。</p>
+<p>这个问题很好，真的有生物学家测量过动物的表面积，并且发现了一个深刻的数学规律：标度率，它定义出了所有生物体的物理边界。</p>
+<p>方法其实很简单，给鸡均匀涂一层石蜡，称重前后差值除以涂层密度和厚度，反推面积——19 世纪末生物学家用得很多。再粗暴一点的是剥皮法，把皮剥下来铺平测量。现代当然有 3D 扫描，精度可以做到 1% 以内。</p>
+<p>19 世纪的德国生理学家 Max Rubner 系统测量过狗的体表面积和代谢率。他发现一件惊人的事：单位体表面积的产热量，在不同体型的狗之间近似恒定。这意味着代谢率不是与体重成正比，而是与表面积成正比。</p>
+<p>为什么？因为热量从体表散失。一只动物产多少热，必须等于它能散多少热，否则不是冻死就是热死。而表面积按几何相似性应该正比于体重的 2/3 次方。所以——</p>
+<p>代谢率 ∝ 体重^(2/3)</p>
+<p>这就是著名的”表面积法则”，是生物学第一个标度律（scaling law）。</p>
+<p>一个 2/3 引出的深坑</p>
+<p>故事到这里只是开始。1932 年，瑞士裔美国人 Max Kleiber 把测量范围从狗扩展到从老鼠到牛的多种哺乳动物，画在双对数坐标上一拟合，发现指数不是 2/3，而是 3/4。</p>
+<p>这个 3/4 跨越了 6 个数量级的体重范围都成立。后来的研究把它扩展到 21 个数量级——从细菌到蓝鲸，从单细胞到生态系统，生命的代谢率都按体重的 3/4 次方标度。这就是 Kleiber 定律。</p>
+<p>更震撼的是，一旦有了这个 3/4，一整套衍生关系自然出现：</p>
+<p>• 心率 ∝ W^(-1/4)</p>
+<p>• 寿命 ∝ W^(1/4)</p>
+<p>• 妊娠期 ∝ W^(1/4)</p>
+<p>• 主动脉半径 ∝ W^(3/8)</p>
+<p>• 大脑质量 ∝ W^(3/4)</p>
+<p>• 种群密度 ∝ W^(-3/4)</p>
+<p>注意这些指数：全是 1/4 的简单倍数。从老鼠到大象，所有这些性状都被这套标度律绑在一起。一只老鼠每分钟心跳 600 次活两年，一头大象每分钟 30 次活 60 年——但它们一生的总心跳数都是约 10 亿次。</p>
+<p>这不可能是巧合。背后一定有某种深层原理。</p>
+<p>3/4 从哪来：分形的诅咒</p>
+<p>为什么是 3/4 而不是几何上更直观的 2/3？这个问题困扰了生物学家半个多世纪，直到 1997 年 West、Brown、Enquist 三人在 Science 发表了 WBE 模型。</p>
+<p>他们的洞见是：生命的代谢不受体表散热限制，而受资源输运网络限制。氧气和养分要从肺 / 肠道送到每个细胞，废物要从每个细胞收回。这套网络（血管、气管、植物维管束）有三个普适特征：</p>
+<p>1. 空间填充：必须能到达身体每一处组织</p>
+<p>2. 终端单元尺寸不变：毛细血管在小鼠和鲸鱼里一样粗，因为这是细胞 - 血液交换的物理最优尺寸</p>
+<p>3. 能量耗散最小：被自然选择优化</p>
+<p>从这三条假设出发，纯数学推导出网络是分形的，且代谢率必然 ∝ W^(3/4)。</p>
+<p>3/4 而非 2/3 的原因，本质上是因为分形网络给生物体增加了一个”有效维度”——它们在三维空间里活动，但内部输运网络的拓扑相当于 4 维。所以指数是 1/4 的倍数（来自 1/4 = 1/(3+1)），而不是 1/3 的倍数。</p>
+<p>这是个深刻的结果：生命的标度律不是几何决定的，是输运网络的物理决定的。</p>
+<p>从标度律到生命的边界</p>
+<p>这套理论真正令人着迷的地方，是它能反过来预测哪些生物形态不可能存在。</p>
+<p>物理定律和几何约束在不同尺度上以不同方式占主导。每一种生命形式都被”压”在一个允许的窗口内，窗口外面是禁区——不是演化没找到，是物理上根本不可能。</p>
+<p>为什么没有比鲸鱼更大的动物</p>
+<p>三个独立约束在大体型一起卡死：</p>
+<p>散热：产热 ∝ W^(3/4)，散热面积 ∝ W^(2/3)。比值随体型增大。这就是为什么大象有大耳朵，为什么巨型恐龙可能需要羽毛 + 气囊散热。</p>
+<p>骨骼：Galileo 在 1638 年就指出过，骨骼承重 ∝ L²，体重 ∝ L³，单位骨截面应力 ∝ L。陆地动物理论上限约 100-150 吨，蓝鲸 150 吨只能存在于水里——浮力抵消了重力。</p>
+<p>供氧：循环系统传输时间 ∝ W^(1/4)。再大下去，氧气送不到组织。</p>
+<p>为什么没有比鼩鼱更小的恒温动物</p>
+<p>最小哺乳动物伊特鲁里亚鼩鼱 1.8 克。下限同样来自物理：</p>
+<p>单位质量代谢率 ∝ W^(-1/4)，所以鼩鼱每天必须吃自己体重的食物才能维持体温。再小就得不间断进食，连睡觉都不行。心率约 1000 次 / 分，已接近哺乳类心肌收缩 - 舒张周期的物理极限（约 1200 次 / 分）。</p>
+<p>变温动物（昆虫、小爬行类）能小得多，因为不维持高代谢。</p>
+<p>为什么昆虫不能放大</p>
+<p>把蚂蚁放大到狗的大小，按平方 - 立方律：体重增加 1000 倍，腿截面只增加 100 倍，单位面积应力增加 10 倍——它的几丁质外骨骼会立刻碎裂。</p>
+<p>更要命的是呼吸。昆虫靠气管直接扩散供氧，没有循环系统。气管系统的扩散物理学限制了它们的最大体型——大约 10 厘米量级。石炭纪大气含氧量 35%（现在 21%），所以那时昆虫能长到 70 厘米翼展（巨脉蜻蜓）。氧气浓度降下来后，巨型昆虫立刻消失。</p>
+<p>哥斯拉、巨型蜘蛛在物理上都不可能。</p>
+<p>为什么树有 130 米的高度上限</p>
+<p>最高的红杉约 115 米。理论极限约 130 米，原因纯粹是物理的：</p>
+<p>水靠蒸腾拉力（负压）从根升到顶端。负压超过 -2 MPa 时水柱会”空化”——气泡形成，输水中断。计算这个临界值对应的高度，正好是约 130 米。</p>
+<p>宇宙间所有用水做溶剂的高树，无论在哪个星球，都会撞上这个极限。</p>
+<p>为什么会飞的动物体型有上限</p>
+<p>最大飞鸟信天翁约 12 公斤。灭绝的 Argentavis 约 70 公斤，可能只能滑翔。Quetzalcoatlus（翼龙）200-250 公斤，存在但起飞方式仍有争议。</p>
+<p>升力 ∝ 翼面积 × 速度² ∝ L²·v²，体重 ∝ L³。保持飞行需要 v ∝ L^(1/2)——大鸟必须飞得更快。飞行所需功率 ∝ W^(7/6)，肌肉输出功率 ∝ W^1。两条曲线的交点决定了上限。</p>
+<p>不同尺度，不同物理</p>
+<p>更深刻的是：生命不是只面对一套物理规则，而是在不同尺度上面对完全不同的物理世界。</p>
+<p>Reynolds 数衡量惯性力与粘性力的比值，依赖体长：</p>
+<p>• 鲸鱼游泳 Re ~ 10⁸，惯性主导，水”像水”</p>
+<p>• 精子游动 Re ~ 10⁻²，粘性主导，水”像蜂蜜”</p>
+<p>这就是为什么细菌鞭毛是旋转而不是来回摆动——在低 Re 下来回摆动净位移为零（这叫”扇贝定理”）。1 厘米的小鱼和 1 微米的细菌，面对的”水”是两种完全不同的东西。</p>
+<p>Bond 数决定表面张力和重力的相对重要性：</p>
+<p>• 1 毫米以下：表面张力主导。水黾能在水面行走，蚊子不会被雨滴砸死（雨滴对它们就是橡胶球）</p>
+<p>• 10 厘米以上：重力主导，鱼游泳要考虑浮力</p>
+<p>1 毫米的昆虫和 10 厘米的青蛙之间的物理差异，比青蛙和鲸鱼之间还大。</p>
+<p>扩散时间 t ∝ L²/D。对生物分子，1 微米对应 1 毫秒——细菌不需要循环系统。1 毫米对应 17 分钟——任何超过 1 毫米的多细胞生物都必须演化出循环系统。</p>
+<p>这是多细胞性的物理门槛，约束如此严格，以至于多细胞性独立演化了至少 25 次，每次都伴随某种主动输运系统。</p>
+<p>趋同演化：物理的指纹</p>
+<p>物理约束的普遍性意味着：相同问题在相同尺度上的最优解高度相似。</p>
+<p>• 海豚、金枪鱼、鱼龙、企鹅——所有快速游泳的中型水生动物都是流线型纺锤体，因为最小化阻力的流体力学解只有一个</p>
+<p>• 鸟、蝙蝠、翼龙的翼型截面都是”上凸下平”——伯努利原理的最优解</p>
+<p>• 相机眼独立演化了至少 6 次（脊椎动物、头足类等），因为光学成像的物理只允许少数解</p>
+<p>• 鼹鼠、袋鼹、蝼蛄——圆柱形 + 铲状前肢，地下推土物理学的最优解</p>
+<p>演化在不同时间、不同地点、不同祖先的情况下反复发现同样的解。这是物理约束圈定可能性边界最有力的证据：形态空间里”可行 + 最优”的点不多。</p>
+<p>形态空间的几何</p>
+<p>如果把现存生物的几十个性状（体型、代谢率、骨骼比例、器官大小……）作图，它们不是均匀填充高维空间——而是聚集在几条狭窄的流形上：</p>
+<p>• 哺乳类流形：恒温、4 腔心脏，沿 Kleiber 线</p>
+<p>• 鸟类流形：恒温 + 飞行，骨骼空心</p>
+<p>• 爬行类流形：变温，代谢低一个数量级</p>
+<p>• 昆虫流形：外骨骼 + 气管，体型严格受限</p>
+<p>• 植物流形：沿”叶面积 - 茎直径 - 高度”约束面</p>
+<p>每条流形是一组物理约束的解集。流形之间的空白是不可达区域——物理不可能，或演化路径走不通。</p>
+<p>我们在地球上看到的所有生命，都是这个高维空间里极小一片可行域的实现。</p>
+<p>一只鸡的回响</p>
+<p>回到最初的问题。</p>
+<p>测量鸡的表面积看起来无聊，但 Rubner 在狗身上做同样的事，发现了表面积法则；Kleiber 把它扩展到全部哺乳类，发现了 3/4 律；WBE 把它推到所有生命，揭示了输运网络的分形物理；最终我们发现，这套标度律圈定了从鼩鼱到鲸鱼、从草到红杉、从细菌到生态系统的所有可能形态。</p>
+<p>每一只鸡的表面积，都是物理定律在演化中留下的指纹。每一个 W^(3/4)，都在告诉我们：生命不是在所有想象得到的形式中盲目搜索，而是在一个由物理预先圈定的、相对狭窄的可行域里探索。</p>
+<p>许多形态我们从未见过——巨型蜘蛛、轮子、激光器官、200 吨的会飞动物——不是因为演化想象力不够，而是物理上根本不允许。</p>
+<p>D’Arcy Thompson 在 1917 年的 On Growth and Form 里写下这个领域的开山宣言。一百年后，Geoffrey West 在 Scale 里把它讲给大众。这套思路最终的雄心是：如果我们彻底理解物理约束如何塑造生命，原则上可以预测任何环境下生命会演化成什么样。</p>
+<p>火星 1/3 重力下，最大陆地动物会是地球的几倍？高重力星球最高的树多高？土卫六的液态甲烷里，生命会是什么形状？</p>
+<p>这些不再是科幻问题，而是有具体方程可以推导的物理问题。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/595635574">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/266104988">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789689</guid>
-                <pubDate>Thu, 14 May 2026 19:40:07 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789728</guid>
+                <pubDate>Fri, 15 May 2026 02:40:49 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9789695</link>
-                <description>瞎扯 · 作为外卖骑手，你见过什么有意思的订单吗？ 知乎日报 查看知乎原文 Q： 作为外卖骑手，你见过什么有意思的订单吗？ @荒野 ：跑腿单基本什么奇奇怪怪的订单都有。 接单以后顾客说求快点，他腿已经麻的坚持不住了。但我还有39分钟时间啊。 7楼没电梯真是要命 顾客忘带钥匙，需要爬墙进去开门，我的建议是拨打110或者找开锁公司。 护学岗，但孩子的爷爷赖床起不来。 找人“跑分（洗钱）”的，这种平台不…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c669e3c1317ff8b2102deb8088453f03.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <link>http://daily.zhihu.com/story/9789737</link>
+                <description>瞎扯 · 世界真的只是个草台班子吗？ 知乎日报 查看知乎原文 Q：世界真的只是个草台班子吗？ @三两老友面加煎蛋 ：好消息，王安石可以免费 坏消息，这种行为叫损坏文物 Q：是否存在「A违法」,「B违法」，但是「A+B不违法」的例子？ @Misha ：开车超速违法，闯红灯违法。但超速到一定程度，红灯就多普勒蓝移变成绿灯了，不违法 Q： 能否人工挖一个贝加尔湖? @五包跳跳糖 ：数百年后，人们终于找到…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-988f1ad5a0901ffb9141ce3c18af812e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -495,57 +289,46 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 作为外卖骑手，你见过什么有意思的订单吗？</h2>
+<h2 class="question-title">瞎扯 · 世界真的只是个草台班子吗？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/644899246/answer/1945727711139039024" target="_blank"> 作为外卖骑手，你见过什么有意思的订单吗？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/665074753/answer/2005279776877876470" target="_blank">世界真的只是个草台班子吗？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/53fb940401f4de44eb7403c601754b95" target="_blank">@荒野</a> ：跑腿单基本什么奇奇怪怪的订单都有。</div>
-</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/b713cfa81823811fccda986d3d2b8386" target="_blank">@三两老友面加煎蛋</a> ：好消息，王安石可以免费</div>
+坏消息，这种行为叫损坏文物</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-7a18b5b789b039f932ccae307895b6d7_1440w.jpg" alt="" width="720"></div>
-<figcaption>接单以后顾客说求快点，他腿已经麻的坚持不住了。但我还有39分钟时间啊。</figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-f3a5f618e483eb76a6759819890466df_1440w.jpg" alt="" width="720"></div>
-<figcaption>7楼没电梯真是要命</figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-8514d4edfa3f0513c1da08a612876e2f_1440w.jpg" alt="" width="720"></div>
-<figcaption>顾客忘带钥匙，需要爬墙进去开门，我的建议是拨打110或者找开锁公司。</figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-86c73bc0667dfd056617718b700dc733_1440w.jpg" alt="" width="720"></div>
-<figcaption>护学岗，但孩子的爷爷赖床起不来。</figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-5bb37904dde3571878622f77cc333a7f_1440w.jpg" alt="" width="720"></div>
-<figcaption>找人“跑分（洗钱）”的，这种平台不允许的，原地直接取消了，还赚了个平台补贴5块钱。</figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/2014259271831941787/answer/2014641570977194744" target="_blank"> 假如物理学家、经济学家、社会学家、哲学家分别说：</a>「<a class="internal" href="https://www.zhihu.com/question/2014259271831941787/answer/2014641570977194744" target="_blank">世界要毁灭了</a>」<a class="internal" href="https://www.zhihu.com/question/2014259271831941787/answer/2014641570977194744" target="_blank">，哪个更令人恐惧？ </a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/eea08d26db0a669744a6b5bd66a01405" target="_blank">@艺术痴狂家</a>： 1 .物理学主流说「要完了」，恐惧值 100 。 </div>
-2 .经济学主流/个别牛逼的经济学家说「要完了」，恐惧值 10 ，要囤点东西，做几手准备。 <br>3 .个别牛逼的物理学家说「要完了」，恐惧值 1 ，稍微警惕一下，等物理学主流结论。 <br>4 .社会学家和哲学家说「要完了」，我走神了，没听清</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1891058868483761381/answer/2009675228964467611" target="_blank">你见过最脑残的设计是什么？ </a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/374d1002bb7821900ca4c00174ef49da" target="_blank">@行者无疆</a> ：我至今分不清商场里 L1 B1 M1 是什么意思？直接写负几是会判刑吗？</div>
-</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/641183820/answer/101926780218" target="_blank">宠物有没有把你气笑的时候？是因为什么？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c3afae99a2e6b7a0394aaae917f5f4df" target="_blank">@佳佳</a> ：这个家没耗子对吧，从今天起我就是了</div>
-</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-c88069e35a27d72a4cec94ac1b0b23c2_1440w.jpg" alt="" width="720"></div>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-e00ff054ee159e1acf64cd2fd96b1280_1440w.jpg" alt="" width="720"></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/634462247/answer/1893418310915315026" target="_blank">中国有不主动申请院士却强过院士的人吗？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1935296380169086685/answer/1936450233845391882" target="_blank">是否存在</a>「<a class="internal" href="https://www.zhihu.com/question/1935296380169086685/answer/1936450233845391882" target="_blank">A违法</a>」<a class="internal" href="https://www.zhihu.com/question/1935296380169086685/answer/1936450233845391882" target="_blank">,</a>「<a class="internal" href="https://www.zhihu.com/question/1935296380169086685/answer/1936450233845391882" target="_blank">B违法</a>」<a class="internal" href="https://www.zhihu.com/question/1935296380169086685/answer/1936450233845391882" target="_blank">，但是</a>「<a class="internal" href="https://www.zhihu.com/question/1935296380169086685/answer/1936450233845391882" target="_blank">A+B不违法</a>」<a class="internal" href="https://www.zhihu.com/question/1935296380169086685/answer/1936450233845391882" target="_blank">的例子？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/06305d2590c0b0cb58aa4e5410571722" target="_blank">@刻刻</a> ：我同事，他自创的<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=273884753&amp;content_type=Article&amp;match_order=1&amp;q=%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95&amp;zhida_source=entity" target="_blank">压缩算法</a>可以把一张图片从 8M 压缩到 76M </div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fab3cd29cbb0d11cb4bebe0390b1921d" target="_blank">@Misha</a> ：开车超速违法，闯红灯违法。但超速到一定程度，红灯就多普勒蓝移变成绿灯了，不违法</div>
 </blockquote>
-<hr>
-<p><br class="Apple-interchange-newline"><br class="Apple-interchange-newline"></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/581444649/answer/1977855414268888715" target="_blank"> 能否人工挖一个贝加尔湖? </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/89f54b4e044e28b0feddc74dfac29639" target="_blank">@五包跳跳糖</a> ：数百年后，人们终于找到了传说中的<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=273884497&amp;content_type=Article&amp;match_order=1&amp;q=%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF&amp;zhida_source=entity" target="_blank">亚特兰蒂斯</a>，潜水员在下潜探查的途中发现了一条美丽的美人鱼，就在潜水员激动的用设备记录的时候，美人鱼开口道：「抓子？」</div>
+</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1941154755620611466/answer/1949534973662044856" target="_blank"> 钓鱼佬最接受不了什么？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0f54a9446b2de91b689caef5a6ea75ef" target="_blank">@章鱼</a> ：官方发公告了，钓鱼根本不属于捕捞作业，放开了让你钓，你能钓多少？</div>
+</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-a4ef526a706eefebe1a851fa933c5014_1440w.jpg" alt="" width="720"></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2011936720036311788/answer/2012143196721926836" target="_blank"> 古人的闲章到底有多闲？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/5a153c3629ed1cae6967d3aafe6159a9" target="_blank">@黄佳智</a>：「傻瓜」</div>
+——见明末清初·周亮工<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=273884497&amp;content_type=Article&amp;match_order=1&amp;q=%E3%80%8A%E8%B5%96%E5%8F%A4%E5%A0%82%E5%8D%B0%E8%B0%B1%E3%80%8B&amp;zhida_source=entity" target="_blank">《赖古堂印谱》</a></blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-a6bffe4a83a115606dfd3aab2eb0ea0f_1440w.jpg" alt="" width="720"></div>
+<figcaption>傻瓜</figcaption></figure>
 </div>
 </div>
 
@@ -555,8 +338,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9789695</guid>
-                <pubDate>Thu, 14 May 2026 19:40:08 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9789737</guid>
+                <pubDate>Fri, 15 May 2026 02:40:50 GMT</pubDate>
             </item>
             
     </channel>
