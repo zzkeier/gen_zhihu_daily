@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Thu, 28 May 2026 20:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 02:43:58 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>为什么松鼠的动作总是一顿一顿的？像卡帧一样？</title>
-                <link>http://daily.zhihu.com/story/9790034</link>
-                <description>苏澄宇，自然科学/分享动物们的小秘密/Animalonearth 查看知乎原文 如果你注意过松鼠的动作，会发现它动作卡卡的。 它跑两步，定住，再跑两步，再定住。 那感觉就像是看视频时网速不稳，画面一顿一顿的，充满了违和的“卡顿感”。 图文无关，纯搞笑 在松鼠的世界观里，这不叫卡顿，这叫高刷新率战术机动。首先得承认一个让灵长类动物不太舒服的事实，松鼠处理视觉信息的速度比你快得多。 生物学上有个指标叫…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-40e4b58867f61312d4cf0b469aab26dc.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么人类不能自身合成维生素C?</title>
+                <link>http://daily.zhihu.com/story/9790062</link>
+                <description>Dunkirk，世界是由原子组成的 查看知乎原文 因为负责合成维生素 C 的关键基因，在大约 6000 万年前，在我们的祖先身上坏掉了，而且再也没有被修复过。 为什么猫、狗、老鼠、牛，几乎所有的哺乳动物都不需要吃水果蔬菜来补充维生素 C，而人类一旦长期不吃新鲜果蔬就会得坏血病，牙龈出血，关节疼痛，甚至最后死亡？ 维生素 C 的合成并不复杂，身体只需要走完四步化学反应，就能把葡萄糖一路转化成抗坏血酸…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-af07675648a4ee62c19b9d52e1085d6b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,64 +31,45 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
-<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
-<a href="https://www.zhihu.com/question/1990570224236396799/answer/1992187440694322975" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-9ec71f5161a0ca1df067012642b9af2d_l.jpg?source=8673f162">
+<span class="author">Dunkirk，</span><span class="bio">世界是由原子组成的</span>
+<a href="https://www.zhihu.com/question/610631072/answer/2018046045569982980" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6762b31d95f2d4182110c1fe400d7c2f_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果你注意过松鼠的动作，会发现它动作卡卡的。</p>
-<p>它跑两步，定住，再跑两步，再定住。</p>
-<p>那感觉就像是看视频时网速不稳，画面一顿一顿的，充满了违和的“卡顿感”。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4e8813204738a31468b7878c630ae251_720w.jpg?source=8673f162" alt=""><figcaption>图文无关，纯搞笑</figcaption></figure>
-<p>在松鼠的世界观里，这不叫卡顿，这叫高刷新率战术机动。首先得承认一个让灵长类动物不太舒服的事实，松鼠处理视觉信息的速度比你快得多。</p>
-<p>生物学上有个指标叫“临界闪烁融合频率”（CFF），意思是眼睛能把连续闪烁的光看成稳定图像的最低频率<sup>[1]</sup>。人类的 CFF 大约是 60 赫兹，意味着我们看每秒闪烁 60 次的光就是连贯的，这也是为什么电影和游戏达到 60 帧我们就觉得很流畅。</p>
-<p>但对于地松鼠来说，60 帧简直就是慢动作回放<sup>[2]</sup>。研究数据显示，地松鼠视网膜的 CFF 高达 120 赫兹 <sup>[3]</sup>。这意味着它们的大脑每秒能处理的视觉帧数是人类的两倍。在 2012 年的一项关于脊椎动物视觉速度的对比中，地松鼠的这项数值击败了绝大多数受测脊椎动物 <sup>[4]</sup>。</p>
-<p>下表展示了不同物种因视觉刷新率不同而产生的感知差异<strong>：</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-68f127c7a48b71a655fffeb62fcb2d0f_720w.jpg?source=8673f162" alt=""></figure>
-<p>花栗鼠（猎物）拥有“高帧率”视觉，能精准捕捉到真实运动中极快的高频抖动细节（图 b），用于同类交流；而猫头鹰（夜行性捕食者）为了在黑暗中收集更多光线，视觉系统采用了类似“长曝光”的策略，导致快速抖动被模糊过滤，只剩下平滑的运动轨迹（图 c）。</p>
-<p>所以，当你觉得自己动作很快地想要掏手机拍照时，在松鼠眼里，你就像是一个慢吞吞的树懒在做分解动作 。它们那种在你看来极不连贯的“瞬移”，其实是在它们充裕的主观时间里，从容完成的一系列动作。</p>
-<p>不过，拥有高帧率视觉是有代价的。松鼠的眼睛长在脑袋两侧，这给了它们宽广的全景视野来防备背后的偷袭，但牺牲了双眼重叠区域，导致它们无法像人类那样通过双眼视差来精准判断深度。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e867fcc1416a573d5efac00b3213d71_720w.jpg?source=8673f162" alt=""></figure>
-<p>在树上跳跃时，判断错距离就是死路一条。为了解决这个问题，松鼠采用了一种叫“运动视差”的策略<sup>[5]</sup>。当你坐在飞驰的火车上，近处的树木飞速后退，远处的山脉却几乎不动，这就是运动视差。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a332dd897ca8c2d8618001e86b07852f_720w.jpg?source=8673f162" alt=""></figure>
-<p>松鼠通过快速移动头部或身体，利用景物移动速度的差异来计算距离。</p>
-<p>但这里有个矛盾。高速移动会产生动态模糊，就像你拍照手抖了一样，画面是糊的。为了看清捕食者伪装的细节，松鼠必须彻底停下来<sup>[6]</sup>。这是一种“动静分离”的视觉采样策略：运动时制造视差获取深度，静止时消除模糊获取细节。</p>
-<p>所以，那一顿一顿的节奏，实际上是松鼠在不断切换“测距模式”和“高清渲染模式”。</p>
-<p>还有一点，松鼠的卡顿感也来源于它的动作看起来很随机。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b435a7afa81635c999270bea6e4fd9c1_720w.gif?source=8673f162" alt=""></figure>
-<p>松鼠位于食物链中下层，天敌众多。如果它像人类长跑运动员那样匀速直线运动，天敌能很轻易地算好提前量把它截杀。</p>
-<p>为了活命，松鼠演化出了一种“普罗变形行为”（Protean Behavior）<sup>[7]</sup>。简单说，就是让自己的行动轨迹尽可能随机和不可预测 。这种走走停停、突然变向的策略，有效地破坏了捕食者的线性预测算法。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-323f1107c2adbc76ca00328873c39ded_720w.gif?source=8673f162" alt=""></figure>
-<p>就在 2021 年，加州大学伯克利分校的研究人员为了搞懂松鼠的决策机制，专门搭建了一个模拟森林的“松鼠跑酷”场地。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4cbee6b4dc225423c1edfd7bff1bffda_720w.jpg?source=8673f162" alt=""></figure>
-<p>他们发现松鼠在跳跃前会根据树枝的弯曲程度和距离进行复杂的力学计算，甚至会利用蹬墙跳等跑酷动作来修正误差<sup>[8]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9ca89c5ae25088beb59bcb3caa6728c6_720w.jpg?source=8673f162" alt=""></figure>
-<p>支撑这种爆发式运动的，是松鼠特殊的肌肉纤维比例。</p>
-<p>人类的肌肉中含有很多慢肌纤维，适合耐力跑。但松鼠的肌肉里充满了快肌纤维 。这种纤维能瞬间爆发出巨大的力量，让松鼠实现反重力的跳跃和瞬间加速，但缺点是极易疲劳，且只能维持很短的时间 。那频繁的停顿，除了观察环境，也是为了让肌肉及时排出乳酸，进行短暂的充能 。</p>
-<p>早在 1998 年，麦吉尔大学的研究者麦克亚当（McAdam）和克莱默（Kramer）就通过实验证实，松鼠在离树木越远、风险越大的地方，停顿的频率就越高 <sup>[9]</sup>。</p>
-<p>这说明那种“卡顿”绝非生理缺陷，而是随着风险等级动态调整的防御机制。</p>
+<p>因为负责合成维生素 C 的关键基因，在大约 6000 万年前，在我们的祖先身上坏掉了，而且再也没有被修复过。</p>
+<p>为什么猫、狗、老鼠、牛，几乎所有的哺乳动物都不需要吃水果蔬菜来补充维生素 C，而人类一旦长期不吃新鲜果蔬就会得坏血病，牙龈出血，关节疼痛，甚至最后死亡？</p>
+<p>维生素 C 的合成并不复杂，身体只需要走完四步化学反应，就能把葡萄糖一路转化成抗坏血酸。绝大多数哺乳动物都保留了这套完整的流水线，可以在肝脏里源源不断地自产自销，根本不需要依赖食物来源。</p>
+<p>最后一步反应由一个叫做 GULO 的基因负责，它编码一种关键的酶，少了它，前面三步做得再漂亮也没用，维生素 C 还是合成不出来。</p>
+<p>1994 年，科学家把人类基因组里对应 GULO 基因的那段区域仔细测了一遍，发现这个基因其实还在，只不过已经面目全非。</p>
+<p>提前出现的终止信号，错位的碱基序列，大段大段的缺失——这些都是一个基因彻底报废之后留下的典型特征。它有一个专门的名字，叫做假基因，科学上写作 GULOP1，那个 P 就是 pseudo，意思是假的。这个基因的躯壳还躺在我们的染色体上，但它什么都做不了，只是一个安静的遗迹。</p>
+<p>然后科学家把人类这段损坏的 GULOP1，和黑猩猩、大猩猩、红毛猩猩的同一段基因放在一起比较，结果发现，所有这些人科动物的 GULO 基因，断裂和缺失的位置几乎完全相同。</p>
+<p>这意味着什么？基因突变是随机发生的，整条基因那么长，如果人类和黑猩猩是各自独立发生的损坏，断裂位置碰巧落在同一个地方的概率小得几乎可以忽略不计。</p>
+<p>唯一说得通的解释只有一个：这个基因在我们共同的祖先身上坏过一次，然后这个已经损坏的版本，就这样完整地传给了所有的后代，一直传到了今天的人类和猩猩身上。</p>
+<p>那么问题来了。GULO 坏掉之后，动物就没办法自产维生素 C 了，按理说应该因为坏血病而被自然选择迅速淘汰掉，怎么把这个缺陷一代代传下去的？</p>
+<p>答案和我们祖先的生活环境有关。大约六千万年前，灵长类祖先生活在热带雨林，每天的食物就是各种果实和嫩叶，维生素 C 的摄入量可以说是极度充裕。</p>
+<p>在这种条件下，GULO 基因坏不坏，对生存和繁殖压根没有任何影响。自然选择对它完全视而不见，因为这个基因带来的好处在当时的环境里完全用不上的，它坏了也没有带来任何负面影响，所以坏了就坏了，这个坏了的、没有用处的基因也就被一直保留了下来，代价在几千万年后才显现出来。</p>
+<p>大航海时代，水手们在海上漂泊数月，无法获得任何新鲜食物，坏血病开始在船上蔓延。牙龈溃烂，骨骼疼痛，旧伤口莫名重新裂开，最后人在极度虚弱中死去。追根溯源，是六千万年前那次基因突变埋下的伏笔。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1990570224236396799">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/610631072">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790034</guid>
-                <pubDate>Thu, 28 May 2026 20:11:31 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790062</guid>
+                <pubDate>Fri, 29 May 2026 02:43:56 GMT</pubDate>
             </item>
             
             <item>
-                <title>西安唐代城门恢复为何不学洛阳，丹凤门像土黄色纸壳子，明德门像塑料玩具？</title>
-                <link>http://daily.zhihu.com/story/9790039</link>
-                <description>师爷孙，当过老师干过地产吃过官饭 查看知乎原文 有俩原因： 1，因为西安吃了我国早期文保的亏，愣球的一头钻进教条主义遵守《威尼斯宪章》的大坑里… 另外西安文保起步极早，民国时期就有了相关概念，在漫长的工作中形成了极强的工作惯性。 这就导致了西安文保畏首畏尾，极其执着于“修复是一种高度专门化的技术，必须尊重原始资料和确凿的文献，决不能有丝毫臆测。完全保护和再现历史文物建筑的审美和价值”，具体执行中如…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-abeb3293a1044bd1e72f5d07bf63bd8c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>魏博没有山川险阻，靠什么屹立150年。甚至长期成为最强藩？</title>
+                <link>http://daily.zhihu.com/story/9790071</link>
+                <description>九斗，史家寥寥笔，人间几度秋。 查看知乎原文 因为本身也不是一个魏博镇割据，如果光一个魏博的话闭着眼睛都能给平了，仅一个魏博根本就割据不起来。 河北藩镇最初是四个：魏博、成德、卢龙、昭义。这四个藩镇都是由安史叛军组成，涵盖了整个黄河以北太行以东的领土。后来昭义镇内附投诚，被朝廷安排和泽璐镇合并，成为打进河北的一根楔子。再之后河北还分化出了忠于朝廷的横海镇、义武镇，一定程度上减轻了长安的压力。除此之…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4fec52cc3a7eb4a3b8507e23a3fe51f1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -108,142 +89,47 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-2fef0eb92ed379d4fce3daaeb52b23c9_l.jpg?source=8673f162">
-<span class="author">师爷孙，</span><span class="bio">当过老师干过地产吃过官饭</span>
-<a href="https://www.zhihu.com/question/1911733966706311388/answer/1993471581972865095" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-c0e0db9e5da01eb7b0500304ffa0b542_l.jpg?source=8673f162">
+<span class="author">九斗，</span><span class="bio">史家寥寥笔，人间几度秋。</span>
+<a href="https://www.zhihu.com/question/66163482/answer/2006673129745970015" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>有俩原因：</p>
-<p>1，因为西安吃了我国早期文保的亏，愣球的一头钻进教条主义遵守《威尼斯宪章》的大坑里…</p>
-<p>另外西安文保起步极早，民国时期就有了相关概念，在漫长的工作中形成了极强的工作惯性。</p>
-<p>这就导致了西安文保畏首畏尾，极其执着于“修复是一种高度专门化的技术，必须尊重原始资料和确凿的文献，决不能有丝毫臆测。完全保护和再现历史文物建筑的审美和价值”，具体执行中如果做不到全貌还原，那就不如不做…</p>
-<p>而且早期我国材料、建筑等各个相关领域都非常落后，复建建筑几乎 100%会对原址构成破坏，所以在相当长的历史时期，对于这一块西安文保强调的是“意境”，去感受意境…这倒不是西安不靠谱，而是文保部门既要满足群众感受风貌，又不能原地复现，所以应给逼出来的一套说辞而已。</p>
-<p>2，西安的很多古建，尤其是唐代宫殿建筑群，他存在一个严重的 bug：</p>
-<p>无法证实，但是可以证伪…</p>
-<p>这是非常非常让人头疼的一个 bug，就是因为这个 bug 的存在叠加《威尼斯宪章》，使得西安的古建复建工作推进极其困难。</p>
-<p>我举个例子，大明宫含元殿…</p>
-<p>一般来说，最喜闻乐见的复原应该是这个状态：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5f7194e22a3d8a4d376b1b60e63a859e_720w.jpg?source=8673f162" alt=""></figure>
-<p>无论比例还是风貌，几乎就无可挑剔，受到了广大群众的好评。</p>
-<p>但是，这个复原图是有巨大问题的…</p>
-<p>因为这个复原图的依据是历史记载：</p>
-<p>是月二十一日，帝御紫宸。班定，韩约不报平安，奏曰："金吾左仗院石榴树，夜来有甘露，臣已进状讫。"乃蹈舞再拜。宰相百官相次称贺。李训奏曰："甘露降祥，俯在宫禁。陛下宜亲幸左仗观之。"班退，<strong>上乘软舁出紫宸门，由含元殿东阶升殿，宰相侍臣分立于副阶，文武两班，列于殿前。</strong>上令宰相两省官先往视之。既还，曰："臣等恐非真甘露，不敢轻言。言出，四方必称贺也。"上曰："韩约妄耶？"乃令左右军中尉、枢密内臣往视之。——《旧唐书·李训传》</p>
-<p>“飞重檐以切霞，炯素壁以留日”——《含元殿赋》，唐，李华</p>
-<p>按照这些记载，含元殿是重檐结构，也就有了上面那堪称壮丽得张复原图。</p>
-<p>但是，如果含元殿是副阶重檐结果的话，他就必须存在前檐十二柱：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8ae90b5c3265d02fbded3c8bc2012e4a_720w.jpg?source=8673f162" alt=""><figcaption>以太和殿为例，要注意太和殿是同时有前后檐柱，含元殿的后檐是夯土墙作为支撑</figcaption></figure>
-<p>要满足重檐，宫殿至少存在前檐柱，即我标红的两排柱子正面一排（背面可以用墙作为支撑），即前檐柱。</p>
-<p>我通俗地说，含元殿如果是副阶重檐，他必然存在前檐十二柱：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d7656e39953d327dcbf9b10b634b7fc2_720w.jpg?source=8673f162" alt=""><figcaption>红线上面就是前檐十二柱</figcaption></figure>
-<p>但是考古结果来了：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6c3f2124da394a22b7e9eab8aae9f6df_720w.jpg?source=8673f162" alt=""></figure>
-<p>他只有殿内内檐二十柱的磉石磉墩和副阶平坐柱、永定柱结构，没有前檐十二柱的磉石磉墩…</p>
-<p>插入科普：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-26ac7d83407ada27c483de9e3db632ac_720w.jpg?source=8673f162" alt=""><figcaption>柱础、夯土、磉石加在一起，就叫磉墩</figcaption></figure>
-<p>针对这个情况，傅熹年院士结合历史记载，提出了叉柱造、伪楼阁这两个方案，这两个方案倒是可以同时满足无前檐柱和重檐这两个条件。</p>
-<p>插入科普：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e33b56cab96d38aaca1055671edca44b_720w.jpg?source=8673f162" alt=""><figcaption>叉柱造，感谢百度“爱读书的 liu 昕”作图</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d1b50d8dcb2c08b5701d88647c66c2b7_720w.jpg?source=8673f162" alt=""><figcaption>伪楼阁造，感谢百度“李老师爱学习自习室”作图</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4625a5d568dec7e38fb3e9df237ce2c5_720w.jpg?source=8673f162" alt=""><figcaption>叉柱造含元殿剖面图，感谢贴吧“@杯子盖国主 0”</figcaption></figure>
-<p>但是无论是叉柱造还是伪楼阁造，其殿内空间都会极其怪异，完全无法正常使用…</p>
-<p>所以傅熹年院士认为，含元殿是单檐庑殿顶，也就是下图的样子：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-abf213ff3e00d3800a356198130bd237_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是，后来杨洪勋先生通过进一步发掘又有了新发现：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e9dd1900893c75bc218852580423e408_720w.jpg?source=8673f162" alt=""></figure>
-<p>红圈内的柱础，他就没有磉石磉墩结构…只有柱础石：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-aec75ae624205bd8ace1991be2476e6d_720w.jpg?source=8673f162" alt=""></figure>
-<p>而且，后期的考古发现，麟德殿也没有磉石磉墩结构，而是一种全新的结构，后世称作“满堂红”：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8f6980dbabbb322cdcb9bb201e472caa_720w.jpg?source=8673f162" alt=""><figcaption>满堂红</figcaption></figure>
-<p>而且，这一时期发现：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1be912d2024029d47634a4357f734e54_720w.jpg?source=8673f162" alt=""></figure>
-<p>红线部分的地势是要显著低于台基其他部分。</p>
-<p>而且，关于含元殿，历史上也有其他记载：</p>
-<p>“此本苑内观德殿，为三九临射之所，改拆为含元殿也。”——《长安志》，北宋，宋敏求。</p>
-<p>“大明宫地本太极宫之后苑东北面射殿也。地在龙首山上，太宗初于其地营永安宫，龙朔二年高宗就修大明宫，改名蓬莱宫。”——《雍录》，南宋，程大昌。</p>
-<p>也就是说，含元殿原本不是白地，隋朝时期就是禁苑“三九临射之所”观德殿（当然这也解释了为啥大明宫建设如此神速，十来个月就建成了，类似的就是汉朝的长乐未央两宫），拆改扩建成了后来的含元殿。</p>
-<p>所以杨鸿勋先生推断，含元殿遗址的有磉石磉墩内檐二十柱，是隋朝观德殿留下来的，而唐朝拆改扩建过程中，使用的是“满堂红”，这就解释了遗址中同时出现了磉石磉墩和满堂红两种基础结构，而殿前明显低洼的部分，是后期损毁导致的，就是消失的前檐十二柱的满堂红基础的位置。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3dfbc3f752c8de3758607ff2c9398739_720w.jpg?source=8673f162" alt=""><figcaption>当年遗址这种损毁程度，殿前十二柱的位置被抹去不到一米，似乎也很正常</figcaption></figure>
-<p>所以根据杨洪勋先生的复原，含元殿是重檐庑殿顶结构，也就是那张壮丽的复原图。</p>
-<p>这就是我说的“无法证实，但是可以证伪”…</p>
-<p>你说他是副阶重檐，你没有前檐十二柱的实锤证据。</p>
-<p>你说他是单檐结构，你无法解释古籍记载的“副阶重檐”，无法忽视那个客观存在的满堂红结构，也没有办法忽视偏偏前檐十二柱的位置突然低洼了。</p>
-<p>两边都有证据证反，但是没人有一锤定音能证实的证据。</p>
-<p>这导致了西安的古建复建工作缩手缩脚，不敢放开胆子去干，毕竟古籍和考过证据冲突了，而且是在皇宫正殿上面就冲突了…</p>
-<p>这也就是颇为阴间的丹凤门和抽象的明德门以及一个抽象的斗拱柱础结构的由来…</p>
-<p>建起来容易，建完了发现错了要扒了重来就丢大人了…</p>
-<p>这方面的反例是洛阳：</p>
-<p>洛阳吃了非常大的红利：</p>
-<p>虽然无法实锤，但是同样无法证伪…</p>
-<p>这就给了复建工作非常灵活的空间，而且洛阳在文保方面历史包袱远小于西安，没有形成顽固的惯性。</p>
-<p>而且洛阳开始决心做复建工作的时期，我国的材料建筑等各种技术已经处于领先状态，大基建方兴未艾，民族自信心起来了，不再刻板拘泥于《威尼斯宪章》。</p>
-<p>以应天门为例：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7528efb8a3e330ff862b19e3b1875427_720w.jpg?source=8673f162" alt=""></figure>
-<p>在知乎上引起了无数争执的应天门复建工程，固然洛阳人也无法拿出实锤证据证明应天门他一定就长这个样，也只有懿德太子墓的壁画作为参考。</p>
-<p>但是相对于洛阳人无法实锤来讲，更重要的是反对的人没有办法实锤证伪…</p>
-<p>知乎上一天到晚因为这个吵，一部分人从建筑、材料、结构各个方面说这也不合理那也不合理，另一部分人也总有充粉的理由反对“不合理”说。</p>
-<p>这就是我说的，无法证伪，即你能拿出许多说法，但是你没有任何直接证据证明他一定不长这个样…</p>
-<p>这和含元殿是截然不同的两种境遇…</p>
-<p>鉴于部分知乎 er 的理解能力，我归纳一下：</p>
-<p>含元殿:</p>
-<p>支持重檐方：明确的历史记载、客观存在的满堂红结构。</p>
-<p>反对重檐方：现存遗迹的确不存在殿前十二柱的任何痕迹。</p>
-<p>应天门：</p>
-<p>支持现方案方：懿德太子墓壁画。</p>
-<p>反对现方案方：推测结构不合理、推测技术达不到、推测…</p>
-<p>看到区别了没？</p>
-<p>西安这边双方手里的证据都是实锤证据。</p>
-<p>洛阳这边双方都没啥实锤证据，相反，支持现方案的一方好歹手里还有个懿德太子墓壁画，以及历史中确实描写应天门很华丽壮阔，而反对方基本就是推测…</p>
-<p>这必然导致西安不敢也不能像洛阳一样搞复建啊。</p>
-<p>最后，彩蛋：</p>
-<p>关于大明宫，还有一种极其小众但是根本没办法完全否定的可能性：</p>
-<p>含元殿，他不等于奉天 / 太和殿，他等于午门…</p>
-<p>而这一推断，恰恰源自含元殿华丽丽的出阙…</p>
-<p>自汉未央宫至明清紫禁城，宫殿体量打着滚的往下跌，斗拱变成我装饰，抄手回廊变成了墙，但是无论怎么变，从来就没有正殿带出阙的…</p>
-<p>殿不出阙，门才出阙…</p>
-<p>而宣政殿：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5c84036edbb2cd48bffd5ce23cec5454_720w.jpg?source=8673f162" alt=""><figcaption>宣政殿</figcaption></figure>
-<p>和紫宸殿：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-16195c073496534a17ca2f679fe23bf3_720w.jpg?source=8673f162" alt=""><figcaption>紫宸殿</figcaption></figure>
-<p>这俩宫殿的存在，进一步印证了这个推测。</p>
-<p>为什么这么说呢？</p>
-<p>因为根据我国宫殿一般布局，前朝大殿是礼仪性的，大殿之后是政务宫殿，对紫禁城来说，就是乾清宫，乾清宫之后，就进入了后宫区域了，外臣莫入。这一套规则大家都十分熟悉，而且并不是明清独有，而是一个很古老的形制。</p>
-<p>而问题的核心恰恰在于宣政殿和紫宸殿的同时存在：</p>
-<p>如果宣政殿相当于乾清宫的位置，那么紫宸殿同样是办公场所…</p>
-<p>而且《雍录》和《唐会要》都有记载，紫宸殿是常朝正殿…</p>
-<p>如果你还是没看懂，那我们不妨讲简单一点：</p>
-<p>如果宣政殿等于乾清宫，那紫宸殿就没有存在的必要，因为皇宫不需要两座常朝殿，而如果紫宸殿等于乾清宫，那么宣政殿，必然就等于太和殿。</p>
-<p>而如果这么推测，含元殿就是一个看起来像宫殿的大门…那我前面说过，能同时满足含元殿不存在前檐十二柱和副阶重檐的两种建筑形制：插柱造和伪阁楼造，他俩带来的殿内空间极为怪异不能作为大殿使用，但是如果作为一个像宫殿的大门，则毫无问题。</p>
-<p>而这个推测又解释了为什么丹凤门作为皇宫正门这么小的问题：</p>
-<p>你一个大唐天安门，可不就该那么大么…</p>
-<p>而复原出来的大明宫的平面布局是这样的：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9e6f345a41a65b72459ce8358b8f3c9b_720w.jpg?source=8673f162" alt=""></figure>
-<p>仔细看，有没有发现问题所在？宣政殿的位置对应了三大殿（太和中和保和），紫宸殿的位置，就恰恰对应了乾清宫：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f24947f3d076d552fa47172ce930ee2f_720w.jpg?source=8673f162" alt=""></figure>
-<p>之所以这个推测非常小众，主要是因为：</p>
-<p>1，没有直接证据。</p>
-<p>2，太炸裂了，推翻了几百年来的印象、文化作品和宣传…</p>
-<p>你看，就这情况，西安咋学洛阳搞复建？</p>
+<p>因为本身也不是一个魏博镇割据，如果光一个魏博的话闭着眼睛都能给平了，仅一个魏博根本就割据不起来。</p>
+<p>河北藩镇最初是四个：魏博、成德、卢龙、昭义。这四个藩镇都是由安史叛军组成，涵盖了整个黄河以北太行以东的领土。后来昭义镇内附投诚，被朝廷安排和泽璐镇合并，成为打进河北的一根楔子。再之后河北还分化出了忠于朝廷的横海镇、义武镇，一定程度上减轻了长安的压力。除此之外，山东的平卢淄青镇、河南的淮西镇也一度不服长安天子。</p>
+<p>这样实质上是在河北、河南、山东产生了一批割据势力。这些牙将牙兵在地方扎根后，出征的意愿和能力有限，但依托本地防守却很强悍。再加上诸镇错综复杂互为表里，往往是牵一发而动全身，其他几个藩镇不会眼睁睁看着朝廷平定任意一个藩镇的。换句话说，魏博的问题，不是靠解决这一个藩镇能实现的。</p>
+<p>藩镇长期割据自立的核心问题在于：长安天子有实力的时候没能在战场上击败河北，后期已经没有一支能够物理消灭牙兵的中央军，而忠于长安的藩镇自身也没有多少实力和意愿去平定河北。</p>
+<p>唐朝曾经三次试图解决河北问题，分别是唐肃宗、唐代宗在安史之乱时，唐德宗在二帝四王之乱时，唐宪宗在元和中兴时。</p>
+<p>最早在安庆绪被围邺城之时，李亨觉得胜局已定，力主彻底收复河北，最终使得史思明复叛。而九节度围邺城不设主帅，唐军群龙无首各自为战，被史思明各个击破。随后史思明再入洛阳，安史之乱进入二番战，这一下使得唐朝恢复开天气象彻底无望。如果唐军在邺城之战能够击败史思明，那河北藩镇割据大概不会出现，然而历史没有如果。</p>
+<p>到了李豫即位后就面临一个问题：是用武力彻底击败安史叛军，还是选择诏安的方式结束这场战争？</p>
+<p>毫无疑问，已经打了七年多的内战耗尽了唐庭的实力，此时根本不具备再打下去的选择，所以选择了承认河北实际割据的现状。以田承嗣、李怀仙、李宝臣、薛嵩这些安史大将及麾下牙将牙兵就地改换门庭，向长安天子效忠后组成了河北四镇。李豫很快就面临仆固怀恩之乱和吐蕃入侵，根本无暇他顾。而河北诸镇则也陷入了权力交接的内乱，双方就维持着奇妙的和平。</p>
+<p>李适称帝后，他本人想一劳永逸彻底解决河北问题，然而实际却操之过急，毕竟他的母亲就在安史之乱中彻底消失，决策者的个人情感很多时候会左右大局。面对李适胡子眉毛一把抓，将原本各怀鬼胎的魏博、成德、淄青、淮西、卢龙镇绑到了一起。由于李适不愿意妥协，唐庭一直没能将战场上的优势转换为胜利，而泾原兵变后院起火彻底逆转了战局。</p>
+<p>最终虽然平定了叛军，四镇也纷纷被诏安。唐庭消耗了大量实力、资源，战略目标却远没有达成，只是在妥协之后回到了原点。四镇之乱是唐朝解决河北藩镇的一次契机，最终却没能把握住机会。不过尽管失败了，但在河北设置了忠于朝廷的横海镇、义武镇，起到了分化削弱三镇的作用。</p>
+<p>到了李纯时期，通过武力彻底平定剑南、淮西、平卢滋青三镇，确实震慑到了河北。而另一方面，河北的镇将们也被几十年来无休止的内斗 + 牙兵继承法折腾的不行，所以刚好就坡下驴纷纷内附长安，换取了元和中兴。</p>
+<p>然而牙兵的根基依旧存在，虽然节帅都入朝纳贡了，但这些长期在地方形成的错综复杂职业武人群体并没有被解决，仅靠威慑换取的臣服自然不牢靠，李纯死后唐庭对河北藩镇的处置很快激起了复叛。</p>
+<p>再之后唐庭已经无力解决河北问题。中央军不具备实力和意愿，那些忠于朝廷的藩镇自然也是能保持现状就可以了。何况河北藩镇本身也无力对外扩张，因此双方也就相安无事了。到了武宗李炎时长安还借河北诸镇平定了昭义镇叛乱，双方也就这么得过且过保持到了唐末五代。</p>
+<p>进入五代，牙兵的无限作乱依旧。朱温和李嗣源先后靠诛杀，用连根拔起的手段才彻底解决了魏博牙兵。而二者之所以能这么做，也是因为手里有更强的武力可以强行剿灭魏博，毕竟他们本身就是大号节度使。解决武人自立唯一的办法，就是靠更强大的武人。</p>
+<p>当然，魏博牙兵的覆灭并没有终结乱世，兵强马壮者居天子的戏码依旧在反复上演。直到在郭威、郭荣、赵匡胤、赵光义、萧绰和耶律休哥的共同努力下，才算是彻底解决武人割据的问题。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1911733966706311388">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/66163482">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790039</guid>
-                <pubDate>Thu, 28 May 2026 20:11:32 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790071</guid>
+                <pubDate>Fri, 29 May 2026 02:43:57 GMT</pubDate>
             </item>
             
             <item>
-                <title>既有 F=ma，又有F=kx，那么物理公式到底要求等号左边是因还是果？</title>
-                <link>http://daily.zhihu.com/story/9790046</link>
-                <description>拉格朗日的忧郁，凝聚态场论方向，在做post-doc 查看知乎原文 中学物理容易让人误以为是力导致了加速度，老师课本既是这么教的，直觉也是这么告诉我们的。但这其实是一种错觉，从根本上来讲，牛顿第二定律本身不是一个完整的动力学阐述的方案。 按照中学物理的教法，力是改变物体运动状态的原因，所以力 是因，而加速度 是果。但这马上就会遇到一个很基本的问题，写出来这个方程本身是没有用的，我告诉你 ，你给我把…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-bd38d0bb242c843df7e41cb8103a0bee.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>林黛玉被妙玉嫌弃太俗，却不敢反驳，她怼贾宝玉的劲儿哪去了？</title>
+                <link>http://daily.zhihu.com/story/9790081</link>
+                <description>走马兰台 查看知乎原文 姑苏是回不去的故乡。 香菱回不去，黛玉回不去，妙玉其实也回不去。 姑苏风月，烟柳画桥翠幕，江南烟雨，玄墓山上梅林盛放，一片香雪海。 “这是五年前我在玄墓蟠香寺住着，收的梅花上的雪。” 梦里不知身是客，天涯何处是归鸿，只这一盆梅花上的雪水，是五年前我在姑苏城玄墓山蟠香寺保存下来的。 皆因姑苏城玄墓山有最好的梅花，所以冬天的栊翠庵里便移植了最好的红梅。 梅树离了故土，就像人离了…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-e5e5c8370bd9daf97b9f95982d203bb2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -263,40 +149,106 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-263aad68123f856f44ac5be17ad9559d_l.jpg?source=8673f162">
-<span class="author">拉格朗日的忧郁，</span><span class="bio">凝聚态场论方向，在做post-doc</span>
-<a href="https://www.zhihu.com/question/1991897231347975098/answer/2004516914752423420" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-ae17073ec612ba6ac0242312d9d2afe1_l.jpg?source=8673f162">
+<span class="author">走马兰台</span>
+<a href="https://www.zhihu.com/question/14471588790/answer/2015886140020900081" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>中学物理容易让人误以为是力导致了加速度，老师课本既是这么教的，直觉也是这么告诉我们的。但这其实是一种错觉，从根本上来讲，牛顿第二定律本身不是一个完整的动力学阐述的方案。</p>
-<p>按照中学物理的教法，力是改变物体运动状态的原因，所以力 <img src="https://www.zhihu.com/equation?tex=F" alt="F"> 是因，而加速度 <img src="https://www.zhihu.com/equation?tex=a" alt="a"> 是果。但这马上就会遇到一个很基本的问题，写出来这个方程本身是没有用的，我告诉你 <img src="https://www.zhihu.com/equation?tex=F%3Dma" alt="F=ma"> ，你给我把加速度 <img src="https://www.zhihu.com/equation?tex=a" alt="a"> 解出来，这做不到。因为牛顿第二定律要加上具体的力的形式，才是一个完整的动力学阐述，你需要确定这个力是胡克的弹性力还是牛顿的万有引力。</p>
-<p>这一点就很容易让人产生怀疑——牛顿第二定律中所包含的力这个“因”，是否真的是必要的呢？难道总是要你告诉我现在是什么情形，比如要我写出弹簧现在压缩了多少量，然后我吭哧吭哧做受力分析，然后再写出牛顿第二定律计算加速度？难道不能把这一步绕过去吗？就不能你直接告诉我弹簧压缩了多少，胡克系数是多少，我直接把加速度算出来？</p>
-<p>或者换句话说就是：加速度和力，二者哪个是基本的？</p>
-<p>当你产生了这个疑问时，其实本身就意味着力作为改变运动原因这一点是可疑的。事实上，更准确的说法是，力是在特定历史时期被物理学家提出来用于解释物理如何运动的一套方案。这套方案在很长的时期在很多领域表现都非常优秀，所以以至于很多人把这套解释方案当作了运动的原因本身。但不论再好用，归根结底，力还是一个解释的办法，而不是原因本身。</p>
-<p>或者更直白地说，中学时期做几何题目经常有两种办法，一种是画辅助线巧妙地做，另一种是建立坐标系暴力计算。力就是前者，就是几何题目里面用来让图像清晰起来的巧妙的万能辅助线。而最终要得到的答案是运动方程，也就是 <img src="https://www.zhihu.com/equation?tex=%5Cvec+r%3D%5Cvec+r%28t%29" alt="\vec r=\vec r(t)"> ，没有人最终只是要得到辅助线。</p>
-<p>运动才是最基本的。</p>
-<p>那么物理学中什么是建立坐标系后的暴力计算呢？拉格朗日力学和哈密顿力学，这俩同样能够拿到运动方程，而不需要借助力这个原因。在这套方案中，我们所需要做的就是根据系统的情况把一个“系统函数”——哈密顿量或拉格朗日量写出来，然后就可以立刻算出来运动方程。现代物理某种意义就是根植于这种思想之上，面对量子力学，我们第一步写哈密顿量；面对相对论，我们有希尔伯特 - 爱因斯坦作用量；面对量子场论，第一步还是把系统的拉格朗日量写出来。在这些问题中，与其说我们刻意舍弃了力作为运动的原因，倒不如说在“场”的语言范式中，力是一个低效的刻画方式，为了省事就被物理学家当成路边一条了。</p>
-<p>所以力因还是果？想必答案很清楚了。在中学物理中，牛顿第二定律中的力是因，而本构关系中的力（就是什么情况写出来什么样的力）是果。而现代物理中，力不是因也不是果，啥也不是。</p>
+<p>姑苏是回不去的故乡。</p>
+<p>香菱回不去，黛玉回不去，妙玉其实也回不去。</p>
+<p>姑苏风月，烟柳画桥翠幕，江南烟雨，玄墓山上梅林盛放，一片香雪海。</p>
+<blockquote>“这是<strong>五年前</strong>我在玄墓蟠香寺住着，收的梅花上的雪。”</blockquote>
+<p>梦里不知身是客，天涯何处是归鸿，只这一盆<strong>梅花</strong>上的雪水，是<strong>五年前</strong>我在姑苏城玄墓山蟠香寺保存下来的。</p>
+<p>皆因姑苏城玄墓山有最好的梅花，所以冬天的栊翠庵里便移植了最好的红梅。</p>
+<p>梅树离了故土，就像人离了故土一般，虽然最好的红梅花可以盛放如往昔岁月，但是一方水土养一方人，长安都中的水，却不是姑苏城池的水。</p>
+<p>即便天下水同出一源，但为你沏茶这一瓮，却是姑苏的水。</p>
+<p>仍怜故乡水，万里送行舟。</p>
+<hr>
+<p>五年前，妙玉还在姑苏；而那时，黛玉已经离开了。</p>
+<p>和黛玉一样，妙玉也是从姑苏街巷，到长安京都，一路风尘，水陆两路，千里迢迢，跋涉而来。</p>
+<p>妙玉是什么时候上京的呢？</p>
+<p>去岁。</p>
+<p>也就是大观园刚开始建造的时候。</p>
+<blockquote>又有林之孝家的来回：​“……外有一个带发修行的，本是苏州人氏，……今年才十八岁，法名妙玉。……<strong>去岁</strong>随了师父上来……他师父……去冬圆寂了。妙玉本欲扶灵回乡的，他师父临寂遗言，说他‘<strong>衣食起居不宜回乡</strong>，在此静居，后来自然有你的结果’。所以他竟未回乡。​”</blockquote>
+<p>就算现在飞机高铁，带一瓮水也是麻烦，还得办理托运；却是不知，妙玉在怎样的心境之下，要随身携带一瓮梅花雪水，那又不是古董器具。</p>
+<blockquote>黛玉因问：​“这也是旧年的雨水？​”<br>妙玉冷笑道：​“你这么个人，<strong>竟是大俗人</strong>，<strong>连水也尝不出来</strong>。这是五年前我在玄墓蟠香寺住着，收的梅花上的雪，共得了那一鬼脸青的花瓮一瓮，<strong>总舍不得吃</strong>，埋在地下，今年夏天才开了。我只吃过一回，这是第二回了。<strong>你怎么尝不出来？</strong>隔年蠲的雨水那有这样轻浮，如何吃得。​”<br>黛玉知他天性怪僻，不好多话，亦不好多坐，吃完茶，便约着宝钗走了出来。</blockquote>
+<p>栊翠庵里移植了红梅，梅花上的雪还可再收。</p>
+<p>雪水又比不得老酒。酒是越陈越香，雪水却是久了容易微生物繁殖吧？</p>
+<p>所以，妙玉所说“总舍不得吃”，不是因为这梅花雪水越是陈年口感越加轻浮，而仅仅是因为，这是从故乡带来的水，且只有这一瓮香雪海梅花林中的雪水。</p>
+<p>喝完了，就没有了。</p>
+<p>所以才，总舍不得吃。</p>
+<p><strong>竟是大俗人</strong>，明贬暗褒，“竟”是惊讶、讶然，皆因你在我心里，从来都不是俗人，而是诗书为心、风骨作衣的诗歌少女，而是品味奇高、词采华茂的雅士文人。</p>
+<p><strong>连水也尝不出来。你怎么尝不出来？</strong>连连地追问，可还记得江南烟雨、姑苏风月，壶中天地，精致园林，七里山塘，灯笼高挂，青石板路，粉墙黛瓦，小桥流水人家。</p>
+<p>还有吴侬软语。</p>
+<p>少小离家老大回，乡音未改鬓毛衰。</p>
+<p>乡音是最难改的肌肉记忆。</p>
+<p>即便是幼时离家，来到外祖母家里，适应京城都中的生活；即便久历岁月光阴，也应不会从吴侬软语，彻底变为京城官话。</p>
+<p>我却是去岁才上京，官话并未习熟，你当是听得出我话语里的尾音，依然是吴语的音调。</p>
+<p>若我是“衣食起居不宜回乡”，你也是父母双亡，从此后我们两个……</p>
+<p>反认他乡是故乡。</p>
+<hr>
+<p>姑苏四美：黛玉、香菱、妙玉、邢岫烟。</p>
+<p>四位美人，两对师徒。</p>
+<p>江南烟雨氤氲出来的诗歌少女们，纤秀雅致，空灵飘逸，美丽的芙蓉，出岫的烟云。</p>
+<p>四美以黛玉为核心，她是诗经风雅颂里的风，是塔罗里面的太阳牌，其他三位与大观园的链接都是与黛玉的链接。</p>
+<p>第二十四回，香菱跟黛玉说的第一句话，奠定了姑苏四美共同的乡愁：</p>
+<blockquote>话说林黛玉正自情思萦逗、缠绵固结之时，忽有人从背后击了他一掌，说道：​<strong>“你作什么一个人在这里？​”</strong><br>林黛玉倒唬了一跳，回头看时，不是别人，<strong>却是香菱</strong>。</blockquote>
+<p>重读红楼，有一次读到这里，我还伤怀很久。</p>
+<p>你作什么一个人在这里？</p>
+<p>这句问话，于香菱，于黛玉，于妙玉，不都是一样的吗？</p>
+<p>她们都是，一个人在这里，望故乡渺邈，归思难收。叹年来踪迹，何事苦淹留？</p>
+<p>而到了第四十一回，妙玉也是找到她最熟悉的乡音，连着追问：连水也尝不出来。你怎么尝不出来？</p>
+<p>而到了第七十六回，香菱的师傅和邢岫烟的师傅，终于有了秉烛夜谈、畅快联诗的机会：</p>
+<blockquote>黛玉<strong>见他今日十分高兴</strong>，<strong>便笑道</strong>：​“从来没见你这样高兴。若不见你这样高兴，我也不敢唐突请教，这还可以见教否？若不堪时，便就烧了；若或可改，即请改正改正。​”<br>妙玉<strong>笑</strong>道：​“也不敢妄加评赞。只是这才有了二十二韵。我意思想着你二位警句已出，再若续时，恐后力不加。我竟要续貂，又恐有玷。​”<br>黛玉从没见妙玉作过诗，<strong>今见他高兴如此</strong>，<strong>忙说</strong>：​“果然如此，我们的虽不好，亦可以带好了。​”</blockquote>
+<p>黛玉对妙玉简直称得上“宠爱”了，不是“便笑道”，便是“忙说”；妙玉对黛玉也是笑意盈盈，连黛玉都被感染了。</p>
+<p>不只是被妙玉的情绪感染了，黛玉还越发地谦逊，恭维妙玉“我们的虽不好，亦可带好了”。</p>
+<p>这还是那个“孤高自许，目无下尘”的林黛玉吗？</p>
+<p>妙玉是她的乡亲，也是她的诗友。</p>
+<p>那一夜中秋月圆，多少思乡怀远，都被对方每一联诗句发音中的吴侬软语深深慰藉。</p>
+<p>还有第五十二回，冬闺集艳图，连宝玉都惊讶：</p>
+<blockquote>宝玉听了，转步也便同他往潇湘馆来。不但宝钗姊妹在此，<strong>且连邢岫烟也在那里</strong>，四人围坐在熏笼上叙家常。</blockquote>
+<p>邢岫烟是潇湘馆的常客。</p>
+<p>而妙玉是邢岫烟实际意义上的老师，二人同在蟠香寺，一起待了十年。</p>
+<hr>
+<p>乡国之思是古代文学中一个永恒的主题，总能精准触动人心最柔软的角落。</p>
+<p>从李白“举头望明月，低头思故乡”到杜甫“露从今夜白，月是故乡明”，从张籍“洛阳城里见秋风，欲作家书意万重”到王建“今夜月明人尽望，不知秋思落谁家”；</p>
+<p>从王维“独在异乡为异客，每逢佳节倍思亲”到贺知章“有门前镜湖水，春风不改旧时波”，从高适“旅馆寒灯独不眠，客心何事转凄然”到柳宗元“若为化得身千亿，散上峰头望故乡”。</p>
+<p>而在红楼宇宙之中，乡国之思的诗句，姑苏四美均有书写：</p>
+<p>黛玉在《秋窗风雨夕》中，“​牵愁照恨动离情​”的秋灯、映衬着“​疏竹虚窗时滴沥​”的冷雨，“离情”便愈显得投射了漂泊；</p>
+<p>而当她在《唐多令》中写下“​飘泊亦如人命薄​”时，落花的漂泊与自身的客居形成残酷互文；最具隐喻性的是她对“潇湘”意象的反复书写，《题帕三绝》中的“​湘江旧迹已模糊​”，既是娥皇女英的悲剧符号，也暗指她与故乡的血脉联系已随时间变得模糊。</p>
+<p>香菱的思乡之情，如同她反复打磨的咏月诗，开篇“影自娟娟魄自寒”便奠定孤寒基调，一如她从姑苏被拐后漂泊无依的命运；</p>
+<p>而“绿蓑江上秋闻笛，红袖楼头夜倚栏”，渔夫的笛声与思妇的凭栏，正是对江南的思念；尾联“博得嫦娥应借问，缘何不使永团圆”，是问月，也是被命运撕裂的灵魂对团圆的卑微祈求。</p>
+<p>最令人心碎的是判词，“致使香魂返故乡”是最残酷的预言：现实中回不去的姑苏，只能在死亡中以“香魂”形式抵达。</p>
+<p>妙玉的乡愁藏在苦涩的禅茶里，也在《右中秋夜大观园即景联句三十五韵》的联句里：</p>
+<p>“香篆销金鼎，脂冰腻玉盆”，江南寺庙常见的香篆与烛泪意象，暗合苏州玄墓蟠香寺的修行记忆；</p>
+<p>“露浓苔更滑，霜重竹难扪”，江南湿滑苔藓与翠竹，是从苏州带来的感官记忆，如同她五年前收的梅花雪水，封存在旧年的鬼脸青瓮里，总舍不得吃。</p>
+<p>“歧熟焉忘径，泉知不问源”，是禅理，也是追问，那个“姑苏城外一茅屋，万树梅花月满天”的故乡，早已在父母双亡、师父圆寂后成了回不去的“径”与“源”。</p>
+<p>邢岫烟只有一首《咏红梅花·得“红”字》，咏梅即是咏自己，“​魂飞庾岭春难辨，霞隔罗浮梦未通​”两句，以岭南庾岭和广东罗浮山为地理坐标，暗合她从苏州流落京都的漂泊轨迹；</p>
+<p>只是她最终接受了“浓淡由他冰雪中”，雅致稳重，豁达从容，不卑不亢，随遇而安，就像妙玉栊翠庵中移植的红梅，选择在异乡生根。</p>
+<p>回到最初的问题，黛玉并没有被妙玉嫌弃太俗，也没有不敢反驳，她明白妙玉最深切的含义，也知道她表达方式上的曲折别扭。</p>
+<p>但她们共同和共通的乡愁，妙玉表达了，黛玉接收了。</p>
+<p>姑苏是你的故乡，也是我的故乡，但总归是，</p>
+<p>回不去的故乡。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1991897231347975098">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/14471588790">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790046</guid>
-                <pubDate>Thu, 28 May 2026 20:11:33 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790081</guid>
+                <pubDate>Fri, 29 May 2026 02:43:58 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9790054</link>
-                <description>瞎扯 · 工作中，你捅过多大的娄子？结果你怎么样了？ 知乎日报 Q：工作中，你捅过多大的娄子？结果你怎么样了？ @东玺玺 :抖音上看到的，把整个小区的取暖管道接反了。 Q ：为什么反诈这么难？ @你真样银笑唤 ：一群大厂高学历人群，排队装龙虾，你能理解吗？ Q：山河四省这个概念真的有存在的必要吗？ @wan同学 ：山河四省有一个大名鼎鼎的叫法——那就是晋冀鲁豫。 Q：有没有看到过很特别的车贴或者车…</description>
+                <link>http://daily.zhihu.com/story/9790084</link>
+                <description>瞎扯 · 走夜路被一只黄鼠狼拦住问话时，你该如何脱身？ 知乎日报 Q：走夜路被一只黄鼠狼拦住问话时，你该如何脱身？ @Abyess ：黄鼠狼:你看我像人吗？我:我无偿加班到半夜还得步行走夜路回家，你看我像人吗？ Q： 美人胚子小时候长啥样？ @bdqd ：美人年幼的时候是「美人胚子」但是 胚子 小的时候，只能长这样： undefined Q：为什么现在小孩的名字都这么俗？ @狂喜乱舞.jpg ：我…</description>
                 <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
@@ -311,34 +263,32 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 工作中，你捅过多大的娄子？结果你怎么样了？</h2>
+<h2 class="question-title">瞎扯 · 走夜路被一只黄鼠狼拦住问话时，你该如何脱身？</h2>
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pica.zhimg.com/v2-5f48606d38aa247a3ba8ce568de2c607_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/20288432/answer/1986501466022768838" target="_blank">工作中，你捅过多大的娄子？结果你怎么样了？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/46bc5ad08c9a07208c445c949e6452f9">@东玺玺</a> :抖音上看到的，把整个小区的取暖管道接反了。</blockquote>
-<figure><img class="content-image" src="https://pic3.zhimg.com/v2-7c6cfdc982145e349aa217f4d080f284_1440w.jpg" alt=""><figcaption> </figcaption></figure>
-<p>Q ：<a class="internal" href="https://www.zhihu.com/question/480359619/answer/2016161021698536717" target="_blank">为什么反诈这么难？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/edaa734f58d93add0cfee22cfa1cf7e4">@你真样银笑唤</a> ：一群大厂高学历人群，排队装龙虾，你能理解吗？</blockquote>
-<figure><img class="content-image" src="https://pic3.zhimg.com/v2-c50bf4b22ebd650a001c3b2c41c0a088_1440w.jpg" alt=""><figcaption> </figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/647693209/answer/1990220240655779544" target="_blank">山河四省这个概念真的有存在的必要吗？ </a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/66aa72f0d5093ec08166b751ba4e6737">@wan同学</a> ：山河四省有一个大名鼎鼎的叫法——那就是晋冀鲁豫。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/54792695/answer/2006647487864275045" target="_blank">有没有看到过很特别的车贴或者车上的 logo ，让人看了就觉得车主很厉害？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/01e8895e23125d5085f915be42686d05">@八云真白</a> ：转弯偶遇大神，赶紧抓拍一张（红灯安全拍摄）</blockquote>
-<figure><img class="content-image" src="https://pic2.zhimg.com/v2-8adb4509ba64377c65bcb3c8234e20ed_1440w.jpg" alt=""><figcaption> </figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/2008355761600881770/answer/2010451582530131403" target="_blank">为什么上海没有任何一条地铁通到海边，上海人不喜欢去海边散步吗？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/22b1db748e1bbc489b8abc9b4f7cb504">@二林</a> ：看到上海那圈红色的了吗<br>那是中国海水最难看最烂的地方</blockquote>
-<figure><img class="content-image" src="https://pic2.zhimg.com/v2-46544e9d2e6ced9e11d54614d6285ef7_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/440965402/answer/1919031078183756911" target="_blank">走夜路被一只黄鼠狼拦住问话时，你该如何脱身？</a></p>
+<blockquote><a class="internal" href="https://www.zhihu.com/people/17dc7349feef83d2d2c1a225762dc797" target="_blank">@Abyess</a> ：黄鼠狼:你看我像人吗？<br>我:我无偿加班到半夜还得步行走夜路回家，你看我像人吗？</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2009777073594577637/answer/2010379842193993889" target="_blank"> 美人胚子小时候长啥样？</a></p>
+<blockquote><a class="internal" href="https://www.zhihu.com/people/ac3d42d2a8db20472cca5b83c6aa6690" target="_blank">@bdqd</a> ：美人年幼的时候是「美人胚子」<br>但是 胚子 小的时候，只能长这样：</blockquote>
+<figure><img class="content-image" src="https://pic4.zhimg.com/v2-58562616dc1ec9efea71d82dcc5f1c11_1440w.jpg" alt=""><figcaption>undefined</figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/36412943/answer/2016283376978511088" target="_blank">为什么现在小孩的名字都这么俗？ </a></p>
+<blockquote><a class="internal" href="https://www.zhihu.com/people/d0a5c0ebf579417e5423bf9a7470963c" target="_blank">@狂喜乱舞.jpg</a> ：我一直以为子涵子萱们还是小孩子，顶多高中生，直到上次去口腔科看到有子涵医生的号。<br>子涵居然已经可以坐诊了。</blockquote>
+<figure><img class="content-image" src="https://pic4.zhimg.com/v2-41a753328eac9d367b0e0c6a597f4491_1440w.jpg" alt=""><figcaption>undefined</figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/653997791/answer/1893944442660053806" target="_blank">你无意间撞见过什么秘密?</a></p>
+<blockquote><a class="internal" href="https://www.zhihu.com/people/7af4d99f3ea988b7bf603b41003dbb27" target="_blank">@闻人翊悬</a> :在寺庙瞎逛时，推门撞见两个大师在吃全家桶算么？</blockquote>
+<p>Q ：<a class="internal" href="https://www.zhihu.com/question/1929562359808122941/answer/1940880111046987982" target="_blank">你和猫咪之间有哪些「无法解释但很有效」的默契？</a></p>
+<blockquote><a class="internal" href="https://www.zhihu.com/people/8fd67cfe7ca9ccecb873adc6c8d91712" target="_blank">@荷马小屋</a> ：我的每一种睡姿，我的大猫都有一种对应的姿势，让他靠在我身上是最省力最舒服的</blockquote>
 <hr>
 <p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
 <p><a class="internal" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0">扯点好笑的</a></p>
 
-<div class="view-more"><a href="https://zhuanlan.zhihu.com/p/2037280274137003963">查看知乎讨论</a></div>
+<div class="view-more"><a href="https://zhuanlan.zhihu.com/p/2037442547312767725">查看知乎讨论</a></div>
 
 </div>
 </div>
@@ -347,8 +297,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790054</guid>
-                <pubDate>Thu, 28 May 2026 20:11:34 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790084</guid>
+                <pubDate>Fri, 29 May 2026 02:43:58 GMT</pubDate>
             </item>
             
     </channel>
