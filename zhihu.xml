@@ -4,7 +4,7 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sat, 30 May 2026 02:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 08:21:53 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
@@ -79,7 +79,7 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9790086</guid>
-                <pubDate>Sat, 30 May 2026 02:37:54 GMT</pubDate>
+                <pubDate>Sat, 30 May 2026 08:21:51 GMT</pubDate>
             </item>
             
             <item>
@@ -193,7 +193,86 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9790090</guid>
-                <pubDate>Sat, 30 May 2026 02:37:55 GMT</pubDate>
+                <pubDate>Sat, 30 May 2026 08:21:52 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>有哪些看起来很高端的技术其实原理很暴力很初级？</title>
+                <link>http://daily.zhihu.com/story/9790092</link>
+                <description>北冥有鱼，北大理论物理博士，互联网从业 查看知乎原文 聊一个最典型的——深度学习。 这东西现在被包装得神乎其神,什么”人工智能”、“机器理解”、“涌现能力”,听起来像是人类终于触碰到了智能的本质。但你把外壳拆开看,里面的原理土得能让人笑出声。 第一层暴力:把一切问题都变成”凑数字” 不管你要解决什么问题——识别猫、翻译句子、生成图片、下围棋——深度学习的第一步都是把它变成数字。 图片?就是一堆像素…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-d5cc5437541430cb44b6cc42d989edd8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/c9a266ba34dbc5652ca15e16179984fb_l.jpg?source=8673f162">
+<span class="author">北冥有鱼，</span><span class="bio">北大理论物理博士，互联网从业</span>
+<a href="https://www.zhihu.com/question/33634376/answer/2029552770718479031" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>聊一个最典型的——深度学习。</p>
+<p>这东西现在被包装得神乎其神,什么”人工智能”、“机器理解”、“涌现能力”,听起来像是人类终于触碰到了智能的本质。但你把外壳拆开看,里面的原理土得能让人笑出声。</p>
+<p>第一层暴力:把一切问题都变成”凑数字”</p>
+<p>不管你要解决什么问题——识别猫、翻译句子、生成图片、下围棋——深度学习的第一步都是把它变成数字。</p>
+<p>图片?就是一堆像素值(0-255 的矩阵)。文字?给每个词分配一个向量(一串数字)。声音?采样成波形数字。</p>
+<p>然后问题就统一成了:输入一堆数字,输出一堆数字,中间找个函数把它们连起来。</p>
+<p>没有任何”理解”,就是数字到数字的映射。</p>
+<p>第二层暴力:这个”函数”的构造简单到离谱</p>
+<p>神经网络的一个”神经元”做什么?</p>
+<p>把输入的每个数字乘以一个权重,加起来,再过一个简单的非线性函数。最常用的叫 ReLU,它的定义是:“小于 0 的变成 0,大于 0 的保持不变”。就这么土。</p>
+<p>然后把几百万个这样的神经元堆起来,一层连一层。</p>
+<p>就这。没有什么复杂的数学结构,没有精巧的逻辑推理,就是乘法、加法、一个弱智非线性函数,重复亿万次。</p>
+<p>第三层暴力:“学习”的过程就是瞎蒙加微调</p>
+<p>初始化的时候,所有权重都是随机数。网络对着一张猫的图片,输出”这是烤面包机”,概率 99%。然后怎么办?</p>
+<p>算一下”错得多离谱”(损失函数,通常就是预测值和真实值差的平方之类的小学数学)。然后用微积分的链式法则,算出”每个权重应该往哪个方向动一点点才能让错误变小”。动一点点。换一张图,再来一遍。</p>
+<p>重复几亿次。</p>
+<p>这就是著名的”反向传播”——听起来高大上,本质就是高中求导 +“错了就往反方向挪一点”。</p>
+<p>第四层暴力:大力出奇迹</p>
+<p>单个神经元啥也干不了。但你把它堆到几千亿个参数,喂进去整个互联网的文本,在几万张 GPU 上训练几个月——突然它就会写代码、写诗、解数学题了。</p>
+<p>这里最”初级”的地方在于:没有人真的设计了”推理能力”或者”语言理解”这些东西。研究者们就是在不断试:再大一点会怎样?数据再多一点会怎样?然后发现——哎,到了某个规模,能力就自己冒出来了。</p>
+<p>这叫”涌现”。听起来很神秘,翻译成人话就是:“我们也不知道为啥,反正变大就行了。”</p>
+<p>为什么说这很”初级”</p>
+<p>真正优雅的科学理论,比如麦克斯韦方程组、相对论,是用极少的公式描述极深的规律。</p>
+<p>而深度学习反过来——我们不知道规律是什么,干脆搞个超级灵活的函数(神经网络),用海量数据把规律”压”进这个函数里。</p>
+<p>打个比方:</p>
+<p>• 优雅的方法:研究鸟怎么飞,总结出空气动力学,造出飞机。</p>
+<p>• 深度学习的方法:给我一百万只鸟的视频,一百万组翅膀参数,让计算机自己试一亿次,总有一次能飞起来。</p>
+<p>所以业内有个说法:深度学习不是科学,是”带统计学的炼金术”。你知道往炉子里扔什么、火开多大,能出金子,但你不知道为什么。</p>
+<p>现在整个行业都在经验性地试:这个配方好像效果不错?那再加点料?这个结构好像 work?那就都用这个。</p>
+<p>这也是为什么理论研究跟不上工程实践——工程师们已经训出 GPT-5 了,理论家还在研究”为什么两层神经网络能拟合任意函数”。机器早就跑起来了,我们还不知道引擎是怎么工作的。</p>
+<p>一句话总结</p>
+<p>深度学习的核心思想就是”函数拟合 + 梯度下降 + 规模化”,每一项单拎出来都是几十年前的老东西,组合起来加上算力,就成了改变世界的技术。</p>
+<p>暴力,但是真的有用。</p>
+<p>而且你会发现一个规律:越是工程上成功的技术,底层思想往往越朴素。复杂的是工程实现细节和规模化,不是核心 idea 本身。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/33634376">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790092</guid>
+                <pubDate>Sat, 30 May 2026 08:21:53 GMT</pubDate>
             </item>
             
             <item>
@@ -220,7 +299,7 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-9c3886256908fe75077aa82eca4c0d76_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-9c3886256908fe75077aa82eca4c0d76_l.jpg?source=8673f162">
 <span class="author">鞭临天下，</span><span class="bio">爱看不看，一毛不拔的你们凭什么提要求……</span>
 <a href="https://www.zhihu.com/question/302245396/answer/2008122790545470632" class="originUrl" hidden>查看知乎原文</a>
 </div>
@@ -276,7 +355,7 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9790101</guid>
-                <pubDate>Sat, 30 May 2026 02:38:02 GMT</pubDate>
+                <pubDate>Sat, 30 May 2026 08:21:53 GMT</pubDate>
             </item>
             
     </channel>
