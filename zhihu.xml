@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Thu, 04 Jun 2026 19:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 02:53:07 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>数学是人类发明的，还是宇宙本身的语言？</title>
-                <link>http://daily.zhihu.com/story/9790199</link>
-                <description>北冥有鱼，北大理论物理博士，互联网从业 查看知乎原文 对我最震撼的例子是狄拉克纯粹为了数学自洽，写下的狄拉克方程。它语言了人类不敢相信的物质，反物质。 一个人盯着自己写下的方程，发现里面藏着一样他没打算放进去、现实中也从没人见过的东西，然后他选择相信方程，而不是相信常识。结果方程对了。 狄拉克当时的目标其实一点都不宏大。他要给电子写一个方程，这个方程既要符合量子力学，又要符合狭义相对论。 当时已经…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-abdbd03d5d8ce2b6c4533348742c5c26.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>如果让你推荐一件「有故事」的文物，你会推荐哪个？</title>
+                <link>http://daily.zhihu.com/story/9790210</link>
+                <description>马未都，观复博物馆创办人。 查看知乎原文 《隔海省亲的东方维纳斯》 今天要讲的这件国宝，是东魏的蝉冠菩萨，现收藏在山东省博物馆。 东魏 石刻蝉冠菩萨像 山东省博物馆藏 我们今天说的博兴窖藏的佛像呢，什么样的都有，摆得也很密集。其中这一尊造型罕见的菩萨像，最吸引人的地方是什么呢？就是菩萨所戴宝冠中装饰的那只蝉。 蝉的须目十分清晰，羽翼丰透，形态也极为逼真。正因为有它，所以这造像才被定名为“蝉冠菩萨像…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-f8f5e7fac6bd3fea119037e951b1de47.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,74 +31,53 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/c9a266ba34dbc5652ca15e16179984fb_l.jpg?source=8673f162">
-<span class="author">北冥有鱼，</span><span class="bio">北大理论物理博士，互联网从业</span>
-<a href="https://www.zhihu.com/question/14804346742/answer/2042527543438356497" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-c67c291a116ee1d9d24581743671874e_l.jpg?source=8673f162">
+<span class="author">马未都，</span><span class="bio">观复博物馆创办人。</span>
+<a href="https://www.zhihu.com/question/2035319478196467406/answer/2037908222917522461" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>对我最震撼的例子是狄拉克纯粹为了数学自洽，写下的狄拉克方程。它语言了人类不敢相信的物质，反物质。</p>
-<p>一个人盯着自己写下的方程，发现里面藏着一样他没打算放进去、现实中也从没人见过的东西，然后他选择相信方程，而不是相信常识。结果方程对了。</p>
-<p>狄拉克当时的目标其实一点都不宏大。他要给电子写一个方程，这个方程既要符合量子力学，又要符合狭义相对论。</p>
-<p>当时已经有薛定谔方程，但它是非相对论的，处理不了接近光速运动的电子。也有一个克莱因 - 高登方程，是相对论的，可它会算出负的概率密度——概率怎么能是负的呢，这在物理上讲不通。</p>
-<p>狄拉克有个执念：他要的方程，对时间和对空间都得是一阶导数。薛定谔方程对时间一阶、对空间二阶，克莱因 - 高登对两者都是二阶。他相信只有一阶才能保住概率不出毛病。这个要求纯粹是形式上的、结构上的，跟「宇宙里有什么粒子」毫无关系。</p>
-<p>麻烦马上来了。相对论里能量和动量的关系是</p>
-<p>² = ² ² + ² ⁴</p>
-<p>注意这里 是平方。狄拉克要一阶方程，就相当于要对这个式子开平方根，从 ² 退回到 。普通的数开方很简单，但他要开方的是一个带着动量算符的式子，你用任何普通的数都凑不出来。</p>
-<p>他被卡死在这里。然后他做了一件极漂亮的事。</p>
-<p>为了开方，他被逼着请出了矩阵</p>
-<p>狄拉克说，如果系数不是普通的数，而是一组彼此反对易的矩阵呢？</p>
-<p>所谓反对易，就是 = − 。普通的数乘法是可交换的，3 乘 5 等于 5 乘 3。但矩阵不一定。狄拉克发现，只要找到一组满足特定反对易关系的矩阵当系数，那个开方就能在数学上成立。他算出来，最小得用 4×4 的矩阵。</p>
-<p>这一步要划重点：他引入矩阵，不是因为他观察到了什么物理现象，不是因为实验暗示电子有四个什么状态。他纯粹是为了让方程在形式上自洽，被逼到没有别的退路。这是一个完全由数学结构倒逼出来的选择。</p>
-<p>可就是这个被逼出来的 4×4 结构，开始自己往外吐东西。</p>
-<p>方程开始说他没教过它的话</p>
-<p>矩阵是四维的，意味着电子的波函数不再是一个数，而是有四个分量。</p>
-<p>头两个分量，物理学家很快就认出来了：那是电子自旋的向上和向下。这已经是个大惊喜。自旋本来是为了解释原子光谱里的反常分裂，由别人当成一条额外假设硬塞进量子力学的。狄拉克什么都没假设，他只是要了个相对论加一阶，自旋自己从方程里长出来了。这说明方程「知道」一些他根本没告诉它的事。</p>
-<p>但还剩两个分量。这两个对应的是负能量解。</p>
-<p>在经典物理里，负能量解往往被当成数学上多出来的废品，扔掉就行。就像你解一个二次方程算边长，得出一正一负两个根，你知道那个负的不是真的，划掉。可量子力学不让你这么干。</p>
-<p>因为量子系统会自发往更低的能态跳。如果真存在无穷多个负能量态，那所有电子都会一路往下掉，掉进负无穷的深渊，整个宇宙在一瞬间就该塌掉。这个负能量解不是可以耸耸肩无视的数学垃圾，它是一个会要命的物理灾难。</p>
-<p>他没有划掉它，他选择相信它</p>
-<p>这是整个故事里最见功力的地方。</p>
-<p>狄拉克没有删掉那些解。他想了个办法把它们装进一幅物理图像里，就是后来很有名的「狄拉克海」。他假设：所有负能量态其实早就被电子填满了。根据泡利不相容原理，每个态只能坐一个电子，既然下面全坐满了，正能量的电子就没法往下掉了，因为没空位。宇宙这才没塌。</p>
-<p>接下来是关键一步。如果你给这片填满的海里某个负能量电子打进足够的能量，把它踢到正能量区去，它就会在海里留下一个空位，一个「空穴」。这个空穴是「缺了一个带负电、负能量的东西」，里外一抵，它表现出来就像一个带正电、正能量的粒子。</p>
-<p>一开始连狄拉克自己都不敢认这是个新粒子。他最初猜这空穴是质子，因为质子是当时唯一已知的带正电粒子，他想把新东西塞进已知的世界里，这是人之常情。可很快有人指出毛病：空穴的质量必须和电子一模一样，而质子比电子重了将近两千倍，对不上。</p>
-<p>到一九三一年，狄拉克才咬牙承认，这个空穴对应的是一种全新的、从没被观测过的粒子——质量和电子相同，电荷正好相反。他基本上是在对全世界说：我的方程要求宇宙里存在一种镜像电子，没人见过，但方程这么讲，我信方程。</p>
-<p>然后宇宙把它递了出来</p>
-<p>一九三二年，安德森在研究宇宙射线的云室照片时，看到一条径迹。它在磁场里弯曲的方向说明带正电，但它的质量明显不是质子那么沉，正正好就是电子的质量。</p>
-<p>这就是正电子，反物质的头一个成员。狄拉克在纸面上硬着头皮推出来的东西，几年后真的被相机拍到了。</p>
-<p>这件事到底证明了什么</p>
-<p>科学史上预言成功的例子有的是，狄拉克这个为什么特别。区别在预言的来源。</p>
-<p>通常的科学预言是这个路数：观察大量数据，归纳出规律，再往外推一步去预测。这种预言本质上还是踩在已知现象的延长线上。</p>
-<p>狄拉克是反过来的。他先要求数学形式自洽——能开方、是一阶、概率为正——这些要求纯粹是结构上的、甚至带着审美的，跟反物质八竿子打不着。然后这个为了自洽搭起来的结构，自己生出了一个谁都没点过名的存在物。</p>
-<p>换个说法：他往方程里放进去的信息，比他从方程里拿出来的信息要少。多出来的那部分,自旋和反物质,是方程白送的,是结构本身携带的、超出建造者意图的内容。</p>
-<p>如果数学纯粹是人发明的、是为了方便记账造出来的符号工具，那它顶多只能精确地吐回你喂给它的东西，绝不可能凭空多出一个正确的、还能被实验抓到的物理实体。一套记账系统不会自己长出一笔你没记过、可现实中真实存在的账。</p>
-<p>狄拉克的方程长出来了。这就说明，当他写下那组矩阵时，他碰到的不是一个可以随他高兴乱定的规则集合，而是一个有自己内在约束、会自顾自推演下去的结构。这个结构里的某些结论，他一旦写下前提，就再也管不住了。</p>
-<p>发明和发现，其实是分层的</p>
-<p>我现在倾向于认为，发明对发现这个对立本身是个假问题，真正的样子是分层的。</p>
-<p>数学里有两样东西得分开看。一是符号、记法、公理的具体选法，这部分确实是发明，是文化产物。用十进制是因为人有十根手指，巴比伦人用六十进制，给我们留下了一小时六十分钟。用什么字母、坐标怎么摆，都可以不一样。二是这些符号背后的关系结构，一旦规则定死，某些结论就被锁死了，你没法不让它成立。</p>
-<p>打个比方。你可以发明国际象棋的规则，规则是人定的，完全可以另定一套。可规则一旦定下，「这个残局白方必胜」就成了一个你只能发现、没法发明的事实，你再不喜欢也改不掉它。</p>
-<p>数学就活在第二层。我们发明了游戏，但游戏里的真理是我们发现的，不受我们意志摆布。狄拉克发明了那套写法，但「存在反物质」这个结论不是他发明的，是他发现这套写法逼着他必须接受的。</p>
-<p>至于世界为什么会是这个样子，我倾向于认为：在这个宇宙里，正确的数学结构所蕴含的逻辑后果，和物理现实所允许存在的东西，是同一件事。所以宇宙的结构就是数学的结构。</p>
+<p><strong>《隔海省亲的东方维纳斯》</strong></p>
+<p>今天要讲的这件国宝，是东魏的蝉冠菩萨，现收藏在山东省博物馆。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fc73ae62f18a367f837dbcef8dc086a5_720w.jpg?source=8673f162" alt=""><figcaption>东魏 石刻蝉冠菩萨像 山东省博物馆藏</figcaption></figure>
+<p>我们今天说的博兴窖藏的佛像呢，什么样的都有，摆得也很密集。其中这一尊造型罕见的菩萨像，最吸引人的地方是什么呢？就是菩萨所戴宝冠中装饰的那只蝉。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-60c79192544e141b3bae7079bbb568e0_720w.jpg?source=8673f162" alt=""></figure>
+<p>蝉的须目十分清晰，羽翼丰透，形态也极为逼真。正因为有它，所以这造像才被定名为“蝉冠菩萨像”。北朝装饰“蝉冠”的菩萨像存世极为罕见，至今就发现两尊，一尊是青州龙兴寺遗址出土的，另一尊就是我们今天说的这尊，这尊保存得更加完好。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-219708a155de92c13b2ccf2785de13a8_720w.jpg?source=8673f162" alt=""><figcaption> 东魏 彩绘石雕菩萨立像 青州博物馆藏</figcaption></figure>
+<p>1976 年的山东省博兴县张官村有一户农民，在自家地里挖房基地时，挖出来一些残破不堪的佛像，有的被拿去当宅基石、有的当猪圈门，有的拿回去压咸菜。为什么会有这么多雕像放在一个坑里呢？其实，这就是古代博兴龙华寺的窖藏坑。</p>
+<p>这尊蝉冠菩萨当时发现的时候断成了三截，被分到了三户人家。其中有个村民，准备把头部砸了背光做个小桌。被闻讯赶来的工作人员当场给制止了。费了好大劲找全了残块儿之后，才把菩萨像拼接完整。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-1f31199314bb142fba6e0bfa005f8024_720w.jpg?source=8673f162" alt=""></figure>
+<p>当地文管所知道了以后，就开始到处搜罗，最后搜罗了上百件残块，都运到了文保所里面保护起来。十八年后，1994 年 7 月，这尊蝉冠菩萨像，居然被人从文管所里轻轻松松地给盗走了！当时没有报案。90 年代的时候，很多地方文管所保护条件特差。我曾去过南方一个文管所，那个库房被撬了以后，都没钱买锁。</p>
+<p>1999 年，东窗事发。出现了两封密函寄给了社科院考古所。一封来自瑞士一个艺术基金会主席罗伯特，提到了这尊造像；另一封匿名，托名宿白先生。宿白先生是我国考古界泰斗级的人物，他是北大考古系第一任系主任，主要成就就是宗教考古。结果托人一问，宿白先生根本不知道这事儿！2018 年年初，老先生已驾鹤西去。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9e2ba821f71a2ea02ada09edc862b5ff_720w.jpg?source=8673f162" alt=""><figcaption> 宿白先生像</figcaption></figure>
+<p>社科院考古所收到的，是一本日本美秀美术博物馆当年出版的最新图录。在图录第 35 页上夹着一张白纸，上面从右向左，用繁体字写着“国宝”两字。这到底是谁寄来的，至今还是个谜。这本图录里的第 35 页上，印的就是这尊东魏蝉冠菩萨像。考古所收到这封信后，很快就查到了山东博兴，幸亏当时还保留了一张蝉冠菩萨的黑白照片。</p>
+<p>2000 年，美国纽约时报报道了相关的故事。国家文物局开始高度重视，派人去日本美秀博物馆谈判文物归还的事。双方坐下来谈判时，我们出示了证据，证明是 1994 年 7 月，从我国<span class="nolink">山东博兴文管所</span>盗走的。美秀博物馆也出示证据表示，这尊菩萨像是 1995 年从世界顶级古董商那购买的。这位古董商的所有的东西，都是按正常途径获得的，来源清晰。美秀博物馆购买前，还专门查阅了一遍联合国教科文组织公布的文物被盗目录，目录中没有这尊佛像的任何被盗记录。所以表示，有相关新闻报道之前、包括中方来此之前，他们都不知道这是被盗文物，当时看见这尊菩萨，只觉得它很美，是非常难得的艺术品。美秀博物馆所有的藏品，当时都是不惜重金，购买价屡创世界纪录。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fb0aeea71f044816e471a203a03745c0_720w.jpg?source=8673f162" alt=""></figure>
+<p>美秀博物馆在不知情的情况下合法地收购了这件文物，对它是善意的持有者。 “善意持有”是个法律术语，就是所获得的途径都是合法的。但中日双方都是受害者，我方当时在文物保管工作上存在漏洞，尤其是文物失窃后没有及时向联合国有关组织申报，才导致今天这样的结果。</p>
+<p>美秀博物馆表示，蝉冠菩萨可以免费归还。仅一个条件：要在美秀博物馆里借展至 2007 年，就是美秀博物馆建馆十周年，以后每隔 5 年，蝉冠菩萨回来美秀博物馆省亲一次。对于归还文物这件事，双方要共同召开新闻发布会，说明美秀博物馆是菩萨像的善意持有者，是在不知情的情况下购买的被盗文物，知情后愿意无偿归还中国。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a4ee0982624f8466e9af4123048ef252_720w.jpg?source=8673f162" alt=""></figure>
+<p>2001 年 4 月 16 日，在日本美秀博物馆内，中日双方共同签署了东魏石刻蝉冠菩萨像所有权归还中国的协议。此尊菩萨回国后，就隆重入藏山东博物馆。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1a8e4943a9332f6ee74a18a7284f508b_720w.jpg?source=8673f162" alt=""><figcaption> 我与石刻蝉冠菩萨像</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/14804346742">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2035319478196467406">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790199</guid>
-                <pubDate>Thu, 04 Jun 2026 19:57:56 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790210</guid>
+                <pubDate>Fri, 05 Jun 2026 02:53:04 GMT</pubDate>
             </item>
             
             <item>
-                <title>绘画中，有什么常用的构图法则？</title>
-                <link>http://daily.zhihu.com/story/9790200</link>
-                <description>周磊，野望绘画 查看知乎原文 一堆相似的草莓，摆在你面前，你不会将注意力放在其中任何一个上。 但如果这些草莓里，有一个不太一样的。 比如它个头很大，或者颜色不一样，又或者形状不一样： 你就会不自觉地注意到它，这种情况就叫做对比突出。 对比突出，是一种影响我们视觉注意力的手段。它非常直接、有效。其本质，就是制造差异。 这有什么用？ 很多画家、视觉艺术家会利用这一规律，去设计并突出自己画面的主题、想法…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-d5ae9ba8bb5ef58e06d70f8e1d52eaa5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么 A4 纸被设计成 210mm 乘 297mm？</title>
+                <link>http://daily.zhihu.com/story/9790220</link>
+                <description>酱紫君，QQ群1014125 查看知乎原文 因为马屁股决定了铁路宽度，进而决定了造纸机的大小，进而影响了纸张标准。 在很早很早以前，两匹古罗马战马的屁股宽度决定了古罗马战车的轮距（换算成现代单位）是 1435mm。 然后因为战车都是这个轮距，于是整个欧洲大陆的石板路上都碾压出了固定宽度的车辙。 那么为了适配这些车辙，中世纪的英国马车和煤矿马车轨道就不得不沿用了这个宽度。 时间来到 1799 年，法…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c2045e20db41387aeb7d9c24d400c4d2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -118,249 +97,188 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-c9e8b4c1ccec19aaa9f69cbf35a2ae7f_l.jpg?source=8673f162">
-<span class="author">周磊，</span><span class="bio">野望绘画</span>
-<a href="https://www.zhihu.com/question/362048641/answer/4453142637" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-8bec9d5bd4a7b338b2b91d0ce1e70ee3_l.jpg?source=8673f162">
+<span class="author">酱紫君，</span><span class="bio">QQ群1014125</span>
+<a href="https://www.zhihu.com/question/1960091973319886297/answer/2030416929404535723" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>一堆相似的草莓，摆在你面前，你不会将注意力放在其中任何一个上。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-29dbae794ee14ea8925ab5b8fbb63469_720w.jpg?source=8673f162" alt=""></figure>
-<p>但如果这些草莓里，有一个不太一样的。</p>
-<p>比如它个头很大，或者颜色不一样，又或者形状不一样：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2d8c1bf0feb621fc4687c64ad6d61ea4_720w.jpg?source=8673f162" alt=""></figure>
-<p>你就会不自觉地注意到它，这种情况就叫做<strong>对比突出</strong>。</p>
-<p><strong>对比突出</strong>，是一种影响我们视觉注意力的手段。它非常直接、有效。其本质，就是<strong>制造差异</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9019c796ad0d80d1a78342bf94c6ae0b_720w.jpg?source=8673f162" alt=""></figure>
+<p>因为马屁股决定了铁路宽度，进而决定了造纸机的大小，进而影响了纸张标准。</p>
+<p>在很早很早以前，两匹古罗马战马的屁股宽度决定了古罗马战车的轮距（换算成现代单位）是 1435mm。</p>
+<p>然后因为战车都是这个轮距，于是整个欧洲大陆的石板路上都碾压出了固定宽度的车辙。</p>
+<p>那么为了适配这些车辙，中世纪的英国马车和煤矿马车轨道就不得不沿用了这个宽度。</p>
 <hr>
-<p><strong><strong>这有什么用？</strong></strong></p>
-<p>很多画家、视觉艺术家会利用这一规律，去设计并突出自己画面的主题、想法。</p>
-<p>比如，有的画家会通过大小对比，多少对比，来凸显主体人物的孤立、弱小。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c8ae2a27cd9772af6b4cca4a1e55315e_720w.jpg?source=8673f162" alt=""></figure>
-<p>比如，有的画家会通过明暗对比对比，来凸显黑暗压抑的氛围中那一丁点希望与美好。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-167fccbb0ea070734446eb6c15e42bd1_720w.jpg?source=8673f162" alt=""></figure>
-<p>有的画家会利用质感对比，来强调主角是某种特殊身份。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a3863f1cdd5d518d074ef14bbf62bcaf_720w.jpg?source=8673f162" alt=""></figure>
-<p>当然，我的意思不是说只有突出、显眼才是好画。</p>
-<p>而是，如果我们把它当做一种构图方法，去学习与运用，它可以很好的帮助你去做画面表达！</p>
+<p>时间来到 1799 年，法国人 Nicolas-Louis Robert 发明了连续造纸机。</p>
+<p>1808 年，英国的 Fourdrinier 兄弟将其改进并商业化，这种机器后来被称为长网造纸机。</p>
+<p>早期的长网造纸机，其核心是一条循环转动的铜网，宽度通常在 48 英寸到 60 英寸之间，换算成公制就是 1.2 米到 1.5 米。</p>
+<p>理论上长网造纸机滚筒越宽，生产效率越高。</p>
+<p>但为什么第一代的造纸厂不像现代造纸厂那样把造纸机造得非常宽呢？</p>
+<p>因为当时所有的机器滚筒都要从伯明翰或者伦敦的重型铸造厂里制造，然后通过马车轨道运到各地的水磨动力的造纸厂。</p>
+<p>因此，马车轨距在 1.4 米左右，这限制了滚筒的宽度必然低于 1.5 米，进一步决定了纸卷的总宽度。</p>
+<p>但是这个时期还没有纸张标准，母卷的尺寸非常的混乱，而且随着时间的推移越来越混乱。</p>
 <hr>
-<p><strong><strong>趣味实验</strong></strong></p>
-<p>为了更生动地给你演示这个构图方法，周末，我邀请你来我的画室做一个关于<strong>对比突出</strong>的绘画小实验。</p>
-<p>画室角落有一堆日用品，你需要选出自己感兴趣的物品，然后画出来。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f7b528d53ea4474fe945967109442bdd_720w.jpg?source=8673f162" alt=""></figure>
-<p>作为第一次写生，你很兴奋！</p>
-<p>你从中选择了自己感兴趣的几件物品。然后利用自己过往学习的绘画知识，仔细比对了每件物品的比例，力图画准它们。</p>
-<p>你甚至还给它们涂上了颜色。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-90402895bd5711fa989f7c2f1d8eb7a3_720w.jpg?source=8673f162" alt=""></figure>
-<p>但最后的效果……你并不是很满意。</p>
-<p>你很快就发现，如果只是单纯地<strong>“抄”</strong>眼前的物体，画面会看上去有点乱糟糟的，没有重点，表意不明。</p>
-<p>你能意识到这一点，是很难得的。</p>
-<p>于是我连忙说：“不错！你能思考到这些，说明你已经有想要设计画面，<strong>突出主体</strong>的意识了。”</p>
-<p>但具体怎样去突出主体呢？</p>
+<p>到了 19 世纪中叶，德国境内有几十个邦国，每个邦国都有自己的标准纸张，市场一片混乱。</p>
+<p>1911 年，面对混乱的英制母版，负责德国标准的工程师 Walter Porstmann 终于是受不了了。</p>
+<p>在当时，随着 SI 单位制的普及，标准化的力量深入人心，狗日的英制单位人人喊打。</p>
+<p>Porstmann 认为，纸张不应该再去追随什么马车的宽度，什么工人的臂展。</p>
+<p>造纸业应该应该反过来，强迫机器去适应科学单位。比如 SI 单位制。</p>
+<p>他将最大的纸张 A0 定为 1 平方米，因为如果 A0 是 1 平方米，那么 A0 纸的重量就等于这种纸的密度。</p>
+<p>这么说有点抽象，简单来讲，如果你买到的某种纸是 80 克每平方米，那么 A0 纸拎起来不多不少就是 80 克重。</p>
+<p>有点像自然单位制，把单位约化掉了，这样的话长度、面积、重量换算起来就都非常的方便了。</p>
 <hr>
-<p><strong><strong>从普通，到还行</strong></strong></p>
-<p>先看起形构图阶段——通过<strong>改变形态</strong>来突出主体。</p>
-<p>第一个案例，如果你对杯子更感兴趣，想突出杯子在画面中的存在，那你可以把它放大，把其它物体缩小。通过<strong>大小对比</strong>突出杯子。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8f2d9200e4af1045b7fc907693e55807_720w.jpg?source=8673f162" alt=""></figure>
-<p>紧接着，你可以通过<strong>位置对比</strong>突出杯子。视觉上，越是靠近中间的物体，往往越容易被注意。（但最好不要放正中间，会容易呆板）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d356948ad2714a07e67ebd3df3b01272_720w.jpg?source=8673f162" alt=""></figure>
-<p>最后调整一下，你可以通过<strong>完整与残缺的对比</strong>，再次突出杯子。也就是说，让周围的次要物体，要么被杯子遮盖，要么被画框切掉。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7a341d31e16f7ee575fcf6480585c16a_720w.jpg?source=8673f162" alt=""></figure>
-<p>变化过程</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-52183f81c8931366e87186707a1e9851_720w.jpg?source=8673f162" alt=""></figure>
-<p>第二个案例——如果你对花瓶更感兴趣，想用花瓶当主体物。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4494378b4c51df7dd16017d728fb1205_720w.jpg?source=8673f162" alt=""></figure>
-<p>同理，可以把花瓶放大，位置往中间靠。而次要物件，让它们小一点，往旁边靠，让它们的形态残缺一点，削弱它们的重要性。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d5f8d24192e599a1053dc8e45e516a6c_720w.jpg?source=8673f162" alt=""></figure>
-<p>第三个案例，假设你对杯子、花瓶都不感兴趣，想以抽纸盒为主体。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-37c8f086c8f20d75cf08750e20d0651c_720w.jpg?source=8673f162" alt=""></figure>
-<p>同样可以用<strong>大小对比、位置对比、完整残缺对比，</strong>来突出纸巾盒。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2d1cc52d3da89f302fba901fc79bb56c_720w.jpg?source=8673f162" alt=""></figure>
-<p>通过三个例子的演示，你是不是对构图有新的理解了呢？</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ca16518a8a664bf40bd7f3cf74b85417_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是还有第二个问题，纸张的比例应该是什么样的呢？</p>
+<p>第一个能想到的就是 1：1.618，任何工程师都知道这个神奇的比例，哪怕是美术生都懂这个道理。</p>
+<p>这样的纸张最漂亮。</p>
+<p>但是人们在实际使用中发现掉坑里了，黄金比例的特性是剪掉一个正方形后，剩下的矩形依然是黄金比例。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7c058553f39131dfcff583e5633e7447_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是大多数纸的用途压根不是折个角然后折纸飞机啊！</p>
+<p>人们对纸张最大的需求是对折！！！！！</p>
+<p>假设一张纸是 1.618 × 1，对折后，新纸的长是 1，宽是 1.618 / 2 = 0.809。</p>
+<p>新比例变成了 1.236 这种毫无美感的东西，二次对折后就更加丑了。</p>
+<p>黄金比例 pass！</p>
 <hr>
-<p><strong><strong>从还行，到不错</strong></strong></p>
-<p>除了起形构图，用颜色来突出主体，往往更有效。</p>
-<p>第一个案例，在这个以杯子为主体的画面中，你可以用强烈的黑白灰对比，来表现杯子，而其它地方的黑白灰对比要削弱。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b9de8e407bcf3b340ad5366ceb9f1cf6_720w.jpg?source=8673f162" alt=""></figure>
-<p>这样一来，最黑、最白的地方都集中在杯子这里，它就容易被凸显出来。</p>
-<p>案例二，在这个以花瓶为主体的画面中，你同样可以在这个花瓶区域加强黑白对比，其他地方颜色对比不要超过它。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-507c0b21d9ad4ccf27ab4decd365974d_720w.jpg?source=8673f162" alt=""></figure>
-<p>当然，不仅仅可以通过加强物体固有色对比，还可以通过加强<strong>光影色的强弱</strong>来对比。</p>
-<p>比如，你可以让一束强光线打在花瓶上：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d65b3b257cce92a6f8120574e22ba2f2_720w.jpg?source=8673f162" alt=""></figure>
-<p>花瓶区域之外的地方，光影对比不能超过它。这样一来，白色的花瓶就能被重色的环境对比突出。</p>
-<p>第三个案例，以纸巾盒为主体的画面，同样的，给它打上强光，用光影对比色突出它。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-37fa4d42bfb86360526c07fd0ad18003_720w.jpg?source=8673f162" alt=""></figure>
-<p>可以继续加上物体的固有色，再次突出纸巾盒。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9a5b790770bba7706eb0c8e282f07b26_720w.jpg?source=8673f162" alt=""></figure>
-<p>我们来整体看一看，3张画加了颜色对比后的变化：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2b1e82166070e5d41efe3b16aee21328_720w.jpg?source=8673f162" alt=""></figure>
-<p>主体物被非常直观地凸显出来了！</p>
-<hr>
-<p><strong><strong>从不错，到更好</strong></strong></p>
-<p>如果，你还想精益求精，我们还可以再加入<strong>虚实对比</strong>与<strong>质感对比</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a8a080d192f94dafb4fdc853d824c99b_720w.jpg?source=8673f162" alt=""></figure>
-<p>案例一，回到杯子为主体的这张画。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-39c2831a2760820411adc283a9f0bf2b_720w.jpg?source=8673f162" alt=""></figure>
-<p>你可以画出它光滑的瓷器质感，让它从周围那些粗糙的质感中凸显出来。（要细看，这一环节的变化，相对更细腻）</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fcc7088e218a163ca929cbcd732f2f9b_720w.jpg?source=8673f162" alt=""></figure>
-<p>杯子的轮廓，也要清晰锐利一点，而其他物体的轮廓要处理得模糊点——这就是<strong>虚实对比</strong>的表现：用周围物件的“虚”，来突出杯子的“实”。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b052b5f8c6ca53b39ecd9ac9510511da_720w.jpg?source=8673f162" alt=""></figure>
-<p>案例2，这张以花瓶为主体的画。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-86f22757c26336aa73d73f61057709a6_720w.jpg?source=8673f162" alt=""></figure>
-<p>同样的，我们也可以画出光滑的玻璃花瓶质感，继续保持周围物品粗糙的质感，以此来制造<strong>质感对比</strong>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-18436ca2e46b4ff7ee4ef8a702f0bb1c_720w.jpg?source=8673f162" alt=""></figure>
-<p>花瓶轮廓要清晰，周围物品轮廓要模糊。做一下<strong>虚实对比</strong>，花瓶被再一次被突出。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e92353dcad836ff5ab3a65bddc31ab4b_720w.jpg?source=8673f162" alt=""></figure>
-<p>案例3，以纸巾盒为主体物的这张，同样的思路，把<strong>质感对比</strong>与<strong>虚实对比</strong>都来一遍。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-919aafce95c715c8cd0b4556db1c7c13_720w.jpg?source=8673f162" alt=""></figure>
-<p>这张我就不细讲了，你能看懂吗？</p>
-<p>经过第3次改变，画面从不错到更好：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b92868f5293a09420c18ce04545a511_720w.jpg?source=8673f162" alt=""></figure>
-<p>现在的3张画，它们比之前能更好的锁定你的注意力了。你发现了吗？</p>
-<hr>
-<p><strong><strong>总结一下</strong></strong></p>
-<p>如何让你的画面主体突出？</p>
-<p>第一步，先<strong>挑选</strong>你最想强调的<strong>主体</strong>（人、物都可以）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4285f74177f0bee4c80f8e9c8dfd1c84_720w.jpg?source=8673f162" alt=""></figure>
-<p>第二步，你可以通过<strong>起形构图</strong>，来突出主体。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f6f3968980c6f35bc83ca2ab402ad4f2_720w.jpg?source=8673f162" alt=""></figure>
-<p>第三步，通过<strong>颜色</strong>再次突出它。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7546d2cfba0f9679e665ebcbce84d12c_720w.jpg?source=8673f162" alt=""></figure>
-<p>第四步，通过<strong>质感、虚实</strong>做细腻地对比突出。（这4个步骤有时也会打乱，不是死板的～）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c34a3508396913c0b9de165542538f62_720w.jpg?source=8673f162" alt=""><figcaption>子立老师素描习作</figcaption></figure>
-<p><strong>总结一下，突出的本质，就是制造差异</strong>。让你想表达的内容更容易被看见、被理解。</p>
-<p>今天分享就到这里。感谢你的观看，这里是野望绘画，我是周磊，欢迎你和我们一起用绘画之眼看世界。（喜欢的话，可以我们关注公号号【野望绘画】）</p>
-<p>喜欢这篇文章的话，不要忘记点赞～</p>
-<hr>
-<p><strong><strong>（彩蛋）</strong></strong></p>
-<p>实验结束，最终……</p>
-<p>你很珍惜地把自己画的那张画卷起来，带回了家。</p>
-<p>你之所以愿意珍藏它，当然不仅仅是因为它会让你想起那一盘雷同的草莓。哈哈～</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-29dbae794ee14ea8925ab5b8fbb63469_720w.jpg?source=8673f162" alt=""></figure>
-<p>珍藏它，是因为它也会让你想起自己生活中遇到的各种人、事、物。</p>
-<p>你很久没有单纯地对身边事物产生过好奇了，所以即使它画得不太好，你也觉得它值得珍藏。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2d520d43813d51a469ed4cc4f1180be2_720w.jpg?source=8673f162" alt=""></figure>
-<p>我们下次见～</p>
-<hr>
-<p>如果你觉得我们的绘画理念是你认可的，恰好你又对<strong>我们的素描课</strong>感兴趣，可以来看看课程介绍：</p>
-<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzg3NTA4OTkyNA%3D%3D%26mid%3D2247490857%26idx%3D1%26sn%3D3594ffd16b3a306ef73fd03d21bc1aeb%26chksm%3Dcec78442f9b00d54933c0d7551c233b355313708a3d49caa76954bf120c9dccbad15877cceb0%26scene%3D21%23wechat_redirect" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">mp.weixin.qq.com/s?</span><span class="invisible">__biz=Mzg3NTA4OTkyNA==&amp;mid=2247490857&amp;idx=1&amp;sn=3594ffd16b3a306ef73fd03d21bc1aeb&amp;chksm=cec78442f9b00d54933c0d7551c233b355313708a3d49caa76954bf120c9dccbad15877cceb0&amp;scene=21#wechat_redirect</span><span class="ellipsis"></span></a></p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/362048641">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790200</guid>
-                <pubDate>Thu, 04 Jun 2026 19:57:56 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>你在博物馆见过哪些最有生活气的古人小物件？</title>
-                <link>http://daily.zhihu.com/story/9790201</link>
-                <description>知乎用户，巴蜀文化爱好者，历史档案解读者，同名公号。 查看知乎原文 湖南省博物馆有一把壶，不高不矮，十七厘米出头，釉色泛青，流口下面写了二十个字。 你要是路过它，很可能不会多看一眼。 展厅里比它精美、比它珍稀、比它命途传奇的文物太多了。青铜器镇着场子，马王堆的丝织品隔着玻璃泛着两千年前的光，辛追夫人躺在地下展厅，谁跟一柄褐不溜秋的酒壶较劲呢？ 但你要是蹲下来，把那二十个字念一遍，看看什么感觉？ 君…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-e6111fec994615f689cf8e7071d87239.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/da8e974dc_l.jpg?source=8673f162">
-<span class="author">知乎用户，</span><span class="bio">巴蜀文化爱好者，历史档案解读者，同名公号。</span>
-<a href="https://www.zhihu.com/question/2033197656172753742/answer/2038867115042722493" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>湖南省博物馆有一把壶，不高不矮，十七厘米出头，釉色泛青，流口下面写了二十个字。</p>
-<p>你要是路过它，很可能不会多看一眼。</p>
-<p>展厅里比它精美、比它珍稀、比它命途传奇的文物太多了。青铜器镇着场子，马王堆的丝织品隔着玻璃泛着两千年前的光，辛追夫人躺在地下展厅，谁跟一柄褐不溜秋的酒壶较劲呢？</p>
-<p>但你要是蹲下来，把那二十个字念一遍，看看什么感觉？</p>
-<blockquote><em>君生我未生，我生君以老。君恨我生迟，我恨君生早。</em></blockquote>
-<p>你大概就走不动了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-2f7184783652155126d8e399945bea92_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>这柄壶当年的考古领队叫萧湘。</strong></p>
-<p>1978 年他在长沙铜官窑南岸咀，开了一条探沟，挖到第三层，先出了一枚毛笔插，上面写"言满天下无口过"。萧湘后来回忆，那次试掘一共出土了五十多件带诗文的瓷器，翻来覆去整理，发现有一百多首。</p>
-<p>前后加起来，长沙窑器物上发现的题诗，目前是一百一十首整。</p>
-<p>其中只有十首能在《全唐诗》里查到，剩下的一百首，传世文献从没记载过。萧湘给它们取了个名字——"唐诗的弃儿"。</p>
-<p>"弃儿"不是文人写的。李白杜甫白居易写诗传天下，但这些壶上的诗，作者多半是窑工。他们在胚子上拿毛笔蘸着褐彩随手写，写完罩一层透明釉扔进窑里烧，烧出来挑到集市上卖。诗好不好的问题先放一边，但这些人是真的在酒壶上写诗的唐代老百姓，留证据了。</p>
-<p><strong>"君生我未生"一共二十个字，用了九个不重复的字。</strong> 字迹各有差异，而且是手工一个个写的，不是印的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e01bfc6ca7dfc5eaf9ec300f3ad850c3_720w.jpg?source=8673f162" alt=""></figure>
-<p>长沙窑是民窑。不是给宫里进贡的那种，是湘江边上烧了，然后拿到草市上去卖的。安史之乱以后兴起，五代衰落，前前后后热闹了一百多年。</p>
-<p>唐代诗人李群玉写过一首《石渚》，专写这个窑口的景象："古岸陶为器，高林尽一焚。焰红湘浦口，烟浊洞庭云。"</p>
-<p>那个年代没有环保局。烧窑是要砍树的，整个山坡的林子砍光了，浓烟飘到洞庭湖上面。这是传世文献里唯一一段直接描写长沙窑生产场景的诗。</p>
-<p>窑址在长沙望城区铜官镇，离市区二十七公里。今天开车去不觉得远，但如果你想想一千多年前，烧好的壶装船走湘江顺流而下，转长江，出海，能一路漂到印度洋。</p>
-<p>1998 年，德国打捞公司在印尼勿里洞岛海域找到一艘沉船，因为附近有块黑色礁石，取名"黑石号"。船上出了六万七千多件唐代文物，其中长沙窑瓷器占了五万六千五百多件。一只碗上刻着"宝历二年七月六日"，宝历二年是公元 826 年；另一个碗上刻着"湖南道草市石渚盂子有明樊家记"，清清楚楚写了产地。</p>
-<p><strong>也就是说，一个唐代湖南窑工在壶上随手写的这几个字，坐过船，出过海，在阿拉伯商人手里流转过，最后沉在了印度洋底。</strong> 一千多年后被人捞起来，那些褐彩的字迹还在。</p>
-<p>为什么在？</p>
-<p>因为长沙窑首创了釉下多彩工艺，拿含铁含铜的颜料，在素坯上画了写了，再罩一层透明釉去烧。颜料烧在釉下面，水泡不化，土埋不烂。技术上的事说穿了不值钱，但这个因果关系很有意思：一个技术上的进步，最终保护下来的不是宫廷的金银器，而是一个窑工随手写的诗。</p>
-<p><strong>长沙窑的窑工写字常有错别字。</strong></p>
-<p>青釉褐彩的"七贤"人物诗文罐上，把"万事休"写成了"万士休"；一个青釉磁盘上题"鸟飞平无远近"，"平芜"写成"平无"，我们猜想，可能是窑工没读过什么书，也可能是听错了。有个罐子上本该写"青乌子"（典故里的人名），窑工写了"斑鸟子"，研究者推测是他抬头看见天上飞过一只斑鸟，临时改了。</p>
-<p>错别字当然不光荣，但放在一千多年后看，这些"错误"，反而成了最鲜活的东西。博物馆里的重器太多了，青铜礼器是为祭祀造的，丝织品是为贵族织的，墓中壁画是为死者画的。但这把壶不是。它是在湘江边上一个作坊里，被一个大概率没什么文化的人，随手写了二十个字，丢进窑里烧出来，卖给了一个打算用它装酒的人。</p>
-<p><strong>它是为"用"造的，不是为"传"造的。</strong> 所以它身上那些随意的、草率的、甚至写错了的地方，才比任何精心铸造的礼器，都更靠近一个唐代人的真实生活。</p>
-<hr>
-<p>你可能会问，这首诗到底写的是什么？</p>
-<p>主流说法是爱情。一个女子口吻，叹年龄差距带来的遗憾。</p>
-<p>发掘领队萧湘则另有看法，他认为这首诗的可贵在于"男女之间有商有量"。古代社会男子三妻四妾常见，但这诗里女方在表达意见：你年纪大我年纪小，我们不相配，互相喜欢也不要勉强。萧湘说这是"讴歌人性"。</p>
-<p>2024 年，北大考古文博学院教授杭侃又提出一种解读：唐人别离是常态，李白杜甫差十一岁，"醉眠秋共被，携手日同行"，诗中"君生我未生"也可能写的是少长相惜的友情。</p>
-<p><strong>一首二十个字、连标题都没有的诗，能被争出一千多年后的三种解读，本身就说明传世的文字，不一定要惊天动地。</strong></p>
-<hr>
-<p>长沙窑出土的其他题诗，比"君生我未生"直白得多。</p>
+<p>那么怎样实现不管怎么对半折，纸的形状永远不变呢？</p>
+<p>设一张纸的长为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y" alt=""></p>
+<p>，宽为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p>，对折之后，原来的宽</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x" alt=""></p>
+<p>就变成了新的长，而原来的长</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y" alt=""></p>
+<p>的一半就成了新的宽。</p>
+<p>要让原纸和新纸的比例完全一样，就必须满足：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cfrac%7By%7D%7Bx%7D+%3D+%5Cfrac%7Bx%7D%7By%2F2%7D" alt=""></p>
+<p>解得：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y+%3D+%5Csqrt%7B2%7Dx" alt=""></p>
+<p>所以说无论长宽是多少，只要长边与短边的比例是</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Csqrt%7B2%7D%5Capprox1.4142" alt=""></p>
+<p>，就可以不断地对折套娃。</p>
+<p>接着，已知：</p>
+<ol>
+<li>A0 纸的面积是 <img class="content-image" src="https://www.zhihu.com/equation?tex=1000000+%5Ctext%7B+mm%7D%5E2" alt="">。</li>
+<li>A0 纸的边长比例是 <img class="content-image" src="https://www.zhihu.com/equation?tex=y+%3D+%5Csqrt%7B2%7Dx" alt="">。</li>
+</ol>
+<p>那么有：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Cbegin%7Baligned%7D+x+%5Ctimes+%28%5Csqrt%7B2%7Dx%29+%26%3D+1000000+%5Ctext%7B+mm%7D%5E2%5C%5C+x%5E2+%26%5Capprox+707106++%5Ctext%7B+mm%7D%5E2%5C%5C+x+%26%5Capprox+841+%5Ctext%7B+mm%7D%5C%5C+%5Cend%7Baligned%7D" alt=""></p>
+<p>解得 A0 的短边为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=x+%5Capprox+841+%5Ctext%7B+mm%7D" alt=""></p>
+<p>，长边为</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=y+%5Capprox+1189+%5Ctext%7B+mm%7D" alt=""></p>
+<p>。</p>
+<p>接下来只要对半折，长变宽，宽变长，就能算出剩下的尺寸：</p>
 <ul>
-<li>"买人心惆怅，卖人心不安。题诗安瓶上，将与买人看。"这是唐代表达"做生意都不容易"的方式。</li>
-<li>"客人莫直入，直入主人嗔。扣门三五下，自有出来人。"这是教人做客要懂规矩，上门先敲门。</li>
-<li>"天地平如水，王道自然开。家中无学子，官从何处来。"这是劝学的，语气跟今天家长说"不读书你将来怎么办"没什么两样。</li>
-<li>"春水春池满，春时春草生。春人饮春酒，春鸟哢春声。"二十个字里塞了五个"春"字，也不嫌挤。</li>
+<li>A0：841 × 1189 mm</li>
+<li>A1：594 × 841 mm</li>
+<li>A2：420 × 594 mm</li>
+<li>A3：297 × 420 mm</li>
+<li>A4：210 × 297 mm</li>
+<li>还有更小的 A5 等等，以此类推</li>
 </ul>
-<p>还有一首特别有意思：</p>
-<p><em>一别行万里，来时未有期。月中三十日，无夜不相思。</em></p>
-<p>这首诗在《全唐诗》里查得到，作者无名氏。但长沙窑把它写在了壶上，说明在唐代它已经是流行歌曲级别的作品了。窑工不选那些文辞太拗口的，选的是老百姓听得懂也愿意读的。</p>
+<p>这样就得到了神秘的 210 和 297。</p>
 <hr>
-<p>回到那个问题：什么算"最有生活气息的古人小物件"？</p>
-<p>我觉得标准很简单：<strong>这个物件造出来的时候，它的第一目的不是给谁看的，而是给谁用的。</strong></p>
-<p>青铜鼎是给祖先看的，金缕玉衣是给来世穿的，墓志铭是给后人读的。它们都重要，都有价值，都值得被认真陈列在展柜里，郑重对待。</p>
-<p>但一柄酒壶，过了千多年被人挖出来，洗干净放在博物馆。</p>
-<p>那个窑工大概不知道自己在写什么传世之作。他知道的只是明天还有一批壶要烧。</p>
-<p>但正是这种不知道，让这把壶成了整个湖南省博物馆里，最不像文物的一件文物。</p>
+<p>有了标准尺寸，标准比例，造纸厂只需要生产出巨大的 A0 级别乃至更高倍数的纸卷就行了。</p>
+<p>对半切，当两张 A1 卖，再对半切，当四张 A2 卖，你想怎么卖就怎么切，不会有任何的边角料。</p>
+<p>这个特性有且只有</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=1%3A%5Csqrt%7B2%7D" alt=""></p>
+<p>时能满足，无论是 1:1.5 还是 1:1.618 都会产生大量的废料。</p>
+<p>除此之外，就是算钱也很方便，假如 A0 克重 80.</p>
+<p>既然 A4 纸是对折 4 次得来的，那重量就是 1/16，也就是 5 克。</p>
+<p>价格差不多也是 1/16，买 100 张该多少钱口算算就好了，你用 1.618 我都不知道你怎么算。</p>
+<p>到了现代又多了个额外的好处，鼠标一拖，文字居然可以按比例缩放。</p>
+<p>现在你去复印店，把 A4 纸放在复印机里，放大到 A3，自动乘以 141% 即可，反之缩小只需乘以 71%。</p>
+<p>不管你怎么放大缩小，文档里的字、排的版、画的图，连一个像素的白边都不会多，连一毫米的文字都不会被切掉，排版界都被这圣迹感动哭了。</p>
+<hr>
+<p>哎，那么问题来了，要是所有人都习以为常，怎么还会有感动哭了这么一说呢？</p>
+<p>北美还在广泛使用傻屄 Letter 信纸，大小为 216mm × 279mm，比例大约是 1 : 1.29。</p>
+<p>Letter 的母版是从工人的手臂长度倒推出来的，这下终于不是马屁股决定的了。</p>
+<p>一个成年男性造纸工双臂张开能稳定操控的框架宽度极限大约就是 44 英寸，然后经过某种我没搞懂的神秘切法一切就这个鸟样。</p>
+<p>当你要处理不同版式的文档统一时，排版错位会搞得你头秃，不管怎么缩放都是这边空一点那边又不够，不得不浪费大把时间手调。</p>
+<p>习惯了公制的一切，还在吐槽奇怪，真是身在福中不知福啊，用 200mm × 300mm 才是真的有福了。</p>
+<p>哎，没见过地狱，又怎知这是天堂？</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2033197656172753742">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1960091973319886297">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790201</guid>
-                <pubDate>Thu, 04 Jun 2026 19:57:57 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790220</guid>
+                <pubDate>Fri, 05 Jun 2026 02:53:05 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>如果东北虎变成 5 克，它能猎杀螳螂吗？</title>
+                <link>http://daily.zhihu.com/story/9790229</link>
+                <description>豆子，人民艺术家 查看知乎原文 崔文子到泰山采药，在泉边取水，听见“唧唧”的惨叫。 抬起头寻找，赫然发现五步远的石头上，一只玉色的螳螂正用前臂死死锁着一只小老鼠。凑近看，又不像老鼠，更像猫。黄质黑章，獠牙粗壮，躯干不过拇指长。螳螂已经咬开了它的头皮，鲜血从额头流进眼窝，又流到石面，足下的血迹约有一寸。 崔文子于心不忍，想要解救这猫，于是去揪螳螂的前臂。那臂铁一般坚硬，锯齿扎得他手疼。不管怎么掰，就…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-3bd6c6575d09fde5ce50b3bc5ee544df.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fdfc1ca72818945440be3a6e8a1bf448_l.jpg?source=8673f162">
+<span class="author">豆子，</span><span class="bio">人民艺术家</span>
+<a href="https://www.zhihu.com/question/4634025708/answer/1979973493060808973" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<hr>
+<p>崔文子到泰山采药，在泉边取水，听见“唧唧”的惨叫。</p>
+<p>抬起头寻找，赫然发现五步远的石头上，一只玉色的螳螂正用前臂死死锁着一只小老鼠。凑近看，又不像老鼠，更像猫。黄质黑章，獠牙粗壮，躯干不过拇指长。螳螂已经咬开了它的头皮，鲜血从额头流进眼窝，又流到石面，足下的血迹约有一寸。</p>
+<p>崔文子于心不忍，想要解救这猫，于是去揪螳螂的前臂。那臂铁一般坚硬，锯齿扎得他手疼。不管怎么掰，就是掰不开。崔文子生气地指着螳螂说：“再不撒手，就把你的胳膊拧下来。”那螳螂并不撒手，只把明珠似的双眼，从猫头上挪开，眼里映出崔文子的大脸。</p>
+<p>埋头又啃，崔文子急了，用力给它掰开。它把铡刀一撤，闪电般顺势夹住了崔文子的食指，夹出两道血印。崔文子吃痛一甩，把他甩到草丛里去了。</p>
+<p>再看石头上的小东西，越看越不是猫，而是虎。头圆耳短，利爪如鹰，趴在血泊中，如一“乙”字。</p>
+<p>于是给它清洗、包扎、敷药，小心放在背篓里。等回到家喂它吃东西，它勉强吃了两口，就不吃了。又找来猪肉喂，终于狼吞虎咽。不一刻，吃掉了枣大的一坨。</p>
+<p>崔文子抚摸着它的后背，问：“老虎，老虎，你为什么这么小呢？”</p>
+<p>小虎呲牙裂嘴地躲开，崔文子又强行把它按住，继续摸它后背，把刚才的话又问了一遍。老虎不敢反抗，一边吃东西，一边泪眼汪汪。等吃完，在书桌上找来炭屑，用爪子压着，在纸上写出几个字，虽然潦草不堪，却可以大略看出是写的“知友害我”。</p>
+<p>崔文子骂道：“倘使让老虎变成老鼠一样大，那么老虎也只好像老鼠一样苟活。倘使让老鼠变成老虎一样大，老鼠也就不用东躲西藏了。天地间的定数，又岂是知友能安排的呢？我看知友实在是太闲了！”</p>
+<p>便一直把小虎养在案边，就和养猫一样了。</p>
+<p>小虎不愿意总待在家里，经常独自外出，捕些虫子吃。等夏天，就去杨树边蹲守，专等蠽蟟龟破土而出，吃一个，叼十个，放在盛着半碗水的碗里，等崔文子回来，就煎着吃。外出时，它非常谨慎。碰见麻雀、老鼠，都要躲在石缝里。有一回，一只黄雀守在石缝外，想要欺负它，把它吓得直哆嗦，躲了三天才敢出来。</p>
+<p>等崔文子回家，它才感觉安全，飞奔至门口迎接，用脑袋和屁股去蹭人家的草鞋。</p>
+<p>十多年后，崔文子到蜀地，路上带着它。</p>
+<p>至一处荒地，见一伙乱兵抢劫，想要跑，被拦住去路。乱兵抢了钱，本来已经放过他，然而他走了几十步，一个贼兵过来纠缠他，非要崔文子再给他些钱。崔文子已经身无分文，告饶不成，只能把衣服全脱下给他，那贼兵就要杀了他。小虎本来躲在旁边的草丛，见崔文子危险，狂啸着蹿到贼兵的手腕上，一口下去，咬断了他的寸口脉，一时血流如注。</p>
+<p>贼兵暴怒不已，将小虎重重摔在地上。小虎在地上滚了几圈，霎时变成一只斑斓猛虎，将那人轻易扑倒，血盆大口微微一张，咬上去，卡住，头一歪，只听“咔”的一声，直接掐断了那人的脖子。</p>
+<p>崔文子大喜，连忙呼唤小虎的名字。然而小虎却跟没听见似的，看了一眼崔文子，抖了抖身上的刚毛，发出撼人的虎啸。树叶随风飘落，斜斜打在崔文子的脸上。虎并不理他，径直朝山上走去，消失在了林子里。</p>
+<p>从那以后，崔文子再也没见过它。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/4634025708">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790229</guid>
+                <pubDate>Fri, 05 Jun 2026 02:53:06 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9790205</link>
-                <description>瞎扯 · 可以说一个比较小众的冷知识吗？ 知乎日报 Q：可以说一个比较小众的冷知识吗？ @Alone 无惧 ：你擦了 n 次屁股，才发现你只需要擦 n-1 次。这就是为什么泰勒展开试后面会有一个高阶无穷小，就算最后一张纸上没有你也不会用这张擦嘴。人是有两个鼻孔，但两个是轮流工作的，你可以把手指放鼻孔了下感受一下，今天谁在工作。 Q：有什么东西是盗版的，却比正版的火的一塌糊涂呢？ @Khej-Trh…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <link>http://daily.zhihu.com/story/9790232</link>
+                <description>瞎扯 · 从逻辑上讲，「祖宗保佑」和「投胎转世」是否自相矛盾？ 知乎日报 Q：从逻辑上讲，「祖宗保佑」和「投胎转世」是否自相矛盾？ @我不是沙琪玛 er ：每次听到「祖宗保佑」这句话时，脑子里总会想起这张图： Q：如何评价宇树科技最新发布的载人变形机甲: GD01 ？ @又让改名 ：@郭帆门框机器人该更新了。 Q：在国外旅行时，你发现过哪些中国符号？ @王伟麟 专利律师 ：这里是新西兰因弗卡吉尔市…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -374,7 +292,7 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 可以说一个比较小众的冷知识吗？</h2>
+<h2 class="question-title">瞎扯 · 从逻辑上讲，「祖宗保佑」和「投胎转世」是否自相矛盾？</h2>
 <div class="answer">
 
 <div class="meta">
@@ -383,22 +301,24 @@
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/784489052/answer/1945606461616009457" target="_blank">可以说一个比较小众的冷知识吗？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/7137e33542d7e721b2d050b2f3fdca02">@Alone 无惧</a> ：你擦了 n 次屁股，才发现你只需要擦 n-1 次。这就是为什么泰勒展开试后面会有一个高阶无穷小，就算最后一张纸上没有你也不会用这张擦嘴。<br>人是有两个鼻孔，但两个是轮流工作的，你可以把手指放鼻孔了下感受一下，今天谁在工作。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/380084272/answer/2020899838422720839" target="_blank">有什么东西是盗版的，却比正版的火的一塌糊涂呢？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/c075d60a2c60f5d3622c29ddb8839e93">@Khej-Trhyk</a> ：这个问题就是给奥利奥准备的<br>众所周知，奥利奥是世界上最畅销的饼干，但它是山寨一款叫 Hydrox 的饼干起家的</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-45742e891a7c19da00a79b93400513d1_1440w.jpg" alt=""><figcaption> </figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1891058868483761381/answer/2013757276062769757" target="_blank"> 你见过最</a>「<a class="internal" href="https://www.zhihu.com/question/1891058868483761381/answer/2013757276062769757" target="_blank">脑残</a>」<a class="internal" href="https://www.zhihu.com/question/1891058868483761381/answer/2013757276062769757" target="_blank">的设计是什么？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/1d3c4caffd5d21b189e40fd8a4458c48">@刁钻古怪</a> ：有些网站的密码。。。。。。<br>又要大小写，又要特殊字符。。。。。。我特 么搞个密码，不就是为了我自己方便记忆。。。。。也没啥可盗的。。。。。愿意设置复杂的，就设置复杂。。。。。愿意设置简单的，就设置简单。。。。。<br>强行要求所有都要设置的复杂。。。。。我又记不住。。。。。输了几个常用的，都说密码错误。。。。。<br>好吧，选择找回密码，短信认证。。。。。重新输入新密码。。。设置常用的。。。<br>然后来了一句。。。。对不起，新密码不能跟旧密码相同。。。。。。<br>我 去。。。。。。。。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1955589339712042858/answer/1958576087861797330" target="_blank">为什么老一辈的人似乎更坚韧，而年轻人却更容易陷入抑郁？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/f33f44cb03720a801092a59fee41d39a">@墨寒</a> ：看过一张图，老外说的：<br>「我小时候人们没有乳腺癌，只是胸疼。然后突然就死了」</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/287879672/answer/1928899347556340085" target="_blank">滴滴打车遇到过最壕的车是什么？</a></p>
-<blockquote><a class="member_mention" href="https://www.zhihu.com/people/b9ee6dc91dbcd24074cab5c3e3998bdb">@茕茕的老团</a> ：路虎，我问到师傅，你这够油钱嘛，<br>老大哥一声长叹，说只要不听我媳妇叨叨我，干啥都行……</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1923899508414198394/answer/2017300135151945703" target="_blank">从逻辑上讲，</a>「<a class="internal" href="https://www.zhihu.com/question/1923899508414198394/answer/2017300135151945703" target="_blank">祖宗保佑</a>」<a class="internal" href="https://www.zhihu.com/question/1923899508414198394/answer/2017300135151945703" target="_blank">和</a>「<a class="internal" href="https://www.zhihu.com/question/1923899508414198394/answer/2017300135151945703" target="_blank">投胎转世</a>」<a class="internal" href="https://www.zhihu.com/question/1923899508414198394/answer/2017300135151945703" target="_blank">是否自相矛盾？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/e0b012bb7564f8b95cc3485385e14394">@我不是沙琪玛 er</a> ：每次听到「祖宗保佑」这句话时，脑子里总会想起这张图：</blockquote>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-56cff19dc89a195048cb3b7e1c88da30_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2037534244138915044/answer/2037620493734391919" target="_blank">如何评价宇树科技最新发布的载人变形机甲: GD01 ？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/16228651866229fb1a4867775058bcda">@又让改名</a> ：<a class="internal" href="https://www.zhihu.com/people/405bb1f1daef677df700d2fa2e20b946" target="_blank">@郭帆</a><br>门框机器人该更新了。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/641372499/answer/1961556946114024213" target="_blank">在国外旅行时，你发现过哪些中国符号？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/822c2daa8d48ed8a6411aa7e157b90e1">@王伟麟 专利律师</a> ：这里是新西兰因弗卡吉尔市、布拉夫镇，大洋洲的最南端小镇，距离中国有两万里之遥<br>有一个路牌，赫然写着：宿迁 10250 公里<br>宿迁也是好起来了，和伦敦、纽约、悉尼平起平坐</blockquote>
+<figure><img class="content-image" src="https://pic4.zhimg.com/v2-57e69eb728ee85e467b6cd0fb0ddda5d_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/13289247152/answer/2017234424656332772" target="_blank">猫咪为啥会陪人睡一晚上呢？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/c3db746cdd4581a5f22aa8266cd09edd">@刺客无双乱舞</a> ：猫：你上床时我在，你睁眼时我也在，至于中间这段时间我去哪了，你别问。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/449596775/answer/2017200771108722407" target="_blank">说话也有恐怖谷效应吗？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/ee9f1cfee45bc1491fc65d9cdb5b592c">@echo</a> ：俺这个河南人莫名其妙就被骂了一顿</blockquote>
+<figure><img class="content-image" src="https://pic4.zhimg.com/v2-cc794bacfafc41844cd39a2fbc237659_1440w.jpg" alt=""><figcaption> </figcaption></figure>
 <hr>
 <p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
 <p><a class="internal" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0">扯点好笑的</a></p>
 
-<div class="view-more"><a href="https://zhuanlan.zhihu.com/p/2041868561023497476">查看知乎讨论</a></div>
+<div class="view-more"><a href="https://zhuanlan.zhihu.com/p/2041861216080023602">查看知乎讨论</a></div>
 
 </div>
 </div>
@@ -407,8 +327,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790205</guid>
-                <pubDate>Thu, 04 Jun 2026 19:57:58 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790232</guid>
+                <pubDate>Fri, 05 Jun 2026 02:53:07 GMT</pubDate>
             </item>
             
     </channel>
