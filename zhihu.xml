@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Mon, 08 Jun 2026 20:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 02:39:15 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>为什么说「香蕉是浆果，草莓不是浆果」？</title>
-                <link>http://daily.zhihu.com/story/9790284</link>
-                <description>祥昊，我可是个正经人啊 查看知乎原文 啧，你是不知道植物界那群植物，果实这玩意简直就是瞎长啊。 举个例子， 花生，皮硬壳脆油脂多，是坚果吧？ 不，人家是荚果。 茄子，皮薄肉多中间有籽，应该和黄瓜差不多吧？ 不，茄子是浆果。而黄瓜是瓠果，和西瓜一家。 桑葚，皮薄肉嫩汁水多，总是浆果吧？ 不，人家是聚花果。 辣椒，有皮没瓤没有水儿，总不能是浆果吧？ 还真别说，人家就是浆果。 松子，横看竖看都是坚果，总…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-454c6f685ba55e4e4e118dbf52eaf830.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么编程语言里的乘法符号是 * 而不是 × ，后者不应该更符合主流吗？</title>
+                <link>http://daily.zhihu.com/story/9790302</link>
+                <description>为什么编程语言里的乘法符号是“*”而不是“×”，后者不应该更符合主流吗？ icon-meh，小厂程序员，PM，私信请说&amp;quot;嗨，美女&amp;quot;，别总问&amp;quot;在吗，大哥&amp;quot; 查看知乎原文 如果只是考古编程的话，我能找到的最早的相关文献是这个： 这是 FORTRAN 语言最初的设计报告封面，字迹有些模糊，报告的日期是 1954 年 11 月 10 日。 在下面这个章节： 你可以看…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0cbac24788eec0d25abb1657bbc5f870.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -26,175 +26,68 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">为什么编程语言里的乘法符号是“*”而不是“×”，后者不应该更符合主流吗？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">我可是个正经人啊</span>
-<a href="https://www.zhihu.com/question/2040161610967299447/answer/2043282080340215172" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-a1a09172c07903a6109151c1fb9e58d1_l.jpg?source=8673f162">
+<span class="author">icon-meh，</span><span class="bio">小厂程序员，PM，私信请说&quot;嗨，美女&quot;，别总问&quot;在吗，大哥&quot;</span>
+<a href="https://www.zhihu.com/question/2040723495068382476/answer/2041626827072992245" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>啧，你是不知道植物界那群植物，果实这玩意简直就是瞎长啊。</p>
-<p>举个例子，</p>
-<p>花生，皮硬壳脆油脂多，是坚果吧？</p>
-<p><strong>不，人家是荚果。</strong></p>
-<p>茄子，皮薄肉多中间有籽，应该和黄瓜差不多吧？</p>
-<p><strong>不，茄子是浆果。而黄瓜是瓠果，和西瓜一家。</strong></p>
-<p>桑葚，皮薄肉嫩汁水多，总是浆果吧？</p>
-<p><strong>不，人家是聚花果。</strong></p>
-<p>辣椒，有皮没瓤没有水儿，总不能是浆果吧？</p>
-<p><strong>还真别说，人家就是浆果。</strong></p>
-<p>松子，横看竖看都是坚果，总没错吧？</p>
-<p><strong>不不不，松树是裸子植物，压根就不长果。那就纯是个种子。</strong></p>
-<p>更别提还有像椰子这种外面有壳，里面有水，唯独没核的奇葩了。</p>
-<p>那椰子应该是啥果呢？</p>
-<p>椰子是核果，只是长的太大，里面的胚乳是液态而已。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7f21d8b0732e98569d1cf2c1872016b3_720w.jpg?source=8673f162" alt=""></figure>
-<p>你瞅瞅，就按植物这果大八十变的长法，你单纯根据他长啥样分类根本不靠谱。</p>
-<p><strong>所以，只能从根上分了。</strong></p>
-<p>单说果实也不复杂，首先得有子房，这个结构就被子植物有。</p>
-<p>所以像是银杏这种裸子植物，就算果肉都捣鼓出来了，那也得被开除果籍，不算果实。</p>
+<p>如果只是考古编程的话，我能找到的最早的相关文献是这个：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e7dba186b0de59574a9636def2e0173_720w.jpg?source=8673f162" alt=""></figure>
+<p>这是 FORTRAN 语言最初的设计报告封面，字迹有些模糊，报告的日期是 1954 年 11 月 10 日。</p>
+<p>在下面这个章节：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-154ee9f666f5fae70e680eae0fb7da85_720w.jpg?source=8673f162" alt=""></figure>
+<p>你可以看到初稿中使用的是 × 而不是 *，并且明确标注了这个符号代表 Multiply。</p>
+<p>我认为这就是计算机大佬们最初的想法，即使用贴近数学习惯的符号 ×。</p>
+<p>但到了下面这份文档，1956 年 FORTRAN 正式版《程序员手册》：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ca76a28d9daf521514f6cb739dbfc2fe_720w.jpg?source=8673f162" alt=""></figure>
+<p>在第 3 章找 Expressions（表达式）那一节（第 14 页）：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6345817c86f27a41adfbfe3887949b30_720w.jpg?source=8673f162" alt=""></figure>
+<blockquote>The characters +, -, *, and / denote addition, subtraction, multiplication, and division.<br>字符 +、-、* 和 / 分别表示加法、减法、乘法和除法。</blockquote>
+<p>也就是说，1954 年初稿用的是 ×，而 1956 正式版改为了 *。</p>
+<p>为啥？</p>
+<p>因为当时 IBM 704 的穿孔卡片系统采用 BCD 编码，总共仅有 48 个编码位，全部字符如下：</p>
+<ul>
+<li>数字 0–9（10 个）；</li>
+<li>字母 A–Z（26 个）；</li>
+<li>符号（12 个），分别是 + - * / = ( ) , . $ %，外加一个空格，其中并没有 ×。</li>
+</ul>
+<p>更关键的是，* 是少数没有明确数学含义的可用字符，加之与 × 有几分相似，所以也算是不得已而为之了。</p>
+<p>至于后续的编程语言，我个人认为它们大多继承了这一惯例。</p>
+<p>那新问题又来了，早期计算机明明主要用来做数值计算，为什么字符集里却没有乘法符号嘞？</p>
+<p>据我所知，最初的 BCD 编码映射是为打印商业文本（支票、报表）设计的。换言之，早期计算机根本不需要包含数学运算符的字符集，因为那时人们不会直接在计算机上写数学表达式。</p>
+<p>FORTRAN 算是首个采用了如今流行的、类似数学公式语法的主流编程语言。</p>
 <hr>
-<p>从源头上分，就两类，真果和假果，</p>
-<p>真果就是咱课本生物上学的，完全由子房发育成的果实，</p>
-<p>其他的啥花托、花萼、花冠结构用完就会脱落，不参与果实的长成。</p>
-<p>比如桃子。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cee7e0ecc05794f13bf75ef67f95b8a9_720w.jpg?source=8673f162" alt=""></figure>
-<p>而假果就是除了子房，</p>
-<p>还可能加上花托、花萼、花冠、花序轴等结构一起发育，最终融合出一个果实。</p>
-<p>比如苹果，果肉主要由花托膨胀长出。</p>
-<p>更经典的还得看腰果（Anacardium occidentale），</p>
-<p>种子和肉质花托各长各的，底下腰果苹果（Cashew Apple），能吃，</p>
-<p>顶上腰果坚果（Cashew Nut），也能吃。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f8c1bbf26cd8688b78110a476818e24e_720w.jpg?source=8673f162" alt=""></figure>
-<p>你看，就两种，不复杂吧？</p>
-<p>咱再稍微分细点，去看花的特征。</p>
-<p><strong>一朵花一个子房，最后结出一个果的，就是单果，</strong></p>
-<p>这个最常见，比如桃子，苹果，南瓜，真假果都有。</p>
-<p><strong>一朵花，但有好几个彼此分离的雌蕊（离生心皮），最后共同发育成果实，就是聚合果。</strong></p>
-<p>比如草莓，</p>
-<p>这个区分就比较纠结，以草莓为例，果实由花托膨胀产生，所以草莓是假果。</p>
-<p>但单个草莓籽完全由子房长成，所以草莓籽算真果。</p>
-<p>聚合果里多数都是假果，但也有属于真果的。</p>
-<p>比如八角（Illicium verum），它的花托只负责把多个子房聚拢在一起，并没有参与后续融入果实，所以是真果。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6e67b6667182a731bcae176cfc2db842_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>而整个花序一起揉吧揉吧发育成一个果实，就是聚花果。</strong></p>
-<p>比如桑葚，是由花和花序轴融合长出来的，单凭子房没法融合在一起。</p>
-<p>所以聚花果铁定都是假果。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7318339acaedcd5c97838b17f9b7b653_720w.jpg?source=8673f162" alt=""></figure>
-<p>更明显还得看凤梨（Ananas comosus），</p>
-<p>我们吃的菠萝需要剔除菠萝眼，其实那是他的花变成的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-801dbdfbde20e39a139b8c80c6520b54_720w.jpg?source=8673f162" alt=""><figcaption>菠萝花</figcaption></figure>
-<p>你瞅瞅一共就三种，是不是傻子都能学会？</p>
-<p><strong>咱继续按照成熟时的果皮形态来划分下。</strong></p>
-<p>你看，很多果实在成熟后果皮会变干变硬，所以有这类特征的就是干果，</p>
-<p>有果肉的就是肉果。嘎嘎简单对吧？</p>
-<p>咱再把干果细分一下，</p>
-<p>有些果子成熟时果皮不光干燥，还会裂开，这就是裂果（Dehiscent fruit）。</p>
-<p>不会裂开的，就是闭果（Indehiscent fruit）。</p>
-<p><strong>咱再继续细分下裂果，看他是咋裂的。</strong></p>
-<p>有些果子是由单心皮发育，成熟后沿着缝线单边开裂，</p>
-<p>也就是就裂一条缝的，就是蓇葖果（Follicle）。</p>
-<p>比如玉兰，八角。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8c243267fc385186a56e2c652976485a_720w.jpg?source=8673f162" alt=""><figcaption>玉兰果实</figcaption></figure>
-<p>成熟后外皮两条缝线都裂的，就是荚果（Legume）。</p>
-<p>这个大家都熟，豆子都是，俗称豆荚。</p>
-<p>成熟后以各种方式裂的，</p>
-<p>就是蒴果（Capsule），比如棉花，乌桕，牵牛，蓖麻。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5e08b640caba2814e8b88149c423a0cb_720w.jpg?source=8673f162" alt=""><figcaption>蓖麻果</figcaption></figure>
-<p>这里还有个小分支，</p>
-<p>有部分蒴果是由子房下位和萼筒发育形成的，也就是花屁股也参与长进来的，就是宿萼蒴果（Calycocapsule），在兰科和桔梗科比较常见。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f6ef321ee094d28aed3901e24dc5c9f3_720w.jpg?source=8673f162" alt=""><figcaption>桔梗果实 看底下的大屁股</figcaption></figure>
-<p>如果裂的特别稀碎，</p>
-<p>也就是成熟后果瓣与中轴分离，看起来一瓣一瓣的，就是分果（Schizocarp），</p>
-<p>比如苘麻</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-bff290060d1829ed8f999f38aaade411_720w.jpg?source=8673f162" alt=""><figcaption>苘麻</figcaption></figure>
-<p>还有十字花科植物专属的角果（Siliqua）。</p>
-<p>根据长宽形态分长角果和短角果。</p>
-<p>长角果长得像没发育完全的豆角，比如萝卜，白菜，</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f580f913ade318b781087eea27808cde_720w.jpg?source=8673f162" alt=""><figcaption>萝卜的果实</figcaption></figure>
-<p>短角果则长得像平面的页锤，整个扁平。</p>
-<p>比如荠菜，独行菜等。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9b6f99d7c95c2f5e41351d13652005ac_720w.jpg?source=8673f162" alt=""><figcaption>荠菜的短角果 还会比心</figcaption></figure>
-<p>裂果也就这些，不复杂吧？</p>
-<hr>
-<p><strong>好，咱回头去看熟了不会裂的闭果。</strong></p>
-<p>外皮硬邦邦的是坚果，子房分裂成多枚坚硬小果的是小坚果。</p>
-<p>分辨方式就是按大小和数量，不复杂。</p>
-<p>只有 1 粒种子，果皮与种皮易分离是瘦果，</p>
-<p>比如草莓，籽一哆嗦就掉，就是典型的瘦果。</p>
-<p>瘦果里保留了花屁股并参与长果的，就是宿萼瘦果。</p>
-<p>比如蒲公英和向日葵，花屁股直接变成一个大底座。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5d0d723f08cb6af457c7ee50fb5e3a3c_720w.jpg?source=8673f162" alt=""></figure>
-<p>这里还有个特殊的，下位子房和花萼筒结合发育，</p>
-<p>也就是花屁股和果子长一起的，就是连萼瘦果。</p>
-<p>比如苍耳，未成年苍耳可以明显看到带刺的外皮其实是花屁股包起来长的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-985007dd13bfe2ff1b0bff7db3ed2050_720w.jpg?source=8673f162" alt=""></figure>
-<p>果皮和种皮完全愈合的就是颖果 （Caryopsis），这个是禾本科特有。</p>
-<p>果皮薄且膨松，极易与种子分离的是胞果（Utricle），比如甜菜。</p>
-<p>果皮延伸成翅可以随风飞的就是翅果（Samara） ，</p>
-<p>比如榆钱，适合茬窝头。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9ff8c9a0673eddf04bbd99439d9ec94d_720w.jpg?source=8673f162" alt=""></figure>
-<p>而像是枫杨、青钱柳的翅是由小苞片与子房壁愈合成的，也就是屁股长翅的，</p>
-<p>就是具翅坚果 （Pteronut）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-83ae14a8641b84ca06cfa29e46a24fbc_720w.jpg?source=8673f162" alt=""><figcaption>枫杨</figcaption></figure>
-<p>最后，</p>
-<p>还有伞形科特有的 2 心皮，成熟后分 2 瓣悬垂的双悬果（Cremocarp），比如小茴香</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b3250865a2d39973f9e141396b551d41_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>闭果就看是咋长的，你看是不是也不难分辨？</strong></p>
-<hr>
-<p>介绍完干果，咱再去看肉果，</p>
-<p>那就更简单了，</p>
-<p><strong>中内果皮是肉质的就是浆果（Berry），</strong></p>
-<p>也就是说，虽然名字带浆，但不一定非得有水。</p>
-<p>比如香蕉外皮是外果皮长的，而果肉是中果皮和内果皮长的，所以说是浆果。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5c27ff6d50081f1a6132bc6b08b24509_720w.jpg?source=8673f162" alt=""></figure>
-<p>而辣椒外果皮是最外层那个光滑的薄皮，中果层是皮上那层辣椒肉，所以即使没水儿，也是浆果。</p>
-<p><strong>在浆果里还有两个特殊的种类，</strong></p>
-<p>一个是外果皮有油囊，内果皮成瓤囊，是芸香科特有，所以也就单独划分为柑果（ Hesperidium），比如橘子橙子柚子。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c775da890dbb521c5654f378f2a29a31_720w.jpg?source=8673f162" alt=""></figure>
-<p>另一个是花托和外果皮愈合形成厚实的假外果皮，</p>
-<p>属于葫芦科特有，也就是瓠果（Pepo）比如西瓜，南瓜，黄瓜。</p>
-<p>这就是肉果里最复杂的浆果，简单吧？</p>
-<p><strong>除了浆果，另外两大类就是核果（Drupe）和梨果（ Pome）。</strong></p>
-<p>只有一粒种子，内果皮变成骨质坚硬果核的，就是核果，比如桃子。</p>
-<p>自然分裂成多个独立的核的，就是分核果 （Schizodrupe），比如冬青。</p>
-<p>而像苹果那样花托发育为主肉，内果皮软骨质的就是梨果。</p>
-<p>你看，肉果也就三大类，6 种分类，简单吧？</p>
-<p>好，下面<strong>我们来进入实操。</strong></p>
-<p>你看榴莲，有硬壳，有果肉，还有分瓣和硬核，应该是啥水果呢？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ec1887bbba178241bcfa4e9da37e5fca_720w.jpg?source=8673f162" alt=""></figure>
-<p>答案是蒴果，干果的一种。</p>
-<p>好，我们再看山竹，</p>
-<p>有硬壳有果蒂还不会开裂，看着像坚果吧？</p>
-<p>不，山竹是浆果。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-194df52e94212735bef110e6bebe9d84_720w.jpg?source=8673f162" alt=""></figure>
-<p>...........好像也不是有眼就行，</p>
-<p>没关系，我教你万能三连:</p>
-<p>能吃吗？好吃吗？怎么吃？</p>
+<p>至于其它领域，我稍微检索了一些资料（不一定完整、全面）。</p>
+<p>早在 1668 年，瑞士学者 Johan Heinrich Rahn 等人就已经在数学中把星号用作乘法符号了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2e513ce4ee67058e86104581e9dc2ea7_720w.jpg?source=8673f162" alt=""><figcaption>《德国代数》，Johann Heinrich Rahn，1659 年</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6e0f5b8cb00fc9d6fd82f5fa8448adc2_720w.jpg?source=8673f162" alt=""></figure>
+<blockquote>（不懂德语，机翻的）乘法的主要符号是 *，意为“乘以”。</blockquote>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2040161610967299447">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2040723495068382476">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790284</guid>
-                <pubDate>Mon, 08 Jun 2026 20:06:43 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790302</guid>
+                <pubDate>Tue, 09 Jun 2026 02:39:02 GMT</pubDate>
             </item>
             
             <item>
-                <title>人类真的想象不出从来没见过的东西吗？</title>
-                <link>http://daily.zhihu.com/story/9790290</link>
-                <description>奔奔马，新疆兵团90后职工，淘宝搜“奔奔马90后养蜂人”自产蜂蜜和枣 查看知乎原文 去年 5 月份，有个上海的买家，买了一块我店铺里的蜂蜡，说是要用蜂蜡做润唇膏。可收到货以后，非要说我的蜂蜡“有问题”。她还给出了两点理由： 1.她说“收到的蜂蜡有一股塑料味”，怀疑是用塑料冒充的，或者掺了塑料的； 2.蜂蜡太干净、颜色也太艳了，真正的蜂蜡根本不该是这个样子！ 这一堆错乱的理由直接把我问懵了，我一时都…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-fbcd2bbb31f1d3f343ab7360ca78f68f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么外国火腿可以生吃，中国火腿不行？</title>
+                <link>http://daily.zhihu.com/story/9790303</link>
+                <description>居叔，设计大千世界，装修五花八门 查看知乎原文 发现一个非常有意思的现象： 外国人吃火腿，一般是拿刀一片片切得极薄极薄，入口生吃，咸香、软嫩、越嚼越香； 而到了中国，火腿基本上都要上锅——炖汤、烧菜、炒饭、煲粥，从来没有人敢生吃。同样是猪腿一条，为什么到了外国却吃得大相径庭？ 更夸张的事实是，有些西班牙火腿动不动就卖几十万元，而中国家常的金华火腿、宣威火腿很多时候是拿来“做菜提鲜”，吃法和价格都相…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-5838360e4f2da5b7909ea26ee5ea0640.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -214,93 +107,99 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-4e340f36684bbae6619008a0222a2f6f_l.jpg?source=8673f162">
-<span class="author">奔奔马，</span><span class="bio">新疆兵团90后职工，淘宝搜“奔奔马90后养蜂人”自产蜂蜜和枣</span>
-<a href="https://www.zhihu.com/question/266668858/answer/2041851309557633421" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-9db8bb2d76403d0c61bfde39e7499e17_l.jpg?source=8673f162">
+<span class="author">居叔，</span><span class="bio">设计大千世界，装修五花八门</span>
+<a href="https://www.zhihu.com/question/2042348064699143730/answer/2042349930728126236" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>去年 5 月份，有个上海的买家，买了一块我店铺里的蜂蜡，说是要用蜂蜡做润唇膏。可收到货以后，非要说我的蜂蜡“有问题”。她还给出了两点理由：</p>
-<p><strong>1.她说“收到的蜂蜡有一股塑料味”，怀疑是用塑料冒充的，或者掺了塑料的；</strong></p>
-<p><strong>2.蜂蜡太干净、颜色也太艳了，真正的蜂蜡根本不该是这个样子！</strong></p>
-<p>这一堆错乱的理由直接把我问懵了，我一时都不知道怎么回复她。</p>
-<p>第一个理由根本就站不住脚，她没见过蜂蜡，更没闻过蜂蜡，别说觉得像塑料味，就是觉得像香蕉味也正常呀！况且塑料和蜂蜡根本就不是一类物质，也不可能掺到蜂蜡里，二者压根就不会相溶。</p>
-<p>第二个观点我一时都不搞不清她在反向夸我，还是在质疑我……</p>
-<p>于是，我就问她，真正的蜂蜡应该长什么样子？</p>
-<p>结果，她就说“她朋友家里养过几箱蜂，前段时间也送给她一块蜂蜡，长这个样子”——</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e3d6d62007a3c0fdecf5aa250081e5e6_720w.jpg?source=8673f162" alt=""><figcaption>买家展示她朋友送的蜂蜡，还说这是“真正蜂蜡该有的样子”</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-79e5aeb14e818a0728aedcb5c8eb7457_720w.jpg?source=8673f162" alt=""></figure>
-<p>接着，她又把从我店里买到的蜂蜡，和她朋友送的蜂蜡放在了一起，拍了个对比的照片给我，就是这样：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b07bd54e6a6873aee13f35c0de55d3b1_720w.jpg?source=8673f162" alt=""><figcaption>买家主动进行的对比</figcaption></figure>
-<p>我看着这坨奥利给一样的东西，隔着屏幕都要笑出声了，好家伙，这种一没熔化，二没提纯的“<strong>蜡渣</strong>”也好意思叫蜂蜡？</p>
-<p>可这种“粗品”都算不上的东西，她却视若珍贵的<strong>标本</strong>，直接去鉴别市场上的蜂蜡了……</p>
-<p>既然她这么自信又识货，根据我的经验，我即便再多的解释她肯定也不会听。于是，我也就懒得争辩了，赶紧退！大不了也就 15 块钱的事嘛。</p>
-<p>我直接多退了她 5 块钱，作为运费，让她转寄给了在上海的大学同学。</p>
-<p>毕竟从上海退回新疆的话，运费比这块蜂蜡都贵。可如果我大度地将蜂蜡送她，反而会让她更觉得是假货。</p>
-<p>说了这么多，就有小伙伴要问了：她朋友送她的那种蜂蜡是真的吗？</p>
-<p>这怎么说呢，正如《爱情公寓》里张伟的那句名言：臭鸡蛋就不是鸡蛋啦？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-692e4da5b503e90e525d99577e966995_720w.jpg?source=8673f162" alt=""></figure>
-<p>她朋友送她的那块蜂蜡，虽然不是假蜂蜡，但一看就知道是用老旧蜂巢熬的，并且根本没有熬蜂蜡的经验，蜂蜡根本没有彻底熔化，更没有过滤去其中的杂质，所以成品就是黑乎乎一团，完全不能称为“商品蜂蜡”，充其量只能算是粗蜡渣！</p>
-<p>而且老蜂巢熬出来的蜂蜡，气味也大，甚至会有一股类似梅干菜的味道，新蜂巢熬出的蜂蜡味道就淡很多。</p>
-<p>可她却拿这块蜡渣当“蜂蜡标本”，来鉴定商品蜂蜡了！甚至她好歹要是百度一下“<strong>蜂蜡长什么样</strong>”，看一眼蜂蜡的正常图片，都不会自信成这样！</p>
-<p>究其原因，是因为蜂蜡并不是人们日常能见到的事物，人们也就了解得很少。至于蜂蜡是怎么来的？有什么用？绝大多数人就更不清楚了。</p>
-<p>纯靠想象，确实很难想象蜂巢经过熬煮和过滤，居然就可以这么惊艳。</p>
-<p>所以，有这样拿着蜡渣鉴别蜂蜡的买家倒也正常。</p>
-<p><strong>那么，蜂蜡到底是什么呢</strong>？</p>
-<p>实际上，蜂蜡是一种<strong>复杂的有机混合物</strong>，主要成分是<strong>高级脂肪酸</strong>和<strong>高级一元醇所形成的脂</strong>。</p>
-<p>蜂蜡是蜜蜂分泌的物质，外界有大量蜜源时，壮年工蜂（8—18 日龄）腹部的四对<strong>蜡腺</strong>会分泌出来大量蜂蜡，最初是一片一片的，称为蜡鳞，蜜蜂会咀嚼，并用这些蜂蜡来<strong>筑造蜂巢</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7b9015d0df62f337d0e3ce8ce68f58ed_720w.jpg?source=8673f162" alt=""><figcaption>一只正在分泌蜡鳞的工蜂。 蜂蜡是由青年工蜂（约 12-16 日龄）通过腹部蜡腺分泌而来，经过蜜蜂咀嚼作用筑造巢房，外界蜜源阅读，工蜂分泌蜂蜡也就越多</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5408b89191806e9abb2107984580afd4_720w.jpg?source=8673f162" alt=""><figcaption>正在筑巢的蜜蜂，蜂巢的主要成分就是蜂蜡，巢越新，颜色越浅</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6afc335deaa0e2fa91b45e321315aac7_720w.jpg?source=8673f162" alt=""><figcaption>蜂箱里清理下来的小蜂巢</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-348fa3e7198e8a86171ce7641126686b_720w.jpg?source=8673f162" alt=""><figcaption>今年 4 月，检查蜂箱时清理出的蜂巢，也就是“赘脾”</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fdfa4f4ba5de1989d3b256306174b472_720w.jpg?source=8673f162" alt=""><figcaption>有时，蜂箱里蜜蜂发展太快，蜜蜂也会在在蜂箱空间里自己造蜂巢。这是今年 5 月初，由于沙枣花期太忙，有几箱蜜蜂超过 20 天没有检查，就造成了这样，甚至赘脾里都储满了蜜，甚至蜂箱盖是我用工具费劲撬开的</figcaption></figure>
-<p>蜂蜡是养蜂过程中重要的副产品，原料就是蜂巢，养蜂人收集蜂箱里乱造的蜂巢、蜂具上刮下来的蜂巢渣，以及取蜜过程中割下的蜡盖，经过加水熬煮，液态蜂蜡会浮在水面上，再经过滤后就是比较纯净的蜂蜡了。</p>
-<p>新鲜纯净的蜂蜡会呈现漂亮的黄色，故又称为<strong>黄蜡</strong>。</p>
-<p>由于自然蜂蜡中含有脂溶性<strong>类胡萝卜素</strong>等天然色素，使得蜂蜡会自然呈现黄色。</p>
-<p>蜂蜡中的色素主要来自于蜜蜂采食的花粉。因此，在不同季节、不同的蜜源植物，蜂蜡中天然色素的含量和组成并不相同，使得不同季节、不同花期之下，蜂蜡呈现不同的颜色。通常，蜂蜡的颜色从浅白色、淡黄色，到深黄色、艳黄色都是正常的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9f799e61663524475e12860f59d4e57a_720w.jpg?source=8673f162" alt=""><figcaption>在蜂箱里酿造成熟的蜂蜜，蜜蜂会封一层盖，作为蜜蜂长期储存的粮食，这层漂亮的白色蜡盖，是成熟蜜的标志</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-62164e4e14ce9f113aa3152c3fe00d16_720w.jpg?source=8673f162" alt=""><figcaption>取蜜时，需要把这层蜡盖切去，再放入摇蜜机中，利用离心力将蜂蜜“甩出”，这些蜡盖也是产优质蜂蜡的原材料</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-153a5935d1e4b30a1be26af0a0920451_720w.jpg?source=8673f162" alt=""><figcaption>凝固后的整块蜂蜡</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a84d163732b4d0d9938392b722bd2b0d_720w.jpg?source=8673f162" alt=""><figcaption>值得注意的是，不同花期得到的蜂蜡，颜色也是不同的，蜜蜂食用的花粉，尤其是花粉中的胡萝卜素，会直接影响蜂蜡的颜色</figcaption></figure>
-<p>使用两年以上的<strong>老旧蜂巢</strong>，由于长期培育蜜蜂幼虫，蜂巢中会累积很多茧衣这样的杂质，使得蜂巢发黑。用这样的老旧蜂巢煮蜡，虽然也能熬出蜂蜡，但旧巢杂质多、出蜡率低，且熬出的蜂蜡发暗，甚至发黑，属于劣质品，这些杂质还会增加引起过敏的风险，不能作为润唇膏的原料。</p>
-<p>质量最好的蜂蜡，是养蜂过程中日常收集的蜂箱里的乱造蜂巢，养蜂人俗称“赘脾”，以及取蜜过程中，割下的那层蜡盖，这样得到的蜂蜡，经过简单熬煮、过滤杂质，得到的蜂蜡颜色明黄，无异味，是制作润唇膏、口红、护手霜等化妆护肤品的上乘原料。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f16c2420ad3aa51bca6217e59c8e6fd0_720w.jpg?source=8673f162" alt=""><figcaption>老蜂巢（上）和新蜂巢（下）的直观对比，老蜂巢由于经过蜂群长期培育幼虫，呈黑色，是由茧衣碎屑和蜂胶在巢房内长期堆积形成的结果。</figcaption></figure>
-<p>需要注意的是，即使再纯净的蜂蜡，其本身的颜色也是黄色的，将蜂巢加热熔化，再凝固成蜡块后，会发现蜡块明显是黄色的。</p>
-<p>正是由于天然蜂蜡或多或少都是黄色的，当用蜂蜡制作口红、润唇膏等物品时，一些厂家会用<strong>氧化剂</strong>将蜂蜡<strong>漂白</strong>，以减少蜂蜡中色素的“遮蔽”作用，也能让成品效果更加统一。</p>
-<p>因此，<strong>白蜂蜡是漂白的结果，而非自然的产物</strong>。一些商家刻意宣传自己的产品是“<strong>天然白蜂蜡</strong>”，可天然蜂蜡根本不是白色的！其行为就像创造“<strong>清真猪肉</strong>”这样的词汇一样荒谬！</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac3c4a43746d508a99d961d5afa4fe51_720w.jpg?source=8673f162" alt=""><figcaption>将一小块蜂巢放在铝箔上小心加热至熔化</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bd1304b9cc2f2ccd107675ec55fddd00_720w.jpg?source=8673f162" alt=""><figcaption>凝固后的蜂蜡会呈现明显的黄色，如果将熔化后的液态蜡过滤，凝固后颜色会更漂亮</figcaption></figure>
-<p>新蜂巢之所以看起来很洁白，是因为其中富含空气的缘故，其原理类似于“雪比冰更显白”。</p>
-<p>最后，很多人想要用蜂蜡自制润唇膏，其实非常简单，只需用一份蜂蜡，与 3 份食用油（我一般用<strong>葵花油</strong>）一起加热融化，有条件再加入一粒<strong>维生素 e</strong>（可加可不加），倒入唇膏管，等待自然冷却，就可以得到手工唇膏。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-df5e40036e4cad717bfb00467e5d5fe7_720w.jpg?source=8673f162" alt=""><figcaption>蜂蜡制作的蜡烛</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ba6e90fbee5e5d9c738f2fb421f45b11_720w.jpg?source=8673f162" alt=""><figcaption>用纯蜂蜡制作的蜡烛</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-427f8651e65f7a183924f9d262023c6b_720w.jpg?source=8673f162" alt=""><figcaption>用蜂蜡和植物油按照 1:3 的比例，自制的润唇膏</figcaption></figure>
-<p>蜂蜡具有明显的热胀冷缩现象，冷却凝固的润唇膏中间会形成自然的凹陷。</p>
-<p>这篇我写的回答，前半部分可以作为自制润唇膏的教程，需要的可直接收藏。</p>
-<p><a class="internal" href="https://www.zhihu.com/answer/1954168325706876636">在科普工作中，你遇到过哪些小温暖？</a></p>
-<hr>
-<p>延伸阅读：</p>
-<p><a class="internal" href="https://www.zhihu.com/answer/116022714612">互联网已经将绝大部分信息差抹除了，知识已经随处可以获得，为何大部分人依旧无法获得大幅突破？</a><a class="internal" href="https://www.zhihu.com/answer/2040022885448802593">蜜蜂为什么会聚集到荷叶上？</a></p>
+<p>发现一个非常有意思的现象：</p>
+<p>外国人吃火腿，一般是拿刀一片片切得极薄极薄，入口生吃，咸香、软嫩、越嚼越香；</p>
+<p>而到了中国，火腿基本上都要上锅——<strong>炖汤、烧菜、炒饭、煲粥</strong>，从来没有人敢生吃。同样是猪腿一条，为什么到了外国却吃得大相径庭？</p>
+<p>更夸张的事实是，有些西班牙火腿动不动就卖几十万元，而中国家常的<strong>金华火腿、宣威火腿</strong>很多时候是拿来“做菜提鲜”，吃法和价格都相差甚远。</p>
+<p><strong>甚至有的会认为，是“外国火腿更高级”，中国火腿只能老老实实当个配角？</strong></p>
+<p>其实不是这样。外国火腿和中国火腿，拼得不是谁更高级，而是<strong>标准、环境、工艺、吃法</strong>都不一样。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2649b5b784e0c80c76605acfe488f940_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>01、火腿最开始，压根不是为了“生吃”</strong></p>
+<p>先搞清楚一件事：这里说的<strong>火腿</strong>，不是火腿肠，是熏制过的猪腿。</p>
+<p>火腿这种东西，最早的出现不是为了好吃，为了<strong>保存食物</strong>。古代没有冰箱，肉类一旦稍不注意，很快就会坏掉。</p>
+<p>所以大家想方设法，要用盐<strong>腌制、风干、发酵</strong>等方法把肉存放起来。</p>
+<p>放久了，肉中的蛋白质、脂肪等慢慢发生变化，有了味觉反应，于是火腿就此成为老饕眼里的顶级食材了。</p>
+<p>在中国，“火腿”这名字大约在北宋时期才逐渐被命名。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-32836734d3b479f24e4ff5e5ffefff5d_720w.jpg?source=8673f162" alt=""></figure>
+<p>民间还有一个很有意思的说法，据传北宋名将宗泽带着浙江的咸肉回京，宋高宗赵构品尝后觉得火腿色泽鲜红、鲜香味美，赐其名“火腿”。</p>
+<p>这当然是传说，但可以看得出的一点是：中国火腿一出世，就是“熟成风味食物”，而不是为了抱着火腿直接生吃。</p>
+<p>而欧洲的火腿，像西班牙、意大利，也有自己的火腿文化，只不过发展路线，与中国的路子却差之天壤。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-1d5b634da5be58503adbd9f6c9450a5d_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>02、能不能生吃，是看安不安全</strong></p>
+<p>很多人一听到“生吃”，第一反应就是：<strong>这也行吗？</strong></p>
+<p>其实食物能不能生吃，不是看它“有没有过高温加热”，而是看它的微生物是否安全。说白了，就是这些<strong>细菌、病毒、寄生虫的东西，</strong>能不能控制得住。</p>
+<p>只要原料没问题、工艺没问题、发酵腌制得很好，很多食物都能生吃。</p>
+<p>比如说<strong>鸡蛋、鱼、肉，腌制、发酵过的食物</strong>，达到生产标准后完全可以“直吃的”。</p>
+<p>所以西班牙火腿可以生吃，不是它“熟不熟”，是因为西班牙火腿的制作工艺，本来就是按照“生吃级”的水平制作和熟成的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-34adb92c4fd63d02f73a548f053cd49c_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>03、外国火腿能生吃，靠的是环境和工艺</strong></p>
+<p>为什么欧洲更容易做出生食级别的火腿呢？</p>
+<p>核心原因有两个：<strong>环境适合发酵，工艺适合低盐熟成。</strong></p>
+<p>像西班牙、意大利许多火腿产区，气候偏干燥，特别是地中海地区气候，空气中湿度低、降水少，杂菌少。</p>
+<p>这种地方对火腿自然风干、缓慢发酵最有益。</p>
+<p>火腿在这种环境下，老成后非常安稳，不会老变坏，也不需要靠特别高的盐量去“硬保命”。</p>
+<p>所以你会发现，一些<strong>西班牙伊比利亚猪火腿、意大利帕尔马火腿</strong>非常高的品质的火腿，含盐量不算夸张，吃起来口感柔和，切薄了入口十分合适。</p>
+<p>但同时需要注意的是，<strong>不是所有欧洲火腿都可以生吃。</strong></p>
+<p>只有那种标明能生食、发酵时间够、工艺有标准的火腿才可以生吃。简单说，可以生吃的不是“所有外国火腿”，而是少数高标准产品。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-35e495dbdc66403192f8aaf522ee65c1_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>04、中国火腿为什么不能生吃？</strong></p>
+<p>再看中国。</p>
+<p>咱们的火腿主产地，比如浙江的金华、云南的宣威，气候条件跟欧洲非常不一样。它们一般都偏温暖、湿润，夏天是热而湿，冬天也很少干燥。</p>
+<p>而在这样一个气候条件下，如果照抄照搬<strong>欧洲的低盐、慢熟工艺</strong>的话，火腿很易发酵发霉、变质，风险太高。</p>
+<p>所以传统的中国火腿，必须用更高一些的盐分压住微生物，保证能存得住、放得久。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a1ede853252a397ac7edda6f14f3d176_720w.jpg?source=8673f162" alt=""></figure>
+<p>这也直接带来了另外一个结果：<strong>中国火腿盐分很重、肉很扎实、口感适合下厨房，不适宜直接切片生吃。</strong></p>
+<p>不少传统火腿的含盐量都不低，甚至高到离谱，你要是真的试图生吃一片中国火腿，大概率不是“鲜香”，而是“齁死”。</p>
+<p>其实不是中国火腿不能生吃，而是传统中国火腿，它的本分是拿来提鲜、吊味、增香，本来就不是拿来生吃的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b351421185bc1bbdf19dd5b8aedde94a_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>05、还有一个很现实的原因：中国人本来就不爱生吃肉</strong></p>
+<p>这个问题很重要。</p>
+<p>因为食品能不能做成某种样子，光有技术不行，还要看人们愿不愿意去接受。比如说在欧洲，生食肉类很可以算一个饮食习惯。</p>
+<p>从生火腿、生牛肉到生鱼片，有不少人对“生吃”的接受度很高，也形成一个很成体系的品鉴体系。</p>
+<p>但中国人的饮食习惯都强调一句话：<strong>熟食为安。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e30dcfa8681839066a4cd95b40eb015_720w.jpg?source=8673f162" alt=""></figure>
+<p>咱们长大的时候就教育：<strong>肉要熟透，菜要做熟，吃到肚子里才踏实。</strong>这样的饮食观念不是一时半会形成的，是一几千年的演变来的。</p>
+<p>所以中国火腿产生之后，绝不是朝“生吃”的方向设计的。</p>
+<p><strong>它可以说是一道风味食材：</strong>蒸了它香，炖了它更香；和别的菜做成一锅，吃的口感也就马上被激发出来了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-53fa297ace71d60fd42cd055e73b9172_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>06、不是谁更高级，而是谁更适合自己的吃法</strong></p>
+<p>所以看到这儿，答案其实也已经很清楚了：</p>
+<p>国外能生吃的火腿是按照生食标准做的；中国火腿是按照烹饪提鲜标准做的。</p>
+<p>前者，低盐、长时间发酵、干燥的环境、口感柔和；后者，高盐的防腐作用、风味极为集中、蒸煮吃菜。</p>
+<p>这不是谁比谁高级，而是定位不同。</p>
+<p>就像有的茶宜冲泡、有的茶宜煮；有的酒适合慢慢品，有的酒适合和菜一块吃。事情原本就没什么绝对的高下，只有适当与不适当。</p>
+<p>中国的火腿，如果真能用欧洲的这种标准做出来，未必还是我们眼中心心念念的那种味道。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-546874ac69033737e695b2307b6eff44_720w.jpg?source=8673f162" alt=""></figure>
+<p>别再莫名其妙地认为：<strong>外国火腿能生吃，就更“更高明”，中国火腿不能生吃，就“差一截”。</strong></p>
+<p>真相却正好相反。</p>
+<p>它们只是生长在不同气候里，遵循不同的制作逻辑，是不同的饮食习惯的产物。外国火腿是生食文化里的成熟形态，中国火腿是熟食文化里的味道担当。</p>
+<p>一个是适合切片生吃，一个是适合入锅提味。都好吃，只是方式不同。这才是火腿真正有意思的地方。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/266668858">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2042348064699143730">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790290</guid>
-                <pubDate>Mon, 08 Jun 2026 20:06:44 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790303</guid>
+                <pubDate>Tue, 09 Jun 2026 02:39:03 GMT</pubDate>
             </item>
             
             <item>
-                <title>日本为什么几乎没有鸭肉和鸭蛋？</title>
-                <link>http://daily.zhihu.com/story/9790298</link>
-                <description>赵学浩，东亚海域史/都市传说/未解之谜/太阳系第一帅 查看知乎原文 题主其实说的没错，现代日本人确实不怎么吃鸭蛋，鸭肉也吃得非常少。本质原因是明治维新前，日本人普遍不吃家养动物。 古代日本人吃的“鸭”（カモ）其实是几十种野鸭的总称，并非现在常见的家鸭（アヒル）。 日本人将鸳鸯称为“おしどり”区别开来，其他八种在古代都属于野鸭（カモ），评价最高的是其实是上中的“绿翅鸭”（コガモ），最常见的可能是左上…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-ce7efc8ac422d8ca8f8113070bead1b5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>市场上的假羊肉串是用什么冒充的？</title>
+                <link>http://daily.zhihu.com/story/9790306</link>
+                <description>天山赤玉，哎，朋友，我是一个新疆人，一个真正的新疆人，雄鹰一样的男人！ 查看知乎原文 唉朋友，我嘛，新疆人一个，汉族我是，疆二代我是 这个问题嘛，乌鲁木齐这个地方有意思的事情有过呢 一几年的时候，一群外地人来了 真正的外地生意人，小小的脑袋里狐狸一样鬼点子多的很 他们一个情况发现了，乌鲁木齐这个地方，满大街的烤肉，价格高，块大，但是这样的情况，不利于促销 于是他们一个主意有了 他们嘛，先是一样的肉…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-8341e1bf4d7eed21281580c7a1bb0d9d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -320,72 +219,88 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-727eddbae249efa92611180292220cd7_l.jpg?source=8673f162">
-<span class="author">赵学浩，</span><span class="bio">东亚海域史/都市传说/未解之谜/太阳系第一帅</span>
-<a href="https://www.zhihu.com/question/1946674190695506927/answer/2038747261631472830" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-f2a2023af510b2d16d5b153c628568d3_l.jpg?source=8673f162">
+<span class="author">天山赤玉，</span><span class="bio">哎，朋友，我是一个新疆人，一个真正的新疆人，雄鹰一样的男人！</span>
+<a href="https://www.zhihu.com/question/347587114/answer/2041308088200910048" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>题主其实说的没错，现代日本人确实不怎么吃鸭蛋，鸭肉也吃得非常少。本质原因是明治维新前，日本人普遍不吃家养动物。</p>
-<p>古代日本人吃的“鸭”（カモ）其实是几十种野鸭的总称，并非现在常见的家鸭（アヒル）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2e7c79a3b9550252938fc4489cf6055e_720w.jpg?source=8673f162" alt=""><figcaption>日本人将鸳鸯称为“おしどり”区别开来，其他八种在古代都属于野鸭（カモ），评价最高的是其实是上中的“绿翅鸭”（コガモ），最常见的可能是左上的“斑嘴鸭”（カルガモ）</figcaption></figure>
-<p>以前日本人吃的鸭肉荞麦面、南蛮鸭肉、鸭肉寿喜烧之类的，用的都是各种野鸭肉。而现在除了专门的野味店外，市面上用的几乎都是从中国大陆、台湾、巴西等地进口的家鸭肉，这和吃虹鳟鱼时大呼“三文鱼香啊，造啊”没什么本质区别。</p>
-<p>而早在弥生时代晚期，日本就已经出现“肉食禁忌”的萌芽。7 世纪后，随着律令制的确立、佛教的普及，以及稻作文化中对家畜等农业生产力进行保护的思想，日本天皇与公家贵族等统治阶层多次下令禁止肉食和狩猎。然而这些禁令其实只是“抑一时、捂一时”，并没多大实际作用。这种官方打压、民间该吃还吃的情况，一直持续到 1052 年才发生大规模转变。</p>
-<p>原来，古代日本人误算年份，认为 1052 年是释迦牟尼去世两千年、进入“末法”时代的节点。恰逢此时，日本出现大规模饥荒，武士阶层又开始长达数百年的相互征伐，社会动荡不安。从上到下，日本人普遍产生了一种“哎呀，此生再怎么虔诚修行，这辈子也没救了，还是指望下辈子投个好胎，或者干脆去西方极乐世界快活吧”的心态。因此，掌握宗教解释权的佛教僧侣势力大增，他们作为反对杀生、吃肉的主力，以宗教理由大力恐吓民众，宣称吃肉是污秽有罪的。</p>
-<p>农民之类容易被吓住，但日本武士却很难被彻底约束——他们成天打仗，不补充蛋白质根本不行，于是便一直找各种借口继续吃肉。中世时期，武士与僧侣双方达成了一种默契妥协：<strong>“吃四足兽类罪孽最大，吃两足的鸟类罪孽次之，吃没腿的鱼类罪孽最小”</strong>。武士们便以此为由大快朵颐。比较搞笑的例子是，日本把兔子的计算单位定为“羽”（和鸟一样），理由是“兔子耳朵形状像鸟羽，站起来也是两条腿，所以算是鸟，吃起来罪孽不太大”……</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1e8899e25e2f06fec941c3815efee361_720w.jpg?source=8673f162" alt=""><figcaption>你就说这是不是兔子吧（</figcaption></figure>
-<p>到了江户时代，宗教势力逐渐衰退，武士们带头自欺欺人，进一步发展出“吃家养的有罪、吃野生的没罪”，“吃体型大的家养动物有罪（牛马）、吃体型小的没罪（鸡犬）”的逻辑。而野鸭肉在当时的主要消费者正是武士阶层。</p>
-<p>像德川将军家甚至专门在江户附近圈出“鸭场”，仅用于将军的鹰狩，平民百姓不得染指，以示武士之威。直到 18 世纪中后期，法度松动，野鸭肉才作为高级食材，逐步出现在豪商聚会的料亭菜单上，到 19 世纪中期，价格才勉强降低到一般人咬牙消费的起的地步。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0136f35e7e7b45268426ba1f91f36df0_720w.jpg?source=8673f162" alt=""><figcaption>江户风格的煎鸭肉</figcaption></figure>
-<p>根据 1984 年对东京大学校园内大圣寺藩前田家屋敷遗迹的考古发掘，厨余垃圾中的禽类骨骼里，80%属于鸭科，10%为雁科（鹅的近亲）。此后对仙台藩伊达家、会津藩松平家的类似考察也显示，鸭科与雁科骨骼合计占禽类骨骼的 86.6%以上。这些藩的藩主大多拒绝食用家鸡肉，只吃野鸭和大雁等野生鸟，因此鸭肉在其饮食中占比极高。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c7e66552c6cfc8694de95e0fd82625fc_720w.jpg?source=8673f162" alt=""><figcaption>江户时代至今日本人最常吃的四种野鸭：绿翅鸭、绿头鸭、针尾鸭、斑嘴鸭。一般以食谷、食素的野鸭为上品。</figcaption></figure>
-<p>相比之下，尾张藩德川家的厨余垃圾中，家鸡骨骼占禽类骨骼的 62%，野鸭和大雁仅占 21%。尾张藩对儒家思想更为热衷，藩主大力推广饲养肉用军鸡和肉用鹌鹑，导致对野鸭的需求大幅下降。鸡因为能报时，日本贵族即使不吃，也会像“成功男士的名表”一样，为了显摆而养一堆，找种鸡自然不难；鹌鹑则是日本人最早驯化的禽类之一，自古便有食用习惯，推广起来相对容易。</p>
-<p>而家鸭（アヒル）自从在中国被驯化以来，就是纯粹的食用动物。在化纤衣服制造之前，鸭毛鸭绒作用甚微，加上古代日本人又因宗教禁忌不吃家养动物，养家鸭几乎毫无用处。</p>
-<p>因此，尽管早在 13 世纪前，日本就可能通过宋日贸易，从中国南方引进了驯化的绿头家鸭（青首アヒル），也仅限于镰仓等关东上层武士在庭园里当作玩赏鸟，或像欧洲柯尔鸭那样用作打猎时的诱饵鸭，并未考虑食用。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-468f612be3a7c3abdee590ff8a3015bc_720w.jpg?source=8673f162" alt=""><figcaption>左：野生绿头鸭；右：绿头家鸭</figcaption></figure>
-<p>直到 18 世纪，各藩汉学家研读中国农书，才发现中国人早已在实行“鸭稻共生”这种先进的生产方式——水稻生长期间放牧鸭群吃杂草和害虫，稻穗快成熟时再把鸭群圈养育肥食用。</p>
-<p>没有鸭种怎么办？有的藩从关东买来玩赏用的家鸭繁殖，有的则让农民捕捉绿头鸭（家鸭祖先）剪羽后放在田里。这类家鸭、野鸭乃至杂交后代，被统称为“合鴨”或“間鴨”（あいがも）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9cd03b87c6f681ffe490356e4d4a4f23_720w.jpg?source=8673f162" alt=""><figcaption>鸭稻共生</figcaption></figure>
-<p>结果，汉学家们尴尬地发现：农民根本不吃这些“合鸭”，武士和商人也宁可高价购买野鸭。因为在古代日本人看来，鸭子一旦为农民除虫除草，就变成了“役用动物”。干活越多的役用动物，在他们眼里肉越污秽，这怎么能吃呢？</p>
-<p>总体而言，在食用禽肉远多于兽肉的江户时代，几十种野鸭几乎占据了除鱼类之外日本肉食业的半壁江山。但说到家鸭，其地位还要排在麻雀、斑鸠之后。一直到明治维新后，天皇与维新政府带头推行“国家神道”，取代佛教的宗教主导地位，并要求神官、僧侣带头吃肉，日本民众才大规模开始食用家养动物。日本超市里即便是在卖家鸭肉，也常被称为“合鴨”，其实就是这种役用家鸭肉传统的延续。</p>
-<p>由于大阪是商业都市，又靠近盛产野鸭的琵琶湖，明治维新后长期成为养鸭业中心，并引入中国品种与本地“绿头家鸭”杂交，培育出白色的“大阪家鸭”。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7243214347b1efbbac2786cf6366a7f6_720w.jpg?source=8673f162" alt=""><figcaption>1897 年，川合玉堂《家鸭》</figcaption></figure>
-<p>不过总体来说，日本的家鸭养殖业因起步太晚，一直不算发达。基本都是农户零星饲养，据说 1928 年日本全国共有 4.9 万户农民养鸭，但成鸭总数仅 25.3 万只，仅以农副业形式存在。</p>
-<p>当时有人试图在东京的江户川一带大规模养鸭，但是江户川有着许多染厂，需要清洁的水源；大规模养鸭带来的粪便污染问题，导致染厂方控诉，东京的养鸭业也随之告吹。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a79c8b73bce0632fcc74207fda3b4326_720w.jpg?source=8673f162" alt=""><figcaption>二战日本国内食品管制期间，森永制果都得改卖雏鸭了（</figcaption></figure>
-<p>到了二战后，为了改善百姓饮食，日本农协主导的家鸭养殖曾出现过短暂扩张，但随着经济高速发展期“先污染再治理”的模式，公害问题严重，日本人对“囊括元素周期表”的淡水养殖的水生动物的食品安全，抱有强烈怀疑，严重抑制了养鸭业的进一步发展。</p>
-<p>而八十年代公害得到有效抑制后，却随着美国式大规模养殖技术和冷链物流普及，巴西、泰国、匈牙利、中国等地工厂化养殖提供了更廉价、稳定的货源，日本本土家鸭肉很快就被进口产品压制。以至于日本市场上流通的“合鴨”，八成是从国外引进的“樱桃谷鸭”（チェリバレー種，英国人改良的北京鸭）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ad61c19e9abbb5835b01d3f3018a98c_720w.jpg?source=8673f162" alt=""><figcaption>在日本稻田里冒充传统合鸭的樱桃谷鸭</figcaption></figure>
-<p>需要指出，在国外，鸭肉往往比鸡肉更贵，而在中国却相对便宜。这主要是因为上世纪七八十年代，不跑毛的化纤羽绒服普及，加上化学脱腥技术的进步，鸭绒鸭毛成为鸭子的主要产出，鸭肉反而成了副产品。等到羽绒服作为“美军黑科技”进入日本千家万户时，日本养殖户大多已经放弃养家鸭，转向其他副业。</p>
-<p>现代日本人偶尔吃鸭肉、鸭蛋，多半是在中华料理店点北京烤鸭（北京ダック）、皮蛋，或在居酒屋吃鸭肉串、鸭肉锅，真正把家鸭当成日常食材的家庭属极少数。</p>
-<p>笔者个人询问过周边几位日本同事，二十岁出头的同事全都从未吃过鸭蛋，一年可能只吃一两次鸭肉。</p>
-<p>五六十岁的副主任是个老饕，问他吃不吃“野鸭肉”（カモ肉），他一开始还以为我要请客，说是不是太过破费；后来发现只是提问，便说有就会吃；问他吃不吃“家鸭肉”（アヒル肉），他立刻回答“没有吃过”。后来他又自称常吃“北京烤鸭”……在我提醒下，他这才突然意识到，北京烤鸭用的正是家鸭肉……</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ffeee820a16375c9370f66dec418dc41_720w.jpg?source=8673f162" alt=""><figcaption>鸭南蛮荞面</figcaption></figure>
-<p>这似乎与上世纪七八十年代日本养鸭业走向下坡路时，农家把家鸭雏鸟当作宠物售卖给日本小朋友的做法有关。因此就出现了类似“吃不吃小乌龟？‘不吃！’吃不吃龟苓膏？‘吃！’”式的认知割裂。</p>
-<p>总之，鸭肉与鸭蛋在当代日本肉食中的边缘地位，是从古代肉食禁忌、到现代全球供应链等多重力量共同塑造的结果。</p>
-<p>日本的这种“野优于家”的偏好，在东亚可以说独树一帜。以至于即使面对同一种鸭子，日本人也要用“カモ”与“アヒル”两个名字，把它分成两个世界。</p>
-<p><strong>其他相关答案：</strong></p>
-<p><a class="internal" href="https://www.zhihu.com/question/665326696/answer/27255585670">为什么中国的狐狸精喜欢偷吃鸡，日本的狐狸精喜欢偷吃油豆腐?</a></p>
+<p>唉朋友，我嘛，新疆人一个，汉族我是，疆二代我是</p>
+<p>这个问题嘛，乌鲁木齐这个地方有意思的事情有过呢</p>
+<p>一几年的时候，一群外地人来了</p>
+<p>真正的外地生意人，小小的脑袋里狐狸一样鬼点子多的很</p>
+<p>他们一个情况发现了，乌鲁木齐这个地方，满大街的烤肉，价格高，块大，但是这样的情况，不利于促销</p>
+<p>于是他们一个主意有了</p>
+<p>他们嘛，先是一样的肉，不一样大小，然后嘛，降价</p>
+<p>本地人也降价，但是阿达西们，大小还是原来的大小</p>
+<p>然后嘛，他们就他们就开始换肉，各种各样的肉用</p>
+<p>然后嘛，本地人还是老老实实羊肉</p>
+<p>唉朋友，新疆这个地方，肉是必需品，满大街的烤肉店，维吾尔也吃，哈萨克也吃，汉族也吃，都吃的呢</p>
+<p>进嘴巴的东西，进肚子的东西，胡里吗汤的事情不搞</p>
+<p>他们的肉嘛，来源太复杂的很，都被出吃来了，你再多的添加剂，肉的灵魂不一样的东西</p>
+<p>嘴里面舌头知道呢，肚子里面胃知道呢</p>
+<p>新疆这个地方，平时人幽默的很，但是你在肉上面开玩笑，新疆人要在你的后堂开大玩笑呢</p>
+<p>闹事的情况太多的很，一口就知道了朋友</p>
+<p>最后嘛，这群外地人老实了，，他知道这个地方人别的本事没有，嘴巴太唠叨的很，吃肉的本事有呢</p>
+<p>他们嘛，卖烤肉的时候，不说烤羊肉，只说烤肉，但是他们的肉嘛，牛肉！</p>
+<p>唉朋友，羊肉烤出来缩水厉害的很，羊肉油比牛肉大</p>
+<p>牛肉那个东西，也可以烤，但是要佐料腌一下，直接烤的话，干了以后，硬的很，牛肉还一个特点有呢，就是现在多大，烤出来，基本还是多大。</p>
+<p>就是这样的情况下，新疆人还是不愿意</p>
+<p>好多人店里面直接闹呢</p>
+<p>唉，你啥事情搞的呢，这个啥肉这是</p>
+<p>吼的呢</p>
+<p>然后，这群人彻底老实了</p>
+<p>然后现在嘛，一部分馆子里面，一样价格的烤肉，不一样大小，还要写清楚，这个大的，牛肉，这个小的，羊肉。</p>
+<p>但是阿达西的店里面，基本上清一色羊肉，牛肉他们好好的不吃</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-750df5b2069445e2b516552291690fba_720w.jpg?source=8673f162" alt=""></figure>
+<p>颜色浅的，羊肉，颜色深的，牛肉</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c64b62139dc6b931a95e69a465d0032e_720w.jpg?source=8673f162" alt=""></figure>
+<p>颜色浅的，粉粉的，真正的羊肉</p>
+<p>颜色深的，深红的，腌过的牛肉</p>
+<p>你现在看起来一样大，烤出来以后，牛肉一点点变小</p>
+<p>羊肉现在的一半</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-946e77d1b6de99cb50c7a278cef0e1fa_720w.jpg?source=8673f162" alt=""></figure>
+<p>阿达西做烤肉的习惯，羊直接挂出来，一边切一边串，慢慢卖</p>
+<p>新疆这个地方，烤肉真正的特别关键的地方，竞争特别激烈的地方</p>
+<p>全国各个地方的肉都来过，都走了</p>
+<p>什么手把肉，烤串，这样那样的做法</p>
+<p>最简答的做法，好好地羊，好好的串，看好火，放好作料，就是好肉</p>
+<p>心里面干净一点，肉嘛，就好吃一点</p>
+<p>心里面啥样子的想法都有呢，肉嘛，啥样子的味道都出来了</p>
+<p>祝所有的朋友</p>
+<p>真正的羊肉多多的吃！</p>
+<p>开心的酒多多的喝！</p>
+<p>最后一个失传的照片给你们放，特别可惜的吃的东西，城市拆迁的时候，师傅不见了</p>
+<p>这样子的做法，没有了</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9c274a19064ae3ee033f5c354e4cff04_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d04ccde85190864a0a08d2d2aa94e1e7_720w.jpg?source=8673f162" alt=""></figure>
+<p>海陆空烧烤</p>
+<p>一米多长的铁盘子，直接一个大大的土路子里面放，柴火嘛，用的果木</p>
+<p>这个盘子里面，天上的地上的水里面的都有呢，所以叫海陆空</p>
+<p>一条鱼，羊肉，鸡肉，然后还有土豆，红薯，辣椒，馍片。</p>
+<p>这个东西嘛，必须烧柴火，原来的时候一条街全部这个菜卖</p>
+<p>后来修路，拆掉了，然后嘛，柴火不让烧，师傅全部不见了</p>
+<p>我对这个海陆空的想念，哦吼哎，初恋可以没有，这个真的太想念</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1946674190695506927">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/347587114">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790298</guid>
-                <pubDate>Mon, 08 Jun 2026 20:06:45 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790306</guid>
+                <pubDate>Tue, 09 Jun 2026 02:39:14 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9790300</link>
-                <description>瞎扯 · 你见过最不会点菜的人是什么样子的？ 知乎日报 Q：你见过最不会点菜的人是什么样子的？ @画阁 ：和老板去拜访一个老师，然后中间老板让我点一些下午茶 过了一会把外卖送进去，老板突然冲出来，以一种不可思议的语气问我，大哥，你给 90 岁老头喝冰美式？ Q：有什么你从未见过的稀有照片？ @一叶知了个秋 ：过年在老家，儿子在砖头上坐着，我侄女在下面烧火…... Q：体育比赛中出现过哪些「世界名画…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <link>http://daily.zhihu.com/story/9790308</link>
+                <description>瞎扯 · 你们小时候做过什么，被家里打得半死？ 知乎日报 Q：你们小时候做过什么，被家里打得半死？ @Akon ：小时候，我妈一发现家里的钱变少了，就开始打我，当然他们也没打错！ Q： 你最喜欢的一幅经典名画是哪幅？ @喵的奏鸣曲 ：法国艺术家 Leo Forest 的猫猫发疯图，太有灵魂了… Q：工业克苏鲁到底有多可怕？ @那么纳尼 ：美团共享单车出了一个带减震的山地车，贼好骑，，， Q：公牛插…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-e76ba6113433ae53ebeb282f7c4e2e5d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -399,48 +314,37 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 你见过最不会点菜的人是什么样子的？</h2>
+<h2 class="question-title">瞎扯 · 你们小时候做过什么，被家里打得半死？</h2>
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-5f48606d38aa247a3ba8ce568de2c607_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-5f48606d38aa247a3ba8ce568de2c607_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/40739580/answer/1947750423780896908" target="_blank">你见过最不会点菜的人是什么样子的？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/662e1d35a882fc628959b0e51dd7193e" target="_blank">@画阁</a></div>
- ：和老板去拜访一个老师，然后中间老板让我点一些下午茶 过了一会把外卖送进去，老板突然冲出来，以一种不可思议的语气问我，大哥，你给 90 岁老头喝冰美式？</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/376634565/answer/2016966053037646963" target="_blank">有什么你从未见过的稀有照片？ </a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ecfa06cfc04f69713d2b72194726a13c" target="_blank">@一叶知了个秋</a></div>
- ：过年在老家，儿子在砖头上坐着，我侄女在下面烧火…...</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-a57d1ce4c7be281f2b0c895e4aea2906_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1941094662753476659/answer/1943862265259459109" target="_blank">体育比赛中出现过哪些</a>「<a class="internal" href="https://www.zhihu.com/question/1941094662753476659/answer/1943862265259459109" target="_blank">世界名画</a>」<a class="internal" href="https://www.zhihu.com/question/1941094662753476659/answer/1943862265259459109" target="_blank">？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/2e80a4c7061269669b73d209df9ca174" target="_blank">@追疯的麻瓜</a></div>
- ：怎么能没有这张呢，鏖战 90 分钟的世界名画</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-8fe7d3c18b969ca74f3f70a4181b1eaa_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1941154755620611466/answer/1951345089986135176" target="_blank">钓鱼佬最接受不了什么？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fe42c741d4011eccb9a2b218f2814655" target="_blank">@长夜难明</a></div>
- ：地大物博的中国，居然会有些河里跟湖里连一条鱼都没有，生态环境恶劣到如此地步，希望有关部门重视起来</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/556198390/answer/2010855203772048166" target="_blank">你在生活中见过的最牛的对联是什么？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/7a27be4c2e294bd14c1991324171b06e" target="_blank">@高小胖</a></div>
- ：前几天逛的时候随手拍的，福建这个地方还是有说法</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-d848089282651365f21f03ce2f4b6913_1440w.jpg" alt="" width="720"></div>
-<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/612871095/answer/2018122329968916191" target="_blank">你们小时候做过什么，被家里打得半死？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/472b3dd86bbb4786f93e3344772f0d1b">@Akon</a> ：小时候，我妈一发现家里的钱变少了，就开始打我，当然他们也没打错！</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/25405208/answer/2020835287043983263" target="_blank"> 你最喜欢的一幅经典名画是哪幅？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/867905b22bc1bf5000add912f18d065c">@喵的奏鸣曲</a> ：法国艺术家 Leo Forest 的猫猫发疯图，太有灵魂了…</blockquote>
+<figure><img class="content-image" src="https://pic2.zhimg.com/v2-74308fe76c70bb4ced318458352b7349_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-53cff1b4c052d21676e0c61f08ea44dd_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1971004090734589582/answer/2019325014940365495" target="_blank">工业克苏鲁到底有多可怕？ </a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/ea1a3fa816eabbda112b8535ce749bec">@那么纳尼</a> ：美团共享单车出了一个带减震的山地车，贼好骑，，，</blockquote>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-84179bbc9fa02c8d82e1a0752bbf2326_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/20658677/answer/2018722924647989654" target="_blank">公牛插座为什么要用异型螺丝？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/34a16c19805e084716aa3ba39d7de7fd">@msh</a> ：能找到异形螺丝刀或者能拧开这个的人一般都懂点民用电。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/541462082/answer/2018207719031613075" target="_blank">你见过哪些神级翻译？</a></p>
+<blockquote><a class="member_mention" href="https://www.zhihu.com/people/997c809bd260014b57d81c574056ce57">@知乎霰弹枪</a> ：乐了一晚上，都失眠了。<br>还得是东北话</blockquote>
+<figure><img class="content-image" src="https://pic3.zhimg.com/v2-6c4d98838ea41c2469adeee6ef604fb8_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3dec419594b3d207d9bb58ec379d33fd_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c92657c44b632350b4e02c92a73ee961_1440w.jpg" alt=""><figcaption> </figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b4a2f8b580124ac59baee14d3d3f636a_1440w.jpg" alt=""><figcaption> </figcaption></figure>
 <hr>
 <p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
+<p><a class="internal" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0">扯点好笑的</a></p>
 
-<div class="view-more"><a href="https://zhuanlan.zhihu.com/p/2042336268219049269">查看知乎讨论</a></div>
+<div class="view-more"><a href="https://zhuanlan.zhihu.com/p/2042344668453754424">查看知乎讨论</a></div>
 
 </div>
 </div>
@@ -449,8 +353,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9790300</guid>
-                <pubDate>Mon, 08 Jun 2026 20:06:46 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9790308</guid>
+                <pubDate>Tue, 09 Jun 2026 02:39:15 GMT</pubDate>
             </item>
             
     </channel>
