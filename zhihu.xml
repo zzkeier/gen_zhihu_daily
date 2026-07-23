@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Wed, 22 Jul 2026 19:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 02:12:23 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>BBC 报道英国女子在印度旅行后脑子长 38 只寄生虫，这么多寄生虫哪来的？有彻底消灭它们的办法吗？</title>
-                <link>http://daily.zhihu.com/story/9791339</link>
-                <description>剁椒鹿，全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆） 查看知乎原文 首先，感染的不是 38 种不同的寄生虫，而是 38 只猪肉绦虫。 非常绷不住的是，该英国女子显然对这次印度之旅是有点准备的，她怀疑肉可能会有问题，所以她当年去印度三个月的时候基本上全程吃素。 但是显然准备少了。 没想到厨师不讲武德，便后不洗手。 到最后她不仅感染了吃病猪肉会感染的猪肉绦虫，还感染了直接吃“屎”会感染的…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6a8a65f68d0fcee21c2ba74ce840eff8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>人体能接受的安全电压是不高于 36V，那如果多了 0.001V 会怎么样？</title>
+                <link>http://daily.zhihu.com/story/9791373</link>
+                <description>野狸子，形而上学 查看知乎原文 友情提醒一下，题主你关于 36V 是人体能接受的安全电压这个想法，很危险。 而且要比多了 0.001V 这个方案危险得多。 人体触电机理分析 回答这个问题前，首先要明确一个前置问题，电死人的是电压还是电流？ 需要明确的是，人触电的本质是持续的高电流作用于人体，对人体的器官做功。 划重点，电流是直接电死人的元凶，电压是产生危险电流的必要条件，人体电阻回路促成一切的前提…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7216220b829ff3441dc2f75e54ac36c0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,78 +31,196 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-cced0971af5ad0397022d2c464800995_l.jpg?source=8673f162">
-<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/2056373604556562637/answer/2056837857877161830" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-23a5ac848ef7c6e98ed157c37ef33b6c_l.jpg?source=8673f162">
+<span class="author">野狸子，</span><span class="bio">形而上学</span>
+<a href="https://www.zhihu.com/question/328588613/answer/2048771439512269144" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>首先，感染的不是 38 种不同的寄生虫，而是 38 只猪肉绦虫。</p>
-<p>非常绷不住的是，该英国女子显然对这次印度之旅是有点准备的，她怀疑肉可能会有问题，所以她当年去印度三个月的时候基本上全程吃素。</p>
-<p>但是显然准备少了。</p>
-<p>没想到厨师不讲武德，便后不洗手。</p>
-<p>到最后她不仅感染了吃病猪肉会感染的猪肉绦虫，还感染了直接吃“屎”会感染的囊虫病，还跑到脑子里面去了（神经囊虫病）。</p>
-<p>事情真是这样吗？同一种寄生虫引起的绦虫病和囊虫病到底有什么区别？</p>
-<p>这还得从猪肉绦虫的生活史说起。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f6151c059fbe5c9bd9a12db86017413a_720w.jpg?source=8673f162" alt=""></figure>
-<p>猪带绦虫的中间寄主是猪，终宿主是人。</p>
-<p>人排出虫卵，然后如果粪便污染了猪的食物，被猪吃下去，猪吃了以后虫卵在身体里发育成幼虫（囊尾蚴），人类吃了带有这些幼虫的猪肉后在体内继续发育，猪带绦虫雌雄同体，一旦在体内寄生后就不会不断生长出新的节片，<strong>同一条虫不同节片之间可以受精</strong>，也可以<strong>同一节片内自体受精</strong>；如果肠道里有多条虫，也可以互相交叉受精。受精之后，后方节片逐渐装满虫卵，变成<strong>孕节片</strong>。</p>
-<p>孕节片成熟后会脱落随粪便排出。</p>
-<p>以此循环。</p>
-<p>但是这里有个问题，如果人直接截胡吃屎，也就是吃了被虫卵污染的食物，那么猪带绦虫就迷茫了，它们找不到自己在猪里面的位置，就会乱窜，去身体各个部位，肌肉甚至中枢神经。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7e3f1d8595b2adc982e4d3515e8b3444_720w.jpg?source=8673f162" alt=""><figcaption>一名 10 岁男孩囊虫病病例：脑实质以及几乎所有躯干和四肢肌群内都有广泛分布的囊性病灶</figcaption></figure>
-<p>相对来说，吃米猪肉（含幼虫）感染的猪带绦虫还比较稳定，一般都停留在肠道，不会乱跑，但是直接吃虫卵感染的就比较危险了，有可能入脑成为神经囊虫病，抽搐、癫痫甚至死亡都有可能。</p>
-<p>当然如果是吃猪肉感染的猪带绦虫也有可能在长期排虫卵的情况下不小心碰到自己的粪便，然后再污染了食物，比如生菜之类的生吃的食材，又或者直接不洗手吃东西，都有可能感染虫卵，变成囊虫病。</p>
-<p>所以啊，这个英国女子自己比较大意。在去印度三个月回去后，开始排出一米长的绦虫成虫的时候，没有得到有效治疗，因为诊所粪检没看见寄生虫，患者本人居然就这么算了……没有进行彻底的治疗。</p>
-<p>所以导致后续囊虫病。</p>
-<p>当然也有可能是该女子在印度同时吃到了米猪肉和被虫卵污染的食物，被感染了绦虫病和囊虫病，毕竟印度厨师不洗手，水源污染这种情况都是有可能的。</p>
-<p>但是按照女子的病程，先排出成虫后一年后开始头痛等症状，大概是先感染的绦虫病然后生活不小心感染的囊虫病。</p>
-<p>所以啊，咱们说饭前便后勤洗手真不是害你，而是长期和绦虫等寄生虫抗争的经验教训。</p>
-<p>毕竟人感染猪带绦虫时间真的非常的长，可能在驯化猪之前。</p>
-<p>不过驯化猪后，早期人类不太卫生的生活习惯也可能助长了猪带绦虫的这种生活习惯。</p>
-<p>比如我们古代给猪吃屎。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7c77b2b809ab847a028304ad4be032eb_720w.jpg?source=8673f162" alt=""></figure>
-<p>古代陪葬品里有不少这种陶猪圈。</p>
-<p>人住在最上面，中层架厕所，下面圈肥猪，粪坑与猪圈相通。</p>
-<p>人吃饭后的排泄物落下去，一部分被猪取食，一部分和猪粪尿、垫草、谷壳、圈土混在一起，被猪反复踩踏，最后变成溷中熟粪，回到田里，田里稻米再喂给人吃，如此循环往复。</p>
-<p>圂这个字就能直接看出来了。</p>
-<p>圈里面有个猪，但是却有厕所的意思。</p>
-<p>因为古代很多猪圈就是厕所，也有连茅圈的说法。</p>
-<p>当然现在疾控中心不让这么养了，因为吃人粪便容易感染寄生虫，比如绦虫的卵。然后再传播给人类。</p>
-<p>除了寄生虫外也这样养猪确实也很不卫生。</p>
-<p>现在吃屎的活交给鱼了，图中蚕沙就是蚕粑粑，算是另一种生态循环。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6b18393cf1ffbc5c0c3e58b7ad262612_720w.jpg?source=8673f162" alt=""></figure>
-<p>至于治疗方面，对于这位英国女士这种长期感染的情况，治疗还真得小心，抗癫痫和抗炎得同步跟上。</p>
-<p>因为曾经有这样的案例，吃了打虫的药后症状反倒加重了。</p>
-<p>因为活囊尾蚴在脑内时为了不被宿主检测到，它们往往不作妖。它们有囊壁，能释放一些免疫调节分子，让周围炎症反应不一定很强。影像上常见的是囊泡样病灶，周围水肿可以不明显。</p>
-<p>当囊尾蚴自然死亡，或者被阿苯达唑 / 吡喹酮杀死时，囊壁破坏，尸体分解。这些成分对人体来说就是强烈的外来抗原。</p>
-<p>于是局部出现免疫细胞聚集、血脑屏障通透性增加、血管周围炎症、胶质细胞反应，影像上就会出现环形强化、周围水肿，临床上可表现为头痛、癫痫、局灶神经症状，严重时可加重颅内压。</p>
-<p>所以在做绦虫治疗的时候，经常配合一些抗炎的治疗。</p>
-<p>总之，大家对这个不用过于担心，米猪肉检疫的时候就被踢出去了，不会进入市场，正规检疫的猪肉不会出现这种问题。</p>
-<p>我们国家跟发达国家类似，猪带绦虫感染率已经大幅下降，2015 年全国人体重点寄生虫病调查显示，猪带绦虫加权感染率约 0.06%，推算感染者约 37 万，流行区已显著缩小<strong>。</strong></p>
-<p>而且更常见于<strong>西南、西部、部分西北及少数民族聚居地区</strong>，与散养猪、旧式厕所、人畜共居，以及某些地区的生食、半生食肉类和内脏习惯密切相关。</p>
-<p>现在规模化养殖场及时清理粪便，猪舍和人的厕所分流，猪舍较为整洁，这些都能避免猪肉绦虫的感染链条。</p>
-<p>所以吃超市肉的城市居民不用太担心。</p>
+<p>友情提醒一下，题主你关于 36V 是人体能接受的安全电压这个想法，很危险。</p>
+<p>而且要比多了 0.001V 这个方案危险得多。</p>
+<p><strong>人体触电机理分析</strong></p>
+<p>回答这个问题前，首先要明确一个前置问题，<strong>电死人的是电压还是电流？</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cf850ae925cf45130afc312b3620cf10_720w.jpg?source=8673f162" alt=""></figure>
+<p>需要明确的是，<strong>人触电的本质是持续的高电流作用于人体，对人体的器官做功。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fe1af374f0e83cf6b55ce474499aeb4a_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>划重点，电流是直接电死人的元凶，电压是产生危险电流的必要条件，人体电阻回路促成一切的前提。</strong></p>
+<p>当人体接触带电体时，人可以被等效为一个阻性器件接入电路，触电做功的效果嘛，焦耳有个公式，题主高中应该学了，可以参考下。</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=Q+%3D+I%5E2+Rt" alt=""></p>
+<p>很明显，电流对人体的触电效果，<strong>和触电电流、人体电阻和触电时间都有直接关系。</strong></p>
+<p>一次成功的触电会导致人体器官功能被破坏，比方说引发心室颤动、组织灼烧的等等致命伤，导致人猝然升华。</p>
+<p><strong>我们先谈电阻。</strong></p>
+<p>人体触电时，其电流通路一般为，<strong>皮肤→体内→皮肤的回路。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-bdf0a784d22d00a8680ca1257786f704_720w.jpg?source=8673f162" alt=""><figcaption>相关机构典型人体电阻值</figcaption></figure>
+<p>而人体电阻是皮肤电阻和体内电阻由两部分组成。</p>
+<p>体内电阻是基本稳定，其值一般在在<strong>500Ω左右</strong>。</p>
+<blockquote>冷知识：<strong>脂肪的电阻率</strong><em>ρ</em>脂肪约为<strong>1000–3000Ω·m</strong>，远高于肌肉电阻率<em>ρ</em>肌肉的<strong>1–10Ω·m。</strong><br><em>R</em>体内​=<em>ρ</em>脂肪​*L/<em>A</em>脂肪​+<em>ρ</em>肌肉​⋅<em>L/A</em>肌肉​<br><strong>对胖子来说，其体内电阻值<em>R</em>体内​要更大一些。</strong></blockquote>
+<p>影响皮肤电阻的变量则要多一些，主要取决于皮肤表面的干燥还是湿润，是否有破损，还与人体的接触电压有关，波动较大。</p>
+<blockquote>在干燥、良好接触条件下，典型估算值常在 1.5kΩ - 2.5kΩ 左右。<br>在潮湿、破损皮肤或较高电压导致皮肤击穿的情况下，电阻可能降至 500Ω 或更低。</blockquote>
+<p>回到那个粗略计算的公式<em>，R 皮肤=ρ</em>皮肤​*L/<em>A 皮肤。</em>​</p>
+<p>一般来说，环境越潮湿（<em>ρ</em>皮肤↓）、皮肤越薄（L↓）、接触面积越大（A 皮肤↑，分母增大→R↓）接触电压越高（直接击穿皮肤了），皮肤的电阻越小。</p>
+<blockquote>冷知识，女性皮肤角质层较薄，也就是皮肤薄，所以女性的皮肤电阻会更低一些，<strong>触电阈值更低一些。</strong></blockquote>
+<p>考虑到人体触电总电阻，<em>R</em>总​=<em>R</em>皮肤​+<em>R</em>体内​+<em>R</em>皮肤​</p>
+<blockquote><strong>再来一个冷知识，胖子和瘦子谁更耐电？？？</strong><br>皮肤干燥的时候，其<em>R</em>皮肤​是 KΩ级别，占<em>R</em>总的比例达到 90%以上，前面也提到了，触电时胖子虽然<strong><em>R</em>体内</strong>要大一些，比例会更低一些，但是整体来看，胖子瘦子被电时的触电效果差异可能微不足道。<br>（同理，女性的体脂率虽然高，但是由于皮肤电阻较男主的皮肤电阻低很多，女性触电阈值更低一些。）<br>但是潮湿的时候，<em>R</em>皮肤​仍占主导，但是占<em>R</em>总比例下降很多，大概为 60%，触电时，胖子的<strong><em>R</em>体内</strong>权重会大一些，此时胖子被电时的似乎看起来会更加安全一些，但是胖子四肢粗壮啊，<strong>皮肤接触面积更大，</strong><em>R</em>皮肤​也会大大减少，看起来也不是很安全。<br>至于谁更安全，不好说，要看胖子的接触面积和皮下脂肪的了，除非天赋异禀，胖子要更危险一点。</blockquote>
+<p>朋友们，看来还是要减肥。</p>
+<p>扯远了。。。。</p>
+<p>收回来，在电气安全设计和标准制定时，通常采用一个较低的保守估算值，并考虑到皮肤可能破损或潮湿的情况，以确保安全，<strong>人体电阻一般按照 1000-2000Ω考虑。</strong></p>
+<p><strong>再看电流。</strong></p>
+<p>上面说到，人体触电时其电流通路一般为，<strong>皮肤→体内→皮肤的回路。</strong></p>
+<p><strong>这个体内的通路就包括脏器，</strong>其中电流流经大脑、心脏、肺的情况最为危险。</p>
+<p><strong>交流电触电，</strong>会引起肌肉持续收缩，触电者紧握电源无法松开</p>
+<p>不同电流对人体的影响如下，主要分为三种级别，以 50Hz 交流电触电为例：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c1eca4c4217c0e9ce8c7b36f326f19c3_720w.jpg?source=8673f162" alt=""></figure>
+<blockquote><strong>感知电流：</strong>引起人的感觉的最小电流称感知电流，人接触到这样的电流会有轻微麻感。一般成年男性平均感知电流有效值为 1.1mA，成年女性会更加敏感大概是 0.7mA。（前面提到，女性电阻小）<br><strong>摆脱电流：</strong> 加大剂量后，触电之后手还能自己松开的极限的最大电流称为摆脱电流，一般成年男性平均摆脱电流有效值为 16mA，成年女性约为 10.5mA，儿童要再打个折.<br><strong>致命电流：</strong> 在较短时间内危及生命的电流，称为致命电流。电流达到 50mA 以上，就会引起心室颤动有生命危险，100mA 以上的电流就足以致死。</blockquote>
+<p><strong>针对常见的 50Hz 工频交流电，</strong>国际电工委员会（IEC）基于大量生理实验数据，综合考虑了人体电阻波动、皮肤干湿状态、电流路径等因素得出的电流安全阈值，差不多是<strong>30mA。</strong></p>
+<p>PS，电流频率不同，对人体的伤害程度也不同，25-300Hz 的交流电流对人体伤害最严重。1000Hz 以上交流电对人体伤害程度明显减轻，但高压高频电也有电击致命的危险。</p>
+<blockquote>10000Hz 高频交流电感知电流，男性约为 12mA；女性约为 8mA，平均摆脱电流，男性约为 75mA；女性约为 50mA。<br>可能引起心室颤动的电流，通电时间 0.03 秒时约为 1100mA； 3 秒时约为 500mA。</blockquote>
+<p><strong>对于直流电来说，</strong>容易引起触电人员的一次性肌肉收缩，常迫使触电者脱离电源。</p>
+<blockquote>最小感知电流男性约为 5.2mA，女性约为 3.5mA。<br>平均的摆脱电流男性约为 76mA，女性约为 51mA。<br>可能引起心室颤动的电流，通电时间 0.03 秒时约为 1300mA；3 秒时约为 500mA。</blockquote>
+<p><strong>再看看触电时间</strong></p>
+<p>IEC 明确规定，持续通过人体的<strong>50Hz 交流电流</strong>若超过 30mA，超过<strong>0.1s</strong>就可能引发心室颤动、呼吸麻痹等不可逆风险。</p>
+<p>当然根据公式</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=Q+%3D+I%5E2+Rt" alt=""></p>
+<p>，触电时间越长越危险，要精细点的话，可以看下 IEC 60479 规程中一张图人体电击效应的一张图。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f629ffe7efdaeb2ba40ddd39cf03d9cf_720w.jpg?source=8673f162" alt=""><figcaption>电流和时间对人体的影响</figcaption></figure>
+<p>图中，电流对人体的影响分成四个区间：</p>
+<p>AC-1 无感知或轻微感知，无病理效应 <strong>≤ 0.5mA</strong></p>
+<p>AC-2 有感知，肌肉收缩但可摆脱，无病理效应 <strong>0.5–10mA</strong></p>
+<p>AC-3 肌肉强制收缩，可能无法摆脱，可逆效应 <strong>10–50mA</strong></p>
+<p>AC-4 心室颤动风险显著上升 <strong>&gt;50mA</strong></p>
+<p>注意，这四个区间的边界，不是垂直的分界线，是斜坡。</p>
+<p>也就是，没有哪个电流值是踩上去立刻死的即死条件，只有概率随电流增大、时间增长逐渐升高的死亡概率。</p>
+<p>大火翻炒、小火慢炖都能达到不错的触电效果。</p>
+<p><strong><strong>回到题主的问题，36V 多了 0.001V 到底会怎样？</strong></strong></p>
+<p>很遗憾，不会怎么样。</p>
+<p>首先，题主所说的<strong>"安全电压 36V"</strong>，只是<strong>在正常人体电阻下难以产生致命电流</strong>的近似的<strong>交流电压</strong>的标准。</p>
+<p>切记，所有的相关安全标准最终限制的是<strong>安全电流</strong>（如比方说<strong>交流 50Hz 下的 30mA</strong>），而非单纯限制电压 。</p>
+<p>前面提到了，结合安全校定时人体电阻取值 1000Ω-2000Ω，我们取个理想情况下，粗略的下限。</p>
+<p>30mA*1000Ω=30V。</p>
+<p>这个 36V，即<strong>交流安全电压</strong>差不多就是这么粗略计算的得来的，当然你也可以结合不同环境，定 50V，15V，2.5V。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f5b4acfbfb669f158b1cbe39f49fc366_720w.jpg?source=8673f162" alt=""><figcaption>人体安全电压参考</figcaption></figure>
+<p>另外，针对交流安全电压，IEC 60364 欧洲标准、美国 OSHA 29 CFR 1910.331 的标准均为 50V。</p>
+<p>同一个人，同一个电压 36.001V，在我们这里就危险了、去柏林和纽约就合格了。</p>
+<p>如果 36V 是物理定律，那欧美人的身体是用别的材料做的？</p>
+<p>中国老国标 GB3805-83（已作废）制定于 1983 年，那年头工业防护设备整体水平不高，工程师取了更保守的安全系数取了个 36V 而已。</p>
+<p>欧美标准是考虑现场有 RCD 漏电保护器兜底，余量取得小，上限推到了 50V。</p>
+<p>同样的物理，同样的人体，只是各地电气工程师的保守程度不同而已。</p>
+<p><strong>所以，题主，从这个角度上来说，36V 就是个人为设定的经验值而已，不要纠结。</strong></p>
+<p>另外，我们前面也讨论过，这个安全电流还和<strong>频率和环境有关，要想精确了解</strong>有兴趣可以去看下新国标<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//openstd.samr.gov.cn/bzgk/std/showGb%3Ftype%3Donline%26hcno%3D2A3598C5E4A0EB6BDBD6D1BD52681A6A%26request_locale%3Dzh" target="_blank" rel="nofollow noreferrer">GB/T 3805-2008《特低电压 (ELV) 限值》</a>。</p>
+<p>其实老国标的交流安全电压 36V 已经被废止了，新国标也和国际接轨了，改成正常状态下<strong>交流 100Hz 以上安全电压是 50V 了。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a8ef6ac7560534f38cfe01f5ea05908c_720w.jpg?source=8673f162" alt=""><figcaption>不同环境下的影响</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-da86d0961382803ed74148db7a909dc5_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b1b270ecebb3b3e33e79bd20e161b98_720w.jpg?source=8673f162" alt=""></figure>
+<p>至于直流电的安全电压的标准还要比交流电高一些。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-593f4fa76452d618ea9607f2bc9cf831_720w.jpg?source=8673f162" alt=""></figure>
+<p>综上，人体的安全电压并不是一个限定值，随环境、交流直流电、个人体质、还有电压频率影响，应该具体情况具体分析。</p>
+<p>所以"36V 的安全电压"，比较严谨的说法是<strong>对于皮肤干燥、接触时间短、没有心脏病、站在绝缘地板上的人、结合触发心室颤动的统计概率、符合某个频率下、并且在相关工程可接受范围内的、自定的（交流 or 直流）的安全电压。</strong></p>
+<p>这个 title 似乎听起来顺耳一点了.....</p>
+<p><strong>至于题主关注的 0.001V 就更无足轻重了。。。。</strong></p>
+<p>这点电压，能产生多大的额外电流？</p>
+<p>粗略取人体电阻 1000Ω，结合欧姆定律，0.001V÷1000Ω=0.000001A，也就是 1μA。</p>
+<p>1μA 什么概念？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d0d19297e9da283ce38026c4c5d49c9e_720w.gif?source=8673f162" alt=""><figcaption>神经冲动传递方式。</figcaption></figure>
+<p>玩过电疗的朋友肯定知道，在生物电领域，1μA 的电流根本不足挂齿。</p>
+<p>这个量级虽然比单个离子通道电流大百万倍，和心脏，肌肉整体电流相比就是个小卡拉米。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c43983531804d361484bc68c47ff0f34_720w.jpg?source=8673f162" alt=""><figcaption>细胞膜产生的电压差和电流</figcaption></figure>
+<p>根据相关研究，人正常眨眼产生的生物电约 0.5–5μA。</p>
+<p>36V 和 36.001V 对你身体的影响，跟你今天多眨了一下眼没有多大区别。</p>
+<p><strong>再谈 36.001V 的实践意义</strong></p>
+<p>当然不少朋友说，物理系最重要的实验，你扯一堆理论，我不信。</p>
+<p>但从实践的角度来看，以题主你所在的高中，根本没法造出精确的 36.001V 电源，当然也很难进行试验测量。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1482302ccef7a2ed29348a4e34613f9b_720w.jpg?source=8673f162" alt=""></figure>
+<p>以你们告知实验室能买到的<strong>专业级 Fluke 87V 为例。</strong></p>
+<p>根据官方数据手册精度，在 60V 量程下测量直流 36V，其精度为±(0.05%+1)，实际绝对误差可达±0.03V，题主要辨别的那 0.001V，是仪表误差的 1/30。</p>
+<p>如果被测量的是交流 36V，AC 精度规格变成±(0.7%+2)，误差直接飙到±0.27V，是 0.001V 的 270 倍。</p>
+<p><strong>受限于仪表分辨率限制，</strong>这个表根本测不出来，更别提入门级的了。</p>
+<p>至于要怎么精确测量这个量级的差值，可能要借助差分放大器，这又是另外的问题了，以后上大学学模电的时候会学到，假如你学电类相关的专业的话。。。。</p>
+<p>更会让你无语的会是<strong>纹波。</strong></p>
+<p>对于 36V 电源来说，0.001V 意味着±0.0028%的相对精度，这对电源的纹波要求和温漂要求很高。</p>
+<p>你们高中的工业变压器那点数据就可能不够看了，你关心的那 0.001V 从来就淹没在电源噪声里，从来就不曾独立存在过。</p>
+<p>当然，题主如果未来从事相关研究的话，你可以去尝试下研制相关的开关电源、精密线性电源，未来有助于为国家的芯片制造、量子计算、高端医疗设备、特高压直流、精密仪器制造的雄起贡献力量。</p>
+<p>很遗憾的是，目受制于高中实验室的约束，题主你关心的"36.001V"，是个不存在的幻觉。</p>
+<p>不过，未来是你们的。</p>
+<p><strong>最后给题主开个脑洞<br><br>闪电</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0f4b5e0997e7cba29bd9029a2f816eb5_720w.jpg?source=8673f162" alt=""><figcaption>云里累积的电荷让空气瞬间导通放电形成闪电</figcaption></figure>
+<p>闪电的电压能达到 136 万 kV ，是目前人类使用的特高压输电线路最高电压 1500kV 的上千倍。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-adc7b24b336bed3d1541113d899666f4_720w.jpg?source=8673f162" alt=""><figcaption>世界气象组织同时还宣布发现了一道持续了 16.73 秒的闪电，于 2019 年 3 月 4 日发生在阿根廷北部，这样的闪电都是超级闪电，能量要比一般的闪电大得多，其电流至少有几十万安培，电压也至少在 10 亿伏特以上，释放的能量可达千亿焦耳。</figcaption></figure>
+<p>按照"36.001V 很危险"的逻辑推演，被闪电打中的人应该原地渡劫飞升才对。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-887c5fe8ec6a19a125f8d31c91bb0fdd_720w.jpg?source=8673f162" alt=""><figcaption>网上居然还流传出了一张据说是在昆仑山处拍摄到的“渡劫飞升”的照片</figcaption></figure>
+<p>至于为什么容易被击中，可以看这个回答。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/2045571744220410261/answer/2045611214357648613">泰国一外卖员雨中送餐被闪电击中，为什么外卖员会被雷击中？雨天有哪些注意避雷的事项？</a></p>
+<p>但事实是，根据相关数据，被闪电击中的人，<strong>大约有 90%能活下来，死不掉。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-99a1b76e09a200f6d7ec07457a1e186f_720w.jpg?source=8673f162" alt=""><figcaption>雷击后的护甲</figcaption></figure>
+<p>多数是皮肤灼伤、短暂的听力视觉损伤，以及神经系统的暂时性影响，很少当场死亡<strong>。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-454f07749cbd18a43eeef3e144f59167_720w.jpg?source=8673f162" alt=""><figcaption>从 2006 年到 2021 年，美国共有 444 人死于雷击，男性被闪电击中的概率是女性的四倍，被闪电击中的人平均年龄为 37 岁，大约三分之一的雷击伤事件发生在室内。</figcaption></figure>
+<p>根据美国媒体的一项无聊的统计，其 2006 年到 2021 年雷击死亡了 444 人，每年雷击致死约 20 多人。</p>
+<p>对比来看，同年家用电气触电死亡约 400 人。</p>
+<p>也就是你被普通插座电死的概率，比被闪电打死高将近二十倍。</p>
+<p>这不是段子，严肃点。</p>
+<p>为什么？</p>
+<p>闪电持续时间只有几十微秒到几百毫秒，会在你的皮肤表面产生"闪络效应"，即闪电接触人体的时间极短，微秒级别，同时电流往往沿体表流过，真正深入体内的只是一小部分。</p>
+<p>触电路径为：<strong>闪电→空气→皮肤→大地。</strong></p>
+<p>电流不经过体内，对内脏做功少，影响不大。</p>
+<p>家用电则是一个持续电流，一旦你触电超过了摆脱电流的阈值，就会被死死锁住，几秒、十几秒。</p>
+<p>触电路径为：<strong>家用电→皮肤→体内→皮肤→大地。</strong></p>
+<p>电流不经过体内，对内脏持续做功，足够大的电流，加上足够长的时间，心室颤动的触发，get。</p>
+<p>36V 持续 30 秒，可以比 3 亿伏持续 10 微秒更致命。</p>
+<p>消除持续时间也是目前人类防止人体电击影响的主要措施，大家可以去看看家里的配电箱，漏电保护器有没有装。</p>
+<p>至于如何判断以及其原理，可以看这个回答。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/461713307/answer/2024134943941428686">电工说现在都不装漏电保护了，这是真的吗？不装会有什么风险吗？</a></p>
+<p>毕竟 30mA 一出现，在 0.1 秒内跳闸并切断电源，是真正救命的东西。</p>
+<p>另外有兴趣研究怎么从触电回路层面去玩耍的，可以看这个回答。</p>
+<p><a class="internal" href="https://www.zhihu.com/question/30842233/answer/2053113553624870958">人用一只手抓住裸露的高压电线悬空会不会触电？如果两只手抓呢？</a></p>
+<p><strong>最后说几句</strong></p>
+<p>我们人类特别喜欢把一些连续的东西，标上一些刻度。</p>
+<p>比如说限速 120，PM2.5 浓度标准值，血液酒精度 0.08，BMI 24，当然还有安全电压 36V。</p>
+<p>这些数字全都有依据，全都有用，但是并非是事情的本质，事情的全部。</p>
+<p>36V 那条线的意义，不是告诉你 36.001V 和 36V 之间有一堵物理上的严格的隔断。</p>
+<p>它们更像是只是给工程师一个可以执行的设计下限，给监管一个可以落地的判断标准，给你我一个不用解微分方程就能做决定的锚点罢了。</p>
+<p>这些玩意更像是管理工具，很多时候是片面的，并非大自然遵循的严格准则。</p>
+<p>所以这道题的背后，从来不是"36V 还是 36.001V"，多了 0.001V 又会怎样？</p>
+<p>脱离剂量谈毒性都是耍流氓。</p>
+<p>擦亮眼睛，保护自己。</p>
+<hr>
+<blockquote><strong>参考来源</strong></blockquote>
+<ol>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.nodpcba.com/news/1073-cn.html" target="_blank" rel="nofollow noreferrer">人体电阻的综合电阻值详解 - 诺的电子</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.sohu.com/a/393854712_203490" target="_blank" rel="nofollow noreferrer">到底是电压电死人还是电流电死人？你可知道？</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//makerpro.cc/2023/06/current-or-voltage-kill/" target="_blank" rel="nofollow noreferrer">【實作實驗室】日常科普：電死人的是電壓還是電流？ | MakerPRO</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//makerpro.cc/2024/07/electric-shock-water-static-electricity-high-voltage/" target="_blank" rel="nofollow noreferrer">【实作实验室】科普集锦：水中触电、高压电击、关车门静电</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//yunqi.qq.com/read/31251548/30%3Fsource%3Dm_jump" target="_blank" rel="nofollow noreferrer">新能源汽车高压安全与防护</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.sohu.com/a/430844961_696536" target="_blank" rel="nofollow noreferrer">造成触电死亡的是电压还是电流？</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//t.cj.sina.com.cn/articles/view/5527438363/14976041b00100ei7f" target="_blank" rel="nofollow noreferrer">人触电身亡是因为电压还是电流，或者是因为电阻？</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.sohu.com/a/546176558_121331966" target="_blank" rel="nofollow noreferrer">人体所能承受的最大电流是多少？</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//yjglj.yaan.gov.cn/xinwen/show/ab69fd2d-967e-41a9-8b37-c96b428677bc.html" target="_blank" rel="nofollow noreferrer">电流频率对人体伤害有何影响？ - 雅安市应急管理局</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//openstd.samr.gov.cn/bzgk/std/showGb%3Ftype%3Donline%26hcno%3D2A3598C5E4A0EB6BDBD6D1BD52681A6A%26request_locale%3Dzh" target="_blank" rel="nofollow noreferrer">国家标准|GB/T 3805-2008</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.sohu.com/a/634199436_121124371" target="_blank" rel="nofollow noreferrer">【IBE】安全电压 50V、36V、24V、12V，你都了解吗</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.shenghua-group.cn/en/NewsDetail/3017250.html" target="_blank" rel="nofollow noreferrer">人中电身亡,那究竟是电压电死人还是电流电死人呢？</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/ztzl/kpzl/qykj/202307/t20230725_2907783.htm" target="_blank" rel="nofollow noreferrer">简单中孕育神奇 -- 揭秘生物电的起源</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//doc.mythbird.com/ecg/ECG%25E4%25BF%25A1%25E5%258F%25B7.html" target="_blank" rel="nofollow noreferrer">心电信号 - Mythbird's documentations</a></li>
+<li><a class=" external" href="http://link.zhihu.com/?target=https%3A//webstore.iec.ch/en/publication/62980" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">webstore.iec.ch/en/publ</span><span class="invisible">ication/62980</span><span class="ellipsis"></span></a></li>
+<li><a class=" external" href="http://link.zhihu.com/?target=https%3A//www.cdc.gov/lightning/data-research/index.html" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://www.</span><span class="visible">cdc.gov/lightning/data-</span><span class="invisible">research/index.html</span><span class="ellipsis"></span></a></li>
+</ol>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2056373604556562637">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/328588613">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9791339</guid>
-                <pubDate>Wed, 22 Jul 2026 19:04:52 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9791373</guid>
+                <pubDate>Thu, 23 Jul 2026 02:12:20 GMT</pubDate>
             </item>
             
             <item>
-                <title>是不是本国人对自己的母语语法的感知都不强？</title>
-                <link>http://daily.zhihu.com/story/9791340</link>
-                <description>英语猫，真实、科学、朴素的方法与资料 查看知乎原文 也可能是太强，强得已经习以为常，比如下面这 7 条英语母语者不知道自己知道的语法： 1. 形容词顺序：为什么“大绿龙”可以，“绿大龙”不行？ 如果你让一个英语母语者解释为什么“a great green dragon”是对的而“a green great dragon”是错的，他大概率会愣一下，然后说：“就是……听起来不对啊。” 这种“听起来不对…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-f374a803088774f3adc8be2bc5831677.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>网传南宋古墓出土的高精度心脏模型，是真的吗？</title>
+                <link>http://daily.zhihu.com/story/9791366</link>
+                <description>祥昊，哦。这样啊。 查看知乎原文 先不吐槽 X 光本来就拍不出毛细血管， 就算是血管也拍不出来，想拍得单独注射造影剂。 咱研究下这东西应该是个啥。 视频说是南宋古墓出土的心脏模型。 咱先回顾下心脏的构成， 心脏主要结构是俩心房，俩心室，都是有间隔被隔开。 中间有动脉瓣组成单向阀。 这模型明显长得比心脏宽的多， 而且没有心房心室间隔。 咱假设这是心脏部分切开的内容，看看合不合理。 心脏连接的血管远不…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0a223609906203408c18dc1929ba3cb8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -122,84 +240,136 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-169d1b6ddc241978a564e19b58c46100_l.jpg?source=8673f162">
-<span class="author">英语猫，</span><span class="bio">真实、科学、朴素的方法与资料</span>
-<a href="https://www.zhihu.com/question/437052083/answer/2057187437231842522" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
+<span class="author">祥昊，</span><span class="bio">哦。这样啊。</span>
+<a href="https://www.zhihu.com/question/1895760891712092018/answer/1896000983215081381" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>也可能是太强，强得已经习以为常，比如下面这 7 条英语母语者不知道自己知道的语法：</p>
-<p><strong><strong>1. 形容词顺序：为什么“大绿龙”可以，“绿大龙”不行？</strong></strong></p>
-<p>如果你让一个英语母语者解释为什么“a great green dragon”是对的而“a green great dragon”是错的，他大概率会愣一下，然后说：“就是……听起来不对啊。”</p>
-<p>这种“听起来不对”的背后，隐藏着一条所有母语者无意识遵循的规则：多个形容词修饰同一个名词时，必须按照“观点—尺寸—年龄—形状—颜色—来源—材料—用途”的顺序排列，即“OSASCOMP”（opinion-size-age-shape-color-origin-material-purpose）。</p>
-<p>这条规则说起来很繁琐，但母语者从牙牙学语时就已经内化了，所以他们会说“a strange, green, Japanese material”（观点 - 颜色 - 来源），而绝不会说“a Japanese, green, strange material”。</p>
-<p>Mark Forsyth 在《The Elements of Eloquence》里拿“great green dragons”举例——因为尺寸（great）必须排在颜色（green）前面，所以“green great dragons”听起来就像用脚趾头弹钢琴，每个音都踩不到点上。</p>
-<p>有趣的是，这条规则并非一成不变，比如“Big Bad Wolf”就违反了形容词顺序——尺寸（big）居然跑到了观点（bad）前面。但母语者依然觉得“Big Bad Wolf”无比自然，而“Bad Big Wolf”则别扭至极。为什么会这样？因为下面这条更强势的规则覆盖了它。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0496650000b50235b61a1e6dd71caef4_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong><strong>2. 元音变换重叠：为什么钟表的滴答声永远是“tick-tock”而不是“tock-tick”？</strong></strong></p>
-<p>试着快速念两遍：“tick-tock”和“tock-tick”。是不是觉得前者顺滑得像小溪流水，后者却像卡了壳的留声机？</p>
-<p>这背后是一条叫做“元音变换重叠”（ablaut reduplication）的规则：当英语中重复或押韵的词语并列时，元音的顺序必须遵循“I—A—O”的模式；如果是两个词，第一个元音是 /ɪ/，第二个是 /æ/ 或 /ɒ/；如果是三个词，则依次是 /ɪ/—/æ/—/ɒ/。</p>
-<p>这就是为什么我们永远说“hip-hop”而不说“hop-hip”，说“mish-mash”而不说“mash-mish”，说“chit-chat”而不说“chat-chit”。甚至连钟表指针的滴答声，母语者都会固执地描述为“tick-tock”——尽管每一秒的声音完全相同。同样，马蹄声是“clip-clop”，不是“clop-clip”，上一条中的“big bad wolf”不能是“bad big wolf”。</p>
-<p>这条规则完全超出了语法书的范畴，它属于语言的音韵直觉。母语者从未学过它，却能在造词或表达时精准遵守。</p>
-<p><strong><strong>3. 中缀插入规则：为什么是“abso-freakin'-lutely”而不是“ab-freakin'-solutely”？</strong></strong></p>
-<p>在美剧里我们经常听到类似“abso-freakin'-lutely”的表达，说话人把一个感叹词（通常是委婉版的咒骂）硬生生塞进另一个单词中间来加强语气。但如果你仔细观察，会发现这个“塞进去”的位置是有讲究的——不是随便哪里都能塞。</p>
-<p>规则很简单：把感叹词放在单词主重音音节的前面。所以“absolutely”的重音在“lute”上，就成了“abso-freakin'-lutely”；“important”的重音在“por”上，所以是“im-bloody-portant”；“lasagna”重音在“sa”上，所以是“la-freakin'-sagna”；“Kalamazoo”重音在“zoo”上，就成了“kalama-freakin'-zoo”。</p>
-<p>如果你说“ab-freakin'-solutely”，母语者会觉得你是在用脚趾头说话。这不是因为语法错误，而是因为你把感叹词塞错了位置——它塞在了重音音节之后。母语者能瞬间判断出哪个位置正确，但他们说不清为什么。</p>
-<p>更微妙的是，当单词带有否定前缀如“un-”时，规则会稍微调整：“un-freakin'-believable”听起来比“unbe-freakin'-lievable”好得多。母语者从来没学过这些，但他们从来不会说错。</p>
-<p><strong><strong>4. 所有格的有生性层级规则：为什么“my brother's car”可以，“the car of my brother”不行？</strong></strong></p>
-<p>如果你学法语或西班牙语，你会发现所有格只有一种表达方式——用“de”（即“of”）结构。但英语偏偏有两种：'s 和 of，并且这两种结构不能随意互换。</p>
-<p>“my brother's car”听起来无比自然，但“the car of my brother”就像用翻译软件直译出来的；反过来，“the door of my house”完全可以接受，而“my house's door”虽然也行，但总感觉有点别扭。母语者从来不犯这种错，但他们根本不知道自己在遵循什么规则。</p>
-<p>语言学家发现，这背后是一套叫做“有生性层级”（animacy hierarchy）的机制。简单来说，越是接近人类的拥有者，越倾向于使用“’s 结构”；越是无生命的物体，of 结构就越自然。层级从高到低依次是：人类 &gt; 动物 &gt; 无生命物体。</p>
-<p>所以：</p>
-<ul>
-<li>my friend's bike 好于 the bike of my friend</li>
-<li>my dog's leash 稍好于 the leash of my dog</li>
-<li>my bike's pedal 差于 the pedal of my bike</li>
-</ul>
-<p>当然也有例外。比如“city hall”既可以视为无生命的建筑（如 the steps of city hall），也可以视为一群人的集合（如 city hall’s announcement）。母语者会根据语境自动切换，但他们完全意识不到自己是在参照“有生性”规则。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-27e1d3760efe1e27e3abe0ec562ddc14_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong><strong>5. 短语动词与代词位置：为什么是“cheer her up”而不是“cheer up her”？</strong></strong></p>
-<p>英语的短语动词（phrasal verbs）是无数非母语者的噩梦。有的不可分，例如只能说“pick on your sister”，不能说“pick your sister on”。有的可分，例如“call off the meeting”和“call the meeting off”都可以。母语者能本能地区分哪些可分哪些不可分，从不犯错。</p>
-<p>但这还不是全部。对于那些可分的短语动词，还有一条更隐蔽的规则：当宾语是代词时，必须插入在动词和介词之间。</p>
-<p>以“cheer up”为例，可以说“I cheered up my friend”，也可以说“I cheered my friend up”。但如果把“my friend”换成“her”，就只能说“I cheered her up”，绝对不能说“I cheered up her”。同样，“I picked it up”是唯一正确的说法，“I picked up it”则完全错误。</p>
-<p>这条规则之所以隐蔽，是因为在其他位置，代词可以代替名词出现在任何名词出现的位置，唯独在可分短语动词这里，代词被强制要求“插队”。母语者从来没学过这条规则，但他们从小就知道“cheer up her”听着像机器人说话。</p>
-<p><strong><strong>7. Wh- 疑问句的“桥接动词”：为什么“what did you say he ate”可以，“what did you mumble he ate”不行？</strong></strong></p>
-<p>英语的 wh- 问句通常涉及“移位”——疑问词从原本的逻辑位置移动到句首。比如“What did you eat？”对应的陈述句是“You ate what”。</p>
-<p>这种移位可以达到很长的距离，例如“What did you say that the beginning of the movie reminded you of？”对应的陈述句是“You said that the beginning of the movie reminded you of what”。</p>
-<p>母语者能轻松造出这种长距离移位的句子，但他们不知道的是，这种移位有一个严格的限制：主句的动词必须是“桥接动词”（bridge verb）——即表示“说”“想”“认为”这类可以引出从句的动词，即“say”“think”“believe”这类动词，这些动词就是“桥接动词”。</p>
-<p>所以“What did you say that he ate？”听起来完全正常，但像“mumble”“shout”“whisper”“sob”就不是桥接动词，因此“What did you mumble that he ate？”听起来就很不正常，尽管从字面上看，它和上一句的结构完全相同。</p>
-<p>母语者从来不会犯这种错，但他们根本不知道什么是“桥接动词”，他们只是凭直觉知道“mumble”和“say”在语法上不是一码事。</p>
-<p><strong><strong>8. 概念范畴化规则：为什么是“still lifes”而不是“still lives”？</strong></strong></p>
-<p>众所周知，“life”的复数是“lives”，“leaf”的复数是“leaves”，“child”的复数是“children”，但为什么“静物画”的复数是“still lifes”而不是“still lives”？为什么多伦多的冰球队叫“Maple Leafs”而不是“Maple Leaves”？为什么邀请查尔德一家来做客要说“the Childs”，而不是“the Children”？</p>
-<p>母语者从来不犯这种错，但他们不知道自己在遵守一条叫做“概念范畴化规则”（The “kind of” rule）。</p>
-<p>这条规则由语言学家史蒂芬·平克发现，核心思想是：当一个词的整体意义已经脱离了字面意义时，它的复数形式就由新范畴的整体身份决定，而不是遵循常规的屈折变化规则。</p>
-<ul>
-<li>“still life”不是一种“life”（生命），而是一种绘画类型，所以复数就老老实实加 -s 变成“still lifes”。</li>
-<li>“Maple Leaf”不是一种“leaf”（树叶），而是一个球队名称，所以复数是“Maple Leafs”。</li>
-<li>查尔德（Child）一家人不是“children”（孩子们），而是一个姓氏为 Child 的家庭，所以是“the Childs”。</li>
-</ul>
-<p>母语者不会说“still lives”或“the Children”，但他们不知道自己是在按照“概念范畴化”的规则做判断。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-92b97dcf2a3963c1689562ec172741d6_720w.jpg?source=8673f162" alt=""></figure>
+<p>先不吐槽 X 光本来就拍不出毛细血管，</p>
+<p>就算是血管也拍不出来，想拍得单独注射造影剂。</p>
+<p><strong>咱研究下这东西应该是个啥。</strong></p>
+<p>视频说是南宋古墓出土的心脏模型。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a6e7f17aaa9ea80ea2e7796a50799c1a_720w.jpg?source=8673f162" alt=""></figure>
+<p>咱先回顾下心脏的构成，</p>
+<p>心脏主要结构是俩心房，俩心室，都是有间隔被隔开。</p>
+<p>中间有动脉瓣组成单向阀。</p>
+<p>这模型明显长得比心脏宽的多，</p>
+<p>而且没有心房心室间隔。</p>
+<p>咱假设这是心脏部分切开的内容，看看合不合理。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cb506d8acabcaab9efeaa9e29e7a8a2c_720w.jpg?source=8673f162" alt=""></figure>
+<p>心脏连接的血管远不止两根，</p>
+<p>一根体动脉，从左心室发出，负责全身血液循环。</p>
+<p>四根肺静脉，负责往左心房输送富氧血。</p>
+<p>一根肺动脉，从右心室发出，负责肺部供血。</p>
+<p>一根上腔静脉，一根下腔静脉，向右心房回流。</p>
+<p>好像没一个符合上面这玩意的位置。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fde3c151ee3bdc5c99e82455025a4586_720w.jpg?source=8673f162" alt=""></figure>
+<p>另外，还有两根冠状动脉分布在心脏表面，给心脏供血，</p>
+<p>因为心脏并不能直接从心房心室里薅血，这顶上的树状物肯定不是血管。</p>
+<p>那会不会是肌肉呢？</p>
+<p>这个模型内部有褶形凹凸，</p>
+<p>心脏内部虽然有乳头肌突出，但是更圆润，不大像。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cce1913efe49f2d464a1eb18c20dc9c2_720w.jpg?source=8673f162" alt=""><figcaption>心脏内部解剖图</figcaption></figure>
+<p>右心房虽然有梳状肌结构，纹理很明显，但是这块肌肉是横着长的。</p>
+<p>这个模型顶上分布的垂直树状物也不会是梳状肌。</p>
+<p><strong>那应该是啥呢？</strong></p>
+<p>咱仔细看看这东西的结构哈。</p>
+<p>两根大血管，一个空腔，</p>
+<p>咱挡住其他部分，只留半拉，是不是看着眼熟？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7f4b9695dc8ab9844f505624e0eccf10_720w.jpg?source=8673f162" alt=""></figure>
+<p>这应该是个剖开一半的腰子示意图。</p>
+<p>中间空腔是肾盂，肾大盏，肾小盏，</p>
+<p>往外空心的那根是输尿管。</p>
+<p>俩血管是肾动脉肾静脉。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5e43cf4aa234cda608f9df016d021d1b_720w.jpg?source=8673f162" alt=""></figure>
+<p>树状结构要么表示的是肾上的小血管，这个肉眼很难完整观测到全部。</p>
+<p>要么就是肾锥体，人的肾锥体肉眼观察应该是菜花或者毛刷状，而不是树状。</p>
+<p>再往小点是集合管，这个只能靠显微镜观察。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5e05221e362e3d46667c119b1d7b4c22_720w.jpg?source=8673f162" alt=""></figure>
+<p>总之，甭管是人腰子还是猪腰子，也甭管这个树状结构代表血管还是代表肾锥体，</p>
+<p>用肉眼都不应该观察到树状结构。</p>
+<p>这是有显微镜之后才能画上去的示意图。</p>
+<p>那么问题来了，宋朝还没发明显微镜。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e728bb24ab2ad53058ff286e01333dff_720w.jpg?source=8673f162" alt=""><figcaption>猪腰子剖面</figcaption></figure>
+<p>更奇怪的还在后面。</p>
+<p><strong>这个动脉血管和组织边界是使用平行斜线绘制的。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c5d86a0ead1d7fb24595409643b83d73_720w.jpg?source=8673f162" alt=""></figure>
+<p>由于我国古人书写画画主要用的是毛笔，笔头是软的。</p>
+<p>所以并不适合打调子，古书图解一般都是实线写意风。</p>
+<p>比如下面这个宋王惟一撰的《御制铜人腧穴针灸图经》</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aed8864ac08c58c0e5f9d37bcfbe45e5_720w.jpg?source=8673f162" alt=""><figcaption>宋王惟一撰 御制铜人腧穴针灸图经</figcaption></figure>
+<p>哪怕是比较细致的内脏也是这样。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6a8dff5f3b88f6a6fbe8fbfeb4cadae3_720w.jpg?source=8673f162" alt=""></figure>
+<p>即使是器物雕刻，</p>
+<p>也是以实线为主。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b1359fb851a730f52f6f4bb764441b55_720w.jpg?source=8673f162" alt=""><figcaption>来源 故宫博物院</figcaption></figure>
+<p>那古人就不用线条吗？</p>
+<p>用，用的不少，但是更多的是使用放射性线条，而不是平行斜线。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4e473041e3cde728b615aee8f14ba3e9_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种打调子的方式是典型的素描画法，</p>
+<p>清末民国时期西医传过来才比较常见。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-86b1d5eb94fffbfcb84d8ab9f6c6adb6_720w.jpg?source=8673f162" alt=""><figcaption>清末时期古书：中西医粹之脏腑图说</figcaption></figure>
+<p><strong>宋朝物件就没这么画的，</strong></p>
+<p>所以，这最早也就清末到民国时期的物件。</p>
+<hr>
+<p>我们继续看视频介绍，这个东西是锡铸而成，</p>
+<p>背面平坦，正面为解剖图。</p>
+<p>顶上还能看到各种颜色残留。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-be97a86dff61dce7019c5c505aa64bf8_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以这不是模型，应该是个雕版拓片。</p>
+<p><strong>等等！！！又一个大线索！！！</strong></p>
+<p><strong>介绍说这是锡器！！</strong></p>
+<p>锡器在宋朝确实是应用很广的金属器具之一。</p>
+<p><strong>但是宋朝以及之前年代的锡器在全国范围内存世数量都非常非常非常少！！！</strong></p>
+<p>因为锡本身质地就软，而且很容易被氧化，</p>
+<p>更重要的是锡器不抗冻，</p>
+<p>在 13.2℃以下容易变为粉末状的同素异形体灰锡，被称之为“锡疫”</p>
+<p>这就导致锡器在古代虽然使用量不少，留存下来的屈指可数。</p>
+<p>作为一个雕版拓片本身工作环境就很容易受到腐蚀，还是存放在墓葬里，</p>
+<p><strong>从宋朝流传到现代品相还这么完整，确实非常困难。</strong></p>
+<hr>
+<p><strong>咱再继续观察，顶上有一些红色的东西。</strong></p>
+<p>这肯定不是锡的氧化物，</p>
+<p>因为锡氧化物主要是氧化亚锡（SnO），呈灰黑色粉末状。</p>
+<p>其次比较多的还有二氧化锡（SnO₂）呈灰白色蜡状。</p>
+<p>红色物质要么是铁的氧化物，要么是颜料，比如朱砂之类的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-281d842bcd0325894e5021ceac45b320_720w.jpg?source=8673f162" alt=""></figure>
+<p>那会不会是朱砂呢？</p>
+<p>咱对比下宋朝的古印：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-304e1b8aa09e000d70f78886aad9bddf_720w.jpg?source=8673f162" alt=""><figcaption>铜柄钮“威武左第二十三指挥第二都朱记”印 北宋 来源 ：故宫博物院。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cdcfd1cd590e5a6f3355ac73e9dd4af5_720w.jpg?source=8673f162" alt=""><figcaption>南宋 会稽开国铜印，来源：绍兴嵊州市文物保护中心</figcaption></figure>
+<p>朱砂非常稳定。古物残留呈现亮红色聚集，很明显这不是朱砂。</p>
+<p>另外古人还会使铅丹（Pb3O4）当染料，</p>
+<p>但是铅丹时间久了会氧化产生 PbO₂，变成棕黑色，也不像。</p>
+<p>至于铁锈的染的，</p>
+<p>锡铁放一起，铁会优先电解，但是锡也会严重腐蚀，</p>
+<p>这个雕版品相太好了，也不像。</p>
+<p>所以这大概率是近代颜料残留的颜色。</p>
+<p><strong>那么，真相好像出来了：</strong></p>
+<p>1，这玩意不是心脏模型，应该是个腰子的解剖雕版拓片。</p>
+<p>2，这玩意也不是宋朝的，估计最早也就晚清民国时期的老物件。</p>
+<p>3，这个也不是老祖宗观察的，应该是近代西医传过来的。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/437052083">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1895760891712092018">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9791340</guid>
-                <pubDate>Wed, 22 Jul 2026 19:04:53 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9791366</guid>
+                <pubDate>Thu, 23 Jul 2026 02:12:21 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么寒带有很多湖？</title>
-                <link>http://daily.zhihu.com/story/9791349</link>
-                <description>气象喵探员，点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~ 查看知乎原文 如果你有幸查看过北极地区的高分辨率卫星地图，相信你肯定会屏住呼吸，因为你看到的不是想象中的荒凉，全是一颗又一颗紧密的『蓝钻石』，它们从阿拉斯加一路铺展到西伯利亚，在加拿大和芬兰的上空，这些钻石密的几乎遮蔽了大地本身的光芒。 作为气象学领域的答主，接下来我也要扯几句，咳咳……相信大家肯定会有一个疑问：为什么在最寒…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-54d7bdc0e32f1f002b9b9eae87ca2ad0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>「酱油」一词为什么正在被「生抽」和「老抽」替代？</title>
+                <link>http://daily.zhihu.com/story/9791377</link>
+                <description>谌羽洋，b站ip:林中路上的Curl 查看知乎原文 优秀的洞察力。 你发现了一个语言学规律：当一个上位概念（如酱油）有且只有2-3 个常用下位概念时（生抽酱油）（老抽酱油），人们就会在日常对话中减少使用这个上位概念的词频，转而习惯于用它的下位概念。 看看这些食物： 上位概念次要化，下位概念主要化 尽管牛肉、鱼肉、鸟（禽）肉是同级 我们一般会说 “吃牛肉”、“吃鱼肉” 但我们比较少说 “吃鸟肉（或吃…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7221041eb6563bd4ed216bfa5fb7d487.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -219,71 +389,82 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
-<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
-<a href="https://www.zhihu.com/question/36559387/answer/1965713407568224952" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-54373ac919c47dd41691e8a1e6414842_l.jpg?source=8673f162">
+<span class="author">谌羽洋，</span><span class="bio">b站ip:林中路上的Curl</span>
+<a href="https://www.zhihu.com/question/618083427/answer/1949576526099092855" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>如果你有幸查看过北极地区的高分辨率卫星地图，相信你肯定会屏住呼吸，因为你看到的不是想象中的荒凉，<strong>全是一颗又一颗紧密的『蓝钻石』</strong>，它们从阿拉斯加一路铺展到西伯利亚，在加拿大和芬兰的上空，这些钻石密的几乎遮蔽了大地本身的光芒。</p>
-<p>作为气象学领域的答主，接下来我也要扯几句，咳咳……相信大家肯定会有一个疑问：<strong>为什么在最寒冷、最懒惰的地球角落，反而藏着最密集、最活跃的水体？</strong>答案，就关联到星球上最为强大的两种力量：冰与土。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8c9391c3e61ad59a2c1db6f97e4c0faf_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>地球史上最宏大的一次创作</strong></p>
-<p>要理解寒带湖泊的起源，我们先要回溯到距今 2 万年前的末次盛冰期。那时北美和欧亚大陆的北部，<strong>并非我们今天看到的模样，而是被巨厚的冰盖所覆盖</strong>。这些冰盖并非我们想象中的雪山，而是厚度可达 3000 米以上的几乎覆盖整个大陆的冰原，其重量如此之大，甚至将大陆板块都压得下沉。这场持续数万年的极寒，塑造着寒带地形的首要人物，<strong>正是这些看似静止、实则缓慢移动的冰原</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8a4ef3b8697bf8de6798293af7529fc4_720w.jpg?source=8673f162" alt=""></figure>
-<p>而它具体是怎么影响的呢？主要通过以下三个方面：</p>
-<p><strong>（一）刨蚀</strong></p>
-<p>想象一下，数千米的冰层底部冻结出大量的岩石碎屑，以其万亿吨的重量在地表缓慢移动，这已经不是流动，而是一场对基岩持续万年的磨蚀与挖掘，即<strong>冰川刨蚀作用</strong>。质地相对较软的岩石将会被轻易的挖走，坚硬的基底也将会被刻画出深深的痕迹。</p>
-<p>当冰期结束，气候变暖，这些巨型冰盖最终将会大规模的退缩，它们留下的便是一个被深刻改造过的世界：<strong>原先起伏的古老岩床被腐蚀的千疮百孔，布满了深浅不一的冰蚀湖盆</strong>。今天芬兰境内那些轮廓曲折，岛屿众多的湖泊以及加拿大北部成片的湖泊群，绝大多数都是冰蚀湖的典型代表。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a7722a29f5d49bc74825b25049a33bdd_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>（二）堆积</strong></p>
-<p>巨大的冰盖在它前进和后退的过程中，也会像一条巨大的传送带将沿途侵蚀的泥沙与石块（下文统称为冰碛物）携带到远方。而在冰盖大规模退缩时，这些物质就会被堆积下来，<strong>形成长短不一的冰碛垄</strong>。</p>
-<p>巧合往往会创造奇迹，当这些由无数冰碛物组成的天然垄丘，恰好横亘在一个山谷或者洼地的出口时，便会形成一道相对完美的天然堤坝。冰川融化与大气降水在此聚集，于是冰碛湖就这么水灵灵的诞生了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-375d3d6ee4fbfc1a07e3b8a81368c803_720w.gif?source=8673f162" alt=""></figure>
-<p><strong>（三）死冰的遗产</strong></p>
-<p>需要向大家说明的是，冰川的撤退并非是整齐划一的，而是一个非常混乱的过程。经常会有巨大的冰块从主冰盖上断裂，并被后续的冰碛物所掩埋，成为所谓的『死冰』。这些被深埋地下的冰块，在之后的数百甚至上千年也才会开始慢慢的融化，<strong>随着支撑物的逐渐消失，上层的沉积物随之塌陷，在地表形成一个圆形的锅穴</strong>。</p>
-<p>当这一个又一个锅穴被水填满时，便会形成锅穴湖，这些湖的面积通常比较小且形状规则。至此，远古的冰川已经为寒带湖泊的诞生准备好了最基础的条件，但想要让这些湖泊能够长久留存，还需要另外一个关键的因素。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-07be158221fdeacc23903b8391edf481_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong> </strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c2a650e0f28fbfb4dbe1765561cf9b49_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>永恒的防水层——永久冻土层的封印</strong></p>
-<p>如果只有冰川创造的湖盆，却没有有效的保水机制，那么这些洼地很有可能会在万年的岁月中被沉积物逐渐填满，或者因为渗漏而干涸。寒带湖泊能存续至今的另一个关键因素，就在其下方无处不在的永久冻土。</p>
-<p>永久冻土，具体指的是温度在 0℃以下，并含有冰的岩层或土壤层，它厚度可达数百米，是寒带地区的基石，它的存在就相当于在整个地区的地下铺设了一个<strong>巨大、持续且不可透水的天然底板</strong>，完全符合我们的要求，具体作用有以下几点：</p>
-<ul>
-<li><strong>阻止渗漏</strong>：在温暖地区湖水会持续的向下渗漏，补充地下水，但在寒带永久冻土层，有效的阻断了地表水与深层地下水的水力联系，将大气降水和冰雪融水封印在冰川留下的湖泊中。尽管寒带年降水量不高，但蒸发量也很弱，在这种<strong>“收入大于支出”且“只进不出”</strong>的水分平衡之下，湖泊才得以稳定存在数万年。</li>
-<li><strong>冻土自身的创造——热融湖</strong>：更为有趣的是，冻土本身也能直接参与造湖。由于气候变暖、火灾或植被破坏导致局部冻土的融化时，地下冰变成水，土壤体积收缩，地表随之塌陷形成的热融洼地，这些洼地积水便会形成热融湖。这类湖泊可以理解为是气候变化的敏感指示器，<strong>它们的出现扩张或消失直接反映了地下冻土的热状态</strong>。</li>
-</ul>
-<p>因此永久冻土层不仅能够让我们古老冰川制造的湖泊稳定存在，在某些特定条件下，它自己也能扮演创造者的角色。正如我们开头所说，<strong>冰川与冻土，这一对冰与土的组合，一古一今共同主导了寒带万湖的创造与保留。</strong>（呼应开头的属于是）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e89ec92883242e83ded2d8d2561a6d7b_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>协同因素之平坦、气候与生态</strong></p>
-<p>除了冰川与冻土质量为最为关键的人物，其他自然因素也在为寒带湖泊的创造与保留进行辅助。</p>
-<ul>
-<li><strong>地势的平坦</strong>：北美和西伯利亚北部拥有极其广阔而平坦的平原，这些地形使得地表排水系统非常不畅，河流下切能力极其微弱，水流迂回曲折，极容易造成积水，为湖泊和沼泽的发育提供了最为理想的物质基础。</li>
-<li><strong>冷湿的气候</strong>：寒带地区虽然降水不多，但低温导致蒸发量极小，整体属于水分盈余区。这种冷湿气候为湖泊提供了相对稳定而持续的水源补给。</li>
-<li><strong>独特的冻原</strong>：湖泊周围茂密的植被与独特的湿地生态系统也起到了涵养水源、稳定湖岸的作用。</li>
-</ul>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d70795be7e8611c7f085715dca0fad42_720w.jpg?source=8673f162" alt=""></figure>
-<p>虽然我在文中几次提到，在这种条件之下寒带湖泊会维持一个相对稳定的状态。但现在正在我们正在面临前所未有的气候变化，随着全球变暖持续加剧，永久冻土层开始加速融化，这会导致一些古老湖泊彻底消失，也会使更多热融湖在冻土区不断涌现。<strong>这些湖泊在气象和地质学的意义中已经不再是一个湖泊了，更能表示着过去以及即将发生的地质与气候变化</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0fd3ed4a01504f429ec3bf83958539d3_720w.jpg?source=8673f162" alt=""></figure>
+<p>优秀的洞察力。</p>
+<p>你发现了一个语言学规律：当一个上位概念（如酱油）<strong>有且只有</strong>2-3 个<strong>常用</strong>下位概念时（生抽酱油）（老抽酱油），人们就会在日常对话中减少使用这个上位概念的词频，转而习惯于用它的下位概念。</p>
+<p>看看这些食物：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-45dd71028fd82afd204b8dfb1804fe9b_720w.jpg?source=8673f162" alt=""><figcaption>上位概念次要化，下位概念主要化</figcaption></figure>
+<p>尽管牛肉、鱼肉、鸟（禽）肉是同级</p>
+<p>我们一般会说</p>
+<p>“吃牛肉”、“吃鱼肉”</p>
+<p>但我们比较少说</p>
+<p>“吃鸟肉（或吃禽肉）”</p>
+<p>因为常见禽类食物分化的很成熟</p>
+<p>主要作为食物的就是鸡鸭鹅</p>
+<p>而牛肉、鱼肉的下级没有非常成熟的分类“原型”</p>
+<p>所以禽肉这个词在日常生活中就相对用的较少</p>
+<p>水果那边也是一样</p>
+<p>因梅的加工方式而形成的少量成熟分类</p>
+<p>已经比梅子这一上位概念更常出现在日常用语中</p>
+<p>葡萄、菠萝、樱桃也是</p>
+<p>在生活中逐渐被更丰富的下位概念给次要化</p>
+<p>酱油作为调味品，是由它稳定的两种功能性给次要化的</p>
+<p>酱油的主要两种类型——生抽、老抽——以功能（属性）为导向的分化已经非常成熟了</p>
+<p>它们占据了上位概念的位置</p>
+<p>同样的例子（概念演化的属性导向）还有很多</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-23e9337467ebfd4cde2b906477566fe1_720w.jpg?source=8673f162" alt=""><figcaption>概念演化的属性导向</figcaption></figure>
+<p>比如说，我们常用的开发端有移动端、pc 端、web 端这三个词</p>
+<p>开发端的三个主要类别</p>
+<p>是从“开发”这个属性（目标平台、设计响应性、开发技术）为导向的，属于概念分化良好。</p>
+<p>那“开发端”这个词本身，在我们的日常语境中就可以很少被使用了。</p>
+<p>假设，只是假设，五十年后移动端完全胜出，pc 和 web 消失了</p>
+<p>那“移动端”这个词就会因为指代的特殊性消失，而较少被使用</p>
+<p>大家会直接根据它的功能导向（操作系统）来称呼它：如 ios、Android、鸿蒙。</p>
+<p>然而，如果有一天上位概念重新变得丰富，在“开发”方面的属性出现了新的突破</p>
+<p>或者，有更多移动端的下位概念如雨后春笋般出现，“移动端”这个词它能指代的范围变大了</p>
+<p>这两种情况都可能使“移动端”这个词就又会重新被广泛使用。</p>
+<p>事实上，语言一直是随着人们的认知习惯流动的，就像一个公司的上下级流动</p>
+<p>“没有同级形成组织、且手下管的人太少”，就会被“撤职”。</p>
+<p>被撤掉的岗位，很快就会被新的属性导向所替代。</p>
+<p>比如下面这个例子：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-82e03252a507c019dc335ffff68f312e_720w.jpg?source=8673f162" alt=""><figcaption>家人一词的退居和被取代</figcaption></figure>
+<p>我们过去在农村看到一个走丢的小孩，我们习惯问“你的家人呢？”</p>
+<p>我们现在在城市看到一个走丢的小孩，一般会问：“你的爸爸妈妈呢？”</p>
+<p>为什么？现在很多孩子，以及孩子的父母都是独生子女</p>
+<p>很多孩子甚至只和父母生活在一起</p>
+<p>家人这个上位概念：基本就是指父母了</p>
+<p>我们自然很少用家人这个占用认知资源的词了</p>
+<p>这个词“手下管的人太少”，被“撤职”了</p>
+<p>但是，这个词既然曾经被普遍使用着，资源在人们大脑中长期占据着</p>
+<p>那这个已经形成的词汇（萝卜坑）不一定要消失</p>
+<p>而是可以被新的需求属性替代</p>
+<p>于是，“家人们”这个词出现了</p>
+<p>指代范围广，指代语境还很特殊（网络）</p>
+<p>使用频率自然也蛮高</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/36559387">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/618083427">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9791349</guid>
-                <pubDate>Wed, 22 Jul 2026 19:04:54 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9791377</guid>
+                <pubDate>Thu, 23 Jul 2026 02:12:22 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9791356</link>
-                <description>瞎扯 · 你在图书馆做过/遇见哪些有趣的事？ 知乎日报 查看知乎原文 Q：你在图书馆做过 / 遇见哪些有趣的事？ @禅剑 ：学累了抬头一看，小孩哥直接坐在书架上。合肥市中心图书馆 Q：「何意味」到底是什么意思啊？ @威资吧吧务组 ：中文： hyw英文： why什么你问我为什么不是完全倒装？因为 h 移位。 Q：作死是种怎样的体验？ @sam ：玩笑开过头，被警察带走。 Q：为什么人一旦开窍了就变的…</description>
+                <link>http://daily.zhihu.com/story/9791386</link>
+                <description>瞎扯 · 有哪些知识的「诅咒」的例子？ 知乎日报 查看知乎原文 Q：有哪些知识的「诅咒」的例子？ @Azonker ：今天有人指着「cutest」这个单词告诉我，意思是「最能切的」，然后我莫名其妙死活想不起它本身的意思了。。。我大约是被他用知识诅咒了吧。 Q：你赞同「在绝对的力量面前，一切技巧都是徒劳」这个观点么？为什么? @精神女同异装癖 ：太阳决定提高 5% 的功率，现在你告诉我用什么技巧来避…</description>
                 <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e38d29d44440ef6f0bb1d6fab68ae2bd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
@@ -299,51 +480,42 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 你在图书馆做过/遇见哪些有趣的事？</h2>
+<h2 class="question-title">瞎扯 · 有哪些知识的「诅咒」的例子？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/23194847/answer/1963088345493124008" target="_blank">你在图书馆做过 / 遇见哪些有趣的事？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/624440512/answer/2034592810985334278" target="_blank">有哪些知识的</a>「<a class="internal" href="https://www.zhihu.com/question/624440512/answer/2034592810985334278" target="_blank">诅咒</a>」<a class="internal" href="https://www.zhihu.com/question/624440512/answer/2034592810985334278" target="_blank">的例子？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c58cf3a39e2e106fdca92b3cc3ecbcb4" target="_blank">@禅剑</a></div>
- ：学累了抬头一看，小孩哥直接坐在书架上。<br><a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=278419751&amp;content_type=Article&amp;match_order=1&amp;q=%E5%90%88%E8%82%A5%E5%B8%82&amp;zhida_source=entity" target="_blank">合肥市</a>中心图书馆</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fefa46511dc9dc30af8f159795a0f475" target="_blank">@Azonker</a></div>
+ ：今天有人指着「cutest」这个单词告诉我，意思是「最能切的」，然后我莫名其妙死活想不起它本身的意思了。。。<br>我大约是被他用知识诅咒了吧。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/268189551/answer/2018377612632830059" target="_blank">你赞同「在绝对的力量面前，一切技巧都是徒劳」这个观点么？为什么?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/670ee55ec4894c4096c9b95a9af296a8" target="_blank">@精神女同异装癖</a></div>
+ ：太阳决定提高 5% 的功率，现在你告诉我用什么技巧来避免人类灭亡</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/604023683/answer/102704620332" target="_blank">我们工厂工资都已经给到 6500 了，还是找不到人怎么办？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d47bc2dd57f6a80815fd4947eece0a9f" target="_blank">@palpitate</a></div>
+ ：我就上一张图，其他的什么也不说。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-af84f00a777a84b8d6494c69d78fb99e_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-9adfd654cf5bbe1c1aa7eb54f35eefa9_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：「<a class="internal" href="https://www.zhihu.com/question/1994877620995777624/answer/2039308182900707802" target="_blank">何意味</a>」<a class="internal" href="https://www.zhihu.com/question/1994877620995777624/answer/2039308182900707802" target="_blank">到底是什么意思啊？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/663413105/answer/1951914371732206999" target="_blank">如果进化论是对的，植物为何不进化得很难吃？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/b634daf52a68ad47b37a8ccf86f00816" target="_blank">@威资吧吧务组</a></div>
- ：中文： hyw<br>英文： why<br>什么你问我为什么不是完全倒装？<br>因为 h 移位。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/27430589/answer/2034253775486056334" target="_blank">作死是种怎样的体验？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fd6092802add02f980f4b27fa5803a39" target="_blank">@码字回血大负翁</a></div>
+ ：我也很纳闷，生蚝为什么会特意给我进化出一个碗，刚好放在烤架上，还能搁点蒜蓉粉丝，太银杏化了</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/663414672/answer/2030601322018370423" target="_blank">今天看一个纪委带走贪官的视频，忽然想到个问题，纪委抓人带枪吗？不带的话如果贪官破釜沉舟怎么办？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/af2119c35c3df36ed06bc989a738603e" target="_blank">@sam</a></div>
- ：玩笑开过头，被警察带走。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fc8b2ad8b52b35314069a93eb86df76c" target="_blank">@柳铭</a></div>
+ ：多回答就是画蛇添足，一张图足够了。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-ea7fe4961eeca563cae0964b491ca714_1440w.jpg" alt=""></div>
-</figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-d56e68b1c4263586dea4adde8b884c43_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-4c9291bcd7cd616716a4d634f67f7ca6_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/481302924/answer/1961156632437323469" target="_blank">为什么人一旦开窍了就变的特别厉害？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/637f4821aef7ea50934afd044642087a" target="_blank">@RRui</a></div>
- ：英语学习，在知道一个句子里有且只有一个动词之后，就很难做错题了。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/329242568/answer/1949850895132108056" target="_blank">为什么大大小小的池塘湖泊几乎都禁止垂钓？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/15f97410564775055d9bbcef77215a3a" target="_blank">@岭南大刀客</a></div>
- ：主要是这大阵仗吓坏人家池塘湖泊的鱼：</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-e9ad6fc55b17bb377ff9ec9aeb1376de_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-6d62468112fd45203f6cd5c65f81aad7_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
 <hr>
 <p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
@@ -357,8 +529,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9791356</guid>
-                <pubDate>Wed, 22 Jul 2026 19:04:55 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9791386</guid>
+                <pubDate>Thu, 23 Jul 2026 02:12:23 GMT</pubDate>
             </item>
             
     </channel>
