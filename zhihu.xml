@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sat, 05 Sep 2026 19:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 02:29:16 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>古代士兵的伙食如何？</title>
-                <link>http://daily.zhihu.com/story/9792350</link>
-                <description>也说，一二三聊职场，四五六谈感情。 查看知乎原文 说几样有趣的东西吧：“耐饥丸、千里脯、守山砖”。先说“耐饥丸“ 也有叫“不饿丸、行军丸、赈灾丸”。 这个东西是我国古代历史上真实出现过的，不是”大力丸、仙丹”等江湖骗人的东西。 据说能“吃一丸顶一餐”，最早可以追溯到北宋的一种“方便食品”，广泛应用在行军、赈灾、储备抗荒等场景。 据记载北宋陈抟老祖曾研制“耐饥丸”，配方为“黑豆、芝麻、糯米和蜂蜜”。…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d67b1e5c2bde8d60266d5f005b58b972.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>熊猫吃竹子是刻在基因中的习性吗？可以通过从小喂养其他食物改变吗？</title>
+                <link>http://daily.zhihu.com/story/9792363</link>
+                <description>瞻云，先让一部分知识有趣起来 查看知乎原文 现在很多人容易陷入一个误区，以为大熊猫濒危，是因为它们吃竹子。 是进化得不成功。 恰恰相反，它们进化得很成功。 没有竹子，就没有大熊猫。 我们先来看看，大熊猫食性的演化过程。 大熊猫位于熊科（Ursidae）基干，祖先比其它熊亚科（Ursinae）成员更加的古老。 早期熊科动物主要是杂食性的。 杂食性就意味着，同时存在肉食和植食偏好。 通常来说，哺乳动物…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-26dca5488f4303ccad536c2868bd2da4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,314 +31,578 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-f6fc5bd1779c092ddbd08cec8a1d270e_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/1971756393460655158/answer/1984521657457607927" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>现在很多人容易陷入一个误区，以为大熊猫濒危，是因为它们吃竹子。</p>
+<p>是进化得不成功。</p>
+<p>恰恰相反，它们进化得很成功。</p>
+<p>没有竹子，就没有大熊猫。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d7a3874d08cc1e4440ccb815e6281f5_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>我们先来看看，大熊猫食性的演化过程。</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-632e8babf9460341182a4e655e56d0e5_720w.jpg?source=8673f162" alt=""></figure>
+<p>大熊猫位于熊科（Ursidae）基干，祖先比其它熊亚科（Ursinae）成员更加的古老。</p>
+<p>早期熊科动物主要是杂食性的。</p>
+<p>杂食性就意味着，同时存在肉食和植食偏好。</p>
+<p>通常来说，哺乳动物的肉食偏好由鲜味受体（T1R1+T1R3）决定，作用于 L- 谷氨酸为代表的 L- 氨基酸<sup>[1]</sup><sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a87b1f8dbccd00a5ec13e7135932ba57_720w.jpg?source=8673f162" alt=""><figcaption>T1R1/T1R3 与 L- 谷氨酸（L-glutamate）结合</figcaption></figure>
+<p>植食偏好则由（T1R2+T1R3）决定，作用于多种糖类<sup>[3]</sup><sup>[4]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2f039ac461fe474fe70977b8f787d85d_720w.jpg?source=8673f162" alt=""><figcaption>T1R2/T1R3 与多种糖类的结合</figcaption></figure>
+<p>T1R3 受体是鲜味和甜味都必不可少的，T1R1 和 T1R2 则直接决定了鲜味和甜味的有无。</p>
+<p>所以，早期熊科和人类（祖先）一样，同时存在鲜味受体和甜味受体。</p>
+<p>这样的高兼容性，也有更强的多种环境适应能力。</p>
+<p>最早的熊科大约在 3000 多万年前出现。</p>
+<p>兼性植食的长期需求，使得早期熊科动物就有了一定的抓握需求，因此发展出了假拇指。</p>
+<p>当然，早期假拇指非常的不发达。</p>
+<p>大熊猫的祖先（大熊猫亚科，Ailuropodinae）则在 1900 万年前就逐渐独立了出来，同时继承了两种味觉和假拇指。</p>
+<p>值得说明的是，早期大熊猫亚科并非东亚才有，而是广泛分布于美洲、欧洲和亚洲<sup>[5]</sup>，它们的体型宽度往往是现代熊猫的 3 倍<sup>[6]</sup>。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e215c45bea862422d68eb66167d11997_720w.jpg?source=8673f162" alt=""><figcaption>尼氏郊熊猫（Agriarctos nikolovi）复原图</figcaption></figure>
+<p>可以说在森林杂食生态位中，它们进化得非常成功。</p>
+<p>800 万年前，生活在中国华南地区的<strong>禄丰始熊猫</strong>（<em>Ailurarctos lufengensis</em>）<sup>[7]</sup>，便是这样的成功代表。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a33c9966f215a7a606a227fb9e13273b_720w.jpg?source=8673f162" alt=""></figure>
+<p>即便在中国，古大熊猫的分布远远比今天的范围大得多<sup>[8]</sup>。</p>
+<p>不仅整个长江流域以南，甚至以北都有所分布。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-518dd671528d87f6eb9e7f3665dc2075_720w.jpg?source=8673f162" alt=""><figcaption>古大熊猫分布（黄）、竹林覆盖区（绿）、现代大熊猫分布（橙）</figcaption></figure>
+<p>不过 700~540 百万年前的晚中新世，一切都发生了变化。</p>
+<p>全球性大降温来袭<sup>[9]</sup>。</p>
+<p>两极冰盖增加，全球气候逐渐干旱，森林大规模退化。</p>
+<p>这一次大降温，直接促成了现代生态系统的形成。</p>
+<p>在这个过程，森林依赖型哺乳动物遭到了重创，其中便包括古大熊猫、古猫科、部分鬣齿兽、古猿在内的大量的哺乳动物。</p>
+<p>森林的压缩不仅意味着栖息地和食物减少，更意味着与同生态位的其它熊科、犬科等有着更激烈的竞争，同时也需要面临着更高的被捕食压力。</p>
+<p>在这个过程，分布在全球其它地区的古大熊猫全部灭绝了。</p>
+<p>分布于中国的古大熊猫则因为特殊的环境，以及食性的转变而幸存。</p>
+<p>在全球大降温的背景下，四川盆地与周围的横断山脉、秦岭、大巴山脉形成典型的气候避难所。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0e79573b7c958a1823c052859341b1db_720w.jpg?source=8673f162" alt=""></figure>
+<p>森林和古大熊猫的栖息地也往这些范围压缩。</p>
+<p>同时早期的亚热带森林也朝着温带森林转变，不仅可捕猎的肉食减少，甚至果实、块根、嫩叶等优质植物资源也变得越来越少。</p>
+<p>唯一稳定存在的资源，是广袤的竹林。</p>
+<p>而竹林成片以后，其它植物往往很难生长，从而使得竹林资源变得更加具有独一性。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e021d595fd0b77aadcb6aded767d6207_720w.jpg?source=8673f162" alt=""></figure>
+<p>竹笋具有嫩脆、鲜甜的特点。</p>
+<p>随着食物资源的匮乏，杂食性的古熊猫自然不得不开始大量被动食用竹笋。</p>
+<p>特殊的生境和食物，最终带给古大熊猫特殊的演化压力。</p>
+<p>不吃竹笋的古大熊猫，因为无法获得足够的食物而死亡。吃竹笋而无法适应的古大熊猫，最终也被淘汰。</p>
+<p>这使得剩下的大熊猫对竹笋更加偏好，也更加的适应。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-832353a3f569749b45bc22e753e82f90_720w.jpg?source=8673f162" alt=""></figure>
+<p>同时由于竹林环境的资源匮乏，更加缺少大型捕食者，它们和后代也更容易存活。</p>
+<p>这也是大熊猫演化过程，有所小型化的原因之一。</p>
+<p>当然，竹林里的竹笋、嫩叶资源有限，而且也呈现季节性变化，这使得特化的大熊猫在种群发展的过程中，不得不尝试食用更加坚硬的成竹。</p>
+<p>最终淘汰存活下来的大熊猫，对竹林环境越来越来适应，诸多的生理特征也发生了转变。</p>
+<p>例如，它们的牙齿、头骨，以及肌肉结构都发生了变化，更加适应坚硬且富含纤维的竹子饮食。</p>
+<p>不过由于演化时间太短，它们的消化道依旧还是典型肉食目祖先的消化道，只能依靠肠道菌群对竹子进行有限的消化。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d5f7c047cad82aca3bec19762b9441b_720w.jpg?source=8673f162" alt=""></figure>
+<p>但它们通过极高的摄食效率、高摄食量 / 时间（30kg，10h），快速吸收可用营养，尽量减少纤维滞留等来弥补缺点。同时通过摄取竹子不同部位，满足营养均衡的需求<sup>[10]</sup>。</p>
+<p>甚至为了提升摄食效率，它们不仅拥有巨大臼齿，强大咬肌，甚至发展出了更加发达的假拇指。</p>
+<p>假拇指的演化，也有演化动力驱动。</p>
+<p>不仅竹子圆而大，抓握需要力量，而且它们喜爱的竹笋也结构特殊，层层包裹。</p>
+<p>这使得它们在抓握的牢固性上以及精细上，比起其它熊科动物，都有了更高的需求。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-531456dfa644f4ad6cf9306776024042_720w.jpg?source=8673f162" alt=""></figure>
+<p>生物演化过程，越是特化，越很难再走回头路。</p>
+<p>大熊猫祖先已经发展成攻击性爪子的指头，很难再发展成人类这样的对生拇指。</p>
+<p>但对生抓握能力又是很有必要。</p>
+<p>那剩下的办法，就是强化其它的骨骼。</p>
+<p>熊科动物，大多数都有一个叫作桡侧籽骨（<em>radial sesamoid</em>）的骨骼<sup>[11]</sup>。</p>
+<p>但大多数熊科动物，这个骨骼都只是微微的凸起。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b007af988fe3b69f976a6153633b3b00_720w.jpg?source=8673f162" alt=""><figcaption>基干熊科（A）、大熊猫（B）、人类（C）骨骼对比</figcaption></figure>
+<p>大熊猫却几乎发展成了一根独立的手指。</p>
+<p>从而使得大熊猫，掌握了比较优秀的对握能力。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-31b5dbed61d27fd166a622c8bb586abc_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-330a515c02aba1b0cd4d9ad4c0467d8d_720w.jpg?source=8673f162" alt=""></figure>
+<p>虽然桡侧籽骨因为缺少肌肉，且与第一掌骨、月骨是刚性连接的，并非像人类拇指那样能够独立运动，被称为假手指。</p>
+<p>但它依旧可以提供相对有力的抓握能力。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-18bb4262c697efc8fded30cc22c901a8_720w.jpg?source=8673f162" alt=""></figure>
+<p>以及通过远端的钩状结构，提供比较精细的抓握，从而完成夹持和剥食竹笋等相对高难度的动作。</p>
+<p>大约 600 万年前，大熊猫的桡侧籽骨发生了延长，并在后来的演化过程中，发展出了远端钩状结构。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f46a609e160bc69a13c3495a249ea8e3_720w.jpg?source=8673f162" alt=""></figure>
+<p>由于竹林资源的匮乏属性，竹笋成为大熊猫最珍贵的口粮，因此为了寻找竹笋，它们被迫发展出了更强的专性选择。</p>
+<p>例如，对竹子敏感的嗅觉可以帮助它们分辨竹子的各个部位（干、笋、嫩叶），它们更加偏好咀嚼竹笋时的嫩脆不涩的口感。</p>
+<p>另外还有一个最关键的就是甜味受体。</p>
+<p>嫩竹笋、竹芽是竹子中含糖量最高的部分之一，对甜味敏感，是大熊猫喜欢吃竹笋及圈养大熊猫喜欢吃水果点心的重要原因。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-950e01cb34a765f92fd2255a803a9a59_720w.jpg?source=8673f162" alt=""></figure>
+<p>大约在 420 万年前，大熊猫发生了基因突变，T1R1 成为了假基因，它们不再拥有鲜味受体<sup>[12]</sup>。</p>
+<p>或许是特殊的竹林环境，反而使得这种基因突变成了优势——鲜味不再竞争，甜味行为的奖赏权重被放大。</p>
+<p>因此，后来的大熊猫都是 T1R1 失活这一支的后代。</p>
+<p>而且由于鲜甜的竹笋同时也是含有蛋白质最丰富的竹子部分，T1R1 失活也不会影响它们蛋白质的摄入。</p>
+<p>相反牛羊等反刍动物，则有保留 T1R1 的必要性，以摄食蛋白质更高的牧草。</p>
+<p>不过祖先的杂食性以及竹林生态位资源的匮乏，也使得大熊猫依旧保留了比牛羊等反刍动物更强的机会主义。</p>
+<p>因此，大熊猫的肉食性虽然罕见，但通常比牛羊更加常见。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd7e993995a974b8fc25b55ca2415d07_720w.gif?source=8673f162" alt=""></figure>
+<p>大熊猫这种机会主义是有必要的，大大增加了它们的生存能力。</p>
+<p>在各种古熊猫灭绝的大背景下，现代熊猫的祖先经过长大数百万年的演化，几经起起落落，和人类祖先一样也曾出现过多次演化瓶颈<sup>[13]</sup>，但它们最终适应了竹林生态位，并获得了成功。</p>
+<p>数万年前，随着古人类在华夏的崛起，出现了典型的「人进猫退」现象，但此时依旧分布广泛。</p>
+<p>至少 6000 年前，大熊猫在中国都广泛分布于中国南部。</p>
+<p>随着古中国部落的发展，6000 年前大熊猫的遗传多样性有所下降，但整体上逐渐适应了古中国人的存在，在 2000 年前的古典文明时期，反而有所恢复<sup>[14]</sup>。</p>
+<p>即便最保守估计，200 年前大熊猫的数量至少有数万规模。</p>
+<p>20 世纪期间，早期中国捕杀大熊猫并不违法，它们因皮毛，或作为害兽被猎杀，也有活体送往西方。</p>
+<p>也即 100 年来，野生大熊猫数量才开始急剧下降，并在 1970 年代达到最低谷，最终只剩下 1000 只左右。</p>
+<p>所以，大熊猫的濒危完全不是因为吃竹子。</p>
+<p>反而正是因为它们的祖先改变了食性，专性吃竹子，它们才一直存活到了今天。</p>
+<p>如果没有人类威胁，它们长时间会是广袤竹林里无忧忧虑，没有天敌的动物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ed15ae92abb8df5ac049fae1c2bc1376_720w.gif?source=8673f162" alt=""></figure>
+<p><strong>了解了大熊猫的食性演化，再来分析问题，自然就容易多了。</strong></p>
+<p>相比起人类祖先从典型植食性发展为杂食性，肉食性的增强，大熊猫祖先的植食性远远特化得多。</p>
+<p>食性主要由先天生理和后天行为共同所决定。</p>
+<p>如果大熊猫出生后，完全没有母亲示范吃竹子、竹笋，缺失了行为学习，完全不知道竹子的存在，它们一开始自然无法产生后天的竹子偏好。</p>
+<p>由于它们的消化系统，足以适应合理营养搭配设计的非竹植食，那么它们同样可以健康的成长。</p>
+<p>当然，这里健康同样包括了牙齿和咬肌的发展，也即食物中可能需要类似竹子那样的纤维刺激。缺失纤维刺激，有可能影响口腔生物力学。</p>
+<p>虽然大熊猫缺失了鲜味受体，但更强的机会主义属性，也意味着它们很容易模仿母亲（或其它成年大熊猫）而产生相应的摄食行为偏好。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8fca93cb128be3db391526634c7facf9_720w.gif?source=8673f162" alt=""></figure>
+<p>要么寻找本身有捕食习性的大熊猫，要么通过大熊猫饲养员“捕食”示范，来增强大熊猫幼崽的狩猎行为。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-1d68c6c26446bd08219ee990469d6385_720w.jpg?source=8673f162" alt=""></figure>
+<p>总之，如果你愿意不计成本的话，是足以把一部分大熊猫幼崽培养成后天杂食性，但同时拥有捕猎行为的熊的。</p>
+<p>这样的大熊猫，很显然食性和其它的熊已经没啥区别……</p>
+<p>当你培养成功后，需要尽可能让它们不再接触到竹子，尤其是竹笋。</p>
+<p>虽然它们对竹子的后天偏好没有建立，但先天偏好却是一直存在的。</p>
+<p>当它们某一天突然吃到竹笋，可能会如同已经成年的你，才第一次吃到你这辈子最喜欢的食物时，感受到的味蕾瞬间被打开的哪种前所未有的惊艳……</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b1ab610d934cf6486012a7432481eb19_720w.gif?source=8673f162" alt=""></figure>
+<p>你曾经让它们建立的饮食偏好，虽然不至于完全被打破，但它们可能会情不自禁地摄入大量竹笋，竹子。</p>
+<p>然而，由于你给它们从小建立的肠道菌群，并非与竹子匹配，它们有可能会吃出消化道问题。</p>
+<p>要知道，对于圈养大熊猫来说，因消化器官和消化机能尚不健全的亚成体死亡最多，占死亡总数的 64%。</p>
+<p>显然，这样培养大熊猫是百害而无一利的。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1971756393460655158">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792363</guid>
+                <pubDate>Sun, 06 Sep 2026 02:29:13 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>为什么几千年作为蔬菜的甜菜，没有被发现能产糖？</title>
+                <link>http://daily.zhihu.com/story/9792375</link>
+                <description>瞻云，先让一部分知识有趣起来 查看知乎原文 这是野生甜菜。 看起来和杂草都没啥区别。 含糖量非常的低。 只有 1%~3%[1][2]，在所有可食植物根部中都是垫底的。 甚至比不上萝卜，仅仅比山药好一些[3]。 虽然饮水中，人最低可感知约莫 0.23%的糖浓度[4]，但在蔬菜中要感知到甜味，浓度则高得多，尤其是被苦味掩盖时[5]。 依据大多数有甜感的蔬菜糖浓度，可能需要 5%左右才能感受到甜味。 例…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-0c6a6a34b4fe4497078c41d7be79b1c2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
+<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
+<a href="https://www.zhihu.com/question/1940042526502422493/answer/1953801685202896834" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>这是野生甜菜。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-24360abea8f67aefe79fbff992b3fccb_720w.jpg?source=8673f162" alt=""></figure>
+<p>看起来和杂草都没啥区别。</p>
+<p>含糖量非常的低。</p>
+<p>只有 1%~3%<sup>[1]</sup><sup>[2]</sup>，在所有可食植物根部中都是垫底的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-19b6a1c3f59b050d6193113863bba679_720w.jpg?source=8673f162" alt=""></figure>
+<p>甚至比不上萝卜，仅仅比山药好一些<sup>[3]</sup>。</p>
+<p>虽然饮水中，人最低可感知约莫 0.23%的糖浓度<sup>[4]</sup>，但在蔬菜中要感知到甜味，浓度则高得多，尤其是被苦味掩盖时<sup>[5]</sup>。</p>
+<p>依据大多数有甜感的蔬菜糖浓度，可能需要 5%左右才能感受到甜味。</p>
+<ul>
+<li><em>例如，豌豆的糖浓度便是 5%左右，洋葱甚至可显著超过 5%</em><sup>[6]</sup><em>。</em></li>
+</ul>
+<p>而野生甜菜本身就是苦味为主，还有夹杂着腥涩味<strong>、</strong>草味、轻微咸味，所以几乎无法尝出甜度。</p>
+<p>最关键的是，甜菜的主要糖分位于根部。</p>
+<p>野生甜菜却没有膨大的块根，和现代甜菜的差异非常大<sup>[7]</sup>：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-974fa1767abf432d04f2cff5a461b318_720w.jpg?source=8673f162" alt=""><figcaption>不同的甜菜品种</figcaption></figure>
+<p>从左到右，从上到下依次为：</p>
+<ul>
+<li><em>野生甜菜（左上）、瑞士甜菜（右上）、饲用甜菜（左下）、糖用甜菜（中下）、菜用甜菜（右下）</em></li>
+</ul>
+<p>野生甜菜的学名为海甜菜（<em>Beta maritima</em>），苋科甜菜属。</p>
+<p>所有的现代甜菜，都是由它逐渐驯化培育而成。</p>
+<p>曾经主要分布在西欧、北欧和地中海沿岸<sup>[8]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0d78008fa0c9c2459d1b1d47f78ced05_720w.jpg?source=8673f162" alt=""><figcaption>野生甜菜分布（实线箭头 - 距离远亲缘近；虚线箭头 - 距离近亲缘远）</figcaption></figure>
+<p>所以，地中海沿岸和西欧、北欧的早期文明，都有食用甜菜的痕迹发现。</p>
+<p>最早大约是 5000 年前的丹麦。</p>
+<p>早期文明食用的甜菜，大多具有烧焦痕迹，这意味着早期食用方式非常的原始<sup>[9]</sup>。</p>
+<p>此时人类对甜菜的认识，可能仅仅是一种无毒的、能烧着吃的植物。</p>
+<p>甜菜正式登堂入室，大约是 2000 多年前的古希腊和古罗马。</p>
+<p>由于野生甜菜纤维比较多且粗，再加上没有块根，所以希腊人和古罗马人基本上只吃比较嫩的叶子，炖煮为主。</p>
+<p>至于根部，则拿来入药。</p>
+<p>公元 1 世纪的希腊医师迪奥斯科里德斯（Dioscorides）认为：</p>
+<blockquote>深色甜菜会导致便秘，白色甜菜可以通便。</blockquote>
+<p>完全野生的甜菜是白色的，这意味着，因为长期的食用，此时已经出现了早期的栽培品种。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-342aa48f4fa1b6497f161bff285a16ca_720w.jpg?source=8673f162" alt=""><figcaption>迪奥斯科里德斯（Dioscorides，约 40—90 年）</figcaption></figure>
+<p>甜菜叶子里的含糖量本来就比根部还低很多，古希腊、罗马人的炖煮吃法，使得剩下的菜或者汤，甜浓度更是会远远低于人的味觉。</p>
+<p>正因为吃不出甜味，所以早期古希腊和古罗马人，也并不叫它甜菜，叫法更类似于可食用的菜类植物。</p>
+<p>罗马人阿皮修斯（Apicius）在其食谱中描述了多种甜菜菜肴：</p>
+<blockquote>将甜菜切片，与韭葱一起，加入研碎的香菜和孜然，倒入葡萄干酒，煮至完美，最后把甜菜从汤中取出，拌上油和醋食用。</blockquote>
+<p>他还建议用芥末调味甜菜，并将其浸泡在油和醋中腌制。</p>
+<p>在后来很长一段时间，甜菜都是炖煮的吃法为主。</p>
+<p>这就使得很长一段时间，人们都没有意识到这是一种能产出糖分的菜。</p>
+<p>但凡事都有例外。</p>
+<p>野生甜菜的根系存在额外的形成层，所以本身是有潜力膨大化的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5bb27b5027b0a2f62e947d60fafd9f8f_720w.jpg?source=8673f162" alt=""><figcaption>现代甜菜块根中的形成层</figcaption></figure>
+<p>至少从公元 1 世纪开始，甜菜便已经在被人们有意无意的驯化。</p>
+<p>5 世纪左右的绘画，已经出现了略微膨大的根部。</p>
+<p>虽然依旧还有明显的主根。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-566a450f5f27d9e9be630318c9679b0d_720w.jpg?source=8673f162" alt=""></figure>
+<p>随后又过了 1000 年的时间。</p>
+<p>一直到 16 世纪，才出现了典型的根系膨大的甜菜。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8a32c8ca1d7ded3a1018440b94dd87c3_720w.jpg?source=8673f162" alt=""><figcaption>Raphael Sanzio（1517）</figcaption></figure>
+<p>而且随着块根的出现，主根逐渐消失，以须根为主。</p>
+<p>当然，这个时期的其它甜菜品系，还是以不发达的根系为主。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5f877e333d5bdf23df0bd5531c63906b_720w.jpg?source=8673f162" alt=""><figcaption>Leonhart Fuchs（ 1552）</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fcdf5a9496ba9e909d2493912d59cf0b_720w.jpg?source=8673f162" alt=""><figcaption>Dalechamps (1586)</figcaption></figure>
+<p>甜菜根系膨大的驯化压力是比较明显的。</p>
+<p>毕竟根系越膨大，整个植株重量和可食用的部分都会增加。这样无论冬季保存，还是作为畜牧用途，都会更有优势。</p>
+<p>而且到了 15 世纪，中世纪才结束。很有可能早期的食物匮乏，根部也会被食用，加速了甜菜等蔬菜的驯化。</p>
+<p>但由于这个时期甜菜的驯化，并没有甜味的选择压。所以，此时根系膨大的甜菜，甜味浓度也是非常低的，和野生甜菜很接近。</p>
+<p>糖浓度虽然没变，但根系膨大了，整颗植株的糖含量就增加了，这就为未来发现甜菜中的蔗糖埋下了伏笔——大量煮食甜菜块根，总会有水分蒸发浓缩，发现甜味的时候。</p>
+<p>最早发现甜菜甜味的人是谁，我们已经不知道了。</p>
+<p>但至少在 1575 年，法国的一位农学先驱奥利维尔·德·塞雷斯（Olivier de Serres）便发现<sup>[10]</sup>，甜菜根煮沸后会流出一种类似糖浆的液体，因其深红色而非常美观。</p>
+<p>口感酸酸甜甜的甜菜版罗宋汤，也大致在这个时期开始出现。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e5b1aa0f106614682e5c8d51962349c5_720w.jpg?source=8673f162" alt=""><figcaption>甜菜罗宋汤</figcaption></figure>
+<p>由于此时葡萄牙、西班牙等国，已经在美洲、亚洲建立了甘蔗种植园，结晶蔗糖生产已逐渐商业化，塞雷斯发现的这种低浓度糖浆并没有受到人们的关注。</p>
+<p>随着蔗糖工业的建立，整个欧洲进入了疯狂噬糖的时代。</p>
+<p>随后 100 多年，在蔗糖工业迅猛发展的同时，甜菜的驯化也进入了快速发展的时期。</p>
+<p>1712 年的画作中，已经出现了块根非常发达的甜菜。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1286463b9c71097e0a22064da0aac708_720w.jpg?source=8673f162" alt=""><figcaption>Filippo Strozzi（1712）</figcaption></figure>
+<p>虽然这个画作可能有夸张的成分，但至少甜菜的块根已经有了现代规模。</p>
+<p>块根大了，工业化提取糖分的可能性也就高了。</p>
+<p>18 世纪中叶，想要对糖工业分一杯羹的普鲁士国王腓特烈大帝，资助了一系列甜菜糖分提取实验。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b3d82dcba9d5c800b6e6c763742f5d1d_720w.jpg?source=8673f162" alt=""></figure>
+<p>1747 年，德国化学家马格拉夫（Andreas Sigismund Marggraf）<sup>[11]</sup>最早从甜菜中提取出了糖分，并证明和甘蔗中的糖分相同。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d7bef596e0c005cf33541be3e3c97617_720w.jpg?source=8673f162" alt=""><figcaption>马格拉夫（Andreas Sigismund Marggraf，1709 年 3 月 3 日—1782 年 8 月 7 日）</figcaption></figure>
+<p>其实高糖含量的植物块根并不少，例如胡萝卜和甘薯等等。</p>
+<p>但这些植物的糖含量都比较杂，往往同时具备蔗糖、葡萄糖，以及果糖。</p>
+<p>在这些糖分中，只有蔗糖是比较容易结晶的。</p>
+<p>蔗糖的饱和溶液，温度低到 70℃以下就可以开始结晶，工业化控制在 50℃左右，结晶效率就非常高了。</p>
+<p>然而葡萄糖和果糖的结晶温度则在 20~30℃，在夏天或者温度略微偏高的室内就无法结晶，所以工业化困难。而且它们的结晶还有容易吸水，稳定性差，不适合大量保存的特点。</p>
+<p>所以，工业化的理想选择就是高蔗糖植物。</p>
+<p>甘薯的蔗糖比例不到 1/3，胡萝卜虽然高一些，但 60%左右的比例，也不适合工业化。</p>
+<p>所以，甜菜适合糖工业化的另外一个最关键条件，就是蔗糖比例高，达到 98%以上。</p>
+<p>不过，马格拉夫所在这个时代的甜菜糖分含量，依旧非常低。</p>
+<p>因为早期驯养压力并不侧重在甜度上，所以和野生甜菜依旧接近，含糖量为 1.3%~1.6%。</p>
+<p>马格拉夫依旧发现，白色甜菜是最佳的糖料来源。</p>
+<p>不过，如此低的浓度，要发展甜菜蔗糖工业，成本会极其的大。</p>
+<p>也正是因为如此，腓特烈大帝的计划并没有成功。</p>
+<p>1786 年，腓特烈大帝去世的这一年，马格拉夫的学生弗朗茨·阿查德（Franz Achard）<sup>[12]</sup>承担起了甜菜糖工业化的重任。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2a59efd39e84037c1e5b567683214254_720w.jpg?source=8673f162" alt=""><figcaption>弗朗茨·阿查德（Franz Achard，1753 年 4 月 28 日—1821 年 4 月 20 日）</figcaption></figure>
+<p>提到甜菜糖工业历史，阿查德是绕不开的人物。</p>
+<p>明确的科学驯化思维和方式，是他成功的关键。</p>
+<p>他接下重任后，率先评估了 20 多个甜菜品种的含糖量，随后才开始精心植物育种。</p>
+<p>最终他与合作者选育出了一种白色圆锥形块茎的甜菜，认为是理想的糖工业化品种，命名为 weiße schlesische Zuckerrübe。</p>
+<p>但他并没有急着工业化，而是一直继续培育到了 1800 年。</p>
+<p>从最开始选育到现在，已经经过 14 年，weiße schlesische Zuckerrübe 的含糖量也提升到了 5%~6%。</p>
+<p>相比起其恩师马格拉夫所用的甜菜，糖浓度已经提高了 4 倍。</p>
+<p>随后他开始了甜菜糖工业化，并在第二年，也即 1801 年获得了成功，在西里西亚（今波兰科纳里）开设了世界上第一家甜菜糖厂。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9bb34de75858d97451971bd0db79be20_720w.jpg?source=8673f162" alt=""></figure>
+<p>随后几年间，大量甜菜糖厂在德国出现。</p>
+<p>早期甜菜糖厂的炼糖效率并不高，不过拿破仑实施的禁运政策，导致甘蔗糖无法进口到德国，反而促进了甜菜精炼技术的迅速发展。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e4e9fdc077c62ff680e4bcff9c40825b_720w.jpg?source=8673f162" alt=""><figcaption>19 世纪的甜菜糖工厂</figcaption></figure>
+<p>德国甜菜工业获得成功后，法国反而开始效仿。</p>
+<p>从此以后，欧洲甜菜产业开始迅速扩张。</p>
+<p>到 1840 年，世界上便有大约 5%的糖来源于甜菜。</p>
+<p>糖工业的发现，也飞速刺激了现代甜菜的驯化。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-adc89ad32f6c9443831d94e1aeb08e99_720w.jpg?source=8673f162" alt=""><figcaption>James Peale（1826）</figcaption></figure>
+<p>1860 年以后，甜菜的糖含量已经普遍超过 12%，最高达到 18%。</p>
+<p>现代甜菜品系，也基本奠定。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5f55c5bf523e11e13b7452948107a737_720w.jpg?source=8673f162" alt=""><figcaption>Benary （1876）</figcaption></figure>
+<p>到 1880 年，世界上的糖，已经超过 50%来源于甜菜。</p>
+<p>进入 20 世纪以后，甜菜的糖浓度最高已经超过 20%。</p>
+<p>最终，野生甜菜完成了彻底的蜕变<sup>[13]</sup>：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-66d269b56939e6b99aa3c8ffceb2ec03_720w.jpg?source=8673f162" alt=""><figcaption>图中 B、C、D、G 为野生甜菜和现代甜菜根系对比</figcaption></figure>
+<p>现代甜菜的大多数品系，尤其是糖用甜菜，大多源于阿查德主导培育的 weiße schlesische Zuckerrübe。</p>
+<p>然而令人唏嘘的，阿查德自己的炼糖厂在 1807 年发生了多起火灾，并于 1815 年破产<sup>[14]</sup>。</p>
+<p>随后几年他一直穷困潦倒，依靠微薄的津贴或援助生活。</p>
+<p>并一直持续到他于 1821 年去世。</p>
+<p>但世界上总有人记住他：开启了一个时代。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1940042526502422493">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792375</guid>
+                <pubDate>Sun, 06 Sep 2026 02:29:14 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>英语「China」是来自「秦」、「晋」，还是别的来源？</title>
+                <link>http://daily.zhihu.com/story/9792385</link>
+                <description>CodeRyan，什么都看 查看知乎原文 这个是一个争议问题。先说一下毫无争议的溯源是梵语चीन（Cīna，国际音标：[ˈt͡ʃina]，连字音标 Ci-Na，大致为“齐那”或“基那”），但梵语究竟为何把中国称为 Cīna 就是个历史争议比较大的区域了。 先简单解释一下前面回答中几个基本可以排除的答案： 1.晋。 这个观点最早是清末苏曼殊（1884-1918）提出来的，他是中日混血的诗人和翻译家，…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-eccbcd04b2526e00026add5f7ca34b80.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-fd3ed686ee613d2dcfbe980c0758fbbc_l.jpg?source=8673f162">
+<span class="author">CodeRyan，</span><span class="bio">什么都看</span>
+<a href="https://www.zhihu.com/question/621990905/answer/1998000441766727808" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>这个是一个争议问题。先说一下毫无争议的溯源是梵语चीन（Cīna，国际音标：[ˈt͡ʃina]，连字音标 Ci-Na，大致为“齐那”或“基那”），但梵语究竟为何把中国称为 Cīna 就是个历史争议比较大的区域了。</p>
+<p>先简单解释一下前面回答中几个基本可以排除的答案：</p>
+<p>1.晋。</p>
+<p>这个观点最早是清末<span class="nolink">苏曼殊</span>（1884-1918）提出来的，他是中日混血的诗人和翻译家，通晓中、日、英、梵四种语言，那个时候 China 还可以念作“支那”且并无侮辱性质（侮辱性是清亡之后日本官方文件使用该词导致的），苏曼殊认为这个词与秦朝无关，因为秦在上古汉语中为浊音（[dzin]），近代才转变为清音。</p>
+<p>之后，学者<span class="nolink">郑张尚芳</span>（1933-2018）主张，这个词实际来自<span class="nolink">晋</span>（[ʔsins]）的音转。</p>
+<p>这个答案国际接受度并不高，因为这个答案根本无法解释梵文<span class="nolink">史诗</span>《<span class="nolink">摩诃婆罗多</span>》、《罗摩衍那》中已经有这个词并且根据描述可以明确推断就是指的中国，而《摩诃婆罗多》中提及中国的章节被 Spitzer Manuscript（发现于 1906 年的新疆库车）证实在最晚在公元 230 年就完全成型，《罗摩衍那》更是最晚于公元三世纪定稿，而晋在公元 266 年才建国，怎么看都不像是史书里面能够被广泛使用的词的词源。</p>
+<p>另外一个比较有力的证据就是考底利耶的《政事论（Arthashastra）》，这本书失传了，但是后来又被找到并且存在大量的残存记录，书中第二卷到第六卷被认为是超过千年以上古老的部分，学界普遍认可它成书于公元前 3 世纪左右，在这里面就明确提及了 Cīnapatta 起源于 Cīnabhumi，patta 是丝绸，bhumi 表地点，怎么看都是丝绸之路带来的丝绸来到了印度。硬要往上靠也只能是春秋时期的晋国，但晋于公元前 376 年三家分晋结束，又和《<span class="nolink">摩诃婆罗多</span>》、《罗摩衍那》对不上了，因为它们最早成书于公元前 4 世纪，由于后世对该词的使用从未变过，晋国灭亡后词未变动是很难自圆其说的。</p>
+<p>所以不论怎么看，提出“晋”是词源的，是纯从语言学的发音推断的，但发音在流转的时候会变。</p>
+<p>唯一遗憾的是，上述证据都不算是铁证，毕竟没能发现任何一个残本上面直接有चीन，没办法直接用年代来否定，所以晋这个说法拍不死，但是普遍接受不了，近年来这个说法提及比较多是因为郑张尚芳是语言学的大佬，在国内影响力巨大，考证了大量上古汉语的发音，他提的这个观点考古学上也没有铁证能给否掉，因此大部分学者对这个观点持观望态度，因为这个说法实在是和梵语那边的发现关系很微妙。</p>
+<p>2.长安</p>
+<p>晋还能解释为发音出现清浊化变种的问题，长安这个就真的是完全没有对应关系了。中古汉语（魏晋至唐）读 /drjaŋ 'an/，上古汉语（周至汉）白一平和沙加尔考证为 /*Cə-[N]-traŋ [ʔ]ˤa[n]/，郑张尚芳考证为 /*daŋ qaːn/，不论是哪个，“长”字始终带有 aŋ元音，都不可能与 /ˈt͡ʃina/ 中的 in 对应，这个说法是可以一棍子拍死的。Cīna 的 -a 是一种梵语词干，而非音译。</p>
+<p>如果非得说是音译的话，那么汉西南的夜郎国自称为 /zina/，更为合理，根本都不用变化，直接抄过来就行。这个观点由澳大利亚学者 Geoff Wade 提出，然而最关键的问题是缺乏古代贸易证据证明发音的传入。</p>
+<p>3.契丹和清</p>
+<p>这俩就一边待着去吧，梵文里这个词的出现远早于它俩，说契丹的是中了马可波罗游记的毒，说清的大清亡啦！</p>
+<p>接下来说学界普遍的观点，国际普遍的观点。</p>
+<p>秦。</p>
+<p>这个说法最早是意大利传教士马提诺·马尔蒂尼（1614-1661，中文名卫匡国）提出来的。</p>
+<p>把词干拆解掉后，词根就剩下 Cīn，这个词根据年代大家首先猜测都是秦朝或秦国。这个字在上古汉语中，不论是白沙两人拟音作 /*dzin {*[dz]i[n]}/，郑张拟音作 /*d͡ziɪn/，可以看到 dz 这个浊辅音两者均认可，这也是“晋”论主要的质疑点，因为ˈt͡ʃin 是清辅音而晋的 /sins/ 的发音关系比 /dzin/ 要更近。</p>
+<p>晋论另一个主要质疑是，这个来源的质疑主要是秦朝的时间实在是太短了，只有公元前 221-202 年这么可笑的 19 年时间，19 年怎么能让当时印度这么个大文明采用这个名字作为中国的代称。</p>
+<p>这两点其实都是学者争议的焦点。前者相对比较好解决，因为印度是南线丝绸之路的终点，中间商人倒卖丝绸的时候，西域商人发音可能比较难发出 d͡z 这个塞擦音，而发的是 t͡ʃ塞擦音，这个有一个已经灭亡的古语系恰好能解释这个现象，就是吐火罗语系，它的辅音系统里有 t͡ʃ，但没有 d͡z<sup>[1]</sup>，而吐火罗语系恰好就在丝绸之路上，位于天山山脉附近：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bec197edf06bf7649cc29a665da7c10d_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以逻辑链非常的通顺，来自中原的商人把丝绸卖给使用吐火罗语系的西域商人，西域商人向印度商人描述丝绸的来源的时候，发音没有 d͡z 而使用 t͡ʃ代替，所以印度商人听到的是ˈt͡ʃin，因此记载为ˈt͡ʃina，是不是非常的精妙？</p>
+<p>换句话说，<strong>为什么丝绸之路沿线的所有国家都是清辅音ˈt͡ʃ？因为悄悄话游戏的第二棒西域把音读错了，就是这么荒唐可笑但合理的解释。</strong></p>
+<p>而后者这个 19 年的问题，这个确实是不好解释了，但是也有一个比较合理的推断，那就是丝绸之路的起源。丝绸之路的确在汉代才走向辉煌，但是这条陆上贸易路线真的是秦汉时期才出现的吗？</p>
+<p>这就很有趣了，德国<span class="nolink">斯图加特</span>的霍克杜夫村凯尔特人精英墓葬中<sup>[2]</sup>发现了中国丝绸，鉴年法测定为公元前 500 年前后，属于中国春秋时期。</p>
+<p>丝绸之路开始的时间远早于常规的认知秦汉，而丝绸之路的起点是秦地，所以秦商把丝绸卖给西域商人的时候，使用自称“秦”，不难理解为什么梵文里面，对 Cīna 印象最深刻的，当然是 Patta 咯。至于用中国的名字指代瓷器这件事，那就相当晚了,梵文的 Cinapatta 一个词就足够推翻瓷器一说。</p>
+<p><strong>当然，这个仍然是争议话题，因为现在“晋”和“夜郎”的说法虽然明显有漏洞但是很难被证伪，“秦”的说法缺乏考古学的铁证也难以被证实。</strong></p>
+<p>最后，国际上学界普遍接受的是“秦”，郑张流派和追随者主要接受“晋”。</p>
+<hr>
+<p>补充：如果晋国真的是词源的话，那么灭亡时间点至少应该落脚在公元前 200-100 年左右，才能比较合理的解释梵文成书的时间点，太早太晚都不行，因为它得需要保证足够长的时间存活来提供影响力使得称呼不发生变化，同时又得和其他文明接触的比较早来占据这个位置。</p>
+<p>我们从其他角度能够印证这个问题。</p>
+<p>斯拉夫语系中对中国的称呼是契丹 Kitay，这个直接就扇了北方游牧民族传播称呼的脸，因为斯拉夫民族在早期长期被游牧民族统治，结果对中国的称呼是辽朝的另一个名称契丹，而且在历史发展的过程中，目前只找到过 Seres（赛利斯，丝绸之国，词源古希腊语）这一个称呼，这就是接触太晚的表现。这也表明游牧民族并未把中国的称呼传入。</p>
+<p>日本则在历史上存在多个名字称呼中国，宋代日本僧人奝然直接在著作里写北宋为“中国”，明代日本回给明朝的国书中称呼中国为“中华”，此外“唐（から）”这个称呼在平日里也非常常用，或者直接以当时中国的朝代的国号称呼，反而是“支那（シナ）”是明治维新之后才逐步启用的，这个词公元 9 世纪即宋代的时候就随佛经传入了日本，但是根本不怎么用。这就是接触的晚，同时后世影响力过大导致称呼发生变化的典例，唐这个称呼极为典型。</p>
+<p>秦论的恰到好处在于，秦国到秦朝确实存在时间足够久能提供影响力，同时玉石之路的存在是与西方接触的铁证，时间点恰好卡上。晋国虽然能勉强满足接触说（还是被强扣的，晋国历史上跟西域贸易的记录少之又少，与漠北的交易记录倒是很多），但是偏偏中亚地区的哈萨克语的中国称呼是 Qitay，古蒙古语的称呼是 Kitad，因此漠北传音过去的说法是站不住脚的，鲜有历史记录证明这些中亚的民族称呼中国为 Cin，顶多有 Seres，这反而是接触不到中国的证据。</p>
+<p>别的说法当然可以质疑秦论，毕竟巧合论不是证明，但至少秦论是目前证据最多，逻辑链最完整的说法。</p>
+<hr>
+<p>补充 2：发现很多人对晋的地理位置实在是太模糊了，补一张根据《中国地图历史集》绘制的地图：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1201795264fb04b2840d6f3fa117afcc_720w.jpg?source=8673f162" alt=""></figure>
+<p>鼎盛时期的晋国从未摸到过河套平原，甚至连黄河以西都难以过去，这个位置它能接触到的商人只有漠北。</p>
+<p>注意在梵文中中国一词多与丝绸一起出现，包括古希腊、古罗马对古代中国的称呼都是赛里斯，所以这个时候主要的证据是丝绸之路，到底从谁那里是起点。</p>
+<p>这个毫无争议，一直是秦所在的汉中盆地。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-62d1b3e9177697fc58079f7177fc3c11_720w.jpg?source=8673f162" alt=""><figcaption>这张图咸海画的有问题，大致地理情况是对的</figcaption></figure>
+<p>之后走河西走廊进入西域，进而前往中亚。</p>
+<p>晋除了有一次玉石之路科考线是是从山西出发走漠北以外，其余考古遗迹全部表明都是从汉中平原进河西走廊的，直到魏晋南北朝以后才逐渐形成河套平原的路线，形成非常的晚。所以古代贸易说的晋论真的很难站住脚。</p>
+<p>此外，盛产丝绸说也是行不通的，因为春秋战国时期各国都有大规模种植丝绸的证据，的确可能晋的丝绸产业规模比较大，但不意味着秦国不产丝绸，这顶多为晋论提供间接证据。</p>
+<hr>
+<p>补一个太长不看版本：</p>
+<p><strong>秦（大概率）：证据最多，有地理路径传入证据，强时间节点吻合，音转存在吐火罗语系解释</strong><strong>晋（小概率）：只有音转证据，无地理路径传入证据，弱时间节点吻合，无接触证据</strong><strong>夜郎（极小概率）：只有罕见历史记载，存在地理路径假说，无接触证据</strong><strong>其余没可能。</strong></p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/621990905">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792385</guid>
+                <pubDate>Sun, 06 Sep 2026 02:29:15 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗？</title>
+                <link>http://daily.zhihu.com/story/9792390</link>
+                <description>也说，一二三聊职场，四五六谈感情。 查看知乎原文 古人应对箭伤比我们想的经验丰富。 有完善的处理 SOP（标准步骤）。 这种不用治了（来自《昭君出塞》） “箭矢”这个东西几乎是人类最原始的武器之一。 最早的记录是，约两三万年前古人类就开始使用弓箭。 一些岩壁画的记载。 苏纳泰尔岩壁画（约公元两万年前） 到了我国春秋战国时期，弓箭制作已经进入了成熟期，开始大规模应用于军队。 在 70、80 米的距离…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-97c1b8ad9a706ddaf2694cfdaf4e4649.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-f6fc5bd1779c092ddbd08cec8a1d270e_l.jpg?source=8673f162">
 <span class="author">也说，</span><span class="bio">一二三聊职场，四五六谈感情。</span>
-<a href="https://www.zhihu.com/question/28278600/answer/2059994047129841929" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/2062593631098343674/answer/2074952320601933522" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>说几样有趣的东西吧：“耐饥丸、千里脯、守山砖”。</strong><strong>先说“耐饥丸“</strong></p>
-<blockquote>也有叫“<strong>不饿丸、行军丸、赈灾丸</strong>”。</blockquote>
-<p>这个东西是我国古代历史上真实出现过的，不是”大力丸、仙丹”等江湖骗人的东西。</p>
-<p>据说能“吃一丸顶一餐”，最早可以追溯到北宋的一种“方便食品”，广泛应用在行军、赈灾、储备抗荒等场景。</p>
-<p>据记载北宋<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E9%2599%2588%25E6%258A%259F%25E8%2580%2581%25E7%25A5%2596/6857961%3FfromModule%3Dlemma_inlink" target="_blank" rel="nofollow noreferrer">陈抟老祖</a>曾研制“耐饥丸”，配方为“<strong>黑豆、芝麻、糯米和蜂蜜</strong>”。</p>
-<p>简单说就是“糖油混合物压瓷实”和今天的“压缩饼干成分差不多。</p>
-<p>蜂蜜本身就有抗腐的功效，相当于“糖渍保鲜”，加上水分少，耐存放，外面用蜡丸封上，可以防水抗腐放很久。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4f1de4d56c6bfe9fb6e8cd0801ec7d3b_720w.jpg?source=8673f162" alt=""><figcaption>这是压缩饼干</figcaption></figure>
-<p>清代的<span class="nolink">王士雄</span>和李化楠，又改良了配方，加入了“<strong>红枣、<span class="nolink">柿饼</span>”</strong>等高糖食物，然后进行推广。</p>
-<p>制作方法大同小异——</p>
-<p>把<strong>“糯米、黑豆、小米”之类的粮食</strong>捣烂，然后加入高油的<strong>芝麻、菜籽之类油脂作物，</strong>最后混入高糖的<strong>蜂蜜、红枣、柿饼</strong>等成分，搓成大丸子<strong>。</strong></p>
-<p><strong>一口一千大卡，就和今天小仙女吃的“通便丸”看起来差不多。</strong></p>
-<p>保存的时候，外面用蜡纸给封上。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-feaa89940986bda924f4d7ea83a00c91_720w.jpg?source=8673f162" alt=""><figcaption>博主按照配方制作出来的黑芝麻“耐饥丸”</figcaption></figure>
-<p><strong>它最大便利当然不是成本，而是“压缩高热量”。</strong></p>
-<p>对于行军部队，尤其是骑兵这种比较贵重、需要最大节约马力的兵种，可以只携带比较少的军粮重量，就高速移动几天。</p>
-<p>一个古代二两重（一斤十六两）的丸子，可以保证普通人一天不饿。</p>
-<blockquote>“临饥时食之,可保一日不饥,若再加人参,其妙又不可言矣”</blockquote>
-<hr>
-<p><strong>“千里脯”最早也是一种骑兵的精粮。</strong></p>
-<p>做法和今天的“牛肉干 + 猪肉脯”很像。</p>
-<p>肉类用牛、羊、猪皆可。</p>
-<p>取精者一斤、浓酒二盏、淡醋一盏、白盐四钱（冬天只要用三钱）、茴香、花椒末一钱，拌一宿，文武火煮令汁干，锤打成薄片，晒干或烤干。</p>
-<p>当时有一首诗：" 白盐四钱同搅拌，淹过一宿慢火熬。酒尽醋干穿晒却，味甘休道孔闻韶。"</p>
-<p>这样做出来的肉干香气十足，又能方便贴身携带，吃的时候在水里泡软或者煮软，应急时也可以撕咬直接干吃，而且口味不错。</p>
-<p>如今，这个方子留下来，已经变成了一种民间的零食和小吃。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-682d6642dcbce2014020dfc4ca3bb3a8_720w.jpg?source=8673f162" alt=""><figcaption>这是现代加了蜂蜜的肉脯，过去没那么多糖</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-743f9617857c6301075fc042ca4e832f_720w.jpg?source=8673f162" alt=""></figure>
-<hr>
-<p><strong>至于“守山砖”是另一种东西。</strong></p>
-<blockquote>也有叫“守山粮、萝卜砖”。</blockquote>
-<p>这个是专门给守卫在要塞、烽火岗的士兵的。</p>
-<p>我们去爬长城的时候，有时候会见到那么巍峨的山巅，有一个烽火楼或瞭望岗。</p>
-<p><strong>除了惊叹古代工匠的鬼斧神工，肯定也会想——谁给驻扎的士兵每天送饭啊？</strong></p>
-<p>守山砖的发明，就是为了防止大雪封山或者敌军来袭时候，困守要塞、堡垒的士兵断粮的。</p>
-<p>据说是：</p>
-<blockquote>“以<strong>萝卜和麦饭</strong>为原料，煮熟后混合，放入砖模制成砖坯，晒干后砌成墙的样子。”</blockquote>
-<p>日常，这些“守山砖头”就是岗哨士兵们遮风挡雨的内部墙体一部分。</p>
-<p>等到实在饿的不行了，又困守此处没有食物来源，把墙砸了，用水煮软，就是饭。</p>
-<p>这个今天找不到了，有 UP 主复刻过，因为是用烤箱烘培的，看起来更像是大块的“萝卜糕”，感觉应该不对。</p>
-<p>想象这个东西应该是很硬的，和放了三个月的月饼差不多，勉强煮软了能救命，但别想多好吃。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-37b07fcc618a7d8a89d5d9e68bca8386_720w.jpg?source=8673f162" alt=""><figcaption>网友仿制的“萝卜糕”</figcaption></figure>
-<p><strong>大概想象的样子类似这样——</strong></p>
-<p>一块一块垒起来，风干了非常硬。</p>
-<p>吃的时候砍碎了蒸熟吃。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-678e354c99e9b66dc562dfeb74af6c19_720w.jpg?source=8673f162" alt=""><figcaption>个人觉得更应该像这种北方硬年糕</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-528644f499e0c5a7b71cb63ad2fe1d9e_720w.jpg?source=8673f162" alt=""><figcaption>南方一种蒸软了吃的萝卜糕，想象是类似这样的东西</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-56e5b8e0b67b8f41c159da7bf0ba06a6_720w.jpg?source=8673f162" alt=""></figure>
-<p>这几种都是有真实记载的古代士兵食物。</p>
-<p>感觉还挺有意思的。</p>
+<p><strong>古人应对箭伤比我们想的经验丰富。</strong></p>
+<p>有完善的处理 SOP（标准步骤）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-06ebfed3dd05d5965332b16e44da15e2_720w.jpg?source=8673f162" alt=""><figcaption>这种不用治了（来自《昭君出塞》）</figcaption></figure>
+<p><strong>“箭矢”这个东西几乎是人类最原始的武器之一。</strong></p>
+<p>最早的记录是，约两三万年前古人类就开始使用弓箭。</p>
+<blockquote>一些岩壁画的记载。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-16c3a7b986d0056230edde99442e5949_720w.jpg?source=8673f162" alt=""><figcaption>苏纳泰尔岩壁画（约公元两万年前）</figcaption></figure>
+<p><strong>到了我国春秋战国时期，弓箭制作已经进入了成熟期，开始大规模应用于军队。</strong></p>
+<p>在 70、80 米的距离，当时的箭矢能深入人体 10cm 以上。</p>
+<blockquote><strong>评书演义里经常提到“一箭之地”。</strong><br>指在平原无风条件下约为 120-170 米左右。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f7ebe16217a4a8ea9f5cac2ff9f2994b_720w.jpg?source=8673f162" alt=""><figcaption>古罗马的弓兵阵型（6 个步兵方阵大约 480 人;右边是重骑兵 50 人,后边是弓）</figcaption></figure>
+<p><strong>箭上面，通常还会淬毒。</strong></p>
+<p>配合放血槽和涂抹粪便（金汁）或植物毒素（如乌头碱），能进一步杀伤士兵。</p>
+<p>所以，从杀伤数量来看，弓箭几乎是最重要的一种武器。</p>
+<blockquote><strong>南宋华岳《翠微北征录》上曾说：</strong><br>“军器三十有六，<strong>而弓为称首</strong>，武艺一十有八，<strong>而弓为第一</strong>”<strong>。</strong></blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cf50064a36c8183d79d2c0fe4aaece7a_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e0cc699f53f35727401c27b721652d10_720w.jpg?source=8673f162" alt=""><figcaption>含有乌头碱的野生草乌类植物。</figcaption></figure>
+<p><strong>也因此，古人依靠经验总结了非常完善的箭伤处理“标准流程”。</strong><strong>第一步，是切断箭杆。</strong></p>
+<p><strong>为什么不“拔箭”呢？</strong></p>
+<p>因为为了扩大中箭者的伤口，工匠们会把箭镞设计成菱形或其他异形，使得伤口创面增大，无法轻易愈合。</p>
+<p>而人体的肌肉有受伤后自我收缩性，会把箭“夹住”。</p>
+<p>如果强行把箭镞从伤口处拔下来，会连皮带肉扯下一大块。进一步破坏肌肉组织。</p>
+<p>若是卡在骨头血管上，这样猛的一拔，基本现场就没救了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d5f543609a610d604ad60a0438e2fd52_720w.jpg?source=8673f162" alt=""><figcaption>典型箭伤</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-05aacdfbc1ae1192faca79b4727a8029_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>入肉会有多深呢？</strong></p>
+<p><strong>《晋书》有载，“铁厚一寸，射而洞之。”</strong></p>
+<p>可见当时优质的箭矢已经能做到击穿盔甲且深入人体。</p>
+<p>当然，也不可能带着箭战斗，因为会在动作中扩大创口，失血过多。</p>
+<p>所以，战场上中了箭，第一时间是切断或折断箭杆，暂时不处理箭头。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a78f1e7b8fbc07260a4750c023bfa7e9_720w.jpg?source=8673f162" alt=""><figcaption>箭头的倒刺</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6c002f5e3bb4d83db6bbed3b4ceab6b9_720w.jpg?source=8673f162" alt=""><figcaption>错误示范，这么拿肌肉夹着折箭杆基本要大出血</figcaption></figure>
+<p><strong>第二步，是切开肌肤，取出箭头。</strong></p>
+<p>这一步通常等离开战场要到了后方，有包扎止血条件了，再进行。</p>
+<p>古代的箭头分为很多种，比如有专门破甲的锥头，也有起到杀伤步兵放血为主的宽箭头。</p>
+<p>还有为了飞行距离的强弓专用箭，守城时增加体积来加大势能的箭头等。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-09ff48f2756956be01f0df4cf48f26bb_720w.jpg?source=8673f162" alt=""><figcaption>秦汉时期的五种不同作用的箭头</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f44e9632be44e43aff1545410801401d_720w.jpg?source=8673f162" alt=""><figcaption>汉代时候训练用的加重箭头</figcaption></figure>
+<p><strong>这一步的难度就是：要判断箭头的形状，尽可能地减少不必要切伤。</strong></p>
+<p><strong>古人的方法是——</strong></p>
+<p>用一根银针扎到伤口内部，通过触感和经验判断。</p>
+<p><strong>有的时候箭头当时无法取出——</strong></p>
+<p>就只能冲洗伤口毒液先止血，等待部分愈合后再取。</p>
+<blockquote><strong>《刘涓子鬼遗方》记载：</strong><br>“如箭在肉中不出……“（镞）浅者十日出，深者二十日出，终不住肉中。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-177fff9de6d5dfca5d40baf3f7780ed6_720w.jpg?source=8673f162" alt=""><figcaption>战国时期遗骸中，一个没有取出的箭头</figcaption></figure>
+<p><strong>冲洗伤口毒液时候，如果没有干净水，士兵会用“尿”清洗。</strong></p>
+<p>新鲜的尿液，来自人体内部，本身是相对细菌很少的。（至少比河水干净）</p>
+<blockquote><strong>清代皇家医典《医宗金鉴》记载：</strong><br>“箭头嵌入肉内，钳不出者，宜解骨丸，纳伤口内……，<strong>即以人尿洗之，</strong>贴陀僧膏，可换，伤口自愈。”</blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2a981210e34fcf4f5edb88bdee61ecc6_720w.jpg?source=8673f162" alt=""><figcaption>箭伤不会是这么个小孔，而是一道十字的切割伤口</figcaption></figure>
+<p><strong>取箭头的时候，有条件会配合酒或者麻药止疼。</strong></p>
+<p>中医的<strong>“麻沸散”</strong>等麻药就不用说了，西方也有类似的记载。</p>
+<p><strong>罗马军团的医疗兵会随身携带一种叫＂波斯卡＂的烈酒。</strong></p>
+<blockquote>有记载说公元 1 世纪的罗马军医盖伦曾用葡萄酒混合鸦片汁液，给一名腹部中箭的士兵服用，那人在手术过程中昏睡了大半个时辰，醒来时箭头已经取出。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-79ce5c87d5fbde829a78524d94d565e3_720w.jpg?source=8673f162" alt=""><figcaption>麻沸散的主要原料之一“曼陀罗”</figcaption></figure>
+<p>蒙古军队的军医则会用<strong>木棍敲击伤者的头部</strong>，让他昏迷过去。</p>
+<blockquote>此事在《猫和老鼠》中亦有记载。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cb88352a2f02b0c53cc7041393442f81_720w.jpg?source=8673f162" alt=""><figcaption>示意图</figcaption></figure>
+<p><strong>特别说一下：</strong></p>
+<p>一般来说<strong>四肢中箭</strong>是最好施救的，如果是腹部中箭，则基本看运气了。</p>
+<p>胸部和头部中箭，没保护基本当场玩完。</p>
+<p>所以，古代的盔甲，一般首先保护的是头部和胸部。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-41173bea56258c5bdb36c8a8c1f1f1cb_720w.jpg?source=8673f162" alt=""><figcaption>秦朝的士兵甲</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7034c3b8b88b0614f45d38075e6c48db_720w.jpg?source=8673f162" alt=""><figcaption>这类贯穿伤是最好处理的（折断箭杆向箭头侧推出去就行）</figcaption></figure>
+<p><strong>暴力的“推进法”</strong></p>
+<p>如果箭矢<strong>贯穿</strong>了四肢，军医会直接把箭杆从另一侧推出来。</p>
+<p>公元前 216 年的坎尼战役后，罗马军医曾经这么处理了成百上千的箭伤。</p>
+<p>专业的军医会折断箭杆后，用手顺着箭头方向推动折断的箭杆底部，整个过程据说不需要 10 秒，忍住疼就出来了。</p>
+<blockquote>忍不住就是战损数字。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f313828b9d891b3233fa1b53709eaad_720w.jpg?source=8673f162" alt=""><figcaption>国内古装剧中，少见用了“推进法”的描写。但丝线不行，要用钳子。</figcaption></figure>
+<p><strong>常见的“扩创法”。</strong></p>
+<p>对于普通的箭伤（未贯穿），就需要用刀扩大伤口，让箭头有足够的空间从后方取出。</p>
+<p><strong>先用探针在伤口四周确定箭头的位置和角度</strong>。</p>
+<p>根据经验判断出是哪种箭头。</p>
+<p>然后沿着箭杆的方向切开必要的皮肤和肌肉，暴露出箭头，最后用钳子夹住箭头慢慢拔出。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0fca5bc5fd1e7f1713eb4e19651c1226_720w.jpg?source=8673f162" alt=""><figcaption>不能喊“一二三”然后使劲拔</figcaption></figure>
+<p><strong><strong>对付倒钩箭，古人还发明了一些“专业工具”。</strong></strong></p>
+<p>比如其中一种是中空的金属管，军医把金属管沿着箭杆插入伤口，套住箭杆上的倒刺，然后整个往外拔。这样倒刺就不会钩住肉。</p>
+<blockquote>严格说也不是“箭杆”，是箭头后方金属部分。</blockquote>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e55836319864604a628797e115bf4a02_720w.jpg?source=8673f162" alt=""><figcaption>箭头后方的倒刺和放血槽</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-bc941618e8c23ce3fb1f5b368446eb7e_720w.jpg?source=8673f162" alt=""><figcaption>进入组织后，如果没有套管，很难拔出</figcaption></figure>
+<p><strong>最后一步是包扎创口，以及用“食疗”帮助痊愈。</strong></p>
+<p>古代最怕的不是拔箭，而是术后感染。没有抗生素的年代，一个小伤口都可能引发致高烧。</p>
+<p>古人不知道“破伤风”和“细菌”，但知道清洗可以让痊愈率提高。</p>
+<blockquote><strong>‌北朝时期《刘涓子鬼遗方》中，</strong><br>明确记录了箭镞嵌在肉中伤口清创的操作规范，是现存最早的箭伤治疗医学专著记录。</blockquote>
+<p><strong>具体用什么“消炎”，则各文明有不同的“高招”。</strong><strong><strong>罗马军医会用“葡萄酒”清洗伤口。</strong></strong></p>
+<p>他们不知道酒精能杀菌，只是凭经验发现，用酒清洗过的伤口不容易腐烂。</p>
+<blockquote><strong>公元 1 世纪的军医迪奥斯科里德斯记载：</strong><br>用烈酒（原始发酵好像是 16 度）浸泡亚麻布，然后敷在伤口上，这样能减少化脓的几率。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-028cfa8bd33209d6fbe4e059575ffae7_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>阿拉伯军医则用“蜂蜜”。</strong></p>
+<p>公元 10 世纪的医学文献里提到，蜂蜜具有＂拔毒＂的功效，涂在伤口上能防止腐烂。</p>
+<p>蜂蜜里种还会加入<strong>没药和乳香</strong>，这种混合物在十字军东征期间被广泛使用，救活了不少欧洲骑士。</p>
+<p>现代科学证明，蜂蜜的高渗透压和低酸性环境确实能抑制细菌生长。</p>
+<blockquote>此事在《鹿鼎记》中亦有记载。</blockquote>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2cf7f33e69c2805eeef78042e9d932fe_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>中国军医当然是“金疮药”。</strong></p>
+<p>“金疮药”是一种泛指的名称，代表所有治疗外伤的药物，每个时代有自己的配方。</p>
+<blockquote>“金创”指金属刀枪箭造成的开放型伤口。</blockquote>
+<p>像是<strong>《黄帝内经》</strong>里记载的一种“金创药”的配方，主要成分是三七、当归和龙骨。</p>
+<p>这种药粉撒在伤口上能止血、消炎、促进愈合。</p>
+<blockquote>我们熟悉的“云南白药”主要成分也是三七。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbee09c7e9b1b6a49d5259ac590d1e8a_720w.jpg?source=8673f162" alt=""><figcaption>植物三七</figcaption></figure>
+<p><strong>而帮助痊愈，则基本靠“食补”。</strong></p>
+<p>罗马军团会给受伤的士兵喝牛骨汤、吃动物肝脏，这些食物富含铁质，能帮助身体恢复造血功能。</p>
+<p>阿拉伯医生则推荐红枣和蜂蜜，认为这些食物能＂补气养血＂。</p>
+<p><strong>我国则是主要是“熬汤”。</strong></p>
+<p>比如知名的<strong>四物汤</strong>‌（含有熟地、当归、白芍、川芎）；<strong>当归补血汤</strong>（含有黄芪、当归）；<strong>圣愈汤</strong>‌（含有人参或黄芪）。</p>
+<p>再比如含有<strong>阿胶、地黄、龙眼肉</strong>的各种补血汤煲。</p>
+<p>这些营养的功能基本是补血和蛋白质，促进愈合。但是普通小兵肯定享受不到了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-de34067802dfccd1fbdfaea1d8071fdf_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>虽然方法很多，但“箭伤”在古代依然是一种“赌命”的创伤。</strong></p>
+<p>哪怕皇帝、大汗，在前线意外中箭导致最后死亡，整体战争逆转的案例也不少。</p>
+<p>也难怪“神箭手”在各种传说中，都是英雄单位。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1ddc52310aaec59a6738985553c4881c_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>最后说一种传说中的“箭伤疗法”。</strong></p>
+<p>蒙古人的传统医术，叫作<strong>腹罨（yǎn）疗法</strong>。</p>
+<p>就是宰杀一头活牛，把伤者整个放在牛的体内。</p>
+<p>据说成吉思汗用这个方法，治好了几个受到箭伤难以痊愈的亲兵。</p>
+<p>还有努尔哈赤时期有个叫作吴拜的将军中了 30 多箭，也是被塞进牛肚子里面救活的，这件事还被乾隆时期的名医魏志秀记录在了<strong>《续名医类案》</strong>书中。</p>
+<blockquote>李时珍的<strong>《本草纲目》</strong>中也有记载：<br>“牛血，伤重者，破牛腹纳入，食久即苏也”。</blockquote>
+<p><strong>从科学原理来强行解释，可能因为两个原因：</strong></p>
+<p>1.受伤的人失血过多，体温会下降，但是动物刚死的时候，肚子里面温度较高，野外战场上，放在牛肚子里，能保持患者体温，缓解伤情。</p>
+<p>2.开放性伤口大量流血，靠自己止血很难，但是死去动物的血液从外面会糊住伤口，促使伤口不再失血，有助于止血。</p>
+<p>但从医疗效果上来说，这个方法很有限。</p>
+<p>所以，只算传说。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc41091db4098d075f74594f567c394e_720w.jpg?source=8673f162" alt=""><figcaption>此事在金凯瑞《神探飞机头 2》中亦有记载</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/28278600">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2062593631098343674">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792350</guid>
-                <pubDate>Sat, 05 Sep 2026 19:48:59 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>你觉得什么品种的蛇最吓人？</title>
-                <link>http://daily.zhihu.com/story/9792352</link>
-                <description>知乎用户，嗜猫事猫是猫 查看知乎原文 绝对是对人类过于热情，喜欢拱入怀里的海蛇。陆生毒蛇要么被人类惊扰到就跑掉，要么如眼镜蛇类立直身体明确表达不友好，就算是阴毒的尖吻蝮和原矛头蝮，也只会安静的待在原处，人类只要不走过去就没啥事；而海蛇，尤其是繁殖期的雄性海蛇看见潜水员，会像家里猫狗一样奔过来打招呼，西北太平洋热带海域的橄榄海蛇等品种，还爱缠绕在手臂和腿部及潜水装备上，并在人类惊慌失措拍打和逃离时，…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-b713b48020aa19947c3314c77a85305c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
-<span class="author">知乎用户，</span><span class="bio">嗜猫事猫是猫</span>
-<a href="https://www.zhihu.com/question/560986567/answer/1953407022381925429" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>绝对是对人类过于热情，喜欢拱入怀里的海蛇。陆生毒蛇要么被人类惊扰到就跑掉，要么如眼镜蛇类立直身体明确表达不友好，就算是阴毒的尖吻蝮和原矛头蝮，也只会安静的待在原处，人类只要不走过去就没啥事；而海蛇，尤其是繁殖期的雄性海蛇看见潜水员，会像家里猫狗一样奔过来打招呼，西北太平洋热带海域的橄榄海蛇等品种，还爱缠绕在手臂和腿部及潜水装备上，并在人类惊慌失措拍打和逃离时，企图通过撕咬阻止，堪称潜水人员的梦魇，导致每年多人被咬伤。</p>
-<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1953340586976323487" target="_blank"> <img class="content-image" src="https://picx.zhimg.com/v2-4975621e857acf481ccefd97a7ca4848.jpg?source=382ee89a" alt=""> <span class="content"> <span class="title">遇见热情的海蛇需要一颗强大的心脏<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1953340586976323487</span> </span> </a></p>
-<p>海蛇这种行为在全年大多数情况下，通常是基于好奇心前来观察或是领地警告，近距离接触之后便会游走，而繁殖期的雄性海蛇是因为求偶心切，乱点鸳鸯谱。2021 年发表在《科学报告》上的研究表明，海蛇并非恶意的试图攻击人类；陆生蛇类在繁殖期可以依靠异性残留在地面和环境物上的信息素来帮助寻找合适的交配对象，而海生蛇类则没有这个优势，不仅活动范围更立体宽泛，且雌性海蛇释放的信息素中化学成分不溶于水，意味着雄性海蛇很难寻找到配偶。</p>
-<p>此外，海蛇的视力本来就比陆生蛇类差，再加上海水的光散射现象，海蛇更难辨认目标，潜水员甚至观察到某些海蛇向条状海藻或柳珊瑚等错误的对象求爱和交配；所以在繁殖期，高度兴奋的雄性海蛇才异常活跃的缠绕人类，仅仅是将潜水员误认为是另一条“健壮的”雌性，并在人类逃离时感到困惑或被攻击，才下嘴撕咬；不过海蛇比较吝啬，绝大部分“袭击”为干咬，并不注毒，澳洲研究人员统计了最喜欢缠绕潜水员的橄榄海蛇（光滑剑尾海蛇 <em>Aipysurus laevis</em>）的数百起咬伤案例，发现注毒攻击只有 13 例。发表于《自然》杂志一项研究也建议，如果发现海蛇靠近或缠绕，可以保持静止不动、沉入海底的方式逃避，直到海蛇辨识清楚后即会离开人类。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d40bd0087842967769f15a4566f65cf2_720w.jpg?source=8673f162" alt=""><figcaption>靠近人类船只观察的橄榄海蛇（光滑剑尾海蛇 Aipysurus laevis）</figcaption></figure>
-<p>人类对于海蛇的恐惧主要是因为更高效的神经毒素，40 个属 207 种海蛇中常见品种的 LD50 数据毒性远高于陆生常见毒蛇（陆生的内陆太攀蛇属于特例），毒液平均效率约为眼镜蛇类的 5~10 倍起，且更易通过水介质扩散；海蛇平均注毒量 10~20mg，发作速度极快，根据目前的海蛇咬伤医疗指导和抗海蛇毒血清厂家的部分研究表明，被海蛇咬伤的黄金救治时间为 1 小时以内，如果在此时段接种抗海蛇毒血清，救治存活率 90%，如果超过 2 小时至 6 小时后骤降至 10%以下，据 IUCN 2019 年海蛇研究数据，海蛇咬伤总体死亡率 20~40%，平均致死致残率是陆生毒蛇的三倍以上。</p>
-<p>由于海蛇并不会主动攻击人类，过去中国海域海蛇咬伤不算多，年平均数量约 100 起，多为广东、广西、海南的渔民在捕捞作业清理渔获时，被误捕的海蛇防御性攻击。近些年来，随着游客亲海活动的大幅增加，活动区域与海蛇栖息地高度重叠，加上气候变化致海水平均温度升高，海蛇活动区域逐渐北移，叠加国人缺乏常识的误认，看见啥都想抓来摸一把、喂点东西的行径，咬伤案例有所增加，尤其是北方海域咬伤增幅高于海蛇常态化分布的华南沿海，增至年平均 200 起左右。而大部分医院的抗海蛇毒血清常态储备不足，导致中国海域因海蛇咬伤的死亡率甚至高于东南亚国家（30% vs. 15%，UNEP2023）。</p>
-<p>海蛇致死率偏高的另外主因是，海蛇咬伤具有不易觉察的特性，攻击注毒初期，伤口没有明显牙印和毒性反应，很多人误以为只是礁石、海沙或别的什么导致的皮肤挫伤，致使毒性发作时已经来不及抢救，世界蛇毒学会在 2023 年的研究统计，约 70%的死亡发生在被咬后 6 小时内，比较典型的海蛇毒致死进程为：</p>
-<blockquote>10~30 分钟：局部刺痛、麻木；<br>1~2 小时：神经毒素影响运动神经，肌肉痉挛、呼吸困难；<br>4~6 小时：呼吸衰竭、心脏骤停。</blockquote>
-<p>中国海域截止 2023 年，主要伤人的常见海蛇种类及主分布区：</p>
-<p>南海海域海蛇种类占全国 90%，主要是青环海蛇（<em>Hydrophis cyanocinctus</em>），分布于海南岛、西沙群岛、南沙群岛周边水深 5~20 米的珊瑚礁区。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-25823b6fc729350e92d2d8dfe4f7703b_720w.jpg?source=8673f162" alt=""><figcaption>青环海蛇（Hydrophis cyanocinctus）</figcaption></figure>
-<p>长吻海蛇（<em>Hydrophis platurus</em>），事实分布于北至山东，南抵曾母暗沙，在南海主要与人类遭遇是广东沿海到北部湾，喜栖浅湾、红树林地带，游速极快，可达 22 km/h。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ca25adf9164424a68a8f85a88be7629_720w.jpg?source=8673f162" alt=""><figcaption>长吻海蛇（Hydrophis platurus）</figcaption></figure>
-<p>扁尾海蛇（<em> Laticauda laticaudata</em>），分布于华南沿海的海陆两栖环境，因尾部像海豚尾鳍的扇形而得名，游速快，攻击性极强。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cacb1c3e8b3f1742c73ff42d6916d7c1_720w.jpg?source=8673f162" alt=""><figcaption>扁尾海蛇（ Laticauda laticaudata）</figcaption></figure>
-<p>在东海海域主要分布的也有青环海蛇和长吻海蛇，其中长吻海蛇地方名和其他称呼也有黄腹海蛇、黄尾三棱海蛇等，在东海主要分布于浙江舟山群岛至台湾海峡，夏季进入长江口。黑头海蛇（<em>Hydrophis melanocephalus</em>），分布于广东、福建、浙江、台湾至日本冲绳、澳洲的沿海潮间带岩礁区，大部分头部纯黑，体背黄黑相间，主食泥螺为主，遇到威胁时颈部侧扁。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8aac0d774ea615941a2dc3930efb3963_720w.jpg?source=8673f162" alt=""><figcaption>黑头海蛇（Hydrophis melanocephalus）</figcaption></figure>
-<p>黄海海域目前观测到的海蛇，除了上面提到了青环海蛇（山东案例常报告为青灰海蛇）、长吻海蛇（山东案例常报告为细腹鳞海蛇）之外，还有夏季常见的环纹海蛇（<em>Hydrophis fasciatus</em>），主要在山东青岛、威海等沿海，属于季节性迁徙海蛇。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-13a425456ab4d69ddb01da39069270d9_720w.jpg?source=8673f162" alt=""><figcaption>环纹海蛇（Hydrophis fasciatus）</figcaption></figure>
-<p>渤海海域以前几乎没有确定的海蛇目击案例，直到 2019 年辽宁大连在本地渔获中发现了淡灰海蛇（<em>Hydrophis ornatus）</em>，这也是第一次明确记录海蛇在国内海域最北分布，推测为南海种群随暖流北漂个体。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-81c4b4d7a7c2499232b59801fd2e1645_720w.jpg?source=8673f162" alt=""><figcaption>淡灰海蛇（Hydrophis ornatus）</figcaption></figure>
-<p>再次重申，海蛇不会主动攻击人类，海蛇对于非常规食物和过大体型威胁时，在绝大部分情况下不会采取注毒攻击，但被长时间骚扰和追逐，激怒后也会报复性攻击；不管是陆地还是海里，不要看到动物就主动靠近，并试图抚摸和喂食，已经不止一次在一些旅游、赶海的所谓网红短视频里，发现将海蛇误认为海鳗、海鳝或其他鱼类，企图追逐捕获的无厘头行为，多一些基本常识，好好活着不行么。</p>
-<p>最后，点一下题，无论什么品种，离我最近那条蛇最吓人，</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/560986567">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792352</guid>
-                <pubDate>Sat, 05 Sep 2026 19:49:00 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>为什么科学已经证实天空上没有天堂，但信宗教的人依旧相信有神的存在？</title>
-                <link>http://daily.zhihu.com/story/9792357</link>
-                <description>晴耕雨读的浣熊君，在知乎撂地的闲散科普创作者，争取每周双更 查看知乎原文 对于基督教神学当中，天堂到底是物理存在于某处，还是某种精神上的存在的争论很早就已经有了结果，根本用不到冷战时期，5 世纪的基督教学者希波的奥古斯丁（Augustine ofHippo）就对此有过论述。 这个老哥出生于努米底亚行省，是罗马帝国的北非地区今天的阿尔及利亚境内，后来创作了《上帝之城》和《创世纪字义解》等书籍，他就表…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-9baba40d07e30eba7bd199b727a82063.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-cef37bf0392e114344d6b861bb1ba938_l.jpg?source=8673f162">
-<span class="author">晴耕雨读的浣熊君，</span><span class="bio">在知乎撂地的闲散科普创作者，争取每周双更</span>
-<a href="https://www.zhihu.com/question/1994389687033411281/answer/1995039561978504056" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>对于基督教神学当中，天堂到底是物理存在于某处，还是某种精神上的存在的争论很早就已经有了结果，根本用不到冷战时期，5 世纪的基督教学者希波的奥古斯丁（Augustine ofHippo）就对此有过论述。</p>
-<p>这个老哥出生于努米底亚行省，是罗马帝国的北非地区今天的阿尔及利亚境内，后来创作了《上帝之城》和《创世纪字义解》等书籍，他就表示圣经这东西不能字面意义上理解，所以他经常会引用《哥林多后书》中圣保罗的理念。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3e0e047f8eb5b02224fd80eba1b2c613_720w.jpg?source=8673f162" alt=""></figure>
-<p>从圣保罗开始，基督教认为，圣经里所谓的天也分物质层面上的天和属灵层面上的天，而除此以外还存在著名的第三层天（the third Heaven），我们可以粗浅地理解为并不存在于物质世界的精神世界。</p>
-<p>而圣保罗也知道，这时经文的话就不能说太满防止后人圆不回来，防止出现无限量扒马褂，为先人的认识擦屁股的行为。</p>
-<p>所以，书中认为这第三层天，体验状态无法确定，而且唯有神知晓具体情况，颇有一种不可知论的态度，你再问就是我也不知道，我作为神学研究者也只是神的仆人。</p>
-<p>你如果想知道神到底是怎么做到的，这个原理是怎样，那我只能说你得问神这个主人而不是我这个仆人，他开始来这一套将责任推卸到一个无法与之对话的最高存在上。</p>
-<p>此后无数学者都以各种方式来论证，这个圣经不能字面理解，其中不乏哥白尼、伽利略等正经科学家，但我觉得比较有意思的是加尔文。</p>
-<p>加尔文在给《创世纪》做注释的时候，他也觉得很多东西说不通，所以我们不能曲解更不能容忍罗马教廷的人随意解释这本书，那这组织路线和总纲领是说解释就解释的吗？那得找个相对合理的解释才行。</p>
-<p>所以他的态度是，圣经中很多描述，是摩西等先贤“俯就”当时信徒百姓认识水平，所以迫不得已用朴素且通俗的形式，来讲述他认识当中的奇迹的</p>
-<blockquote>“<strong>圣灵在此并无意教授我们天文学……他使用的是普通人日常的语言，好让所有未受教育的凡夫俗子都能理解。因此，他俯就了普通人粗浅的理解力。</strong>”</blockquote>
-<p>所以不只是天堂在不在天上这件事，包括创世时为啥第四天才有了太阳，但却造物主可以分清楚前四天的时间？这在时间观念尚不明确，大部分人还在看太阳过日子的年代里逻辑上说不通啊。</p>
-<p>还有为什么我们已经知道地球是球体，但圣经中说天上有固定的苍穹？为啥月球是折射的太阳光，但书中非得说日月是并列的两个大光体呢？</p>
-<p>这些事情随着人类对世界的认识越来越深，他就越来越圆不住了，哪怕是 16 世纪的人也不能完全信这一套，当时的宗教改革家和民间辩经爱好者已经开始尝试用逻辑漏洞反驳圣经了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8935a6ccebe53bd2ac4cfabb62b55412_720w.jpg?source=8673f162" alt=""><figcaption>加尔文：要曲解也得我亲自来！</figcaption></figure>
-<p>这些明显不科学的设定，在宗教改革时代的人看来已经很难说服人了，但人们又不敢直接说圣经说的不对，那指导文件能随便改么，凡事你得按规矩来，说改就改是大家接受不了的，那既然原文文本不能改，那不如咱就加备注和外部链接吧。</p>
-<p>所以加尔文就得解释，说这就是先人写圣经时文化水平有限导致的，所以这些内容就是写意而非纪实文学，他只是选取了当时人比较好理解的方式而已</p>
-<blockquote>“圣灵并不打算细数星星，他<strong>俯就了普通人的观念</strong>，这样所有人都能理解他的教导。”</blockquote>
-<p>这个补丁一打，在日后有什么科学新发现与圣经当中不符的时候，这事情也就好解决了，纯粹是创作圣经这个时代的人对自然科学的认识不足导致的，这一波属于是真的后人的智慧，实在不行咱就说这只是一个“文学化表达”，比喻，比喻知道啥意思吧？</p>
-<p>而作为后人的加尔文，他在神学和基础科学上的造诣，无疑要高于圣经创作时代的，就像我们回头看加尔文是一样的。</p>
-<p>当然这也只是我想到的两个案例，在历史上也有许多强调唯圣经论，或者表示圣经根本不可靠的流派，对于同一个事物抱有不同的认知和解读这件事也很正常。</p>
-<p>但无论如何主流的新教和天主教都不会太认为，天堂是某个具体可以被到达的物质领域，而更多是精神层面的东西。</p>
-<p>所以这个问题就让我想到了，1968 年阿波罗 8 号绕月球轨道飞行的过程中，三名宇航员在太空中整的两个航空级大活。</p>
-<p>首先是在月球轨道上，乘组中的驾驶员威廉·安德斯（<em>William Alison Anders</em>）拍摄了著名的地出景象（Earthrise），也就是在月球轨道中看到地球出现在视野中的景象。</p>
-<p>但实际上此事事出突然，三个人其实是没有准备的，甚至相机都是现找出来的，但这一景色却依然具有着跨时代的意义，不出意外地被选入了改变世界的 100 张照片之中。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-41865dbec9544a8b42cd34e34c8e9d1c_720w.jpg?source=8673f162" alt=""></figure>
-<p>而另一个大活，则是在美国东部时间 9 点 30 分左右，阿波罗 8 号已经完成了第四次绕月的时候，乘组三人在面对全球的电视广播直播信号中，他们事先安排了这么个环节，就是决定说一些什么有意义的发言，对此威廉实际上早有准备。</p>
-<p>于是三人开始轮流朗读那份飞行计划手册的空白页上，用红色笔工整地抄下了《创世纪》前 10 节内容。</p>
-<p>起头的是弗兰克·博尔曼，他先说的是“致地球上所有的人，阿波罗 8 号的机组人员有一份留言。”</p>
-<p>而后是这个建议的发起者，安德斯开始念创世纪的经典起头</p>
-<blockquote>“起初，神创造天地。地是空虚混沌，渊面黑暗；神的灵运行在水面上。”</blockquote>
-<p>最终三人轮流朗诵了朗诵结束后，博尔曼进行了总结性的发言，解释了他们想要读创世纪的始末缘由，最终向地球上的全人类发出祝福</p>
-<blockquote>“来自阿波罗 8 号的祝福，晚安，好运，圣诞快乐，愿上帝保佑你们——在地球上的所有人。”</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e6bd9d62724bf037139e37fc240405f3_720w.jpg?source=8673f162" alt=""></figure>
-<p>而此时是地球时间的 12 月 24 日，在这个糟糕的一年年终岁尾，整个西方世界圣诞节前夕，三个在月球轨道上的人，在通过当时世界上最先进的通讯技术，直播将他们文化当中千年前最基础最传统的叙事，用这种富有人文主义气息的方式讲述给了全世界来听，这件事本身就带着一定的传奇色彩。</p>
-<p>而之所以说 1968 年是糟糕的一年，我们可以看看地球上都发生什么就知道了，因为冷战热斗的世界局势无时无刻不在一年中紧绷着世界人民的心弦，这是发生了美莱村大屠杀的一年，也是发生了布拉格之春的一年。</p>
-<p>马丁路德金死在了这一年的四月，而到了五月法国爆发了反对戴高乐大规模示威游行，后世将这一罢课罢工运动称之为“五月风暴”。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3374374c07bbad1235676f1752ad8c96_720w.jpg?source=8673f162" alt=""></figure>
-<p>在当时的嬉皮士看来，第二天天上掉下来核弹也是一件非常正常的事情，末日论、享乐主义、悲观情绪逐渐成为了社会主旋律。</p>
-<p>所以当时的年轻人已经不相信主流世界的许诺和宣传，并打算在来年去一个叫做伍德斯托克的地方共襄盛举——当然最终也只是举行了一场演唱会而已。</p>
-<p>也是在这一年，从美苏两极到第三世界国家保守叙事都在崩溃的时候，有人在月球给来了一段亚伯拉罕宗教各派系共同承认的片段节选。</p>
-<p>所以很快，在收看了电视直播后的时任教宗保禄六世在次日的圣彼得广场的公开接见活动中，特别赞许了这一行为，</p>
-<blockquote>“我们与全人类一起，为这一伟大成就而欢欣鼓舞……宇航员们从太空向我们传来的话语，是《圣经》中崇高的篇章，是对上帝的赞美，是对我们信仰的庄严宣告。我们向他们致敬，并送上我们最美好的祝愿。”</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4a41bc9c85b087b65be444ab5ee5e385_720w.jpg?source=8673f162" alt=""><figcaption>保禄六世你们有没有长得很像憨豆？</figcaption></figure>
-<p>当然在此之后 NASA 也深陷于以玛达琳·默里·欧黑尔等无神论者的批判和诉讼之中，因为即便是美国人，即便是总统就职要按圣经宣誓的美国人，也不全是可以容忍用太空竞赛的资源传教这种听起来就很荒诞的事情，往严重里说这就是违反了政教分离的原则，甚至是对无神论等群体的迫害。</p>
-<p>最高法院对这一案件的态度是缺乏司法管理权限，这个事情最高法也没法管，但自此后 NASA 的航空活动中也确实再没有过如此有画面感的事件了。</p>
-<p>但无论如何，从神学和科学角度，外空间无法找到天堂这件事其实是无法直接驳倒宗教信徒的，这说到底也是一个公关处理事件。</p>
-<hr>
-<p>这里是浣熊君，一个在知乎撂地的闲散作者</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1994004209159386439/answer/1994305576709157709">除了公制和英制，世界上还有哪些独特的度量衡体系及其文化渊源？</a><a class="internal" href="https://www.zhihu.com/question/1992538403133212368/answer/1993589794412979457">晋文公明知道介子推为母亲隐居山林，不以功邀赏。为什么还一定要逼其出山，导致其母子双双被烧死？</a><a class="internal" href="https://www.zhihu.com/question/1991244571171128042/answer/1991768456534722099">女子以腋下光洁为美是受西方文化影响还是我国自古以来就是如此？</a></p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1994389687033411281">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792357</guid>
-                <pubDate>Sat, 05 Sep 2026 19:49:01 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>祈雨等仪式活动为什么在古代社会中备受重视，如果不成功为何还会继续?</title>
-                <link>http://daily.zhihu.com/story/9792367</link>
-                <description>晴耕雨读的浣熊君，在知乎撂地的闲散科普创作者，争取每周双更 查看知乎原文 首先我们要明白，当一个农业社会聚落开始准备祈雨的时候，本身就意味着，人们需要将干旱等不幸归因到某种外在因素上边去。 那么如果仪式中百姓失去了对此的耐心不再相信这玩意能解决问题，解决方案也可以是顺着这个思路，将这一结果归因到别的上边去，俗话讲这就是甩锅或者推卸责任。 老张显然不是为了反封建迷信才要大炮开兮轰他娘的，只不过是因为…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7fe82c5451f1826a6c7597bb4484b516.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-cef37bf0392e114344d6b861bb1ba938_l.jpg?source=8673f162">
-<span class="author">晴耕雨读的浣熊君，</span><span class="bio">在知乎撂地的闲散科普创作者，争取每周双更</span>
-<a href="https://www.zhihu.com/question/1935343327089238695/answer/1936760422972757321" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>首先我们要明白，当一个农业社会聚落开始准备祈雨的时候，本身就意味着，人们需要将干旱等不幸归因到某种外在因素上边去。</p>
-<p>那么如果仪式中百姓失去了对此的耐心不再相信这玩意能解决问题，解决方案也可以是顺着这个思路，将这一结果归因到别的上边去，俗话讲这就是甩锅或者推卸责任。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-de8fa5785ecb45755c2edaecd4820716_720w.jpg?source=8673f162" alt=""><figcaption>老张显然不是为了反封建迷信才要大炮开兮轰他娘的，只不过是因为这一举动，可以让他显得从群众来为百姓说话，并且为下雨争取了时间罢了</figcaption></figure>
-<p>其中最典型的案例，要么就像西门豹治邺，让当局的暴力机构把锅甩到巫身上。</p>
-<p>要不然就像张宗昌一样，将大炮架在庙门前，然后将锅甩在更高等的存在上边，也就是甩锅给龙王或者别的神明。</p>
-<p>事实上在极端情况下威胁神明和祭祀的这个逻辑，远不止是在中国有，在人类学研究中也有着大量的相关案例。</p>
-<p>比如西非的班查尔人的社会当中，国王需要承担起来干旱季节时祈雨的职责，因为百姓认为他具有着巫师的能力，而当雨季推迟或者不能满足需求时，这个国王会被囚禁和殴打，还不解决问题就会考虑罢免换新王登基。</p>
-<p>我在之前的一个回答中引用过《金枝》里对这件事的描述，有兴趣大家可以看看这一篇回答</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1917239700911010231/answer/1918282065360684417">古代世界各国如何神化在世的人?</a></p>
-<p>民国年间的《西昌县志》里对这样的情况亦有记载，凉山的彝族在干旱严重且常规祈雨无效后，会考虑开始打龙王、污龙潭等等进一步的行为</p>
-<blockquote>遇久旱，则祷于龙王祠。初以香烛、牲醴祷之；不雨，则舁神像曝于日中，或投诸污池；再不雨，则群往捣其祠</blockquote>
-<p>而这种逐渐趋于暴力的行为，也对应了人类学中仪式升级阶段的理论，本质上也是以这个虚构的龙王权威崩塌，来代替诸如毕摩、头人、土司等实际存在统治阶级的权威崩塌，是统治者弃车保帅的策略，死掉的是神像保下来的是自己。</p>
-<p>也就是说，这些愤怒的民众去打了龙王泄愤后就不会打领导了，至少当下马上不会。</p>
-<p>所以这种打龙王的行为，有时候甚至还会用上火枪和弓箭，仿佛是要真刀真枪和本不存在的龙王干一下子，阵仗就仿佛真的要械斗甚至起义开战一样。</p>
-<p>实际上，这种行为就是为了打破了常规规范中对神明的敬重，从而告诉民众，现在是一种非常规的危险状态，从而激发人类的抱团求生的本能。</p>
-<p>一方面针对神明的亵渎可以宣泄愤怒，防止暴力活动针对到掌权者，维系统治结构。</p>
-<p>另一方面，这种非常规的状态也会让人群进入到反常规、反结构的阈限状态，毕竟不是每一天都有机会合理合法，法不责众地亵渎神明，甚至做出一些更过分过激不符合常理和道德的事。</p>
-<p>这都为危机的解除争取了时间，放在祈雨这件事上，说白了就是人们折腾得越久，下雨的可能性也就越大。</p>
-<p>所以严格意义上，推翻之前的仪式，本身也是仪式的一部分，而许多问题只要拖得时间足够长他就自然而然解决了，解决问题的关键反而在如何拖到这个时间点。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-599c2ff5c0188885cf92852c932f1262_720w.jpg?source=8673f162" alt=""></figure>
-<p>当然，甩锅的形式也是多种多样五光十色，比如在东亚这个政治斗争你死我活的地带，这类危机公关也可能是政治洗牌的一个机会，有着极强的政治斗争属性。</p>
-<p>比如说 1518 年朝鲜发生的昭格署祈雪渎职案，起因就是因为冬旱无雪，严重的影响了冬麦的生长和来年的农业计划，更重要的是被视为了不祥之兆。</p>
-<p>而负责宗教仪式的昭格署，采用太乙祈雪醮被认为不奏效后，被儒臣礼曹判书赵光祖谏言，一度将整个昭格署罢免，虽然很快恢复了但其中已经没有了道教和道士的位置，算是彻底在朝鲜宫廷失去了地位。</p>
-<p>这一行为也直接导致了道教在朝鲜的衰微，日后影响力甚至不如看面相的神汉，取而代之的则是社稷坛雪祭，儒生以《周礼》爟火之法替代道教仪轨。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4027aef2478476a7940996da900a9f05_720w.jpg?source=8673f162" alt=""><figcaption>赵光祖（조광조，1482 年—1519 年）朝鲜朱子学派的代表者</figcaption></figure>
-<p>换句话说就是，实在不奏效的情况下，你就换一套神学理论再试一下，说不定就有用了，也可以重振民众信心。</p>
-<p>但说到底还是那句话，许多问题解决方案不一定是领导阶级做了什么，而是把时间拖到足够久了问题自然就解决了。</p>
-<hr>
-<p>这里是浣熊君，一个在知乎撂地的闲散作者</p>
-<p><a class="internal" href="https://www.zhihu.com/question/1935718658656666219/answer/1936409901434929857">拼音出现以前，学生是怎么认字的？</a><a class="internal" href="https://www.zhihu.com/question/1935471165800939619/answer/1935665812313707122">一角钱为什么叫一毛钱？</a><a class="internal" href="https://www.zhihu.com/question/1935106429632639568/answer/1935319468030026746">中世纪欧洲农奴结婚时，行使「初夜权」的领主身份如何确定？是基于新郎所属的庄园，还是新娘所属的庄园？</a></p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1935343327089238695">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792367</guid>
-                <pubDate>Sat, 05 Sep 2026 19:49:02 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792390</guid>
+                <pubDate>Sun, 06 Sep 2026 02:29:16 GMT</pubDate>
             </item>
             
     </channel>
