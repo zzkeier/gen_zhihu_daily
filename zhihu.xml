@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sun, 06 Sep 2026 19:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 02:26:27 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>熊猫吃竹子是刻在基因中的习性吗？可以通过从小喂养其他食物改变吗？</title>
-                <link>http://daily.zhihu.com/story/9792363</link>
-                <description>瞻云，先让一部分知识有趣起来 查看知乎原文 现在很多人容易陷入一个误区，以为大熊猫濒危，是因为它们吃竹子。 是进化得不成功。 恰恰相反，它们进化得很成功。 没有竹子，就没有大熊猫。 我们先来看看，大熊猫食性的演化过程。 大熊猫位于熊科（Ursidae）基干，祖先比其它熊亚科（Ursinae）成员更加的古老。 早期熊科动物主要是杂食性的。 杂食性就意味着，同时存在肉食和植食偏好。 通常来说，哺乳动物…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-26dca5488f4303ccad536c2868bd2da4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>游戏晕3D是天生的还是后天的？</title>
+                <link>http://daily.zhihu.com/story/9792400</link>
+                <description>biokiwi，用生命科学的角度看世界！ 查看知乎原文 所谓的“晕 3D”，是一种叫“3D 晕眩症”的症状（或者视觉诱发晕动症，visually induced motion sickness，以下简称为晕 3D），是指在玩 3D 电子游戏，或者使用 VR 时容易发生的晕眩症状。 它也叫模拟器病（simulator sickness）——因为这个症状最开始，是指飞行员或者驾驶员使用模拟器开飞机、开…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-5890a677c0ededae3fc8e804eeb35ba3.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,322 +31,87 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/1971756393460655158/answer/1984521657457607927" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-4cdc8dc004835c64495966f8a36ec5f6_l.jpg?source=8673f162">
+<span class="author">biokiwi，</span><span class="bio">用生命科学的角度看世界！</span>
+<a href="https://www.zhihu.com/question/323435777/answer/2415620375" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>现在很多人容易陷入一个误区，以为大熊猫濒危，是因为它们吃竹子。</p>
-<p>是进化得不成功。</p>
-<p>恰恰相反，它们进化得很成功。</p>
-<p>没有竹子，就没有大熊猫。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d7a3874d08cc1e4440ccb815e6281f5_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>我们先来看看，大熊猫食性的演化过程。</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-632e8babf9460341182a4e655e56d0e5_720w.jpg?source=8673f162" alt=""></figure>
-<p>大熊猫位于熊科（Ursidae）基干，祖先比其它熊亚科（Ursinae）成员更加的古老。</p>
-<p>早期熊科动物主要是杂食性的。</p>
-<p>杂食性就意味着，同时存在肉食和植食偏好。</p>
-<p>通常来说，哺乳动物的肉食偏好由鲜味受体（T1R1+T1R3）决定，作用于 L- 谷氨酸为代表的 L- 氨基酸<sup>[1]</sup><sup>[2]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a87b1f8dbccd00a5ec13e7135932ba57_720w.jpg?source=8673f162" alt=""><figcaption>T1R1/T1R3 与 L- 谷氨酸（L-glutamate）结合</figcaption></figure>
-<p>植食偏好则由（T1R2+T1R3）决定，作用于多种糖类<sup>[3]</sup><sup>[4]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2f039ac461fe474fe70977b8f787d85d_720w.jpg?source=8673f162" alt=""><figcaption>T1R2/T1R3 与多种糖类的结合</figcaption></figure>
-<p>T1R3 受体是鲜味和甜味都必不可少的，T1R1 和 T1R2 则直接决定了鲜味和甜味的有无。</p>
-<p>所以，早期熊科和人类（祖先）一样，同时存在鲜味受体和甜味受体。</p>
-<p>这样的高兼容性，也有更强的多种环境适应能力。</p>
-<p>最早的熊科大约在 3000 多万年前出现。</p>
-<p>兼性植食的长期需求，使得早期熊科动物就有了一定的抓握需求，因此发展出了假拇指。</p>
-<p>当然，早期假拇指非常的不发达。</p>
-<p>大熊猫的祖先（大熊猫亚科，Ailuropodinae）则在 1900 万年前就逐渐独立了出来，同时继承了两种味觉和假拇指。</p>
-<p>值得说明的是，早期大熊猫亚科并非东亚才有，而是广泛分布于美洲、欧洲和亚洲<sup>[5]</sup>，它们的体型宽度往往是现代熊猫的 3 倍<sup>[6]</sup>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-e215c45bea862422d68eb66167d11997_720w.jpg?source=8673f162" alt=""><figcaption>尼氏郊熊猫（Agriarctos nikolovi）复原图</figcaption></figure>
-<p>可以说在森林杂食生态位中，它们进化得非常成功。</p>
-<p>800 万年前，生活在中国华南地区的<strong>禄丰始熊猫</strong>（<em>Ailurarctos lufengensis</em>）<sup>[7]</sup>，便是这样的成功代表。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a33c9966f215a7a606a227fb9e13273b_720w.jpg?source=8673f162" alt=""></figure>
-<p>即便在中国，古大熊猫的分布远远比今天的范围大得多<sup>[8]</sup>。</p>
-<p>不仅整个长江流域以南，甚至以北都有所分布。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-518dd671528d87f6eb9e7f3665dc2075_720w.jpg?source=8673f162" alt=""><figcaption>古大熊猫分布（黄）、竹林覆盖区（绿）、现代大熊猫分布（橙）</figcaption></figure>
-<p>不过 700~540 百万年前的晚中新世，一切都发生了变化。</p>
-<p>全球性大降温来袭<sup>[9]</sup>。</p>
-<p>两极冰盖增加，全球气候逐渐干旱，森林大规模退化。</p>
-<p>这一次大降温，直接促成了现代生态系统的形成。</p>
-<p>在这个过程，森林依赖型哺乳动物遭到了重创，其中便包括古大熊猫、古猫科、部分鬣齿兽、古猿在内的大量的哺乳动物。</p>
-<p>森林的压缩不仅意味着栖息地和食物减少，更意味着与同生态位的其它熊科、犬科等有着更激烈的竞争，同时也需要面临着更高的被捕食压力。</p>
-<p>在这个过程，分布在全球其它地区的古大熊猫全部灭绝了。</p>
-<p>分布于中国的古大熊猫则因为特殊的环境，以及食性的转变而幸存。</p>
-<p>在全球大降温的背景下，四川盆地与周围的横断山脉、秦岭、大巴山脉形成典型的气候避难所。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0e79573b7c958a1823c052859341b1db_720w.jpg?source=8673f162" alt=""></figure>
-<p>森林和古大熊猫的栖息地也往这些范围压缩。</p>
-<p>同时早期的亚热带森林也朝着温带森林转变，不仅可捕猎的肉食减少，甚至果实、块根、嫩叶等优质植物资源也变得越来越少。</p>
-<p>唯一稳定存在的资源，是广袤的竹林。</p>
-<p>而竹林成片以后，其它植物往往很难生长，从而使得竹林资源变得更加具有独一性。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e021d595fd0b77aadcb6aded767d6207_720w.jpg?source=8673f162" alt=""></figure>
-<p>竹笋具有嫩脆、鲜甜的特点。</p>
-<p>随着食物资源的匮乏，杂食性的古熊猫自然不得不开始大量被动食用竹笋。</p>
-<p>特殊的生境和食物，最终带给古大熊猫特殊的演化压力。</p>
-<p>不吃竹笋的古大熊猫，因为无法获得足够的食物而死亡。吃竹笋而无法适应的古大熊猫，最终也被淘汰。</p>
-<p>这使得剩下的大熊猫对竹笋更加偏好，也更加的适应。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-832353a3f569749b45bc22e753e82f90_720w.jpg?source=8673f162" alt=""></figure>
-<p>同时由于竹林环境的资源匮乏，更加缺少大型捕食者，它们和后代也更容易存活。</p>
-<p>这也是大熊猫演化过程，有所小型化的原因之一。</p>
-<p>当然，竹林里的竹笋、嫩叶资源有限，而且也呈现季节性变化，这使得特化的大熊猫在种群发展的过程中，不得不尝试食用更加坚硬的成竹。</p>
-<p>最终淘汰存活下来的大熊猫，对竹林环境越来越来适应，诸多的生理特征也发生了转变。</p>
-<p>例如，它们的牙齿、头骨，以及肌肉结构都发生了变化，更加适应坚硬且富含纤维的竹子饮食。</p>
-<p>不过由于演化时间太短，它们的消化道依旧还是典型肉食目祖先的消化道，只能依靠肠道菌群对竹子进行有限的消化。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d5f7c047cad82aca3bec19762b9441b_720w.jpg?source=8673f162" alt=""></figure>
-<p>但它们通过极高的摄食效率、高摄食量 / 时间（30kg，10h），快速吸收可用营养，尽量减少纤维滞留等来弥补缺点。同时通过摄取竹子不同部位，满足营养均衡的需求<sup>[10]</sup>。</p>
-<p>甚至为了提升摄食效率，它们不仅拥有巨大臼齿，强大咬肌，甚至发展出了更加发达的假拇指。</p>
-<p>假拇指的演化，也有演化动力驱动。</p>
-<p>不仅竹子圆而大，抓握需要力量，而且它们喜爱的竹笋也结构特殊，层层包裹。</p>
-<p>这使得它们在抓握的牢固性上以及精细上，比起其它熊科动物，都有了更高的需求。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-531456dfa644f4ad6cf9306776024042_720w.jpg?source=8673f162" alt=""></figure>
-<p>生物演化过程，越是特化，越很难再走回头路。</p>
-<p>大熊猫祖先已经发展成攻击性爪子的指头，很难再发展成人类这样的对生拇指。</p>
-<p>但对生抓握能力又是很有必要。</p>
-<p>那剩下的办法，就是强化其它的骨骼。</p>
-<p>熊科动物，大多数都有一个叫作桡侧籽骨（<em>radial sesamoid</em>）的骨骼<sup>[11]</sup>。</p>
-<p>但大多数熊科动物，这个骨骼都只是微微的凸起。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b007af988fe3b69f976a6153633b3b00_720w.jpg?source=8673f162" alt=""><figcaption>基干熊科（A）、大熊猫（B）、人类（C）骨骼对比</figcaption></figure>
-<p>大熊猫却几乎发展成了一根独立的手指。</p>
-<p>从而使得大熊猫，掌握了比较优秀的对握能力。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-31b5dbed61d27fd166a622c8bb586abc_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-330a515c02aba1b0cd4d9ad4c0467d8d_720w.jpg?source=8673f162" alt=""></figure>
-<p>虽然桡侧籽骨因为缺少肌肉，且与第一掌骨、月骨是刚性连接的，并非像人类拇指那样能够独立运动，被称为假手指。</p>
-<p>但它依旧可以提供相对有力的抓握能力。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-18bb4262c697efc8fded30cc22c901a8_720w.jpg?source=8673f162" alt=""></figure>
-<p>以及通过远端的钩状结构，提供比较精细的抓握，从而完成夹持和剥食竹笋等相对高难度的动作。</p>
-<p>大约 600 万年前，大熊猫的桡侧籽骨发生了延长，并在后来的演化过程中，发展出了远端钩状结构。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f46a609e160bc69a13c3495a249ea8e3_720w.jpg?source=8673f162" alt=""></figure>
-<p>由于竹林资源的匮乏属性，竹笋成为大熊猫最珍贵的口粮，因此为了寻找竹笋，它们被迫发展出了更强的专性选择。</p>
-<p>例如，对竹子敏感的嗅觉可以帮助它们分辨竹子的各个部位（干、笋、嫩叶），它们更加偏好咀嚼竹笋时的嫩脆不涩的口感。</p>
-<p>另外还有一个最关键的就是甜味受体。</p>
-<p>嫩竹笋、竹芽是竹子中含糖量最高的部分之一，对甜味敏感，是大熊猫喜欢吃竹笋及圈养大熊猫喜欢吃水果点心的重要原因。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-950e01cb34a765f92fd2255a803a9a59_720w.jpg?source=8673f162" alt=""></figure>
-<p>大约在 420 万年前，大熊猫发生了基因突变，T1R1 成为了假基因，它们不再拥有鲜味受体<sup>[12]</sup>。</p>
-<p>或许是特殊的竹林环境，反而使得这种基因突变成了优势——鲜味不再竞争，甜味行为的奖赏权重被放大。</p>
-<p>因此，后来的大熊猫都是 T1R1 失活这一支的后代。</p>
-<p>而且由于鲜甜的竹笋同时也是含有蛋白质最丰富的竹子部分，T1R1 失活也不会影响它们蛋白质的摄入。</p>
-<p>相反牛羊等反刍动物，则有保留 T1R1 的必要性，以摄食蛋白质更高的牧草。</p>
-<p>不过祖先的杂食性以及竹林生态位资源的匮乏，也使得大熊猫依旧保留了比牛羊等反刍动物更强的机会主义。</p>
-<p>因此，大熊猫的肉食性虽然罕见，但通常比牛羊更加常见。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd7e993995a974b8fc25b55ca2415d07_720w.gif?source=8673f162" alt=""></figure>
-<p>大熊猫这种机会主义是有必要的，大大增加了它们的生存能力。</p>
-<p>在各种古熊猫灭绝的大背景下，现代熊猫的祖先经过长大数百万年的演化，几经起起落落，和人类祖先一样也曾出现过多次演化瓶颈<sup>[13]</sup>，但它们最终适应了竹林生态位，并获得了成功。</p>
-<p>数万年前，随着古人类在华夏的崛起，出现了典型的「人进猫退」现象，但此时依旧分布广泛。</p>
-<p>至少 6000 年前，大熊猫在中国都广泛分布于中国南部。</p>
-<p>随着古中国部落的发展，6000 年前大熊猫的遗传多样性有所下降，但整体上逐渐适应了古中国人的存在，在 2000 年前的古典文明时期，反而有所恢复<sup>[14]</sup>。</p>
-<p>即便最保守估计，200 年前大熊猫的数量至少有数万规模。</p>
-<p>20 世纪期间，早期中国捕杀大熊猫并不违法，它们因皮毛，或作为害兽被猎杀，也有活体送往西方。</p>
-<p>也即 100 年来，野生大熊猫数量才开始急剧下降，并在 1970 年代达到最低谷，最终只剩下 1000 只左右。</p>
-<p>所以，大熊猫的濒危完全不是因为吃竹子。</p>
-<p>反而正是因为它们的祖先改变了食性，专性吃竹子，它们才一直存活到了今天。</p>
-<p>如果没有人类威胁，它们长时间会是广袤竹林里无忧忧虑，没有天敌的动物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ed15ae92abb8df5ac049fae1c2bc1376_720w.gif?source=8673f162" alt=""></figure>
-<p><strong>了解了大熊猫的食性演化，再来分析问题，自然就容易多了。</strong></p>
-<p>相比起人类祖先从典型植食性发展为杂食性，肉食性的增强，大熊猫祖先的植食性远远特化得多。</p>
-<p>食性主要由先天生理和后天行为共同所决定。</p>
-<p>如果大熊猫出生后，完全没有母亲示范吃竹子、竹笋，缺失了行为学习，完全不知道竹子的存在，它们一开始自然无法产生后天的竹子偏好。</p>
-<p>由于它们的消化系统，足以适应合理营养搭配设计的非竹植食，那么它们同样可以健康的成长。</p>
-<p>当然，这里健康同样包括了牙齿和咬肌的发展，也即食物中可能需要类似竹子那样的纤维刺激。缺失纤维刺激，有可能影响口腔生物力学。</p>
-<p>虽然大熊猫缺失了鲜味受体，但更强的机会主义属性，也意味着它们很容易模仿母亲（或其它成年大熊猫）而产生相应的摄食行为偏好。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8fca93cb128be3db391526634c7facf9_720w.gif?source=8673f162" alt=""></figure>
-<p>要么寻找本身有捕食习性的大熊猫，要么通过大熊猫饲养员“捕食”示范，来增强大熊猫幼崽的狩猎行为。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-1d68c6c26446bd08219ee990469d6385_720w.jpg?source=8673f162" alt=""></figure>
-<p>总之，如果你愿意不计成本的话，是足以把一部分大熊猫幼崽培养成后天杂食性，但同时拥有捕猎行为的熊的。</p>
-<p>这样的大熊猫，很显然食性和其它的熊已经没啥区别……</p>
-<p>当你培养成功后，需要尽可能让它们不再接触到竹子，尤其是竹笋。</p>
-<p>虽然它们对竹子的后天偏好没有建立，但先天偏好却是一直存在的。</p>
-<p>当它们某一天突然吃到竹笋，可能会如同已经成年的你，才第一次吃到你这辈子最喜欢的食物时，感受到的味蕾瞬间被打开的哪种前所未有的惊艳……</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b1ab610d934cf6486012a7432481eb19_720w.gif?source=8673f162" alt=""></figure>
-<p>你曾经让它们建立的饮食偏好，虽然不至于完全被打破，但它们可能会情不自禁地摄入大量竹笋，竹子。</p>
-<p>然而，由于你给它们从小建立的肠道菌群，并非与竹子匹配，它们有可能会吃出消化道问题。</p>
-<p>要知道，对于圈养大熊猫来说，因消化器官和消化机能尚不健全的亚成体死亡最多，占死亡总数的 64%。</p>
-<p>显然，这样培养大熊猫是百害而无一利的。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1971756393460655158">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792363</guid>
-                <pubDate>Sun, 06 Sep 2026 19:53:07 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>为什么几千年作为蔬菜的甜菜，没有被发现能产糖？</title>
-                <link>http://daily.zhihu.com/story/9792375</link>
-                <description>瞻云，先让一部分知识有趣起来 查看知乎原文 这是野生甜菜。 看起来和杂草都没啥区别。 含糖量非常的低。 只有 1%~3%[1][2]，在所有可食植物根部中都是垫底的。 甚至比不上萝卜，仅仅比山药好一些[3]。 虽然饮水中，人最低可感知约莫 0.23%的糖浓度[4]，但在蔬菜中要感知到甜味，浓度则高得多，尤其是被苦味掩盖时[5]。 依据大多数有甜感的蔬菜糖浓度，可能需要 5%左右才能感受到甜味。 例…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-0c6a6a34b4fe4497078c41d7be79b1c2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/1940042526502422493/answer/1953801685202896834" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>这是野生甜菜。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-24360abea8f67aefe79fbff992b3fccb_720w.jpg?source=8673f162" alt=""></figure>
-<p>看起来和杂草都没啥区别。</p>
-<p>含糖量非常的低。</p>
-<p>只有 1%~3%<sup>[1]</sup><sup>[2]</sup>，在所有可食植物根部中都是垫底的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-19b6a1c3f59b050d6193113863bba679_720w.jpg?source=8673f162" alt=""></figure>
-<p>甚至比不上萝卜，仅仅比山药好一些<sup>[3]</sup>。</p>
-<p>虽然饮水中，人最低可感知约莫 0.23%的糖浓度<sup>[4]</sup>，但在蔬菜中要感知到甜味，浓度则高得多，尤其是被苦味掩盖时<sup>[5]</sup>。</p>
-<p>依据大多数有甜感的蔬菜糖浓度，可能需要 5%左右才能感受到甜味。</p>
+<p>所谓的“晕 3D”，是一种叫<strong>“3D 晕眩症”</strong>的症状（或者<strong>视觉诱发晕动症</strong>，visually induced motion sickness，以下简称为晕 3D），是指在玩 3D 电子游戏，或者使用 VR 时容易发生的晕眩症状。</p>
+<p>它也叫<strong>模拟器病</strong>（simulator sickness）——因为这个症状最开始，是指飞行员或者驾驶员使用模拟器开飞机、开车的时候，感觉到的恶心、难受、呕吐症状。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a2970c3237a1f1940cf232f3ac801ea3_720w.jpg?source=8673f162" alt=""><figcaption>最早的模拟器病出现在 1950 年代的美国海军直升机模拟驾驶舱里，那会就晕 3D，现在都虚幻 5 引擎了，会晕 3D 也没什么丢脸的是吧</figcaption></figure>
+<p>但是，晕 3D 这件事为什么有的人晕的厉害，有的人又不晕？而且这样晕下去也不是办法啊，要是以后大家都用 VR，只有我用不了那也太惨了吧？</p>
+<p>要弄清楚这些个问题，我们可能要先从另一个也让人很头晕的事情讲起——<strong>晕车</strong>。</p>
+<p><strong><strong>晕动症——当你觉得你在动 但你视野没动的时候</strong></strong></p>
+<p>晕车、晕船、晕飞机，这些因为交通工具引起的眩晕症状，我们叫做<strong>晕动症</strong>（motion sickness）。相信即使你没体验过，你身边也总有人晕过车——坐车上，尤其是后座，没一会就开始恶心、难受，甚至呕吐不止。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ea7c413c5cdb6a07680e60dccbb3c253_720w.jpg?source=8673f162" alt=""></figure>
+<p>正如前面小标题说的，简单来讲，会晕车是因为你觉得你在动但是你视野没有动导致的。</p>
+<p>除了可以接受听觉信息之外，耳朵后面还有一套你可能没那么熟悉的感觉系统：<strong>前庭系统</strong>。这其中有一套感知我们身体运动的器官，叫做<strong>耳石器</strong>（otolith）。（另一个大家可能听过的<strong>半规管</strong>，主要是感知我们前后左右上下的朝向）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e49ebb80d1991ec77fab915e02697468_720w.jpg?source=8673f162" alt=""><figcaption>耳结构和前庭系统 | 图源：healthjade</figcaption></figure>
+<p>顾名思义，耳石器就是耳朵里的“石头”，这些石头在你加速跑步，或者在车上加速刹车的时候，就会受到惯性发生移动（想象一下刹车时你人往前冲的样子），顺便就带动了和“石头”连接的感受细胞（毛细胞），感受细胞就会传递信号给大脑：<strong>“嘿！这个家伙他动起来了！”</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-715464a64a9c0daed476f0e9b506aa69_720w.jpg?source=8673f162" alt=""><figcaption>耳石器发挥作用示意图，它还可以检测你头部的一些晃动等等 | 图源见水印</figcaption></figure>
+<p>但是，当你坐在车后座的时候，汽车相对于你是不会动的，你的眼睛就提出了反对意见：<strong>“报告大脑，针对我看到的东西，这个人没有动”</strong>——那么大脑就发现问题了：这不对劲啊？！大脑突然回想起了它古老的前世记忆：<strong>当人的不同感官之间出现差错的时候，往往就是吃坏东西中毒了。</strong></p>
+<p>于是，为了帮你“排毒”，大脑响应了一套保护机制，你开始觉得恶心难受，并吐了起来。</p>
+<p>神经系统之间的连接也证实了这一点：前庭系统和下丘脑有着紧密的连接，当前庭系统发出的信号和其他感官冲突时，下丘脑就很容易会激活垂体以及呕吐相关的感受器，引起恶心、呕吐的症状。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e6fd1d1696d5513cfbdad9ca48771309_720w.jpg?source=8673f162" alt=""><figcaption>人体的神经连接往往是一个复杂的网络结构 | 图源：Fife T D. 2010.</figcaption></figure>
+<p><strong><strong>晕 3D——当你觉得你没动 但你视野在动的时候</strong></strong></p>
+<p>那再说回晕 3D，道理就很简单了。晕 3D 虽然和典型的晕动症完全相反：你明明坐着没动，但是眼睛里的世界却动了起来。但是基本的原理却是类似的——<strong>感官之间发生了冲突，就引发了这个症状。</strong></p>
+<p>也正如前面提到的，这个情况不单单是你玩艾尔登法环这样的 3D 游戏会这样，模拟驾驶、太空模拟飞行、VR 虚拟现实的使用等等，都是类似的疾病。因此，研究者们很想搞清楚这个问题。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ee7fb12bac59484609c3c2ef9570b48_720w.jpg?source=8673f162" alt=""><figcaption>太空飞行模拟通过飞机快速下降模拟失重的环境，耳石器感受的重力变化，和你看到不动的机舱完全冲突，造成的恶心难受会更剧烈 | 图源：Wikipedia</figcaption></figure>
+<p>他们首先想到，如果视野改变或者用 VR 是不是有助于避免晕 3D？</p>
+<p>于是，有研究设计了两种不同的 VR 模拟，一种是增加视野里的信息量，比如模拟开车时更多的汽车、行人等等；一种是则是单纯的汽车模拟什么都没有。</p>
+<p>之后对受试者的体验进行评判就发现，<strong>视野里信息更丰富的情况下，恶心、眼睛不舒服、头晕这些情况会明显减弱</strong>，使用 VR 的时间也会明显更久一些。</p>
+<p>也有研究发现，相同画面下（赛车游戏），带着 VR 这样的头戴式设备，晕 3D 的感觉会明显比坐着盯着屏幕更好一些。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-de1b5c678548b59c386496be622209ba_720w.jpg?source=8673f162" alt=""><figcaption>PW 指屏幕，HMD 指头戴式设备，可以看到随着使用时间都会越来越不舒服，但是头戴式设备会稍好一些 | 图源：Keshavarz B,et al. 2011.</figcaption></figure>
+<p>所以当游戏画面更精致、更丰富，同时有一个和我们眼睛习惯更加匹配的画面视野，也就更能减少晕 3D 的情况。</p>
+<p>这也是为什么，对于很多晕 3D 的朋友，调整<strong>游戏视野（Field of view，FOV）</strong>——将视野适当调广一些，并且使用<strong>第三人称视角</strong>，都能在一定程度上缓解晕 3D 的感觉。</p>
+<p><strong><strong>还有什么方法可以不晕 3D？</strong></strong></p>
+<p>除了对 3D 游戏本身的调整之外，有什么其他的防止晕 3D 的方法吗？</p>
+<p>其实和晕车类似，最有效最直接的方法就是<strong>吃药</strong>。</p>
+<p>因为感官冲突过程中涉及到不少神经信号的传递，或者组胺分泌引发的恶心，所以<strong>抗胆碱能、抗组胺类药物</strong>往往都能有效减少晕车，当然也能避免晕 3D</p>
+<p>当然，大家可能知道，<strong>晕车药吃了会有犯困的副作用</strong>，所以一般人只是玩个游戏的话，应该犯不着去吃晕车药。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ceda83359213abbef7e2d14af51d95a1_720w.jpg?source=8673f162" alt=""><figcaption>像是茶苯海明之类的晕车药，就是通过抗组胺的方法来避免晕车</figcaption></figure>
+<p>还有一个策略则是缓解因为感官冲突引起的紧张感：我们刚刚提到，大脑往往是“觉得”身体异常，才开始让你感受到恶心难受；那相应的，如果能<strong>提供一个舒适的感官环境</strong>，不仅可以起到注意力转移的作用，晕眩的症状也会因为相对舒适的情境减弱。</p>
+<p>有研究给志愿者播了一段看了会让人极为难受的自行车骑行视频，但同时给他们播放<strong>轻松的古典乐、效果还行的流行音乐以及极具压迫的电子音乐</strong>，来看看志愿者有什么样的感觉。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-926615e7dcdf843bac9c17830b4592ea_720w.jpg?source=8673f162" alt=""><figcaption>左图展示了没有音乐和三种音乐下对晕 3D 的难受程度，其中放松的音乐（relaxing）效果是最好的；右图则是志愿者们喜欢的和不喜欢的音乐的效果 | 图源：Keshavarz B, Hecht H. 2014.</figcaption></figure>
+<p>结果不管是什么音乐，<strong>只要有音乐，晕 3D 的症状都会减轻一些</strong>；同时轻松的古典乐在志愿者间效果也是最佳的。</p>
+<p>所以当你玩非常晕的 3D 游戏，不妨试着播一段约翰内斯·勃拉姆斯的摇篮曲，也许会很有用呢？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6f23029b9e10a4f90359f67883ab1eea_720w.jpg?source=8673f162" alt=""><figcaption>约翰内斯·勃拉姆斯（摇篮曲作曲者）：这首曲子没想到还能这么用？</figcaption></figure>
+<p>类似的，人们还发现，如果能在玩游戏时<strong>开个风扇吹点微风（触觉）</strong>，或者是<strong>准备一点好闻的气味（味觉）</strong>，都能有效减少晕 3D 的症状。</p>
+<p>晕 3D 看着很常见，但是也正因为晕眩的症状太普遍，背后具体是什么样的机制并没有被研究清楚，这些建议也仅供各位晕 3D 患者们参考。</p>
+<p>参考资料：</p>
 <ul>
-<li><em>例如，豌豆的糖浓度便是 5%左右，洋葱甚至可显著超过 5%</em><sup>[6]</sup><em>。</em></li>
+<li>Johnson D M. Introduction to and review of simulator sickness research[J]. 2005.</li>
+<li>Treisman M. Motion sickness: an evolutionary hypothesis[J]. Science, 1977, 197(4302): 493-495.</li>
+<li>Kohl R L. Sensory conflict theory of space motion sickness: an anatomical location for the neuroconflict[J]. Aviation, space, and environmental medicine, 1983.</li>
+<li>Schmäl F. Neuronal mechanisms and the treatment of motion sickness[J]. Pharmacology, 2013, 91(3-4): 229-241.</li>
+<li>Fife T D. Overview of anatomy and physiology of the vestibular system[J]. Handbook of Clinical Neurophysiology, 2010, 9: 5-17.</li>
+<li>Ihemedu-Steinke Q C, Rangelova S, Weber M, et al. Simulation sickness related to virtual reality driving simulation[C]//International Conference on Virtual, Augmented and Mixed Reality. Springer, Cham, 2017: 521-532.</li>
+<li>Keshavarz B, Hecht H, Zschutschke L. Intra-visual conflict in visually induced motion sickness[J]. Displays, 2011, 32(4): 181-188.</li>
+<li>Keshavarz B, Hecht H. Pleasant music as a countermeasure against visually induced motion sickness[J]. Applied ergonomics, 2014, 45(3): 521-527.</li>
 </ul>
-<p>而野生甜菜本身就是苦味为主，还有夹杂着腥涩味<strong>、</strong>草味、轻微咸味，所以几乎无法尝出甜度。</p>
-<p>最关键的是，甜菜的主要糖分位于根部。</p>
-<p>野生甜菜却没有膨大的块根，和现代甜菜的差异非常大<sup>[7]</sup>：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-974fa1767abf432d04f2cff5a461b318_720w.jpg?source=8673f162" alt=""><figcaption>不同的甜菜品种</figcaption></figure>
-<p>从左到右，从上到下依次为：</p>
-<ul>
-<li><em>野生甜菜（左上）、瑞士甜菜（右上）、饲用甜菜（左下）、糖用甜菜（中下）、菜用甜菜（右下）</em></li>
-</ul>
-<p>野生甜菜的学名为海甜菜（<em>Beta maritima</em>），苋科甜菜属。</p>
-<p>所有的现代甜菜，都是由它逐渐驯化培育而成。</p>
-<p>曾经主要分布在西欧、北欧和地中海沿岸<sup>[8]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0d78008fa0c9c2459d1b1d47f78ced05_720w.jpg?source=8673f162" alt=""><figcaption>野生甜菜分布（实线箭头 - 距离远亲缘近；虚线箭头 - 距离近亲缘远）</figcaption></figure>
-<p>所以，地中海沿岸和西欧、北欧的早期文明，都有食用甜菜的痕迹发现。</p>
-<p>最早大约是 5000 年前的丹麦。</p>
-<p>早期文明食用的甜菜，大多具有烧焦痕迹，这意味着早期食用方式非常的原始<sup>[9]</sup>。</p>
-<p>此时人类对甜菜的认识，可能仅仅是一种无毒的、能烧着吃的植物。</p>
-<p>甜菜正式登堂入室，大约是 2000 多年前的古希腊和古罗马。</p>
-<p>由于野生甜菜纤维比较多且粗，再加上没有块根，所以希腊人和古罗马人基本上只吃比较嫩的叶子，炖煮为主。</p>
-<p>至于根部，则拿来入药。</p>
-<p>公元 1 世纪的希腊医师迪奥斯科里德斯（Dioscorides）认为：</p>
-<blockquote>深色甜菜会导致便秘，白色甜菜可以通便。</blockquote>
-<p>完全野生的甜菜是白色的，这意味着，因为长期的食用，此时已经出现了早期的栽培品种。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-342aa48f4fa1b6497f161bff285a16ca_720w.jpg?source=8673f162" alt=""><figcaption>迪奥斯科里德斯（Dioscorides，约 40—90 年）</figcaption></figure>
-<p>甜菜叶子里的含糖量本来就比根部还低很多，古希腊、罗马人的炖煮吃法，使得剩下的菜或者汤，甜浓度更是会远远低于人的味觉。</p>
-<p>正因为吃不出甜味，所以早期古希腊和古罗马人，也并不叫它甜菜，叫法更类似于可食用的菜类植物。</p>
-<p>罗马人阿皮修斯（Apicius）在其食谱中描述了多种甜菜菜肴：</p>
-<blockquote>将甜菜切片，与韭葱一起，加入研碎的香菜和孜然，倒入葡萄干酒，煮至完美，最后把甜菜从汤中取出，拌上油和醋食用。</blockquote>
-<p>他还建议用芥末调味甜菜，并将其浸泡在油和醋中腌制。</p>
-<p>在后来很长一段时间，甜菜都是炖煮的吃法为主。</p>
-<p>这就使得很长一段时间，人们都没有意识到这是一种能产出糖分的菜。</p>
-<p>但凡事都有例外。</p>
-<p>野生甜菜的根系存在额外的形成层，所以本身是有潜力膨大化的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5bb27b5027b0a2f62e947d60fafd9f8f_720w.jpg?source=8673f162" alt=""><figcaption>现代甜菜块根中的形成层</figcaption></figure>
-<p>至少从公元 1 世纪开始，甜菜便已经在被人们有意无意的驯化。</p>
-<p>5 世纪左右的绘画，已经出现了略微膨大的根部。</p>
-<p>虽然依旧还有明显的主根。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-566a450f5f27d9e9be630318c9679b0d_720w.jpg?source=8673f162" alt=""></figure>
-<p>随后又过了 1000 年的时间。</p>
-<p>一直到 16 世纪，才出现了典型的根系膨大的甜菜。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8a32c8ca1d7ded3a1018440b94dd87c3_720w.jpg?source=8673f162" alt=""><figcaption>Raphael Sanzio（1517）</figcaption></figure>
-<p>而且随着块根的出现，主根逐渐消失，以须根为主。</p>
-<p>当然，这个时期的其它甜菜品系，还是以不发达的根系为主。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5f877e333d5bdf23df0bd5531c63906b_720w.jpg?source=8673f162" alt=""><figcaption>Leonhart Fuchs（ 1552）</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fcdf5a9496ba9e909d2493912d59cf0b_720w.jpg?source=8673f162" alt=""><figcaption>Dalechamps (1586)</figcaption></figure>
-<p>甜菜根系膨大的驯化压力是比较明显的。</p>
-<p>毕竟根系越膨大，整个植株重量和可食用的部分都会增加。这样无论冬季保存，还是作为畜牧用途，都会更有优势。</p>
-<p>而且到了 15 世纪，中世纪才结束。很有可能早期的食物匮乏，根部也会被食用，加速了甜菜等蔬菜的驯化。</p>
-<p>但由于这个时期甜菜的驯化，并没有甜味的选择压。所以，此时根系膨大的甜菜，甜味浓度也是非常低的，和野生甜菜很接近。</p>
-<p>糖浓度虽然没变，但根系膨大了，整颗植株的糖含量就增加了，这就为未来发现甜菜中的蔗糖埋下了伏笔——大量煮食甜菜块根，总会有水分蒸发浓缩，发现甜味的时候。</p>
-<p>最早发现甜菜甜味的人是谁，我们已经不知道了。</p>
-<p>但至少在 1575 年，法国的一位农学先驱奥利维尔·德·塞雷斯（Olivier de Serres）便发现<sup>[10]</sup>，甜菜根煮沸后会流出一种类似糖浆的液体，因其深红色而非常美观。</p>
-<p>口感酸酸甜甜的甜菜版罗宋汤，也大致在这个时期开始出现。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e5b1aa0f106614682e5c8d51962349c5_720w.jpg?source=8673f162" alt=""><figcaption>甜菜罗宋汤</figcaption></figure>
-<p>由于此时葡萄牙、西班牙等国，已经在美洲、亚洲建立了甘蔗种植园，结晶蔗糖生产已逐渐商业化，塞雷斯发现的这种低浓度糖浆并没有受到人们的关注。</p>
-<p>随着蔗糖工业的建立，整个欧洲进入了疯狂噬糖的时代。</p>
-<p>随后 100 多年，在蔗糖工业迅猛发展的同时，甜菜的驯化也进入了快速发展的时期。</p>
-<p>1712 年的画作中，已经出现了块根非常发达的甜菜。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1286463b9c71097e0a22064da0aac708_720w.jpg?source=8673f162" alt=""><figcaption>Filippo Strozzi（1712）</figcaption></figure>
-<p>虽然这个画作可能有夸张的成分，但至少甜菜的块根已经有了现代规模。</p>
-<p>块根大了，工业化提取糖分的可能性也就高了。</p>
-<p>18 世纪中叶，想要对糖工业分一杯羹的普鲁士国王腓特烈大帝，资助了一系列甜菜糖分提取实验。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b3d82dcba9d5c800b6e6c763742f5d1d_720w.jpg?source=8673f162" alt=""></figure>
-<p>1747 年，德国化学家马格拉夫（Andreas Sigismund Marggraf）<sup>[11]</sup>最早从甜菜中提取出了糖分，并证明和甘蔗中的糖分相同。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d7bef596e0c005cf33541be3e3c97617_720w.jpg?source=8673f162" alt=""><figcaption>马格拉夫（Andreas Sigismund Marggraf，1709 年 3 月 3 日—1782 年 8 月 7 日）</figcaption></figure>
-<p>其实高糖含量的植物块根并不少，例如胡萝卜和甘薯等等。</p>
-<p>但这些植物的糖含量都比较杂，往往同时具备蔗糖、葡萄糖，以及果糖。</p>
-<p>在这些糖分中，只有蔗糖是比较容易结晶的。</p>
-<p>蔗糖的饱和溶液，温度低到 70℃以下就可以开始结晶，工业化控制在 50℃左右，结晶效率就非常高了。</p>
-<p>然而葡萄糖和果糖的结晶温度则在 20~30℃，在夏天或者温度略微偏高的室内就无法结晶，所以工业化困难。而且它们的结晶还有容易吸水，稳定性差，不适合大量保存的特点。</p>
-<p>所以，工业化的理想选择就是高蔗糖植物。</p>
-<p>甘薯的蔗糖比例不到 1/3，胡萝卜虽然高一些，但 60%左右的比例，也不适合工业化。</p>
-<p>所以，甜菜适合糖工业化的另外一个最关键条件，就是蔗糖比例高，达到 98%以上。</p>
-<p>不过，马格拉夫所在这个时代的甜菜糖分含量，依旧非常低。</p>
-<p>因为早期驯养压力并不侧重在甜度上，所以和野生甜菜依旧接近，含糖量为 1.3%~1.6%。</p>
-<p>马格拉夫依旧发现，白色甜菜是最佳的糖料来源。</p>
-<p>不过，如此低的浓度，要发展甜菜蔗糖工业，成本会极其的大。</p>
-<p>也正是因为如此，腓特烈大帝的计划并没有成功。</p>
-<p>1786 年，腓特烈大帝去世的这一年，马格拉夫的学生弗朗茨·阿查德（Franz Achard）<sup>[12]</sup>承担起了甜菜糖工业化的重任。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2a59efd39e84037c1e5b567683214254_720w.jpg?source=8673f162" alt=""><figcaption>弗朗茨·阿查德（Franz Achard，1753 年 4 月 28 日—1821 年 4 月 20 日）</figcaption></figure>
-<p>提到甜菜糖工业历史，阿查德是绕不开的人物。</p>
-<p>明确的科学驯化思维和方式，是他成功的关键。</p>
-<p>他接下重任后，率先评估了 20 多个甜菜品种的含糖量，随后才开始精心植物育种。</p>
-<p>最终他与合作者选育出了一种白色圆锥形块茎的甜菜，认为是理想的糖工业化品种，命名为 weiße schlesische Zuckerrübe。</p>
-<p>但他并没有急着工业化，而是一直继续培育到了 1800 年。</p>
-<p>从最开始选育到现在，已经经过 14 年，weiße schlesische Zuckerrübe 的含糖量也提升到了 5%~6%。</p>
-<p>相比起其恩师马格拉夫所用的甜菜，糖浓度已经提高了 4 倍。</p>
-<p>随后他开始了甜菜糖工业化，并在第二年，也即 1801 年获得了成功，在西里西亚（今波兰科纳里）开设了世界上第一家甜菜糖厂。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9bb34de75858d97451971bd0db79be20_720w.jpg?source=8673f162" alt=""></figure>
-<p>随后几年间，大量甜菜糖厂在德国出现。</p>
-<p>早期甜菜糖厂的炼糖效率并不高，不过拿破仑实施的禁运政策，导致甘蔗糖无法进口到德国，反而促进了甜菜精炼技术的迅速发展。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e4e9fdc077c62ff680e4bcff9c40825b_720w.jpg?source=8673f162" alt=""><figcaption>19 世纪的甜菜糖工厂</figcaption></figure>
-<p>德国甜菜工业获得成功后，法国反而开始效仿。</p>
-<p>从此以后，欧洲甜菜产业开始迅速扩张。</p>
-<p>到 1840 年，世界上便有大约 5%的糖来源于甜菜。</p>
-<p>糖工业的发现，也飞速刺激了现代甜菜的驯化。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-adc89ad32f6c9443831d94e1aeb08e99_720w.jpg?source=8673f162" alt=""><figcaption>James Peale（1826）</figcaption></figure>
-<p>1860 年以后，甜菜的糖含量已经普遍超过 12%，最高达到 18%。</p>
-<p>现代甜菜品系，也基本奠定。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5f55c5bf523e11e13b7452948107a737_720w.jpg?source=8673f162" alt=""><figcaption>Benary （1876）</figcaption></figure>
-<p>到 1880 年，世界上的糖，已经超过 50%来源于甜菜。</p>
-<p>进入 20 世纪以后，甜菜的糖浓度最高已经超过 20%。</p>
-<p>最终，野生甜菜完成了彻底的蜕变<sup>[13]</sup>：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-66d269b56939e6b99aa3c8ffceb2ec03_720w.jpg?source=8673f162" alt=""><figcaption>图中 B、C、D、G 为野生甜菜和现代甜菜根系对比</figcaption></figure>
-<p>现代甜菜的大多数品系，尤其是糖用甜菜，大多源于阿查德主导培育的 weiße schlesische Zuckerrübe。</p>
-<p>然而令人唏嘘的，阿查德自己的炼糖厂在 1807 年发生了多起火灾，并于 1815 年破产<sup>[14]</sup>。</p>
-<p>随后几年他一直穷困潦倒，依靠微薄的津贴或援助生活。</p>
-<p>并一直持续到他于 1821 年去世。</p>
-<p>但世界上总有人记住他：开启了一个时代。</p>
+<p>本回答来自文章：</p>
+<p><a class="internal" href="https://zhuanlan.zhihu.com/p/490556656">biokiwi：还不玩艾尔登法环？因为我晕 3D 啊！</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1940042526502422493">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/323435777">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792375</guid>
-                <pubDate>Sun, 06 Sep 2026 19:53:08 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792400</guid>
+                <pubDate>Mon, 07 Sep 2026 02:26:24 GMT</pubDate>
             </item>
             
             <item>
-                <title>英语「China」是来自「秦」、「晋」，还是别的来源？</title>
-                <link>http://daily.zhihu.com/story/9792385</link>
-                <description>CodeRyan，什么都看 查看知乎原文 这个是一个争议问题。先说一下毫无争议的溯源是梵语चीन（Cīna，国际音标：[ˈt͡ʃina]，连字音标 Ci-Na，大致为“齐那”或“基那”），但梵语究竟为何把中国称为 Cīna 就是个历史争议比较大的区域了。 先简单解释一下前面回答中几个基本可以排除的答案： 1.晋。 这个观点最早是清末苏曼殊（1884-1918）提出来的，他是中日混血的诗人和翻译家，…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-eccbcd04b2526e00026add5f7ca34b80.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么牧羊犬能指挥羊群进退？</title>
+                <link>http://daily.zhihu.com/story/9792407</link>
+                <description>云杉，知乎遗风，科研工作者，文理双修的战士。 查看知乎原文 无论是面对狼群还是牧羊犬，羊都只有一个办法：往羊群里挤，稀释自己被吃的概率。 而牧羊犬只需精准拿捏这种恐惧即可。 先上一张图，大家感受一下标准的牧羊犬牧羊过程： 发现了没，牧羊犬最需要关注的，是离羊群最远的羊。 这里涉及到一个经典的理论：自私牧群理论（Selfish herd theory）。 这套理论最早是由进化生物学家威廉·汉密尔顿（…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c79f80775f60c3b189e561456a4628fe.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -366,80 +131,78 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fd3ed686ee613d2dcfbe980c0758fbbc_l.jpg?source=8673f162">
-<span class="author">CodeRyan，</span><span class="bio">什么都看</span>
-<a href="https://www.zhihu.com/question/621990905/answer/1998000441766727808" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
+<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的战士。</span>
+<a href="https://www.zhihu.com/question/576674955/answer/2002076311800272788" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这个是一个争议问题。先说一下毫无争议的溯源是梵语चीन（Cīna，国际音标：[ˈt͡ʃina]，连字音标 Ci-Na，大致为“齐那”或“基那”），但梵语究竟为何把中国称为 Cīna 就是个历史争议比较大的区域了。</p>
-<p>先简单解释一下前面回答中几个基本可以排除的答案：</p>
-<p>1.晋。</p>
-<p>这个观点最早是清末<span class="nolink">苏曼殊</span>（1884-1918）提出来的，他是中日混血的诗人和翻译家，通晓中、日、英、梵四种语言，那个时候 China 还可以念作“支那”且并无侮辱性质（侮辱性是清亡之后日本官方文件使用该词导致的），苏曼殊认为这个词与秦朝无关，因为秦在上古汉语中为浊音（[dzin]），近代才转变为清音。</p>
-<p>之后，学者<span class="nolink">郑张尚芳</span>（1933-2018）主张，这个词实际来自<span class="nolink">晋</span>（[ʔsins]）的音转。</p>
-<p>这个答案国际接受度并不高，因为这个答案根本无法解释梵文<span class="nolink">史诗</span>《<span class="nolink">摩诃婆罗多</span>》、《罗摩衍那》中已经有这个词并且根据描述可以明确推断就是指的中国，而《摩诃婆罗多》中提及中国的章节被 Spitzer Manuscript（发现于 1906 年的新疆库车）证实在最晚在公元 230 年就完全成型，《罗摩衍那》更是最晚于公元三世纪定稿，而晋在公元 266 年才建国，怎么看都不像是史书里面能够被广泛使用的词的词源。</p>
-<p>另外一个比较有力的证据就是考底利耶的《政事论（Arthashastra）》，这本书失传了，但是后来又被找到并且存在大量的残存记录，书中第二卷到第六卷被认为是超过千年以上古老的部分，学界普遍认可它成书于公元前 3 世纪左右，在这里面就明确提及了 Cīnapatta 起源于 Cīnabhumi，patta 是丝绸，bhumi 表地点，怎么看都是丝绸之路带来的丝绸来到了印度。硬要往上靠也只能是春秋时期的晋国，但晋于公元前 376 年三家分晋结束，又和《<span class="nolink">摩诃婆罗多</span>》、《罗摩衍那》对不上了，因为它们最早成书于公元前 4 世纪，由于后世对该词的使用从未变过，晋国灭亡后词未变动是很难自圆其说的。</p>
-<p>所以不论怎么看，提出“晋”是词源的，是纯从语言学的发音推断的，但发音在流转的时候会变。</p>
-<p>唯一遗憾的是，上述证据都不算是铁证，毕竟没能发现任何一个残本上面直接有चीन，没办法直接用年代来否定，所以晋这个说法拍不死，但是普遍接受不了，近年来这个说法提及比较多是因为郑张尚芳是语言学的大佬，在国内影响力巨大，考证了大量上古汉语的发音，他提的这个观点考古学上也没有铁证能给否掉，因此大部分学者对这个观点持观望态度，因为这个说法实在是和梵语那边的发现关系很微妙。</p>
-<p>2.长安</p>
-<p>晋还能解释为发音出现清浊化变种的问题，长安这个就真的是完全没有对应关系了。中古汉语（魏晋至唐）读 /drjaŋ 'an/，上古汉语（周至汉）白一平和沙加尔考证为 /*Cə-[N]-traŋ [ʔ]ˤa[n]/，郑张尚芳考证为 /*daŋ qaːn/，不论是哪个，“长”字始终带有 aŋ元音，都不可能与 /ˈt͡ʃina/ 中的 in 对应，这个说法是可以一棍子拍死的。Cīna 的 -a 是一种梵语词干，而非音译。</p>
-<p>如果非得说是音译的话，那么汉西南的夜郎国自称为 /zina/，更为合理，根本都不用变化，直接抄过来就行。这个观点由澳大利亚学者 Geoff Wade 提出，然而最关键的问题是缺乏古代贸易证据证明发音的传入。</p>
-<p>3.契丹和清</p>
-<p>这俩就一边待着去吧，梵文里这个词的出现远早于它俩，说契丹的是中了马可波罗游记的毒，说清的大清亡啦！</p>
-<p>接下来说学界普遍的观点，国际普遍的观点。</p>
-<p>秦。</p>
-<p>这个说法最早是意大利传教士马提诺·马尔蒂尼（1614-1661，中文名卫匡国）提出来的。</p>
-<p>把词干拆解掉后，词根就剩下 Cīn，这个词根据年代大家首先猜测都是秦朝或秦国。这个字在上古汉语中，不论是白沙两人拟音作 /*dzin {*[dz]i[n]}/，郑张拟音作 /*d͡ziɪn/，可以看到 dz 这个浊辅音两者均认可，这也是“晋”论主要的质疑点，因为ˈt͡ʃin 是清辅音而晋的 /sins/ 的发音关系比 /dzin/ 要更近。</p>
-<p>晋论另一个主要质疑是，这个来源的质疑主要是秦朝的时间实在是太短了，只有公元前 221-202 年这么可笑的 19 年时间，19 年怎么能让当时印度这么个大文明采用这个名字作为中国的代称。</p>
-<p>这两点其实都是学者争议的焦点。前者相对比较好解决，因为印度是南线丝绸之路的终点，中间商人倒卖丝绸的时候，西域商人发音可能比较难发出 d͡z 这个塞擦音，而发的是 t͡ʃ塞擦音，这个有一个已经灭亡的古语系恰好能解释这个现象，就是吐火罗语系，它的辅音系统里有 t͡ʃ，但没有 d͡z<sup>[1]</sup>，而吐火罗语系恰好就在丝绸之路上，位于天山山脉附近：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bec197edf06bf7649cc29a665da7c10d_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以逻辑链非常的通顺，来自中原的商人把丝绸卖给使用吐火罗语系的西域商人，西域商人向印度商人描述丝绸的来源的时候，发音没有 d͡z 而使用 t͡ʃ代替，所以印度商人听到的是ˈt͡ʃin，因此记载为ˈt͡ʃina，是不是非常的精妙？</p>
-<p>换句话说，<strong>为什么丝绸之路沿线的所有国家都是清辅音ˈt͡ʃ？因为悄悄话游戏的第二棒西域把音读错了，就是这么荒唐可笑但合理的解释。</strong></p>
-<p>而后者这个 19 年的问题，这个确实是不好解释了，但是也有一个比较合理的推断，那就是丝绸之路的起源。丝绸之路的确在汉代才走向辉煌，但是这条陆上贸易路线真的是秦汉时期才出现的吗？</p>
-<p>这就很有趣了，德国<span class="nolink">斯图加特</span>的霍克杜夫村凯尔特人精英墓葬中<sup>[2]</sup>发现了中国丝绸，鉴年法测定为公元前 500 年前后，属于中国春秋时期。</p>
-<p>丝绸之路开始的时间远早于常规的认知秦汉，而丝绸之路的起点是秦地，所以秦商把丝绸卖给西域商人的时候，使用自称“秦”，不难理解为什么梵文里面，对 Cīna 印象最深刻的，当然是 Patta 咯。至于用中国的名字指代瓷器这件事，那就相当晚了,梵文的 Cinapatta 一个词就足够推翻瓷器一说。</p>
-<p><strong>当然，这个仍然是争议话题，因为现在“晋”和“夜郎”的说法虽然明显有漏洞但是很难被证伪，“秦”的说法缺乏考古学的铁证也难以被证实。</strong></p>
-<p>最后，国际上学界普遍接受的是“秦”，郑张流派和追随者主要接受“晋”。</p>
-<hr>
-<p>补充：如果晋国真的是词源的话，那么灭亡时间点至少应该落脚在公元前 200-100 年左右，才能比较合理的解释梵文成书的时间点，太早太晚都不行，因为它得需要保证足够长的时间存活来提供影响力使得称呼不发生变化，同时又得和其他文明接触的比较早来占据这个位置。</p>
-<p>我们从其他角度能够印证这个问题。</p>
-<p>斯拉夫语系中对中国的称呼是契丹 Kitay，这个直接就扇了北方游牧民族传播称呼的脸，因为斯拉夫民族在早期长期被游牧民族统治，结果对中国的称呼是辽朝的另一个名称契丹，而且在历史发展的过程中，目前只找到过 Seres（赛利斯，丝绸之国，词源古希腊语）这一个称呼，这就是接触太晚的表现。这也表明游牧民族并未把中国的称呼传入。</p>
-<p>日本则在历史上存在多个名字称呼中国，宋代日本僧人奝然直接在著作里写北宋为“中国”，明代日本回给明朝的国书中称呼中国为“中华”，此外“唐（から）”这个称呼在平日里也非常常用，或者直接以当时中国的朝代的国号称呼，反而是“支那（シナ）”是明治维新之后才逐步启用的，这个词公元 9 世纪即宋代的时候就随佛经传入了日本，但是根本不怎么用。这就是接触的晚，同时后世影响力过大导致称呼发生变化的典例，唐这个称呼极为典型。</p>
-<p>秦论的恰到好处在于，秦国到秦朝确实存在时间足够久能提供影响力，同时玉石之路的存在是与西方接触的铁证，时间点恰好卡上。晋国虽然能勉强满足接触说（还是被强扣的，晋国历史上跟西域贸易的记录少之又少，与漠北的交易记录倒是很多），但是偏偏中亚地区的哈萨克语的中国称呼是 Qitay，古蒙古语的称呼是 Kitad，因此漠北传音过去的说法是站不住脚的，鲜有历史记录证明这些中亚的民族称呼中国为 Cin，顶多有 Seres，这反而是接触不到中国的证据。</p>
-<p>别的说法当然可以质疑秦论，毕竟巧合论不是证明，但至少秦论是目前证据最多，逻辑链最完整的说法。</p>
-<hr>
-<p>补充 2：发现很多人对晋的地理位置实在是太模糊了，补一张根据《中国地图历史集》绘制的地图：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1201795264fb04b2840d6f3fa117afcc_720w.jpg?source=8673f162" alt=""></figure>
-<p>鼎盛时期的晋国从未摸到过河套平原，甚至连黄河以西都难以过去，这个位置它能接触到的商人只有漠北。</p>
-<p>注意在梵文中中国一词多与丝绸一起出现，包括古希腊、古罗马对古代中国的称呼都是赛里斯，所以这个时候主要的证据是丝绸之路，到底从谁那里是起点。</p>
-<p>这个毫无争议，一直是秦所在的汉中盆地。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-62d1b3e9177697fc58079f7177fc3c11_720w.jpg?source=8673f162" alt=""><figcaption>这张图咸海画的有问题，大致地理情况是对的</figcaption></figure>
-<p>之后走河西走廊进入西域，进而前往中亚。</p>
-<p>晋除了有一次玉石之路科考线是是从山西出发走漠北以外，其余考古遗迹全部表明都是从汉中平原进河西走廊的，直到魏晋南北朝以后才逐渐形成河套平原的路线，形成非常的晚。所以古代贸易说的晋论真的很难站住脚。</p>
-<p>此外，盛产丝绸说也是行不通的，因为春秋战国时期各国都有大规模种植丝绸的证据，的确可能晋的丝绸产业规模比较大，但不意味着秦国不产丝绸，这顶多为晋论提供间接证据。</p>
-<hr>
-<p>补一个太长不看版本：</p>
-<p><strong>秦（大概率）：证据最多，有地理路径传入证据，强时间节点吻合，音转存在吐火罗语系解释</strong><strong>晋（小概率）：只有音转证据，无地理路径传入证据，弱时间节点吻合，无接触证据</strong><strong>夜郎（极小概率）：只有罕见历史记载，存在地理路径假说，无接触证据</strong><strong>其余没可能。</strong></p>
+<p><strong>无论是面对狼群还是牧羊犬，羊都只有一个办法：往羊群里挤，稀释自己被吃的概率。</strong></p>
+<p><strong>而牧羊犬只需精准拿捏这种恐惧即可。</strong></p>
+<p>先上一张图，大家感受一下标准的牧羊犬牧羊过程：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a43e75141e93c21b29ab367d853150d7_720w.gif?source=8673f162" alt=""></figure>
+<p>发现了没，牧羊犬最需要关注的，是离羊群最远的羊。</p>
+<p><strong>这里涉及到一个经典的理论：自私牧群理论（Selfish herd theory）。</strong></p>
+<p>这套理论最早是由进化生物学家威廉·汉密尔顿（W.D.Hamilton）在 1971 年一篇题为《自私牧群的几何学》中提出来的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1fd122fe0031913b2805ebe1a0320446_720w.jpg?source=8673f162" alt=""></figure>
+<p>他认为，羊之类的群居动物中的每一个个体都是自私的。</p>
+<p>当羊们聚集在一起时，每一只羊都会本能地往羊群中心移动，以此来降低自己被袭击、吃掉的概率。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-20d6f1b58a028e251d3683802105497d_720w.gif?source=8673f162" alt=""></figure>
+<p>当然，汉密尔顿只是提出了这样一个假说，真正得到验证，在几十年后。</p>
+<p>伦敦大学皇家兽医学院的生物学 Andrew King 在 46 只绵羊身上安装了 GPS 定位系统，并找来训练过的澳洲卡尔比犬来担任牧羊犬。</p>
+<p>他们让牧羊犬工作，让后记录羊群和牧羊犬的行动轨迹。</p>
+<p><strong>结果发现，仅需两个动作，牧羊犬就能让羊群乖乖听话。</strong></p>
+<p>一是当羊分散时，把分散的羊吓回羊群里；</p>
+<p>二是当羊聚集在一起时，吓着它们前进。</p>
+<p>可以参考下图，蓝线是牧羊犬的运动轨迹，黑色是羊群的运动轨迹：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6a498bdbeb106a0de729c59fa59abe3d_720w.jpg?source=8673f162" alt=""></figure>
+<p>在这个实验中，科学家也验证了自私牧群理论。</p>
+<p>绵羊面对威胁时，总是会往羊群中央躲避，而不是向着牧羊犬的反方向逃跑，或者大家散开逃跑。</p>
+<p>在这套逻辑下，牧羊犬只需要拿捏住脱队的羊，就能自然而然地让羊群聚拢：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-74d276dd61b0a4d524aa34bdf747e791_720w.jpg?source=8673f162" alt=""><figcaption>最远的羊被优先关注</figcaption></figure>
+<p>从人的视角看，牧羊犬像个指挥官，让羊群乖乖听话。</p>
+<p>从生物的视角来看，牧羊犬在扮演一个不会真的吃羊的捕食者，而羊只是本能地执行几百万年没变过的逃生算法。</p>
+<p>牧羊犬精准地拿捏羊群的恐慌，有目的地维持羊群的整体和方向。</p>
+<p><strong>所以，正经的牧羊犬，是要经过系统训练的。</strong></p>
+<p>这些狗狗从小就要接触羊，在小围栏里接受小羊群的训练，然后慢慢扩大到大的羊群。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cf7af42ac131e9dd91e6ee2976b2fc42_720w.gif?source=8673f162" alt=""><figcaption>从几只羊开始</figcaption></figure>
+<p>注意看，这个时候的牧羊犬低头夹尾，模拟了狼狩猎时的姿势。</p>
+<p>而某音之类的视频平台上，拍摄者带着自家宠物犬，找了个羊群付费让狗狗体验“牧羊”。</p>
+<p>其实只是单纯让狗狗好奇地冲进羊群，把羊吓跑而已。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5a78f2be7c1ac9a7ac828d4cda94d0e5_720w.jpg?source=8673f162" alt=""></figure>
+<p>其实你若懂了牧羊犬牧羊的底层逻辑，其实还能发掘出一丝科学浪漫主义的味道。</p>
+<p>一边，是羊群几百万年进化打磨出的逃生算法。</p>
+<p>一边，是人类用几百年时间选育犬的品种、总结犬的培养，打磨出一个温和的、不会吃羊的“伪捕食者”。</p>
+<p>它们在草地上相遇，短暂地形成一个极其稳定、近乎优雅的动态系统——</p>
+<p>没有交流，却高度协同</p>
+<p>没有理性，却呈现出理性的秩序。</p>
+<p><strong>当然，也有羊中犟种，就是不吃这套：</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff9be58c276203655321d74019e8a4b7_720w.gif?source=8673f162" alt=""></figure>
+<p>以上~</p>
+<p>参考内容：</p>
+<p>Hamilton W D. Geometry for the selfish herd[J]. Journal of theoretical Biology, 1971, 31(2): 295-311.</p>
+<p>Strömbom D, Mann R P, Wilson A M, et al. Solving the shepherding problem: heuristics for herding autonomous, interacting agents[J]. Journal of the royal society interface, 2014, 11(100): 20140719.</p>
+<p>Tsunoda Y, Sueoka Y, Sato Y, et al. Analysis of local-camera-based shepherding navigation[J]. Advanced Robotics, 2018, 32(23): 1217-1228.</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/621990905">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/576674955">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792385</guid>
-                <pubDate>Sun, 06 Sep 2026 19:53:09 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792407</guid>
+                <pubDate>Mon, 07 Sep 2026 02:26:25 GMT</pubDate>
             </item>
             
             <item>
-                <title>古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗？</title>
-                <link>http://daily.zhihu.com/story/9792390</link>
-                <description>也说，一二三聊职场，四五六谈感情。 查看知乎原文 古人应对箭伤比我们想的经验丰富。 有完善的处理 SOP（标准步骤）。 这种不用治了（来自《昭君出塞》） “箭矢”这个东西几乎是人类最原始的武器之一。 最早的记录是，约两三万年前古人类就开始使用弓箭。 一些岩壁画的记载。 苏纳泰尔岩壁画（约公元两万年前） 到了我国春秋战国时期，弓箭制作已经进入了成熟期，开始大规模应用于军队。 在 70、80 米的距离…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-97c1b8ad9a706ddaf2694cfdaf4e4649.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>我发现很多农村教堂并没有发鸡蛋，那为什么还有那么多老头老太太去信？</title>
+                <link>http://daily.zhihu.com/story/9792416</link>
+                <description>骨瘦如柴姚日月，真正的秩序，不是建立在契约之上，而是建立在对失败的恐惧之上。 查看知乎原文 对很多刚到美国的华人来说，教会是很神奇的地方。 进去可能只是为了蹭顿饭。 最后却顺手学了英语，找了工作，交了朋友，运气好的连对象都有了。 放在游戏里，这玩意基本就是华人新手村里的冒险者公会。 1848 年，加州发现金矿，消息一传到广东，珠江三角洲沿海的台山，新会，开平，恩平这一带的农民开始往美国跑。 这批人…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-109ced568d690b692902bc7b935e496e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -459,150 +222,516 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-f6fc5bd1779c092ddbd08cec8a1d270e_l.jpg?source=8673f162">
-<span class="author">也说，</span><span class="bio">一二三聊职场，四五六谈感情。</span>
-<a href="https://www.zhihu.com/question/2062593631098343674/answer/2074952320601933522" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-12e51112854d7c8390210b151ab1afd2_l.jpg?source=8673f162">
+<span class="author">骨瘦如柴姚日月，</span><span class="bio">真正的秩序，不是建立在契约之上，而是建立在对失败的恐惧之上。</span>
+<a href="https://www.zhihu.com/question/2065207564342654038/answer/2075539812761735233" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>古人应对箭伤比我们想的经验丰富。</strong></p>
-<p>有完善的处理 SOP（标准步骤）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-06ebfed3dd05d5965332b16e44da15e2_720w.jpg?source=8673f162" alt=""><figcaption>这种不用治了（来自《昭君出塞》）</figcaption></figure>
-<p><strong>“箭矢”这个东西几乎是人类最原始的武器之一。</strong></p>
-<p>最早的记录是，约两三万年前古人类就开始使用弓箭。</p>
-<blockquote>一些岩壁画的记载。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-16c3a7b986d0056230edde99442e5949_720w.jpg?source=8673f162" alt=""><figcaption>苏纳泰尔岩壁画（约公元两万年前）</figcaption></figure>
-<p><strong>到了我国春秋战国时期，弓箭制作已经进入了成熟期，开始大规模应用于军队。</strong></p>
-<p>在 70、80 米的距离，当时的箭矢能深入人体 10cm 以上。</p>
-<blockquote><strong>评书演义里经常提到“一箭之地”。</strong><br>指在平原无风条件下约为 120-170 米左右。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f7ebe16217a4a8ea9f5cac2ff9f2994b_720w.jpg?source=8673f162" alt=""><figcaption>古罗马的弓兵阵型（6 个步兵方阵大约 480 人;右边是重骑兵 50 人,后边是弓）</figcaption></figure>
-<p><strong>箭上面，通常还会淬毒。</strong></p>
-<p>配合放血槽和涂抹粪便（金汁）或植物毒素（如乌头碱），能进一步杀伤士兵。</p>
-<p>所以，从杀伤数量来看，弓箭几乎是最重要的一种武器。</p>
-<blockquote><strong>南宋华岳《翠微北征录》上曾说：</strong><br>“军器三十有六，<strong>而弓为称首</strong>，武艺一十有八，<strong>而弓为第一</strong>”<strong>。</strong></blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cf50064a36c8183d79d2c0fe4aaece7a_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e0cc699f53f35727401c27b721652d10_720w.jpg?source=8673f162" alt=""><figcaption>含有乌头碱的野生草乌类植物。</figcaption></figure>
-<p><strong>也因此，古人依靠经验总结了非常完善的箭伤处理“标准流程”。</strong><strong>第一步，是切断箭杆。</strong></p>
-<p><strong>为什么不“拔箭”呢？</strong></p>
-<p>因为为了扩大中箭者的伤口，工匠们会把箭镞设计成菱形或其他异形，使得伤口创面增大，无法轻易愈合。</p>
-<p>而人体的肌肉有受伤后自我收缩性，会把箭“夹住”。</p>
-<p>如果强行把箭镞从伤口处拔下来，会连皮带肉扯下一大块。进一步破坏肌肉组织。</p>
-<p>若是卡在骨头血管上，这样猛的一拔，基本现场就没救了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d5f543609a610d604ad60a0438e2fd52_720w.jpg?source=8673f162" alt=""><figcaption>典型箭伤</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-05aacdfbc1ae1192faca79b4727a8029_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>入肉会有多深呢？</strong></p>
-<p><strong>《晋书》有载，“铁厚一寸，射而洞之。”</strong></p>
-<p>可见当时优质的箭矢已经能做到击穿盔甲且深入人体。</p>
-<p>当然，也不可能带着箭战斗，因为会在动作中扩大创口，失血过多。</p>
-<p>所以，战场上中了箭，第一时间是切断或折断箭杆，暂时不处理箭头。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a78f1e7b8fbc07260a4750c023bfa7e9_720w.jpg?source=8673f162" alt=""><figcaption>箭头的倒刺</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6c002f5e3bb4d83db6bbed3b4ceab6b9_720w.jpg?source=8673f162" alt=""><figcaption>错误示范，这么拿肌肉夹着折箭杆基本要大出血</figcaption></figure>
-<p><strong>第二步，是切开肌肤，取出箭头。</strong></p>
-<p>这一步通常等离开战场要到了后方，有包扎止血条件了，再进行。</p>
-<p>古代的箭头分为很多种，比如有专门破甲的锥头，也有起到杀伤步兵放血为主的宽箭头。</p>
-<p>还有为了飞行距离的强弓专用箭，守城时增加体积来加大势能的箭头等。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-09ff48f2756956be01f0df4cf48f26bb_720w.jpg?source=8673f162" alt=""><figcaption>秦汉时期的五种不同作用的箭头</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f44e9632be44e43aff1545410801401d_720w.jpg?source=8673f162" alt=""><figcaption>汉代时候训练用的加重箭头</figcaption></figure>
-<p><strong>这一步的难度就是：要判断箭头的形状，尽可能地减少不必要切伤。</strong></p>
-<p><strong>古人的方法是——</strong></p>
-<p>用一根银针扎到伤口内部，通过触感和经验判断。</p>
-<p><strong>有的时候箭头当时无法取出——</strong></p>
-<p>就只能冲洗伤口毒液先止血，等待部分愈合后再取。</p>
-<blockquote><strong>《刘涓子鬼遗方》记载：</strong><br>“如箭在肉中不出……“（镞）浅者十日出，深者二十日出，终不住肉中。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-177fff9de6d5dfca5d40baf3f7780ed6_720w.jpg?source=8673f162" alt=""><figcaption>战国时期遗骸中，一个没有取出的箭头</figcaption></figure>
-<p><strong>冲洗伤口毒液时候，如果没有干净水，士兵会用“尿”清洗。</strong></p>
-<p>新鲜的尿液，来自人体内部，本身是相对细菌很少的。（至少比河水干净）</p>
-<blockquote><strong>清代皇家医典《医宗金鉴》记载：</strong><br>“箭头嵌入肉内，钳不出者，宜解骨丸，纳伤口内……，<strong>即以人尿洗之，</strong>贴陀僧膏，可换，伤口自愈。”</blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2a981210e34fcf4f5edb88bdee61ecc6_720w.jpg?source=8673f162" alt=""><figcaption>箭伤不会是这么个小孔，而是一道十字的切割伤口</figcaption></figure>
-<p><strong>取箭头的时候，有条件会配合酒或者麻药止疼。</strong></p>
-<p>中医的<strong>“麻沸散”</strong>等麻药就不用说了，西方也有类似的记载。</p>
-<p><strong>罗马军团的医疗兵会随身携带一种叫＂波斯卡＂的烈酒。</strong></p>
-<blockquote>有记载说公元 1 世纪的罗马军医盖伦曾用葡萄酒混合鸦片汁液，给一名腹部中箭的士兵服用，那人在手术过程中昏睡了大半个时辰，醒来时箭头已经取出。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-79ce5c87d5fbde829a78524d94d565e3_720w.jpg?source=8673f162" alt=""><figcaption>麻沸散的主要原料之一“曼陀罗”</figcaption></figure>
-<p>蒙古军队的军医则会用<strong>木棍敲击伤者的头部</strong>，让他昏迷过去。</p>
-<blockquote>此事在《猫和老鼠》中亦有记载。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cb88352a2f02b0c53cc7041393442f81_720w.jpg?source=8673f162" alt=""><figcaption>示意图</figcaption></figure>
-<p><strong>特别说一下：</strong></p>
-<p>一般来说<strong>四肢中箭</strong>是最好施救的，如果是腹部中箭，则基本看运气了。</p>
-<p>胸部和头部中箭，没保护基本当场玩完。</p>
-<p>所以，古代的盔甲，一般首先保护的是头部和胸部。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-41173bea56258c5bdb36c8a8c1f1f1cb_720w.jpg?source=8673f162" alt=""><figcaption>秦朝的士兵甲</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7034c3b8b88b0614f45d38075e6c48db_720w.jpg?source=8673f162" alt=""><figcaption>这类贯穿伤是最好处理的（折断箭杆向箭头侧推出去就行）</figcaption></figure>
-<p><strong>暴力的“推进法”</strong></p>
-<p>如果箭矢<strong>贯穿</strong>了四肢，军医会直接把箭杆从另一侧推出来。</p>
-<p>公元前 216 年的坎尼战役后，罗马军医曾经这么处理了成百上千的箭伤。</p>
-<p>专业的军医会折断箭杆后，用手顺着箭头方向推动折断的箭杆底部，整个过程据说不需要 10 秒，忍住疼就出来了。</p>
-<blockquote>忍不住就是战损数字。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f313828b9d891b3233fa1b53709eaad_720w.jpg?source=8673f162" alt=""><figcaption>国内古装剧中，少见用了“推进法”的描写。但丝线不行，要用钳子。</figcaption></figure>
-<p><strong>常见的“扩创法”。</strong></p>
-<p>对于普通的箭伤（未贯穿），就需要用刀扩大伤口，让箭头有足够的空间从后方取出。</p>
-<p><strong>先用探针在伤口四周确定箭头的位置和角度</strong>。</p>
-<p>根据经验判断出是哪种箭头。</p>
-<p>然后沿着箭杆的方向切开必要的皮肤和肌肉，暴露出箭头，最后用钳子夹住箭头慢慢拔出。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0fca5bc5fd1e7f1713eb4e19651c1226_720w.jpg?source=8673f162" alt=""><figcaption>不能喊“一二三”然后使劲拔</figcaption></figure>
-<p><strong><strong>对付倒钩箭，古人还发明了一些“专业工具”。</strong></strong></p>
-<p>比如其中一种是中空的金属管，军医把金属管沿着箭杆插入伤口，套住箭杆上的倒刺，然后整个往外拔。这样倒刺就不会钩住肉。</p>
-<blockquote>严格说也不是“箭杆”，是箭头后方金属部分。</blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e55836319864604a628797e115bf4a02_720w.jpg?source=8673f162" alt=""><figcaption>箭头后方的倒刺和放血槽</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-bc941618e8c23ce3fb1f5b368446eb7e_720w.jpg?source=8673f162" alt=""><figcaption>进入组织后，如果没有套管，很难拔出</figcaption></figure>
-<p><strong>最后一步是包扎创口，以及用“食疗”帮助痊愈。</strong></p>
-<p>古代最怕的不是拔箭，而是术后感染。没有抗生素的年代，一个小伤口都可能引发致高烧。</p>
-<p>古人不知道“破伤风”和“细菌”，但知道清洗可以让痊愈率提高。</p>
-<blockquote><strong>‌北朝时期《刘涓子鬼遗方》中，</strong><br>明确记录了箭镞嵌在肉中伤口清创的操作规范，是现存最早的箭伤治疗医学专著记录。</blockquote>
-<p><strong>具体用什么“消炎”，则各文明有不同的“高招”。</strong><strong><strong>罗马军医会用“葡萄酒”清洗伤口。</strong></strong></p>
-<p>他们不知道酒精能杀菌，只是凭经验发现，用酒清洗过的伤口不容易腐烂。</p>
-<blockquote><strong>公元 1 世纪的军医迪奥斯科里德斯记载：</strong><br>用烈酒（原始发酵好像是 16 度）浸泡亚麻布，然后敷在伤口上，这样能减少化脓的几率。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-028cfa8bd33209d6fbe4e059575ffae7_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>阿拉伯军医则用“蜂蜜”。</strong></p>
-<p>公元 10 世纪的医学文献里提到，蜂蜜具有＂拔毒＂的功效，涂在伤口上能防止腐烂。</p>
-<p>蜂蜜里种还会加入<strong>没药和乳香</strong>，这种混合物在十字军东征期间被广泛使用，救活了不少欧洲骑士。</p>
-<p>现代科学证明，蜂蜜的高渗透压和低酸性环境确实能抑制细菌生长。</p>
-<blockquote>此事在《鹿鼎记》中亦有记载。</blockquote>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-2cf7f33e69c2805eeef78042e9d932fe_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>中国军医当然是“金疮药”。</strong></p>
-<p>“金疮药”是一种泛指的名称，代表所有治疗外伤的药物，每个时代有自己的配方。</p>
-<blockquote>“金创”指金属刀枪箭造成的开放型伤口。</blockquote>
-<p>像是<strong>《黄帝内经》</strong>里记载的一种“金创药”的配方，主要成分是三七、当归和龙骨。</p>
-<p>这种药粉撒在伤口上能止血、消炎、促进愈合。</p>
-<blockquote>我们熟悉的“云南白药”主要成分也是三七。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fbee09c7e9b1b6a49d5259ac590d1e8a_720w.jpg?source=8673f162" alt=""><figcaption>植物三七</figcaption></figure>
-<p><strong>而帮助痊愈，则基本靠“食补”。</strong></p>
-<p>罗马军团会给受伤的士兵喝牛骨汤、吃动物肝脏，这些食物富含铁质，能帮助身体恢复造血功能。</p>
-<p>阿拉伯医生则推荐红枣和蜂蜜，认为这些食物能＂补气养血＂。</p>
-<p><strong>我国则是主要是“熬汤”。</strong></p>
-<p>比如知名的<strong>四物汤</strong>‌（含有熟地、当归、白芍、川芎）；<strong>当归补血汤</strong>（含有黄芪、当归）；<strong>圣愈汤</strong>‌（含有人参或黄芪）。</p>
-<p>再比如含有<strong>阿胶、地黄、龙眼肉</strong>的各种补血汤煲。</p>
-<p>这些营养的功能基本是补血和蛋白质，促进愈合。但是普通小兵肯定享受不到了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-de34067802dfccd1fbdfaea1d8071fdf_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>虽然方法很多，但“箭伤”在古代依然是一种“赌命”的创伤。</strong></p>
-<p>哪怕皇帝、大汗，在前线意外中箭导致最后死亡，整体战争逆转的案例也不少。</p>
-<p>也难怪“神箭手”在各种传说中，都是英雄单位。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1ddc52310aaec59a6738985553c4881c_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>最后说一种传说中的“箭伤疗法”。</strong></p>
-<p>蒙古人的传统医术，叫作<strong>腹罨（yǎn）疗法</strong>。</p>
-<p>就是宰杀一头活牛，把伤者整个放在牛的体内。</p>
-<p>据说成吉思汗用这个方法，治好了几个受到箭伤难以痊愈的亲兵。</p>
-<p>还有努尔哈赤时期有个叫作吴拜的将军中了 30 多箭，也是被塞进牛肚子里面救活的，这件事还被乾隆时期的名医魏志秀记录在了<strong>《续名医类案》</strong>书中。</p>
-<blockquote>李时珍的<strong>《本草纲目》</strong>中也有记载：<br>“牛血，伤重者，破牛腹纳入，食久即苏也”。</blockquote>
-<p><strong>从科学原理来强行解释，可能因为两个原因：</strong></p>
-<p>1.受伤的人失血过多，体温会下降，但是动物刚死的时候，肚子里面温度较高，野外战场上，放在牛肚子里，能保持患者体温，缓解伤情。</p>
-<p>2.开放性伤口大量流血，靠自己止血很难，但是死去动物的血液从外面会糊住伤口，促使伤口不再失血，有助于止血。</p>
-<p>但从医疗效果上来说，这个方法很有限。</p>
-<p>所以，只算传说。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc41091db4098d075f74594f567c394e_720w.jpg?source=8673f162" alt=""><figcaption>此事在金凯瑞《神探飞机头 2》中亦有记载</figcaption></figure>
+<p>对很多刚到美国的华人来说，教会是很神奇的地方。</p>
+<p>进去可能只是为了蹭顿饭。</p>
+<p>最后却顺手学了英语，找了工作，交了朋友，运气好的连对象都有了。</p>
+<p>放在游戏里，这玩意基本就是华人新手村里的冒险者公会。</p>
+<p>1848 年，加州发现金矿，消息一传到广东，珠江三角洲沿海的台山，新会，开平，恩平这一带的农民开始往美国跑。</p>
+<p>这批人绝大多数是穷得活不下去的劳工，签了卖身契，搭着船横渡太平洋，到了旧金山就直接进矿场，进铁路工地。</p>
+<p>后来横贯北美的太平洋铁路，加州大半的农业，背后都是这批广东人的血汗。</p>
+<p>他们到美国的目的极其简单，赚钱，寄钱回家，攒够了就回乡置地娶妻。</p>
+<p>在他们的脑子里没有移民这个概念，更没有皈依新宗教的念头。</p>
+<p>同乡会里供着家乡的神，宗祠里摆着祖先的牌位，堂口的秘密结社也有自己的拜把子仪式。</p>
+<p>1892 年光是旧金山唐人街，就有不下十五座庙，有的拜天后，也就是妈祖，有的拜关帝。</p>
+<p>你站在那个年代的唐人街，闻到的是香火味，听到的是粤语和广东戏，看到的是红纸黑字的对联。</p>
+<p>这是一个把中国南方原封不动复刻过来的飞地。</p>
+<p>那基督教是怎么进来的呢？</p>
+<p>答案是白人主动送上门的。</p>
+<p>当时的美国主流新教宗派，长老会，公理会，浸信会，圣公会，全都把唐人街当成了海外传教的延伸战场。</p>
+<p>在他们眼里，这是把福音传给中国人的天赐良机，省得跑到大清国去冒险。</p>
+<p>1853 年，旧金山唐人街开了北美第一座华人教会，今天还在，叫长老会唐人街教堂。</p>
+<p>这比排华法案早了将近三十年。</p>
+<p>但是早期的传教效果，说难听点，惨不忍睹。</p>
+<p>一个广东农民，背井离乡到一个白人占绝对多数，处处歧视他的国家，让他放弃祖宗牌位去拜一个西方的神，太难了。</p>
+<p>在儒家文化里，不祭祖等于不孝，等于断绝自己和家族血脉的关联。</p>
+<p>所以早期那些零星的皈依者，往往是被乡里看不起的边缘人物，是那种本来就没什么家族包袱的孤儿，或者是被教会收留的妓女，或者是想学英语找出路的年轻人。</p>
+<p>不过教会做了一件让华人意想不到的事情。</p>
+<p>他们办学校，办夜校，教英语，教法律常识，YMCA 和 YWCA 后来也跟进。</p>
+<p>对一个目不识丁，连唐人街都走不出去的契约工来说，这是少数能让他和外面那个白人世界打交道的渠道。</p>
+<p>教会没有直接拿圣经砸过来，而是先递过来一把英语字典，先给一份热饭，先帮你写一封寄回广东的信。</p>
+<p>这套打法，奠定了之后一百多年华人教会的基本模式，也就是社群服务先行，信仰跟在后面。</p>
+<p>接下来事情开始起变化。</p>
+<p>1860 年代到 1870 年代，加州的白人劳工开始把经济萧条的账算到华人头上，反华情绪一年比一年凶。</p>
+<p>1871 年洛杉矶发生了针对华人的迫害，一夜之间死了十九个人。</p>
+<p>数量不多，但影响恶劣。</p>
+<p>1877 年旧金山爆发反华暴动，唐人街被烧。</p>
+<p>在这种局势下，谁站出来替华人说话？</p>
+<p>几乎只有教会。</p>
+<p>传教士们写文章，上国会作证，办报纸，到处奔走，反对即将通过的排华法案。</p>
+<p>主流白人社会对华人喊打喊杀的时候，最先伸出手的是基督教传教士。</p>
+<p>这就让一部分华人对教会的态度发生了微妙的转变。</p>
+<p>你拜关帝，关帝救不了你被烧的房子。</p>
+<p>你拜妈祖，妈祖管不了白人暴徒。</p>
+<p>但是教会的牧师真的去州议会替你说话，真的在你被打的时候收留你的妻儿。</p>
+<p>这种现实的庇护关系，比所有神学论证都更有说服力。</p>
+<p>这个阶段最有代表性的人物，是一个叫伍盘照的广东人。</p>
+<p>他在 1882 年之前就到了美国，皈依基督教之后受召做了牧师，进了旧金山神学院，在洛杉矶华人长老会传道所讲道。</p>
+<p>但是他真正出名是因为他后来离开教会去办报，创办了中西日报，这是早期华人社会影响最大的一份华文报纸。</p>
+<p>他写文章替华人辩护，攻击排华法案，赞美清末革命，给孙中山的事业摇旗呐喊。</p>
+<p>当时白人媒体甚至给他起了个外号，叫华人马克吐温。</p>
+<p>伍盘照这个例子说明，第一代华裔基督徒的信仰，并非脱离现实的纯粹宗教皈依，而是和华人在美国的生存处境，和对中国前途的关切，紧紧绑在一起的。</p>
+<p>他们一边读圣经，一边写文章骂美国政府的种族主义，一边给广东老家寄钱，一边鼓动革命党起兵。</p>
+<p>这种把基督教信仰和华人民族主义熔在一起的模式，是早期华裔基督徒留给后来的一个印记。</p>
+<p>到 1882 年排华法案通过的时候，整个美国华人社群的基督徒比例还非常低，估计连百分之五都不到。</p>
+<p>但是几个关键的种子已经种下了。</p>
+<p>第一，华人教会作为一种组织形式已经存在，而且已经扎在唐人街最核心的位置。</p>
+<p>第二，教会和华人社群之间形成了一种庇护与被庇护的关系，不是单纯的传教与被传教。</p>
+<p>第三，第一批华人基督徒知识分子开始出现，他们将在接下来的六十年里，在最严酷的排华时期，把这个种子守下来。</p>
+<p>1882 年 5 月 6 日，美国总统切斯特·阿瑟在白宫签下排华法案，是美国历史上第一部明确针对一个特定族群的移民禁令。</p>
+<p>法律生效那一天起，华人劳工不得入境，在美华人不得归化为公民，违反者随时可以被驱逐出境。</p>
+<p>这个法案原本只打算执行十年，结果一执行就是六十一年。</p>
+<p>基督教在这段最黑暗的时期，反而完成了它在华人社群里第一次真正意义上的扎根。</p>
+<p>法案通过之后，整个美国华人人口断崖式下跌。1882 年在美华人大约有十万人，到 1920 年只剩六万出头。</p>
+<p>老一辈陆续死去或者回国，新人进不来，连已经在美国的华人离境之后想再回来都极其困难。</p>
+<p>男女比例严重失衡，因为劳工的妻子也被禁止入境，唐人街成了一个由单身老男人构成的鳏夫社会。</p>
+<p>更要命的是日常生活层面的压迫。华人不能拥有土地，不能和白人通婚，</p>
+<p>在很多州不能进入公立学校，不能在法庭上指证白人，不能进入大多数行业。</p>
+<p>能干的事情被压缩到极少数几个领域，洗衣店，餐馆，杂货铺，菜农。</p>
+<p>1885 年怀俄明州石泉镇发生暴乱，二十八个华人矿工被白人暴徒打死。</p>
+<p>1887 年俄勒冈州地狱峡谷又是三十四个华人金矿工被杀。</p>
+<p>这些事件的凶手大多数没有被起诉，更不用说定罪。</p>
+<p>一个华人在那个年代的美国，在法律上几乎是个不存在的人。</p>
+<p>就在这种环境下，一件违反常识的事情发生了。</p>
+<p>华人教会不但没有萎缩，反而在这六十年里慢慢稳住，扎根，开始形成自己的传统。这里有几个层面。</p>
+<p>第一个层面是教会成了华人社群唯一稳定的庇护所。</p>
+<p>当一个华人走在街上随时可能被白人小孩扔石头，被警察无故盘查，被房东赶出来的时候，教堂的门里头是一个相对安全的空间。</p>
+<p>白人传教士虽然也带着自己的文化优越感，但是他们至少不会动手打你，不会把你当成牲口看待。</p>
+<p>教会的英语课，识字班，法律咨询，丧葬服务，找工作的引荐，</p>
+<p>这些功能在一个把华人排斥在所有正式制度之外的社会里，价值是无可替代的。</p>
+<p>你不进教会，你连一封英文信都没人帮你写。</p>
+<p>第二个层面是华人和白人传教士形成了一种深度共生的政治同盟。</p>
+<p>这一点特别有意思。当排华法案在国会辩论的时候，几乎所有反对这部法案的声音都来自基督教传教界。</p>
+<p>长老会，公理会，卫理公会的传教士轮番上阵，写文章，作证，向总统请愿。</p>
+<p>他们的论点很直接，禁止华人入境违反基督教普世博爱的精神，也违反美国和清政府签订的蒲安臣条约。</p>
+<p>这些抗议没能阻止法案通过，但是在华人社群心里留下了一个深刻的印象，白人主流社会里替我们说话的就这帮人。</p>
+<p>这种情感债务，是后来华人皈依的一个重要心理基础。</p>
+<p>第三个层面是美国的白人传教机构这时候已经把华人传教当成了一项战略事业。</p>
+<p>原因很复杂，一方面是宗教热情，另一方面是当时美国新教界正在搞所谓的海外宣教大复兴，把中国当成福音化的重点目标。</p>
+<p>但是直接派传教士去大清国成本高风险大，</p>
+<p>相比之下在旧金山，纽约，芝加哥的唐人街培养华人基督徒，再把他们送回中国传教，是一条更划算的路径。</p>
+<p>所以这个阶段大量的白人教会资源被投入到华人事工上，建唐人街教堂，办华人神学院，办华文基督教报刊，这一切都是有组织有钱有计划的。</p>
+<p>1892 年全美华人教会有十座，到 1931 年达到六十四座，分布在加州，纽约，芝加哥，波士顿，西雅图等主要华人聚居城市。</p>
+<p>每一座教会规模都不大，几十人到一两百人，但是它们构成了一张全国性的网络，相互之间有人员往来，有刊物传递，有神学院的师生关系。</p>
+<p>这张网络在排华时期撑住了华人基督徒的认同感。</p>
+<p>这个阶段出现了一批真正值得记住的人物。除了伍盘照之外，另一个标志性人物叫余江月桂。</p>
+<p>她父亲是基督徒，从小让她和五个姐妹都受教育，这在当年华人家庭里是极为罕见的事情。</p>
+<p>余江月桂后来成了美国第一位华人公立学校教师，在旧金山唐人街的公立学校教书。</p>
+<p>她毕业于斯坦福，但真正的影响不在课堂里。</p>
+<p>她从青少年时期就参加 YWCA 女童子军，是出名的筹款高手。</p>
+<p>大学期间她和六个旧金山华人公理会的女性朋友创办了一个叫圆与方俱乐部的组织，专门动员华人妇女支援抗战中的中国，照顾唐人街的孤儿和穷人，组织选民登记。</p>
+<p>1933 年她还参与创办了华人基督徒太浩湖青年大会，连续办了三十年，把华裔年轻人聚在一起讨论信仰和社会议题。</p>
+<p>余江月桂代表了一种新的华人女性形象。</p>
+<p>在传统中国社会里，一个女人受教育，做公职，组织社会运动，是不可想象的。</p>
+<p>但是在排华时期的美国华人基督教社群里，这种事情真的发生了。</p>
+<p>教会的英语教育，平等教义，社团组织能力，给华人女性提供了一个本来根本不存在的发展空间。这是教会对华人社群最隐秘也最深远的一项改造。</p>
+<p>到 1930 年代，美国华人基督徒已经形成了一个有相当规模的知识分子阶层。他们写文章，办报纸，搞青年运动，组织抗日募捐。</p>
+<p>1937 年卢沟桥事变之后，全美华人教会几乎都成了支援中国抗战的动员中心。捐款，发声明，办演讲，组织志愿者。</p>
+<p>这一波抗战动员，让华人教会在整个华人社群里的地位达到了一个新高度。一个不信基督教的华人，可能这辈子第一次走进教堂，不是去做礼拜，是去捐钱救国。</p>
+<p>同时，太平洋战争爆发之后整个美国对华人的态度开始转变。</p>
+<p>中国成了美国的盟友，华人变成了好亚洲人，相对的，日裔美国人成了坏亚洲人，被关进了集中营。这种态度的转变，给了排华法案致命一击。</p>
+<p>1943 年 12 月 17 日，罗斯福签字废除排华法案。这一天是美国华人历史的一个分水岭，也是华人教会的第一阶段的终点。</p>
+<p>回过头看这六十一年，华人教会不是在顺境里发展起来的，恰恰相反，它是在最严酷的种族压迫环境里被锻造出来的。压迫越重，教会的庇护功能越凸显，皈依的吸引力越强。</p>
+<p>它和华人争取生存权，争取尊严，关心中国命运这些政治议题深度交织。</p>
+<p>那些早期教会的牧师传道人，几乎没有一个是纯粹的宗教人士，他们同时是社会活动家，是新闻人，是教育家，是革命党的同情者。</p>
+<p>这个阶段虽然教会数量增长了，信徒比例其实仍然不高，整个美国华人里头基督徒大概也就百分之十几。</p>
+<p>但是教会培养出了一个有组织能力，有文字能力，有跨文化经验的精英阶层，这个阶层在接下来的几十年里，将成为华人融入美国主流社会的引水人。</p>
+<p>1943 年那一年，美国华人的命运翻篇了。</p>
+<p>从这一年开始，新的移民潮即将到来，新的故事即将展开。而排华时期种下的那张教会网络，将在二十年后迎来它真正的爆发期。</p>
+<p>1965 年 10 月 3 日，美国总统林登·约翰逊站在自由女神像脚下，签署了一份新的移民法案。</p>
+<p>这个签字仪式选在那个地点是有讲究的，因为这部法律要废除的，是过去四十多年里把全世界绝大多数有色人种挡在美国门外的族裔配额制度。</p>
+<p>约翰逊在签字时说这个法案不是革命性的，不会影响千百万人的生活。</p>
+<p>这是美国总统讲过的最离谱的预测之一。</p>
+<p>法案彻底重塑了美国的人口结构，也彻底重塑了美国华人和基督教的关系。</p>
+<p>我们要看它废除了什么。</p>
+<p>1924 年美国通过了一部移民配额法，给每个国家分配的移民名额是按照 1890 年那一年在美国的该族裔人口比例来定的。</p>
+<p>这套算法的实质是为了把南欧人，东欧人，亚洲人，非洲人全部挡在门外，让美国保持一个以西北欧白人为主的人口结构。</p>
+<p>所以哪怕 1943 年排华法案被废除了，整整二十二年里，中国移民进入美国的实际门槛仍然高得离谱。</p>
+<p>1965 年法案把这套配额制度整个推翻，改成了基于家庭团聚和职业技能的优先制度。</p>
+<p>每个国家每年的移民配额上限提高到两万人，并且优先给两类人，一类是已经在美国的人的家属，另一类是受过高等教育有技术专长的人。</p>
+<p>这两条规则叠加起来，对华人社群产生了一个核裂变级别的影响。</p>
+<p>首先是台湾和香港的留学生潮。</p>
+<p>1960 年代到 1970 年代，台湾的中产家庭开始大批送孩子来美国读研究生，主要是理工科。</p>
+<p>这批人毕业之后凭借职业技能拿到绿卡，然后再把父母兄弟姐妹陆陆续续办过来。</p>
+<p>香港也类似，1967 年香港事件之后大量中产家庭外移，很多人选择美国。整个 1970 年代美国华人人口翻了一倍多。</p>
+<p>然后是 1980 年代的中国大陆留学生潮。</p>
+<p>1978 年中美建交，1979 年邓小平访美，紧接着大陆开始派公费留学生，自费留学也逐步开放。</p>
+<p>1980 年代到 1990 年代，第一批大陆留学生大规模进入美国校园，主要集中在中西部和东部的州立大学。</p>
+<p>这批人和台湾留学生有几个差别。</p>
+<p>一是大陆来的人经济上更窘迫，绝大多数是靠美国学校的奖学金活着。</p>
+<p>二是他们成长在文革之后的真空环境里，宗教教育是零，传统文化教育也基本是零。</p>
+<p>三是他们普遍感受到一种巨大的文化冲击，从一个高度集体化高度政治化的社会，突然被扔进美国大学城那种极度个人主义极度多元化的环境，很多人是懵的。</p>
+<p>就在这个时间点，一个看起来很简单的东西出现了——美国大学校园里的查经班。</p>
+<p>运作方式如下:</p>
+<p>1980 年代的美国大学校园里，福音派基督徒学生组织已经非常活跃，最有名的几个是 InterVarsity，Campus Crusade for Christ，也就是后来的 Cru。</p>
+<p>这些组织早就在华人留学生身上看到了机会。</p>
+<p>新生开学的时候，他们在校园里摆桌子，提供免费的接机服务，免费的临时住宿，免费的二手家具，免费的英语会话练习，免费的周末活动。</p>
+<p>一个刚下飞机的大陆留学生，兜里揣着几百美元，一句完整的英语都讲不利索，连超市怎么用都不知道，突然有人开车来接你，给你安排住的地方，请你吃中餐，给你介绍这个城市怎么生活，你会怎么想？</p>
+<p>更关键的是，这些接你的人里头，往往有几个是华人基督徒，会讲普通话，会讲粤语，会做家乡菜，是几年前甚至十几年前过来的师兄师姐。</p>
+<p>他们不会一上来就传教，他们就是带你过日子。</p>
+<p>等你慢慢稳定下来了，他们会邀请你参加他们的查经班，理由是可以练英语，可以聚餐，可以认识朋友。</p>
+<p>一个孤独的留学生，在异国他乡的周五晚上，没什么别的事情可干，去就去吧。</p>
+<p>查经班的氛围是温情的。一群华人围坐在一起，吃着饺子或者糖醋排骨，唱几首歌，听一段简单的圣经故事，然后分享一周的生活。</p>
+<p>没有家乡的人际网络，没有家乡的食物气味，没有家乡的语言环境的人，会在这种场景里产生一种本能的依恋。</p>
+<p>很多人后来回忆说，他们是先爱上了这个团契，再慢慢接受了团契背后的那个信仰。</p>
+<p>中国大陆的基督徒比例大约在百分之五左右，但是 1990 年代到 2010 年代的美国华人基督徒比例可以达到百分之三十以上。</p>
+<p>换句话说，绝大多数美国华人基督徒是到了美国之后才皈依的。</p>
+<p>这是世界基督教史上一个相当独特的现象。一种宗教在一个移民群体里的传播速度，超过了在他们母国的传播速度好几倍。</p>
+<p>这背后还有几个推力，不能忽视。</p>
+<p>一个是冷战的意识形态背景。</p>
+<p>1949 年之后从中国大陆出逃到台湾再转到美国的那一批国民党系华人，对基督教有一种特殊的亲近感，因为在他们的认知框架里，基督教是一种旧世界的精神资源。</p>
+<p>蒋介石本人是受洗的卫理公会信徒，宋美龄出身上海宋家这种深度基督教化的家族，整个国民党高层有相当比例的基督徒。</p>
+<p>另一个是 1980 年代末，冷战末期国际形势风云突变，对在美国的中国留学生群体造成了巨大冲击。很多人在那几年集体陷入了身份危机和方向迷失，原有的政治信仰被砸碎了，新的信仰真空需要填补。</p>
+<p>基督教在那个特殊的时刻提供了一套现成的解释框架，提供了一个社群，一种希望。</p>
+<p>1980 年代末 -90 年代初，全美各地的华人教会都迎来了一波明显的皈依高峰。</p>
+<p>还有一个推力是美国福音派整体的崛起为华人教会提供了组织模板和资源。</p>
+<p>1980 年代里根上台之后，美国福音派进入了一个政治和文化扩张期，这一波扩张直接外溢到华人社群里。</p>
+<p>华人教会大量采用福音派的神学路线，使用福音派出版社的教材，参加福音派的全国大会。</p>
+<p>同时美国主流福音派也很乐意资助华人事工，因为华人事工被视为对未来福音化中国大陆的一项战略投资。</p>
+<p>到 1990 年代末，整个美国华人教会的秩序已经焕然一新。</p>
+<p>1999 年，全美有超过一千座华人教会。</p>
+<p>这个数字相对于 1930 年代的六十四座，相对于排华法案废除时的不到一百座，意味着六十年里增长了十倍以上。</p>
+<p>这一千多座教会主要是新教福音派，神学保守，组织独立，一半左右没有任何宗派归属，剩下的一半主要依附于南方浸信会，宣道会，以及少数长老会。</p>
+<p>这些新华人教会和早期唐人街那种老华人教会大为不同。</p>
+<p>地理上，它们不在唐人街，在大学城和郊区。波士顿剑桥的麻省理工旁边，普林斯顿，柏克利，安娜堡，香槟厄巴纳，匹兹堡这些大学城的周围，每一处都有一座到几座华人教会。</p>
+<p>语言上，它们主要使用普通话，而不是粤语和台山话，反映了新移民的来源结构变化。</p>
+<p>阶层上，会众是受过良好教育的中产专业人士，工程师，研究员，医生，教授，不再是早期的洗衣工，餐馆工。</p>
+<p>这个阶段华人教会还出现了一种独特的机制，叫多语堂并立。</p>
+<p>一座教会里头同时设普通话堂，粤语堂，英文堂。</p>
+<p>普通话堂服务大陆来的第一代，粤语堂服务香港和台山系的中老年人，英文堂服务在美国出生长大的第二代孩子。</p>
+<p>三个堂在同一个建筑里活动，但是文化上其实是三个不同的世界。</p>
+<p>这种内部分层为后来的代际问题埋下了伏笔，因为第二代和第一代之间的隔阂，是用一道语言墙隔开的。</p>
+<p>总的来说，1965 年移民法案点燃的这场华人皈依浪潮，把美国华人基督教推到了一个前所未有的高度。</p>
+<p>一千座教会，几十万信徒，遍布全美各大城市和大学城，神学统一，组织活跃，文化影响力延伸到华人社群的方方面面。</p>
+<p>这是华人基督教在美国的巅峰时期的前夜。</p>
+<p>接下来的二十年，从 1990 年代到 2010 年代，是华人教会的巅峰时代。</p>
+<p>当时，你开车进入美国任何一个有华人聚居的郊区。</p>
+<p>比如加州的库比蒂诺，新泽西的爱迪生镇，得州的休斯顿西区，伊利诺伊州的内珀维尔，宾州的州学院镇，</p>
+<p>你一定会看到一座或者几座华人教会。</p>
+<p>它们一般不在闹市区，而是在那种独栋住宅区和高速公路出口之间，</p>
+<p>建筑外观往往很朴素，一栋普通的平房或者改建的仓库，</p>
+<p>门口挂着一块中英文双语的招牌，写着某某华人基督教会，或者某某华人福音教会，或者某某华人宣道会。</p>
+<p>星期天早上你从门口经过，会看到一波接一波的丰田凯美瑞和本田雅阁停进停车场，</p>
+<p>下来的都是穿着体面的中产华人家庭，父母领着孩子，进去做礼拜。</p>
+<p>这个画面是 1990 年代到 2010 年代美国郊区生活的一个标准景观。</p>
+<p>好几股力量把他们推上了巅峰。</p>
+<p>首先是大陆移民的持续涌入。</p>
+<p>1990 年代中期之后，大陆来美国的渠道越来越多元化，</p>
+<p>留学是一条路径，技术移民是另一条，</p>
+<p>1990 年代后期开始出现的投资移民和工作签证转绿卡又是一条。</p>
+<p>这批人和 1980 年代那批穷学生不完全一样，</p>
+<p>他们经济上更宽裕，进入美国的时候已经有比较明确的职业方向，</p>
+<p>很多人直接落地到硅谷，到金融业，到大学和科研机构。</p>
+<p>这批人到了美国之后，仍然延续了之前那种从查经班进入教会的路径。</p>
+<p>因为第一代移民再有钱再有学历，刚到一个新国家的时候那种孤独和文化错位是一样的。</p>
+<p>教会提供的中文环境，熟悉的食物，孩子可以一起玩的同龄人，仍然是不可替代的。</p>
+<p>第二股力量是教会自身的组织升级。</p>
+<p>1990 年代之前的华人教会大多是小作坊式的，</p>
+<p>一个全职牧师带一群志愿者，租个礼堂，活动靠义工。</p>
+<p>1990 年代之后这些教会开始走向专业化和规模化。</p>
+<p>它们开始购置自己的产业，建自己的教堂建筑，雇用多名全职牧师，</p>
+<p>配备完整的儿童事工，青少年事工，姊妹团契，弟兄团契，福音组，诗班，敬拜团队。</p>
+<p>我记得一个挺典型的例子是德州达拉斯地区的中华福音教会，</p>
+<p>它从 1970 年代几十个人的小团契起步，到 2010 年代已经发展成一个三千人规模的特大型教会，</p>
+<p>自己有几栋楼，几十名同工，还在周边几个卫星城开了分堂。</p>
+<p>这种特大型华人教会在 2000 年代之后陆陆续续在主要华人聚居区都出现了。</p>
+<p>还有华人神学教育的本土化。</p>
+<p>早期华人教会的牧师要么是白人传教士培养出来的，要么是从台湾香港的神学院过来的。</p>
+<p>1990 年代之后开始出现专门服务北美华人教会的神学院，</p>
+<p>比如加州的正道福音神学院，伊利诺伊州的三一国际大学华神部，纽约的国际神学院。</p>
+<p>这些机构每年培养出几十到几百名华人传道人，</p>
+<p>他们用中文受训，专门研究华人移民的牧养议题，</p>
+<p>毕业之后直接进入北美的华人教会做牧师。</p>
+<p>这意味着华人教会终于有了自己的人才造血系统，不再依赖外部输入。</p>
+<p>1980 之后那一波集中皈依形成的中坚力量，也进入了教会的领导层。</p>
+<p>1989 年那一代留学生，到 2000 年代已经在美国生活了十几二十年，</p>
+<p>事业稳定下来，孩子也长大了，他们开始有时间有金钱有意愿全身心投入教会事务。</p>
+<p>很多人退休之后干脆去读神学院，转行做牧师或者长老。</p>
+<p>这批人构成了 2000 年代到 2010 年代华人教会的中坚骨架。</p>
+<p>他们的特点是受过良好的世俗教育，理工科背景为主，</p>
+<p>皈依的过程往往伴随着深刻的人生危机和理性挣扎，</p>
+<p>所以他们的信仰带有一种知识分子式的坚定和系统性。</p>
+<p>这个阶段华人教会有一个让外人有点摸不着头脑的现象，</p>
+<p>就是为什么它们几乎一边倒地都是福音派，而且是相当保守的那种福音派。</p>
+<p>林书豪当年甚至公开推崇 John Piper 和 C J Mahaney 的书</p>
+<p>这在美国主流华人基督徒圈子里完全是常态。</p>
+<p>Piper 和 Mahaney 是新加尔文主义运动的代表人物，</p>
+<p>神学立场非常保守，强调圣经无误，男性领导权，认信式的得救观。</p>
+<p>亚裔美国基督徒，特别是华人和韩裔基督徒，明显比白人基督徒更靠右。</p>
+<p>这个现象很多研究者都试图解释</p>
+<p>一个解释是圣经权威给了华人移民一个处理身份焦虑的工具。</p>
+<p>第一代华人到了美国，面对的是双重身份的撕裂，</p>
+<p>既不想完全放弃华人的文化根脉，又必须在美国主流社会里立足。</p>
+<p>这种撕裂日常生活里无处不在，</p>
+<p>从孩子的教育到家庭关系到职业选择。</p>
+<p>福音派强调的圣经无上权威，提供了一个绝对的判断标尺。</p>
+<p>哪些华人传统是可以保留的，比如尊重父母，勤俭节约，重视教育，这些都可以归到圣经的教导里头。</p>
+<p>哪些是必须放弃的，比如祭祖，看风水，算命，</p>
+<p>这些都可以归为偶像崇拜。</p>
+<p>圣经成了一把切割文化的刀，帮你界定哪些东西继承哪些东西舍弃。</p>
+<p>另一个解释是华人移民的社会经济地位决定了他们对自由派议程的距离感。</p>
+<p>1990 年代到 2010 年代来美国的华人，主要是受过高等教育的中产专业人士，</p>
+<p>他们靠勤奋和读书改变命运，对个人奋斗，家庭责任，子女教育有强烈的信念。</p>
+<p>美国主流新教自由派那一套，强调社会公义，种族正义，性少数权益，</p>
+<p>对这批新移民来说既不熟悉也没有直接相关性。</p>
+<p>福音派的传统道德观，强调家庭，强调努力，强调下一代教育，</p>
+<p>这和华人的儒家底色相当吻合。</p>
+<p>到 2010 年代中期，整个华人教会形成了一种很完整的文化生态。</p>
+<p>每个周六晚上有团契活动，按年龄分，青年团契，成年团契，长辈团契。</p>
+<p>每个星期天上午是主日崇拜，分多堂，普通话堂，粤语堂，英文堂。</p>
+<p>星期天下午是主日学，分龄教学，从幼儿到成人都有自己的课程。</p>
+<p>每个月有一次到几次全教会的聚餐，大家自带菜，摆成一长溜，</p>
+<p>红烧肉，糖醋鱼，麻婆豆腐，炸春卷，再加一两个白人姊妹做的派和饼干。</p>
+<p>每年有几次大型营会，夏令会，退修会，福音营，</p>
+<p>去山区或者海边的度假村，包下整个营地，几百号华人在那里待四五天。</p>
+<p>这个生态对第一代华人来说几乎是完美的。</p>
+<p>它解决了语言问题，社交问题，子女教育问题，文化传承问题，精神归属问题，养老送终问题。</p>
+<p>一个华人家庭只要进了一个好的教会，从买房到孩子上学到找工作到生病住院到老人过世，全套服务都有人帮你打点。</p>
+<p>教会成了一种全方位的社群基础设施，远远超出了宗教本身的范畴。</p>
+<p>但是巅峰的另一面，问题已经在酝酿了。</p>
+<p>问题就是第二代。</p>
+<p>那些在 1980 年代 1990 年代到美国的第一代移民，他们的孩子陆陆续续长大了。</p>
+<p>这些孩子从小被父母带着上华人教会，在那个语言上分层的体制里，他们是英文堂的那一群。</p>
+<p>问题是，他们和父母不一样。</p>
+<p>他们在美国出生长大，英语是母语，中文听得懂但是讲不流利。</p>
+<p>他们的同学是各种族裔的美国孩子，他们的文化参照系是美国主流文化。</p>
+<p>教会里那种以第一代移民焦虑为核心的氛围，那种强调华人身份认同和文化保留的话语，对他们来说越来越疏远。</p>
+<p>第一代讲的那些福音派议题，</p>
+<p>比如反对同性恋，反对女性按立做牧师，反对进化论，反对堕胎权，</p>
+<p>对很多在美国大学里受教育的第二代来说，已经是无法接受的立场了。</p>
+<p>2010 年代中期开始，第二代流失成为华人教会内部讨论最频繁的话题。</p>
+<p>年轻人高中毕业去外地读大学，就再也不回教会了。</p>
+<p>回到本地工作之后，他们要么去主流的英语教会，要么干脆什么教会都不去。</p>
+<p>一座教会从外面看人数还很多，但是仔细一看，平均年龄在缓慢上升，年轻面孔在减少。</p>
+<p>这种缓慢的衰退在 2010 年代后期已经隐约可见。</p>
+<p>第一代信徒本身的老化，新移民结构的变化也是个问题。</p>
+<p>1980 年代和 1990 年代来的那批靠奖学金读出来的留学生，</p>
+<p>到 2010 年代已经五十多岁六十多岁了，</p>
+<p>他们仍然是教会的中坚，但是再过十年呢？</p>
+<p>新来的大陆移民不再是穷学生了，</p>
+<p>他们是高净值的技术移民，投资移民，他们对教会的依赖性远远低于上一代。</p>
+<p>一个手握 H1B 签证年薪二十万美元的硅谷工程师，</p>
+<p>他不需要教会给他找工作，不需要教会教他英语，不需要教会借他二手家具。</p>
+<p>教会能给他提供的只剩下宗教本身和社交本身，</p>
+<p>而 2010s 的时代主题，恰恰是社交媒体的兴起，代替了传统的线下共同体。</p>
+<p>第二代的流失，新移民结构的变化，整个美国宗教大环境的世俗化，</p>
+<p>这三股力量在 2010 年代末已经开始合流。</p>
+<p>2023 年 10 月，皮尤研究中心发布了一份新的亚裔美国人宗教调查报告。</p>
+<p>比起十一年，华人中基督徒的数量跌了 8%。</p>
+<p>56%的华人不属于任何宗教。</p>
+<p>这是所有亚裔族群里头无宗教归属比例最高的。</p>
+<p>这场退潮是不是只是华人教会的问题呢？</p>
+<p>不</p>
+<p>整个美国基督教在 2010 年代之后都在下滑，所有族群所有教派都在下滑。</p>
+<p>皮尤数据显示，美国成年人当中无宗教归属的比例从 1990 年代的 10%，涨到了 2010 年代后期的 30%。</p>
+<p>这是一场覆盖整个美国社会的世俗化大潮。</p>
+<p>华人教会不过是这股大潮里的一个支流。</p>
+<p>但是华人教会的下滑有它自己的特殊机制。</p>
+<p>第二代的全面流失，这事 2010 年代中期开始这个问题就在浮现，到 2020 年代已经从隐忧变成了现实。</p>
+<p>比较典型的场景是，一座建在郊区的中型华人教会，主日早上的普通话堂坐得满满当当，</p>
+<p>三四百号人，几乎全是中年和老年华人。</p>
+<p>隔壁的英文堂礼拜厅按设计是给同样规模的人用的，实际上来的只有二十几个人，</p>
+<p>主要是几个还没结婚的年轻人和带着小孩子的年轻家庭。</p>
+<p>教会的领导层每年都在讨论怎么挽留第二代，开会开到深夜，做问卷调查，请专家来讲座，</p>
+<p>但数字就是不动。</p>
+<p>为什么留不住</p>
+<p>最表层的一层是文化错位。</p>
+<p>第二代华人在美国大学里读了四年书出来，世界观和父母那一代差距非常大。</p>
+<p>他们的朋友圈是多元的，有白人，有黑人，有拉丁裔，有左派朋友，有共和党朋友。</p>
+<p>他们日常面对的议题是 2010 年代流行的种族正义，气候变化，同性婚姻，跨性别权益，堕胎权。</p>
+<p>这些议题在第一代华人教会里头要么不被讨论，要么被以一种非常保守的方式定性。</p>
+<p>第二代年轻人坐在主日讲台下面，听牧师讲同性恋是罪，讲女性要顺服丈夫，讲堕胎是杀人，</p>
+<p>久而久之，他不再回来了。</p>
+<p>更重要的身份认同问题。</p>
+<p>第一代华人到了美国，他们的核心焦虑是怎么在美国扎根的同时保留华人身份，</p>
+<p>教会在这个张力中扮演了一个完美的中介角色。</p>
+<p>第二代不存在这种焦虑。他们生下来就是美国人，华人对他们来说是一种次要的文化色彩。</p>
+<p>一个新泽西出生的华裔年轻人，他不需要靠教会来保留华人身份，他真要保留也是用别的方式，</p>
+<p>比如学中文，看华语剧，吃中餐，旅游回中国。</p>
+<p>教会作为华人身份维系机构的功能，对他来说是多余的。</p>
+<p>福音派自己也过时了。</p>
+<p>第一代华人教会的牧师讲道，常常用一种比较老派的福音派语汇</p>
+<p>强调罪，悔改，地狱，永生，末世。</p>
+<p>这套语言对 1980 年代 1990 年代从大陆出来经历过运动创伤和精神空白的那一代很有冲击力，</p>
+<p>但是对 2000 年代以后在美国安稳长大的孩子来说，听起来非常惊悚。</p>
+<p>他们在美国大学里读的神学院，听的播客，看的 Christian YouTube，整个语境都已经不一样了。</p>
+<p>父辈的信仰表达方式他们没法接受，但是他们自己的信仰表达方式父辈又听不懂。</p>
+<p>结果是英文堂逐渐和普通话堂走向了两个完全不同的方向，最后干脆分家。</p>
+<p>新一代大陆移民对教会需求的根本性下降，这一点之前说了，</p>
+<p>社交媒体的出现代替情感连接，</p>
+<p>微信群，小红书，各种线下兴趣俱乐部，华人妈妈群，留学生群，业主群，应有尽有。</p>
+<p>教会作为社交平台的相对优势已经被丧失了。</p>
+<p>Facebook 为代表的 app 代替日常琐事服务。</p>
+<p>新来的富豪，对教会能提供的功能性服务几乎没有需求。他们不需要免费的接机，他们直接打 Uber。</p>
+<p>他们不需要二手家具，他们去 IKEA 和 Costco，大不了地图上搜一下二手店。</p>
+<p>他们不需要英语会话练习，他们的英语已经够用了，或者干脆用翻译软件。</p>
+<p>他们不需要找工作的引荐，他们要么已经有工作要么有自己的猎头。</p>
+<p>宗教本身呢？也不行。</p>
+<p>新移民里头，越来越多的是已经在国内被深度世俗化和消费主义化的 80 后 90 后。</p>
+<p>他们对存在主义的焦虑感比上一代弱，对终极意义的追问没那么迫切。</p>
+<p>他们在国内已经习惯了用消费，用旅游，用工作成就，用社交媒体来填充生活，</p>
+<p>到了美国继续延续这套生活方式。</p>
+<p>这一代大陆新移民里头，有相当比例的人对基督教本身就有一种距离感甚至反感。</p>
+<p>他们成长的时间段，正好是中国国内民族主义情绪上升的阶段，</p>
+<p>基督教被许多人和西方文化渗透挂钩。</p>
+<p>他们到了美国之后，对基督教这套符号体系也不会自动产生好感。</p>
+<p>一个 2015 年从清华本科毕业到斯坦福读博的 95 后，</p>
+<p>他对教会的态度，可能比 1985 年从北大本科毕业到斯坦福读博的 60 后冷淡得多。</p>
+<p>华人教会自身在内部撕裂的过程中也消耗了大量元气。</p>
+<p>2010 年代后期到 2020 年代初，美国华人教会经历了一系列内部冲突，</p>
+<p>几乎每一座规模大一点的教会都卷入过。</p>
+<p>冲突的核心议题往往围绕对国内的态度。</p>
+<p>社交媒体带来层出不穷的政治议题，每一波热点都会在教会内部引发分裂，</p>
+<p>因为会众里头来自香港的，来自台湾的，来自大陆的，来自美国出生的，</p>
+<p>对这些议题的看法南辕北辙。</p>
+<p>2016 年特朗普上台之后，华人教会内部围绕特朗普现象吵得更狠，</p>
+<p>相当一部分第一代信徒变成了狂热的特朗普支持者，</p>
+<p>理由是他反共反堕胎反 LGBT。</p>
+<p>但是第二代信徒和一部分受过更多神学训练的第一代信徒对此非常不满，</p>
+<p>认为这是一种把福音政治化的扭曲。</p>
+<p>三是新冠疫情期间的闹剧，</p>
+<p>本来应该是常识层面的问题被高度政治化，搅得很多教会鸡犬不宁。</p>
+<p>这些撕裂的后果是相当一部分本来还在边缘的信徒彻底离开了，</p>
+<p>本来在核心的信徒也心力交瘁，选择退出</p>
+<p>这种核心同工的离开对一座教会的打击是结构性的，不是几个新人能补上的。</p>
+<p>大型福音派话语权人物，也在垮台。</p>
+<p>2010 年代后期到 2020 年代，整个美国福音派经历了一波信誉危机。</p>
+<p>拉维·扎卡里亚斯死后被揭露长期性侵丑闻，比尔被指控性骚扰，马克有事工塌方，</p>
+<p>南方浸信会爆出系统性掩盖性侵案件。</p>
+<p>以上事件在主流英语世界引起巨大震动，</p>
+<p>华人教会因为深度依赖福音派话语体系，也被牵连。</p>
+<p>华人信徒发现自己长期推崇的那些英文世界的牧师和神学家一个接一个出问题的时候，</p>
+<p>他对整个体系的信任会动摇。</p>
+<p>这种动摇不一定会让他立刻离开教会，但是会让他对教会权威的依附变弱，</p>
+<p>未来一旦遇到本地教会的具体问题，他更容易选择离开。</p>
+<p>当然，还是有很多亚裔，说自己因为家庭或文化原因和基督教有亲近感。</p>
+<p>他们构成了一个庞大的文化基督教外围层，对未来华人和基督教的关系仍然有影响。</p>
+<p>那么往前看，这场退潮会停在什么地方。</p>
+<p>这个问题没有人有把握的答案</p>
+<p>主要看教会长大的第二代和正在成长的第三代，</p>
+<p>他们能不能形成自己的华裔美国基督教身份，建立自己的教会，吸引自己的同代人。</p>
+<p>这种新型的英语为主的亚裔教会在 2010 年代之后确实出现了一些，</p>
+<p>主要在洛杉矶，纽约，旧金山湾区这些大都会，比如 LCBC，River Church 之类的。</p>
+<p>它们和传统的华人教会很不一样，使用英语，神学上虽然仍偏福音派但是没有那么绝对，</p>
+<p>但是这种教会的规模还很小，能不能在 2030 年代撑起华裔基督教的下一个阶段，要看接下来十年。</p>
+<p>还有一个方向是中文世界的网络宣教。</p>
+<p>这个是一种新的信仰传播渠道。</p>
+<p>YouTube 频道，播客，线上查经，</p>
+<p>这些数字化的事工对很多既不愿意进实体教会又对信仰好奇的华人来说，提供了一个低门槛的入口。</p>
+<p>橄榄社区，OC 华人事工，海外校园，这一类机构在 2010 年代后期开始大规模数字化转型，影响力不可小看。</p>
+<p>回头看这一百七十年的整个历程。</p>
+<p>从 1853 年旧金山唐人街那座长老会教堂起步，</p>
+<p>到 1882 年排华法案下的艰难扎根，</p>
+<p>到 1965 年移民法案后的留学生皈依大潮，</p>
+<p>到 1990 年代到 2010 年代的一千座教会和巅峰文化生态，</p>
+<p>再到 2010 年代之后的世俗化退潮和内部撕裂。</p>
+<p>每一个阶段都是上一个阶段的果实和下一个阶段的种子。</p>
+<p>下一代华人基督徒会长什么样子，他们的教会会是什么模样，</p>
+<p>他们和中国，和美国，和上一代的关系会怎么处理，这些问题的答案还在被书写。</p>
+<p>天上的神或许真的爱着世人。</p>
+<p>可这份爱落到人间，终究要经过一双双凡人的手。</p>
+<p>信仰真正艰难的部分，都在人间。</p>
+<p>一代又一代的人，愿不愿意亲自去爱身边的人。</p>
+<p>无论高贵或贫穷，无论来自广东，台湾，上海，纽约，还是这个世界任何一个角落。</p>
+<p>当一个陌生人走到门前的时候，需要仍有人愿意替他把门打开。</p>
+<p>若教会还有什么值得延续下去，我想，大概就是这件事。</p>
+<p>彼此相爱。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2062593631098343674">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2065207564342654038">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792390</guid>
-                <pubDate>Sun, 06 Sep 2026 19:53:10 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792416</guid>
+                <pubDate>Mon, 07 Sep 2026 02:26:26 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>瞎扯 · 如何正确地吐槽</title>
+                <link>http://daily.zhihu.com/story/9792422</link>
+                <description>瞎扯 · 有哪些很搞笑的 logo 或者标志？ 知乎日报 查看知乎原文 Q： 有哪些很搞笑的 logo 或者标志？ @苏枫 ：昨天去了上海自然博物馆的九州龙吟恐龙大展，这个标识太有趣了，不过现场没法开闪光灯，拍的有点暗，不知道有没有高清版呢 Q：如何看待辛弃疾大量用典而王国维认为用典是才气不足的表现? @Nika 超超 ：这方面还得是庄子，想要什么典故直接自己现编一个。 Q：超市里面，四块钱一斤的…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e38d29d44440ef6f0bb1d6fab68ae2bd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">瞎扯 · 有哪些很搞笑的 logo 或者标志？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/285745955/answer/1940771731775165254"> 有哪些很搞笑的 logo 或者标志？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/9e0c88d38e4ca3677c63cb056a485f77" target="_blank">@苏枫</a></div>
+ ：昨天去了上海自然博物馆的九州龙吟恐龙大展，这个标识太有趣了，不过现场没法开闪光灯，拍的有点暗，不知道有没有高清版呢</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-8d9735cdfae0c4191a5e432c2653ff81_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-bb878567a799ae5cd90f8c39b964f060_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-df6046bec64674d03c36c554d955571b_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/548878778/answer/2036499100175159822">如何看待辛弃疾大量用典而王国维认为用典是才气不足的表现?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/9fb2f2643b3f9ac7c2fa0b0438b6d9c4" target="_blank">@Nika 超超</a></div>
+ ：这方面还得是庄子，想要什么典故直接自己现编一个。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2013646704155566617/answer/2023511582081131676">超市里面，四块钱一斤的鸡蛋，你们敢吃吗？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/a4ea98a5042de26eae359d541370d0c4" target="_blank">@嘟嘟猫</a></div>
+ ：不太敢，一般都是买 3 块多一斤的。除非中秋节前，那会儿都涨到 4 块多，烦死人了</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2052825904250884889/answer/2059402328998950232"> 如何看待《大鱼海棠》宣布重映后，风评迅速变差，被全网清算?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/5f028f4fec2ff8db58cb68e2c0bf880d" target="_blank">@牛克思</a></div>
+ ：有个知乎老哥一句话说明了这部电影的逆天：<br>女主在面对<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=282059955&amp;content_type=Article&amp;match_order=1&amp;q=%E7%94%B5%E8%BD%A6%E9%9A%BE%E9%A2%98&amp;zhida_source=entity" target="_blank">电车难题</a>的时候，她选择了爱上电车。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/641122020/answer/93480975394">你去过最离谱的景区是什么？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/c3e71ec17aafb737b00b8fb5ddbe4874" target="_blank">@QaragymAi</a></div>
+ ：这个，一直不明白为什么成为景区，所以我没去过，感觉拔山涉水看个大土坡不值得</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-188a1288bb2360839e0df6b618260f27_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<hr>
+<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
+<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
+</div>
+</div>
+
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792422</guid>
+                <pubDate>Mon, 07 Sep 2026 02:26:27 GMT</pubDate>
             </item>
             
     </channel>
