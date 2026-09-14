@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sun, 13 Sep 2026 20:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 02:57:53 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>为啥自然演化出轮子会那么难？</title>
-                <link>http://daily.zhihu.com/story/9792542</link>
-                <description>小帽officials，喜欢空洞骑士，05后，人文社科科普博主(不键政)，法律-情感-文学等相关咨询请私信 查看知乎原文 自然演化出轮子一点都不难，而是太简单了。 轮子是生物身上最容易演化出来的器官之一 看到下面这玩意儿了没有？ 细菌，身为最初级生命，他们基本上都是靠轮子移动的。 他屁股上那根毛，就是由一个 360 度无限旋转的轮子带动的 整体上由三部分组成。 定子（固定电机外壳）转子（中心旋转轴…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0684ea41aca1416f22e8bd262eacce4e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>哪种动物的冬眠机制最有可能为人类研究冬眠提供有价值的参考？</title>
+                <link>http://daily.zhihu.com/story/9792549</link>
+                <description>biokiwi，用生命科学的角度看世界！ 查看知乎原文 必须要提名的就是地松鼠了，尤其是北极地松鼠，这是过去数十年人类研究如何进入深度睡眠，甚至三体那种人体冬眠技术，之后如何苏醒过来，最关键的一个研究对象了。 科幻作品中常见的睡眠舱 而之所以选择北极地松鼠，一个最主要的原因就是它的冬眠能力，实在是太过于优秀了： 难得不睡觉的北极地松鼠 回忆一下，冬眠一般的特征是什么？体温降低？新陈代谢减缓？减少能…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-85f74bb44c843420e4f92ea24d568066.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,286 +31,399 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-e3f6506541c8ae071adfef5b107e760b_l.jpg?source=8673f162">
+<img class="avatar" src="https://pica.zhimg.com/v2-4cdc8dc004835c64495966f8a36ec5f6_l.jpg?source=8673f162">
+<span class="author">biokiwi，</span><span class="bio">用生命科学的角度看世界！</span>
+<a href="https://www.zhihu.com/question/5375807123/answer/42940211633" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>必须要提名的就是地松鼠了，尤其是北极地松鼠，这是过去数十年人类研究如何进入深度睡眠，甚至三体那种人体冬眠技术，之后如何苏醒过来，最关键的一个研究对象了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3ce07a581706a09bc379bd02fed33e73_720w.jpg?source=8673f162" alt=""><figcaption>科幻作品中常见的睡眠舱</figcaption></figure>
+<p>而之所以选择北极地松鼠，一个最主要的原因就是它的冬眠能力，实在是太过于优秀了：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-296a24352359cb180c479919491c1a10_720w.jpg?source=8673f162" alt=""><figcaption>难得不睡觉的北极地松鼠</figcaption></figure>
+<p>回忆一下，冬眠一般的特征是什么？体温降低？新陈代谢减缓？减少能量损耗？</p>
+<p>而北极地松鼠的体温可以从冬眠前的 37℃，一口气降低到 -3℃<sup>[1]</sup>。而且它的新陈代谢率会降低到正常水平的 1%-3%、心跳频率会降低到每分钟 1 次。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ca30adf93797a491f6d44dbdf9592018_720w.jpg?source=8673f162" alt=""><figcaption>1989 年 Science 杂志的封面文章，展示了北极地松鼠冬眠时不同部位的温度</figcaption></figure>
+<p>而且这可不是说一次性冻住就给冻死了。人家每年都有八个月的冬眠周期，从八月初开始到第二年的四月，都要经历这样的一次过山车式的体温变化，并以此来适应寒冷的加拿大北部低温。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6791912b8cec9860a9a7f0ca436fe0a5_720w.jpg?source=8673f162" alt=""><figcaption>北极地松鼠的身体温度变化曲线</figcaption></figure>
+<p>而且从零下到 37℃的过程，它只需要一两天的适应就能完成，类比一下我们在科幻小说看到的过程，是不是无比的相似？</p>
+<p>而这里面的关键问题，就在于如此低温如何生存，八个月不吃不喝怎么活下来以及高度耗能且脆弱的大脑为什么不会因为温度改变损伤<sup>[2]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6c20fa8ff5bfc5acc1bfca663b7b0ab4_720w.jpg?source=8673f162" alt=""><figcaption>北极地松鼠冬眠所面临的挑战</figcaption></figure>
+<p><strong>如何让身体抵御低温严寒？</strong></p>
+<p>仔细看上面的图片你会注意到，北极地松鼠在整个八个月间，不是一直都处于超低温的，而是会时不时的重新回暖一下。如果某只北极地松鼠没有能成功回暖，它就会死亡，这也是目前研究者希望研究冬眠技术的突破口之一。</p>
+<p>而当地松鼠进入冬眠状态时，它身体所有细胞和器官都会经历一个“关闭”或者“假死”的过程，以节省能量。如果我们进入到微观层面，会发现它存在一些适应性的特征，比如外周体感系统中的 TRPM8 受体和大脑中的 CNGA3 离子通道对寒冷的敏感性降低、允许神经元相互信号传递的电压门控钠通道活性降低以及对高活性氧物质的敏感性降低，如此种种来防止细胞损伤。</p>
+<p>所有这些生理变化都是地松鼠们在冬眠时，细胞保持半活跃状态、维持低温时的活性、促进在寒冷环境中长期生存以及使细胞功能在从冬眠中醒来时快速恢复的机制的一部分。</p>
+<p><strong>怎么能做到八个月不吃不喝？</strong></p>
+<p>这个其实也是研究者们对于冬眠生物好奇的地方，一方面要怎么避免缺水？缺水往往会显著增加身体内各个体液的离子浓度，增高血液渗透压，进而导致器官内水分析出，器官坏死。</p>
+<p>但是，研究者观察到地松鼠的症状却完全不一样：在冬眠时，它们身体内的血液渗透压会显著降低，进而控制身体的水分平衡。至于这一套方法如何，目前还没有答案。</p>
+<p>另一方面，则是能量补充，这一点地松鼠和其他生物类似，都是通过在夏季大量摄入食物提供能量储备，来度过这段漫长的季节。</p>
+<p><strong>脑子是怎么挨过低温的？</strong></p>
+<p>对于关键的中枢神经器官，大脑既重要，也无比脆弱。地松鼠似乎也明白这个道理，虽然全是核心温度只有 -2 到 -3℃，但是脖子以上尤其是大脑，它却保持着相对更高的温度——0.7℃。</p>
+<p>但即使如此，如此低温下神经元细胞也会坏死、损伤，地松鼠怎么做到苏醒后还能活蹦乱跳，甚至大脑变得更加活跃的呢？<sup>[3]</sup></p>
+<p>研究者发现，地松鼠冬眠时大脑里的神经元确实萎缩了，各种连接也明显坏死切断了。但是仅仅冬眠结束一天，它的大脑就表现出显著的恢复，说明它具有超强的大脑可塑性，并且具备很强的再生能力<sup>[4]</sup>。</p>
+<p>地松鼠冬眠大脑中的神经元看起来就像严冬中光秃秃的树枝，而刚刚从冬眠进入觉醒期的松鼠的脑细胞则拥有密集的各种连接（下图 c）。仅仅两个小时内，地松鼠的大脑不仅补偿了冬眠期间丢失的所有突触，而且它们的脑细胞现在比春季或夏季活跃的松鼠的脑细胞拥有更多的链接。短短一天后，它们的大脑就修剪了这些杂乱的连接，就像发育中的哺乳动物大脑剪断其繁茂的神经森林一样。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-16970983c58db9ca5e4daea03233a708_720w.jpg?source=8673f162" alt=""><figcaption>冬眠前（a）、冬眠时（b）和冬眠后（c）海马区的神经元变化</figcaption></figure>
+<p>而关于这个过程如何实现的，目前的研究却导向了一个令人意想不到的提示——磷酸化的 tau 蛋白可能在神经元可塑性改变中发挥了重要的作用。而磷酸化的 tau 蛋白在神经科学领域更熟悉的研究，是它可能是阿尔兹海默症的病因之一，过度磷酸化的 tau 蛋白的富集会引发神经元的纤维缠绕，这是阿尔兹海默症的典型病症。</p>
+<p>研究人员发现欧洲地松鼠的冬眠时期的大脑中，失去了越多的突触连接，就会积累更多的过度磷酸化的 tau 蛋白——而当它冬眠苏醒过来，就会快速去除掉这些 tau 蛋白来恢复神经元功能。因此目前的推测认为，这些地松鼠脑子里的 tau 蛋白，可能发挥了重要的作用<sup>[5]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd9656ab42723a4fa63bee5aabf41149_720w.jpg?source=8673f162" alt=""><figcaption>随着冬眠过程，tau 蛋白染色数量的显著变化</figcaption></figure>
+<p>而且，很显然，这类研究除了帮助我们了解冬眠过程，更有可能对神经退行性疾病的研究提供参考与帮助。</p>
+<p><strong>除此之外，其他研究也显能耐</strong></p>
+<p>除了冬眠机制，研究者们也发现了一些可能对医学有益的线索。</p>
+<p>例如，地松鼠在冬眠期间能够保护其脑细胞免受低氧和低血流的损伤，这对中风和心脏病患者的治疗有启发。</p>
+<p>此外，地松鼠在长期不活动的情况下还能防止肌肉萎缩和骨质流失，这对于长期卧床病人的康复研究也具有参考价值。</p>
+<p>还有研究探讨了冬眠北极地松鼠肌肉中的转录变化，这可能有助于减轻不活动肌肉的萎缩<sup>[6]</sup>。</p>
+<p>很显然，北极地松鼠还藏着大量的秘密等着我们去揭开，而这些秘密或多或少对生命，对我们自身的重新认识，会有很大的帮助。</p>
+<hr>
+<p>当然冬眠的生物远不止这一种，但是相比之下，降温变化比较低的北极熊黑熊，与人类远远不同的变温动物鳄鱼、蛇，以及身上带有不少病毒的蝙蝠，虽然它们也有冬眠的特征，但是就不如地松鼠和北极地松鼠这样，能给我们研究冬眠带来这么多价值了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/5375807123">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792549</guid>
+                <pubDate>Mon, 14 Sep 2026 02:57:51 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？</title>
+                <link>http://daily.zhihu.com/story/9792555</link>
+                <description>荔枝，北京师范大学汉语言文学专业，不知名学校教育学博士在读 查看知乎原文 就是不豪，一帮人吹个什么劲呢？ 或者说，韩国这些穷酸导演们，根本不知道一个养佣人的房子怎么搭建。 全家就这么个楼梯，谁都可以走是吧？ 无遮挡的餐厅， 女主人穿着吊带睡裙在这搞点吃的， 佣人怎么躲，她也在做饭怎么搞？ 很多独栋别墅非常漂亮，又有景观，又有巨大的客餐厅，但本质上仍然是个两口之家的私宅， 只是所有功能区都等比例放大…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-cd2c4dd2ba84349b78130bb2c2b0e172.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/71580c4ab8a8d4b518a40975c606ba2c_l.jpg?source=8673f162">
+<span class="author">荔枝，</span><span class="bio">北京师范大学汉语言文学专业，不知名学校教育学博士在读</span>
+<a href="https://www.zhihu.com/question/2070215170526279459/answer/2077922010404017633" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>就是不豪，一帮人吹个什么劲呢？</p>
+<p>或者说，韩国这些穷酸导演们，根本不知道一个养佣人的房子怎么搭建。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8047f5c8353b0dbf341e1c06a8ad0b3d_720w.jpg?source=8673f162" alt=""></figure>
+<p>全家就这么个楼梯，谁都可以走是吧？</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b478cefc3250116b1e15e40625c0cc5f_720w.jpg?source=8673f162" alt=""></figure>
+<p>无遮挡的餐厅，</p>
+<p>女主人穿着吊带睡裙在这搞点吃的，</p>
+<p>佣人怎么躲，她也在做饭怎么搞？</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4ba2f119eebfea36a5a6e09e44376b2c_720w.jpg?source=8673f162" alt=""></figure>
+<p>很多独栋别墅非常漂亮，又有景观，又有巨大的客餐厅，但本质上仍然是个两口之家的私宅，</p>
+<p>只是所有功能区都等比例放大了，故意营造一个开扬的效果。</p>
+<p>也是豪宅，但没有什么给保姆住家的配置。</p>
+<p>香港家庭请得起菲佣的不在少数，但能住得起千尺房子的绝对是少数，菲佣照样要住家干活的。</p>
+<p>也没见谁家全家一起睡大通铺的。</p>
+<p>内地一百多平的房子，</p>
+<p>如果要住家保姆，开发商一定有针对性的设计。</p>
+<p>比如这种一百八十平的，</p>
+<p>保姆间带独立的卫浴，北花园靠厨房可以布置半开放洗衣房，当生活阳台，</p>
+<p>保姆间到厨房中间有道门，是保姆的上下通道，厨房和客厅相对封闭。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e77d8475949ce0797f5c12c5fd739116_720w.jpg?source=8673f162" alt=""></figure>
+<p>家庭成员的动线是卧室到客厅，到南阳台，到入户花园，</p>
+<p>保姆的动线是洗衣房，厨房，自己的通道，</p>
+<p>一百多平就能做到，房子的面积和雇不雇人不是绝对相关。</p>
+<p>一些顶级豪宅的整层大平层，</p>
+<p>从设计上真就没有住家的保姆和保洁，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e1e123fa2f21b7b84815091fc58b11e2_720w.jpg?source=8673f162" alt=""></figure>
+<p>面积是真大，</p>
+<p>但动线上，</p>
+<p>上面一半是公共场所，会客会所，开派对，</p>
+<p>中间大门一拦，下面一半是私密的起居场所，男女主人的卧室更是，一道门禁直接可以封死。</p>
+<p>外来的厨师团队，保洁团队，像酒店一样养护另一个半区就完事了，</p>
+<p>你为了私密性，就得自己收拾，</p>
+<p>甘蔗没有两头甜。</p>
+<p>这就是为啥国内新富家庭，隔三差五丢东西，细软都被偷干净了，因为他们也不懂保姆不是乱请的，总是奢侈品金首饰乱丢考验人性。</p>
+<p>和《寄生虫》男主人比较适合的房子，</p>
+<p>三百方就够了，设置专门的佣人房，家政间。</p>
+<p>主人房一道门，锁上以后，保姆爱怎么收拾怎么收拾。</p>
+<p>景观阳台，巨大客厅，西厨中厨，主人走了以后，保姆随便弄，躺着吃都没事。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-995d998cfcf13e4d9440c6143035608b_720w.jpg?source=8673f162" alt=""></figure>
+<p>但那样就无法设置剧情里的戏剧冲突了。</p>
+<p>综上，</p>
+<p>韩国人拍电影，往往有种明知道山没有虎，偏偏要拍虎山的既视感。</p>
+<p>李沧东《诗》也是假爆了，日本老人喜欢写春柳，还办过比赛，但韩国老太太真就不整这么文艺的，更别说特意去学去写，</p>
+<p>但韩国人就拍的信誓旦旦的，信念感巨强。</p>
+<p>《寄生虫》也是，过于刻意和扯淡，假到让人看不下去。</p>
+<p>里面的豪宅，其实就是现代派的独栋大宅，叫一下钟点工，或者和家政公司签个劳务，每周来一两次就够了。</p>
+<p>压根就不符合电影的戏剧冲突，</p>
+<p>结果就因为导演这个意图，最后还要有人命桥段，</p>
+<p>大家就要被迫去接受，一个窗明几净，分区极其简单的房子，要塞下那么多馋的要死的废柴。</p>
+<p>非常之拧巴且无厘头。</p>
+<p>如果给你搞个《情深深雨蒙蒙》一样的公馆，这种才是养佣人老妈子，乃至家庭教师的场地，</p>
+<p>你会发现毫无可看，</p>
+<p>这种房子谁看都知道，藏一个排的人在里面压根不是问题。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-134710c6e53dc006302e3e50e80384f4_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bcd6f4a539f3a6972524cfe506a0ef0c_720w.jpg?source=8673f162" alt=""></figure>
+<p>这才是纯血寄生虫，韩国那家人简直弱爆了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-11492dbcf0c6935d7071a9f0dbc0353f_720w.jpg?source=8673f162" alt=""></figure>
+<p>难怪网友说，是不是她小时候把如萍依萍掉包的时候让李副官给撞见了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2070215170526279459">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792555</guid>
+                <pubDate>Mon, 14 Sep 2026 02:57:52 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>可不可以莫名其妙地教我一个知识?</title>
+                <link>http://daily.zhihu.com/story/9792557</link>
+                <description>小帽officials，喜欢空洞骑士，05后，人文社科科普博主(不键政)，法律-情感-文学等相关咨询请私信 查看知乎原文 所有的哺乳动物都会游泳，不管他体型多大都笨重 常见的哺乳动物里 只有一种，身体特殊，无法学会游泳 屏幕前的列位诸公可以猜一下，99%的人应该都猜不中 是牛马，还是笨重的大象和长颈鹿，亦或者是蝙蝠和穿山甲，大猩猩，骆驼，刺猬，还是那慢吞吞的树懒? 游泳，是合弓纲进化时意外点出的底…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-53d4feeb545a41a2c7f73d0e872f51e8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-e3f6506541c8ae071adfef5b107e760b_l.jpg?source=8673f162">
 <span class="author">小帽officials，</span><span class="bio">喜欢空洞骑士，05后，人文社科科普博主(不键政)，法律-情感-文学等相关咨询请私信</span>
-<a href="https://www.zhihu.com/question/2060649695580624117/answer/2061287112939410883" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/2072260638768997299/answer/2079805608279160769" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>自然演化出轮子一点都不难，而是太简单了。</p>
-<p><strong>轮子是生物身上最容易演化出来的器官之一</strong></p>
-<p>看到下面这玩意儿了没有？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-caaf03e8e6e0bec074c45b2150a58936_720w.jpg?source=8673f162" alt=""></figure>
-<p>细菌，身为最初级生命，他们基本上都是靠轮子移动的。</p>
-<p>他屁股上那根毛，就是由一个 360 度无限旋转的轮子带动的</p>
-<p>整体上由三部分组成。</p>
-<blockquote>定子（固定电机外壳）<br>转子（中心旋转轴）<br>鞭毛丝（外露螺旋桨叶片）</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-02e3eaecc73e385e09ffdc036606d777_720w.jpg?source=8673f162" alt=""></figure>
-<p>轮子在轴杆上可以顺时针转动，也可以逆时针转动。</p>
-<p>普通大肠杆菌鞭毛每秒可旋转 100~200 圈，弧菌等水生细菌最高可达 1000 转 / 秒。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7a659e04a39cd1a934f92a7f2d7fdff2_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以准确点来说，</p>
-<p><strong>生物圈中的绝大多数物种都是用轮子来移动的</strong></p>
-<p>毕竟这些原始的细菌 单细胞生物什么的占了已发现生物的一大半</p>
-<p>所以对于生物来说，进化出轮子是一件很容易的事情。</p>
-<p>有人看到这儿就要发问了。</p>
-<blockquote>虽然，但是。<br>你说的这些都是单细胞生物……<br>题主明显想问的是高等生物吧</blockquote>
-<p><strong>那些有肌肉 血管 神经的高等生物怎么用轮子转？</strong></p>
-<p>大家都知道。</p>
-<p>所有多细胞动物的活体组织，都依靠连续不断的软组织管线维持生命</p>
-<p>动脉、静脉、毛细血管输送氧气营养</p>
-<p>神经纤维传递大脑指令，淋巴管代谢废物。</p>
-<p>轮子想要实现 360°无限旋转，轮体和身体主轴之间必须完全自由脱开</p>
-<p>但血管、神经是柔软的长线啊……</p>
-<p>只要轮子完整转一圈，管线就会拧一圈，持续旋转几十圈后直接扭死、断裂。</p>
-<p>正常人脖子最多转 100°，再多转血管就会受压缺血</p>
-<p>猫头鹰能转 300 度，靠的是颈椎内部预留超长血管褶皱缓冲，这已经是高等动物的极限了。</p>
-<p><strong>假如我们创造出一匹用轮子移动的生物，他跑个几圈血管就自己缠上了……</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e8802c8ff044e017b5222bf56f50ced1_720w.jpg?source=8673f162" alt=""><figcaption>老马啊，老马</figcaption></figure>
-<p>那咋办……</p>
-<p>是不是意味着高等生物不可能进化出轮子。</p>
-<blockquote>答:当然不是</blockquote>
-<p>既然神经和血管会缠起来</p>
-<p><strong>那用角质之类的无血管的死组织做轮子不就得了</strong></p>
-<p>自然界中很多生物都是这么干的。</p>
-<p>比如那些软体动物</p>
-<p>我指的是河蚌、蛤蜊、牡蛎、蛏、扇贝，田螺、鲍鱼、笠贝、椎实螺什么的</p>
-<p>他们没有牙齿，也没有复杂的捕食器官。</p>
-<p>但比起那些水母海绵来说，他们身体更复杂，平时体能消耗大</p>
-<p>那就只能吃一些更大块儿的碎屑了。</p>
-<p>碎屑大了就不好消化了。</p>
-<p>最简单的办法就是直接在胃里进化出一个轮子，进化出一根研磨棒</p>
-<p>他们就进化出了可以无限旋转的轮子结构，晶杆（crystalline style）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-16c0f9b585b02142692f4fc17a0222ba_720w.jpg?source=8673f162" alt=""></figure>
-<p>这玩意儿是死物质， 不用血管连着。</p>
-<p>胃腔前壁一块几丁质硬垫片，晶杆旋转时，顶端持续死死抵在胃盾表面摩擦，帮助消化。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-faf2899b38785daabf7dc36576f7a195_720w.jpg?source=8673f162" alt=""></figure>
-<p>既然高等动物里已经有了这个先例，</p>
-<p>那我们继续仿照仿照。</p>
-<p>选择一匹大型动物</p>
-<p><strong>用与指甲、牛角同源的硬化角蛋白给他当轱辘。</strong></p>
-<p>四肢骨骼延伸出短粗圆柱轴杆，作为轮子固定轴心，轴表层分泌持续润滑的黏液蛋白（类似关节滑液），充当天然轴承，减少轮圈旋转摩擦损耗。</p>
-<p>轴为活体骨骼，仅负责固定、提供动力附着点，不与外侧角质轮圈粘连。</p>
-<p>轴根部附着环形横纹肌，肌肉持续贴合轮圈内侧摩擦，依靠摩擦力带动角质轮单向旋转；停下时肌肉收紧抱死轮圈完成制动。</p>
-<p>制造成功!</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0dd7229e9baa1eb0c45abf55a2458743_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是，这太费材料了……</p>
-<p>脊椎动物骨骼是高耗能组织，合成钙、胶原蛋白、配套肌肉、血管神经都需要长期摄入矿物质与蛋白质。</p>
-<p>冗余结构会被淘汰。</p>
-<p>我们没有必要进化出这么多的辐条</p>
-<p>减少一下吧，有三根就差不多了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ec64d8b6f5e0650e2953370b925fd798_720w.jpg?source=8673f162" alt=""></figure>
-<p>但是，地面凹凸不平，硬骨辐条无缓冲</p>
-<p>天天这么跑，冲击力早就把内脏震烂了</p>
-<p>机械车的轮子有减震三件套</p>
-<p>也就是充气橡胶胎、避震弹簧和轴减震垫</p>
-<p>但是这些都很难演化出来。</p>
-<p>弹簧需要高强度刚性回弹组织，生物胶原无法稳定反复弯折回弹</p>
-<p>充气轮胎需要不透水、高弹性角质气囊，这玩意儿更不像是哺乳动物能进化出来的了</p>
-<p>那我们怎么减震呢？</p>
-<p>就只能走第三条路，轴减了</p>
-<p>轮子的轴杆不能搞僵直硬骨杆</p>
-<p>得进化出股骨和胫骨，然后中间用关节连接，关节内部再分泌关节液进行缓冲。</p>
-<p>于是我们就进化成了这样。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f6275f8ff8eae63596f1af9715816a2_720w.jpg?source=8673f162" alt=""></figure>
-<p>现在，我们又碰到了一个新的问题。</p>
-<p>没有人给我们修柏油路!</p>
-<p>大自然的路充满了石子、土坑</p>
-<p>最外面那一大圈轱辘碰到土坑就完蛋了</p>
-<p>那咋办？</p>
-<p>不要紧的，我们可以参考行李箱的可爬坡分段万向轮一样</p>
-<p>拆分环体消除完整硬圈的束缚</p>
-<p>直接把最外面那个大轱辘拆了，只保留和条轴相连的那一段</p>
-<p>这样掉进土坑里也能自己爬出来了。</p>
-<p>好了，现在我们进化成了下面这样。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3e576fd0731126e1aef50f12e82ca32e_720w.jpg?source=8673f162" alt=""></figure>
-<p>生物很快就会发现自己长了三个重复的结构。</p>
-<p>我们之前说过</p>
-<p>骨头这玩意儿是大型动物体内最耗能源的地方之一</p>
-<p>所以与其长三根条辐</p>
-<p>不如只保留一根</p>
-<p>高速旋转同样能达到三根的效果。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-181939d7431eb3c284327550a274bdc8_720w.jpg?source=8673f162" alt=""></figure>
-<p>我这车轴非要旋转 360 度吗？</p>
-<p>往上面转那个半圈，那不是白浪费嘛?</p>
-<p>我就只转底下那 180 度不就得了</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c41b281ec9b89f2b761e8b01a4b34f63_720w.jpg?source=8673f162" alt=""></figure>
-<p>那我要只旋转 180 度，就没有必要弄这种全活动的轴承关节了。</p>
-<p>直接让关节之上，和身体连接的上半部分负责旋转 90 度。</p>
-<p>让关节之下，和提子连接的下半部分负责旋转 90 度。</p>
-<p>恭喜！</p>
-<p>你进化出了髋关节和膝关节</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-05a1657177dd8755afdf9fa0c942f30c_720w.jpg?source=8673f162" alt=""></figure>
-<p>髋关节，可向前弯折 90°</p>
-<p>膝关节，可向后弯折 90°</p>
-<p>恭喜你进化出了大腿和小腿。</p>
-<p>这样不太稳定，所以我把另一半补全。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-00be40a760fbd4b9da6702920a3d9e77_720w.jpg?source=8673f162" alt=""></figure>
-<p>好了，你现在拥有了自然界中最高效的轮子了</p>
-<p>就是这样。</p>
-<p>这是个很反常识的事情。</p>
-<p>对于生命来说，轮子是很容易进化出来的</p>
-<p>但是可惜，没有野人给他们修柏油马路。</p>
-<p>稍微碰到一个石子土坑，那轮子就不行了</p>
-<p>在这样的自然环境下，</p>
-<p>我们的腿，本质上就是在这个自然界中轮子进化的最终阶段</p>
-<p>当然</p>
-<p>假如说这个世界上有一个星球，那里的地面天生充满着柏油和沥青，以至于地表异常平坦。</p>
-<p>然后成年累月的刮大风，把所有的石头都吹成了细沙，地表没有什么大的障碍物。</p>
-<p>那确实可能会有生物进化出角质轮子</p>
-<p>但是这种死轮子还要考虑磨损的问题……</p>
-<p>那这就是下个问题了，太复杂了，这里写不下，点赞到了 1000 就单独再开一张平坦星球，写生物演化出工程零件机械飞升的故事</p>
-<p><a class="member_mention" href="http://www.zhihu.com/people/b267e0c0b0e4862799a1f6967c10cbb2">@知乎日报</a><a class="member_mention" href="http://www.zhihu.com/people/0eebc9b425a88e87408729eec9f09be4">@知乎人文</a><a class="member_mention" href="http://www.zhihu.com/people/3d198a56310c02c4a83efb9f4a4c027e">@知乎小管家</a><a class="member_mention" href="http://www.zhihu.com/people/d62088176e11379f2cd2bd72ce9890bb">@编辑部小李</a></p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2060649695580624117">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792542</guid>
-                <pubDate>Sun, 13 Sep 2026 20:09:02 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>昆虫是如何飞行的？它们飞行的原理是什么？</title>
-                <link>http://daily.zhihu.com/story/9792544</link>
-                <description>祥昊，我在想要不凑几个人跑团去？ 查看知乎原文 其实昆虫和人类用的是完全不同的两套飞行规则。 这就涉及到一个流体学常识，雷诺数（Re）。 啥叫雷诺数呢？ 我们简单举个例子， 我们在空气里可以自由活动，而淌水走则会感觉比较费劲， 如果跑的更浓稠的油里干脆寸步难移， 这就是由于不同流体本身的的绝对黏度不同，产生的黏性力大小不同， 而粘性力会阻碍向前运动。 那怎么减少粘性力影响呢？ 也不难，要么加快速度…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-ec1f35f01838c14bf67029dd091447d7.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">我在想要不凑几个人跑团去？</span>
-<a href="https://www.zhihu.com/question/1969367763081495444/answer/2078235626277696230" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>其实昆虫和人类用的是完全不同的两套飞行规则。</p>
-<p><strong>这就涉及到一个流体学常识，雷诺数（Re）。</strong></p>
-<p>啥叫雷诺数呢？</p>
-<p>我们简单举个例子，</p>
-<p><strong>我们在空气里可以自由活动，而淌水走则会感觉比较费劲，</strong></p>
-<p><strong>如果跑的更浓稠的油里干脆寸步难移，</strong></p>
-<p>这就是由于不同流体本身的的绝对黏度不同，产生的黏性力大小不同，</p>
-<p>而粘性力会阻碍向前运动。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7eff21c422c48ea6f56a19da90fdb7fb_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>那怎么减少粘性力影响呢？</strong></p>
-<p>也不难，要么加快速度，腿扑棱成螺旋桨，力大砖飞继续往前。</p>
-<p>要么增大特征长度，换一个更大号的螺旋桨，力大砖飞也能继续往前，</p>
-<p>这俩方案本质就是增大了惯性力的比值。</p>
-<p><strong>雷诺数就是通过衡量惯性力和粘性力二者相对大小的比值，来判断流体内谁占主导，</strong></p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=Re%3D%5Cfrac%7B%5Ctext%7B%E6%83%AF%E6%80%A7%E5%8A%9B%7D%7D%7B%5Ctext%7B%E9%BB%8F%E6%80%A7%E5%8A%9B%7D%7D%3D%5Cfrac%7B%5Crho+U+L%7D%7B%5Cmu%7D+" alt=""></p>
-<blockquote><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Crho" alt="">：流体密度<br><img class="content-image" src="https://www.zhihu.com/equation?tex=U" alt="">：特征速度<br><img class="content-image" src="https://www.zhihu.com/equation?tex=L" alt="">：特征长度</blockquote>
-<p><strong>那这个雷诺数有啥用呢？</strong></p>
-<p>就这么说，不同雷诺数下的飞行可以说是完全不同的世界，</p>
-<p><strong>当雷诺数很低时</strong>（&lt;10），</p>
-<p>粘性力占主导，基本只要停止摆动就会立刻刹停，</p>
-<p>就像掉进蜂蜜里的苍蝇，</p>
-<p>单靠简单的对称往复运动只会原地前后蛄蛹。</p>
-<p>想动起来就得另寻他法，比如祖传的螺旋小尾巴。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-26743f519be35e03dc94e5ab450bda3c_720w.gif?source=8673f162" alt=""></figure>
-<p><strong>而当雷诺数较高时</strong>（大概十万以上），</p>
-<p>惯性力占主导，涡可以稳定存在，</p>
-<p>只要速度不是太离谱就可以抵消不少流体黏性带来的削弱。</p>
-<blockquote>比如飞机稳定的翼尖涡就是高雷诺数规则下的代表产物。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-abc322e1c85f26579908f02660356104_720w.jpg?source=8673f162" alt=""><figcaption>翼尖涡在中低雷诺数环境也会产生，但是保留不了这么久。</figcaption></figure>
-<p><strong>而处于中低等雷诺数时，</strong></p>
-<p>二者力量开始互相制衡，</p>
-<p>流体很容易生成涡，但是涡又很容易被黏性耗散，产生非定常涡效应。</p>
-<p>物体可以依靠惯性滑行，但惯性滑行又被黏性牵制。</p>
-<p>飞行就变成了另一套一根筋两头堵的规则。</p>
+<p><strong>所有的哺乳动物都会游泳，不管他体型多大都笨重</strong></p>
+<p>常见的哺乳动物里</p>
+<p>只有一种，身体特殊，无法学会游泳</p>
+<p>屏幕前的列位诸公可以猜一下，99%的人应该都猜不中</p>
+<p>是牛马，还是笨重的大象和长颈鹿，亦或者是蝙蝠和穿山甲，大猩猩，骆驼，刺猬，还是那慢吞吞的树懒?</p>
 <hr>
-<p>由于昆虫个头实在太小，如果照搬鸟类的飞行逻辑，</p>
-<p>首先需要一个超级巨大的翼型翅膀，强行拉高雷诺数，</p>
-<p>以解绝中低雷诺数下滑翔效率低的难题。</p>
-<p>很明显，有点不大现实。</p>
-<p>那咋整呢？</p>
-<p>我们都知道，飞机机翼是依靠上下的压力差产生升力，</p>
-<p>飞行时气流会沿着机翼平滑流动，尾部产生湍流尾迹。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ad6ee6babfc732589f6eda5aec0d5a33_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果将机翼迎角抬升，</p>
-<p>上表面气流无法丝滑略过，就会产生涡，形成较大的低压区。</p>
-<p>正常这会使机翼上表面低压区紊乱，升力骤降，带来巨大的压差阻力。</p>
-<p>懂行的小伙伴一看到这就明白了：<strong>这他喵的不就是失速嘛！！</strong></p>
-<p>失速别说飞了，没调回去飞机可就跟个板砖一样肘击大地了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ab927ae3d3ff665491776591ae8c6ebd_720w.jpg?source=8673f162" alt=""></figure>
-<p>话是这样没错，</p>
-<p>但在提升迎角的时候，机翼上表面形成的前缘涡也确实可以提供升力。</p>
-<p>只不过由于机翼是固定状态，</p>
-<p>这些涡在成长到一定大小到达临界点后，就会周期性脱落，</p>
-<p>升力维持不住，提供了个寂寞。<sup>[1]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c6380f3fa4447851eee810a64c884e8d_720w.jpg?source=8673f162" alt=""><figcaption>A，昆虫二维平动模型 B 昆虫三维扑动</figcaption></figure>
-<p>而在中低雷诺数的规则下，涡会更容易被拿捏。</p>
-<p>这就给昆虫一个很大的契机，<strong>可以利用这一点翅搓涡旋原地升天。</strong></p>
-<p>所以昆虫学会了拍翅膀时以非常大的迎角切开空气，在翅根上表面开始产生前缘涡，<sup>[2]</sup></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-00a74d56793eab5c258608137f7691dd_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后通过调整翅膀角度，就跟煎鸡蛋一样，</p>
-<p>使前缘涡沿着翅根朝着翅尖进行展向运动，</p>
-<p>最后在翅尖释放出去，再调整翅膀的角度切出新的前缘涡。</p>
-<p>这就是昆虫一脉擅长的延迟失速技术。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-67cb07d100b538af2d7bc4a4e1945cca_720w.gif?source=8673f162" alt=""><figcaption>大概就是这样</figcaption></figure>
-<p>所以说，昆虫并不是单纯无脑的振动翅膀，</p>
-<p>而是在翅切空气，原地升天，</p>
-<p>这就相当于武当大师一边跟你说要相信科学，</p>
-<p>一边抬手打出音爆，纵身从 19 米高台跳下如履平地一样，</p>
-<p>没有数值，全是技术。</p>
+<p><strong>游泳，是合弓纲进化时意外点出的底层代码之一</strong></p>
+<p>蜥鸟纲把脂肪都集中在内脏和尾部</p>
+<p>合弓纲为了恒温，演化出连续分布在全身皮肤下方的皮下脂肪，整个身体平均密度被压低，<strong>这意外的让我们天生就极容易漂浮</strong></p>
+<p>蜥鸟纲四肢向身体两侧外展，陆地前进依靠躯干脊柱左右横向扭动，四肢配合扭动</p>
+<p>合弓纲四肢挪到身体正下方，成柱子式直立步态，陆地行走奔跑依靠四肢交替前后摆动，落水之后，四肢本能交替划水，<strong>这让我们意外的天然就能形成“狗刨模式”。</strong></p>
+<p><strong>不管这个哺乳动物多大多笨重，他都能依靠祖传的"四肢步态 + 皮下脂肪"进行游泳</strong></p>
+<p>这个游泳技能是天生的，不需要学</p>
+<p>啮齿类动物的老鼠们扔进水里就能自己游</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5f3ee3370271251772d71a9015141ea8_720w.jpg?source=8673f162" alt=""></figure>
+<p>偶蹄目动物也基本都会</p>
+<p>牛不仅会游泳，还会潜水</p>
+<p>个别小牛还能在水里翻跟头</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-95dbaf0c36fe16fdcc3e1d89a8f04700_720w.jpg?source=8673f162" alt=""></figure>
+<p>人们管水牛叫水牛</p>
+<p>是因为牧童真的可以骑着他下水的</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-30ff4a2a0151e07f3521e4ed191ff96e_720w.jpg?source=8673f162" alt=""></figure>
+<p>犬科动物更不用说了</p>
+<p>狗刨这个词就是这么来的</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4ba09fe903228cf9bee451a74af995dd_720w.jpg?source=8673f162" alt=""></figure>
+<p>小猫们当然也会游泳，只是平时很少游</p>
+<p>因为他们的毛的结构和犬科动物不一样</p>
+<p>猫毛吸水能力强、排水极差，浸湿之后底层绒毛会锁住大量水，整体重量暴增，行动笨重，湿水极易失温</p>
+<p>所以哈基米大多都不喜欢水，经常给人造成一种不会游泳的错觉</p>
+<p>以至于有些人看见小猫落水，下意识的就冲进去营救，自己被水淹了个够呛，然后哈基米自己游上岸了</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ac5c4fb1e8acfbc448c3538ab6963801_720w.jpg?source=8673f162" alt=""><figcaption>小猫只是不喜欢游，但是真落水了，还是能自己游上来的</figcaption></figure>
+<p>狮虎等大猫对水就没那么厌恶，毕竟体型大，毛干的快</p>
+<p>老虎经常会直接潜进水里抓鱼吃</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0799050d798905cd9e14591e1100624c_720w.jpg?source=8673f162" alt=""></figure>
+<p>同样的问题</p>
+<p>兔子的游泳能力是哺乳动物里面最差的一档，不到万不得已绝不下水的</p>
+<p>因为它肉又干又柴，毛还又多又厚，跳进水里之后只能四条腿猛蹬</p>
+<p>并且它体积太小，上岸之后特别容易失温</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-01696f911cc4628601ad2c8a8a8bd86e_720w.jpg?source=8673f162" alt=""></figure>
+<p>熊这么笨重的动物游泳能力反而强了</p>
+<p>因为体型大，脂肪更多</p>
+<p>浮力更大，游泳起来更省事</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b06f408e73412635f54a833fcd15334a_720w.jpg?source=8673f162" alt=""></figure>
+<p>鼬科的那几位更是游泳健将</p>
+<p>身体圆筒细长，靠貂皮的超密毛发锁空气保温</p>
+<p>细长的身体让他们可以在水中像海豚一样高高跃出</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-64e3f9435e5a78b2bb725cc986c6672a_720w.jpg?source=8673f162" alt=""></figure>
+<p>鼬科动物甚至还会跑到海里捕猎，有部分水生鼬能一口气潜水到四五十米的地方去捞鱼捞贝壳</p>
+<p>鳍脚类，也就是海狮海豹海象这三位，基本就是在这里和其他哺乳动物分家的</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-136fc43e3085abca6ebb6dba9c7fcb3e_720w.jpg?source=8673f162" alt=""></figure>
+<p>鼬科最常见的当属黄鼠狼</p>
+<p>黄鼠狼偶尔也会下海</p>
+<p>忽然跳起来，去猎食水面之上的海鸥</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-535cb1e851f5d98689fbba5bf2b85299_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>灵长目的猴子们就比较特殊了</strong></p>
+<p>大猿们躯干短粗、胸腔宽阔，上肢极度拉长，一旦进了水之后，身体重心不平，极易发生姿态翻转，口鼻被水淹没，溺毙</p>
+<p>所以大猿们天生不具备游泳的本能</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-90a6d2374cb300144874bb8bd9bd4eea_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是大猿们聪明呀</p>
+<p>虽然天生不会游泳，虽然没法触发自动狗刨的本能</p>
+<p>但是部分大猿经过训练后也还是可以游泳的</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a06fa7e61d95479c18d1b559a3f43468_720w.jpg?source=8673f162" alt=""></figure>
+<p>部分大猿在经过训练后</p>
+<p>极限冲刺的游泳速度能达到 9km/h，为陆地哺乳动物速度最快，仅次于鲸豚目和鳍脚类</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-db9647f62a404cb4c17f7fa9a6a2a5af_720w.jpg?source=8673f162" alt=""><figcaption>部分游的比较快的大猿，如美国游泳冠军菲尔普斯</figcaption></figure>
+<p>在陆地上跑的很快的动物在水里跑的依然很快</p>
+<p><strong>马是可以直接在水里跑的</strong></p>
+<p>这又是一个比较反常识的地方，可能因为某些游戏经常设定不能骑马下水，让人们下意识的认为马不会游泳</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-604612252df78624b442ca7b5a1bbc9a_720w.jpg?source=8673f162" alt=""></figure>
+<p>游泳状态中的马也是可以骑的哦</p>
+<p>在不额外负重的情况下，骑马是可以直接渡河的</p>
+<p>如果是专业的赛马极限状态，游个十几公里都没问题，这一纪录由澳大利亚的赛马 Rebel Rover 保持</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e8d60f70f67c422b11e0bf8791ea4a66_720w.jpg?source=8673f162" alt=""></figure>
+<p>像加勒比海地区有一项传统娱乐活动就是骑"海马"，这起源于当年的海盗时期</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-313bf9b3716d3fa4b2768ded226f987d_720w.jpg?source=8673f162" alt=""></figure>
+<p>刻板印象中生活在沙漠干旱地区的骆驼，也是游泳健将</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac853bb78f58ba47612116b856ccb5d3_720w.jpg?source=8673f162" alt=""></figure>
+<p>驼峰的大量脂肪给了骆驼更高的浮力</p>
+<p>甚至有过巴基斯坦人骑着骆驼渡海的情况</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dde7a953f616026dc07bc22d3f8b025f_720w.jpg?source=8673f162" alt=""></figure>
+<p>长颈鹿也会游泳</p>
+<p>这个没想到吧</p>
+<p>不过由于身体特化的原因，他们游泳功能大幅退步，只能短暂的游一小会</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d8a0ba46bc69b9cce48d73dbc201174e_720w.jpg?source=8673f162" alt=""></figure>
+<p>平时游的时候会把脖子放平来提高浮力</p>
+<p>四条大长腿在那儿狗刨，需要吃东西的时候腿上就用点力，把脖子抬起来咬一口</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-78fbf199862f0d68ee2c5aef2e6c8d4b_720w.jpg?source=8673f162" alt=""></figure>
+<p>最让人意外的是</p>
+<p><strong>看起来无比笨重的大象，游泳技术是陆地动物里面最强的之一</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-990c73c222a22a91e5fecfa759b6996f_720w.jpg?source=8673f162" alt=""></figure>
+<p>大象骨骼密度低、巨大胸腔 + 超大肺容量，充气后整体密度接近水，再加上超厚脂肪，大象基本上不需要划水就能漂浮</p>
+<p>再加上大象自带一节呼吸管</p>
+<p>他们这样一游，能游五六个小时不休息</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-366ef295858c00882db674fd1f7e79b2_720w.jpg?source=8673f162" alt=""></figure>
+<p>大象一口气能游几十公里，能从广东游到海南岛</p>
+<p>现在斯里兰卡的大象就是从印度半岛游泳游过去的</p>
 <hr>
-<p>甚至不同昆虫还整出了众多流派，</p>
-<p>比如以蚊子为代表的双翅目研究出了佛山无影翅，</p>
-<p>以极快极小的振幅快速振动翅膀，这样就可以施展尾迹捕获（wake‑capture）绝学，</p>
-<p>趁着前面的涡旋还热乎再用一次，提供额外的升力。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f3f6099b8d0d140f2bae3b656c080c5c_720w.gif?source=8673f162" alt=""></figure>
-<p>还有以蝴蝶为代表研究出的太极翅，</p>
-<p>看起来挥翅很慢，</p>
-<p>但是由于它的翅膀面积极大，摆动角也接近 180°，冲程拉的非常大。</p>
-<p>实际翅尖运动速度非常快，可以轻松拽起前缘涡提供升力，</p>
-<p>而体积过大的翅膀又使雷诺数卡在中等偏高的位置，</p>
-<p>可以略微享受惯性滑翔的福利，</p>
-<p>我们看着蝴蝶飞起来飘忽，实际是在上下起伏卡两方的 BUG。</p>
-<p>所以，</p>
-<p>别成天说啥昆虫飞行力大砖飞了，</p>
-<p>这可是真功夫，你就学吧你。</p>
+<p><strong>哺乳动物里面的几个特殊体型也照样游泳不误</strong></p>
+<p>往地里钻的鳞甲目，穿山甲会游泳</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d25c377dc56a531c95dbe996e61fefa_720w.jpg?source=8673f162" alt=""></figure>
+<p>往天上飞的翼手目，蝙蝠会游泳，有不少钓鱼佬都碰到过蝙蝠咬杆的情况……</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-acdee5a6c5ea0e7c83b867972611aff8_720w.jpg?source=8673f162" alt=""><figcaption>蝙蝠冲进水里后会像蝠鲼一样，经常有钓鱼佬，不小心钓到蝙蝠</figcaption></figure>
+<p>食虫目的刺猬也会游，不过续航能力比较差</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f633dd8187d70440193f196d257eafa3_720w.jpg?source=8673f162" alt=""></figure>
+<p>但是好在他们的身体进行了特化，刺猬 可以卷起来的</p>
+<p>刺猬游累了之后，直接缩球，进行仰泳，随波漂流</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6045ed70b4a2a8d57400aa2327139fe2_720w.jpg?source=8673f162" alt=""><figcaption>可爱吧</figcaption></figure>
+<p>树懒呢？</p>
+<p>这玩意儿这么慢，扔水里就淹死了，肯定不会游泳吧！</p>
+<p>大多数人在猜的时候，应该都是从长颈鹿，大象，树懒，蝙蝠，穿山甲这几个里面猜的一个</p>
+<p>前面那几个我们刚才说过了</p>
+<p>而树懒，他的水性放到整个哺乳动物里都是顶级水平</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-175e25f92d78fc358b557445fc2be66d_720w.jpg?source=8673f162" alt=""></figure>
+<p>首先这玩意儿有个巨大多腔胃，发酵树叶积攒大量气体，相当于内置浮囊</p>
+<p>​浓密逆向生长的皮毛，锁存空气泡辅助漂浮</p>
+<p><strong>​这家伙的憋气功能非常逆天，在哺乳动物里仅次于鲸鱼</strong></p>
+<p>对，你没听错</p>
+<p>树懒的憋气能力比海狮海豹海象都强，甚至比绝大多数鲸豚目都要强</p>
+<p>因为这玩意儿新陈代谢非常非常慢，一口气极限能憋 40 分钟</p>
+<p><strong>如果我们找个大水池子把所有的哺乳动物扔进去，再盖上盖子</strong></p>
+<p>10 秒过后，蝙蝠先淹死了，翼手目第一个下线</p>
+<p>20 秒过后，刺猬淹死了，食虫目下线</p>
+<p>30 秒过后，鼠鼠兔兔扛不住了，啮齿目基本下线</p>
+<p>40 秒过后，小猫基本下线</p>
+<p>50 秒过后，小羊下线</p>
+<p>一分钟，犬科动物，以及狮虎等大猫全军覆没</p>
+<p>两分钟，马淹死了，袋鼠淹死了，猪淹死了，猴子们基本都淹死了</p>
+<blockquote>(大多数动物的憋气大关就是 2 分钟)</blockquote>
+<p>三分钟，北极熊淹死了，熊科动物下线</p>
+<p>四分钟，大象淹死了</p>
+<p>五分钟，水牛淹死了</p>
+<p>六分钟，河马淹死了，陆地偶蹄目下线</p>
+<p>七分钟，水獭淹死了，鼬科下线</p>
+<p>十分钟，海豚淹死了</p>
+<p>十七分钟，麝鼠淹死了，啮齿动物全员覆没</p>
+<p>二十分钟，虎鲸淹死了</p>
+<p>二十二分钟，人淹死了，灵长动物全军覆没</p>
+<p>二十五分钟，领航鲸淹死了</p>
+<p>二十八分钟，大多数海象海狮海豹淹死了</p>
+<p>三十分钟，蓝鲸淹死了</p>
+<p>这时候整个水池子里活着的生物，只剩下喙鲸，抹香鲸，象海豹和树懒……</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ea4c9015e973f74120d21beb5d402296_720w.jpg?source=8673f162" alt=""></figure>
+<p>而袋鼠更是游泳的顶级选手</p>
+<p>他们甚至以游泳为乐，从高处一跃而下，跳进水里扎猛子</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aad9d0100dc5b3416ba5f700c0b4c7c7_720w.jpg?source=8673f162" alt=""></figure>
+<p>袋鼠把游泳当成解暑的一种方法</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-608ae63f83305b52d28e07b65f4c0cad_720w.jpg?source=8673f162" alt=""></figure>
+<p>他们喜欢在浅水区游泳，一个雷霆大憋气整个潜进水里，然后踩到水底猛的起跳，连一路在大湖里面蹦哒</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5989f2c57debd7cad6d05d7919d74f88_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>当然，平时看到站在水里的袋鼠，千万不要接近</strong></p>
+<p>因为袋鼠有一种猎杀方式就是把对手引进水里，然后死死的抱住对方往深水处摁，把猎物溺死</p>
+<p>土澳经常有人看到落水的袋鼠去救，结果中了圈套，被袋鼠按进河里淹死的</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3e8dc87202bc97ad6f266fbb296517a7_720w.jpg?source=8673f162" alt=""><figcaption>这里说的是袋鼠，不要无端联想</figcaption></figure>
+<p>最原始的哺乳动物，鸭嘴兽这种"禽兽不如"的东西也会游泳</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-358123bfdf3c079140eb0247bb809e65_720w.jpg?source=8673f162" alt=""><figcaption>字面意思上的禽兽不如</figcaption></figure>
+<hr>
+<p><strong>所以唯一一种无法学会游泳的常见哺乳动物是谁呢？</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-77f1e5a2fb31c4fe885a4d229382f2f4_720w.jpg?source=8673f162" alt=""></figure>
+<p>屏幕前的列为诸公有没有猜到的？</p>
+<blockquote>答:河马</blockquote>
+<p>没错</p>
+<p><strong>河马是唯一无法游泳的哺乳动物</strong></p>
+<p>这很反常识的</p>
+<p>生活在水里的河马竟然完全不会游泳</p>
+<p>因为河马皮肤没有汗腺，他必须一直泡水里防脱水晒伤</p>
+<p>所以河马的生存策略就是固守浅水河床，一直让自己泡水</p>
+<p>为了能够稳稳的站在河里，避免自己被水冲跑，河马拼命加大了自己身体的密度</p>
+<p>别看河马胖嘟嘟的，他身上绝大多数都是肌肉</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-90ad841da034b4135d25049066929a78_720w.jpg?source=8673f162" alt=""></figure>
+<p>其他哺乳动物骨骼内部是疏松骨髓腔，而河马的四肢骨、肋骨发生骨硬化（osteosclerosis），体内全是高密度密质骨</p>
+<p>整体身体平均密度远远大于水，这样他可以很稳当的站在浅滩的河床中</p>
+<p>河马的鼻孔、耳朵的肌肉阀门是可以手动关闭的，所以他们可以甚至可以直接在水底睡觉</p>
+<p>就是因为这套高密度的身体构造，河马从生理结构上就是完全无法游泳的</p>
+<p>一进深水就直接往下沉，即便拼命挥舞四肢，那几条小短腿也无法让身体稳定浮在水面</p>
+<p>那么如果河马不小心落入深水区该怎么自救呢？</p>
+<blockquote>答:跳回来</blockquote>
+<p>河马给自己进化出了个雷霆大肺，一口气能憋 3~7 分钟</p>
+<p>不小心误入深水区，那就憋着气一直往下沉，找到水底之后猛的蓄力向上弹射，冲到水面换气</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e6db119df3b4b92aac9b40ad579fc9f0_720w.jpg?source=8673f162" alt=""></figure>
+<p>换完气又重新沉下去，利用自己超强的肺活量在水里缓慢爬行，快撑不住了就再继续弹跳</p>
+<p>反复蹬底弹跳，直到爬到浅滩</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1969367763081495444">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2072260638768997299">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792544</guid>
-                <pubDate>Sun, 13 Sep 2026 20:09:03 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792557</guid>
+                <pubDate>Mon, 14 Sep 2026 02:57:52 GMT</pubDate>
             </item>
             
             <item>
-                <title>蚊子真的能飞上十楼以上吗？十楼以上的蚊子是怎么进来的？</title>
-                <link>http://daily.zhihu.com/story/9792545</link>
-                <description>斜绿天蛾，点进主页你会发现，这人真就只在乎虫子 查看知乎原文 是的，能。 飞上十楼对蚊子来说 轻而易举。 没错，这个世界上有一个广为人知、但经常被忽略的常识，越小的物体，越容易飞起来。对于蚊子这样轻盈的小虫子，动力飞行消耗的能量很少，而且一阵微风就能往上吹个好几米高。 但当我查了一下资料，发现很多文章给的结果都说，蚊子只能飞几米高…比如这篇韩国的研究[1]，说库蚊和伊蚊的出现高度，都集中在一米到两…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-9ba1557d854329d2602fb5623fe816e9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>瞎扯 · 如何正确地吐槽</title>
+                <link>http://daily.zhihu.com/story/9792561</link>
+                <description>瞎扯 · 旺旺碎冰冰掰断是上面那根大还是下面那根大？ 知乎日报 查看知乎原文 Q：旺旺碎冰冰掰断是上面那根大还是下面那根大？ @一只特例独行的猫 ：这完全是二胎家庭毁灭器无论怎么分，两个孩子都得不到满足。 Q：起什么样的名字能免疫死亡笔记? @全场欢呼蒋劲夫 ：‖│❙丨┃⏐|¦║❚l│┃丨❘‖⏐❙║|¦l┃│❚丨⏐❘‖║❙┃│l丨¦|⏐❚║‖❘❙┃│丨l¦|⏐║❚❘‖│┃丨❙⏐l¦║|❚┃│‖❘丨…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e38d29d44440ef6f0bb1d6fab68ae2bd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -325,186 +438,54 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 旺旺碎冰冰掰断是上面那根大还是下面那根大？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-eb665fa780d6c2ffe7908debeb029b04_l.jpg?source=8673f162">
-<span class="author">斜绿天蛾，</span><span class="bio">点进主页你会发现，这人真就只在乎虫子</span>
-<a href="https://www.zhihu.com/question/1923894499836396817/answer/1929218080296380252" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>是的，能。</p>
-<p>飞上十楼对蚊子来说 <strong>轻而易举</strong>。</p>
-<p>没错，这个世界上有一个广为人知、但经常被忽略的常识，<strong>越小的物体，越容易飞起来</strong>。对于蚊子这样轻盈的小虫子，动力飞行消耗的能量很少，而且一阵微风就能往上吹个好几米高。</p>
-<p>但当我查了一下资料，发现很多文章给的结果都说，蚊子只能飞几米高…比如这篇韩国的研究[1]，说库蚊和伊蚊的出现高度，都集中在一米到两米之间。目前的高赞答主也给出了这样的结果，包括我自己也写过类似的内容，但现在，先打一下我自己的脸。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-86ae4a03f78c2005adf94c6f8438ad48_720w.jpg?source=8673f162" alt=""></figure>
-<p>仔细一看，你用来收集标本的捕蚊器最高在哪里？</p>
-<p>五米…才两层楼高……</p>
-<p>当然啦，捕蚊器也不可能挂在飞机上，记录的数据能高到哪里去呢。市面上大多数对蚊子飞行高度的研究，都是在户外环境低处做的研究；这些数据，是不能论证这个问题的。</p>
-<p>那蚊子的真实飞行高度是多少？</p>
-<p>答案是，<strong>四位数</strong>。蚊子能飞到<strong>上千米高</strong>。</p>
-<p>昆虫日常行动时通常在地面附近活动，毕竟食物和水源并不在天上。但在一种情况下，昆虫会发挥自己的真实潜能——跨越地形的<strong>长距离迁徙</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f9784d25e0acfe152871bbbeefbbdeca_720w.jpg?source=8673f162" alt=""><figcaption>许多昆虫会在高空迁飞，有时跨海；需要用特定的装置才能捕获研究</figcaption></figure>
-<p>许多昆虫都在数百米，到上千米高空迁飞。既然蛾子、叶蝉、飞虱它们都可以，那凭什么蚊子不行？</p>
-<p>蚊科御三家，库蚊属<em>Culex</em>、伊蚊属 <em>Aedes</em>和按蚊属<em>Anopheles，</em>都有长距离迁徙的记录。</p>
-<p>看起来，伊蚊飞行速度较慢；埃及伊蚊<em>Aedes aegypti</em>的健康、强壮、且摄入了充足糖分的个体，可以飞到一千米以上；不过速度较慢，时速只有每小时一公里左右[2]。</p>
-<p>伊蚊就是黑白花的、白天活跃的、特别凶猛的那类蚊子。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6567862a195bae51162624a78442527c_720w.jpg?source=8673f162" alt=""><figcaption>一只白纹伊蚊。我理解你的心情，但请不要拍打屏幕…</figcaption></figure>
-<p>按蚊就比较牛逼了，根据一篇对非洲按蚊的研究，虽然只记录了 40-290 米范围内的按蚊，但毫无疑问它们能飞到 290 米以上。而且，按蚊迁移速度非常快，每晚在 9 小时之内，平均可以飞行 300 公里远。更坏的消息是，这些按蚊绝大多数都是雌虫、而且相当一部分吸了血，这意味着它们都可能携带着疟原虫[3]。</p>
-<p>嗯…这就是非洲疟疾如此严重的原因之一，蚊子飞的和汽车一样远，还不会疲劳驾驶</p>
-<p>当然了，更坏的消息是，就算不迁徙，也不意味着蚊子的强大飞行能力就被封印了。</p>
-<p>这篇在斯里兰卡的研究证实，在 130 英尺（约 43 米，大约 13-14 层）的楼房上，使用产卵诱捕器，<strong>每一层都能诱集到伊蚊</strong>，更逆天的是，伊蚊的产卵密度和楼层高度没啥明确关系，甚至在较高楼层显得相对更多一些[4]。</p>
-<p>风力对伊蚊的飞行有影响。但这仅限于第一代；只要有一只伊蚊雌虫飞到了高楼层并产卵，接下来就可以千秋万代了。</p>
-<p>所以，根本用不着电梯啦。至于为啥会有“蚊子通过电梯上楼”这样的观点出现，或许是因为蚊子确实经常出现在电梯里；这可能是因为电梯的封闭空间容易积累二氧化碳和人体挥发物。不过，如果真是这样，那很多蚊子是只进不出了，不能成为蚊子上楼的主要来源。</p>
-<p>蚊子本身其实不喜欢往高处飞；你很容易就能观察到，它们更喜欢在植被茂密的阴暗处活动。这主要是因为常见蚊子种类的食物来源在这里。顺带一提，蚊子主食是花蜜，无论雌雄。</p>
-<p>但它们有能力飞上高处，无论是否是故意的——我经常看到高楼层，27 楼，没有任何植被的天台，出现各种各样没事干的昆虫，蜡螟，竹缘蝽，灰蝶，厉蝽，还有胡蜂日常来这里取水、花金龟来这里看风景。无论如何，对于昆虫来说，<strong>飞上高楼层不费吹灰之力</strong>。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-78ef4cc06e4e9fc56ca02b6d398b23fd_720w.jpg?source=8673f162" alt=""><figcaption>一只停在晾衣绳上的蜡螟。这是我第一次记录到这种昆虫</figcaption></figure>
-<p>是的，昆虫的飞行能力很逆天。黄蜻和小红蛱蝶可以跨大洋迁徙、鬼脸天蛾可以无视风力、连着上百公里保持直线飞行。蚊子有点本事也不奇怪。</p>
-<p>目前，由于严重缺乏可靠的监测和追踪技术，因此，还有很多昆虫的飞行能力、飞行轨迹对人类来说都是未知的。它们强大飞行能力背后的原理也很值得探索。</p>
-<p>最后……</p>
-<p>要灭蚊，就把<strong>附近的积水</strong>清理干净，清理干净，清理干净！！！</p>
-<p>[1]HEE IL LEE,BO YOUL SEO,E-HYUN SHIN,DOUGLAS A. BURKETT,WON JA LEE,andYOUNG HACK SHIN"STUDY OF FLYING HEIGHT OF CULICID SPECIES IN THE NORTHERN PART OF THE REPUBLIC OF KOREA,"<em>Journal of the American Mosquito Control Association</em>22(2), 239-245, (1 June 2006).</p>
-<p>[2]Briegel, Hans, I. Knusel, and Susanne E. Timmermann. "Aedes aegypti: size, reserves, survival, and flight potential."<em>Journal of vector ecology</em>26 (2001): 21-31.</p>
-<p>[3]Huestis, D.L., Dao, A., Diallo, M.<em>et al.</em>Windborne long-distance migration of malaria mosquitoes in the Sahel.<em>Nature</em><strong>574</strong>, 404–408 (2019). <span class="nolink">https://doi.org/10.1038/s41586-019-1622-4</span></p>
-<p>[4]Jayathilake, T.A. Hasini D.G.1; Wickramasinghe, Mervyn B.2; de Silva, B.G.D. Nissanka K.1,.Oviposition and vertical dispersal of Aedes mosquitoes in multiple storey buildings in Colombo district, Sri Lanka. Journal of Vector Borne Diseases 52(3):p 245-251, Jul–Sep 2015.</p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/660744975/answer/2003338213843030303">旺旺碎冰冰掰断是上面那根大还是下面那根大？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fe3a515d818105ca543cfa7da1935ec9" target="_blank">@一只特例独行的猫</a></div>
+：这完全是二胎家庭毁灭器<br>无论怎么分，两个孩子都得不到满足。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/656281818/answer/2056044605787968274">起什么样的名字能免疫死亡笔记?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0539918afab34a450dcd727d6b74b3f1" target="_blank">@全场欢呼蒋劲夫</a></div>
+：‖│❙丨┃⏐|¦║❚l│┃丨❘‖⏐❙║|¦l┃│❚丨⏐❘‖║❙┃│l丨¦|⏐❚║‖❘❙┃│丨l¦|⏐║❚❘‖│┃丨❙⏐l¦║|❚┃│‖❘丨⏐❙║┃l¦|❚│‖⏐丨❘❙║┃│l¦|⏐‖❚❘丨┃║❙│⏐l¦|┃‖❚❘丨║❙│⏐┃l¦|‖❚❘丨║❙┃│⏐l¦❚‖丨❘║❙┃│⏐l¦❚‖丨❘║❙┃│⏐l❙丨┃║⏐❘‖❚│¦丨┃║❙⏐‖❘❚│¦l┃丨║❙⏐‖❘❚│¦l┃丨║❙⏐‖❘❚│¦l‖❘❙│┃丨⏐║❚¦l丨┃║❙⏐‖❘❚│¦l1</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/641419341/answer/1943673631755474290">如果伽罗瓦穿越到现今的北大数院，会被竞赛大神碾压吗？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e13dfa832ad8c452af020dd5d1306f3c" target="_blank">@千枫</a></div>
+：虽然我不是北大数院的，也不是竞赛大神，但我觉得我应该能碾压他（）</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-a6c087c9c59132b23a42cabde29691f7_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1956499221097187000/answer/2031900467190567961">穷人最好的蛋白质来源是什么?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/4bdc83a2d1758f713b23840d0c78463a" target="_blank">@李白不是很白</a></div>
+：你就是世界首富今天来了，对他而言最好的蛋白质来源也是菜市场不到一块钱一个的鸡蛋。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1910748572644770390/answer/2042162542563386540">三峡大坝蓄水超过 20 年，里面的鱼有多大？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/2307f4e69e6d247c32c979c62c5844db" target="_blank">@TINIT</a></div>
+：以我钓鱼这么多年的经验来看，三峡水库根本就没鱼！！！！</blockquote>
+<hr>
+<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
+<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
 </div>
 </div>
 
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1923894499836396817">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792545</guid>
-                <pubDate>Sun, 13 Sep 2026 20:09:04 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>一头鲸鱼一天能吃好几吨磷虾，为什么磷虾还没被吃灭绝？</title>
-                <link>http://daily.zhihu.com/story/9792548</link>
-                <description>祥昊，我在想要不凑几个人跑团去？ 查看知乎原文 南极的磷虾（Euphausia spp.）其实不是正经的虾， 属于软甲纲磷虾目，和虾所在的十足目只能算远亲，以南极磷虾（E. superba）为主。 这是一种非常有趣的浮游生物， 喜欢聚堆，虾群能绵延十几公里， 平时白天躲在深水躲避捕食者，到了晚上才会浮到海面进食。 鱿鱼表示很赞。 然而，南半球的海洋和北半球还不一样。 由于南半球中高纬度（40°‑6…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-1a0806bfe9f21fc3345c83385948e6f9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
-<span class="author">祥昊，</span><span class="bio">我在想要不凑几个人跑团去？</span>
-<a href="https://www.zhihu.com/question/2075640036507370127/answer/2077878334525018555" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>南极的磷虾（Euphausia spp.）其实不是正经的虾，</p>
-<p>属于软甲纲磷虾目，和虾所在的十足目只能算远亲，以南极磷虾（E. superba）为主。</p>
-<p>这是一种非常有趣的浮游生物，</p>
-<p>喜欢聚堆，虾群能绵延十几公里，</p>
-<p>平时白天躲在深水躲避捕食者，到了晚上才会浮到海面进食。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-674567c8c4d6aee0bc3deace8e767399_720w.jpg?source=8673f162" alt=""><figcaption>鱿鱼表示很赞。</figcaption></figure>
-<p>然而，南半球的海洋和北半球还不一样。</p>
-<p>由于南半球中高纬度（40°‑60°S）几乎没有陆地，</p>
-<p>强劲的盛行西风吹动着海水几乎畅通无阻。</p>
-<p>于是乎，在这个区域，风吹海浪浪推风，海水越跑越快，</p>
-<p>渐渐的就变成了一条自西向东的海上高速公路，流量极为恐怖。</p>
-<p>单一个德雷克海峡，总流量就有 130‑140Sv（Sverdrup 1Sv=100 万 m³/s），是陆地所有河流总流量（约 1.2Sv）加起来的 100 多倍。</p>
-<p>所以不管是船只还是海洋动物，想顺着洋流东西漂很容易，但想横跨过去就非常费劲。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5ed123053cc55b87237c9ea86876de4e_720w.jpg?source=8673f162" alt=""></figure>
-<p>正是这道洋流的隔绝，再加上南大洋少陆地的特性，</p>
-<p>使南大洋的生态圈演化成典型的蜂腰型（wasp‑waist）食物网。</p>
-<p>啥叫蜂腰型食物网呢?</p>
-<p>正常来说，大鱼吃小鱼，小鱼吃虾米，虾米吃浮游生物，搭建成食物链。</p>
-<p>而南大洋海深水冷陆地少，又被洋流隔绝自成体系，海里的大环境基本哪哪都差不多。</p>
-<p>这就导致南大洋的生态圈并不像其他海那样多样，</p>
-<p>于是你就能看到，</p>
-<p>鱼吃磷虾，鸟吃磷虾，海豹企鹅须鲸等动物还是吃磷虾。</p>
-<p>也就齿鲸爱嘬鱿鱼追企鹅，这俩也主要吃磷虾。</p>
-<p>其他能吃海藻的生物也不是没有，但桡足类太小，樽海鞘不好吃，</p>
-<p>也就像磷虾量大管饱大小还适口，属于关键种（keystone species）</p>
-<p>整个南大洋生态圈就紧着磷虾这一只核动力驴薅。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9406b56db7df1430418640612967cc9b_720w.jpg?source=8673f162" alt=""></figure>
-<p>这里面单体消耗磷虾最离谱的还是须鲸，</p>
-<p>每到觅食季，一头大型须鲸单日大概能吞掉 4-6 吨磷虾，最高甚至能突破 10 吨。</p>
-<p>由于这群大肥鲸实在太能吃，</p>
-<p>南半球几乎所有大型须鲸都有随季节迁徙的习性，靠打秋风过活。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f3b789d7c38c7ad85760d9e4687ba091_720w.jpg?source=8673f162" alt=""><figcaption>鲸鱼迁徙图</figcaption></figure>
-<p>有研究做过这么一个估算，</p>
-<p>捕鲸时代之前，南极须鲸总生物量约 4308.7 万吨，每年在南极消耗磷虾约 1.8966 亿吨。</p>
-<p>而须鲸离开南极迁徙时，又会把生物量损耗在南极以外大洋，历史须鲸损耗量约占 41.7% ，<sup>[1]</sup></p>
-<p>看起来简直就是让本就贫瘠的南大洋雪上加霜啊。</p>
-<p>所以在上世纪就有学者预测，</p>
-<p>如果须鲸减少，那磷虾数量就发生爆炸式上升，利好其他海洋动物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fb1e81be3a3e0bbbd4becd9aa0681351_720w.jpg?source=8673f162" alt=""></figure>
-<p>然而，</p>
-<p>上世纪人类的工业捕鲸活动差点把南半球的大型须鲸整成团灭。</p>
-<p>磷虾也没像预测的那样出现种群大爆发，其他以磷虾为食的捕食者也没有大规模扩张。</p>
-<p>这就是著名的磷虾悖论（Krill Paradox）现象。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6f22d9f4adf95b314ed23b9a3c154b59_720w.jpg?source=8673f162" alt=""><figcaption> 大型须鲸（点线）与小型须鲸（虚线）的生物量密度时间序列 上世纪人类捕鲸运动几乎将南半球大型须鲸团灭</figcaption></figure>
-<p>至于原因嘛，</p>
-<p>在 2010 年对缅因湾的一个研究也许能看出部分端倪。</p>
-<p>缅因湾地处美国东北部，</p>
-<p>每年都会有大量须鲸定期到此觅食。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a34dd7b3a2b2acfccb8105cd4807e667_720w.jpg?source=8673f162" alt=""><figcaption>就箭头位置</figcaption></figure>
-<p>研究人员发现一个很有意思的事，<sup>[2]</sup></p>
-<p>由于缅因湾冬季表层水降温下沉，海水会发生垂直混合，底层营养物上翻，但是冬季天气不利于藻类等浮游生物生长，所以硝酸盐等营养物含量较高，约 8 微摩尔每千克。</p>
-<p>而到了夏季，水体层化使底层营养盐翻不上来，而浮游植物大量爆发会快速消耗掉残存硝酸盐。</p>
-<p>所以按传统逻辑，</p>
-<p>缅因湾在没有外来营养物质输入的情况下生产力会持续走低，鲸鱼来了搜刮一空后就会马上离开。</p>
-<p>而现实是由于鲸鱼的到来，浮游植物变的更繁盛了。</p>
-<p>这是由于鲸鱼平时喜欢在接近海面的透光层附近排便，</p>
-<p>之所以有这个习性，这可能和潜水反射有关，</p>
-<p>这是一套哺乳动物祖传的防溺水底层代码。</p>
-<p>既潜入深水后，会自动抑制肾脏和肠道的活动。</p>
-<p>很多人憋气潜水时发现尿不出来就是受这套反射影响。</p>
-<p>鲸鱼可能也一样，浮到海面呼吸时潜水反射解除，也就有了上厕所的感觉。</p>
-<p>总之，喜欢在亮堂的地上厕所。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2224e08cc24d706c47fce87a79339706_720w.jpg?source=8673f162" alt=""></figure>
-<p>由于鲸鱼的粪便呈蓬松絮状粪羽，</p>
-<p>密度低不说还多少裹挟点气泡，不会快速下沉，更容易漂浮扩散在表层、</p>
-<p>于是鲸鱼就成了大自然的搬运工，从深海获取食物，然后在透光层排泄生成肥料，</p>
-<p>肥料喂饱浮游生物又进一步养活其他以浮游生物为生的动物，达成良性循环。</p>
-<p>这被称为鲸鱼泵（whale pump）效应。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0f78dbd7e6011806d3b6f8ae353765c2_720w.jpg?source=8673f162" alt=""><figcaption>一群棒槌在排队拉屎。</figcaption></figure>
-<p>南大洋可能也差不多，</p>
-<p>由于陆地稀少，海水中缺乏铁元素，会影响藻类合成叶绿素。</p>
-<p>而鲸吃磷虾回收铁元素，再排放到透光层，有利于藻类生长，</p>
-<p>所以鲸鱼在吃磷虾，<sup>[3]</sup>粪便给浮游藻类施肥，藻类繁盛又给磷虾提供更多食物，</p>
-<p>更多食物又会使磷虾繁衍昌盛，繁衍昌盛又可以满足鲸鱼的大胃袋。</p>
-<p>一来二去就形成了一个诡异的闭环。</p>
-<p>鲸鱼：照这么说，我真的是被一把屎一把尿拉扯大的？！！</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-aae4ffd2c483512f164737813239f893_720w.jpg?source=8673f162" alt=""></figure>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2075640036507370127">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792548</guid>
-                <pubDate>Sun, 13 Sep 2026 20:09:05 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792561</guid>
+                <pubDate>Mon, 14 Sep 2026 02:57:53 GMT</pubDate>
             </item>
             
     </channel>
