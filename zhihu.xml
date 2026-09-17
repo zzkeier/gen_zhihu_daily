@@ -4,7 +4,7 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Thu, 17 Sep 2026 10:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 16:03:50 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
@@ -31,7 +31,7 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-32d146c162a1d814d576115fc4de286b_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-32d146c162a1d814d576115fc4de286b_l.jpg?source=8673f162">
 <span class="author">要多读书，</span><span class="bio">篮球狗，科密，不合格的准程序员</span>
 <a href="https://www.zhihu.com/question/2073735703394006231/answer/2076046891910013335" class="originUrl" hidden>查看知乎原文</a>
 </div>
@@ -111,7 +111,7 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9792602</guid>
-                <pubDate>Thu, 17 Sep 2026 10:49:35 GMT</pubDate>
+                <pubDate>Thu, 17 Sep 2026 16:03:48 GMT</pubDate>
             </item>
             
             <item>
@@ -209,7 +209,7 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9792603</guid>
-                <pubDate>Thu, 17 Sep 2026 10:49:36 GMT</pubDate>
+                <pubDate>Thu, 17 Sep 2026 16:03:48 GMT</pubDate>
             </item>
             
             <item>
@@ -379,7 +379,7 @@ emb(torch.tensor([5]))                # 取第 5 行，就这一件事
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9792611</guid>
-                <pubDate>Thu, 17 Sep 2026 10:49:37 GMT</pubDate>
+                <pubDate>Thu, 17 Sep 2026 16:03:49 GMT</pubDate>
             </item>
             
             <item>
@@ -406,7 +406,7 @@ emb(torch.tensor([5]))                # 取第 5 行，就这一件事
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
@@ -451,7 +451,7 @@ emb(torch.tensor([5]))                # 取第 5 行，就这一件事
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9792614</guid>
-                <pubDate>Thu, 17 Sep 2026 10:49:38 GMT</pubDate>
+                <pubDate>Thu, 17 Sep 2026 16:03:50 GMT</pubDate>
             </item>
             
     </channel>
