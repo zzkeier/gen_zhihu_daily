@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sat, 19 Sep 2026 19:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 02:57:43 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>2026 搞笑诺贝尔奖来了，「蟑螂奶」获化学奖，其能量据称是牛奶 4 倍，还有哪些看点？</title>
-                <link>http://daily.zhihu.com/story/9792645</link>
-                <description>云杉，知乎遗风，科研工作者，文理双修的战士。 查看知乎原文 在品鉴科学家们新一波的雷霆研究前，简单介绍下搞笑诺贝尔奖。 这个奖（Ig Nobel Prize）诞生于 1991 年，专门奖励那些“先让人发笑，再让人思考”的研究。 获奖成果必须是真实的科学研究，颁奖者则是真正的诺贝尔奖得主。 这个奖项堪称一年一度的科研抽象大赛，往年获奖题材个顶个的欢乐： 2024 年，发现某些哺乳动物可以用肛门呼吸；…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-516ad103afd5b64f76563bfd774b3d57.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？</title>
+                <link>http://daily.zhihu.com/story/9792661</link>
+                <description>interestingLSY，interestinglsy.github.io 查看知乎原文 原作者来回答一下 原文链接位于文末，大家可以读读。 这次这篇文章的爆火其实是挺出乎我意料的。 我写这篇文章本来的目的，并非要表达对失业的焦虑，而是想和我过去手写算子的那段时光说句再见。在 Agent 出现之前，大部分代码都是我一个字一个字敲出来的，这看似枯燥的过程，对我来说反而是一种享受：我可以静下心来，…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-381dbb81bc10ddf8749c395cd93d1cc1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,135 +31,45 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
-<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的战士。</span>
-<a href="https://www.zhihu.com/question/2079576214402854995/answer/2079599615549222970" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-854419f4eb3b157343101afbe0429ce9_l.jpg?source=8673f162">
+<span class="author">interestingLSY，</span><span class="bio">interestinglsy.github.io</span>
+<a href="https://www.zhihu.com/question/2083123101873844765/answer/2083249715588621732" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>在品鉴科学家们新一波的雷霆研究前，简单介绍下搞笑诺贝尔奖。</strong></p>
-<p>这个奖（Ig Nobel Prize）诞生于 1991 年，专门奖励那些“先让人发笑，再让人思考”的研究。</p>
-<p>获奖成果必须是真实的科学研究，颁奖者则是真正的诺贝尔奖得主。</p>
-<p>这个奖项堪称一年一度的科研抽象大赛，往年获奖题材个顶个的欢乐：</p>
-<p>2024 年，发现某些哺乳动物可以用肛门呼吸；</p>
-<p>2025 年，发现给牛涂成斑马，能减少牛虻叮咬；</p>
-<p>2015 年，发现大多数哺乳动物（无论是大象还是人类），撒尿都差不多 21 秒....</p>
-<p><strong>今年呢，直接化学奖颁给了研究蟑螂奶的团队。</strong></p>
-<p>获奖者们领奖时，还戴着蟑螂帽子：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-90908144a64b24ca78328e7398681e5f_720w.jpg?source=8673f162" alt=""><figcaption>想要这个帽子，请义乌迅速复刻。</figcaption></figure>
-<p>给他们颁奖的老爷子，是 2019 年诺贝尔物理学奖得主 Michel Mayor（米歇尔·马约尔），研究系外行星的。</p>
-<p>老爷子：我一个仰望宇宙的，这是给我干哪来了。</p>
-<p><strong>说回正题，让我们看看，这帮人到底咋发现蟑螂奶营养价值的...</strong></p>
-<p>研究对象不是咱们熟悉的广东双马尾（美洲大蠊），而是太平洋硕蠊 Diploptera punctata。</p>
-<p>长这个样子：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-99f1d7835dd1fd1cfd70f07005b56528_720w.jpg?source=8673f162" alt=""></figure>
-<p>一般的蟑螂，它是会甩籽儿的。</p>
-<p>把卵鞘丢出去，然后卵鞘里孵出小蟑螂，南方的朋友比较熟悉。</p>
-<p><strong>但太平洋硕蠊呢，是少见的一种胎生蟑螂。</strong></p>
-<p>胚胎在母体的育囊里发育，母蟑螂会分泌一种富含蛋白质的乳汁，供宝宝直接喝。</p>
-<p>蟑螂宝宝把这些奶喝下去之后，营养物质会在肠道里形成蛋白质晶体。</p>
-<p>研究者那叫一个坏啊，把蟑螂宝宝肠道切开，让晶体们释放到无菌水中：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-e144079eab0edc20e4ee37c7c916867e_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后呢，去分析这些晶体的成分。</p>
-<p>最后发现，这是一种紧密排列的、糖基化的、结合脂质的蛋白质晶体。</p>
-<p><strong>用人话讲，高浓缩营养压缩饼干。</strong></p>
-<p>堪称蟑螂宝宝的后备隐藏能源：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1854fef55d854784c4802d81015fa901_720w.jpg?source=8673f162" alt=""></figure>
-<p>至于营养如何？</p>
-<p>论文的原话是这样说的：</p>
-<blockquote>在卵巢开始形成卵黄到太平洋硕蠊胚胎孵化之间，蛋白质含量增加了 600 倍....如此高的蛋白质含量得益于由卵囊提供的 Lili-Mip 晶体，这些晶体被储存在胚胎的中肠中，一个中肠晶体大约能储存约 3.7 × 10^-5 J/ 颗焦耳的能量，<strong>这相当于几种哺乳动物乳汁中同等质量能量的三倍多</strong>（补充表 S3）。</blockquote>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-e0d91f278dbdbcf383d5f19cb5a4d12a_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>划重点，能量，是几种哺乳动物的三倍多。</strong></p>
-<p>比野生狗奶猛多了，但并非网上盛传的“营养是牛奶的 4 倍”。</p>
-<p>各家媒体的小编不一定懂科学，但一定很懂新闻学。</p>
-<p>顺带一提，蟑螂奶的研究其实 2016 年就发表了。</p>
-<p>只是 10 年后终于被搞笑诺贝尔奖组委会盯上，安排了个化学奖。</p>
-<p>其他获奖项目其实也挺有趣的。</p>
-<p><strong>比如技术奖，就颁给了华人团队，他们整了个活儿，把死蚊子的嘴当 3D 打印喷头。</strong></p>
-<p>3D 打印想要打印出足够精细的结构，就得足够精细的喷嘴。</p>
-<p>但是呢，市面上的超细喷嘴，不仅昂贵（80 美金一个），还很容易报废。</p>
-<p>于是乎，华人科学家曹长宏、李剑宇等人把蝎子毒刺、蛇牙和各种昆虫口器都研究了一遍，试着从动物身上找替代品。</p>
-<p><strong>最后他们发现，人类费事巴力想研发出来的精细喷嘴，蚊子用了几百万年。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dd7d7e0465135116bb1b1617ca253f4a_720w.jpg?source=8673f162" alt=""></figure>
-<p>他们给这项技术起了一个看起来很战锤 40K 的名字：</p>
-<p>Necroprinting —— 死灵打印。</p>
-<p>物理学奖呢，颁给了一群热爱小便的人。</p>
-<p>我相信每位男同志都被自己的嘘嘘溅到过。</p>
-<p>加拿大滑铁卢大学等团队，深谙其痛苦，然后认真研究了尿液撞击小便池之后的流体力学。</p>
-<p><strong>他们发现，当尿液撞击小便池表面的角度低于大约 30°时，飞溅可以大幅降低。</strong></p>
-<p>以此为基础，他们研究了各种各样的小便池，最后设计出了最理想那款。</p>
-<p>就是下图里最右边的样式，起名“鹦鹉螺”：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a739fb4e816f886353f0c3afe9de43ae_720w.jpg?source=8673f162" alt=""></figure>
-<p>鹦鹉螺小便池的飞溅量最低可以降到普通小便池的 1.4%，很期待了说是。</p>
-<p>再次请义乌迅速复刻。</p>
-<p>哦不对，这玩意儿应该找佛山...</p>
-<p>除了上面三项外，其他研究也蛮有意思的。</p>
-<p><strong>生物力学奖，科学家们终于给接吻下了一个严谨定义：</strong></p>
-<p>同种个体之间，非攻击性的、定向的口对口接触，伴随嘴唇或口器运动，而且不能交换食物。</p>
-<p>都记住了嗷，下次不好意思说 KISS KISS，就说：</p>
-<p>“我想和你发生同种个体之间，非攻击性的、定向的口对口接触，伴随嘴唇或口器运动，而且不能交换食物。”</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1b7483a513f7709545654f721ec65595_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>生物学奖，为了研究蛇什么时候咬人，于是去踩蛇。</strong></p>
-<p>结果发现，靠近蛇头部的时候被咬的几率最高。</p>
-<p>不过这篇论文后来因为伦理审批问题被撤稿了，好在拿了个搞笑诺奖当安慰。</p>
-<p><strong>嗅觉奖，爸妈觉得宝宝香香，但青春期孩子就不香了。</strong></p>
-<p>用数据证实了我们的日常经验。</p>
-<p><strong>土壤科学奖，在不同国家埋了 1000 条内裤。</strong></p>
-<p>土壤越健康的地区，内裤分解越快。</p>
-<p><strong>经济学奖，越有钱的人越会拿小孩的糖。</strong></p>
-<p>研究人员摆了一罐糖，告诉受试者这些糖是准备留给小朋友的，你也可以自取。</p>
-<p>然后把人单独留下，看看会发生什么。</p>
-<p>结果在研究样本中，社会阶层较高的参与者平均拿走的糖更多。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c8ccc9fbbff39043315b3fbac42aa353_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>其实我还挺喜欢搞笑诺贝尔奖的。</strong></p>
-<p>笑归笑，这些研究真正有意思的地方，其实从来不是整活儿。</p>
-<p><strong>而是告诉我们这些平凡的科研人，科学从来不只属于宇宙、癌症和人工智能这些宏大的命题。</strong></p>
-<p>它同样属于一句突如其来的为什么，一颗好奇又乐意求真的心。</p>
-<p>哪怕在科研高度功利化的今天，还有那么一批人，愿意一本正经地对待自己的好奇心。</p>
-<p>这对于每个人，都很重要。</p>
-<p>参考内容：</p>
-<p>1. 哺乳动物可以用肛门辅助供氧——2024 生理学奖</p>
-<p>OKABE R, CHEN-YOSHIKAWA T F, YONEYAMA Y, et al. Mammalian enteral ventilation ameliorates respiratory failure[J]. Med, 2021, 2(6): 773-783.e5. DOI: 10.1016/j.medj.2021.04.004.</p>
-<p>2. 把牛涂成斑马纹减少牛虻叮咬——2025 生物学奖</p>
-<p>KOJIMA T, OISHI K, MATSUBARA Y, et al. Cows painted with zebra-like striping can avoid biting fly attack[J]. PLoS ONE, 2019, 14(10): e0223447. DOI: 10.1371/journal.pone.0223447.</p>
-<p>3. 大多数大型哺乳动物尿尿约 21 秒——2015 物理学奖</p>
-<p>YANG P J, PHAM J, CHOO J, et al. Duration of urination does not change with body size[J]. Proceedings of the National Academy of Sciences of the United States of America, 2014, 111(33): 11932-11937. DOI: 10.1073/pnas.1402289111.</p>
-<p>4. 蟑螂奶——2026 化学奖</p>
-<p>BANERJEE S, COUSSENS N P, GALLAT F X, et al. Structure of a heterogeneous, glycosylated, lipid-bound, in vivo-grown protein crystal at atomic resolution from the viviparous cockroach Diploptera punctata[J]. IUCrJ, 2016, 3(4): 282-293. DOI: 10.1107/S2052252516008903.</p>
-<p>5. 死蚊子嘴当 3D 打印喷嘴——2026 技术奖</p>
-<p>PUMA J, YANG Z, JOHNSTON E, et al. 3D necroprinting: Leveraging biotic material as the nozzle for 3D printing[J]. Science Advances, 2025, 11(47): eadw9953. DOI: 10.1126/sciadv.adw9953.</p>
-<p>6. 防飞溅小便池——2026 物理学奖</p>
-<p>THURAIRAJAH K, SONG X, ZHU J D, et al. Splash-free urinals for global sustainability and accessibility: Design through physics and differential equations[J]. PNAS Nexus, 2025, 4(4): pgaf087. DOI: 10.1093/pnasnexus/pgaf087.</p>
-<p>7. 给接吻下一个科学定义——2026 生物力学奖</p>
-<p>BRINDLE M, TALBOT C F, WEST S. A comparative approach to the evolution of kissing[J]. Evolution and Human Behavior, 2026, 47(1): 106788. DOI: 10.1016/j.evolhumbehav.2025.106788.</p>
-<p>8. 为了研究蛇为什么咬人，于是踩蛇——2026 生物学奖</p>
-<p>[8] ALVES-NUNES J M, FELLONE A, ALMEIDA-SANTOS S M, et al. Study of defensive behavior of a venomous snake as a new approach to understand snakebite[J]. Scientific Reports, 2024, 14: 10230. DOI: 10.1038/s41598-024-59416-6. （该文已撤稿）</p>
-<p>9. 爸妈觉得宝宝香，青春期孩子不香了——2026 嗅觉奖</p>
-<p>CROY I, FRACKOWIAK T, HUMMEL T, et al. Babies smell wonderful to their parents, teenagers do not: An exploratory questionnaire study on children’s age and personal odor ratings in a Polish sample[J]. Chemosensory Perception, 2017, 10(3): 81-87. DOI: 10.1007/s12078-017-9230-x.</p>
-<p>10. 埋内裤检测土壤——2026 土壤科学奖</p>
-<p>BENDER S F, VAN DER HEIJDEN M G A. Assessing soil health with underpants[J]. Science, 2025, 387(6737): 936. DOI: 10.1126/science.adw0030.</p>
-<p>11. 有钱人更爱拿小孩子糖——2026 经济学奖</p>
-<p>PIFF P K, STANCATO D M, CÔTÉ S, et al. Higher social class predicts increased unethical behavior[J]. Proceedings of the National Academy of Sciences of the United States of America, 2012, 109(11): 4086-4091. DOI: 10.1073/pnas.1118373109.</p>
+<p>原作者来回答一下</p>
+<p>原文链接位于文末，大家可以读读。</p>
+<p>这次这篇文章的爆火其实是挺出乎我意料的。</p>
+<p>我写这篇文章本来的目的，并非要表达对失业的焦虑，而是想和我过去手写算子的那段时光说句再见。在 Agent 出现之前，大部分代码都是我一个字一个字敲出来的，这看似枯燥的过程，对我来说反而是一种享受：我可以静下心来，仔细思考大到模块组织、功能排布，小到代码逻辑、变量命名的每个细节。我也享受绞尽脑汁研究算子的调度和优化方案，提高算子性能，最终打败公认实现（比如 Flash Attention，NVIDIA 官方编写的算子，甚至是某些之前公认的“不可能优化好”的任务，比如 token 级稀疏的 attention）的感觉 —— “我在发明了一种新技术、或者看到自己算子的性能上升的那一刻，心中的激动程度不亚于游戏的速通玩家打破了自己过往的记录”。但是，现在这种快乐要被 AI 夺走了：为了生产效率和算子性能（现在的 AI 干活儿比我快，以后的 AI 则是又快又好），我必须迎接新时代中的新事物，研究如何用 AI 更好地写算子，在工作时间中再也没机会享受静静地、慢慢地写算子、调算子、优化算子的时光了。想必未来有朝一日，“手写算子”甚至“编程”可能会成为一种娱乐活动而非生产活动，就像是现在几乎没人会用标枪打猎，而是把它作为一种竞技活动那样。这相当于逼着我放弃我曾热爱的事物，强行转向另一个方向。哪怕新方向同样令人着迷，这种感觉都不太好受。正如标题所说的：<strong>我不得不把才华埋葬在昨天</strong>。</p>
+<p>我是一个很看重记忆和感动的价值的人，可奈何记忆会褪色，会被时光的细雪渐渐掩埋（之前还写过另一篇文章聊了聊这事儿，见文末链接）。因此，这篇文章其实是对我过去时光的一段总结与怀念。我希望借这篇文章，将过往的那些手写算子影像定格，以保存这份真切的记忆与真挚的感动，供十年、二十年之后的我来怀念。顺带借着这篇文章，给予自己放下过去、拿起新工具、勇敢地走向新时代的勇气。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2e8e347c03158d2f73ced0512e1c0ac5_720w.jpg?source=8673f162" alt=""><figcaption>一段我很喜欢的话，节选自公众号评论区</figcaption></figure>
+<p>但大家的理解似乎和我的原意出现了不小的偏差... 本来文章的最后两节只是一些碎碎念：倒数第二节简要提及了一些 AI 带来的社会问题，但其实也没有很仔细地去分析或回答；最后一节则是我个人在前段时间的一些零碎思考，认为前沿智能还是应该“以一种开放、廉价的方式，供应给所有人”。但由于我并不是历史学、社会学等人文学科的专家，这部分我也只是稍加探讨并一带而过（顺便踩一脚我一直看不太惯 A/），里面关于共产主义与 2077 的辩论也不一定对。虽然里面说的“我选择 DeepSeek 的原因之一是不想让世界变成 2077 那副模样”以及“May all the beauty be blessed”两句话是真的，这确实是我的理想，但这并不是本文的中心。<strong>这一段也仅代表个人观点，不代表任何我所在的公司的立场</strong>。</p>
+<p>结果，这篇文章发出去之后，虽然确实有很多人和我关于旧日时光的怀念产生了共鸣，但大部分人都把聚光灯打在了最后一段上。知乎上排名最高的几条回答写得还行（说明知乎用户的阅读理解能力还是挺好的），但微信公众号评论区中有大量人在探讨 Anthropic 和 DeepSeek 关于开放智能的态度，小红书上甚至已经有“DeepSeek 反击 Anthropic”这种回答了，外网上更是就这共产主义这个词展开了各式各样的键政言论甚至人身攻击... 甚至有人看到“就写这些吧不然我怕过不了审”这几个字之后就大肆脑部国内言论审核严格云云（其实我写这几个字是因为感觉没有足够的知识与阅历来评价共产主义）。我很感慨某些学新闻学的的炒作能力，同时看了这些之后感觉很无奈... 大家还是多关注关注文章的主题吧。</p>
+<p>回归主题，AI 在未来不断变强是肯定的：哪怕局限于当下的 Agent + Harness + 长上下文 + CoT 的范式，随着数据质量、模型深度、上下文长度不断继续扩展（scale），AI 的能力也将稳步前进。更别提，后面还等着具身智能、RSI、以及一些我们尚未知晓的其他技术。我对未来的 AI 的能力是乐观的，对于我在未来社会中的位置是相对乐观的，但对于未来人们还能不能潜下心来认真做一件事情是悲观的，对于我未来能不能长久地把一件事情同时作为工作和爱好，也是悲观的。</p>
+<p>但哪怕这样，我还是要继续坚持写算子、以及不断引入 AI Agent 写算子。一是因为“我当然希望自己不要被革命，但如果非被革命不可的话，我希望革我自己命的人是我自己”（被别人淘汰不如自我进化）；二是因为我还是希望我们（或者其他同样秉持着开放共享理念的 AI 公司）能够先于某些公司，做出最强大的智能，惠及所有人。我还是相信我原文中关于共产主义和 2077 的论调，也希望这个世界能尽量离 2077 那端远一些。爱好兴趣是一回事儿，理想信念则是另一回事儿了，因此我也将继续在这个领域开拓下去。我在未来也会尽量尝试重新对齐爱好、特长和时代需求的方向，尝试在属于 AI 的时代找到属于自己的乐土。在不得不把才华埋葬在昨天后，我还有明天的光明可以追逐。在被这场世末的凉雨淋湿后，我仍会用回温的心灵驱散阴霾，寻找越过黑夜后渐变的那一抹蓝色 [1]。</p>
+<p>[1] 化用了 COP 的《世末歌者》等歌曲的歌词。</p>
+<p>写记忆与感动的文章，以及原文链接：</p>
+<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/6ufTa5fZeA3qrUCQ8y5Qgw" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">mp.weixin.qq.com/s/6ufT</span><span class="invisible">a5fZeA3qrUCQ8y5Qgw</span><span class="ellipsis"></span></a><a class=" external" href="http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">mp.weixin.qq.com/s/zk0K</span><span class="invisible">xuLzhmMJ4LPYW_OHMA</span><span class="ellipsis"></span></a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2079576214402854995">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2083123101873844765">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792645</guid>
-                <pubDate>Sat, 19 Sep 2026 19:55:23 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792661</guid>
+                <pubDate>Sun, 20 Sep 2026 02:57:40 GMT</pubDate>
             </item>
             
             <item>
-                <title>如果城市允许骑马，且有公共马厩供马休息，你愿意骑马通勤吗？</title>
-                <link>http://daily.zhihu.com/story/9792646</link>
-                <description>知乎用户，宁静慎独，讷于言，敏于行。 查看知乎原文 环保吗？ 那你想过一匹马一天会产生多少马粪吗？ 城市普遍以马为交通工具的情况不用假设，因为真实发生过，而且距离现在并不遥远。 工业革命时期，英国城市人口膨胀速度非常快。 蒸汽动力的发展意味着工厂不必再像以前那样建在河流附近，城市工厂的工资比农业劳动高得多，所以大量人口涌入城市寻找工作机会。 1700 年，曼彻斯特只是一个人口不足 1 万的小村庄，…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-6a78aa5374f433cc15674370a0efb5be.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么玻璃上两水滴相遇后下落速度变快？</title>
+                <link>http://daily.zhihu.com/story/9792671</link>
+                <description>姜小白71，自然，简约，平中出奇 查看知乎原文 很难想象，一个高中生能有这么敏锐的观察力。对于题主观察到的现象，为什么玻璃上两水滴相遇后速度变快？定性来讲，这个问题的答案很简单，液滴相遇后融合是一个表面能转化为动能的过程，此过程中液滴与玻璃壁面会发生相互作用，融合过程并不满足动量守恒，所以最终液滴速度是变快而不是变慢。 为了讲清楚这个问题，特意找了一张液滴滑落的动图（图 1），如红色箭头所指，该液…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-37fab7ae7ddb71834e792d3cd129ebd8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -179,93 +89,97 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
-<span class="author">知乎用户，</span><span class="bio">宁静慎独，讷于言，敏于行。</span>
-<a href="https://www.zhihu.com/question/2061806723862631112/answer/2071181707445851197" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-daf192c6c05a4e5cc5d23f9be7cee272_l.jpg?source=8673f162">
+<span class="author">姜小白71，</span><span class="bio">自然，简约，平中出奇</span>
+<a href="https://www.zhihu.com/question/265890645/answer/2073839212432994806" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>环保吗？</p>
-<p>那你想过一匹马一天会产生多少马粪吗？</p>
-<p>城市普遍以马为交通工具的情况不用假设，因为真实发生过，而且距离现在并不遥远。</p>
-<hr>
-<p>工业革命时期，英国城市人口膨胀速度非常快。</p>
-<p>蒸汽动力的发展意味着工厂不必再像以前那样建在河流附近，城市工厂的工资比农业劳动高得多，所以大量人口涌入城市寻找工作机会。</p>
-<p>1700 年，曼彻斯特只是一个人口不足 1 万的小村庄，而到 1801 年，大曼彻斯特地区已发展成为一座拥有 32.8 万人的城市，利物浦、利兹和哈德斯菲尔德也差不多达到了同等规模。</p>
-<p>1851 年，曼彻斯特的人口增长至 103.7 万，伦敦的人口也从 1801 年的 101.1 万增长到 1851 年的 265.2 万，1891 年更是达到惊人的 557.2 万。</p>
-<p>大量人口涌入，附带的就是城市生活环境迅速恶化，甚至城市人口的人均寿命都有所减少。</p>
-<p><a class="internal" href="https://www.zhihu.com/question/636695546/answer/2044089503980291703">你知道哪些很有意思的历史冷知识？</a></p>
-<p>工业革命和城市扩张，非但没有减少对马的需求，反而让城市公共交通和货运极度依赖马匹。</p>
-<p>1830 年代以前，伦敦等大城市的交通主要依赖体积庞大、笨重的四轮“哈克尼马车”（Hackney carriage）。</p>
-<p>这种老式马车重心高、车轮小、减震极差，在石子路上行驶时颠簸剧烈，高速转弯时极易发生侧翻事故。</p>
-<p>1834 年，建筑师约瑟夫·汉萨姆（Joseph Hansom）设计出了一款“兼顾速度与绝对安全”的公共出租马车，并于 12 月 23 日正式为他的设计注册专利。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fb783de2b60835d83342eed3cc6a5661_720w.jpg?source=8673f162" alt=""><figcaption>约瑟夫·汉萨姆（Joseph Hansom）的初始设计手稿</figcaption></figure>
-<p>汉萨姆的马车打破了常规设计，最初设计中车轮与车顶一样高，车厢底盘被挂得极低，保证了高速转弯时的稳定性。</p>
-<p>后来，又将车夫座位移至后上方，乘客从正面直接上车，前面有两扇低矮的小木门保护腿部，上方配有皮革或防水布帘，既挡风雨又保护隐私。</p>
-<p>乘客如果要更改目的地或付钱，只需要打开车顶上的一个小天窗，朝斜上方与车夫交谈。</p>
-<p>汉萨姆是一个优秀的发明家，却是一个糟糕的商人，他随后将该专利以 10000 英镑的价格卖给了一家马车公司。</p>
-<p>然而没过多久，该马车公司便宣告破产，汉萨姆最终连一分钱的专利费都没有拿到。</p>
-<p>但“汉萨姆马车”这个名字，经过约翰·查普曼（John Chapman）改良变轻后，风靡全世界七十多年。</p>
-<p>现代出租车行业的许多规则，都来自于“汉萨姆马车”。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a5b805d228170a733fdf0c40cfb9d9b_720w.jpg?source=8673f162" alt=""><figcaption>查普曼式双轮马车，伦敦，1877 年</figcaption></figure>
-<p>等到 1890 年代，伦敦全城饲养的马匹总量高达 30 万匹。</p>
-<p>其中，光是每天用于拉双层公共汽车（Omnibus）、汉萨姆出租马车（Hansom cab）等大中型公共交通的马匹就超过 5 万匹。</p>
-<p>其余的马匹则服务于私人马车、码头货运及邮政系统。</p>
-<p>“马力经济学”繁荣的代价是满城的马粪。</p>
-<p>一匹马每天产生 7 至 16 公斤粪便和数公升尿液，这意味着伦敦每天有千吨以上的马粪直接泼洒在街道上。</p>
-<p>同时期的巴黎，大约有 10 万匹马。</p>
-<p>1900 年巴黎世界博览会前后，以“巴黎公共马车公司（CGO）”为首的运输网络极为发达，日常有数万匹高大强壮的法国“佩尔什马（Percheron）”在香榭丽舍大道等主干道上奔走。</p>
-<p>美国纽约当时有 10 万至 15 万匹马，每天产生的马粪超过 300 万磅，还有 4 万加仑马尿。</p>
-<p>一位当时的城市观察家记录道：“纽约的街道简直像被铺上了一层温暖的棕色地毯……”</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8dd848a2b6b9953f9af7748798b8ad79_720w.jpg?source=8673f162" alt=""><figcaption>1893 年 3 月 17 日的纽约市莫顿街（Morton Street）实景，由贝克福德街（Bedford）向布利克街（Bleecker Street）方向拍摄</figcaption></figure>
-<p>上面这张照片展示的纽约街景就是一望无尽的马粪。</p>
-<p>当时全球各大大都市普遍面临的严重马匹排泄物堆积问题，城市的运转依赖数马匹，马粪又让城市环境不堪重负。</p>
-<p>1894 年，伦敦《泰晤士报》将这以历史时期命名为“1894 年马粪大危机”（Great Horse Manure Crisis of 1894），写出惊悚恐慌的新闻标题。</p>
-<p>1898 年，人类历史上第一届国际城市规划会议在美国纽约召开。</p>
-<p>原本预计讨论 10 天，却因为无法解决马粪带来的城市公共卫生危机而不断延期。</p>
-<p>城市散落的马粪滋生了数以亿计的苍蝇，传播霍乱和伤寒，各国代表们越讨论越绝望，因为根本想不到解决办法。</p>
-<p>当时的普遍观点是：“现代城市规模已经触碰到了‘物理极限’，人类无法在维持文明的同时解决动物排泄物问题，大城市终将走向崩溃。”</p>
-<p>城市人口增长 = 交通需求增加 = 马匹成倍增加 = 马粪彻底淹没城市</p>
-<p>在新型工业动力交通工具诞生前，这个悖论是无解的。</p>
-<hr>
-<p>现代饲养良好的马匹，正常平均寿命在 25 年至 30 年之间。</p>
-<p>但是在 19 世纪末的伦敦和巴黎，城市役马在 4 到 5 岁正值壮年时开始工作，平均役龄只有 2 年至 3 年，很快就会因过度劳累或伤病倒下，被送往屠宰场。</p>
-<p>因为城市道路铺设了花岗岩石子、沥青或硬砖，马的蹄铁在坚硬路面上不断猛烈撞击，会导致严重的“蹄叶炎”、关节炎和骨折。</p>
-<p>雨雪天气，石子路变得极度湿滑，马匹滑倒并导致腿部骨折是家常便饭。</p>
-<p>众所周知，马腿骨折等同于死刑，通常会被当街处死。</p>
-<p>伦敦的双层公共马车，满载乘客的木质车厢重达数吨，即便有两匹马合力，在起步、拉车上坡或在频繁的交通拥堵中不断“急停急起”时，对马的肌肉和心脏都是极大负荷。</p>
-<p>许多马匹在夏天的热浪中或冬天的严寒中，因为心力衰竭直接暴毙在拉车途中。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f73abb10baf152809cf0ea303e9b41c7_720w.jpg?source=8673f162" alt=""><figcaption>街道上的马匹尸体</figcaption></figure>
-<p>城市役马寿命短、死亡率高，当时的伦敦和纽约街头经常出现“死马横尸街头”的现象。</p>
-<p>1880 年代的纽约，每年要从街头清理 15000 匹死马。</p>
-<p>因为将数百公斤的死马运走需要昂贵的费用，许多马车夫和马主为了逃避罚款，会悄悄在深夜把死马遗弃在马路中央。</p>
-<p>当时的城市卫生部门甚至有一项规定：允许死马在街头躺上几天，直到尸体开始腐烂变软、容易切割后，再派清理队分块运走。</p>
-<hr>
-<p>由这场“马粪危机”，最终又引申出了一个“马粪定律”的社会经济学概念。</p>
-<p>1894 年《泰晤士报》曾绝望地预测：“照目前的速度发展下去，50 年后伦敦的每条街道都将被埋在 9 英尺厚的马粪之下”。</p>
-<p>人类习惯以“当下的技术手段”去推测“未来的灾难”，然而真正的历史，往往是通过技术革新来颠覆过往，让原有的问题彻底消失。</p>
-<p>1898 年第一届国际城市规划会议上的专家们，只能绞尽脑汁想如何设计规则限制城市马匹数量，如何“雇更多的人、设计更好的铲子、造更好的马车”，却没想到内燃机革命，直接将马匹淘汰出了城市交通。</p>
-<p>现实世界，解决“马粪危机”的不是更好的清洁工，而是汽车的普及。</p>
+<p>很难想象，一个高中生能有这么敏锐的观察力。对于题主观察到的现象，为什么玻璃上两水滴相遇后速度变快？定性来讲，这个问题的答案很简单，液滴相遇后融合是一个表面能转化为动能的过程，此过程中液滴与玻璃壁面会发生相互作用，融合过程并不满足动量守恒，所以最终液滴速度是变快而不是变慢。</p>
+<p>为了讲清楚这个问题，特意找了一张液滴滑落的动图（图 1），如红色箭头所指，该液滴一开始处于静止状态，随后在其高处滑落另一个液滴，在两液滴即将接触时，滑动的液滴几乎静止，然而在一瞬间，两液滴完成融合后猛然向下滑落，这就是题目描述的现象。</p>
+<p>实际上在液滴经历过融合加速后，后面的速度变化则取决于阻力大小，所以液滴下滑融合过程中，很多时候液滴也会出现一顿一顿的现象，这就是液滴加速后阻力过大的表现，只有在液滴生长到足够大小后，才可以顺畅下滑。当然，这个不是本回答的重点了。</p>
+<figure><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-6efb05a91e3f60272f0207fc71aa0937_720w.gif?source=8673f162" alt="" width="454"><figcaption>图 1：液滴滑落动图</figcaption></figure>
+<p>液滴融合后的瞬时加速问题要考虑的因素非常多，比如重力势能的减少，接触角迟滞等，理论分析似乎很难区分每个因素的影响，那么有没有什么过硬的证据，能证明液滴融合后的加速行为是表面能减少导致的呢？有的，看下图（图 2），</p>
+<figure><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-46d22329056620f62d9681843115e245_720w.jpg?source=8673f162" alt="" width="1970"><figcaption>图 2：平面上液滴融合后的垂直运动行为(Boreyko, J. B. , &amp; Chen, C. H. . (2009). Self-propelled dropwise condensate on superhydrophobic surfaces. American Physical Society.)</figcaption></figure>
+<p>疏水表面上因空气冷凝形成了两个小液滴，且两个小液滴在缓慢生长，当它们生长到刚好接触时便开始融合，由于基底是疏水的，液滴融合后减少的表面能只能转化为向上的动能，所以液滴直接腾空而起，瞬时速度高达 0.14m/s。</p>
+<p>定性分析有了，现在我们开始定量分析，考虑建立一个理论模型，抓住主要矛盾，忽略次要矛盾，最终的简化模型（图 3）可以表述为一个高中物理题的形式，那么这道题以及解答就送给你们了，赶紧来尝试求解一下吧。</p>
+<p><strong>在竖直放置的玻璃板上，有两个完全相同的液滴，一上一下，即将发生融合。已知每个液滴的接触角为 <img src="https://www.zhihu.com/equation?tex=%5Ctheta" alt="\theta">，与玻璃板的润湿半径为 <img src="https://www.zhihu.com/equation?tex=R" alt="R">，液体的密度为 <img src="https://www.zhihu.com/equation?tex=%5Crho" alt="\rho">，液 - 气表面张力为 <img src="https://www.zhihu.com/equation?tex=%5Cgamma" alt="\gamma">，融合前两液滴均静止。求融合后液滴沿玻璃板运动的瞬时速度</strong> <img src="https://www.zhihu.com/equation?tex=v" alt="v"> <strong>。</strong></p>
+<p>题中用到的假设有，融合前后液滴始终保持球帽形，接触角不变，忽略粘性耗散、接触线摩擦、液滴内部振荡以及重力势能等能量损失，且认为融合前后体系总表面能的变化全部转化为融合后液滴沿玻璃板运动的平动动能。</p>
+<figure><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-f8dd365c3322cd7c5b3c51fa36385443_720w.jpg?source=8673f162" alt="" width="882"><figcaption>图 3：液滴融合示意图</figcaption></figure>
+<h2><strong>解：</strong></h2>
+<h3>1. 单液滴几何关系</h3>
+<p>液滴为球帽形，接触角为 <img src="https://www.zhihu.com/equation?tex=%5Ctheta" alt="\theta">，润湿半径为 <img src="https://www.zhihu.com/equation?tex=R" alt="R">。单液滴液 - 气界面面积：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+A_%7BLV%2C0%7D%3D%5Cfrac%7B2%5Cpi+R%5E2%7D%7B1%2B%5Ccos%5Ctheta%7D+" alt=" A_{LV,0}=\frac{2\pi R^2}{1+\cos\theta} "></p>
+<p>单液滴固 - 液接触面积：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+A_%7BSL%2C0%7D%3D%5Cpi+R%5E2+" alt=" A_{SL,0}=\pi R^2 "></p>
+<p>单液滴体积：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+V_0%3D%5Cfrac%7B%5Cpi+R%5E3%7D%7B3%7D%5Cfrac%7B%281-%5Ccos%5Ctheta%29%5E2%282%2B%5Ccos%5Ctheta%29%7D%7B%5Csin%5E3%5Ctheta%7D+" alt=" V_0=\frac{\pi R^3}{3}\frac{(1-\cos\theta)^2(2+\cos\theta)}{\sin^3\theta} "></p>
+<h3>2. 融合后的液滴几何参数</h3>
+<p>设融合后液滴的润湿半径为 <img src="https://www.zhihu.com/equation?tex=R_f" alt="R_f">。融合前后液体总量不变，因此总体积守恒：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+2V_0%3DV_1+" alt=" 2V_0=V_1 "></p>
+<p>其中 <img src="https://www.zhihu.com/equation?tex=V_1" alt="V_1"> 为融合后液滴体积。由于融合后接触角仍为 <img src="https://www.zhihu.com/equation?tex=%5Ctheta" alt="\theta">，根据球帽体积公式，可求得液滴润湿半径为，</p>
+<p><img src="https://www.zhihu.com/equation?tex=+R_f%3D%5Csqrt%5B3%5D%7B2%7D%5C%2CR+%3D+2%5E%7B1%2F3%7DR+" alt=" R_f=\sqrt[3]{2}\,R = 2^{1/3}R "></p>
+<p>融合后液滴的液 - 气界面面积为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+A_%7BLV%2C1%7D+%3D+%5Cfrac%7B2%5Cpi+R_f%5E2%7D%7B1%2B%5Ccos%5Ctheta%7D+%3D+%5Cfrac%7B2%5Cpi+R%5E2%5C%2C2%5E%7B2%2F3%7D%7D%7B1%2B%5Ccos%5Ctheta%7D+" alt=" A_{LV,1} = \frac{2\pi R_f^2}{1+\cos\theta} = \frac{2\pi R^2\,2^{2/3}}{1+\cos\theta} "></p>
+<p>融合后液滴的固 - 液接触面积为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+A_%7BSL%2C1%7D+%3D+%5Cpi+R_f%5E2+%3D++%5Cpi+R%5E2%5C%2C2%5E%7B2%2F3%7D+" alt=" A_{SL,1} = \pi R_f^2 =  \pi R^2\,2^{2/3} "></p>
+<h3>3. 体系总表面能变化</h3>
+<p>体系总表面能为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+E%3D%5Cgamma+A_%7BLV%7D%2B%5Cgamma_%7BSL%7DA_%7BSL%7D%2B%5Cgamma_%7BSV%7DA_%7BSV%7D+" alt=" E=\gamma A_{LV}+\gamma_{SL}A_{SL}+\gamma_{SV}A_{SV} "></p>
+<p>其中：<img src="https://www.zhihu.com/equation?tex=%5Cgamma" alt="\gamma"> 为液 - 气表面张力；<img src="https://www.zhihu.com/equation?tex=%5Cgamma_%7BSL%7D" alt="\gamma_{SL}"> 为固 - 液界面张力；<img src="https://www.zhihu.com/equation?tex=%5Cgamma_%7BSV%7D" alt="\gamma_{SV}"> 为固 - 气界面张力。融合前两个液滴总液 - 气面积为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+2A_%7BLV%2C0%7D+%3D+%5Cfrac%7B4%5Cpi+R%5E2%7D%7B1%2B%5Ccos%5Ctheta%7D+" alt=" 2A_{LV,0} = \frac{4\pi R^2}{1+\cos\theta} "></p>
+<p>所以<strong>液 - 气面积变化</strong>为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5CDelta+A_%7BLV%7D+%3D+A_%7BLV%2C1%7D-2A_%7BLV%2C0%7D+%3D+%5Cfrac%7B2%5Cpi+R%5E2%7D%7B1%2B%5Ccos%5Ctheta%7D%5Cleft%282%5E%7B2%2F3%7D-2%5Cright%29+" alt=" \Delta A_{LV} = A_{LV,1}-2A_{LV,0} = \frac{2\pi R^2}{1+\cos\theta}\left(2^{2/3}-2\right) "></p>
+<p>融合前两个液滴总固 - 液面积为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+2A_%7BSL%2C0%7D%3D2%5Cpi+R%5E2+" alt=" 2A_{SL,0}=2\pi R^2 "></p>
+<p>所以<strong>固 - 液面积变化</strong>为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5CDelta+A_%7BSL%7D+%3D+A_%7BSL%2C1%7D-2A_%7BSL%2C0%7D+%3D+%5Cpi+R%5E2%5Cleft%282%5E%7B2%2F3%7D-2%5Cright%29+" alt=" \Delta A_{SL} = A_{SL,1}-2A_{SL,0} = \pi R^2\left(2^{2/3}-2\right) "></p>
+<p>玻璃板总面积不变，被液滴覆盖的区域从原来的固 - 气界面变为固 - 液界面，因此<strong>固 - 气面积变化</strong>为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5CDelta+A_%7BSV%7D%3D-%5CDelta+A_%7BSL%7D+" alt=" \Delta A_{SV}=-\Delta A_{SL} "></p>
+<p>现在计算总表面能变化，表达式为，</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5CDelta+E+%3D+%5Cgamma%5CDelta+A_%7BLV%7D+%2B%5Cgamma_%7BSL%7D%5CDelta+A_%7BSL%7D+%2B%5Cgamma_%7BSV%7D%5CDelta+A_%7BSV%7D+" alt=" \Delta E = \gamma\Delta A_{LV} +\gamma_{SL}\Delta A_{SL} +\gamma_{SV}\Delta A_{SV} "></p>
+<p>代入 <img src="https://www.zhihu.com/equation?tex=%5CDelta+A_%7BSV%7D%3D-%5CDelta+A_%7BSL%7D" alt="\Delta A_{SV}=-\Delta A_{SL}">可得到，</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5CDelta+E+%3D+%5Cgamma%5CDelta+A_%7BLV%7D+%2B%28%5Cgamma_%7BSL%7D-%5Cgamma_%7BSV%7D%29%5CDelta+A_%7BSL%7D+" alt=" \Delta E = \gamma\Delta A_{LV} +(\gamma_{SL}-\gamma_{SV})\Delta A_{SL} "></p>
+<p>由 Young 方程：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5Cgamma_%7BSV%7D-%5Cgamma_%7BSL%7D%3D%5Cgamma%5Ccos%5Ctheta+" alt=" \gamma_{SV}-\gamma_{SL}=\gamma\cos\theta "></p>
+<p>所以表面能可写为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5CDelta+E+%3D+%5Cgamma%5CDelta+A_%7BLV%7D+-%5Cgamma%5Ccos%5Ctheta%5C%2C%5CDelta+A_%7BSL%7D+" alt=" \Delta E = \gamma\Delta A_{LV} -\gamma\cos\theta\,\Delta A_{SL} "></p>
+<p>代入面积变化，化简可得：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5CDelta+E+%3D+%5Cgamma%5Cpi+R%5E2%5Cleft%282%5E%7B2%2F3%7D-2%5Cright%29+%5Cfrac%7B%281-%5Ccos%5Ctheta%29%282%2B%5Ccos%5Ctheta%29%7D%7B1%2B%5Ccos%5Ctheta%7D+" alt=" \Delta E = \gamma\pi R^2\left(2^{2/3}-2\right) \frac{(1-\cos\theta)(2+\cos\theta)}{1+\cos\theta} "></p>
+<p>由于 <img src="https://www.zhihu.com/equation?tex=2%5E%7B2%2F3%7D-2%3C0" alt="2^{2/3}-2&lt;0">，所以 <img src="https://www.zhihu.com/equation?tex=%5CDelta+E%3C0" alt="\Delta E&lt;0">，说明融合后体系表面能降低。表面能降低量为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5CDelta+E_s+%3D+%5Cgamma%5Cpi+R%5E2%5Cleft%282-2%5E%7B2%2F3%7D%5Cright%29+%5Cfrac%7B%281-%5Ccos%5Ctheta%29%282%2B%5Ccos%5Ctheta%29%7D%7B1%2B%5Ccos%5Ctheta%7D+" alt=" \Delta E_s = \gamma\pi R^2\left(2-2^{2/3}\right) \frac{(1-\cos\theta)(2+\cos\theta)}{1+\cos\theta} "></p>
+<h3>4. 能量守恒求速度</h3>
+<p>融合前两个液滴总质量为：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+m%3D2%5Crho+V_0+%3D+%5Cfrac%7B2%5Cpi%5Crho+R%5E3%7D%7B3%7D+%5Cfrac%7B%281-%5Ccos%5Ctheta%29%5E2%282%2B%5Ccos%5Ctheta%29%7D%7B%5Csin%5E3%5Ctheta%7D+" alt=" m=2\rho V_0 = \frac{2\pi\rho R^3}{3} \frac{(1-\cos\theta)^2(2+\cos\theta)}{\sin^3\theta} "></p>
+<p>按题意，表面能降低量全部转化为融合后液滴沿玻璃板运动的平动动能：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+%5Cfrac12+m+v%5E2%3D%5CDelta+E_s+" alt=" \frac12 m v^2=\Delta E_s "></p>
+<p>因此：</p>
+<p><img src="https://www.zhihu.com/equation?tex=+v%3D%5Csqrt%7B%5Cfrac%7B2%5CDelta+E_s%7D%7Bm%7D%7D+" alt=" v=\sqrt{\frac{2\Delta E_s}{m}} "></p>
+<p>代入 <img src="https://www.zhihu.com/equation?tex=%5CDelta+E_s" alt="\Delta E_s"> 和 <img src="https://www.zhihu.com/equation?tex=m" alt="m">，最终得到：</p>
+<p><img src="https://www.zhihu.com/equation?tex=++v%3D+%5Csqrt%7B+%5Cfrac%7B3%5Cgamma%5Cleft%282-2%5E%7B2%2F3%7D%5Cright%29%5Csin%5Ctheta%7D+%7B%5Crho+R%7D+%7D++" alt="  v= \sqrt{ \frac{3\gamma\left(2-2^{2/3}\right)\sin\theta} {\rho R} }  "></p>
+<p>这就是液滴融合后的速度。</p>
+<p> </p>
+<p> </p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2061806723862631112">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/265890645">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792646</guid>
-                <pubDate>Sat, 19 Sep 2026 19:55:24 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792671</guid>
+                <pubDate>Sun, 20 Sep 2026 02:57:41 GMT</pubDate>
             </item>
             
             <item>
-                <title>如果文言文退出中国教育体系，你是支持还是反对？为什么?</title>
-                <link>http://daily.zhihu.com/story/9792650</link>
-                <description>莱茵行宫伯爵，B站：河畔的伯爵 查看知乎原文 我反对，但不是出于什么情怀或浪漫，而是文言文已经足够弱势，不需要再削了。 在现代中国的教育体系当中，文言文—— 不是主科，甚至不是单独的科目，只是语文学科当中的一个模块。 2. 学生只需要掌握一定的阅读和翻译能力，不需要写作，更不用口头表达。 3. 连繁体字都不需要认识。 放在全世界的古典语文教育里，这些要求都算最低一档了。 为了树立概念，我们不妨参考…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-f83080fa422e1337ecf93835194f2b32.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>网友称欧洲西瓜硬到要用锯子切，为啥西瓜看起来这么硬？跟我们种的西瓜有啥区别吗？</title>
+                <link>http://daily.zhihu.com/story/9792673</link>
+                <description>Alfred大老虎，拼多多小店：大老虎的农夫果园 查看知乎原文 这个问题跟我是专业对口了，我还是比较擅长玩西瓜的。 欧洲的主流西瓜品种都来源于美系，二战后引进了美国的三大西瓜品类：查尔斯顿灰、绯红甜心和糖宝宝。 美国种西瓜集中在南方两大种植带。一个是东南部亚热带温润区，如佛罗里达、佐治亚、南卡、德州东部。另一个是西南部干旱 / 半干旱荒漠区，如加州、亚利桑那。 从南方的佛罗里达运到北方的华盛顿，要…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-81602ab606495bf231687f1cf87938a8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -285,85 +199,208 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-a22354e847bd5bd0474c9158d8a26911_l.jpg?source=8673f162">
-<span class="author">莱茵行宫伯爵，</span><span class="bio">B站：河畔的伯爵</span>
-<a href="https://www.zhihu.com/question/1893326454940475483/answer/2079628796794254618" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-f2ea5ef8ad54e4ed3b9f7bda926e76f8_l.jpg?source=8673f162">
+<span class="author">Alfred大老虎，</span><span class="bio">拼多多小店：大老虎的农夫果园</span>
+<a href="https://www.zhihu.com/question/2067934077106087068/answer/2080665356721571572" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>我反对，但不是出于什么情怀或浪漫，而是<strong>文言文已经足够弱势，不需要再削了。</strong></p>
-<p>在现代中国的教育体系当中，文言文——</p>
-<ol>
-<li>不是主科，甚至<strong>不是单独的科目</strong>，只是语文学科当中的一个模块。</li>
-</ol>
-<p>2. 学生只需要掌握一定的阅读和翻译能力，<strong>不需要写作，更不用口头表达</strong>。</p>
-<p>3. <strong>连繁体字都不需要认识</strong>。</p>
-<p><strong>放在全世界的古典语文教育里，这些要求都算最低一档了。</strong></p>
-<p>为了树立概念，我们不妨参考下<strong>法兰西共和国一百多年来的教育体制</strong>。</p>
-<p>在 1880 年，拉丁文占法国中学大约 1/3 的课时数，每周 24 个课时当中有 10 课时拉丁文。</p>
-<p>文科生和理科生都必修拉丁文。中学毕业会考不只考拉丁文翻译，还有拉丁语写作和演讲。</p>
-<p>大学生毕业前要写两篇论文，一篇用法文，另一篇用拉丁文。</p>
-<p>大家不妨把上边的“拉丁文”换成“文言文”，然后换位思考感受一下。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5e386c1f9ef8be395294e214e4868359_720w.jpg?source=8673f162" alt=""><figcaption>在 1880 年代担任法国总理的茹费理，他是中法战争的发动者，也是法国教育体制的重要奠基人。19 世纪法国教育体制比侵略战争更深远地影响了中国，其中包括义务教育、文理分科、古典语文学的削弱等等。</figcaption></figure>
-<p>然而，<strong>就算是如此“变态”的古典语文教育，也已经是史诗级削弱的结果了。</strong></p>
-<p>在大革命之前的法国，传统拉丁文教育是这样的：</p>
-<p>拉丁文课程占中小学课时的一半以上，学生甚至还要学一些古希腊文和希伯来文。</p>
-<p>从小学高年级开始，部分课程就强制说拉丁语，大学课堂完全使用拉丁语授课。</p>
-<p>教师资格考试用拉丁文出题。</p>
-<p><strong>在现代化之前，这就是古典语文教育的标准强度</strong>。就算是笛卡尔和拉普拉斯这些拥有顶尖聪明大脑的数学家，在学生时代也不得不把大量精力用在古典语文的学习上。</p>
-<p>18 世纪下半叶，百科全书派的法国博物学家达朗贝尔就提出有必要削减古典语文教育：</p>
-<blockquote>我不反对学习贺拉斯和塔西佗用来写作的语言，这种学习绝对有助于认识他们伟大的作品，但我认为学习应该仅限于理解，因为把时间花在拉丁文写作上是一种浪费。</blockquote>
-<p>法国大革命后，古典语文教育遇到了冲击，但是其衰落仍然经历了漫长的时间。如前文所说，直到 19 世纪末，当时的古典语文教育强度以今天的标准来看也相当惊人。</p>
-<p>直到 1902 年，法国中学会考才取消了对拉丁文作文和演讲的要求，同时在中学改革设置了“古典（语言）组”和“现代（语言）组”，“现代组”的拉丁文修习强度较低。</p>
-<p>但是在整整半个世纪当中，“古典组”都比“现代组”更受欢迎，而且后者常常被前者鄙视，被看作缺乏文化的泥腿子。直到二战后的 1956-1957 年，“现代组”的学生人数才超过“古典组”，拉丁文课时数也降到了不到 1902 年前一半的水平。</p>
-<p><strong>1968 年“五月风暴”后，古典语文在法国的地位一落千丈。</strong></p>
-<p>法国政府 1968 年后推出的法令规定，中学基础课由“三大主科”构成，它们分别是母语法语，数学，以及一门现代外语，拉丁文被正式踢出主科，变成了选修课以及人文基础课的一部分。到 1975 年，选修拉丁语参加中学毕业会考的学生数量，就只剩下 1968 年的 1/3 了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9afc4e9f0f6f21c833a3e8861cf33f77_720w.jpg?source=8673f162" alt=""><figcaption>1789 年法国大革命时，就有教育界的激进派就提出削弱乃至废除拉丁文教育，但是这一目标直到 1968 年五月风暴后才逐步实现。</figcaption></figure>
-<p><strong>20 世纪以来，古典语文教育不只在法国等欧陆国家衰落了，英国也经历了差不多的进程，更不用说拉丁文教学本来就不普遍的美国。</strong></p>
-<p>这种趋势引发了不少知识分子的惋惜，例如英国历史学家丹尼斯·海伊（Denys Hay）在 1975 年就抱怨说，由于古典语文教育的衰落，很多学生都读不懂他们母语文本当中的古典引语和典故了。</p>
-<p>这种情感不难理解，但是<strong>站在社会整体角度来看，古典语文教育的衰落有其必然性和必要性。</strong></p>
-<p>最主要的原因，就是<strong>在现代人所需的知识结构当中，古典语文的价值比较低，但是熟练掌握古典语文的成本又太高了。</strong></p>
-<p>学生们必须把有限的时间和精力放在更多实用知识上，包括数学、科学以及各种活语言，根本不可能像过去一样精通古典语文的听说读写译。</p>
-<p>于是，<strong>现代教育制度的普遍做法，是把古典语文的学习内容压缩到可接受的范围内。</strong></p>
-<p>比如只需要能读懂会翻译，不需要写作和演说。</p>
-<p>再比如不用阅读古代的书体（无标点繁体字），只要能看懂现代形式（简体字）就可以了。</p>
-<p>一些过于古老和复杂的文本（诘屈聱牙的先秦文言文）不作要求，能阅读普通文本就足够。</p>
-<p>控制难度和范围之后，古典语文教育就不是“拦路虎”了，也能帮学生建立一些基本的人文素养。</p>
-<p>在很多国家，古典语文依然是学校教育的专门课程。例如西班牙的拉丁文，印度的梵文，中小学生在学校当中要花几年学习。当然这些课程的要求普遍不高，一般从学校毕业几年之后，学生们就把相关知识全都还给老师了。</p>
-<p>至于汉语文言文，在中国的中小学教育当中甚至都不是独立课程，只是语文学科的一部分，学生也不需要认读繁体字，这些要求真的很低、很人性化了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-573399cc0f212873cd8c384d59434c63_720w.jpg?source=8673f162" alt=""><figcaption>一张常用繁体字对照表。今天的绝大多数学生都不会书写繁体字，认读繁体字对于许多人来说也很困难。</figcaption></figure>
-<p>另外，<strong>全世界古典语文的衰落背后，还有一个值得一提的因素，那就是古典语文作为上层通用语的生态位被英语占领了。</strong></p>
-<p>在古代，古典语文是宗教、学术、政治等上层活动的基础，因此精英阶层必须学习古典语文，不然根本参与不了这些活动，熟练掌握古典语文也是精英的身份象征之一。</p>
-<p>但是二战以来，特别是冷战结束之后，英语已经成为学术、外交、商业、旅行等活动的第一通用语。特别是在非英语母语人群当中，熟练掌握英语而非古典语文才是精英阶层的代表能力。</p>
-<p>当然，精通文言文、梵文、拉丁文这些古典语言的人依然会受到现代人的尊重，但是它们的通用性跟英语完全不是一个级别。</p>
-<p><strong>以上是事实陈述，而非价值判断。</strong></p>
-<p>英语的强势地位在当下是现实，与我们喜欢或讨厌这门语言没有关系。</p>
-<p>社会现实最直观的投射，就在我们的学校当中——</p>
-<p>英语占多少分数，多少课时？文言文又占多少分数，多少课时？</p>
-<p><strong>英语和文言文的地位，在教育体系里已经呈现得足够清楚。一个已经强调到不需要再强调了，而另一个已经削弱到不该再削弱了。</strong></p>
-<p>所以说，这是个不以感情为基础的现实判断：</p>
-<p>文言文已经不挡路了，再削，就真要切到手了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0090ad7833c1e1169cda5db05dbdb5c0_720w.jpg?source=8673f162" alt=""><figcaption>当代精英身份的象征，是熟练掌握英语而非古典语文。后者在社会活动当中的生态位被前者夺走了大半。</figcaption></figure>
+<p>这个问题跟我是专业对口了，我还是比较擅长玩西瓜的。</p>
+<p>欧洲的主流西瓜品种都来源于美系，二战后引进了美国的三大西瓜品类：查尔斯顿灰、绯红甜心和糖宝宝。</p>
+<p>美国种西瓜集中在南方两大种植带。一个是东南部亚热带温润区，如佛罗里达、佐治亚、南卡、德州东部。另一个是西南部干旱 / 半干旱荒漠区，如加州、亚利桑那。</p>
+<p>从南方的佛罗里达运到北方的华盛顿，要跑 1800 公里。</p>
+<p>从南方的加州帝国谷运到华盛顿，要跑 2200 公里。</p>
+<p>美国的东北部 + 五大湖地区，人和合计 1.2 亿人，<strong>这么大的消费市场决定了美式西瓜的核心育种方向是硬皮。</strong></p>
+<p>美国的冷运非常强大的，人均冷库 / 冷链车数量在全球属于第一梯队。对于他们来说，西瓜保鲜的压力不大，<strong>选硬皮型是防止路上颠簸造成破损。</strong></p>
+<p>欧洲西瓜的主要产区是南欧，往北欧运输一样是上千公里级别的。</p>
+<p>欧洲和美国都面临共同的运输难题，所以西瓜的选育上一定会以硬皮为核心要求。</p>
+<p>我们国家没这么麻烦，东部季风带来优势使得华北、华东、华中、华南这些贴近主流消费市场的区域都可以种西瓜。</p>
+<p>我们也有耐储运的要求，但我们的需求点集中在韧皮上，出的是韧皮系列的西瓜。</p>
+<p>硬皮和韧皮是两个不同的育种思路。</p>
+<p>硬皮要求瓜皮填充大量的木质素和纤维素。</p>
+<p>韧皮则是依靠细胞排列密度，细胞果胶交联去提供弹性。</p>
+<p><strong>硬皮的西瓜天然的会牺牲糖度。</strong></p>
+<p>原因也很简单，光合作用产生的糖是有上限的，如果分出一部分碳去满足硬皮木质素的碳骨架，留给果肉的糖就会少。</p>
+<p>我们国家宁夏的砂西瓜，主要品种是金城 5 号，属于刚性硬皮瓜，适合大宗运输。</p>
+<p>甘肃、宁夏那儿昼夜温差大，西瓜上限高。但这个品种的固有缺点导致其受东部主流品种美都、8424、京美等系列的冲击非常大。</p>
+<p>美都这些可以去卷风味，金城 5 只能去卷价格。</p>
+<p>卷价格在农业中是一个恶性循环，这几年宁夏的瓜越来越难卖了。这个聊起来比较复杂，后面再说。</p>
+<p>我们先看点欧洲的乐子。</p>
+<p>遗传学之父孟德尔是奥地利人。但育种行业最先发展的却是美国人。</p>
+<p>孟德尔的《植物杂交试验》1866 年发表。</p>
+<p>发表之初无人理会。一直到孟德尔死后 16 年，德弗里斯等人进行杂交研究时才把孟德尔的论文翻出来，让遗传学理论重现天日。</p>
+<p>也就是说，杂交育种这项手艺一直到 1900 年才开始面向整个科学界。欧洲开始把这项技术往大田农业、果蔬落地上发展。</p>
+<p>结果到了 1914 年，欧洲开始打仗了。好不容易有了一战停火，又遇到了 30 年代的经济大萧条。</p>
+<p>整个欧洲的杂交技术发展节奏完全被这两个事件给打断了。</p>
+<p>与之相对应，美国受战争冲击小。同样是大萧条，美国的联邦 / 州政府意识到杂交技术是摆脱目前农业困境的一个突破口，所以把大量的公共资金投入到玉米等主粮作物上的杂交研发。</p>
+<p>……这个理解起来有点绕。</p>
+<p>大萧条时期，美国的私人农场受制于产品成本和售价倒挂，不敢种，不敢卖。</p>
+<p>既然成本高于售价，那么通过技术手段，提高产量，把农业成本压得更低，市场是不是就可以重新活跃了？</p>
+<p>那个时间段，私人农场是摆烂的，但是各路大学 / 农业企业是愿意立项的，政府的公共资金也是舍得投钱的。</p>
+<p>跟我们国家一样，杂交技术最先是保证主粮的基本盘。从 1920 年起，美国大概花了 20 多年的时间在主粮杂交上，积累了技术经验。</p>
+<p>等二战后，经济开始复苏，杂交技能点就开始往提高人们生活水平的各种果蔬上点。</p>
+<p>结合美国产区距离消费市场远的痛点，美国人把西瓜育种的最高优先级定义为硬皮，并且在 50 年代成功推出了最初代的消费类西瓜：查尔斯顿灰。</p>
+<p>欧洲一看，哟吼，我们也是这样啊。</p>
+<p>欧洲主要西瓜产区是西班牙、意大利、塞浦路斯、希腊这些南欧国家，其中西班牙是最核心的地区，占据欧盟西瓜产量的 45%以上。</p>
+<p>从西班牙穆尔西亚到德国汉堡，一样得跑 2100 公里。</p>
+<p>在这种需求下，即便吴明珠院士成功培育出了甜度之王 8424，欧洲的主流品种还会是选择美系硬皮杂交瓜。</p>
+<p>从技术角度来说，在高纬度的北欧种西瓜并不难，种薄皮 8424 不难，种硬皮 Style 也不难。</p>
+<p>可它的成本爆炸。</p>
+<p>就比如德国吧。</p>
+<p>德国农业主产区波德平原，夏季白天温度约 22 度，夜晚 14 度，距离西瓜膨大，积攒糖分的最佳温度 28 度还有一定差距。、</p>
+<p>而且光照问题他们解决不了。</p>
+<p>德国处于盛行西风带，地势平缓，北大西洋水汽可以畅通无阻深入全境。</p>
+<p>水汽进入内部不一定会降雨，但遇到温度降低，很容易形成层云 / 薄云。</p>
+<p>所有水果都一样，糖度只会来源于光合作用。植物吸收二氧化碳产生的糖叫一级代谢物，至于其他的酯类、醛类、呋喃酮类香氛物质，属于次级代谢物。</p>
+<p>简单说，没有强光合作用，西瓜就不可能甜。德国的农业主产区天生的光照不足，只能选择生长周期长的，通过时间去换积温，换干物质积攒。</p>
+<p>可能有些人会觉得西瓜要长很久。</p>
+<p>这么说吧，从一个拳头大的小西瓜长到 10 斤重，只需要 30 天。西瓜所有的糖分积累也只会在这 30 天。</p>
+<p>之前有朋友跟我聊这个话题，说四川也是多云天气，为什么四川能种西瓜。</p>
+<p>emm……说个四川朋友可能不开心的了。</p>
+<p>同样是美都，8424，四川盆地内部的西瓜糖度在全国范围看，只能是第二梯度，中心糖度维持在 11.5-12.5。</p>
+<p>对比行政区划属于四川，但地理位置不在盆地内部的攀枝花 - 盐边这处干热河谷，那儿温度高，光照够，西瓜糖度可以冲到 14。</p>
+<p>再者，四川种西瓜只是缺光，不缺热。即便是用大棚保温，我们用一层薄膜就可以了。而德国那儿得用文洛式玻璃大棚，并且使用天然气给大棚加温。</p>
+<p>前面说了，技术上没什么难的，成本上会很爆炸，加上种出来的品质也比不得西班牙强光照的产区，北欧高纬度带种植西瓜的意愿非常非常低。</p>
+<p>所以又回到了开头聊的，欧洲西瓜产区集中于西班牙、希腊、意大利这些低纬度南欧区域，考虑到运输难题，必须选硬皮的。</p>
+<p>美国的查尔斯顿灰是吧？</p>
+<p>它不好吃。</p>
+<p>那就自己育。</p>
+<p>欧洲的育种业只是说起了个大早，赶了个晚集。好久好在，晚是晚，水平很不错。</p>
+<p>以查尔斯顿灰为遗传底盘，1992 年，西班牙开发出了 Bouquet 系列。2000 年，荷兰开发出了 Fashion/Style 系列</p>
+<p>现在欧洲商超里的主力流通品种是 Bouquet，高端精品市场是 Fashion/Style，礼品市场的迷你小瓜叫 Candy ball。</p>
+<p>这些品种保留了查尔斯顿灰的硬皮基因，然后导入了诸如 Crimon-sweet 的甜度基因，去提升可溶性糖的积累点位。</p>
+<p>这种导入不是转基因工程，是靠大概 8-12 代的杂交回交让种子摆脱性状分离，形成稳定的自交纯合系种子。</p>
+<p>杂交要 8-12 年，转基因 2 年就够了。欧盟的转基因审核体系是全球最严格的，比我们这儿还苛刻。</p>
+<p>你也知道欧洲经常闹游行，讲环保，一个绿党把几十年的德国工业基础干废了。他们那儿民众对政治的参与度极高，老百姓有各种各样的方法让转基因食品落地不了。</p>
+<p>扯远了，还是讲西瓜。</p>
+<p>硬皮路线是欧洲西瓜育种的第一选择，这没得商量。想提升口感，靠的是其他优势品种的杂交，实现基因重组。</p>
+<p>这里的重组一是考量可溶性糖的积累点位，二是叶片的光合能力，三是控制品种大小。</p>
+<p>前两个你们好理解，第三个控制品种大小问题。</p>
+<p>又是老话重提。单位时间内的光合作用是有上限的。瓜越大，糖分越分散。</p>
+<p>最初的查尔斯顿灰能种到 18 公斤，而现在欧洲主流的 Bouquet 一般控制在 8-10 公斤。</p>
+<p><strong>欧洲对于硬皮西瓜的处理思路就这三条，增加糖度的积累点，增加叶片的光合造糖能力，减小体型让糖度更集中。</strong></p>
+<p>这里面又有个好玩的。</p>
+<p>为啥硬皮系列的西瓜能长那么大？而我们常见的韧皮瓜一般只有 5 公斤左右？</p>
+<p>因为皮硬，瓜不容易裂。</p>
+<p>就这么简单。</p>
+<p>都叫 watermelon 了，西瓜的膨大主要靠水分。如果给水速度超过了西瓜皮的细胞分裂速度，就会裂瓜。</p>
+<p>反之，硬皮系列有充足的木质素和纤维素保护，扛得住更猛的灌溉。我们国家东部地区种韧皮西瓜讲究用砂质的，排水性好的土壤。欧洲不需要，黏性大一点的也能种。</p>
+<p>并不是说硬皮西瓜一定不好吃。</p>
+<p>我前面有说宁夏砂西瓜主流品种是金城 5，硬皮大西瓜。那儿光照足，昼夜温差大，是种西瓜的天选之地，上限非常高。<strong>皮是硬了，但人家光热好，制造的总养分多，牺牲一点无所谓。</strong></p>
+<p>它真正的缺陷不在于糖度，在于个头太大，动辄 10 公斤的瓜，一家人要分两顿吃。吃不完就得放冰箱，很麻烦。</p>
+<p>对比美都这些个头小的，5-6 公斤的西瓜，随随便便就消灭了。</p>
+<p>宁夏甘肃的西瓜受制于运输距离，只能种硬皮的。但在体型上卷不过东部沿海种的小体型西瓜，被冲击的厉害，所以只能卷价格。</p>
+<p>卷价格就意味着卷成本，种植过程中减少有机肥的使用，强行夺取地力，依靠大量的化肥去生产，进而导致土壤损害严重，有机质迅速降低，土壤盐碱化。</p>
+<p>反过来，贫瘠的土壤，你用再好的化肥，也种不出好西瓜。</p>
+<p>恶性循环了。</p>
+<p>……这里得往深入里讲一点了。化肥的使用必须依靠土壤中的有机质，二者是互相搭配的。</p>
+<p>有机质充足的土壤会产生土壤胶体，将化肥锁住。同时有机酸以阴离子形态呈现，与化肥的阳离子静电结合。这两项可以保证化肥不会轻易被雨水、灌溉水冲走（淋溶作用）。</p>
+<p>肥存不住，用了等于白用。</p>
+<p>与宁夏砂西瓜相对应的是新疆吐鲁番西瓜。</p>
+<p>吐鲁番瓜属于带有地理标识的明星瓜，他们就会去种美都 /8424/ 早春红玉 / 京美 4K/ 众天满月 / 美颜……</p>
+<p>他们是什么瓜好吃，种什么。反正运输靠空运，消费市场也认这种地理标识的明星品牌，愿意接受溢价。</p>
+<p>吐鲁番是沙漠土质，种西瓜必须用大量的羊粪打底，否则再好的光合作用和昼夜温差也种不出来。</p>
+<p>想到个很有趣的事。</p>
+<p>你们觉得吐鲁番适合种西瓜吗？</p>
+<p>从气候环境来说，吐鲁番种西瓜本来是天谴之地。</p>
+<p>吐鲁番春季气温低，如果早播种西瓜，秧苗会被寒风吹干，造成叶片脱水死亡。如果按照原始农法，吐鲁番只能在 4 月末开始定植，7 月初上市。</p>
+<p>而 7 月份的吐鲁番温度太高，根系会因为高温受到严重损伤，吸水吸肥能力下降。加上 7 月份动辄 40 度的温度并不适合西瓜生长。</p>
+<p>80 年代的吐鲁番西瓜品质很一般。</p>
+<p>那时候流行的是吐鲁番隔壁的西瓜，高昌瓜。</p>
+<p>等农业大棚技术进入中国，吐鲁番人用了很简单的两个办法，一个是地膜保温，保护根部。另一个是小拱棚防风，保护叶片。</p>
+<p>这两项技术成本都不高，但可以将种植时间提到 3 月。</p>
+<p>3 月中旬种瓜，6 月中旬采收，卡住膨瓜期间吐鲁番白天 28 度，夜晚 15 度的完美温度区间。</p>
+<p>所以现在的吐鲁番明星瓜，靠的是高含量有机肥改良砂质土壤，一方面锁水锁肥，另一反面提供微生物的代谢物，靠的是早春播种，卡温度区间。靠的是 5 月中旬至 6 月中旬的温度和光照条件。</p>
+<p>这种条件酸是全世界种西瓜的天花板了，找不出更好的了。</p>
+<p>原本的天谴之地，靠着对农业技术的理解，以及硬件设施的进步，硬生生改造成天选之地。</p>
+<p>吐鲁番的西瓜叫祖师爷赏饭吃。</p>
+<p>农业技术是我们的祖师爷。</p>
+<p>不过中国倒是真有一个地方种西瓜是老天爷赏饭吃。</p>
+<p>云南元谋。</p>
+<p>我在很多回答里提过，我最喜欢的地理气候是热带 / 亚热带的高海拔气候。</p>
+<p>热带 / 亚热带决定了那里冬天不冷，高海拔决定了它们夏天不热。全世界最顶级的咖啡豆都产自于这些气候带，比如哥伦比亚，哥斯达黎加，埃塞俄比亚。</p>
+<p>云南相对差一点，对比满分级别的气候，属于 95 分吧。</p>
+<p>可云南元谋这个地方不一样，属于亚热带高海拔区域的干热河谷。</p>
+<p>河谷中地势更低，春季升温更快。</p>
+<p>他们种西瓜，不需要大棚，直接露天过冬，1 月份种，4 月中旬采收。采收季节的温度和光照跟吐鲁番的 5-6 月份没啥区别，都是完美匹配西瓜的。</p>
+<p>……元谋的瓜不好吃。</p>
+<p>我们都知道 4 月份的反季节西瓜卖得死贵死贵的，只要能种出来，水果商就会抢着收。</p>
+<p>这就导致了云南元谋种西瓜会非常依赖化肥进行促生促长，拼命压缩结瓜时间。早一天收获，就贵一分卖价。速生则导致了光合作用时间往往不够，差那么几天，口感就差 10%。</p>
+<p>而且比起新疆那种沙土，云南的红土地虽然谈不上好，但里面含有一定的有机质，以及微量元素，纯化肥种植倒是也能种出来。他们对于土壤改良兴趣不大。</p>
+<p>种植条件 + 盈利手段共同决定了，元谋这里占着西瓜的天选之地，硬生生做成了大路货。</p>
+<p>他们原本是有机会打造出第二个西瓜地理标志的明星品牌的。</p>
+<p>另外你需要理解一件事。西瓜的甜并不代表着西瓜的好吃。</p>
+<p>我在知乎带着粉丝们种过盆栽西瓜。他们用的是我配的土，我堆的肥。虽然大家伙第一次种瓜，但是有机肥的威力摆在那儿，种出来都说是小时候的味道。</p>
+<p>你该怎么去理解小时候的味道？</p>
+<p><strong>西瓜吃进嘴里，不仅甜，而且不腻，有种回甘的感觉。</strong></p>
+<p><strong>这就是有机肥带来的植物次生代谢物。</strong></p>
+<p>我们想让西瓜甜是一件很容易的事情，光照强，夜温适度，拼命给钾肥就行了。</p>
+<p>钾元素是植物体内的游离元素，它们并不会跟植物细胞结合。当果实开始膨大时，植物的果实内的细胞会主动把钾元素关进肚子里，造成果实内的钾含量浓度更高。</p>
+<p>浓度高则意味着渗透压强，果实像个水泵一样，在压力作用下，把植物体内的液态养分全部吸进来。</p>
+<p>又提到前面那句话了，单位时间的光合作用是有上限的。果实像水泵一样，把原本分配给叶子的养分给抽走，自己就会更甜。</p>
+<p>市面上卖的农业甜蜜素，本质上都是高钾肥。取这个名字是因为农民文化水平不高。（以前卖的退酸剂是含砷化物的，那种有毒，被禁了）</p>
+<p>碳水化合物是光合作用产生的一级代谢物，它决定了甜度。</p>
+<p>但光有甜不行，你平时买的很多西瓜都是入口甜，甜完之后齁，感觉嘴里黏糊糊，像撒了白砂糖，不舒服。</p>
+<p>这时候我们需要次级代谢物，比如西瓜的类胡萝卜素裂解香气物质，C9 醇醛挥发物，类黄酮酚类等。</p>
+<p>我们简称为风味物质，它决定了香气，酸度，以及回甘的感觉。</p>
+<p>次生代谢物并不是植物生存的必备因素，它只会在两种条件下形成。第一是受到威胁，第二是自己过得爽了。<strong>我们简称为胁迫论和诱导论。</strong></p>
+<p>胁迫手法中最典型的代表是辣椒。</p>
+<p>我们种辣椒，在结椒期会控制土壤含水量，让辣椒处于轻微旱胁迫的状态。</p>
+<p>当辣椒感觉自己缺水，为了避免自己叶片被吃，就会产生辣椒素进行防御。</p>
+<p>呃……在辣椒的认知中，辣椒素主要是防牛马羊这些动物啃食。牛马可不管什么叶子果子的，通吃。</p>
+<p>如果像小鸟一样吃辣椒果，帮助传播种子，辣椒是欢迎的。但是连叶子一起吃了，辣椒就扛不住了。</p>
+<p>我们种西瓜也会适度的旱胁迫，尤其是采收前的最后几天，会控水。这样可以增加甜度。</p>
+<p>诱导手法嘛……</p>
+<p>现在没人说得清。</p>
+<p>有机质充足的土壤是一个巨大的反应釜，各种微生物在其中活跃。它们吸收根系分泌出来的糖类物质，壮大自身。同时会分解突然中的矿质元素，变成分子结构更小的氨基酸 / 小肽等让植物吸收。</p>
+<p>我们只知道植物吸收些微生物代谢物会产生信号，信号随着维管束传递，让植物意识到自己现在过得很爽，有多余的能量去产生次级代谢物，也就是那些让你吃得很开心的风味物质。</p>
+<p>但我们无法去定义到底是哪一种菌，在哪一个时期，受什么样温度水分影响，产生了什么样的代谢物，卡住了植物的什么窗口，去产生这种信号。</p>
+<p>这种高有机质的土壤是巨大的反应釜，完全没法去定义其中的变量。想从数学角度弄明白它，我们首先得攻克 N-S 方程。</p>
+<p>目前人类的认知仅局限在我们知道它有用，但是不知道哪种有用。</p>
+<p>所以我们的解决思路是，尽可能增加堆肥的原材料，让其中的微生物种群更多。这样瞎猫碰上死耗子，总有一种是对路的。</p>
+<p>以上这种多原材料堆肥的种植方法是农科院的一个朋友教我的，我之前在知乎展示过的堆肥，豆粕 / 菜籽饼 / 松针 / 玉米秸秆 / 水稻秸秆 / 油菜花秸秆 / 以及各种动物源的蛋白质（农场夏天被热死的鸡）</p>
+<p>堆肥的过程很累，种出的瓜也很好吃。我和老朱今年种出来的西瓜，不多，1 万多斤，5 天卖光。价格也不低，不含运费，将近 2 块 8 一斤。同城配送，客户自己掏 10 块钱。</p>
+<p>而我们农场这种种植手法是东部地区的主流种瓜方式。（虽然大部分农场做不到我这么细致，主要是靠羊粪和鸡粪的混合）</p>
+<p>因为我们没办法去跟新疆，甘肃，宁夏拼光热条件，我们这儿种出中心糖度 14 的瓜要看命，大部分时候只能冲到 13.8，个别年份气候好，可以冲到 14.5。大西北那儿的西瓜，14.5 是常态。</p>
+<p>所以像江苏东台，以及我们安徽合肥这里种西瓜，只能在次级代谢物上开卷。</p>
+<p>对比元谋的老天爷赏饭吃，大西北的祖师爷给饭吃，我们这儿叫作自己抢饭吃。不拼糖度，拼风味，再结合市场距离优势，拼新鲜。</p>
+<p>欧洲那儿是卷不起来的，气候条件决定了，就那么几个地方适合种西瓜。</p>
+<p>高有机质的做法他们都会，这里没有技术壁垒。我们能用的，他们也知道怎么用。</p>
+<p>可为他们什么要那么麻烦呢？土壤增加地力，靠还田就行了。</p>
+<p>欧洲除了定义做精品果的果园，没谁会搞那么多麻烦事。性价比太低了。反正都是收完送冷库，冷链卖超市。</p>
+<p>美国的逻辑差不多，而且更夸张。他们的专业细分度比我们这儿高，有些果园就是定义做加工类的，比如罐头，果味饮料。他们的诉求就是丰产。另一部分果园定义做鲜食市场的，核心要求还是耐储运。</p>
+<p>从细分角度，我们国家的果园玩的是一级果，鲜食市场。次级果，加工行业。采摘时候就开始进行区分。这样可以实现利润最大化。</p>
+<p>但这里有个前提，这种果园通常都是小果园，100 亩左右。如果换成美国那种千亩级别的，哪怕是我们国家的种植者，也会去重新定义。</p>
+<p>今天这篇聊了 7000 字，除了讲果皮硬度外，顺便说了下水果风味。</p>
+<p>从欧洲每周种植者的选择来说，气候条件是第一位的，这决定能不能种。然后考量的运输储存，市场距离等，这决定能不能卖。接下来考量的才是口味和产能。</p>
+<p>我举了我们国家西北、元谋和东部地区种西瓜的例子，也是为了说明市场条件对于品类和种植方式的影响。</p>
+<p>千万不要觉得我们国家的农法就领先欧洲美国。</p>
+<p>因为我们会的技术，他们都会。</p>
+<p>他们会的，我们现在也会。</p>
+<p>全球化体系下，气候土壤和水资源才是最重要的条件。农业技术层面的传播只会卡在育种的父本母本，至于滴灌、EC 控制、降温技术，全部是拿来主义。</p>
+<p>就像我说元谋那里吧，他们错失了把自己打造成地理明星品牌的机会。但不代表人家不懂这些。元谋主要种植的是芒果树。</p>
+<p>一棵芒果树能产 15-20 年，当地果农对土壤的养护非常细致的，堆肥改土，冬季除虫，该做的一项不落。</p>
+<p>毕竟这是固定资产嘛。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1893326454940475483">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2067934077106087068">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792650</guid>
-                <pubDate>Sat, 19 Sep 2026 19:55:25 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792673</guid>
+                <pubDate>Sun, 20 Sep 2026 02:57:42 GMT</pubDate>
             </item>
             
             <item>
-                <title>有哪些外行人看来很蠢的设计实际上却是精妙无比？</title>
-                <link>http://daily.zhihu.com/story/9792651</link>
-                <description>剁椒鹿，全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆） 查看知乎原文 你的美国朋友听说你来美国旅游，很高兴的邀请你去参观他新修的农场： 快到的时候你给朋友打电话，没人接。 你本来想在门口等一会儿，结果看到农场入口时，反而愣住了。 朋友果然是第一次建农场，有点犯蠢了： 这个农场怎么连个门都没有？ 这样晚上没人看管的时候牛不会偷偷跑出去吗？ 你慢慢把车开过去，车轮压过铁管，发出一串空洞的咣…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-a8e866629f6b216ad81b3f3a123187da.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>瞎扯 · 如何正确地吐槽</title>
+                <link>http://daily.zhihu.com/story/9792678</link>
+                <description>瞎扯 · 为什么有环法自行车赛，却没有环中国自行车赛？ 知乎日报 查看知乎原文 Q：为什么有环法自行车赛，却没有环中国自行车赛？ @MRJH ：图片取自网络，好消息路修通了，可以开赛了 Q：语言学中有哪些类似「哈基米」的现象？ @SONG Kevin ：法语酸菜： ChoucrouteChou：菜Croute来自德语Kraut德语酸菜：Sauerkrautsauer：酸的kraut：菜所以法语里的…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -378,95 +415,60 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 为什么有环法自行车赛，却没有环中国自行车赛？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-cced0971af5ad0397022d2c464800995_l.jpg?source=8673f162">
-<span class="author">剁椒鹿，</span><span class="bio">全网同名，有公号更新精选内容（私信都会看，已婚已育老太婆）</span>
-<a href="https://www.zhihu.com/question/32189846/answer/2081672345626981901" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>你的美国朋友听说你来美国旅游，很高兴的邀请你去参观他新修的农场：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6d994611c80bd435f8f23ce449516fdb_720w.jpg?source=8673f162" alt=""></figure>
-<p>快到的时候你给朋友打电话，没人接。</p>
-<p>你本来想在门口等一会儿，结果看到农场入口时，反而愣住了。</p>
-<p>朋友果然是第一次建农场，有点犯蠢了：</p>
-<p><strong>这个农场怎么连个门都没有？</strong></p>
-<p>这样晚上没人看管的时候牛不会偷偷跑出去吗？</p>
-<p>你慢慢把车开过去，车轮压过铁管，发出一串空洞的咣当声。</p>
-<p>你从后视镜里看见有几头牛站在不远处，望着你，耳朵微微转动，却没有一头靠近入口。</p>
-<p>你感到有些奇怪。</p>
-<p>农场里面比你想的开阔。</p>
-<p>没有常见的木头大门，也没有气派的围墙，只有广阔的草地。</p>
-<p>你沿着草地开了好久终于来到边缘，只看见很细的线</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-501f62233252d0491dbbf40b2900daa1_720w.jpg?source=8673f162" alt=""></figure>
-<p>这也能防住牛？</p>
-<p>你印象中牛的力气是很大的，这种围栏总感觉被牛撞一下就会断了。</p>
-<p>你接着参观牛棚，发现牛棚的门口不是直接进去的，而是饶了一个大圈：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8afc1cce33a8b77c34e39c7477b70521_720w.jpg?source=8673f162" alt=""></figure>
-<p>这设计看起来就更不合理了，进来地方挺大，真正入口却很小，这样不会造成拥挤和踩踏吗？</p>
-<p>而且弯弯绕绕的，多浪费空间啊。</p>
-<p>继续往前，是一段红旗绳。</p>
-<p>红布条一面一面挂在绳子上，沿着林地边缘拉开。远看像节庆装饰，近看又不像。</p>
-<p>旁边的小牌子写着：防狼红旗绳，临时使用，请勿拆除。</p>
-<p>你觉得这更好笑了。</p>
-<p>几面小旗能防狼？</p>
-<p>今天参观下来没感觉到什么特别高科技的地方，只觉得处处奇怪，而且真的很蠢。</p>
-<p>你不由得再给朋友打了几个电话，朋友终于出来接你了。</p>
-<p>你首先就劈头盖脸的提醒朋友太不小心了，门口连个门都没有。</p>
-<p>朋友却笑着说，门口那几根铁管加上地上的坑就是牛栅栏（cattle guard），在牛羊看来，那几根管子中间的阴影不仅看起来深不可测，实际走上去也会把蹄子陷进去，实在太可怕了，跟真的悬崖没甚区别。</p>
-<p>它们都不会尝试从那里走出去的。</p>
-<p>而车子和人可以轻易通过，这样不用每次开车进出都去开关门，实在是方便。</p>
-<p>你觉得简直不可思议，你朋友肯定是在骗你。</p>
-<p>你朋友反问你“你是如何用眼睛计算距离的？”</p>
-<p>用眼睛计算距离？什么东西，没听说过。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ad2d52631597ed81daece14e0a403fba_720w.jpg?source=8673f162" alt=""></figure>
-<p>你朋友接着说，人眼能够直观感觉到物体的远近是因为两只眼睛看到的东西有视差。</p>
-<p>双眼<span class="nolink">视差</span>有时候也被称为<span class="nolink">立体视差</span>，是一种<span class="nolink">深度线索</span>。物体离<span class="nolink">观察者</span>越近，两只眼睛所看到物体的差别也越大，这就形成了双眼视差。</p>
-<p>大脑可以利用对这种视差的测量，估计出物体到眼睛的距离。</p>
-<p>也就是俗称的近大远小，别看成年人觉得近大远小很简单，对于小孩子来说这个需要几年的视觉处理才能形成远近的概念，这也是为什么有些婴儿容易从高处跌落的原因，因为他们还没建立远近高低的概念。</p>
-<p>不同动物的立体视觉不一样。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4b548491b8115c63e6c343b0e4afec10_720w.jpg?source=8673f162" alt=""><figcaption>紫色是双目视觉覆盖范围，蓝色仅单目</figcaption></figure>
-<p>这是马（上）和猫狗单目视野和双目视野以及盲区的区别。</p>
-<p>可以看见马的盲区是最少的，但是对应的马立体成像（双目视野）也是最差的。</p>
-<p>牛跟马一样，两只眼睛看的范围广，但是双目视野，也就是计算深度和距离的功能差。</p>
-<p>所以牛马羊等食草动物面对陌生的环境不敢贸然尝试。</p>
-<p>朋友又拿了一篇论文给你看:</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c9f14f80aff54358cb217815f8b7a8cf_720w.jpg?source=8673f162" alt=""></figure>
-<p>研究实际观察了 74 头牛，比较地面没有明显阴影、柔和阴影和高反差锐利阴影时的行为。</p>
-<p>结果非常明确：锐利的明暗反差显著增加牛的停步、低头和后退行为。</p>
-<p>门口的钢管加上地上的深坑恰好制造了一连串非常强烈的亮钢管—暗缝—亮钢管—暗缝。</p>
-<p>即便有勇敢牛牛敢于尝试，也马上会体会蹄子陷下去的无助感。</p>
-<p>所以它们连试都不会试的。</p>
-<p>至于你看到的那个很细的线的栅栏，其实是通电的，虽然是微弱的电流，但是只要牛羊感觉到一点点不舒服，都不会强行去撞开那个电线围栏。</p>
-<p>不过红旗防狼倒是暂时的，实验证明这些亮色的流动红旗能够制造很强的视觉刺激，能吓退狼。</p>
-<p>在加拿大两次持续约 60 天的试验中，狼一共接近围栏 23 次，却没有越过，被保护牧场没有发生牛被捕食。</p>
-<p>与此同时附近牧场仍有牛被狼杀死。</p>
-<p>但是也就最长两个月左右。</p>
-<p>毕竟狼，是肉食动物。</p>
-<p>杂食动物和肉食动物需要在捕猎中学习技巧，所以学习能力相对食草动物往往要强一些。</p>
-<p>一排以前没见过、不断摆动、形状异常的东西，构成了一道视觉上非常突兀的边界。</p>
-<p>对于谨慎的大型捕食者来说，在不知道它是什么之前，绕开比硬闯更划算。</p>
-<p>但是两个月之后狼知道那是假的装饰以后，红旗就黔驴技穷了。</p>
-<p>这时候就要换新的防狼措施了。</p>
-<p>不过门口的几根钢管永远不用换，畜牧业用了这么多年了，一直有效。</p>
-<p>这就是管理的智慧，你以为很蠢，但是牛羊更蠢，你只需要吓吓它们那是悬崖，它们就真的一辈子不会去跨过它。</p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/421173452/answer/2031110149365049031">为什么有环法自行车赛，却没有环中国自行车赛？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/a3473dc9d447b74bbfba5e5f8f2af841" target="_blank">@MRJH</a></div>
+<span class="UserLink">：图片取自网络，好消息路修通了，可以开赛了</span></blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-a3116919b9e385515d52462bd8396b40_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1924037724484122124/answer/1974604805637952664">语言学中有哪些类似「哈基米」的现象？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/79084b0bbf92acd86e25ab7eabbb171d" target="_blank">@SONG Kevin</a></div>
+<span class="UserLink">：法语酸菜： Choucroute<br>Chou：菜<br>Croute来自德语Kraut<br>德语酸菜：Sauerkraut<br>sauer：酸的<br>kraut：菜<br>所以法语里的酸菜其实是菜菜的意思</span></blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/357796054/answer/2002076747160626718">你认为男生最加分的行为是什么？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/4d7409e3e4e089715a0e93f0b8f196fe" target="_blank">@大陆诗人</a></div>
+<span class="UserLink">：加分的我不知道，但是扣分的应该是这些</span></blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-c1f9adec6bc072818f6057424eca506d_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2061806723862631112/answer/2071522278869841405">如果城市允许骑马，且有公共马厩供马休息，你愿意骑马通勤吗？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0d745e454559bff79a9f4fbd1caef211" target="_blank">@烟之骑士蕾姆</a></div>
+<span class="UserLink">：热知识：汽车刚造出来的时候是环保的象征。<br>尾气再怎么污染也比马粪强的多。</span></blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/493001946/answer/3611775137">为什么日本音译就是搞笑的，中国音译就是可以被接受的？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/3a3b4033ef274902ab01b35c3b5ce117" target="_blank">@Leopo</a></div>
+<span class="UserLink">：那我就要拿出这张图了，日式翻译的巅峰，前无古人后无来者之翻译字母。</span></blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-59026f6aaac6f03441973c33d2b8c9f7_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<hr>
+<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
+<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
 </div>
 </div>
 
-
-<div class="view-more"><a href="https://www.zhihu.com/question/32189846">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792651</guid>
-                <pubDate>Sat, 19 Sep 2026 19:55:25 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792678</guid>
+                <pubDate>Sun, 20 Sep 2026 02:57:43 GMT</pubDate>
             </item>
             
     </channel>
