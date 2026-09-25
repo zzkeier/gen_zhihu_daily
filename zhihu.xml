@@ -4,103 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Thu, 24 Sep 2026 21:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 03:02:18 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>我经常在闹钟响前几分钟自己醒来，这是巧合，还是身体真的会「算时间」？</title>
-                <link>http://daily.zhihu.com/story/9792761</link>
-                <description>我经常在闹钟响前几分钟自己醒来，这是巧合，还是身体真的会“算时间”？ 岳文昌，相互了解，平等对待 查看知乎原文 不是巧合。身体会算时间，而且这个问题 1999 年就在实验室里被测出来了：只要你睡前知道几点要起，大脑会在那个时间点之前一小时开始给身体打预备针。 题主问睡着以后大脑怎么知道快到点了。答案分两个层面：一层是不用你操心的生物钟，它每天在固定时刻把激素推高；另一层是你睡前那个&quot;明天六点要起&quot;…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ce27ab57540fcc4a27f58d383bae6e65.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title">我经常在闹钟响前几分钟自己醒来，这是巧合，还是身体真的会“算时间”？</h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-fb50a61dfd9d8cb5d7c69549bc8f3200_l.jpg?source=8673f162">
-<span class="author">岳文昌，</span><span class="bio">相互了解，平等对待</span>
-<a href="https://www.zhihu.com/question/2081758183014646286/answer/2083858607653794794" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>不是巧合。身体会算时间，而且这个问题 1999 年就在实验室里被测出来了：只要你睡前知道几点要起，大脑会在那个时间点之前一小时开始给身体打预备针。</p>
-<p>题主问睡着以后大脑怎么知道快到点了。答案分两个层面：一层是不用你操心的生物钟，它每天在固定时刻把激素推高；另一层是你睡前那个"明天六点要起"的念头，它会在睡眠中被执行。</p>
-<p>第二层是这个问题真正有意思的地方。</p>
-<p>下面先讲那个实验，再讲背后的两套机制，最后说题主观察到的"有重要事情时更容易提前醒"。</p>
-<p>……</p>
-<p>实验：告诉你几点起，血里的激素就几点前开始涨。</p>
-<p>1999 年 Nature 上一项研究，找了 15 名作息规律的健康志愿者，平均 25 岁，每人在实验室睡三个晚上，整夜做脑电记录，每 15 分钟抽一次血，测两种激素：促肾上腺皮质激素（ACTH）和皮质醇。</p>
-<p>三个晚上的安排是这样的。午夜熄灯。一个晚上告诉他们六点叫醒，另外两个晚上告诉他们九点叫醒。其中一个"九点"的晚上，研究者假称设备故障，实际在六点把人叫醒。</p>
-<p>三种条件的顺序在受试者之间打乱。事后访谈确认，除一个人之外，所有人都真的相信了被告知的起床时间。</p>
-<p>结果是这样的。三种条件下，ACTH 和皮质醇在夜里都缓慢上升，到凌晨四点半之前曲线几乎重合。从四点半开始分岔：预期六点起床的那一晚，ACTH 在最后一小时明显上升，到六点时平均 37.3 pg/ml；同一批人在"以为九点起、实际六点被叫醒"的那一晚，六点时只有 25.5；预期九点、真的睡到九点那一晚，六点时是 26.5。前者和后两者的差异都有统计学意义。</p>
-<p>也就是说，身体在六点前一小时开始准备起床，这个准备只在你预期六点起的时候出现。你以为九点起，六点被叫醒时身体是没有准备的。</p>
-<p>这个设计里最要紧的是被骗的那一晚：同样是六点被叫醒，只因为事先不知道，激素就没有提前上升。它把六点这个时刻本身、被叫醒这个动作本身的影响都排除掉了，剩下的差别只能来自睡前的预期。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-24d86f01f7a027717e95f7ec3ec5186a_720w.jpg?source=8673f162" alt=""><figcaption>Born 等 1999：15 人三晚，凌晨 4:30 前三条曲线几乎重合；预期 6:00 起的那晚 ACTH 在最后一小时上升到 37.3 pg/ml，被骗的那晚只有 25.5。曲线形状为示意，数值按原文。</figcaption></figure>
-<p>作者的结论写得很克制：夜间 ACTH 的调节不只服从昼夜节律，还包含一个对睡眠结束的预期性准备过程。</p>
-<p>……</p>
-<p>第一层机制：昼夜节律本来就在往起床时间推。</p>
-<p>ACTH 和皮质醇有稳定的昼夜节律，由下丘脑视交叉上核里的生物钟驱动。它们在入睡后的前半夜处于最低点，后半夜逐渐上升，在自然醒来前后达到一天的高峰。2002 年一篇关于睡眠与下丘脑垂体肾上腺轴的综述总结了几十年的数据：皮质醇的昼夜节律相对独立于睡眠本身，即使不睡，它也按点上升；睡眠会压低它，觉醒会推高它。</p>
-<p>所以就算你什么都不想，只要作息规律，激素曲线也会在你习惯的起床时间前爬到高位。这解释了为什么很多人在固定作息下，不定闹钟也能在差不多的时间醒。生物钟记的是你的习惯时间，不是钟表时间。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-89690e7fd783842812478e67494d802f_720w.jpg?source=8673f162" alt=""><figcaption>生物钟（视交叉上核）和 CRH 神经元都在下丘脑；CRH → 垂体 ACTH → 肾上腺皮质醇，信号推动警觉和睡眠深度。AI 生成示意图，非真实解剖图。</figcaption></figure>
-<p>皮质醇在醒来之后还有一个额外的冲高，醒后 30 到 45 分钟达到峰值，叫皮质醇觉醒反应。2008 年一篇综述认为，它的大小和你对即将到来的一天的预期有关。这一点后面会用到。</p>
-<p>……</p>
-<p>第二层机制：你的预期在睡眠中被执行。</p>
-<p>上面那个实验的关键，是把"习惯"和"预期"分开了。三个晚上作息相同，生物钟一样，唯一不同的是睡前被告知的起床时间。差别只出现在预期六点起的那一晚，说明那一小时的额外上升来自预期，不是节律。</p>
-<p>预期是怎么在睡着之后被执行的，原文没有直接测到中间环节，下面是一个和已知生理相符的推测。睡眠不是大脑关机，下丘脑和脑干里管觉醒的核团整夜在低强度工作，前额叶和海马在睡前接收到的"六点要起"这个信息，会以某种形式保留在这些系统里。ACTH 属于下丘脑垂体肾上腺轴，这条轴的顶端是下丘脑分泌 CRH，而 CRH 本身就是一种提高警觉、损害睡眠的分子。预期起床时间到了，CRH 释放增加，ACTH 随之上升，皮质醇跟上，睡眠变浅，你在闹钟前几分钟睁开了眼。</p>
-<p>这里有一个细节值得说。后半夜的睡眠本来就以浅睡和快速眼动睡眠为主，深睡眠集中在前半夜。所以这个提前的激素上升是在一个本来就容易醒的时段发生的，推一把就醒了。如果你凌晨两点被要求起床，同样的预期机制很难把你从深睡眠里拉出来。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d26b3e4b81300476fd162d6730fd8d9f_720w.jpg?source=8673f162" alt=""><figcaption>一夜睡眠结构示意：深睡眠集中在前半夜，后半夜以浅睡和快速眼动为主，提前的激素上升落在本来就容易醒的时段。</figcaption></figure>
-<p>……</p>
-<p>题主说有重要事情时更容易提前醒，这一点也对得上。</p>
-<p>上面提到的觉醒反应综述提出了一个假说：皮质醇醒后冲高的幅度，和你对这一天的预期有关，预期负担越重，冲高越明显。而 ACTH 和皮质醇本来就是身体对压力的核心反应激素，会在压力事件之前预先分泌。第二天有考试、有面试、要赶早班飞机，睡前的预期更强，夜里的准备启动得更早、更猛，人就更容易在闹钟前醒，而且醒来时常常心跳偏快、一下子就清醒了，那是皮质醇和交感神经一起在起作用。</p>
-<p>代价是睡眠质量。这种提前醒不是自然醒，是被激素推醒的，后半夜的睡眠通常更浅、更碎。所以"重要日子前一晚没睡好"和"闹钟前就醒了"是同一件事的两面。</p>
-<p>这个机制也解释了另外几种常见体验。作息越规律的人，提前醒越准，因为第一层的生物钟被训练得越稳；作息乱的人，第一层帮不上忙，只能靠第二层的预期硬推，醒来更累。年纪大了以后皮质醇的节律整体往前移，很多人不想早醒也早醒，那是第一层自己提前了。长期焦虑的人，第二层几乎每晚都在运行，凌晨三四点醒来再也睡不着，是同一套激素在做另一件事。</p>
-<p>实际上能用的只有两点。想让身体准时叫你，靠的是固定起床时间，而不是睡前反复默念；固定几周之后，第一层会接管，第二层就不用每晚出力。重要日子前一晚提前醒是正常反应，不用为此再焦虑，但也别把它当闹钟用，预期机制的误差是几十分钟量级，实验里也只是让人在最后一小时里更容易醒，没有人能精确到分钟。</p>
-<p>……</p>
-<p>回到题主的问题。</p>
-<p>睡着以后大脑怎么知道快到点了：两套系统。生物钟按你的习惯时间把激素推高，这是不用想的；睡前形成的起床预期在睡眠中继续被执行，在预期时间前一小时把 ACTH 推上去，这是想了才有的。两者叠加，落在后半夜本来就浅的睡眠上，你就在闹钟前醒了。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-58491ed1a236df0c54ede2ea5f2a17b9_720w.jpg?source=8673f162" alt=""><figcaption>身体算时间的两套机制：生物钟按习惯时间推高激素；睡前的预期在睡眠中继续执行，预期时间前一小时把 ACTH 推上去。</figcaption></figure>
-<p>它不是巧合，是身体在替你守时。只是这个守时的代价，是它用了应对压力的那套激素来做闹钟。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-668ba3eb6a7207e41d97fbe81b6208a0_720w.jpg?source=8673f162" alt=""><figcaption>闹钟还没响，身体已经在准备：睡前的预期在睡眠中被执行。AI 生成示意图。</figcaption></figure>
-<p><strong>参考</strong></p>
-<ol>
-<li>Born J, Hansen K, Marshall L, Mölle M, Fehm HL. Timing the end of nocturnal sleep. Nature. 1999;397:29-30. DOI: 10.1038/16166</li>
-<li>Steiger A. Sleep and the hypothalamo-pituitary-adrenocortical system. Sleep Med Rev. 2002;6:125-138. DOI: 10.1053/smrv.2001.0159</li>
-<li>Fries E, Dettenborn L, Kirschbaum C. The cortisol awakening response (CAR): facts and future directions. Int J Psychophysiol. 2009;72:67-73. DOI: 10.1016/j.ijpsycho.2008.03.014</li>
-</ol>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2081758183014646286">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792761</guid>
-                <pubDate>Thu, 24 Sep 2026 21:02:36 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>为什么不允许焚烧秸秆？</title>
-                <link>http://daily.zhihu.com/story/9792762</link>
-                <description>Alfred大老虎，拼多多小店：大老虎的农夫果园 查看知乎原文 小麦秸秆直接还田在黄淮海平原是个坑。尤其是河南，绝对的死局。 不知道大家有没有关注过厄尔尼诺效应给农业带来的影响。简单来说，高温是造成玉米减产的头号元凶。 像今年 8 月，黄淮海平原随便哪个地方，气温直冲 35°C。 不要觉得修了水库沟渠，有了水资源储备，粮食就是安全的。玉米的花粉是非常脆弱的三细胞花粉，属于脱水敏感性。 气温超过 3…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c547009eefe31ec592975cf333588930.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>义乌开始卖载人飞碟飞行器了，单笔订单卖出 1.2 亿元，离普通人还有多远？商业化还要解决哪些问题？</title>
+                <link>http://daily.zhihu.com/story/9792786</link>
+                <description>太空僧，2022年新知答主｜航天及天文优秀答主 查看知乎原文 珍爱生命，远离这个型号。 （此处有修改）首先声明，本人与任何无人机品牌及相关利益方均无利益关系，以下仅为个人意见。 这种载人的飞行器，不论它外形怎样，本质就是一个大号的无人机。从下面的俯视图能很清楚地看出来，壳子去掉后，就是个多旋翼无人机（加个载人的乘客座不改变其无人驾驶的设计，它拿到的认证是无人机适航证，后面会写）。 从设计上看，这个…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-08850cf7350b52ca6f82bc281fef0395.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -120,131 +31,63 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-f2ea5ef8ad54e4ed3b9f7bda926e76f8_l.jpg?source=8673f162">
-<span class="author">Alfred大老虎，</span><span class="bio">拼多多小店：大老虎的农夫果园</span>
-<a href="https://www.zhihu.com/question/668221787/answer/2083689234557297933" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-2bcc599bdc722be2ec3a627e31a75f00_l.jpg?source=8673f162">
+<span class="author">太空僧，</span><span class="bio">2022年新知答主｜航天及天文优秀答主</span>
+<a href="https://www.zhihu.com/question/2083949287025788571/answer/2084009430434183091" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>小麦秸秆直接还田在黄淮海平原是个坑。尤其是河南，绝对的死局。</p>
-<p>不知道大家有没有关注过厄尔尼诺效应给农业带来的影响。简单来说，高温是造成玉米减产的头号元凶。</p>
-<p>像今年 8 月，黄淮海平原随便哪个地方，气温直冲 35°C。</p>
-<p>不要觉得修了水库沟渠，有了水资源储备，粮食就是安全的。玉米的花粉是非常脆弱的三细胞花粉，属于脱水敏感性。</p>
-<p>气温超过 32 度，花粉活力开始衰减，造成玉米少量授粉失败，形成秃尖。超过 35°C，玉米花粉脱离母体 2 小时就会死亡，造成大面积的空穗。超过 38°C，几乎就是绝收。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-db3dffdfc85a39d1dad3ece3ade3e215_720w.jpg?source=8673f162" alt=""><figcaption>玉米秃尖，主要成因是授粉失败</figcaption></figure>
-<p>河南现在的小麦 + 玉米的一年两熟模式已经走了 40 多年。历经过这么多次夏季高温，整个河南能保住玉米产量靠的就是四个字：<strong>麦收抢种</strong>。</p>
-<p>像豫南地区的小麦要在 5 月 20 日左右起镰，5 月 25 日至于 6 月 5 日完成玉米播种，7 月 20 日至 7 月 25 日完成玉米授粉。</p>
-<p>河南不同地区的收播时间，略有差异。比如豫北约在 6 月 1 日起镰收麦，争取在 6 月 15 日前完成夏玉米播种。但总体上都遵循一个原则：<strong>春争日，夏争时。夏播无早，越早越好。</strong></p>
-<p>我估计你可能想着，时间窗口这么紧，根本没时间去收秸秆，去粉碎还田。</p>
-<p>不不，你有点小看中国现代的农业设备了。</p>
-<p>90 年代我们看待美国的大型联合收割机是仰视的，觉得他们很牛逼。放 2026 年，国产的联合收割机与进口相比，各有所长。</p>
-<p>我们国内的联合收割机，一路开过去，同步完成小麦收获，谷物分离，秸秆粉碎。</p>
-<p>准确说，收下来的小麦秸秆，你想粉碎就粉碎，想捆扎就捆扎。完全看农户需求。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-05f59548d7c30821511e11654df8fb47_720w.jpg?source=8673f162" alt=""></figure>
-<p>美国的联合收割机胜在稳定性上，他们在服务万亩大农场时可以连续工作几十天不出故障。</p>
-<p>国内的胜在价格便宜，国产联合收割机价格只有进口的 1/3。稳定性确实不如，好就好在大部分乡镇都有维修点，坏了直接换配件，不影响工作进度。</p>
-<p>另外，国内的联合收割机是特意为细碎小地块设计的，体型远小于进口货，在乡间小路进出方便</p>
-<p>一台最小的 25 马力（给丘陵地带用的）履带微型自走式收割机，一天能收割 20 亩地小麦，顶得上 40 个熟练镰刀麦客。</p>
-<p>租这么一台机器，一天收 20 亩地，费用差不多 1000 元，折合 50 元 / 亩。</p>
-<p>以中国现在的农业机械化水平，如果真的想完成秸秆还田，根本不是什么难事。</p>
-<p>收完小麦，是不是得重新用旋耕机翻一下地，再种玉米？</p>
-<p>这时候把玉米秸秆铺在田上，旋耕机一路压过去，就把秸秆打进地里了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1c4a85a635539c48f4ee99ebc8aa5ca6_720w.jpg?source=8673f162" alt=""></figure>
-<p>可又回到我开头那句话，这种种植方式放在河南的玉米地上就是个死局。</p>
-<p>小麦秸秆在土壤中会发酵，产生热量。</p>
-<p>发酵的本质是土壤中的微生物分解有机物，将其中的化学能转换成热能。</p>
-<p>农业上把这种土壤发热，通俗的描述为“烧根”。</p>
-<p>而微生物发酵，不仅需要秸秆中的碳元素，同时也需要土壤中氮元素。每 25 个碳原子，结合 1 个氮原子，微生物会抢夺农民散在田间的三元复合肥中的氮去完成分解。</p>
-<p>农民撒下去的化肥，有大部分被分解秸秆时消耗掉了，留给玉米的便少了很多。想解决这一点，就只能加倍下肥。</p>
-<p>以上这两点都还好说，对比改良土壤所带来的种植收益，这点化肥的损耗是可以接受的。</p>
-<p>问题在于下面最关键的一点：微生物分解有机物，不仅需要氮，更需要氧气。原本翻耕过的土蓬蓬松松，氧气可以充分进入，利于小麦生根。现在土壤中含氧量不足，玉米小苗容易进入无氧呼吸状态，进而死亡。</p>
-<p>小麦秸秆的高速分解过程大概会持续 20 天。20 天后，虽然也会耗氧，但不至于打破土壤内的氧气循环平衡。</p>
-<p>（我让豆包出来干个活）</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-481822adcac50454c288e40db7a97b48_720w.jpg?source=8673f162" alt=""></figure>
-<p>河南夏玉米的种植面积高达 85%，等不起这 20 天。</p>
-<p>那么问题来了，河南非得种玉米吗？</p>
-<p>是的，只能种玉米。</p>
-<p>种主粮已经不赚钱了，更何况玉米的价值还远低于水稻。玉米主要是饲料化，水稻是商品口粮，二者没得比。如果有的选，河南的农民是不会碰玉米的。</p>
-<p>可没辙，河南夏季缺降雨啊。如果大批量开辟水稻田，哪怕现在有水利调度，黄河依然会被抽到断流。</p>
-<p>这个问题下有 1000 多个回答，如果你仔细看会发现，黄淮海平原 IP 和长江中下游平原 IP 对待秸秆还田的态度会有很大区别。江浙沪那儿小麦 + 水稻的一年两熟模式是非常支持还田的。</p>
-<p>水稻水稻，都种在水里了，还怕缺氧？这种植物自带通气组织，可以从叶片上摄入氧气，传导给根系，没有玉米所面临的压力。</p>
-<p>而且江浙沪地区种植窗口期大，小麦还完田，放水沤一段时间也不影响收成。</p>
-<p>秸秆还田靠的是机械化，从种植模式来说，也不会额外增加成本。如果非得说弊端，那可能就是其他回答中所提到的焚烧可以高效地减轻病虫害。</p>
-<p>但病虫害问题是可以控制的，无论是化学农药，生物菌剂，生态共养，物理诱杀，我们都有办法去控制。</p>
-<p>唯独土壤中的有机物持续被消耗，我们是无法解决的。</p>
-<p>之前在聊新疆种西瓜的时候，我反复说，新疆种西瓜一定会在砂质土壤中下入充分的羊粪。如果不增加土壤的有机胶体，那么使用化肥时，化肥会被雨水 / 灌溉水的淋溶作用冲到地底。</p>
-<p>土壤的有机胶体结构可以有效锁住化肥。这里面说起来比较复杂，我举其中最简单的例子，土壤腐殖酸是阴离子，而化肥是阳离子，土壤可以依靠静电结合的方式将化肥阳离子留存住。</p>
-<p>当土壤有机质被消耗干净之后，你哪怕用 3 个 20 的化肥，你都没有好收成。（氮磷钾 20-20-20 的化肥是园艺上用的，大田农业普遍用 3 个 16 的硫酸钾复合肥）</p>
-<p>长江中下游平原的农民们早就尝到过秸秆还田的甜头了，他们那的气候条件又适合，还田的意愿会非常高。</p>
-<p>嗯……比如我。</p>
-<p>我是非常愿意的。我们农场将秸秆和树枝粉碎后，加入鸡粪羊粪菜籽饼等做成堆肥。单纯的秸秆还田只能为土壤提供碳骨架，我这儿还要保证矿质元素。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-e3b55dbc1f0914ccc1b8b383e5e9877f_720w.jpg?source=8673f162" alt=""><figcaption>粉碎机和它背后的枯桃树枝</figcaption></figure>
-<p>我开头说了，小麦秸秆直接还田在河南这种种植品类单一，气候条件约束的地方是一个死局。</p>
-<p>所以我们得做成分期还田。</p>
-<p>河南现在的种植模式是这样的：小麦秸秆用联合收割机打下来，粉碎。收割机往前跑，屁股后面直接抛，秸秆碎均匀铺在田里，大概会积累 3-5cm。</p>
-<p>然后不使用大型旋耕机，改用小型免耕播种机。（我找不到不带电话，不带广告的机械图，豆包又粗来干活了）</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-170248065358f73e82218d0ff83eefe2_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种机器的刀头会将土壤打碎，然后玉米种子滑落，进入地里。</p>
-<p>等到了 9 月底，10 月初，玉米收获的时候，再把玉米秸秆和小麦秸秆一同打进地里。</p>
-<p>真的别小瞧中国现在的农业机械设备。收割，旋耕算个啥啊？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a537cb7caf54ae06b79625da3785f833_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种小麦秸秆分期还田法（农业上叫免耕覆盖法）同样也有利弊。</p>
-<p>好处在于，3-5cm 的覆盖物可以有效阻挡杂草的萌发。（草籽冒芽晒不到太阳，就长不出来）</p>
-<p>坏处在于，这种阴暗的环境非常利于二点委夜蛾、地老虎和蛴螬这些害虫的生长。</p>
-<p>我们应对这些害虫，最核心的手段是种子农药预处理，给种子包衣，带上农药。</p>
-<p>不用担心农药会进入种子。就算进入了也没事，植物体内的 P450 加氧酶会给农药有机分子的化学键上插入一个氧原子，打断其化学键，完成分解。</p>
-<p>没有任何包衣种子的农药可以在玉米体内持续一整个生长周期。如果有，那发明者将改写人类历史。其地位将比肩法拉第。</p>
-<p>除了种子预处理，我们还会搭配一些经典的诱虫法。</p>
-<p>我跟一个河南的种田大户学过一招。他们那儿会把棉籽饼，麦麸这些放锅里炒香，作为诱饵。饵料中搬入杀虫药。对地老虎这些一杀一个准。</p>
-<p>诚然，小麦秸秆的这种分期免耕覆盖还田法在对于病虫害的效果上要远远差于直接焚烧。但相较于其带来的收益，这部分弊端是可以被接受的。</p>
-<hr>
-<p>回到我们最初的话题，为什么不允许烧秸秆。或者说，为什么立法禁止焚烧秸秆？</p>
-<p>单以河南而论，正式立法禁止焚烧秸秆是从 2015 年开始的。</p>
-<p>在此之前，从 2000 年开始，一直到 2014 年，河南一直在做这种免耕覆盖，分期还田的实验。这个实验一直持续到了 2014 年，等有了完备的经验，有了给农民留下的后路以后，才开始立法强推。</p>
-<p>那河南为什么要做这个实验？</p>
-<p>因为他们很早就发现 90 年代推崇的直接还田法在河南严重的水土不服。河南农业大学的马新鹏、赵朋团队从 2000 年至 2014 年一直在主导这项实验。河南科技大的李友军团队也配合，联合攻关。同时中国农业大学的保护性耕作团队也参与了实验。</p>
-<p>14 年完成实验，15 年开始立法，并且推广。中间磕磕绊绊，走到现在 2026 年，已经成为了河南的主流种植方式。</p>
-<p>河南农民一开始并不愿意使用免耕播种机。这种机器刀头劲小，遇到板结土地，容易打得深深浅浅，不好用。</p>
-<p>好就好在随着几年的养护，土地有机质开始恢复，逐渐变得松软，慢慢开始复合免耕机的刀头功率，大家也就没什么意见了。</p>
-<p>至于立法。</p>
-<p>我想大家应该能想明白一个问题——如果把散户农民视作一个集体，那么这个集体一定是短视的。</p>
-<p>这并非地域攻击，也不是身份的指责。</p>
-<p><strong>任何一个经济体，体量越小，所承担的沉没成本也就越低。他的博弈选择就会更倾向于短期利益。</strong></p>
-<p>种地的农民并不觉得自己会种一辈子地，说不定过两年就把地租出去，跟儿孙进城了。你现在跟他说功在当下，利在千秋，他们听不进去的。</p>
-<p>反之，一个农业企业，他们 10 年起租，必须要为未来的收益进行考量。现在有了河南农大马新鹏、赵朋团队的技术方案下，他们甚至不需要政府督促，会自发地进行土壤改良。</p>
-<p>立法和农业科学研究是同步进行的，如果没有一个可持续性的替代方案，强硬一刀切，这个法案必然会随着时间流产。</p>
-<p>走到 2026 年，免耕覆盖，分期还田已经成为了河南种玉米的主流模式。</p>
-<p>也有人并不去还田，因为秸秆是可以卖钱的。</p>
-<p>小麦秸秆粗纤维含量高，粗蛋白含量低，含有硅酸盐和蜡质，动物的适口性差，不适合饲料化。但可以把它碳化，做成烧烤店的碳棒。</p>
-<p>玉米秸秆的粗蛋白大于 6%，脂肪约 1.2%，钙含量约 0.4%，喂羊很合适。不过需要注意了，玉米秸秆的上半部分才有营养价值，能够做青储。</p>
-<p>你愿意直接把钱烧了吗？</p>
-<p>以科技为依托，满足农民的出路。以法律为准绳，破除农民的短期利益博弈。</p>
-<p>走到 2026 年，河南的秸秆利用率已经达到了 93%。</p>
-<p>写在结尾，我一贯的态度都是，中国的农业部门是比较踏实的。我自己是搞农业的，讲真心话，对于有些政策不太满意。可从整个大方向上，我能感受的中国农业是认真做事的。这里面故事多，回头再聊。</p>
-<hr>
-<p>差点忘记了，还没回答为什么不许烧秸秆。</p>
-<p>我个人对环保没啥兴趣，我唯一关注的是土壤的有机含量，关注的是产量。如果持续性消耗有机质而不进行补充，土壤会迅速进入板结盐碱化。</p>
-<p>那秸秆都烧了，土壤的碳元素上哪去补充？</p>
+<p>珍爱生命，远离这个型号。</p>
+<p>（此处有修改）首先声明，本人与任何无人机品牌及相关利益方均无利益关系，以下仅为个人意见。</p>
+<p>这种载人的飞行器，不论它外形怎样，本质就是一个大号的无人机。从下面的俯视图能很清楚地看出来，壳子去掉后，就是个多旋翼无人机（加个载人的乘客座不改变其无人驾驶的设计，它拿到的认证是无人机适航证，后面会写）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fc1258d3237c5ff6d8e0bc9dfe712777_720w.jpg?source=8673f162" alt=""></figure>
+<p>从设计上看，这个载人飞行器比较简陋，(嗯，这个设计师也许真的只想做一款用于公园娱乐用的飞碟，面向文旅低空低速表演场景，而不需要高速前飞，也就不需要考虑航向静稳定性）。</p>
+<p>主要的问题，还是它这个 UFO 造型。</p>
+<p>玩过无人机的小伙伴都知道（首都人民以后可能就不知道了），多旋翼飞行器抗风能力较弱，对重心和动态滚转极敏感，当存在较强的风阵时，会让飞行器很容易发生滚转倾覆。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d550b48a1fd3d627ff2d61c3060fb263_720w.jpg?source=8673f162" alt=""><figcaption>猜猜它的重心在哪儿？（顺便看看下方的喷管）</figcaption></figure>
+<p>目前国际上大多数的操作，是把重心放在机体中心下方，从而减小倾覆的可能，比如下面这款 Joby Aviation S4：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d88d9882dcaaa0caa2bc80b1f47e79f6_720w.jpg?source=8673f162" alt=""></figure>
+<p>或者这款 德国产的 Volocopter VoloCity（eVTOL 圈不认识 Volocopter，大约相当于做手机的不认识诺基亚）：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d7f4a952e8132aa47a67c2e9bba80e5_720w.jpg?source=8673f162" alt=""><figcaption>注意看平尾和垂尾的设计（这个是成熟型号，说是 AI 之前，可以动个小手查一查么）</figcaption></figure>
+<p><strong>等等，无人机能载人么？</strong></p>
+<p>看到评论区有人问，无人机能载人么？</p>
+<p>在这里补一句，这个 UFO 拿的是民用无人驾驶航空器许可证。</p>
+<p>按照国家规定（《民用无人驾驶航空器运行安全管理规则》）<sup>[1]</sup>，无人机有 2 种是可以载人的。</p>
+<p>一种是运输类民用无人驾驶航空器，是指最大审定起飞重量 3180 公斤（旋翼类）以上，或者载客 19 人以上。</p>
+<p>一种是正常类民用无人驾驶航空器，也就是指除前面这种运输类之外，最大审定起飞重量为 25 公斤及以上的。</p>
+<p>这 2 种都可以用于载人飞行、进行融合飞行或者在人口密集区域上方飞行的无人驾驶航空器系统。</p>
+<p>在法律上，无人机的无人，指的是无人驾驶，而不是上面有没有人。</p>
+<p><strong>先天的短板</strong></p>
+<p>这款载人无人机，安全性需要打个问号。为什么呢？</p>
+<p>除了飞控系统故障这个老生常谈的话题外（这家深圳智航是北航的一位同学创立的，飞控是主机厂自研的），单说这个飞碟型吧。</p>
+<p>这个 UFO 采用的是涵道风扇，好处嘛，一个是有话题性，另外也对周边人员更安全，但涵道风扇在特定条件下更容易出现空气动力学不稳定。</p>
+<p>叶尖泄漏、迎风分离、涡旋破裂、旋转失速以及涵道回流等等等等，空气动力学是会让人抓狂的一门学问。</p>
+<p>当它在低空悬停或者是缓慢盘旋的时候，就像视频里那样，如果遇到较强的<strong>侧风</strong>，涵道内的气流就有可能会发生不对称分离，这时候就会产生无法预料的侧向力和滚转力矩。在狂风天飞过无人机的小伙伴应该有体会，这种气动力扰动可大可小，如果大到超出了飞控系统的修正能力，就会表现出先向一侧倾斜的征兆，然后飞控修正不回来的话（那个大碟子的受风面实在是太大了），或者动力不足以拉回来，空气动力学裕度有限，就有可能恶化。</p>
+<p>无人机炸机了，可以再买，。载人的无人机炸机了，怎么办？</p>
+<p>我以前听过 618 所的大佬分享过一些飞控失败的案例，反正我目前是不太会把自己的命交给这样的无人机。</p>
+<p>但我相信，只要政策上不画圈，有资本的支持（这家 UFO 背后的资本是顺丰和清源资本等），那么总有一天，载人 eVTOL 会变得很安全。</p>
+<p>也许未来某天，当那时候的人坐上低空飞行器时，不会再想起当年这个不够安全的 UFO，就像我们今天坐飞机时，很少想起莱特兄弟摔过多少次一样。</p>
+<p>技术发展的重点，是不再重复同样的错误。每一次失控，都但愿能成为下一次安全起飞的注脚。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/668221787">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2083949287025788571">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792762</guid>
-                <pubDate>Thu, 24 Sep 2026 21:02:37 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792786</guid>
+                <pubDate>Fri, 25 Sep 2026 03:02:15 GMT</pubDate>
             </item>
             
             <item>
-                <title>全球变暖正在让西北变江南，都在往好的方向发展，为什么还有这么多人认为变暖弊大于利？</title>
-                <link>http://daily.zhihu.com/story/9792768</link>
-                <description>气象喵探员，点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~ 查看知乎原文 西北变湿确实是真的，但以此来证明变暖利大于弊就很逆天了。 至于西北变江南，我严重怀疑这是被炒作出来的，要知道江南普遍是亚热带季风气候，但西北大部都不在季风区内。 退一万步讲，哪怕我们只谈降水不谈季风，江南的年降水量普遍能达到 1200 毫米，但西北最湿润的地方才 600 毫米左右，塔里木盆地的年降水量甚至还不到…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e73d737fa85b4e9a1ba6da0ce88bef32.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>有哪些简称其实有着很长的全称？</title>
+                <link>http://daily.zhihu.com/story/9792791</link>
+                <description>宁南左侯，太极生二姨 查看知乎原文 安徽省。 当然这说的是清朝的安徽省，全称叫“江南安徽宁池太庐凤滁和广等处承宣布政使司”。当然，安徽敢这么玩，江苏也一定可以，于是就有了“江南江苏松常镇淮扬徐等处承宣布政使司”，虽然也很长，但是较之于安徽还是略输一筹。 安徽宁池太庐凤滁和广等处承宣布政使司，后边的“等处承宣布政使司”是单位统称，类似于现在的“省人民政府”，前边的“安徽宁池太庐凤滁和广”说的是地名，…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c058039a77369a71bcf858263a219d2b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -264,79 +107,53 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
-<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
-<a href="https://www.zhihu.com/question/2082376355325464661/answer/2082406414820041477" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-571144c7e5be56de5addd90c12056267_l.jpg?source=8673f162">
+<span class="author">宁南左侯，</span><span class="bio">太极生二姨</span>
+<a href="https://www.zhihu.com/question/2051352057316106785/answer/2081539118505447631" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>西北变湿确实是真的，但以此来证明变暖利大于弊就很逆天了。</strong></p>
-<p>至于西北变江南，我严重怀疑这是被炒作出来的，要知道江南普遍是亚热带季风气候，但西北大部都不在季风区内。</p>
-<p>退一万步讲，哪怕我们只谈降水不谈季风，江南的年降水量普遍能达到 1200 毫米，但西北最湿润的地方才 600 毫米左右，塔里木盆地的年降水量甚至还不到 100 毫米。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e2a09cf858720bfd479b471a94ac4acc_720w.jpg?source=8673f162" alt=""><figcaption>2025 年全球温度异常情况示意图，可见全球暖异常显著，亚洲是变暖的敏感区</figcaption></figure>
-<p><strong>杯水车薪啊！增加的那点降水都未必抵得过蒸发</strong></p>
-<p>受全球变暖影响，过去几十年里西北地区的降水确实有所增加，部分地区的年降水量增加幅度甚至达 20%，这不必否认。</p>
-<p>但是，不要看到 20%这个数字就觉得西北要变江南了，<strong>要知道西北地区特别是新疆的降水量很少，大多都不到 200 毫米。</strong></p>
-<p>而百分比的提升，本身就是参照于原始数据的，200 毫米的 20%也才 40 毫米、50 毫米的 20%更是只有 10 毫米，这么一看是不是就觉得事实没有想象中的那么夸张了？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-02f9957f40a11c266506a90b5b4c5f9d_720w.jpg?source=8673f162" alt=""></figure>
-<p>可能又有一些人觉得：“我不管增加了多少，只要增加就是好。”这个说法就是忽略了全球变暖带来的蒸发量的增加。</p>
-<p><strong>气温越高大气持水能力会相对越强，但同时地表水分的蒸发也会加快。</strong>西北地区的升温速率是要高于全球平均值的，潜在的蒸发量增加会抵消降水增加带来的收益。</p>
-<p>举个例子，一个有洞的蓄水池你边往里面灌水，它边往外漏水，水线未必能高多少。事实也是这样，西北大部的净水量没有显著增加，部分地区甚至还减少了一点。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e18b5a2481bf2286cad5c6aad0b9eb31_720w.jpg?source=8673f162" alt=""><figcaption>我国干旱指数数据分布图，西北为深棕色，代表潜在蒸发量远大于降水量</figcaption></figure>
-<p>而且哪怕是这么一点有限的降水增加，还不是通过多下几场小雨实现的，它主要是在极端降水事件上的体现。</p>
-<p>比如单日的强降水事件，一场大雨（日雨量 25 毫米）或暴雨（日雨量 50 毫米）就能拔高西北干旱区全年的降水数据。</p>
-<p><strong>这些暴雨本身的雨水利用率极低，能被土壤储存下来的少之又少。</strong>如果这片土地是沙漠的话就更糟糕了，沙漠对强降水的承载能力极弱，很有可能会引发沙漠洪水。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-5f293f44b2bfcb8401dff22219b4e1e3_720w.jpg?source=8673f162" alt=""><figcaption> 撒哈拉沙漠洪水前后的卫星对比图，典型的干旱区暴雨引发洪水的案例</figcaption></figure>
-<p><strong>西北的水也不是凭空多出来的，是上游冰川的家底</strong></p>
-<p>更需要警惕的是，大家感受到的西北变湿，<strong>更多的是由冰川融水导致的，单纯的年降水增加的贡献其实并不算最大。</strong></p>
-<p>例如西北的不少河流，尤其是内流河流域，其主要的水源补给就是冰川融水，全球变暖正导致青藏高原山地冰川加速融化。</p>
-<p>融化后产生冰川融水会沿河而下，使得下游径流增加、湖泊扩张、植被恢复，绿化率会同步增加，给人一种欣欣向荣的表现，这就是西北部分地区变绿的主要原因。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-56c05cd4adeaab28a440de13bc87de8b_720w.jpg?source=8673f162" alt=""><figcaption>祁连山疏勒河、黑河、石羊河流域冰川面积（a）与冰川融水年径流量（b）对比图</figcaption></figure>
-<p>但问题是这类型的水资源增加，本质上是属于寅吃卯粮。冰川是固体水库，它以冰的形式储存着数千年乃至万年的水资源。</p>
-<p>而冰川的加速融化，就是在提前支取这笔数千年存下的老本，<strong>一旦上游冰川退缩到某一个临界点，融水补给会迅速减少，河流会从短暂的丰水期转入长时间的枯水期。</strong></p>
-<p>并且这不是答主的个人猜测，是所有冰川流域都会经历的「拐点效应」，也就是先增后减直至枯竭，所谓的西北变江南，只是一个短暂的过渡态，是冰川的回光返照。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-294b134ee9dca458fa5419c5bc94b096_720w.jpg?source=8673f162" alt=""></figure>
-<p>更严重的是，冰川大规模消融对于上游尤其是西藏来说，是天大的坏事。青藏高原是亚洲水塔，冰川融水养育着长江、黄河、恒河与印度河等知名的大江大河。</p>
-<p>冰川的长期亏损就意味着水塔的蓄水量正在下降，同时受西藏的地形影响，陆地冰川的持续融化，<strong>几乎必定会导致冰崩、冰湖溃决等地质灾害风险急剧上升。</strong></p>
-<p>前段时间西藏那次泥石流大家都已经见识过了，哪怕这次事件的事发地是尼泊尔，也给我国带来重大影响，如果事发地真的是西藏本地的话，那结果真的是想都不敢想。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2321b7cdc36b8ab73039997dd3a8729f_720w.jpg?source=8673f162" alt=""><figcaption>典型高位冰崩引起泥石流的过程示意图</figcaption></figure>
-<p><strong>全局视野很重要，局部利好无法改变弊大于利的结论</strong></p>
-<p>气象学上有一条最大的科学思维原则，就是局部利好无法改变总体结论，短期现象无法改变长期趋势，这个很重要。</p>
-<p><strong>简单来说，就是观察和分析气候需要全局视野，因为大气环流本身是全球连通的。</strong>如果某一个地方爆发重大气象灾害，那么或多或少会对周边地区产生连锁效应。</p>
-<p>在气候上这个连锁反应尤为剧烈，就像气候临界点，如果一个临界点被突破，那么其他临界点受其级联效应的影响，会更容易被突破，这个就类似于多米诺骨牌。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-24583465f78d1d32c42cb31bacc39dbd_720w.jpg?source=8673f162" alt=""><figcaption>气候临界点级联效应网络示意图</figcaption></figure>
-<p>从宏观角度上来说，全球平均气温每升高一点，<strong>大气的水汽含量以及不稳定能量都在同步增加，极端天气事件会持续升级。</strong></p>
-<p>2022 年我国夏季爆发的有记录以来最强的热浪事件，同年巴基斯坦因为洪水淹没了 1/3 的国土；2023 年北半球多地出现极端高温，山火、暴雨、超强台风轮番登场。</p>
-<p>到了今年极端天气事件只增不减，年初美国和加拿大遭遇了强寒潮，6 月欧洲经历历史同期最强热浪，7~8 月更是有连续三个超强台风陆浙江省台州玉环的坎门街道。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4603e342a43476563f51437ddd4df225_720w.jpg?source=8673f162" alt=""></figure>
-<p>与此同时，由于全球冰川都在加速融化，海平面正在持续上升，尽管在短期内海平面上升带来的影响很小，但迟早会被放大。</p>
-<p>由于海洋的持续变暖，海洋热浪事件变得越来越频发，<strong>到现在除了极地海域以外，几乎所有海域都经历过至少一次热浪事件。</strong></p>
-<p>这已经使得珊瑚礁气候临界点被正式突破，海洋生态系统和渔业会因此受到打击；永久冻土也正在融化并释放甲烷，这会显著加速变暖，上述事件都是应当被警惕的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6390c1f8911ef43fdfe4fc73ff3766d5_720w.jpg?source=8673f162" alt=""><figcaption>1970~2023 全球冰川累积质量变化曲线图，冰川持续加速消融中</figcaption></figure>
-<p>就这些气候事件而言，我不认为全球变暖对人类是利大于弊的，诚然变暖对于部分地区确实可能有一些利，但同时也有很大的弊，这动摇不了弊大于利的整体结论。</p>
-<p><strong>而且变暖还在不断加剧，这些不良现象和灾害事件会变得越来越严重。</strong>而那些所谓的好处，大多都会慢慢的减弱甚至转变为坏处，这虽然很残酷，但这是必须要接受的。</p>
-<p>以上（亲，看完记得点赞呀，喵喵喵~）。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4c7ec5248c9d4c1d7b3cf8cf831689f3_720w.jpg?source=8673f162" alt=""></figure>
+<p>安徽省。</p>
+<p>当然这说的是清朝的安徽省，全称叫“<strong>江南安徽宁池太庐凤滁和广等处承宣布政使司</strong>”。当然，安徽敢这么玩，江苏也一定可以，于是就有了“江南江苏松常镇淮扬徐等处承宣布政使司”，虽然也很长，但是较之于安徽还是略输一筹。</p>
+<p>安徽宁池太庐凤滁和广等处承宣布政使司，后边的“等处承宣布政使司”是单位统称，类似于现在的“省人民政府”，前边的“安徽宁池太庐凤滁和广”说的是地名，分别是安庆府、徽州府、宁国府、池州府、太平府、庐州府、凤阳府、滁州、和州、广德州，也就是这个范围：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fa9e3e1edbc59abb5d3b5d380a7d046f_720w.jpg?source=8673f162" alt=""></figure>
+<p>这名字最大的好处就是……合理，谁都不落下。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e538d3473dd869eddacf9135d5c81cd_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过诡异的是，这个名字和现在能见到的安徽布政司的官印印文并不一致，证据是目前能见到的安徽布政司的官印印文是“江南安徽等处承宣布政使司印”，我怀疑是乾隆改了，因为乾隆十三年的缙绅录里安徽还叫江南安徽宁池太庐凤滁和广等处承宣布政使司，但乾隆三十年已经成了安徽等处承宣布政使司了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ac65d377b2a704c9231183ab7bbb8409_720w.jpg?source=8673f162" alt=""></figure>
+<p>说起来，清代好几个省的名字都存在这种简称和全称的情况，或者说，全称与大家熟悉的简称不符。比如台湾省，台湾省全称是“<strong>福建台湾</strong>等处承宣布政使司”，因为台湾是从原福建布政司拆出来的，所以单位名字上继续挂着福建，同理还有新疆，光绪设省之后叫“<strong>甘肃新疆</strong>等处承宣布政使司”。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5d0846e2ee50043ee3d0281847e84947_720w.jpg?source=8673f162" alt=""></figure>
+<p>“新疆巡抚”的全程更长，“兵部侍郎兼都察院右副都御史巡抚甘肃新疆等处地方提督军务兼理粮饷”。</p>
+<p>说到这个，清朝的黑龙江在设省之前是黑龙江将军辖区，“黑龙江将军”是简称，全名是“镇守黑龙江等处地方将军”：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ee0234a7679625b7647e5af512b9be7b_720w.jpg?source=8673f162" alt=""></figure>
+<p>这颗印也加盖在了《尼布楚条约》上：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-87ba9894b13909511ff3831cbb55a5be_720w.jpg?source=8673f162" alt=""></figure>
+<p>“镇守黑龙江等处地方将军印”这十二个字，也是出现在《尼布楚条约》里的唯一一处汉字。</p>
+<p>将军印的这个字体并不是常见的篆体，与明清常见的九叠篆官印印文区别很大，这叫“柳叶篆”，是明清两朝武官印章的标准字体，比如这枚南明永历三年的“靖虏将军之印”：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0f2a4443183f1669aed4093f968e2a05_720w.jpg?source=8673f162" alt=""></figure>
+<p>甚至“镇守某某等处地方”这个词也是延续的明朝用法，明朝叫“镇守某某等处地方总兵官”，简称某某总兵，但这个总兵的官印并不是方的，而是长条的，也不叫印，而是叫关防，比如下边这颗“援剿总兵关防”——当然，这也是南明的，南明永历五年。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-70a66f280006a86502fb5eb2f505ee7e_720w.jpg?source=8673f162" alt=""></figure>
+<p>也就是说，清代黑龙江将军的官印是沿用明代总兵的称呼以及明代将军印方形柳叶篆的印制，结合而成。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2082376355325464661">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2051352057316106785">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792768</guid>
-                <pubDate>Thu, 24 Sep 2026 21:02:38 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792791</guid>
+                <pubDate>Fri, 25 Sep 2026 03:02:16 GMT</pubDate>
             </item>
             
             <item>
-                <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9792777</link>
-                <description>瞎扯 · 有什么有趣的中国文化溢出？ 知乎日报 查看知乎原文 Q：有什么有趣的中国文化溢出？ @gkn cnyz ：日本社畜上班长时间玩原神被公司通报批评 Q：有什么地狱级的笑话? @寻尽 ：来自韩剧《苦尽柑来遇见你》女孩在出租车上因为失恋痛哭而此时车上播放着金日成的死讯 Q：你见过哪些神级翻译？ @凯文西 ：总觉得这个部门有点过于多元化了 Q：工作中到底能闯多大的祸？ @力士 ：承重柱裂开了，拿…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e38d29d44440ef6f0bb1d6fab68ae2bd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>有哪些小时候的科学常识现在被证实是伪知识？</title>
+                <link>http://daily.zhihu.com/story/9792794</link>
+                <description>云杉，知乎遗风，科研工作者，文理双修的战士。 查看知乎原文 我来个超经典的，现在还有大量人在吹捧、在坚信，甚至以此劝酒，伤害别人身体： 葡萄酒有白藜芦醇，可以降低血脂和胆固醇，保护心脑血管。 很长一段时间，什么养生专家、医学教授，都在为酒精利益共同体吹捧这东西。 某些电视台的节目，更是大言不惭地长篇夸耀。 试图以保健功效，掩盖「酒精是一类致癌物」这一关键事实。 很多红酒厂家、“健康养生”自媒体至今…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-876ba4dbbd0ec0e5313d10313401a3f6.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -351,72 +168,184 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 有什么有趣的中国文化溢出？</h2>
+<h2 class="question-title"></h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
+<span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的战士。</span>
+<a href="https://www.zhihu.com/question/6364037251/answer/2082765312676590803" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/266630139/answer/2054583381015500268">有什么有趣的中国文化溢出？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0ea5fd22b6b7d023e64353ea77b03eec" target="_blank">@gkn cnyz</a></div>
-：日本社畜上班长时间玩原神被公司通报批评</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-0e9c846a81e7a32a1a58a9861752d48c_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/660845050/answer/1889791976242669297">有什么地狱级的笑话?</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/43f9a5853dd22100bc2acde7df2c9b47" target="_blank">@寻尽</a></div>
-：来自韩剧《苦尽柑来遇见你》女孩在出租车上因为失恋痛哭而此时车上播放着金日成的死讯</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-2d4b8bf30df69ab0717ebf0e26a48447_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-0a75ecb1b028488d6aa5b0b0e269fa72_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-f8f7da88d1202b61409f431b20f3244f_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/541462082/answer/2018004963473764532">你见过哪些神级翻译？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bd10cc8eb48350e7b959e0285a8d1ca0" target="_blank">@凯文西</a></div>
-：总觉得这个部门有点过于多元化了  </blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-cbda6d81e5c651efd6657bfe73c79ce3_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/12085036570/answer/2052909576270483516">工作中到底能闯多大的祸？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/413256b30668b03f0730b86f5187d365" target="_blank">@力士</a></div>
-：承重柱裂开了，拿胶带布啪叽啪叽缠两圈</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-b913a69df7676e5f77e5480c03dc3763_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/2061806723862631112/answer/2071160240628937525">果城市允许骑马，且有公共马厩供马休息，你愿意骑马通勤吗？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ea805c54043ffbc381e43e5c4b84b38b" target="_blank">@玉树挡风</a></div>
-：这<br>是一匹马，半小时的粪量，半个小时！！！<br>这是天津 5 大道的马车，是马在前面跑的电动车<br>这匹马仅仅就是在跑步，没有任何负荷。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-c125c91154b766d27e396535813c6c0f_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<hr>
-<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
-<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
+<p><strong>我来个超经典的，现在还有大量人在吹捧、在坚信，甚至以此劝酒，伤害别人身体：</strong></p>
+<p>葡萄酒有白藜芦醇，可以降低血脂和胆固醇，保护心脑血管。</p>
+<p>很长一段时间，什么养生专家、医学教授，都在为酒精利益共同体吹捧这东西。</p>
+<p>某些电视台的节目，更是大言不惭地长篇夸耀。</p>
+<p><strong>试图以保健功效，掩盖「酒精是一类致癌物」这一关键事实。</strong></p>
+<p>很多红酒厂家、“健康养生”自媒体至今还在不遗余力地造谣传谣：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1eabd1258dc1c2e7e20f19c78132bbf9_720w.jpg?source=8673f162" alt=""></figure>
+<p>然而事实呢？</p>
+<p><strong>这玩意儿已经被学术打假锤烂了。</strong></p>
+<p><strong>是欺骗了全世界 30 年的骗局。</strong></p>
+<p>1939 年，日本科学家首次发现白藜芦醇。</p>
+<p>在被发现的几十年里，这种简单的成分没有被发现出任何功效。</p>
+<p>直到 1990 年，一名叫迪帕克·库马尔·达斯（Dipak Kumar Das）的学者把白藜芦醇推上了神坛。</p>
+<p>嗯，印度人，学术造假的味儿 nao 一下就上来了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2541bd2533db49f22538d48f77d365d1_720w.jpg?source=8673f162" alt=""></figure>
+<p>以下简称其为三哥。</p>
+<p>三哥毕业于印度理工，曾经是美国康涅狄格大学心血管研究中心的主任。</p>
+<p>他当时了解到了著名的“法国悖论”（French Paradox）：</p>
+<p>尽管法国人经常吃高油脂的非健康食品，但是法国人的心血管疾病发病率只有美国人的 1/3。</p>
+<p>有学者声称，这是法国人喜喝葡萄酒的习惯保护了他们。</p>
+<p><strong>三哥一拍脑门，觉得葡萄酒中疏通血管的功效性成分，就是白藜芦醇。</strong></p>
+<p>围绕这个观点，三哥在 11 篇期刊上发表了 26 篇论文来支持他的猜想，甚至还在论文中声称葡萄酒中的白藜芦醇可以延长人类寿命。</p>
+<p>国内外葡萄酒商家一看这还了得，以此作为卖点，大肆宣传，一吹就是 22 年。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-03a39b26125249c3657bf7770626eaa0_720w.jpg?source=8673f162" alt=""></figure>
+<p>海量学者还引用了这些论文，甚至在此基础上发表“新的成果”。</p>
+<p>然后，最戏剧性的反转就来了。</p>
+<p><strong>2012 年，三哥因论文造假被康涅狄格大学开除。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6676c58cde1c4f41f4e1c0eeb553e003_720w.jpg?source=8673f162" alt=""></figure>
+<p>康涅狄格大学在 2009 年 1 月收到了一封匿名举报信，指控三哥的实验室存在造假等研究违规行为。</p>
+<p>两周后，由 Kent Morest 博士领导的特别审查委员会开始了对三哥的调查。</p>
+<p>这一查，就是三年。</p>
+<p>2012 年 1 月，特别审查委员会出具了一份 60000 页的调查报告，移交给康涅狄格大学的研究诚信办公室。</p>
+<p>没错，不是六万字，是六万页...</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dab6a2f910ce88990352457744fe4fa5_720w.jpg?source=8673f162" alt=""></figure>
+<p>在这份报告中，他们列举了三哥包括伪造、篡改实验数据，盗用他人研究图像，P 图等问题。</p>
+<p><strong>光伪造和篡改实验数据，就多达 145 处。</strong></p>
+<p>面对这份报告，当事人三哥直接拒绝任何形式的回应，选择沉默。</p>
+<p>后来实在觉得老脸难堪，没脸没皮地反手起诉了一波康涅狄格大学。</p>
+<p>康涅狄格大学也没惯着他，把这份报告发给了涉及到白藜芦醇文章的 11 家杂志，并且向美国联邦政府退还了 89 万美金的近期研究资助。</p>
+<p><strong>搞笑的在后面，神化白藜芦醇的“师门老祖”已经倒台了，但是相关的研究还热度不减。</strong></p>
+<p>接下来的十几年，有研究者依然引用已经被撤稿的文章，继续“证实”白藜芦醇有用：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1416b2ababbe1524f3f932857525eb98_720w.jpg?source=8673f162" alt=""><figcaption>知网截图</figcaption></figure>
+<p>近些年，还有厂家制作出了以白藜芦醇为主要成分的保健品，声称其有抗衰老、抗氧化的功效。</p>
+<p>请了一堆明星艺人站台，高价售卖。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c6dfcfd0003f08357af6bbf235f04b8a_720w.jpg?source=8673f162" alt=""></figure>
+<p>然后被定性为，跨国营销骗局：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7ff13e3f27df5d3a221a4e6405d76cee_720w.jpg?source=8673f162" alt=""></figure>
+<p>对于葡萄酒 / 其他酒的否定，不止白藜芦醇。</p>
+<p>2014 年，科学家在意大利基安蒂地区 783 名老年人长达 9 年的队列研究中得出结论，膳食水平的白藜芦醇代谢物与死亡率、心血管病、癌症或炎症指标均没有显著关联。</p>
+<p>大白话讲，* 用没有。</p>
+<p>2015 年，哈佛大学研究团队随机抽取了 4466 名超过 65 岁的老年人，发现即使是适量饮酒也会损伤心脏。</p>
+<p>而另一项覆盖 195 个国家和地区的研究得出的结论，<strong>酒精的安全摄入量是 0。</strong></p>
+<p><strong>原话是这么说的：</strong></p>
+<p>“总体健康损失最小的饮酒水平为 0 标准杯 / 周。”</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e46964c3f590d197c143aa1507dde718_720w.jpg?source=8673f162" alt=""></figure>
+<p>其他研究呢？</p>
+<p>针对 204 个国家和地区的饮酒人群做了分析。</p>
+<p><strong>结论：只要喝酒，身体就会损伤。</strong></p>
+<p>如果某人硬说，他不沾两滴浑身难受的话，科学家也给了一个“风险最低摄入量”：</p>
+<p>男性 0.136 标准杯 / 日、女性 0.273 标准杯 / 日。</p>
+<p>约等于不喝。</p>
+<p>世界卫生组织旗下国际癌症研究机构 IARC 白纸黑字说的很清楚：</p>
+<p>酒精饮料以及酒精饮料中的乙醇均与多种人类癌症存在因果关系，饮酒可增加<strong>口腔、咽、喉、食管、肝、结直肠和女性乳腺癌风险。</strong></p>
+<p>总而言之——</p>
+<p>谁要是再劝你喝酒，你就让他也发一篇医学顶刊。</p>
+<p>以上</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ef96ac2f98ce3156a00ccdfa992ba799_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>参考内容：</strong></p>
+<ul>
+<li><strong>白藜芦醇于 1939 年首次被分离：</strong><br> BERMAN A Y, MOTELEB M A A, HA E, et al. Resveratrol: twenty years of growth, development and controversy[J]. <em>Biomolecules &amp; Therapeutics</em>, 2018, 26(6): 561-571. DOI:10.4062/biomolther.2018.176.</li>
+<li><strong>1992 年 Renaud 与 de Lorgeril 在《柳叶刀》提出葡萄酒消费可能解释法国冠心病死亡率较低的“法国悖论”：</strong><br> RENAUD S, DE LORGERIL M. Wine, alcohol, platelets, and the French paradox for coronary heart disease[J]. <em>The Lancet</em>, 1992, 339(8808): 1523-1526. DOI:10.1016/0140-6736(92)91277-F.</li>
+<li><strong>同样是在 1992 年，研究者测出了葡萄酒中的白藜芦醇含量，并提出它可能是葡萄酒所谓降脂作用的候选成分之一：</strong><br> SIEMANN E H, CREASY L L. Concentration of the phytoalexin resveratrol in wine[J]. <em>American Journal of Enology and Viticulture</em>, 1992, 43(1): 49-52. DOI:10.5344/ajev.1992.43.1.49.</li>
+<li><strong>人体摄入白藜芦醇后虽然吸收率不低，但由于迅速进行肠道和肝脏代谢，游离白藜芦醇的口服生物利用度低于 1%：</strong><br> WALLE T. Bioavailability of resveratrol[J]. <em>Annals of the New York Academy of Sciences</em>, 2011, 1215: 9-15. DOI:10.1111/j.1749-6632.2010.05842.x.</li>
+<li><strong>在意大利基安蒂地区 783 名老年人长达 9 年的队列研究中，膳食水平的白藜芦醇代谢物与死亡率、心血管病、癌症或炎症指标均没有显著关联：</strong><br> SEMBA R D, FERRUCCI L, BARTALI B, et al. Resveratrol levels and all-cause mortality in older community-dwelling adults[J]. <em>JAMA Internal Medicine</em>, 2014, 174(7): 1077-1084. DOI:10.1001/jamainternmed.2014.1582.</li>
+<li><strong>2018 年的随机试验荟萃分析发现，白藜芦醇总体上没有显著降低总胆固醇、LDL-C 或提高 HDL-C，说明“白藜芦醇显著降血脂”并不是稳定的人体临床结论。</strong><br> HAGHIGHATDOOST F, HARIRI M. Effect of resveratrol on lipid profile: an updated systematic review and meta-analysis on randomized clinical trials[J]. <em>Pharmacological Research</em>, 2018, 129: 141-150. DOI:10.1016/j.phrs.2017.12.033.</li>
+<li><strong>2024 年的伞状荟萃分析进一步认为，白藜芦醇对总胆固醇和甘油三酯即使存在统计学改善，幅度也缺乏临床重要性，且 LDL-C 并无稳定显著改善。</strong><br> LI Z, LIU S, LIU Q, et al. Efficacy of resveratrol supplementation on lipid profile parameters: an umbrella of meta-analysis[J]. <em>Prostaglandins &amp; Other Lipid Mediators</em>, 2024, 175: 106903. DOI:10.1016/j.prostaglandins.2024.106903.</li>
+<li><strong>康涅狄格大学对 Dipak K. Das 实验室进行了约三年的调查，最终认定存在 145 项数据伪造或篡改问题，调查材料约 6 万页，并通知了 11 家相关学术期刊。</strong><br> UNIVERSITY OF CONNECTICUT. Scientific journals notified following research misconduct investigation[EB/OL]. (2012-01-11)[2026-09-14].</li>
+<li><strong>Das 调查还导致实验室外部资助被冻结，康涅狄格大学拒绝接受其新获得的 89 万美元联邦研究经费，并启动解聘程序。</strong><br> UNIVERSITY OF CONNECTICUT. Scientific journals notified following research misconduct investigation[EB/OL]. (2012-01-11)[2026-09-14].</li>
+<li><strong>2015 年的研究分析 4466 名老年人，发现较高饮酒量与多种心脏结构和功能改变相关，因此即便所谓“适量饮酒”，也不能简单宣传成对老年心脏有保护作用。</strong><br> GONÇALVES A, JHUND P S, CLAGGETT B, et al. Relationship between alcohol consumption and cardiac structure and function in the elderly: the Atherosclerosis Risk in Communities Study[J]. <em>Circulation: Cardiovascular Imaging</em>, 2015, 8(6): e002846. DOI:10.1161/CIRCIMAGING.114.002846.</li>
+<li><strong>IARC 早已将酒精饮料列为 1 类致癌物，即“有充分证据证明对人类致癌”。</strong><br> IARC WORKING GROUP ON THE EVALUATION OF CARCINOGENIC RISKS TO HUMANS. <em>Alcohol Drinking: IARC Monographs on the Evaluation of the Carcinogenic Risks to Humans, Vol.44</em>[M]. Lyon: International Agency for Research on Cancer, 1988.</li>
+<li><strong>IARC 后续重新评估确认，酒精饮料以及酒精饮料中的乙醇均与多种人类癌症存在因果关系，饮酒可增加口腔、咽、喉、食管、肝、结直肠和女性乳腺癌风险。</strong><br> IARC WORKING GROUP ON THE EVALUATION OF CARCINOGENIC RISKS TO HUMANS. <em>Alcohol Consumption and Ethyl Carbamate: IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol.96</em>[M]. Lyon: International Agency for Research on Cancer, 2010.</li>
+<li><strong>2018 年《柳叶刀》GBD 研究覆盖 195 个国家和地区，其综合 23 类健康结局后的结果显示，使总体健康损失最小的酒精摄入量为 0 标准杯 / 周。</strong><br> GBD 2016 ALCOHOL COLLABORATORS. Alcohol use and burden for 195 countries and territories, 1990—2016: a systematic analysis for the Global Burden of Disease Study 2016[J]. <em>The Lancet</em>, 2018, 392(10152): 1015-1035. DOI:10.1016/S0140-6736(18)31310-2.</li>
+<li><strong>2022 年另一项《柳叶刀》GBD 研究覆盖 204 个国家和地区，并进一步指出饮酒的净健康风险会随年龄、性别和疾病背景变化，因此不能把它与 2018 年的“195 国、总体最低风险为零”简单混为同一项研究。</strong><br> GBD 2020 ALCOHOL COLLABORATORS. Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020[J]. <em>The Lancet</em>, 2022, 400(10347): 185-235. DOI:10.1016/S0140-6736(22)00847-9.</li>
+<li><strong>对 15—39 岁人群而言，可使风险最低或接近不饮酒者的酒精量极低，报道的平均值约为男性 0.136 标准杯 / 日、女性 0.273 标准杯 / 日，一标准杯按 10 g 纯酒精计算。</strong><br> GBD 2020 ALCOHOL COLLABORATORS. Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020[J]. <em>The Lancet</em>, 2022, 400(10347): 185-235. DOI:10.1016/S0140-6736(22)00847-9.</li>
+<li><strong>WHO 目前明确指出，现有证据无法确定一个“癌症风险为零”的安全饮酒阈值，即便低水平饮酒也会增加部分癌症风险。</strong><br> ANDERSON B O, BERDZULI N, ILBAWI A, et al. Health and cancer risks associated with low levels of alcohol consumption[J]. <em>The Lancet Public Health</em>, 2023, 8(1): e6-e7. DOI:10.1016/S2468-2667(22)00317-6.</li>
+</ul>
 </div>
 </div>
 
+
+<div class="view-more"><a href="https://www.zhihu.com/question/6364037251">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792777</guid>
-                <pubDate>Thu, 24 Sep 2026 21:02:39 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792794</guid>
+                <pubDate>Fri, 25 Sep 2026 03:02:17 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>地仙是最弱的仙，还是只是一种仙？</title>
+                <link>http://daily.zhihu.com/story/9792796</link>
+                <description>知乎用户，寄遇黄粱且睡去梦里却忘君颜色 查看知乎原文 古史辨学派有一个很著名的观点，叫做“层累说”，大意是认为上古传说是历代不断添加、改造、堆叠的结果，时代越晚的传说，它的世界观就越完善。神仙传说也是如此。所谓地仙，其实就是最早期神仙传说中仙人的本始状态。 你看秦始皇求仙，他也得一次次去海边去找海上仙山，不会坐在家里等着天仙降临，因为当时根本就没有这种说法。 那时的神仙还没有完全脱离原始崇拜的范畴…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-375a70f2a2c50a6989294451fe579962.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<span class="author">知乎用户，</span><span class="bio">寄遇黄粱且睡去梦里却忘君颜色</span>
+<a href="https://www.zhihu.com/question/277552341/answer/2081512572394673450" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>古史辨学派有一个很著名的观点，叫做“层累说”，大意是认为上古传说是历代不断添加、改造、堆叠的结果，时代越晚的传说，它的世界观就越完善。神仙传说也是如此。所谓地仙，其实就是最早期神仙传说中仙人的本始状态。</p>
+<p>你看秦始皇求仙，他也得一次次去海边去找海上仙山，不会坐在家里等着天仙降临，因为当时根本就没有这种说法。</p>
+<p>那时的神仙还没有完全脱离原始崇拜的范畴，除了能长生以外，过得是很惨的，司马相如就说：</p>
+<blockquote>列仙之传居山泽间，形容甚臞，此非帝王之仙意也。</blockquote>
+<p>传说中的仙人个个都瘦得跟难民一样，那帝王求仙还有什么意思？</p>
+<p>所以在其《大人賦》中，司马相如直接写武帝和天上的神灵一起玩，根本看不上神仙，结尾还要 diss 一下当时的神仙顶流西王母，说：</p>
+<blockquote>乃今目睹西王母皓然白首，载胜而穴处兮，亦幸有三足乌为之使。</blockquote>
+<p>完全就是个需要三足乌照顾的老太太，而且还住在山洞（穴处）里，感叹说：</p>
+<blockquote>必长生若此而不死兮，虽济万世不足以喜。</blockquote>
+<p>如果只有这样才能长生，那这神仙不当也罢。</p>
+<p>后来随着武帝对求仙越来越狂热，方士为了打败同行获得武帝赏识而不停制造暴论，这才出现了黄帝“仙登于天”的说法，但当时这或许是皇帝专享的白日梦，没有流传开来，所以在大致成书于东汉的《列仙传》里，提到的 70 个神仙没有一个升天的，全都是成仙后就躲进了深山老林里，隔多少年出来在人间亮个相而已。所以此时仍是只有地仙，而没有天仙。</p>
+<p>东汉晚期，《太平经》横空出世，为原始道教补充了大量设定，提出了“一为神人，二为真人，三为仙人，四为道人，五为圣人，六为贤人”的六等阶层划分，但依然没有天仙，臭人间的想去天上要饭的资格都没有。</p>
+<p>直到魏晋以后，战乱频仍，现实的残酷使得许多文化人将希望寄托于虚无缥缈的神仙世界，而这些文化人在现实中的地位要高过平民百姓一头，所以即使修仙，也不能是像其他人一样是只知道钻山沟的地仙，而必须“高居庙堂之上”，于是将目光投向了天上，在东晋葛洪《抱朴子》中，便说：</p>
+<blockquote>上士举形升虚，谓之天仙。中士游于名山，谓之地仙。下士先死后蜕，谓之尸解仙。</blockquote>
+<p>仙界的构成由此增添了一层累积。</p>
+<p>在葛洪所著《神仙传》中，便借彭祖之口 diss 地仙，说是“失其本真，更守异气，余之愚心，未愿此已。”曾经秦皇汉武都求之不得的地仙，此时却已经被看不上了。</p>
+<p>而天仙的生活自然也要远胜过地仙，南北朝时道士所撰《汉武内传》，写已经成为天仙的西王母夜会汉武帝，降临时带着一帮天仙：</p>
+<blockquote>或驾龙虎，或乘白麟，或乘白鹤，或乘轩车，或乘天马，群仙数千，光耀庭宇。</blockquote>
+<p>比起《列仙传》里大多只能自己腿着的地仙不啻天壤之别。</p>
+<p>但天仙也不是那么好当，《神仙传》里就提到一个马鸣生，他本来得到了可以白日升天的神药，却故意只吃了半服，留在人间当了地仙。还有一个白石先生，在成为地仙后不肯再吃升天之药，说是：</p>
+<blockquote>天上复能乐比人间乎？但莫使老死耳。天上多至尊，相奉事，更苦于人间。</blockquote>
+<p>普通人就算白日升天，到头来也还是摆脱不了当牛马的命运。因为那帮道士设想的天仙世界里，要么是西王母这样的老牌神仙，要么是三天太上道君这样的创世古神，要么是上元夫人、云华夫人这样的漂亮仙女，根本没有给普通人留位置。</p>
+<p>最惨的是淮南王刘安，在《神仙传》里他放着诸侯王不当，费尽千辛万苦非要白日升天，结果升天后因为一点小事得罪了大仙，被“谪守都厕三年”，成了看厕所的，属实是黑色幽默了。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/277552341">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792796</guid>
+                <pubDate>Fri, 25 Sep 2026 03:02:18 GMT</pubDate>
             </item>
             
     </channel>
