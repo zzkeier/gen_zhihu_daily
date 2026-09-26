@@ -4,156 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Fri, 25 Sep 2026 21:00:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 03:06:29 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>义乌开始卖载人飞碟飞行器了，单笔订单卖出 1.2 亿元，离普通人还有多远？商业化还要解决哪些问题？</title>
-                <link>http://daily.zhihu.com/story/9792786</link>
-                <description>太空僧，2022年新知答主｜航天及天文优秀答主 查看知乎原文 珍爱生命，远离这个型号。 （此处有修改）首先声明，本人与任何无人机品牌及相关利益方均无利益关系，以下仅为个人意见。 这种载人的飞行器，不论它外形怎样，本质就是一个大号的无人机。从下面的俯视图能很清楚地看出来，壳子去掉后，就是个多旋翼无人机（加个载人的乘客座不改变其无人驾驶的设计，它拿到的认证是无人机适航证，后面会写）。 从设计上看，这个…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-08850cf7350b52ca6f82bc281fef0395.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-2bcc599bdc722be2ec3a627e31a75f00_l.jpg?source=8673f162">
-<span class="author">太空僧，</span><span class="bio">2022年新知答主｜航天及天文优秀答主</span>
-<a href="https://www.zhihu.com/question/2083949287025788571/answer/2084009430434183091" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>珍爱生命，远离这个型号。</p>
-<p>（此处有修改）首先声明，本人与任何无人机品牌及相关利益方均无利益关系，以下仅为个人意见。</p>
-<p>这种载人的飞行器，不论它外形怎样，本质就是一个大号的无人机。从下面的俯视图能很清楚地看出来，壳子去掉后，就是个多旋翼无人机（加个载人的乘客座不改变其无人驾驶的设计，它拿到的认证是无人机适航证，后面会写）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fc1258d3237c5ff6d8e0bc9dfe712777_720w.jpg?source=8673f162" alt=""></figure>
-<p>从设计上看，这个载人飞行器比较简陋，(嗯，这个设计师也许真的只想做一款用于公园娱乐用的飞碟，面向文旅低空低速表演场景，而不需要高速前飞，也就不需要考虑航向静稳定性）。</p>
-<p>主要的问题，还是它这个 UFO 造型。</p>
-<p>玩过无人机的小伙伴都知道（首都人民以后可能就不知道了），多旋翼飞行器抗风能力较弱，对重心和动态滚转极敏感，当存在较强的风阵时，会让飞行器很容易发生滚转倾覆。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d550b48a1fd3d627ff2d61c3060fb263_720w.jpg?source=8673f162" alt=""><figcaption>猜猜它的重心在哪儿？（顺便看看下方的喷管）</figcaption></figure>
-<p>目前国际上大多数的操作，是把重心放在机体中心下方，从而减小倾覆的可能，比如下面这款 Joby Aviation S4：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d88d9882dcaaa0caa2bc80b1f47e79f6_720w.jpg?source=8673f162" alt=""></figure>
-<p>或者这款 德国产的 Volocopter VoloCity（eVTOL 圈不认识 Volocopter，大约相当于做手机的不认识诺基亚）：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7d7f4a952e8132aa47a67c2e9bba80e5_720w.jpg?source=8673f162" alt=""><figcaption>注意看平尾和垂尾的设计（这个是成熟型号，说是 AI 之前，可以动个小手查一查么）</figcaption></figure>
-<p><strong>等等，无人机能载人么？</strong></p>
-<p>看到评论区有人问，无人机能载人么？</p>
-<p>在这里补一句，这个 UFO 拿的是民用无人驾驶航空器许可证。</p>
-<p>按照国家规定（《民用无人驾驶航空器运行安全管理规则》）<sup>[1]</sup>，无人机有 2 种是可以载人的。</p>
-<p>一种是运输类民用无人驾驶航空器，是指最大审定起飞重量 3180 公斤（旋翼类）以上，或者载客 19 人以上。</p>
-<p>一种是正常类民用无人驾驶航空器，也就是指除前面这种运输类之外，最大审定起飞重量为 25 公斤及以上的。</p>
-<p>这 2 种都可以用于载人飞行、进行融合飞行或者在人口密集区域上方飞行的无人驾驶航空器系统。</p>
-<p>在法律上，无人机的无人，指的是无人驾驶，而不是上面有没有人。</p>
-<p><strong>先天的短板</strong></p>
-<p>这款载人无人机，安全性需要打个问号。为什么呢？</p>
-<p>除了飞控系统故障这个老生常谈的话题外（这家深圳智航是北航的一位同学创立的，飞控是主机厂自研的），单说这个飞碟型吧。</p>
-<p>这个 UFO 采用的是涵道风扇，好处嘛，一个是有话题性，另外也对周边人员更安全，但涵道风扇在特定条件下更容易出现空气动力学不稳定。</p>
-<p>叶尖泄漏、迎风分离、涡旋破裂、旋转失速以及涵道回流等等等等，空气动力学是会让人抓狂的一门学问。</p>
-<p>当它在低空悬停或者是缓慢盘旋的时候，就像视频里那样，如果遇到较强的<strong>侧风</strong>，涵道内的气流就有可能会发生不对称分离，这时候就会产生无法预料的侧向力和滚转力矩。在狂风天飞过无人机的小伙伴应该有体会，这种气动力扰动可大可小，如果大到超出了飞控系统的修正能力，就会表现出先向一侧倾斜的征兆，然后飞控修正不回来的话（那个大碟子的受风面实在是太大了），或者动力不足以拉回来，空气动力学裕度有限，就有可能恶化。</p>
-<p>无人机炸机了，可以再买，。载人的无人机炸机了，怎么办？</p>
-<p>我以前听过 618 所的大佬分享过一些飞控失败的案例，反正我目前是不太会把自己的命交给这样的无人机。</p>
-<p>但我相信，只要政策上不画圈，有资本的支持（这家 UFO 背后的资本是顺丰和清源资本等），那么总有一天，载人 eVTOL 会变得很安全。</p>
-<p>也许未来某天，当那时候的人坐上低空飞行器时，不会再想起当年这个不够安全的 UFO，就像我们今天坐飞机时，很少想起莱特兄弟摔过多少次一样。</p>
-<p>技术发展的重点，是不再重复同样的错误。每一次失控，都但愿能成为下一次安全起飞的注脚。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2083949287025788571">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792786</guid>
-                <pubDate>Fri, 25 Sep 2026 21:00:18 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>有哪些简称其实有着很长的全称？</title>
-                <link>http://daily.zhihu.com/story/9792791</link>
-                <description>宁南左侯，太极生二姨 查看知乎原文 安徽省。 当然这说的是清朝的安徽省，全称叫“江南安徽宁池太庐凤滁和广等处承宣布政使司”。当然，安徽敢这么玩，江苏也一定可以，于是就有了“江南江苏松常镇淮扬徐等处承宣布政使司”，虽然也很长，但是较之于安徽还是略输一筹。 安徽宁池太庐凤滁和广等处承宣布政使司，后边的“等处承宣布政使司”是单位统称，类似于现在的“省人民政府”，前边的“安徽宁池太庐凤滁和广”说的是地名，…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c058039a77369a71bcf858263a219d2b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-571144c7e5be56de5addd90c12056267_l.jpg?source=8673f162">
-<span class="author">宁南左侯，</span><span class="bio">太极生二姨</span>
-<a href="https://www.zhihu.com/question/2051352057316106785/answer/2081539118505447631" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>安徽省。</p>
-<p>当然这说的是清朝的安徽省，全称叫“<strong>江南安徽宁池太庐凤滁和广等处承宣布政使司</strong>”。当然，安徽敢这么玩，江苏也一定可以，于是就有了“江南江苏松常镇淮扬徐等处承宣布政使司”，虽然也很长，但是较之于安徽还是略输一筹。</p>
-<p>安徽宁池太庐凤滁和广等处承宣布政使司，后边的“等处承宣布政使司”是单位统称，类似于现在的“省人民政府”，前边的“安徽宁池太庐凤滁和广”说的是地名，分别是安庆府、徽州府、宁国府、池州府、太平府、庐州府、凤阳府、滁州、和州、广德州，也就是这个范围：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fa9e3e1edbc59abb5d3b5d380a7d046f_720w.jpg?source=8673f162" alt=""></figure>
-<p>这名字最大的好处就是……合理，谁都不落下。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7e538d3473dd869eddacf9135d5c81cd_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过诡异的是，这个名字和现在能见到的安徽布政司的官印印文并不一致，证据是目前能见到的安徽布政司的官印印文是“江南安徽等处承宣布政使司印”，我怀疑是乾隆改了，因为乾隆十三年的缙绅录里安徽还叫江南安徽宁池太庐凤滁和广等处承宣布政使司，但乾隆三十年已经成了安徽等处承宣布政使司了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ac65d377b2a704c9231183ab7bbb8409_720w.jpg?source=8673f162" alt=""></figure>
-<p>说起来，清代好几个省的名字都存在这种简称和全称的情况，或者说，全称与大家熟悉的简称不符。比如台湾省，台湾省全称是“<strong>福建台湾</strong>等处承宣布政使司”，因为台湾是从原福建布政司拆出来的，所以单位名字上继续挂着福建，同理还有新疆，光绪设省之后叫“<strong>甘肃新疆</strong>等处承宣布政使司”。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5d0846e2ee50043ee3d0281847e84947_720w.jpg?source=8673f162" alt=""></figure>
-<p>“新疆巡抚”的全程更长，“兵部侍郎兼都察院右副都御史巡抚甘肃新疆等处地方提督军务兼理粮饷”。</p>
-<p>说到这个，清朝的黑龙江在设省之前是黑龙江将军辖区，“黑龙江将军”是简称，全名是“镇守黑龙江等处地方将军”：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ee0234a7679625b7647e5af512b9be7b_720w.jpg?source=8673f162" alt=""></figure>
-<p>这颗印也加盖在了《尼布楚条约》上：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-87ba9894b13909511ff3831cbb55a5be_720w.jpg?source=8673f162" alt=""></figure>
-<p>“镇守黑龙江等处地方将军印”这十二个字，也是出现在《尼布楚条约》里的唯一一处汉字。</p>
-<p>将军印的这个字体并不是常见的篆体，与明清常见的九叠篆官印印文区别很大，这叫“柳叶篆”，是明清两朝武官印章的标准字体，比如这枚南明永历三年的“靖虏将军之印”：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0f2a4443183f1669aed4093f968e2a05_720w.jpg?source=8673f162" alt=""></figure>
-<p>甚至“镇守某某等处地方”这个词也是延续的明朝用法，明朝叫“镇守某某等处地方总兵官”，简称某某总兵，但这个总兵的官印并不是方的，而是长条的，也不叫印，而是叫关防，比如下边这颗“援剿总兵关防”——当然，这也是南明的，南明永历五年。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-70a66f280006a86502fb5eb2f505ee7e_720w.jpg?source=8673f162" alt=""></figure>
-<p>也就是说，清代黑龙江将军的官印是沿用明代总兵的称呼以及明代将军印方形柳叶篆的印制，结合而成。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2051352057316106785">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792791</guid>
-                <pubDate>Fri, 25 Sep 2026 21:00:19 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>有哪些小时候的科学常识现在被证实是伪知识？</title>
-                <link>http://daily.zhihu.com/story/9792794</link>
-                <description>云杉，知乎遗风，科研工作者，文理双修的战士。 查看知乎原文 我来个超经典的，现在还有大量人在吹捧、在坚信，甚至以此劝酒，伤害别人身体： 葡萄酒有白藜芦醇，可以降低血脂和胆固醇，保护心脑血管。 很长一段时间，什么养生专家、医学教授，都在为酒精利益共同体吹捧这东西。 某些电视台的节目，更是大言不惭地长篇夸耀。 试图以保健功效，掩盖「酒精是一类致癌物」这一关键事实。 很多红酒厂家、“健康养生”自媒体至今…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-876ba4dbbd0ec0e5313d10313401a3f6.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>如何推测出人类是从什么时候开始穿衣服的？</title>
+                <link>http://daily.zhihu.com/story/9792798</link>
+                <description>云杉，知乎遗风，科研工作者，文理双修的战士。 查看知乎原文 来，今天你当考古学家。 组织上已经决定了，安排你去搞清楚，人类究竟是什么时候开始穿衣服的。 刚开始，你把这个问题想地很简单。 不就是找衣服嘛。 我今个发掘出一块史前时代的兽皮斗篷，明个从某个洞穴里挖出一套冬装残骸。 再发动一下人脉，把全世界发掘出来的古衣服，做个碳 14 年份测定。 比较下哪件最久远，这活儿就结了。 发论文，做项目，评职称…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d5a6a7640cd30fb8ae30175379615b6c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -175,116 +33,162 @@
 <div class="meta">
 <img class="avatar" src="https://pica.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162">
 <span class="author">云杉，</span><span class="bio">知乎遗风，科研工作者，文理双修的战士。</span>
-<a href="https://www.zhihu.com/question/6364037251/answer/2082765312676590803" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/2082440988807651482/answer/2082501422319456952" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>我来个超经典的，现在还有大量人在吹捧、在坚信，甚至以此劝酒，伤害别人身体：</strong></p>
-<p>葡萄酒有白藜芦醇，可以降低血脂和胆固醇，保护心脑血管。</p>
-<p>很长一段时间，什么养生专家、医学教授，都在为酒精利益共同体吹捧这东西。</p>
-<p>某些电视台的节目，更是大言不惭地长篇夸耀。</p>
-<p><strong>试图以保健功效，掩盖「酒精是一类致癌物」这一关键事实。</strong></p>
-<p>很多红酒厂家、“健康养生”自媒体至今还在不遗余力地造谣传谣：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1eabd1258dc1c2e7e20f19c78132bbf9_720w.jpg?source=8673f162" alt=""></figure>
-<p>然而事实呢？</p>
-<p><strong>这玩意儿已经被学术打假锤烂了。</strong></p>
-<p><strong>是欺骗了全世界 30 年的骗局。</strong></p>
-<p>1939 年，日本科学家首次发现白藜芦醇。</p>
-<p>在被发现的几十年里，这种简单的成分没有被发现出任何功效。</p>
-<p>直到 1990 年，一名叫迪帕克·库马尔·达斯（Dipak Kumar Das）的学者把白藜芦醇推上了神坛。</p>
-<p>嗯，印度人，学术造假的味儿 nao 一下就上来了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2541bd2533db49f22538d48f77d365d1_720w.jpg?source=8673f162" alt=""></figure>
-<p>以下简称其为三哥。</p>
-<p>三哥毕业于印度理工，曾经是美国康涅狄格大学心血管研究中心的主任。</p>
-<p>他当时了解到了著名的“法国悖论”（French Paradox）：</p>
-<p>尽管法国人经常吃高油脂的非健康食品，但是法国人的心血管疾病发病率只有美国人的 1/3。</p>
-<p>有学者声称，这是法国人喜喝葡萄酒的习惯保护了他们。</p>
-<p><strong>三哥一拍脑门，觉得葡萄酒中疏通血管的功效性成分，就是白藜芦醇。</strong></p>
-<p>围绕这个观点，三哥在 11 篇期刊上发表了 26 篇论文来支持他的猜想，甚至还在论文中声称葡萄酒中的白藜芦醇可以延长人类寿命。</p>
-<p>国内外葡萄酒商家一看这还了得，以此作为卖点，大肆宣传，一吹就是 22 年。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-03a39b26125249c3657bf7770626eaa0_720w.jpg?source=8673f162" alt=""></figure>
-<p>海量学者还引用了这些论文，甚至在此基础上发表“新的成果”。</p>
-<p>然后，最戏剧性的反转就来了。</p>
-<p><strong>2012 年，三哥因论文造假被康涅狄格大学开除。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6676c58cde1c4f41f4e1c0eeb553e003_720w.jpg?source=8673f162" alt=""></figure>
-<p>康涅狄格大学在 2009 年 1 月收到了一封匿名举报信，指控三哥的实验室存在造假等研究违规行为。</p>
-<p>两周后，由 Kent Morest 博士领导的特别审查委员会开始了对三哥的调查。</p>
-<p>这一查，就是三年。</p>
-<p>2012 年 1 月，特别审查委员会出具了一份 60000 页的调查报告，移交给康涅狄格大学的研究诚信办公室。</p>
-<p>没错，不是六万字，是六万页...</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dab6a2f910ce88990352457744fe4fa5_720w.jpg?source=8673f162" alt=""></figure>
-<p>在这份报告中，他们列举了三哥包括伪造、篡改实验数据，盗用他人研究图像，P 图等问题。</p>
-<p><strong>光伪造和篡改实验数据，就多达 145 处。</strong></p>
-<p>面对这份报告，当事人三哥直接拒绝任何形式的回应，选择沉默。</p>
-<p>后来实在觉得老脸难堪，没脸没皮地反手起诉了一波康涅狄格大学。</p>
-<p>康涅狄格大学也没惯着他，把这份报告发给了涉及到白藜芦醇文章的 11 家杂志，并且向美国联邦政府退还了 89 万美金的近期研究资助。</p>
-<p><strong>搞笑的在后面，神化白藜芦醇的“师门老祖”已经倒台了，但是相关的研究还热度不减。</strong></p>
-<p>接下来的十几年，有研究者依然引用已经被撤稿的文章，继续“证实”白藜芦醇有用：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1416b2ababbe1524f3f932857525eb98_720w.jpg?source=8673f162" alt=""><figcaption>知网截图</figcaption></figure>
-<p>近些年，还有厂家制作出了以白藜芦醇为主要成分的保健品，声称其有抗衰老、抗氧化的功效。</p>
-<p>请了一堆明星艺人站台，高价售卖。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c6dfcfd0003f08357af6bbf235f04b8a_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后被定性为，跨国营销骗局：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7ff13e3f27df5d3a221a4e6405d76cee_720w.jpg?source=8673f162" alt=""></figure>
-<p>对于葡萄酒 / 其他酒的否定，不止白藜芦醇。</p>
-<p>2014 年，科学家在意大利基安蒂地区 783 名老年人长达 9 年的队列研究中得出结论，膳食水平的白藜芦醇代谢物与死亡率、心血管病、癌症或炎症指标均没有显著关联。</p>
-<p>大白话讲，* 用没有。</p>
-<p>2015 年，哈佛大学研究团队随机抽取了 4466 名超过 65 岁的老年人，发现即使是适量饮酒也会损伤心脏。</p>
-<p>而另一项覆盖 195 个国家和地区的研究得出的结论，<strong>酒精的安全摄入量是 0。</strong></p>
-<p><strong>原话是这么说的：</strong></p>
-<p>“总体健康损失最小的饮酒水平为 0 标准杯 / 周。”</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e46964c3f590d197c143aa1507dde718_720w.jpg?source=8673f162" alt=""></figure>
-<p>其他研究呢？</p>
-<p>针对 204 个国家和地区的饮酒人群做了分析。</p>
-<p><strong>结论：只要喝酒，身体就会损伤。</strong></p>
-<p>如果某人硬说，他不沾两滴浑身难受的话，科学家也给了一个“风险最低摄入量”：</p>
-<p>男性 0.136 标准杯 / 日、女性 0.273 标准杯 / 日。</p>
-<p>约等于不喝。</p>
-<p>世界卫生组织旗下国际癌症研究机构 IARC 白纸黑字说的很清楚：</p>
-<p>酒精饮料以及酒精饮料中的乙醇均与多种人类癌症存在因果关系，饮酒可增加<strong>口腔、咽、喉、食管、肝、结直肠和女性乳腺癌风险。</strong></p>
-<p>总而言之——</p>
-<p>谁要是再劝你喝酒，你就让他也发一篇医学顶刊。</p>
+<p><strong>来，今天你当考古学家。</strong></p>
+<p>组织上已经决定了，安排你去搞清楚，人类究竟是什么时候开始穿衣服的。</p>
+<p>刚开始，你把这个问题想地很简单。</p>
+<p>不就是找衣服嘛。</p>
+<p>我今个发掘出一块史前时代的兽皮斗篷，明个从某个洞穴里挖出一套冬装残骸。</p>
+<p>再发动一下人脉，把全世界发掘出来的古衣服，做个碳 14 年份测定。</p>
+<p>比较下哪件最久远，这活儿就结了。</p>
+<p>发论文，做项目，评职称，升职加薪，一切尽在眼前。</p>
+<p>很可惜。</p>
+<p>考古的第一课，永远是告诉你——</p>
+<p><strong>科学家最想找的东西，往往是最不容易留下来的玩意儿。</strong></p>
+<p>比如衣服。</p>
+<p>石头能存个几十万年，骨头呢，运气好，也能保存几十万年。</p>
+<p>但衣服不一样啊。</p>
+<p>兽皮会腐烂，植物纤维也会腐烂。</p>
+<p>哪怕赶巧了，这东西落在极端干燥的沙漠，或者永久冻土里，保存的环境无限美好。</p>
+<p><strong>也挺不住万年起跳的时间洗礼。</strong></p>
+<p>目前发现最久远的衣服，是来自埃及的一件连衣裙，叫塔尔坎连衣裙（Tarkhan Dress）。</p>
+<p>距今 5500 年左右。</p>
+<p>相比起至少 30 万年的人类史，像个新兵蛋子：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-882e0c1ec79ecd6aa140afbe0b62c1a5_720w.jpg?source=8673f162" alt=""></figure>
+<p>你总不能说，古埃及之前，老祖宗们都光着屁股，对吧。</p>
+<p>寻找最古衣服这套方案，还没开始实施就毙掉了。</p>
+<p>你只好换个思路。</p>
+<p><strong>既然衣服本身找不到，那你加工衣服，是不是得工具？</strong></p>
+<p>石器、骨器，这些东西经放诶！</p>
+<p>比如 4 万年前，欧亚大陆的多个遗址中，就发现了大量的骨针。</p>
+<p>那时候还没有容嬷嬷，所以基本断定这些针是拿来缝衣服的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-752d8b3293359e74833b9cdf3f275bca_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>光看针的话，还不够久。</strong></p>
+<p>在摩洛哥的一处名叫 Contrebandiers Cave 的洞穴里，你的考古学家同行们， 发现了一批距今约 12 万到 9 万年的骨制工具。</p>
+<p>这些工具光滑且圆钝，非常适合处理兽皮。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aa765c7c2832b5b71810231cabe3da90_720w.jpg?source=8673f162" alt=""></figure>
+<p>没有剥皮、制皮经验的小伙伴可能会觉得，不应该用快刀嘛？</p>
+<p>NO NO NO.</p>
+<p>假设现在你面前放着一张刚剥下来的兽皮，皮的内侧还粘连着脂肪、筋膜、肌肉和结缔组织。</p>
+<p>你必须把这些玩意儿清理掉，不然皮就会烂掉。</p>
+<p>用锋利的刀去刮，快是快，但很容易把皮给划破。</p>
+<p>相反，这种圆滑、宽而扁的家伙更好用。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-49a6928a0d255aa60bc996f75a029fb4_720w.jpg?source=8673f162" alt=""><figcaption>骨板的制作和使用方法</figcaption></figure>
+<p><strong>但是，光“这种骨器看起来很适合处理毛皮”，就去说 12 万年前人类就已经会剥皮、制皮，证据是不够的。</strong></p>
+<p>你的考古同行又在这个洞穴里，发现了多达 11702 件的动物骨头。</p>
+<p>大到野牛、角马，小到狐狸、野猫，应有尽有。</p>
+<p>在研究这些骨头的时候，同行们发现了个新的问题。</p>
+<p><strong>沙狐、金豺、野猫这些食肉动物的骨头，上面的划痕位置不对。</strong></p>
+<p>如果你杀一只动物是为了吃肉，最值得下刀的位置应该在哪里？</p>
+<p>当然是肌肉最多的地方，比如大腿和肩部。</p>
+<p>洞穴里野牛、角马骨骼上的伤痕，都在这些位置上。</p>
+<p>但如果想取一整张完整的毛皮呢？</p>
+<p>那就得从四肢末端下手，像脱衣服一样给皮扒下来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7dcdcb40a6ba9b5b0ce9ab165145b10e_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>而沙狐、金豺、野猫骨骼上的伤痕，就是从桡骨、尺骨、胫骨，这些四肢远端开始的。</strong></p>
+<p>四肢远端伤口 + 高度适配处理毛皮的工具，才让一切都对上了。</p>
+<p>强烈的间接证据表明，12 万年前，生活在摩洛哥的智人已经系统地剥取某些食肉动物的毛皮，并且极大概率用于服装、被褥了。</p>
+<p>毕竟那时候，取皮也想不到别的用处。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0fc6b2e0197870b23294443d77f7149b_720w.jpg?source=8673f162" alt=""></figure>
+<p>既然有了工具、伤痕这种间接证据。</p>
+<p><strong>你就在想，有没有更有趣的间接证据呢？</strong></p>
+<p>有的朋友，有的。</p>
+<p>真正精彩的部分，现在才开始。</p>
+<p>人类身上常见三种虱子。</p>
+<p>一种叫头虱，生活在头皮上。</p>
+<p>一种叫阴虱，懂得都懂。</p>
+<p><strong>还有一种呢，叫体虱。</strong></p>
+<p>虽然叫体虱，但实际住在衣服上。</p>
+<p>确切地说，是衣服的纤维、褶皱和接缝里。</p>
+<p>只在吸血的时候，才跳到人身上：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8b3e9079f5b72ba5ca714c1d75f6b09d_720w.jpg?source=8673f162" alt=""></figure>
+<p>哦，我亲爱的华生，你发现盲点了吗？</p>
+<p><strong>如果没有衣服，哪里来的体虱？</strong></p>
+<p>如果我们能知道衣虱大约什么时候从其他虱子的共同祖先中分化出来，就能间接证明人类啥时候开始穿衣服了！</p>
+<p>你现在已经从考古学家，变成了半个遗传学家。</p>
+<p>接下来要做的，是把衣虱和其他虱子的 DNA 摆在一起比较。</p>
+<p>比如衣虱和头虱。</p>
+<p>虽然两个种群来自一个虱子祖先，但分开得越久，头虱和衣虱积攒的遗传差异就越大。</p>
+<p><strong>然后你根据突变速率、种群历史等信息，建立「分子钟模型」。</strong></p>
+<p>早在 2003 年，德国马克斯·普朗克进化人类学研究所的科学家，就分析了来自全球样本的衣虱和头虱。</p>
+<p>当时估计，衣虱的起源不晚于大约 7.2 万±4.2 万年前。</p>
+<p>到了 2011 年，研究者使用更多位点，并采用能够同时考虑种群大小和基因交流的贝叶斯共祖模型重新计算。</p>
+<p><strong>结果，把时间可能的中位数，推到了 17 万年前。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b9d49ceb8f9ad971087615783a9dbaeb_720w.jpg?source=8673f162" alt=""></figure>
+<p>刚好，17 万年前，地球正处于更新世一个非常寒冷的冰期——</p>
+<p><strong>深海氧同位素第 6 阶段（Marine Isotope Stage 6，MIS 6）。</strong></p>
+<p>这个阶段，大约持续于 19 万—13 万年前。</p>
+<p>许多地区经历了显著的寒冷和干旱变化。</p>
+<p><strong>哪怕是非洲，都有着相当面积的冰原。</strong></p>
+<p>与此同时，人类祖先早已失去了大部分浓密体毛。</p>
+<p>不穿衣服，根本无法抵御严寒。</p>
+<p><strong>对上了，终于都对上了。</strong></p>
+<p><strong>一切的发现，都串联成了个伟大的故事：</strong></p>
+<p>很久以前，我们的祖先失去了大量体毛。</p>
+<p>在炎热环境中，这有利于散热。</p>
+<p>可一旦环境转冷，缺少体毛就成了弊端。</p>
+<p>于是某一段时间，世界各地，都有人偶然地把动物毛皮披到了自己身上。</p>
+<p><strong>暖和，真暖和。</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-cd64767edd0970b5d1e85e82307c4855_720w.jpg?source=8673f162" alt=""></figure>
+<p>他不会意识到，自己发明了一项改变整个人类历史的技术。</p>
+<p>他只知道，暖和，真他 ** 的暖和。</p>
+<p>人们纷纷效仿，同时开始专门获取毛皮。</p>
+<p>开始刮掉皮下组织。</p>
+<p>开始软化兽皮。</p>
+<p>开始打孔。</p>
+<p>开始用皮带固定。</p>
+<p>再后来，开始裁剪。</p>
+<p>开始缝合。</p>
+<p>最终制造出了真正贴合身体的复杂衣服。</p>
+<p>与此同时，一些原本生活在人类毛发中的虱子，获得了一片前所未有的新世界。</p>
+<p>衣服。</p>
+<p>它们钻进纤维。</p>
+<p>躲进褶皱。</p>
+<p>在那里交配、产卵、繁殖。</p>
+<p>一代又一代。</p>
+<p><strong>如同它们的宿主，人类一样。</strong></p>
+<p>那些最早的兽皮，现在已全部腐烂。</p>
+<p>制造出它们的人，也消失不见。</p>
+<p><strong>可几十万代虱子之后——</strong></p>
+<p><strong>人类技术革命留下的痕迹，仍然藏在虱子的 DNA 里。</strong></p>
+<p><strong>我们是写在虱子 DNA 里的史诗与赞歌。</strong></p>
 <p>以上</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ef96ac2f98ce3156a00ccdfa992ba799_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>参考内容：</strong></p>
+<p>参考文献：</p>
 <ul>
-<li><strong>白藜芦醇于 1939 年首次被分离：</strong><br> BERMAN A Y, MOTELEB M A A, HA E, et al. Resveratrol: twenty years of growth, development and controversy[J]. <em>Biomolecules &amp; Therapeutics</em>, 2018, 26(6): 561-571. DOI:10.4062/biomolther.2018.176.</li>
-<li><strong>1992 年 Renaud 与 de Lorgeril 在《柳叶刀》提出葡萄酒消费可能解释法国冠心病死亡率较低的“法国悖论”：</strong><br> RENAUD S, DE LORGERIL M. Wine, alcohol, platelets, and the French paradox for coronary heart disease[J]. <em>The Lancet</em>, 1992, 339(8808): 1523-1526. DOI:10.1016/0140-6736(92)91277-F.</li>
-<li><strong>同样是在 1992 年，研究者测出了葡萄酒中的白藜芦醇含量，并提出它可能是葡萄酒所谓降脂作用的候选成分之一：</strong><br> SIEMANN E H, CREASY L L. Concentration of the phytoalexin resveratrol in wine[J]. <em>American Journal of Enology and Viticulture</em>, 1992, 43(1): 49-52. DOI:10.5344/ajev.1992.43.1.49.</li>
-<li><strong>人体摄入白藜芦醇后虽然吸收率不低，但由于迅速进行肠道和肝脏代谢，游离白藜芦醇的口服生物利用度低于 1%：</strong><br> WALLE T. Bioavailability of resveratrol[J]. <em>Annals of the New York Academy of Sciences</em>, 2011, 1215: 9-15. DOI:10.1111/j.1749-6632.2010.05842.x.</li>
-<li><strong>在意大利基安蒂地区 783 名老年人长达 9 年的队列研究中，膳食水平的白藜芦醇代谢物与死亡率、心血管病、癌症或炎症指标均没有显著关联：</strong><br> SEMBA R D, FERRUCCI L, BARTALI B, et al. Resveratrol levels and all-cause mortality in older community-dwelling adults[J]. <em>JAMA Internal Medicine</em>, 2014, 174(7): 1077-1084. DOI:10.1001/jamainternmed.2014.1582.</li>
-<li><strong>2018 年的随机试验荟萃分析发现，白藜芦醇总体上没有显著降低总胆固醇、LDL-C 或提高 HDL-C，说明“白藜芦醇显著降血脂”并不是稳定的人体临床结论。</strong><br> HAGHIGHATDOOST F, HARIRI M. Effect of resveratrol on lipid profile: an updated systematic review and meta-analysis on randomized clinical trials[J]. <em>Pharmacological Research</em>, 2018, 129: 141-150. DOI:10.1016/j.phrs.2017.12.033.</li>
-<li><strong>2024 年的伞状荟萃分析进一步认为，白藜芦醇对总胆固醇和甘油三酯即使存在统计学改善，幅度也缺乏临床重要性，且 LDL-C 并无稳定显著改善。</strong><br> LI Z, LIU S, LIU Q, et al. Efficacy of resveratrol supplementation on lipid profile parameters: an umbrella of meta-analysis[J]. <em>Prostaglandins &amp; Other Lipid Mediators</em>, 2024, 175: 106903. DOI:10.1016/j.prostaglandins.2024.106903.</li>
-<li><strong>康涅狄格大学对 Dipak K. Das 实验室进行了约三年的调查，最终认定存在 145 项数据伪造或篡改问题，调查材料约 6 万页，并通知了 11 家相关学术期刊。</strong><br> UNIVERSITY OF CONNECTICUT. Scientific journals notified following research misconduct investigation[EB/OL]. (2012-01-11)[2026-09-14].</li>
-<li><strong>Das 调查还导致实验室外部资助被冻结，康涅狄格大学拒绝接受其新获得的 89 万美元联邦研究经费，并启动解聘程序。</strong><br> UNIVERSITY OF CONNECTICUT. Scientific journals notified following research misconduct investigation[EB/OL]. (2012-01-11)[2026-09-14].</li>
-<li><strong>2015 年的研究分析 4466 名老年人，发现较高饮酒量与多种心脏结构和功能改变相关，因此即便所谓“适量饮酒”，也不能简单宣传成对老年心脏有保护作用。</strong><br> GONÇALVES A, JHUND P S, CLAGGETT B, et al. Relationship between alcohol consumption and cardiac structure and function in the elderly: the Atherosclerosis Risk in Communities Study[J]. <em>Circulation: Cardiovascular Imaging</em>, 2015, 8(6): e002846. DOI:10.1161/CIRCIMAGING.114.002846.</li>
-<li><strong>IARC 早已将酒精饮料列为 1 类致癌物，即“有充分证据证明对人类致癌”。</strong><br> IARC WORKING GROUP ON THE EVALUATION OF CARCINOGENIC RISKS TO HUMANS. <em>Alcohol Drinking: IARC Monographs on the Evaluation of the Carcinogenic Risks to Humans, Vol.44</em>[M]. Lyon: International Agency for Research on Cancer, 1988.</li>
-<li><strong>IARC 后续重新评估确认，酒精饮料以及酒精饮料中的乙醇均与多种人类癌症存在因果关系，饮酒可增加口腔、咽、喉、食管、肝、结直肠和女性乳腺癌风险。</strong><br> IARC WORKING GROUP ON THE EVALUATION OF CARCINOGENIC RISKS TO HUMANS. <em>Alcohol Consumption and Ethyl Carbamate: IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol.96</em>[M]. Lyon: International Agency for Research on Cancer, 2010.</li>
-<li><strong>2018 年《柳叶刀》GBD 研究覆盖 195 个国家和地区，其综合 23 类健康结局后的结果显示，使总体健康损失最小的酒精摄入量为 0 标准杯 / 周。</strong><br> GBD 2016 ALCOHOL COLLABORATORS. Alcohol use and burden for 195 countries and territories, 1990—2016: a systematic analysis for the Global Burden of Disease Study 2016[J]. <em>The Lancet</em>, 2018, 392(10152): 1015-1035. DOI:10.1016/S0140-6736(18)31310-2.</li>
-<li><strong>2022 年另一项《柳叶刀》GBD 研究覆盖 204 个国家和地区，并进一步指出饮酒的净健康风险会随年龄、性别和疾病背景变化，因此不能把它与 2018 年的“195 国、总体最低风险为零”简单混为同一项研究。</strong><br> GBD 2020 ALCOHOL COLLABORATORS. Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020[J]. <em>The Lancet</em>, 2022, 400(10347): 185-235. DOI:10.1016/S0140-6736(22)00847-9.</li>
-<li><strong>对 15—39 岁人群而言，可使风险最低或接近不饮酒者的酒精量极低，报道的平均值约为男性 0.136 标准杯 / 日、女性 0.273 标准杯 / 日，一标准杯按 10 g 纯酒精计算。</strong><br> GBD 2020 ALCOHOL COLLABORATORS. Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020[J]. <em>The Lancet</em>, 2022, 400(10347): 185-235. DOI:10.1016/S0140-6736(22)00847-9.</li>
-<li><strong>WHO 目前明确指出，现有证据无法确定一个“癌症风险为零”的安全饮酒阈值，即便低水平饮酒也会增加部分癌症风险。</strong><br> ANDERSON B O, BERDZULI N, ILBAWI A, et al. Health and cancer risks associated with low levels of alcohol consumption[J]. <em>The Lancet Public Health</em>, 2023, 8(1): e6-e7. DOI:10.1016/S2468-2667(22)00317-6.</li>
+<li><strong>摩洛哥杰贝尔·伊鲁德遗址将早期智人的历史推至约 31.5 万年前，是“智人至少已有 30 万年历史”的核心年代学依据。</strong> <br> RICHTER D, GRÜN R, JOANNES-BOYAU R, et al. The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age[J]. <strong>Nature</strong>, 2017, 546(7657): 293-296. DOI:10.1038/nature22335.</li>
+<li><strong>杰贝尔·伊鲁德化石具有现代智人的面部、下颌和牙齿特征，同时保留较原始的脑颅形态，代表智人演化的早期阶段。</strong> <br> HUBLIN J J, BEN-NCER A, BAILEY S E, et al. New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens[J]. <strong>Nature</strong>, 2017, 546(7657): 289-292. DOI:10.1038/nature22336.</li>
+<li><strong>塔尔坎衣裙经直接碳十四测年约为公元前 3482—3102 年，是目前最古老、保存较完整且能够明确辨认为织制服装的实物之一。</strong> <br> STEVENSON A, DEE M W. Confirmation of the world's oldest woven garment: the Tarkhan Dress[J]. <strong>Antiquity</strong>, 2016, 90(349): 1-5.</li>
+<li><strong>旧石器时代有孔骨针大约 4 万年前开始在西伯利亚出现，随后见于高加索、东亚和欧洲，标志着复杂裁剪、缝制服装技术的发展。</strong> <br> GILLIGAN I, D'ERRICO F, DOYON L, et al. Paleolithic eyed needles and the evolution of dress[J]. <strong>Science Advances</strong>, 2024, 10(26): eadp2887. DOI:10.1126/sciadv.adp2887.</li>
+<li><strong>摩洛哥 Contrebandiers Cave 发现约 12 万—9 万年前的 62 件加工骨器，其中匙形肋骨工具的形态和磨损非常符合皮革、毛皮加工。</strong> <br> HALLETT E Y, MAREAN C W, STEELE T E, et al. A worked bone assemblage from 120,000–90,000 year old deposits at Contrebandiers Cave, Atlantic Coast, Morocco[J]. <strong>iScience</strong>, 2021, 24(9): 102988. DOI:10.1016/j.isci.2021.102988.</li>
+<li><strong>同一研究检查了 11702 件大型动物骨骼，发现沙狐、金豺和野猫的切痕集中在四肢远端和下颌等典型剥皮位置，而牛科动物切痕则主要位于肌肉丰富区域。</strong> <br> HALLETT E Y, MAREAN C W, STEELE T E, et al. A worked bone assemblage from 120,000–90,000 year old deposits at Contrebandiers Cave, Atlantic Coast, Morocco[J]. <strong>iScience</strong>, 2021, 24(9): 102988. DOI:10.1016/j.isci.2021.102988.</li>
+<li><strong>2003 年的经典分子钟研究首次系统利用头虱和衣虱 DNA 推算服装起源，估计衣虱约在 7.2 万±4.2 万年前形成。</strong> <br> KITTLER R, KAYSER M, STONEKING M. Molecular evolution of <em>Pediculus humanus</em> and the origin of clothing[J]. <strong>Current Biology</strong>, 2003, 13(16): 1414-1417. DOI:10.1016/S0960-9822(03)00507-4.</li>
+<li><strong>2011 年的多位点贝叶斯共祖研究进一步把头虱—衣虱分化的后验分布众数估为约 8.3 万年前、中位数约 17 万年前，从而推测智人在非洲十几万年前已可能经常使用衣物。</strong> <br> TOUPS M A, KITCHEN A, LIGHT J E, REED D L. Origin of clothing lice indicates early clothing use by anatomically modern humans in Africa[J]. <strong>Molecular Biology and Evolution</strong>, 2011, 28(1): 29-32. DOI:10.1093/molbev/msq234.</li>
+<li><strong>MC1R 遗传学研究曾据此推测人类浓密体毛的丧失至少可追溯到约 120 万年前，为“先失去体毛、后产生服装保温压力”的演化框架提供了间接依据。</strong> <br> ROGERS A R, ILTIS D, WOODING S. Genetic variation at the MC1R locus and the time since loss of human body hair[J]. <strong>Current Anthropology</strong>, 2004, 45(1): 105-108. DOI:10.1086/381006.</li>
+<li><strong>对 85 组非洲古气候资料的综合分析表明，约 15 万—3 万年前非洲不同纬度地区的冷暖、干湿变化并不同步，因此不能简单把 MIS 6 描述成“非洲大面积冰原”。</strong> <br> BLOME M W, COHEN A S, TRYON C A, et al. The environmental context for the origins of modern human diversity: A synthesis of regional variability in African climate 150,000–30,000 years ago[J]. <strong>Journal of Human Evolution</strong>, 2012, 62(5): 563-592. DOI:10.1016/j.jhevol.2012.01.011.</li>
 </ul>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/6364037251">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2082440988807651482">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792794</guid>
-                <pubDate>Fri, 25 Sep 2026 21:00:20 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792798</guid>
+                <pubDate>Sat, 26 Sep 2026 03:06:25 GMT</pubDate>
             </item>
             
             <item>
-                <title>地仙是最弱的仙，还是只是一种仙？</title>
-                <link>http://daily.zhihu.com/story/9792796</link>
-                <description>知乎用户，寄遇黄粱且睡去梦里却忘君颜色 查看知乎原文 古史辨学派有一个很著名的观点，叫做“层累说”，大意是认为上古传说是历代不断添加、改造、堆叠的结果，时代越晚的传说，它的世界观就越完善。神仙传说也是如此。所谓地仙，其实就是最早期神仙传说中仙人的本始状态。 你看秦始皇求仙，他也得一次次去海边去找海上仙山，不会坐在家里等着天仙降临，因为当时根本就没有这种说法。 那时的神仙还没有完全脱离原始崇拜的范畴…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-375a70f2a2c50a6989294451fe579962.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>古代真的能女扮男装吗？</title>
+                <link>http://daily.zhihu.com/story/9792807</link>
+                <description>知乎用户，宁静慎独，讷于言，敏于行。 查看知乎原文 总不能把身形健硕的女性开除女籍吧？ “花木兰”的故事太过久远没有画像可以证明她到底长啥样，但美国南北战争时期，大约有 400 名女扮男装的参军者，其中有人有照片留下来。 这是莎拉·罗塞塔·韦克曼（Sarah Rosetta Wakeman）穿军装的照片： 莎拉·罗塞塔·韦克曼（Sarah Rosetta Wakeman） 你能分辨出她是一个女人吗…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-b26e5542a6b2760afe5143846bf1734b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -305,47 +209,271 @@
 
 <div class="meta">
 <img class="avatar" src="https://pic1.zhimg.com/da8e974dc_l.jpg?source=8673f162">
-<span class="author">知乎用户，</span><span class="bio">寄遇黄粱且睡去梦里却忘君颜色</span>
-<a href="https://www.zhihu.com/question/277552341/answer/2081512572394673450" class="originUrl" hidden>查看知乎原文</a>
+<span class="author">知乎用户，</span><span class="bio">宁静慎独，讷于言，敏于行。</span>
+<a href="https://www.zhihu.com/question/416947758/answer/2084061245079021404" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>古史辨学派有一个很著名的观点，叫做“层累说”，大意是认为上古传说是历代不断添加、改造、堆叠的结果，时代越晚的传说，它的世界观就越完善。神仙传说也是如此。所谓地仙，其实就是最早期神仙传说中仙人的本始状态。</p>
-<p>你看秦始皇求仙，他也得一次次去海边去找海上仙山，不会坐在家里等着天仙降临，因为当时根本就没有这种说法。</p>
-<p>那时的神仙还没有完全脱离原始崇拜的范畴，除了能长生以外，过得是很惨的，司马相如就说：</p>
-<blockquote>列仙之传居山泽间，形容甚臞，此非帝王之仙意也。</blockquote>
-<p>传说中的仙人个个都瘦得跟难民一样，那帝王求仙还有什么意思？</p>
-<p>所以在其《大人賦》中，司马相如直接写武帝和天上的神灵一起玩，根本看不上神仙，结尾还要 diss 一下当时的神仙顶流西王母，说：</p>
-<blockquote>乃今目睹西王母皓然白首，载胜而穴处兮，亦幸有三足乌为之使。</blockquote>
-<p>完全就是个需要三足乌照顾的老太太，而且还住在山洞（穴处）里，感叹说：</p>
-<blockquote>必长生若此而不死兮，虽济万世不足以喜。</blockquote>
-<p>如果只有这样才能长生，那这神仙不当也罢。</p>
-<p>后来随着武帝对求仙越来越狂热，方士为了打败同行获得武帝赏识而不停制造暴论，这才出现了黄帝“仙登于天”的说法，但当时这或许是皇帝专享的白日梦，没有流传开来，所以在大致成书于东汉的《列仙传》里，提到的 70 个神仙没有一个升天的，全都是成仙后就躲进了深山老林里，隔多少年出来在人间亮个相而已。所以此时仍是只有地仙，而没有天仙。</p>
-<p>东汉晚期，《太平经》横空出世，为原始道教补充了大量设定，提出了“一为神人，二为真人，三为仙人，四为道人，五为圣人，六为贤人”的六等阶层划分，但依然没有天仙，臭人间的想去天上要饭的资格都没有。</p>
-<p>直到魏晋以后，战乱频仍，现实的残酷使得许多文化人将希望寄托于虚无缥缈的神仙世界，而这些文化人在现实中的地位要高过平民百姓一头，所以即使修仙，也不能是像其他人一样是只知道钻山沟的地仙，而必须“高居庙堂之上”，于是将目光投向了天上，在东晋葛洪《抱朴子》中，便说：</p>
-<blockquote>上士举形升虚，谓之天仙。中士游于名山，谓之地仙。下士先死后蜕，谓之尸解仙。</blockquote>
-<p>仙界的构成由此增添了一层累积。</p>
-<p>在葛洪所著《神仙传》中，便借彭祖之口 diss 地仙，说是“失其本真，更守异气，余之愚心，未愿此已。”曾经秦皇汉武都求之不得的地仙，此时却已经被看不上了。</p>
-<p>而天仙的生活自然也要远胜过地仙，南北朝时道士所撰《汉武内传》，写已经成为天仙的西王母夜会汉武帝，降临时带着一帮天仙：</p>
-<blockquote>或驾龙虎，或乘白麟，或乘白鹤，或乘轩车，或乘天马，群仙数千，光耀庭宇。</blockquote>
-<p>比起《列仙传》里大多只能自己腿着的地仙不啻天壤之别。</p>
-<p>但天仙也不是那么好当，《神仙传》里就提到一个马鸣生，他本来得到了可以白日升天的神药，却故意只吃了半服，留在人间当了地仙。还有一个白石先生，在成为地仙后不肯再吃升天之药，说是：</p>
-<blockquote>天上复能乐比人间乎？但莫使老死耳。天上多至尊，相奉事，更苦于人间。</blockquote>
-<p>普通人就算白日升天，到头来也还是摆脱不了当牛马的命运。因为那帮道士设想的天仙世界里，要么是西王母这样的老牌神仙，要么是三天太上道君这样的创世古神，要么是上元夫人、云华夫人这样的漂亮仙女，根本没有给普通人留位置。</p>
-<p>最惨的是淮南王刘安，在《神仙传》里他放着诸侯王不当，费尽千辛万苦非要白日升天，结果升天后因为一点小事得罪了大仙，被“谪守都厕三年”，成了看厕所的，属实是黑色幽默了。</p>
+<p>总不能把身形健硕的女性开除女籍吧？</p>
+<p>“花木兰”的故事太过久远没有画像可以证明她到底长啥样，但美国南北战争时期，大约有 400 名女扮男装的参军者，其中有人有照片留下来。</p>
+<p>这是莎拉·罗塞塔·韦克曼（Sarah Rosetta Wakeman）穿军装的照片：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-261db8105880502c932c5cd1e6cb3e15_720w.jpg?source=8673f162" alt=""><figcaption>莎拉·罗塞塔·韦克曼（Sarah Rosetta Wakeman）</figcaption></figure>
+<p>你能分辨出她是一个女人吗？</p>
+<p>莎拉·韦克曼出生于美国纽约州班布里奇的一个贫困农民家庭，她是家中九个孩子中的老大。</p>
+<p>因为家庭贫困，债务缠身，身为长女的她早早承担起照顾家庭的重担，曾做过女佣等工作。</p>
+<p>19 世纪的美国，女性薪酬极低，且就业选择非常有限。</p>
+<p>为了谋求生计并偿还家庭债务，1862 年 8 月，19 岁的莎拉做出了一个大胆的决定，她换上男装离开家乡，以男性的身份寻找工作。</p>
+<p>她最初在切南戈运河的一艘煤炭驳船上找到了一份运河船工的苦力工作，由于表现出色，拿到了比当女佣时高得多的薪水。</p>
+<p>在做船工期间，莎拉遇到了纽约州志愿步兵团的征兵人员。</p>
+<p>当时，北军为了吸引人员参军，开出了高达 152 美元的入伍奖金。</p>
+<p>这笔钱在当时是一笔巨款，足以解决她的家庭经济危机。</p>
+<p>1862 年 8 月 30 日，她使用“莱昂斯·韦克曼”的化名登记入伍，谎称自己年龄为 21 岁，实际只有 19 岁。</p>
+<p>根据征兵档案记录，她“身高 5 英尺（约 152 公分），皮肤白皙，蓝眼睛，棕色头发”。</p>
+<p>尽管身材矮小，由于当时南北内战正激烈，两边都很缺人手，所以体检也不太严格，通常只检查是否有门牙能咬开子弹纸壳，大拇指是否健全。</p>
+<p>她以男性身份成功瞒过征兵官通过体检，被编入纽约州第 153 志愿步兵团 H 连。</p>
+<hr>
+<p>1862 年 10 月，莎拉·韦克曼所在的步兵团拔营前往华盛顿特区。</p>
+<p>在服役后的一年半时间里，莎拉随军驻扎在弗吉尼亚州的亚历山德里亚以及华盛顿国会山一带，主要负责纠察和警卫任务。</p>
+<p>服役期间，她展现出了极高的军人素养和荣誉感。</p>
+<p>在给家人的信中，她源源不断地将服役津贴寄回纽约老家帮家庭还债。</p>
+<p>有趣的是，尽管她在信中频繁签署自己的本名“罗塞塔”（Rosetta），但或许是由于战时邮政混乱，这个秘密从未被军方截获。</p>
+<p>更巧合的是，莎拉在华盛顿特区的监狱担任看守期间，曾奉命看管过一名因“女扮男装企图加入北军”而被捕的女性，而她自己当时就正穿着制服工作却无人发现。</p>
+<p>她在给家人的信中写道：“我不知道自己还要多久才能上战场。对我而言，我不在乎，我并不害怕。”</p>
+<p>1864 年 2 月，纽约第 153 步兵团被调往纳撒尼尔·P·班克斯将军麾下，前往路易斯安那州参加红河战役（Red River Campaign）。</p>
+<p>1864 年 4 月 9 日，莎拉经历了她人生中第一场、也是唯一一场真正意义上的大激战——普莱森特希尔战役。</p>
+<p>莎拉与男兵们肩并肩战斗，在战线上连续开枪射击，击退了邦联军的 6 次冲锋。</p>
+<p>她在信中向家里描述了战场上的惨烈景象：满地的战马与士兵尸体，空气中弥漫着腐烂的气味。</p>
+<blockquote>“我军沿河推进到普莱森特山，大约 40 英里。在那里我们遭遇了一场战斗。战斗的第一天，我军惨败，被迫撤退了大约 10 英里。第二天战斗再次爆发，大约在早上八点钟开火。整天炮火猛烈，步兵也进行了激烈的射击。我没有参加第一天的战斗，但第二天我不得不和我的团一起面对敌人的子弹。我在枪林弹雨中待了大约四个小时，并在战场上躺了一整夜。我的连队有三人受伤，一人阵亡。我感谢上帝保佑我活了下来，我祈祷他能带领我平安地穿过战场，让我平安回家。”</blockquote>
+<p>莎拉虽然在激烈的战斗中幸存了下来，但她最终没能躲过比子弹更具杀伤力的传染病。</p>
+<p>红河战役期间，由于热带丛林饮用水源极度匮乏，北军士兵常常被迫饮用混有腐烂动物尸体的水，莎拉不幸染上了严重的阿米巴痢疾（慢性腹泻）。</p>
+<p>5 月 3 日，她被送往路易斯安那州亚历山德里亚的野战医院，随着病情恶化，于 5 月 22 日被转移到新奥尔良的美国陆军通用海军医院。</p>
+<p>1864 年 6 月 19 日，莎拉·韦克曼在忍受了近两个月的病痛折磨后，最终在新奥尔良去世，年仅 21 岁。</p>
+<p>从她患病住院治疗到病逝，乃至医生护士处理遗体时，她的女性身份竟奇迹般地从未被发现或上报过。</p>
+<p>她以“莱昂斯·韦克曼列兵”的身份，安葬在路易斯安那州的查尔梅特国家公墓（Chalmette National Cemetery），墓碑上刻着：Pvt. Lyons Wakeman, N.Y. 。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-947f7862bf34cf0881180afe1c5aa198_720w.jpg?source=8673f162" alt=""><figcaption>“莱昂斯·韦克曼列兵”的墓碑</figcaption></figure>
+<p>这个秘密被保留了 112 年，直到 1976 年，莎拉·韦克曼妹妹的曾孙杰克逊·多恩（Jackson Doane），在翻修纽约州老家的旧阁楼时，意外发现了一个松木箱，里面装有她当年寄回家的信件、一张她身穿北军制服的照片以及一枚刻有她名字和步兵团号的银戒指。</p>
+<p>杰克逊·多恩仔细阅读并研究了这些信件的内容，震惊地发现了自己祖辈女扮男装入伍北军的秘密。</p>
+<p>随后，他将这些遗物提供给了美国历史学家。</p>
+<p>1994 年，历史学家劳伦·布吉斯（Lauren Burgess）将这些信件整理编辑，出版了《一位不同寻常的士兵：莎拉·罗塞塔·韦克曼的内战信件》<sup>[1]</sup>一书，将这段尘封一百多年的故事公之于众。</p>
+<p>由于莎拉·韦克曼留下了大量一手书信资料，这让她的故事成为美国内战史上资料最完整、最可信的女性士兵。</p>
+<p>但她并不是唯一案例。</p>
+<p>洛蕾塔·维拉斯奎兹（Loreta Janeta Velazquez）出生于古巴贵族家庭，内战爆发后，她的丈夫加入了南军却不幸在训练中意外身亡。</p>
+<p>洛蕾塔戴上假胡子、垫高肩膀，化名“哈利·布福德中尉”，自己组建了一支民兵队奔赴前线。</p>
+<p>她在谢利夏洛战役中英勇作战，由于数次负伤，女性身份被南军军医发现并被勒令退伍。</p>
+<p>但她没有放弃，随后转行成为了南军的高级女间谍，甚至成功潜入华盛顿的北军高层获取情报，当起了双面间谍。</p>
+<p>阿尔伯特·卡希尔（Albert Cashier），本名叫珍妮·霍金斯（Jenny Hodgers），他在北军服役了整整三年，参加了包括维克斯堡战役在内的 40 多场战斗，表现非常英勇。</p>
+<p>阿尔伯特完全认同自己的男性身份，战后继续以男性的身份生活、工作、给选民投票（当时女性没有投票权）长达 40 多年。</p>
+<p>直到 1910 年他遭遇车祸大腿骨折，医生在检查时才发现了这个惊天秘密。</p>
+<p>阿尔伯特晚年患上了认知障碍，被送进精神病院，院方强制他穿上女性的裙子，这让他感到极大的羞辱和痛苦。</p>
+<p>阿尔伯特死后，当年的老战友们为他穿上北军制服，并在他的墓碑上刻上了他的男性化名“阿尔伯特·卡希尔”。</p>
+<hr>
+<p>当然，美国内战时期出现这么多女扮男装参军的案例，也是有时代特殊性。</p>
+<p>战争最激烈的时候，南北两边都在大规模征兵，体检往往只有几秒钟。</p>
+<p>很多未成年的十四五岁男孩谎报年龄参军，收入低或者找不到工作的女人，自然也会被巨额入伍金吸引而参军。</p>
+<p>只要门牙能咬开纸质的子弹药包，右手大拇指和食指健全确保能扣动扳机，能正常行走跟上行军，就能通过体检。</p>
+<p>由于物资匮乏，军队卫生条件很差，很多士兵一年只洗一两次澡，甚至几个月都不脱衣服睡觉。</p>
+<p>当时的军队制服又非常宽大，足以掩盖女性的身体特征。</p>
+<p>双兔傍地走，安能辨我是雄雌。</p>
+<p>《木兰辞》里的描述挺写实的。</p>
+<p>可能是现代人古偶剧看多了，反而限制了对于“女扮男装”的想象。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/277552341">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/416947758">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792796</guid>
-                <pubDate>Fri, 25 Sep 2026 21:00:21 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792807</guid>
+                <pubDate>Sat, 26 Sep 2026 03:06:26 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>什么东西被发明出来后，莫名其妙地违背了它的用途？</title>
+                <link>http://daily.zhihu.com/story/9792817</link>
+                <description>白露未晞me，有的人喜欢瞻仰皇陵，而有的人喜欢凭吊荒冢。 查看知乎原文 emmmmm，要不我来提名一下知识蒸馏 (knowledge distillation)？ 知识蒸馏早期的一个主要目标其实就是模型压缩。其中一个集大成的工作是 Hinton 他们的Distilling the Knowledge in a Neural Network，核心思想无非是大型神经网络或者多个模型组成的 ensemb…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-0091bb1bb522a78ae5ff6d002002c3b3.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pica.zhimg.com/v2-b0cbf6f7a48dbcf82f119d4cdc23edb9_l.jpg?source=8673f162">
+<span class="author">白露未晞me，</span><span class="bio">有的人喜欢瞻仰皇陵，而有的人喜欢凭吊荒冢。</span>
+<a href="https://www.zhihu.com/question/2083219865272374442/answer/2084316011449278579" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>emmmmm，要不我来提名一下知识蒸馏 (knowledge distillation)？</p>
+<p>知识蒸馏早期的一个主要目标其实就是模型压缩。其中一个集大成的工作是 Hinton 他们的<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//arxiv.org/abs/1503.02531" target="_blank" rel="nofollow noreferrer">Distilling the Knowledge in a Neural Network</a>，核心思想无非是大型神经网络或者多个模型组成的 ensemble 效果很好，但真正部署起来又慢又贵，于是可以让一个更小的 Student 去模仿 Teacher，把 Teacher 输出中包含的信息"蒸馏"到小模型里。</p>
+<p>即大而强的 Teacher &gt;&gt;&gt;&gt; 小而便宜且方便部署的 Student。</p>
+<p>但是后来事情就莫名其妙地变得诡异了起来 Orz。 研究者开始更关注蒸馏对训练本身的影响了。</p>
+<p>2017 年 CVPR 的 <a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//openaccess.thecvf.com/content_cvpr_2017/html/Yim_A_Gift_From_CVPR_2017_paper.html" target="_blank" rel="nofollow noreferrer">A Gift From Knowledge Distillation</a> 就报告了几个有意思的结果：通过网络中间层传递信息，接受知识迁移的 Student 不仅优化速度更快，而且可以超过一个与自己大小相同、直接从头训练的网络。甚至 Teacher 是在另一个任务上训练出来的，知识迁移有时照样能带来收益。这些结果不得不让人更想单独研究一下：蒸馏究竟怎样影响了模型的训练？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d3180ae0fb806a4e4ec1ba55d256c128_720w.jpg?source=8673f162" alt=""><figcaption>A Gift From Knowledge Distillation</figcaption></figure>
+<p>于是大家就开始"玩花活"了(注：此处为褒义)，其中以 2018 年 ICML 的 <a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//proceedings.mlr.press/v80/furlanello18a.html" target="_blank" rel="nofollow noreferrer">Born Again Neural Networks</a>最为出圈，现在都快 2000citations 了。</p>
+<p>作者暂时放下了模型压缩这个目标，直接研究 Student 和 Teacher 一样大的情况。在这组实验里，两者使用完全相同的网络结构和参数规模。Teacher 训练完以后，用它的预测去教一个重新随机初始化、结构与自己相同的 Student。结果，在多组实验中，Student 居然超过了 Teacher (作者在计算机视觉和语言建模任务上都观察到了这种现象)。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-10bbe8c6c0f5982b480d5cf0a787ba8b_720w.jpg?source=8673f162" alt=""><figcaption>Born Again Neural Networks</figcaption></figure>
+<p>到这里，知识蒸馏的用途就出现了一个很有意思的变化。最初的出发点是"Teacher 太大，所以需要一个更小的 Student"；现在却发现，Teacher 和 Student 可以一模一样大，而且 Student 还可能比 Teacher 强。更有意思的是，这还没完。既然新训练出来的 Student 可以表现得更好，那干脆让它毕业以后继续当下一代 Teacher：</p>
+<p><img class="content-image" src="https://www.zhihu.com/equation?tex=T_0+%5Cto+T_1+%5Cto+T_2+%5Cto+T_3+%5Cto+%5Ccdots" alt=""></p>
+<p>于是，同一个网络架构可以一代一代地"教自己的下一代"。当然，效果不会保证逐代提高：原论文就观察到，收益经过几代后会趋于饱和，有的代次还会回落。而这种让同架构模型教下一代的做法，还有一个更家喻户晓的名字，那就是 self-distillation (因为这其实也算是自蒸馏的一种形式)。</p>
+<p>2019 年 ICCV 的 <a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//arxiv.org/abs/1905.08094" target="_blank" rel="nofollow noreferrer">Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation</a> 又展示了另一种做法。作者连一个独立、预先训练好的 Teacher 都不要了，直接在同一个网络的不同深度接上辅助分类器，让最深分支的预测和特征去指导较浅分支，整个网络一起训练，相当于网络内部自己给自己做知识蒸馏。在 CIFAR-100 上，将各分支的预测集成后，相对普通训练基线的准确率平均提升了 2.65 个百分点，不同架构上的提升从 0.61 到 4.07 个百分点不等。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-43553161c66c908fcd0e6e2b3eb0f376_720w.jpg?source=8673f162" alt=""><figcaption>Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation</figcaption></figure>
+<p>于是，知识蒸馏的用途就从"大模型教小模型"，扩展到了"一样大的模型也可以教，学生甚至可以超过老师"，再到"同一个网络内部也能自己教自己"。</p>
+<p>再后来，花样就更多了，而且是一系列更加如雷贯耳的工作，譬如 BYOL → DINO → iBOT → data2vec → DINOv2 → SigLIP 2。这些想必能刷到这个回答的人都看过，我就不多说。</p>
+<p>不过也许我们这里可以简单偏个题，Teacher 到底提供了什么样的信息？</p>
+<p>Hinton 最初讨论知识蒸馏时，一个很重要的想法是 soft targets，也就是软标签中包含的 dark knowledge。比如一张猫的图片，标准标签只会告诉网络"它是猫"；Teacher 可能输出猫 0.9、狗 0.07、狐狸 0.02、汽车 0.01。这里除了正确答案，其余类别的相对概率也包含信息：在 Teacher 看来，这张图片更容易与狗混淆，与汽车混淆的可能性则小得多。</p>
+<p>Born Again Neural Networks 专门拿这件事做了实验。他们设计了 Dark Knowledge with Permuted Predictions，简称 DKPP：保留 Teacher 预测概率最高的类别及其概率，把其余类别的概率随机调换位置。这样一来，"哪个非首选类别对应哪个概率"的关系就被打乱了，但 Teacher 的最高置信度和整组概率值仍然保留着。</p>
+<p>结果，使用这些被打乱的输出训练，Student 仍然可以超过 Teacher，不过提升通常小于完整的蒸馏方法。这说明，具体的类别关系并不足以解释全部收益，打乱后保留下来的信息也能帮助训练。</p>
+<p>到了 2020 年，Mobahi、Farajtabar 和 Bartlett 在 NeurIPS 的 <a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//proceedings.neurips.cc/paper_files/paper/2020/hash/2288f691b58edecadcc9a8691762b4fd-Abstract.html" target="_blank" rel="nofollow noreferrer">Self-Distillation Amplifies Regularization in Hilbert Space</a> 里直接研究了前面那个问题：自蒸馏没有收到关于任务的新信息，为什么模型在未参与训练的数据上仍然可能表现得更好？</p>
+<p>他们在一个带有正则化、可以严格分析的 Hilbert 空间函数拟合模型里发现，反复自蒸馏会强化正则化效果，逐渐限制构成拟合函数的成分。这样一来，前几轮自蒸馏可能抑制过拟合，提高泛化能力；继续蒸馏下去，约束越来越强，又可能开始欠拟合，性能反而下降。虽然这个理论有明确的模型假设，不能直接当成所有深度神经网络的统一解释，但它给出了一个具体机制：即使没有新增的任务信息，训练方式的变化也足以带来泛化收益。</p>
+<p>Anyway，感觉这一系列的工作的发展还是挺有意思的。(ง •̀_•́)ง</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2083219865272374442">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792817</guid>
+                <pubDate>Sat, 26 Sep 2026 03:06:27 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>日本为啥很少有米线之类的米加工品？</title>
+                <link>http://daily.zhihu.com/story/9792820</link>
+                <description>看星空的仓鼠，代文曲星品酒 / 商业合作请私信 or 微信咨询 查看知乎原文 别跟鼠说，题主没吃过日式年糕哦。 除了日式年糕，还有「水饴（みずあめ / Mizuame）」、「羊羹（ようかん / Youkan）」、「轻羹」等大米磨粉或榨糖做的甜食（和菓子），而磨粉做成粉儿面条，在日本列岛没有发展土壤。 一方面是我国面条工艺东传时间过于晚、相应工具也相对晚传入，一方面则是列岛公卿贵族早期更热衷于折腾金…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-9794dd04d3dec632a8fe37241fdf98d4.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-b97db5517ef3853f38253a4cabaa133d_l.jpg?source=8673f162">
+<span class="author">看星空的仓鼠，</span><span class="bio">代文曲星品酒 / 商业合作请私信 or 微信咨询</span>
+<a href="https://www.zhihu.com/question/2080365717191405773/answer/2082901183392396111" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>别跟鼠说，题主没吃过日式年糕哦。</p>
+<p>除了日式年糕，还有「水饴（みずあめ / Mizuame）」、「羊羹（ようかん / Youkan）」、「轻羹」等大米磨粉或榨糖做的甜食（和菓子），而磨粉做成粉儿面条，在日本列岛没有发展土壤。</p>
+<p>一方面是我国面条工艺东传时间过于晚、相应工具也相对晚传入，一方面则是列岛公卿贵族早期更热衷于折腾金贵的大米做甜食。</p>
+<p>所以就没米线米粉儿登场的可能性嘞……</p>
+<p>咳咳，回到正题，先聊聊这些米加工品类甜食吧。</p>
+<p>从「羊羹」开始。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8673d849107952fda25f51aba9b77079_720w.jpg?source=8673f162" alt=""><figcaption>现代日本的羊羹，如今也传回了我国……这一款名为“炼羊羹”，其实已经不需要大米成分了</figcaption></figure>
+<p>跟日本茶道与抹茶工艺的起源相同，羊羹的最早起源地是佛教寺院。</p>
+<p>不过更古早起源是寺院外的俗世……确切地说是我国南北朝时期的北朝宫廷。</p>
+<p>公元 428 年，北魏雄主拓跋焘攻灭了盘踞在今甘肃天水一带的胡夏，早先归降胡夏的汉将毛修之也率军归顺北魏，被屡次重用。</p>
+<p>毛修之精通战法还热爱美食，非常擅长料理羊肉。</p>
+<p>在跟着拓跋焘转战四方的闲暇时节，毛修之就琢磨如何利用北国当时的寒凉天气来制作精细羊肉料理，某次借炖羊肉汤的机会，他有了意外发现。</p>
+<p>羊肉含有足量胶原蛋白，在炖煮后如若控制降温冷却速度，会使肉中析出到汤里的胶原蛋白逐渐凝结，成为一种近似凉粉的凝胶，就如现代人喜爱的肉皮冻、鱼冻一样。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0da8794952705b334264e17e3321cbf2_720w.jpg?source=8673f162" alt=""><figcaption>今天我国仍然有吃羊肉冻、羊皮冻的习惯，称之为羊糕，只是相对于日式羊羹已经很小众了</figcaption></figure>
+<p>毛修之就把这发现量产化，做成新式料理，上呈给当时的北魏尚书（一说是名相崔浩）。</p>
+<p>尚书吃美了，就又推荐给拓跋焘，拓跋焘吃了更高兴，火箭式提拔了毛修之，还专门让他变着法子教御厨怎么做饭。</p>
+<blockquote>修之尝为羊羹，以荐虏尚书，尚书以为绝味，献之于焘；焘大喜，以修之为太官令。稍被亲宠，遂为尚书、光禄大夫、南郡公，太官令、尚书如故。——【萧梁】沈约《宋书 · 卷四十八 · 列传第八 · 毛脩之》</blockquote>
+<p>于是羊羹就这么出场了，只是发展成素食甜点心，还要等到唐代。</p>
+<p>在唐代，尤其是白江口海战后，日本大和王权从对外攻势转为对内守势，大量派遣贵族子弟前往大陆留学，是为最古老的官派留学生之一——「遣唐使」。</p>
+<p>除学习各种先进文化、工艺与艺术，遣唐使们还吸收了在唐代发展成熟的佛家文化，之后不仅自家回国东传，还吸引了众多唐代高僧大能东传弘法。</p>
+<p>在这期间，与佛家紧密相关的饮食文化也一并东传了。</p>
+<p>其中有种名为「羊羹饼」的点心就博得了公卿贵族的注意。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6d007d2fd200424436b28c22f282a305_720w.jpg?source=8673f162" alt=""><figcaption>鼠推测所谓羊羹饼可能更类似用栗子粉蒸制的老式羊羹，看着也更像羊肝泥成品</figcaption></figure>
+<p>这是一种做成羊肝形状的素点心，仿拓跋焘喜欢的「羊羹」制造，做法已不可考证，粗略而言就像素鸡、素鱼那般。</p>
+<p>据现代日本羊羹师傅推测，「羊羹饼」主料大约是葛根粉、小麦粉与大米粉，再填上红小豆做的馅儿料，已是甜口点心。</p>
+<p>当然，也可能用真羊肉（及羊肝）来做，毕竟那时节的日本佛家还不是很赞同吃素戒律。</p>
+<p>到镰仓幕府时代（公元 1185 ~ 1333 年），众多和尚（留学僧）继续来南宋时大陆求法。</p>
+<p>慢慢地佛家戒律传入日本，和尚们也不吃肉（相对而言）了，就利用那时节东传的宋代茶点工艺，改良了唐代东传的「羊羹」等点心工艺。</p>
+<p>虽然之于「羊羹」最核心——「寒天」（即琼脂）还没被发现，但可以绕过这一技术，用蒸煮的手段让原材料堆砌成果冻模样的糕体。</p>
+<p>是用大米里的糖，在麦芽糖技术东传之前，大米糖（即本文开头的水饴）是一种很好的点心粘合剂与调味料。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a549eb5d8e92c8d4f4dcbea6b9b2ed2f_720w.jpg?source=8673f162" alt=""><figcaption>这就是水饴，因为主料使用了大米或糯米，使得糖浆少有杂色，不过要增加糖产出量还得用上发芽的大麦</figcaption></figure>
+<p>当然，葛根粉冲热水也可做胶质出来。</p>
+<p>用大米、糯米制成外皮，内里灌注红小豆馅儿料，再适当涂抹一些素油，最后用葛根粉、水饴来塑形，上屉一蒸，就成形了，当时名为「蒸羊羹」。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-2a4efca960471d65bfbf3831151a80cb_720w.jpg?source=8673f162" alt=""><figcaption>日本伊豆列岛的地方名物“栗蒸羊羹”，用大米粉和上栗子粉，搭配大块栗子、勾芡葛根粉一起蒸成，较之现代羊羹，不够光滑，质地也偏松散</figcaption></figure>
+<p>不过水饴这玩意儿实在太奢侈了，一般地方领主（大名）等武家子弟也够呛吃得起，遑论那时节主张清修的和尚们。</p>
+<p>于是更多用葛根粉来代替，同时尽量用大米、红小豆来做「羊羹」，甜味不足。</p>
+<p>到江户幕府时代（公元 1603 ~ 1868 年）早期，「羊羹」被确定为一种茶道点心（品抹茶前吃下去，以缓解苦味），之前繁琐的制作工艺也得到改良。</p>
+<p>公元 1609 年，日本萨摩藩进攻琉球，从琉球获得黑砂糖制作工艺，从而解放了「羊羹」缺糖调味的难题。</p>
+<p>不久后的公元 1650 年代，「寒天」也被山城国的旅馆老板太郎左卫门无意中从石花菜里提取出来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7aae0e99bf0181ad65ae0420f4715fec_720w.jpg?source=8673f162" alt=""><figcaption>现代也叫海藻胶，主要是琼脂（Agar），热量很低，饱腹感中等，成冻效果很好</figcaption></figure>
+<p>就此「羊羹」进化成了完全体，名为「煉羊羹」，富有弹性且用料便宜，只要足够的红小豆（栗子泥也行）、寒天冻、砂糖就能做成，后来日本人又在这基础上开发了「水羊羹（Mizu Yokan）」，含水量偏高，适合在秋冬季吃。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0bcd2adb39ceacc3441b9b0a647a27bc_720w.jpg?source=8673f162" alt=""><figcaption>水羊羹因为含水量高、保存时间短，更适合在节令时间来吃，我国现代羊羹基本是走了水羊羹的路线</figcaption></figure>
+<p>但「蒸羊羹」没有因此失传，今天在日本还能见到，但大量用小麦粉取代米粉。</p>
+<p>除了羊羹，水饴本身更多是一种调味料，现代日本已跟麦芽糖混为一谈了，唯一可说的是历史足够古老，按《日本书纪》说法能追溯到公元前 7 世纪晚期，跟我国在春秋时代发明麦芽糖提取工艺有一拼。</p>
+<p>在公卿贵族文化盛行的平安时代（公元 784 ~ 1192 年），水饴更多被贵族拿来当肠胃药用。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ee3bcbf5d4587f01ed83f35b34c3de8c_720w.jpg?source=8673f162" alt=""><figcaption>现代麦芽糖提取技术已经能产出这种透明水状的糖浆了，无需学日本古人鼓捣大米（笑）</figcaption></figure>
+<p>这近乎疯狂的行为推动了贵族们喜欢甜食的趋势，进而各种无下限鼓捣大米，并且传到庶民那边。</p>
+<p>嘛，公卿贵族吃饭时端上的水蒸大米硬饭「强飯」除外，那本是向产育之神祈福的供品米饭演化而来，容不得胡闹。</p>
+<p>等我国麦芽糖提取技术东传、琉球人的黑砂糖工艺传入，日本的和菓子工艺终于获得水饴自由。</p>
+<p>在江户幕府时代，水饴是庶民最喜爱的点心（或点心调味料）之一，仍然流行兑水喝的药用方式。</p>
+<p>今天现代砂糖制取技术已经彻底取代了水饴。</p>
+<p>至于「轻羹」，本问题下的 <a class="member_mention" href="http://www.zhihu.com/people/461d8326440f945ddbdc67fff54ec7e9">@knighticerose</a> 老哥已经概述了主要内容，鼠就不多说了（笑）。</p>
+<p>真正有点儿东西的是日式年糕（ねんこう / Nenkou），对应汉字写作「餠（もち / Mochi）」，音译为「麻糬」，现代汉语语境下等同于非年节时段吃的一切日式年糕类米食加工品。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8ac5de421e3d6b5ae6f1d84991c436a4_720w.jpg?source=8673f162" alt=""><figcaption>日式年糕最常见的吃法是烤，这跟我国年糕有所不同，煮和煎食比较少见，要么就是做成生吃的团子</figcaption></figure>
+<p>起源跟羊羹一样，是从我国传入，大约在奈良时代（公元 710 ~ 784 年）来到日本列岛，发展出了烤食的烹饪方式。</p>
+<p>一起传入的还有我国古人吃年糕的系列习俗与节日。</p>
+<p>到了平安时代，贵族们确立了「节庆料理」的概念，按月吃各种米糕团（餠），其中年糕演化为「镜餠（かがみもち / Kagami Mochi）」，在日本历法的新年正月时吃，寓意与祝福跟我国古代相差无几。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1563aa2f1734fdf7fcc631496121f837_720w.jpg?source=8673f162" alt=""><figcaption>除了吃，镜餠也是要用来供奉给神明的，供奉方法如此图，放上各种祈求来年风调雨顺的物件</figcaption></figure>
+<p>哦对了，日本的古人也是会在新年时阖家上阵打年糕的。</p>
+<p>除了「镜餠」，早先在我国南北朝时期东传的「草餠」在平安时代也演化为「麻糬」，主要在三月吃。</p>
+<p>此外还有日本女儿节的「菱餠」、五月五（即男孩节）的「柏餠（Kashiwa Mochi）」，都是在平安时代出场，从年糕演化而来的，以及各种名为福饼的地方名物，更多的吃年糕习俗早已深入日本社会的方方面面。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-343adaed83440a9585bcb4468393127f_720w.jpg?source=8673f162" alt=""><figcaption>这是日本女儿节（三月三）会摆出来的菱饼，也就是三色年糕，现在都可以用羊羹、斑斓糕代替了</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd0fc5b52c92f81d0b576a3466acdda9_720w.jpg?source=8673f162" alt=""><figcaption>这就是柏饼，所谓“柏”是日本古人管槲树叫做柏树，糕团外头裹着的叶子就是槲树叶，现代成为日式端午节的必吃点心，内里是一块豆沙麻糬，也是一种粽子（笑）</figcaption></figure>
+<p>哦对了，在日本新年正月，除了吃「镜餠」，还吃「杂煮（お雑煮）」（年糕汤），可以用事先做好的「镜餠」来煮，也可以另外打年糕来做，调和味噌汤、素高汤、蔬菜之类，算是偏少数的日式咸口米食加工品料理之一了……</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0143600cd8823263d642f439a9a56c5f_720w.jpg?source=8673f162" alt=""><figcaption>现代日本的新年杂煮，加入鱼糕和烤鸡肉显得更丰盛一点，主料年糕有时候是不能切开的，有点儿噎人</figcaption></figure>
+<p>某种意义上也能补强日本没有米线米粉儿的缺憾（笑）。</p>
+<p><strong>延伸阅读</strong></p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.gushiwen.cn/guwen/bookv_93b31854231d.aspx" target="_blank" rel="nofollow noreferrer">宋书列传·卷四十八 硃龄石 弟超石 毛修之 傅弘之_古文岛</a></p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//shop.sweetsvillage.com/blogs/knowledge/starch-syrup" target="_blank" rel="nofollow noreferrer">水飴とは？甘味と用途、その魅力を徹底解説</a></p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//japaswee.com/yokan/" target="_blank" rel="nofollow noreferrer">ようかんはなぜ「羊羹」と書く？名前の由来や変遷の歴史を紹介</a></p>
+<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.nippon.com/cn/features/jg00117/%23%3A%7E%3Atext%3D%25E5%25B9%25B4%25E7%25B3%2595%25E6%25B4%2581%25E7%2599%25BD%25E6%259F%2594%25E8%25BD%25AF%25EF%25BC%258C%25E5%2585%25B7%25E6%259C%2589%25E7%258B%25AC%25E7%2589%25B9%25E7%259A%2584%25E7%25B2%2598%25E6%2580%25A7%25E5%2592%258C%25E6%259F%2594%25E9%259F%25A7%25E6%2580%25A7%25EF%25BC%258C%25E6%2598%25AF%25E6%2597%25A5%25E6%259C%25AC%25E8%2587%25AA%25E5%258F%25A4%25E4%25BB%25A5%25E6%259D%25A5%25E7%259A%2584%25E4%25BC%25A0%25E7%25BB%259F%25E9%25A3%259F%25E7%2589%25A9%25E3%2580%2582%2520%25E5%25B0%2586%25E7%25B3%25AF%25E7%25B1%25B3%25E8%2592%25B8%25E5%25A5%25BD%25E5%2590%258E%25EF%25BC%258C%25E7%2594%25A8%25E6%259C%25A8%25E6%259D%25B5%25E6%258D%25B6%25E6%2589%2593%25E5%2587%25BA%25E7%25B2%2598%25E6%2580%25A7%25EF%25BC%258C%25E7%2584%25B6%25E5%2590%258E%25E6%258F%2589%25E6%2588%2590%25E5%259B%25A2%25E5%2584%25BF%25E6%2588%2596%25E6%258B%2589%25E6%2588%2590%25E8%2596%2584%25E7%2589%2587%25E3%2580%2582%2520%25E5%25B9%25B4%25E7%25B3%2595%25E7%25BB%258F%25E7%2583%2598%25E7%2583%25A4%25E5%2590%258E%25E4%25BC%259A%25E2%2580%259C%25E5%2599%2597%25E2%2580%259D%25E5%259C%25B0%25E8%2586%25A8%25E8%2583%2580%25E8%25B5%25B7%25E6%259D%25A5%25EF%25BC%258C%25E6%2594%25BE%25E5%259C%25A8%25E6%25B1%25A4%25E9%2587%258C%25E7%2585%25AE%25EF%25BC%258C%25E6%259B%25B4%25E5%258A%25A0%25E7%25B3%25AF%25E9%259F%25A7%25E7%25BB%25B5%25E8%25BD%25AF%25E3%2580%2582%2520%25E7%25BA%25A62000%25E5%25B9%25B4%25E5%2589%258D%25E7%259A%2584%25E7%25BB%25B3%25E6%2596%2587%25E6%2597%25B6%25E4%25BB%25A3%25E6%259C%25AB%25E6%259C%259F%25EF%25BC%258C%25E5%25B9%25B4%25E7%25B3%2595%25E4%25B8%258E%25E6%25B0%25B4%25E7%25A8%25BB%25E7%25A7%258D%25E6%25A4%258D%25E5%2590%258C%25E6%2597%25B6%25E8%2587%25AA%25E4%25B8%259C%25E5%258D%2597%25E4%25BA%259A%25E4%25BC%25A0%25E5%2585%25A5%25E6%2597%25A5%25E6%259C%25AC%25E3%2580%2582%2C%25E5%25B9%25B3%25E5%25AE%2589%25E6%2597%25B6%25E4%25BB%25A3%25EF%25BC%2588%25E7%25BA%25A61300%25E5%25B9%25B4%25E5%2589%258D%25EF%25BC%2589%25EF%25BC%258C%25E5%25B9%25B4%25E7%25B3%2595%25E6%2588%2590%25E4%25B8%25BA%25E7%25A5%25AD%25E7%25A5%2580%25E6%2588%2596%25E5%2581%259A%25E6%25B3%2595%25E4%25BA%258B%25E6%2597%25B6%25E4%25B8%258D%25E5%258F%25AF%25E6%2588%2596%25E7%25BC%25BA%25E7%259A%2584%25E4%25BE%259B%25E5%2593%2581%25E3%2580%2582%2520%25E8%25BF%259B%25E5%2585%25A5%25E5%25AE%25A4%25E7%2594%25BA%25E6%2597%25B6%25E4%25BB%25A3%25EF%25BC%2588%25E7%25BA%25A6700%25E5%25B9%25B4%25E5%2589%258D%25EF%25BC%2589%25EF%25BC%258C%25E9%259A%258F%25E7%259D%2580%25E8%258C%25B6%25E9%2581%2593%25E7%259A%2584%25E5%258F%2591%25E5%25B1%2595%25EF%25BC%258C%25E5%25B9%25B4%25E7%25B3%2595%25E5%25BC%2580%25E5%25A7%258B%25E7%2594%25A8%25E6%259D%25A5%25E5%2588%25B6%25E4%25BD%259C%25E6%2597%25A5%25E5%25BC%258F%25E7%2582%25B9%25E5%25BF%2583%25E3%2580%2582%2520%25E7%259B%25B8%25E4%25BC%25A0%25E5%25B9%25B4%25E7%25B3%2595%25E4%25B8%25AD%25E5%25AF%2584%25E5%25AE%25BF%25E7%259D%2580%25E7%25A5%259E%25E7%2581%25B5%25EF%25BC%258C%25E8%25A2%25AB%25E8%25B5%258B%25E4%25BA%2588%25E4%25BA%2586%25E7%2594%259F%25E5%2591%25BD%25E5%258A%259B%25E3%2580%2582%2520%25E5%259B%25A0%25E6%25AD%25A4%25E5%259C%25A8%25E5%2596%259C%25E5%25BA%2586%25E6%2588%2596%25E7%2589%25B9%25E6%25AE%258A%25E7%259A%2584%25E6%2597%25A5%25E5%25AD%2590%25E9%2587%258C%25EF%25BC%258C%25E4%25BA%25BA%25E4%25BB%25AC%25E4%25B9%25A0%25E6%2583%25AF%25E4%25BA%258E%25E8%2581%259A%25E9%259B%2586%25E5%259C%25A8%25E4%25B8%2580%25E8%25B5%25B7%25E2%2580%259C%25E6%2589%2593%25E5%25B9%25B4%25E7%25B3%2595%25E2%2580%259D%25E3%2580%2582%2520%25E6%2589%2580%25E8%25B0%2593%25E2%2580%259C%25E6%2589%2593%25E5%25B9%25B4%25E7%25B3%2595%25E2%2580%259D%25EF%25BC%258C%25E5%25B0%25B1%25E6%2598%25AF%25E5%259C%25A8%25E5%259C%2586%25E6%259C%25A8%25E6%258C%2596%25E5%2588%25B6%25E6%2588%2590%25E7%259A%2584%25E5%259C%2586%25E7%25AD%2592%25E5%25BD%25A2%25E2%2580%259C%25E8%2587%25BC%25E2%2580%259D%25E9%2587%258C%25E6%2594%25BE%25E5%2585%25A5%25E8%2592%25B8%25E5%25A5%25BD%25E7%259A%2584%25E7%25B3%25AF%25E7%25B1%25B3%25EF%25BC%258C%25E7%2594%25A8%25E9%2594%25A4%25E5%25BD%25A2%25E7%259A%2584%25E2%2580%259C%25E6%259C%25A8%25E6%259D%25B5%25E2%2580%259D%25E5%258F%258D%25E5%25A4%258D%25E6%258D%25B6%25E6%2589%2593%25EF%25BC%258C%25E7%259B%25B4%25E5%2588%25B0%25E7%25B3%25AF%25E7%25B1%25B3%25E7%259A%2584%25E7%25B2%2598%25E6%2580%25A7%25E5%2585%2585%25E5%2588%2586%25E9%2587%258A%25E6%2594%25BE%25E5%2587%25BA%25E6%259D%25A5%25E3%2580%2582" target="_blank" rel="nofollow noreferrer">年糕 | Nippon.com</a></p>
+<p><a class="internal" href="https://www.zhihu.com/question/1919660367119881082/answer/1921001022232462490">有什么你理解不了的大众美食？ - 知乎 (鼠的回答，有寒天的发现过程)</a></p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2080365717191405773">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792820</guid>
+                <pubDate>Sat, 26 Sep 2026 03:06:29 GMT</pubDate>
             </item>
             
     </channel>
