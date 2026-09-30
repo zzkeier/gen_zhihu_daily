@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Tue, 29 Sep 2026 21:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 03:35:57 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>不懂书法的人怎么分辨一副作品的好坏？</title>
-                <link>http://daily.zhihu.com/story/9792867</link>
-                <description>黄佳智，公众号：在练 查看知乎原文 用我这个方法，不懂书法，也能看个大概。 下面我把篆、隶、草、行、楷五种书体都说一遍。 篆书。 你就记住孙过庭《书谱》里的这句话：「篆尚婉而通」。 所谓「婉」，指线条大多圆转，少生硬转折。 比如李斯《峄山刻石》中的「万」字，线条都很圆转，由自然的弧线组成，这就是「婉」。 所谓「通」，指线条流畅，圆转中相接，不出现突兀的接笔。 比如邓石如《白氏草堂记》中的「有」字。…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-1fa5e2cdba40b8210e7e3cc09feeaa7d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>猫咪底层代码到底是什么，为什么总是那么神经？</title>
+                <link>http://daily.zhihu.com/story/9792892</link>
+                <description>苏澄宇，自然科学/分享动物们的小秘密/Animalonearth 查看知乎原文 网上有一种卡猫 bug 的方法。 在猫脑门上贴一小张纸[1]。 猫发现以后，会抬起前爪去碰。 可猫的爪子刚举到脸边，突然低下头，开始认真舔爪。 舔完，再伸手。伸到一半，又舔。 于是，大家便说这是猫的底层代码冲突，本来正在运行“撕纸程序”，结果一抬爪，又触发了“舔毛程序”。 其实，这恰好是一个动物行为学研究了八十多年的老…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-0add04c60bda5fd40115024b1c9b345f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,370 +31,327 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-772321737beb09bc1cd91167db398322_l.jpg?source=8673f162">
-<span class="author">黄佳智，</span><span class="bio">公众号：在练</span>
-<a href="https://www.zhihu.com/question/1929930862201378261/answer/2083535414154081646" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/2033964583778512990/answer/2078492465246515445" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>用我这个方法，不懂书法，也能看个大概。</p>
-<p>下面我把篆、隶、草、行、楷五种书体都说一遍。</p>
-<p><strong>篆书。</strong></p>
-<p>你就记住孙过庭《书谱》里的这句话：<strong>「篆尚婉而通」</strong>。</p>
-<p><strong>所谓「婉」，指线条大多圆转，少生硬转折。</strong></p>
-<p>比如李斯《峄山刻石》中的「万」字，线条都很圆转，由自然的弧线组成，这就是「婉」。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1fa5e2cdba40b8210e7e3cc09feeaa7d_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>所谓「通」，指线条流畅，圆转中相接，不出现突兀的接笔。</strong></p>
-<p>比如邓石如《白氏草堂记》中的「有」字。「月」部外框即便分两笔写，但笔画 1 处和笔画 3 处衔接是很流畅的，这就是「通」。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc9ba14450ff038d90bb1a2d82dc8d91_720w.jpg?source=8673f162" alt=""></figure>
-<p>也就是说，好的篆书，线条不生硬，婉转流畅。</p>
-<p>好了，记住这两个感觉，下面可以做一个简单的判断了。</p>
-<p><strong>测试 1：这个篆书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-dfb36c2822bcf82a7fc83ce12c74a3ab_720w.jpg?source=8673f162" alt=""><figcaption>图片来源于网络</figcaption></figure>
-<p>答案：不好。因为不够「婉」，就拿「于」字来说，左边部的曲线在圆转处明显有方折态，行笔软绵绵的，不够婉转。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b42720621a9d45cddfa914c74eaed6a2_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>测试 2：这个篆书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5982e9d28769ea70ebfef0dd4b415ca5_720w.jpg?source=8673f162" alt=""><figcaption>图片来源于网络</figcaption></figure>
-<p>答案：比第一幅好，婉转程度有了，但不够「通」。比如「自」字，第一笔没有给第二笔留足够空间，所以这个地方会有一个方折的感觉。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7f062b034bb4207736b1d3b436bad1b8_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>测试 3：这个篆书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-04d7d54fd3c515ffec7e922fb3adfb08_720w.jpg?source=8673f162" alt=""></figure>
-<p>答案：很好，顶级大神。线条婉转流畅，不拖泥带水，有一种精气神。这就是「婉而通」。</p>
-<p><strong>隶书</strong></p>
-<p>记住刘熙载《艺概·书概》里这句话：「<strong>隶取势险节短」</strong></p>
-<p>所谓势险，就是隶书刻意横向舒展，把主笔向左右极力伸张，容易形成险绝之势。所以好的隶书要平衡这种「偏侧」，通过主笔伸展、次笔收敛，形成动态平衡。</p>
-<p>比如汉代《张迁碑》中的「家」字，按照隶书的写法，「豕」的捺有开张之势，如果把「豕」放在宀正下方，重心会偏向右，所以为了让其平衡，把「豕」向左偏移，形成险中求稳，这就是「势险」。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-35bca79e1fc4cb3ac64acece4ce81352_720w.jpg?source=8673f162" alt=""></figure>
-<p>所谓节短，就是隶书一般是奋笔书写，所以隶书讲究「笔笔断，断而后起」，这就要求起笔、收笔动作都很迅速、干脆，用笔节奏短促、有张力。</p>
-<p>比如何绍基临的《张迁碑》中的「口」字，在楷书中「横折」是一笔，而在隶书中需要拆解成「横」和「竖」来写。不过虽然这样写，但其用笔短促有力，这就是「节短」。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cb3d928f65efd994e035ce92188e264a_720w.jpg?source=8673f162" alt=""></figure>
-<p>也就是说，好的隶书，有张力，短促有力，需要险中求稳。</p>
-<p>好，记住这个感觉，下面你就可以做一个基本的判断了。</p>
-<p><strong>测试 1：这个隶书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-36b8c7d74264e1a431f5d8986e17f7d6_720w.jpg?source=8673f162" alt=""><figcaption>图片来源于网络</figcaption></figure>
-<p>答案：不好，因为太平了，不够「险」，就拿「若」字来说，草字头和口字基本上横竖齐，看起来很呆板，隶书处理这些部件时，其实有开合、收放关系的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6a5a0c1f1aa53baf9a87d91a2f7c9b4f_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>测试 2：这个隶书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1ed11935e73c3e2078e02c851ad099bc_720w.jpg?source=8673f162" alt=""></figure>
-<p>答案：不好，因为用笔是很小心翼翼的抹出来的，不够干脆，笔画浮在纸面上，没有张力。比如「水」字，有张力的笔画和抹出来的笔画就很容易感受到。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-ebe37ad0be0569a77e8fffbb74ad2ec2_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>楷书。</strong></p>
-<p>记住孙过庭《书谱》里这句话：<strong>隶欲精而密。</strong></p>
-<p>有人会问：讲楷书，提什么「隶书」？</p>
-<p>其实，这里说的「隶书」和今天说的汉代隶书不是一回事。</p>
-<p>在唐代，官方文献和书论中，常用「隶书」指代当时通行的楷书。</p>
-<p>比如宋代王应麟编撰的《玉海》里就说：</p>
-<blockquote>自唐以前，皆谓楷字为隶。</blockquote>
-<p>那什么是“精而密”呢？</p>
-<p>精，就是笔法精致，精准，点画起收分明，转折提按有度。比如赵孟頫《胆巴碑》，每一笔画都有细节存在，有提按顿挫，而不是单纯的一种形态。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a765df568005a42d7fe5f87f6214a336_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>密</strong>，不是单纯笔画挨得紧，而是结构紧凑、凝聚，让字不散架，要做到「八面拱心」。</p>
+<p>网上有一种卡猫 bug 的方法。</p>
+<p>在猫脑门上贴一小张纸<sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-266555f320b0e1a89c42c3ce8e0abb86_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-185327987713451d33d488bb7f3c8d56_720w.jpg?source=8673f162" alt=""></figure>
+<p>猫发现以后，会抬起前爪去碰。</p>
+<p>可猫的爪子刚举到脸边，突然低下头，开始认真舔爪。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9fbda0e246631425e4484a003f5ac53f_720w.jpg?source=8673f162" alt=""></figure>
+<p>舔完，再伸手。伸到一半，又舔。</p>
+<p>于是，大家便说<strong>这是猫的底层代码冲突，本来正在运行“撕纸程序”，结果一抬爪，又触发了“舔毛程序”。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-713174bd086d7a60fed03344bb089d82_720w.jpg?source=8673f162" alt=""></figure>
+<p>其实，这恰好是一个动物行为学研究了八十多年的老问题。</p>
+<hr>
+<p>1940 年，廷伯根（Nikolaas Tinbergen）发表论文命名了这类现象。同一年，荷兰的另一位行为学家科特兰特（Adriaan Kortlandt）几乎独立注意到了同一件事<sup>[2]</sup>。</p>
+<p>洛伦兹是本能理论的奠基人，是廷伯根最重要的合作者，却不是这个具体发现的第一批人。</p>
+<p>早期的经典案例都很有画面感。两只云雀打得难解难分，忽然有一只像什么都没发生过一样，低头啄起地来，好像在觅食。求偶求到一半的鸟，也会突然停下来整理自己的羽毛<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-42923ef1e010c85b6a466d686617ca6f_720w.jpg?source=8673f162" alt=""></figure>
+<p>行为学家把这类举动统一叫做<strong>转移行为（displacement activity）</strong>，意思是一个很正常的动作，只是出现的时机不太对。</p>
+<p>那这套理论，套在猫身上到底站不站得住脚？</p>
+<p>1973 年，神经科学家伯恩森（Gary Berntson）团队做了一个实验，在猫的小脑里插上电极，通电，观察猫会做什么。刺激对了位置，猫会开始舔自己的毛，舔得有模有样，跟正常理毛一模一样。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5d8286ab286126f38b5db69e7c366e96_720w.jpg?source=8673f162" alt=""></figure>
+<p>真正关键的是接下来这一步。他们往六只猫的毛上贴了一小块胶带，位置随机，再开始刺激。猫理毛的时候，舔贴了胶带那一侧，平均花了十二点七秒。没贴的那一侧，只花了三点九秒。</p>
+<p>问题是，为什么会这样？</p>
+<p>八十年里，科学家给出过好几种解释。</p>
+<hr>
+<p>最早的一类解释很像“能量溢出”（outlet/safety valve）：攻击和逃跑都想启动，又都被卡住，于是原本积蓄的行为能量“串”到了另一个系统里。后来这种把动机理解成某种可以在脑内流动的能量的说法逐渐失去支持。</p>
+<p>另一类影响很大的解释叫“<strong>去抑制”（</strong>disinhibition）。意思而是动物本来就存在一些低水平的梳理、觅食之类倾向，只是平时被更重要的行为压着；当攻击和逃跑恰好互相牵制，原来被压住的第三种行为反而冒了出来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1de576b407de0f277ed485673aa86a87_720w.jpg?source=8673f162" alt=""></figure>
+<p>问题是，它也解释不了全部现象。</p>
+<p>有研究者发现，某些鱼在求偶冲突中最常做出的转移动作，恰恰不是它平时做得最多的那个，这跟去抑制理论的预测对不上<sup>[4]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7939c9389eddced7b653c65f77012e38_720w.jpg?source=8673f162" alt=""><figcaption>实验用的三刺棘鱼（Gasterosteus aculeatus Linnaeus）</figcaption></figure>
+<p>而猫洗脸这件事刚好可以用来检验这个理论。</p>
+<p>2000 年，本杰明·埃克斯坦（Benjamin Eckstein）和同事观察 11 只猫<sup>[5]</sup>，发现猫并不是毫无规律地东舔一下、西舔一下：91%的口腔梳理会连续涉及多个身体区域，而且有一定从头向身体后部推进的趋势。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-28e31c43e5735f6b9f63f596850c250e_720w.jpg?source=8673f162" alt=""><figcaption>C：control collar，对照圈，不妨碍梳理 E：Elizabethan collar，伊丽莎白圈，连续 3 天阻止正常梳理。连续 3 天不能正常梳理后，猫在摘掉伊丽莎白圈后的前 12 小时出现明显“补偿性梳理”；再过 12 小时，这种差异基本消失。</figcaption></figure>
+<p>更有意思的是，他们给猫戴了 3 天伊丽莎白圈，让猫暂时无法正常舔毛。圈拿掉后的头 12 小时里，猫的口腔梳理比对照增加了 <strong>67%</strong>，用爪抓挠式梳理甚至增加了 <strong>200%</strong>。</p>
+<p>像是欠了三天的澡，终于开始补课。</p>
+<p>这类“补偿性反弹”加上梳理顺序，支持猫的梳理存在相当程度的<strong>中枢组织和调节</strong>；但伯恩森的胶带实验又告诉我们，局部触觉刺激照样可以决定它往哪里舔。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2cd18fd4ae834dbb88f660f290ebd70d_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以，“底层代码”不够准确，因为<strong>猫不是一串写死的 if-else。</strong></p>
+<hr>
+<p>2020 年，一项大鼠研究把这个“底层代码”这件事又深入了一层<sup>[6]</sup>。</p>
+<p>香港中文大学等机构的研究人员找到了一条与<strong>压力诱发梳理</strong>有关的神经通路。它从海马的腹侧下托，经外侧隔腹侧部，再连接到下丘脑结节核。</p>
+<p>在大鼠经历情绪压力后，外侧隔相关神经活动会在梳理开始前升高；抑制这条回路，压力之后出现的梳理明显减少。反过来，用光遗传方法激活这条回路，即使没有原来的压力场景，大鼠也会在几十秒后出现强烈、完整的梳理，而且动作模式与压力后的梳理非常相似。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-103c0bfeba25fe59e510712c0b061a28_720w.jpg?source=8673f162" alt=""></figure>
+<p>这已经很接近真正意义上的“理毛开关”。</p>
+<p>可最有意思的是，研究者随后让大鼠自己选。</p>
+<p>一个空间与这条神经回路的光刺激绑定，另一个空间没有刺激。结果大鼠更愿意待在有刺激的一侧。研究人员甚至扣掉了动物真正花在梳理上的时间，这种偏好依然存在；条件位置偏好实验也得到了同样的结果。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2e59369440187e6599c41c2e8b215899_720w.jpg?source=8673f162" alt=""><figcaption>大鼠并没有躲开会诱发梳理的神经刺激。a，双房间选择实验：进入一侧就给予光刺激；b，直接刺激 LSv 后，大鼠更多停留在刺激侧；c，只刺激 LSv→Tu 通路时，同样出现这种偏好。统计时已扣除真正用于梳理的时间</figcaption></figure>
+<p>论文因此认为，这条梳理相关回路带有<strong>正性的情绪效价</strong>。</p>
+<p>这跟很多人对应激理毛的直觉正好相反。大家默认压力大了才会去理毛，理毛是崩溃的表现，是没办法的办法。可这个实验说的是另一件事，理毛更像是大脑自带的一套安抚程序，压力上来，它会主动启动，启动完了，心情反而会轻松点。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7be9b21acd10456a04b2dc7a6eb749ce_720w.jpg?source=8673f162" alt=""></figure>
+<p>这当然是大鼠实验，不能完全来解释猫脑门的事。但起码可以看出，在大鼠身上，<strong>压力之后突然开始理毛，很可能本来就是系统把自己往正常状态拉回去的一部分。</strong></p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2033964583778512990">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792892</guid>
+                <pubDate>Wed, 30 Sep 2026 03:35:55 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>网购燃气灶防风罩一月后妻儿中毒死亡，该产品为何会导致如此严重的事故？是否该全面禁售？</title>
+                <link>http://daily.zhihu.com/story/9792895</link>
+                <description>祥昊，碎碎念 查看知乎原文 这东西我买过，差点吃大亏。 物件不贵，几块钱， 按照直觉和商家的宣传，将火焰聚拢起来增加燃气效率看起来有点道理。 这种罩子离着锅底有段距离，属于半开放环境， 感觉不会缺氧，就算缺氧，火自个就灭了，看着也挺合理对吧？ 但是！！听好了， 当时装上之后点火，很快家里的燃气报警器疯狂报警断气， 全程几乎察觉不出一点异样和异味。 明白这意味着什么吧？ 如果没燃气报警器，上新闻的可…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-ce42d39de1e5dfd12d8e03c479fa3a6e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
+<span class="author">祥昊，</span><span class="bio">碎碎念</span>
+<a href="https://www.zhihu.com/question/2085143623151235674/answer/2085456758626071255" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>这东西我买过，<strong>差点吃大亏。</strong></p>
+<p>物件不贵，几块钱，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ce42d39de1e5dfd12d8e03c479fa3a6e_720w.jpg?source=8673f162" alt=""></figure>
+<p>按照直觉和商家的宣传，将火焰聚拢起来增加燃气效率看起来有点道理。</p>
+<p>这种罩子离着锅底有段距离，属于半开放环境，</p>
+<p>感觉不会缺氧，就算缺氧，火自个就灭了，看着也挺合理对吧？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbd349d078116135833a04c7cd8cb6c7_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>但是！！听好了，</strong></p>
+<p><strong>当时装上之后点火，很快家里的燃气报警器疯狂报警断气，</strong></p>
+<p><strong>全程几乎察觉不出一点异样和异味。</strong></p>
+<p>明白这意味着什么吧？</p>
+<p>如果没燃气报警器，上新闻的可能就是我了。</p>
+<hr>
+<p><strong>事实上，这个罩的结构，本身没毛病，</strong></p>
+<p>但如果乱装，</p>
+<p><strong>极有可能直接绕开燃气灶和燃气公司给你准备的保命锁。</strong></p>
+<p>这还得从燃气灶的原理说起。</p>
+<p>燃气灶看着挺复杂，其实就四个结构。</p>
+<p>喷嘴，燃烧器，一次进气口，二次进气口。</p>
+<p>利用的是引射式大气燃烧。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-37a4f3bcc1aa3bba10b01b11fb121c73_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>听着挺麻烦原理其实很简单，</strong></p>
+<p>燃气从比较宽阔的管道进入狭窄的喷嘴，流速变大。</p>
+<p>再进入比较宽阔的燃烧器，一路到灶台火盖。</p>
+<p>在燃烧器和喷嘴接口附近还有一个和外界联通的口，一般叫风门。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b259df84e71114b4ea89c641a0ae1359_720w.jpg?source=8673f162" alt=""><figcaption>这是个喷水的，凑合看，原理没差别。</figcaption></figure>
+<p>根据文丘里效应，</p>
+<p>由于喷头区域流速较大，会在周边产生负压，外界的大气压就会把周边空气送进去。</p>
+<p>这样就完成了燃气和空气的预混，这就是一次进气。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b65e0e22de4ab294a3b63f01fc3a1839_720w.jpg?source=8673f162" alt=""><figcaption>文丘里效应 这就是燃气灶的主要工作方式</figcaption></figure>
+<p><strong>那肯定还有人好奇了，既然燃烧器是开放环境，</strong></p>
+<p><strong>为啥燃气不会从一次进气口跑出来呢？</strong></p>
+<p>原因很简单，</p>
+<p>由于喷嘴很狭窄，喷出的燃气量少且速度快，通往火盖的通道畅通无阻。</p>
+<p>这就像你用呲水枪往外呲水，只要你不手贱把枪口堵住，</p>
+<p>它就是个单向通道，只会往前喷。</p>
+<hr>
+<p><strong>不过此时预混的氧气还是不大够，</strong></p>
+<p>也不敢让它够，够了回火就玩完了。</p>
+<p>所以在喷出燃气灶时，</p>
+<p>还需要二次进气来补足氧气，以实现充分燃烧。</p>
+<p>而所谓的聚能环，很大可能会阻挡二次进气，使燃烧不充分。</p>
+<p><strong>坑爹的地方来了，</strong></p>
+<p>由于一次进气已经有空气混入，</p>
+<p>二次进气量减少并不会轻易让火焰熄灭，</p>
+<p><strong>这恰好把燃气公司和燃气灶给设置的两道保命锁给绕过去了。</strong></p>
+<p>第一道是燃气公司会在燃气里混入微量味道刺鼻的加臭剂，</p>
+<p>如果发生泄漏人会第一时间察觉。</p>
+<p>但是由于火在燃烧，加臭剂又很微量，大概率直接被消耗掉，</p>
+<p>几乎不会产生一点味道。</p>
+<p>第二道是燃气灶上会有一个断火探针，</p>
+<p>一旦火焰没了会触发熄火保护装置，自动断火。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a3c3406cd2cbae8562f0957b06dd55d8_720w.jpg?source=8673f162" alt=""></figure>
+<p>而此时火在燃烧，也无法触发。</p>
+<p>这个时候加了聚能环，燃烧不充分再叠加房间密闭和长时间炖煮等 buff，</p>
+<p><strong>这不就妥妥的煤气中毒现场嘛。</strong></p>
+<hr>
+<p><strong>此时又得有人反驳了，XXX 燃气灶也用这种聚能环结构。</strong></p>
+<p>没错，但是人家燃气灶厂家在设计之初就已经预留了足够的余量，</p>
+<p>聚能环结构并不会影响燃气灶完全燃烧。</p>
+<p>而个人胡乱加上的，大概率会影响，这根本就不是一回事。</p>
+<p>所以，如果灶坏了，</p>
+<p>可以找人修下，也可以试试自己调风门，</p>
+<p>但不要加这种奇怪的东西，真有可能贪小便宜丢小命。</p>
+<p><strong>这跟产品质量，三无产品之类的没半毛钱关系，</strong></p>
+<p><strong>纯粹就是奔着谋财害命去的，家里有的务必摘了。</strong></p>
+<p><strong>真的很危险！！！！</strong></p>
+<p>另外，</p>
+<p>家里甭管是烧煤还是烧气，装个燃气报警器也确实很有必要（注意区分类型）</p>
+<blockquote>咋感觉像推销报警器的.....</blockquote>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2085143623151235674">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792895</guid>
+                <pubDate>Wed, 30 Sep 2026 03:35:56 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>瓶装水在开封后，多久会变质？</title>
+                <link>http://daily.zhihu.com/story/9792905</link>
+                <description>钱程，技术型吃货 查看知乎原文 关于这个问题，其实是有人专门做过实验的。 我先把结论放前面： 瓶装水如果先对嘴喝后，盖上盖子，置于常温条件下：3 天内，微生物会接近腐败限值（10^6 CFU/ml）。 瓶装水如果不对嘴喝，仅开盖倾倒后，置于常温条件下：7 天内微生物显著增长，但不会超过腐败限值。 所以，包括矿泉水在内的各种瓶装饮料，从食品安全角度，不建议放很久再喝。特别是对嘴喝过以后。 如果要给一…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-3a6d49cba28e0d7c0650331ad2133045.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-0633174ad20a34a82c6484ef0b2d5451_l.jpg?source=8673f162">
+<span class="author">钱程，</span><span class="bio">技术型吃货</span>
+<a href="https://www.zhihu.com/question/2074882831344460896/answer/2075336458165143211" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>关于这个问题，其实是有人专门做过实验的。</p>
+<p>我先把结论放前面：</p>
+<p><strong>瓶装水如果先对嘴喝后，盖上盖子，置于常温条件下：</strong>3 天内，微生物会接近腐败限值（10^6 CFU/ml）。</p>
+<p><strong>瓶装水如果不对嘴喝，仅开盖倾倒后，置于常温条件下：</strong>7 天内微生物显著增长，但不会超过腐败限值。</p>
+<p>所以，包括矿泉水在内的各种瓶装饮料，从食品安全角度，<strong>不建议放很久再喝。特别是对嘴喝过以后。</strong></p>
+<p>如果要给一个期限的话：</p>
+<p><strong>各种容易腐坏的饮料（如咖啡、茶饮料、乳饮料、果汁等）：</strong>建议 2 小时内饮用完毕。</p>
+<p><strong>矿泉水、瓶装饮用水：</strong>建议 10 小时内饮用完毕。</p>
+<p>看到评论区大部分知友都在说我的结论过分夸大，在这里声明一下：<strong>我的建议只是基于「在日常生活中最大程度减少食品安全风险」做出的，并不是说「超过这个期限就一定有问题、一定会对健康造成严重影响」。</strong></p>
+<p>事实上，即使超过这个期限，大部分情况下健康普通人喝了也不会有问题。甚至大家直接喝生水，大概率也没事。但我这个回答只是在告诉大家「微生物会长，有致病菌风险，所以食品安全风险会更高」，大家可以根据此事实来做出自己的选择。</p>
+<p>下面给大家详细分析一下：</p>
+<hr>
+<p><strong><strong>1.</strong> <strong>喝过的水，随着时间累积，微生物会明显增长</strong></strong></p>
+<p>在 2013 年，有研究团队就已经对「喝过的饮料，到底细菌会长多少」进行了非常详细的实验<sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-132758670b23723c31796c7720b59cbd_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个研究选取了 17 种不同的市售瓶装饮料，其中涵盖了碳酸饮料，乳饮料，茶饮料，果汁，矿泉水等等不同的类型。每种饮料分别采用了两种不同饮用方式：</p>
+<p><strong>1）倾倒饮用：</strong>倒出半瓶饮料，拧紧盖子以后常温放置 2 周。</p>
+<p><strong>2）对嘴饮用：</strong>对嘴饮用掉半瓶，拧紧盖子以后常温放置 2 周。</p>
+<p>在第 1，3，6，14 天分别进行取样，测定微生物相关指标。</p>
+<p>结果发现，<strong>在测试的时间内，无论是倾倒饮用，还是对嘴饮用，都发现了微生物明显增长的情况。</strong>倾倒饮用组中，17%检测出微生物，以环境霉菌为主；对嘴饮用组中，则有 51%检测出了微生物，以口腔中常态菌群为主。</p>
+<p>这个研究对于「对嘴饮用」的情况做了比较详细的实验。</p>
+<p>从饮料种类看，乳饮料、茶饮料、果汁等本身比较容易腐败的饮料，在「对嘴饮用」情况中，微生物增长最厉害。仅仅 1 天内，微生物就会迅猛繁殖，3 天内可以达到腐败限值（10^6~10^8 CFU/mL，相当于一毫升有一百万到一亿个微生物），这代表饮料已经彻底腐败。</p>
+<p>矿泉水比起那些容易腐败的饮料，也只是「略好一点」。<strong>各种微生物指标，包括菌落总数、大肠杆菌、酵母等同样在 3 天内就发生了显著增长，接近腐败限值。</strong></p>
+<p><strong>比较值得警惕的是，随着微生物增长，其他饮料往往会出现浑浊、沉淀、出现漂浮物等现象，但在矿泉水里，看不出任何异常，所以大家往往会忽略矿泉水微生物的问题。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-59e26b9879a6945f712c2b744c429f82_720w.jpg?source=8673f162" alt=""><figcaption>◇：这条线代表了饮料中真菌（霉菌）的增长情况。△：这条线代表了饮料中大肠杆菌或大肠菌群的增长情况，这些细菌通常作为食品污染的指示菌。×：这条线代表了饮料中细菌的增长情况，用以衡量非大肠杆菌的细菌总数。□：这条线代表了饮料中总细菌和酵母的增长情况</figcaption></figure>
+<p>如果只是单纯的「微生物显著增长」，引起的往往只是变质，不至于影响健康。但这个实验<strong>也在相当一部分的样品中检出了致病菌！</strong></p>
+<p>其中，在奶茶、加奶咖啡、混合茶、乌龙茶、加果汁的苏打水和<strong>矿泉水</strong>中，检出了<strong>金黄色葡萄球菌的产毒菌株。</strong>在一款混合茶饮料中检出了<strong>蜡样芽孢杆菌的产毒菌株</strong>。</p>
+<p><strong>这些都是平时导致大家腹泻、呕吐的高危菌株，它们的存在是会增加食品安全风险的。</strong>对于免疫力较为低下的特殊人群（如孕妇、儿童、老年人等），会有更高的概率发生食物中毒。</p>
+<hr>
+<p><strong><strong>2. 国内研究发现没对嘴喝过、开封后矿泉水，微生物增长同样非常快</strong></strong></p>
+<p>另一篇来自我国的研究<sup>[2]</sup>也发现，矿泉水即使没嘴对嘴，开封后里面的微生物同样也会快速增长。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1e194be39d005a0a1b8a25d21fb7185d_720w.jpg?source=8673f162" alt=""></figure>
+<p>特别是在已经存在一定微生物本底值的情况下，开封后仅放置一天，微生物菌落总数就可以来到超过 3000 CFU/mL 的水平。放置 3 天后则最高可以达到 11000 CFU/mL 的水平。</p>
+<p>当然，这样的菌落数水平离「腐败」还有一定的距离，一般不至于导致食品安全隐患，但这个结果也足以证明「开封后的矿泉水，微生物会长」。</p>
+<p>你可能会有疑问：<strong>矿泉水里除了水啥东西也没有，为什么微生物会长？</strong></p>
+<p>在「对嘴」情况下，唾液中的有机物进入瓶中，口腔中的一些粘膜细胞、食物残渣等也会进入瓶中。虽然量很少，但这些有机物已经足够支撑微生物生长，并接近腐败界限。</p>
+<p>在「不对嘴」的情况下，有机物会更少一些。但空气中也会飘落一些有机物，水中本身也残存着极少的有机物，因此微生物还是能够比较缓慢地生长的。</p>
+<p><strong>特别是夏天，更加需要注意这一点。夏季气温高，微生物增长也会更快。还有些人把喝剩下的水或饮料放车上，阳光暴晒下车内温度可能达到 40~50℃，正好是微生物生长比较快的温度。</strong></p>
+<p><strong>这种情况下，一旦饮料中存在致病菌，食品安全风险还是不容小视的，需要警惕。</strong></p>
+<hr>
+<p><strong><strong>3.</strong> <strong>夏季矿泉水、饮品等怎么安全喝？</strong></strong></p>
+<p>对于各种瓶装饮料、瓶装矿泉水来说，比较安全的建议是：<strong>一旦开封，就建议尽快饮用完毕。</strong></p>
+<p><strong>那么，可能有些人会问：这个「尽快」，到底是多久呢？</strong></p>
+<p>其实，大部分瓶装饮料，我都会建议最好能在<strong>2 小时内</strong>饮用完。这样可以最大程度保证食品安全不出问题。特别是容易腐败的<strong>乳饮料、茶饮料、咖啡饮料、果汁</strong>等。</p>
+<p>如果放宽一点，对于瓶装水等「不那么容易腐败」的饮料来说，放置 5~10 小时也是可以接受的，但<strong>不建议 10 小时以上再饮用</strong>。</p>
+<p>对于奶茶店的现制饮料，这些饮料往往不像瓶装饮料一样有严格的杀菌条件，因此初始菌数就会比较高。在炎热的夏天更加容易变质。所以建议 2 小时内饮用完毕。详细可以看我之前写的回答：</p>
+<p><a class="internal" href="https://www.zhihu.com/question/2045079702516103114/answer/2045107386994709585">奶茶打开 2 小时后，细菌疯狂暴涨，这是真的吗？背后有什么科学依据？放久了的奶茶到底有多脏？</a></p>
+<p>开封后的饮料，如果实在不能一次喝完，又怕浪费的话，可以有两种方式稍微延长保存期：</p>
+<p>1）密封后，放冰箱冷藏。</p>
+<p>2）用锅具煮沸杀菌（对于那些煮沸后不影响风味的饮料来说）。</p>
+<p>当然，这两种方法只能一定程度上延长保存期，放久了还是可能会腐败变质。</p>
+<hr>
+<p>2026 年 8 月 26 日补充：</p>
+<p>看到有知友增加了问题补充，那我针对知友的新问题来回答一下。</p>
+<blockquote>原“变质”的提问较为宽泛，尝试略作展开，毕竟水本身很稳定，不稳定的是微生物。不如将“变质”限定为“饮用会对身体造成显著影响”，也就是瓶装水打开以后放多久就不能喝了，喝了大部分人会身体不适。</blockquote>
+<p>首先申明一下，我的回答中，「变质」的定义采用行业里对食品腐败的一般衡量限值（微生物增长至 10^6~10^8 CFU/g 或 ml）。此「变质」只代表微生物显著繁殖，食品显著腐败。跟「食物中毒」本身没有直接联系。</p>
+<p>但变质的食物中，致病菌繁殖的概率更大。所以日常生活中，吃显著腐败的东西，食品安全风险也会更高（也就是食物中毒的概率增加）。这也是我提出「建议多久喝完」的基础。</p>
+<p><strong>致病菌繁殖是偶然事件，「食物中毒」本身也是偶然事件。不是「放超过一定时间」的必然结果。</strong></p>
+<p>因此，如果将「变质」限定为「饮用后一定会对身体造成显著影响，大部分人都身体不适」，那这就要求这瓶水里一定要有致病菌大量繁殖。</p>
+<p>那我可以这么说：</p>
 <ul>
-<li><strong>所谓「八面拱心」，就是指各个方向的点画都围绕着字心安排布置，这样字才有凝聚力。</strong></li>
+<li>如果你喝的水里碰巧有致病菌：那过了 3 天以后，致病菌可能增长到接近 10^6 CFU，此时大部分人喝了都会中毒。但你如果能 10 小时内就喝完，致病菌来不及长，你就不会食物中毒。</li>
+<li>如果你喝的水里没有致病菌，那放多久都没事。（这是大部分情况）</li>
 </ul>
-<p>你看左侧这个字，不管是点，还是横竖，抑或是撇捺，把每笔点画的走势线延长，你会发现它们大体都汇聚到字心附近，这就是「拱心」。</p>
-<p>而右边被我乱改的那个，你会发现趋势线不再集中于同一点，整个字就散掉了，这就是「不拱心」的效果，所以才会显得别扭。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ec6160ce5897297803636deba8403f29_720w.jpg?source=8673f162" alt=""></figure>
-<p>也就是说，好的楷书，用笔精致，结构凝聚。</p>
-<p>好，记住这个感觉，下面你就可以做一个基本的判断了。</p>
-<p><strong>测试 1：这幅楷书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbddfc8a02f5db4c5fdce1926f0dd9ed_720w.jpg?source=8673f162" alt=""></figure>
-<p>答案：不好，最主要的问题是不够「密」。比如「颜」字，左右两部分向右倾倒，呈现相离之势。正确的处理方式，应该让两部分左右依靠，呈现相聚之势。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-86d1ca0c57f5310deb6f327230cc8b98_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>测试二：这个楷书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-69c360dae78cdabeac5cca14aa5d9e93_720w.jpg?source=8673f162" alt=""></figure>
-<p>答案：不好，最主要的问题是不够「精」。比如「怀」字，就拿起笔来说，都是直接入笔的动作，不够精致，看不到变化。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f5155e1c793a43fb942a77ee0e8cf13f_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>行书</strong></p>
-<p>记住明代丰坊《书诀》里这句话：<strong>行笔而不停，著纸而不离。</strong></p>
-<p><strong>所谓行笔而不停</strong>，就是笔势要有连续性、行进感，不能犹豫、停顿、断气。行书贵在「行」，要像云行水流，气脉贯通。</p>
-<p>比如王羲之《丧乱帖》里的「丧乱」两个字，把笔势画出来，会发现笔画与笔画之间、字与字之间，不管是实连还是虚连，「气」都没有断，这就是「行笔而不停」。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4b948442eda6e37c206ab642ca623762_720w.jpg?source=8673f162" alt=""></figure>
-<p>所谓著纸而不离，意思是笔锋要贴着、咬着纸面，不能虚提飘浮、轻滑而过。</p>
-<p>比如颜真卿《祭侄文稿》，笔是压着纸面写的，墨是吃到纸面里面的，没有轻浮而过，力透纸背，这就是「著纸而不离」。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0baa391024bf5d5b05f01429fe5ec7aa_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以，好的行书，就是既要流动连贯，又要沉着落纸。</p>
-<p>好，记住这个感觉，下面你就可以做一个基本的判断了。</p>
-<p><strong>测试一：这个行书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-cf890de865e7b61a2a7e7f4a68731b14_720w.jpg?source=8673f162" alt=""></figure>
-<p>答案：不好。因为笔锋没有贴着、咬着纸面写，都是轻滑而过，所以线条容易颤抖，且出现「片」状，笔画不厚重。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7a58a569d62bfd91af8b0189c347d4d6_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>测试二：这个行书写得怎么样？</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6f1ffdc492cbc33d1d0aaa0dc87edc03_720w.jpg?source=8673f162" alt=""></figure>
-<p>答案：不好。先不说结构，最重要的是气息不行。给人感觉字字独立，字与字衔接的笔势断了。比如「暮彩」二字，笔画之间的运动没有形成某种内在联系，是孤立书写的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-56a39ce00894f47a63fa7eceb4d97b58_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>草书</strong></p>
-<p>记住赵宧光《寒山帚谈》里这句话：刚柔相济乃得佳。</p>
-<p>什么叫刚柔相济？</p>
-<p>书法中，方、直、折、重为刚；圆、曲、转、轻为柔。</p>
-<p>所以点画讲究有圆有方、有曲有直、有转有折、有轻有重。</p>
-<p>比如，明祝允明《草书手卷》中的此、第、群这几个字，就能看到刚柔之间的配合。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5141bba34966d0ee99dcbe329d98741b_720w.jpg?source=8673f162" alt=""></figure>
-<p>好，记住这个感觉，下面你就可以做一个基本的判断了。</p>
-<p><strong>测试一：这个草书怎么样？</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8b8740caced3d2a9ad959d73df2aceca_720w.jpg?source=8673f162" alt=""></figure>
-<p>答案：不好。刚的东西太多了，少了柔的东西。你看这一行，转折的地方都是「折」的形式，很少有「转」的方式。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-dc6e4f7745c58cfd4f14689d9cfc6848_720w.jpg?source=8673f162" alt=""></figure>
-<p>以上，希望对你有帮助。</p>
-<p>关于书法审美，其实我已经回答了很多问题，感兴趣可以点击下面查看：</p>
-<p><a class="internal" href="https://www.zhihu.com/question/657030298/answer/1958164278407311751">去看书法展如何装作自己很懂书法？</a><a class="internal" href="https://www.zhihu.com/question/588737803/answer/1902058145423025214">书法的评判真的有标准吗？</a><a class="internal" href="https://www.zhihu.com/question/58803365/answer/2046711841066432245">什么样的书法才能称之为好？</a><a class="internal" href="https://www.zhihu.com/question/386834712/answer/2956370138">请问对书法好坏的评价有统一标准吗？</a></p>
+<blockquote>仅就饮用水而言，不同的打开方式（打开又盖盖、打开不盖盖、打开对嘴喝、打开倒出……）打开后的保存方式（冷藏与否）显然对菌群都会有影响。然而这些影响需要多久到“变质”的程度呢？</blockquote>
+<p>关于影响需要多久到「变质」的程度，这其实跟上一个问题类似，不再赘述。不同保存方式的区别，本质上是三点：</p>
+<ol>
+<li><strong>有没有引入新微生物的机会？</strong></li>
+<li><strong>有没有引入新的有机物（微生物繁殖所需营养）的机会？</strong></li>
+<li><strong>环境是否会抑制微生物生长？</strong></li>
+</ol>
+<ul>
+<li>对嘴喝显然是最不利于保存的方式，既引入了新微生物，也引入了新的有机物。因此腐败会比较快。</li>
+<li>打开不盖盖的话，空气里的微生物会不断进入瓶内，但有机物可能没有那么多，只有空气里可能存在的微量有机物。</li>
+<li>打开后如果冷藏，那较冷的环境能够使很多微生物繁殖速度变慢，甚至停止，那腐败速度就会变慢。</li>
+</ul>
+<blockquote>这种打开的瓶装水，与普遍饮用的自来水、河湖水、净化水、井水、泉水、白开水的菌落差异有多大？这些水喝下去对人体的影响有有多大呢？不知道有没有这方面的研究。</blockquote>
+<p>河湖水、井水、泉水属于自然水，这些水的食品安全程度是最低的，不仅微生物多，还有可能含有寄生虫。井水和泉水可能比河湖水微生物载量低，但这是在没有污染的理想状况下的。非专业人士也很难判断井水和泉水到底有没有微生物污染。</p>
+<p>对于这类自然水，强烈不建议直接喝。建议烧开以后喝。（当然特殊情况比如荒野求生，只能直接喝那没办法）</p>
+<p>自来水会好很多，因为一般都会有过滤步骤，加上氯类消毒剂处理来杀菌。一般品质合格的自来水是不会有寄生虫卵的，微生物含量也会相当少，但考虑到输送环节的二次污染，为了去除余氯和进一步保证食品安全，一般还是建议烧开以后喝。</p>
+<p>白开水如果刚烧开不久，没有放太长时间的话，安全性是最高的。直接喝一般没啥问题。</p>
+<p>以我的粗略估计，放较长时间、已有微生物生长的瓶装水，大概率会超过自来水中的微生物载量，跟自然水中微生物载量可能在相似数量级。</p>
+<hr>
+<p>本文首发于公众号「丁香妈妈」，首发链接地址：</p>
+<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Cy1Mb0MJdzhyE2I5FbNL9Q" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">mp.weixin.qq.com/s/Cy1M</span><span class="invisible">b0MJdzhyE2I5FbNL9Q</span><span class="ellipsis"></span></a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1929930862201378261">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2074882831344460896">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792867</guid>
-                <pubDate>Tue, 29 Sep 2026 21:46:00 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>网友呼吁归还配料表中的白砂糖，它为啥重回白月光？食品饮料为何用果葡糖浆替代白砂糖？前者会影响健康吗？</title>
-                <link>http://daily.zhihu.com/story/9792871</link>
-                <description>高sir，科学丨教育&amp;amp;生物老师 查看知乎原文 二更：我回答得晚，很多答主已经回答的题目内容，所以本文探讨的是过量摄入果糖的影响。 另外表达一下，抛开剂量谈毒性都是耍流氓。 原回答： 额问题改了，但没事，很多答主直接回答了问题，那我来讲讲过量摄取果糖会有什么影响。 先说两者区别： 白砂糖是蔗糖，由一个葡萄糖分子和一个果糖分子以化学键相连组合在一起。 果葡糖浆也是葡萄糖和果糖，但它们是分开的，…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-6ca24c52a283a7406531c32789c729bf.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-39e06049a696a8e077361a956f9dbdf0_l.jpg?source=8673f162">
-<span class="author">高sir，</span><span class="bio">科学丨教育&amp;生物老师</span>
-<a href="https://www.zhihu.com/question/2085265745911309783/answer/2085331624196157521" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<h2>二更：我回答得晚，很多答主已经回答的题目内容，所以本文探讨的是过量摄入果糖的影响。</h2>
-<p>另外表达一下，抛开剂量谈毒性都是耍流氓。</p>
-<p>原回答：</p>
-<h2>额问题改了，但没事，很多答主直接回答了问题，那我来讲讲过量摄取果糖会有什么影响。</h2>
-<h2>先说两者区别：</h2>
-<p><strong>白砂糖是蔗糖，由一个葡萄糖分子和一个果糖分子以化学键相连组合在一起。</strong></p>
-<p><strong>果葡糖浆也是葡萄糖和果糖，但它们是分开的，属于游离态。</strong></p>
-<blockquote>最常见的果葡糖浆叫 HFCS-55，55%果糖，45%葡萄糖，主要用在饮料里。<br>另一种叫 HFCS-42，42%果糖，58%葡萄糖，主要用在加工食品里。</blockquote>
-<p>还有：</p>
-<p>蔗糖到了要被吸收需要先被酶切开，然后葡萄糖和果糖才分别被吸收，这一步会减慢果糖的释放速度。</p>
-<p>而果葡糖浆里的果糖已经是游离的，可以直接被小肠吸收，到达肝脏的速度更快，瞬时浓度也更高。</p>
-<h2>这“更快更高”意味着什么？要从果糖在肝脏里的代谢方式说起。</h2>
-<p>葡萄糖进入身体后，全身细胞都能用，肌肉收缩，大脑思考等等。胰岛素负责调控分配，哪里需要哪里搬。</p>
-<p>果糖完全不同。</p>
-<p>你吃下去的果糖绝大部分被直接送进了肝脏。肝脏里有一种专门处理果糖的酶会以很高的速度把果糖拆解。</p>
-<p> </p>
-<p>葡萄糖的代谢有负反馈机制，细胞里能量够了代谢速度就会降下来。</p>
-<p>但果糖的代谢没有这个负反馈。不管肝脏的能量储备多充足，只要果糖进来拆解就不会停。</p>
-<p> </p>
-<p>拆解产物大量涌入了脂肪合成通路。</p>
-<p>肝脏把果糖的碳骨架拿来造脂肪。果糖推动肝脏合成脂肪的能力比等量的葡萄糖强得多<sup>[1]</sup>。</p>
-<h3>这些脂肪一部分就留在了肝脏里。日积月累，就成了脂肪肝。</h3>
-<p> </p>
-<p>从 1970 年代果葡糖浆大规模进入食品工业到现在，全球非酒精性脂肪肝的患病率一路攀升，时间曲线和果葡糖浆消费量的增长高度吻合<sup>[2]</sup>。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-b4ba0eb970e667de55f113c97a0ca247_720w.jpg?source=8673f162" alt="" width="685"></figure>
-<p>还有，肝脏造出来的脂肪也不全留在肝脏里。一部分会被释放到血液中去。</p>
-<p> </p>
-<h3>而这些进入血液的脂质，后来被发现还有另一个去处。</h3>
-<p>2019 年，威尔·康奈尔医学院做了一个实验。研究人员每天给一批容易长肠道肿瘤的小鼠喂一点果葡糖浆，换算人大约相当于每天喝一罐含糖饮料。<sup>[3]</sup></p>
-<p>不算多。很多人每天喝的远超这个量。</p>
-<p><strong>八周后，喂了果葡糖浆的小鼠，肠道里的大肿瘤数量显著增多，恶性程度也更高。</strong></p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-9f87f9424300ca27a0d524d5e78ee06f_720w.jpg?source=8673f162" alt="" width="1280"></figure>
-<p>这批小鼠没有变胖，血糖也正常。</p>
-<p><strong>但肿瘤就是长大了。</strong></p>
-<p> </p>
-<p>进一步分析发现，果糖在肿瘤内部被转化成了一种中间产物激活了脂肪酸合成，肿瘤因此获得了更多的生长原料。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-59104c818f9bfc8ebe6ab3aa6a6ebc3c_720w.jpg?source=8673f162" alt="" width="1003"></figure>
-<h3>如果果糖需要在肿瘤内部被直接代谢才能促进生长，那理论上只有肠道这种直接接触食物的器官里的肿瘤才会受影响。</h3>
-<h3>远离消化道的肿瘤呢？</h3>
-<p>2024 年 12 月，华盛顿大学的团队回答了这个问题<sup>[4]</sup>。</p>
-<p>他们发现，大多数癌细胞根本没法有效利用果糖，因为它们缺少肝脏里那种专门处理果糖的酶。</p>
-<p>而如果果糖先被肝脏代谢，肝脏把它转化成一类脂质分子释放到血液里，癌细胞再从血液里吸收这些脂质，就能用来合成细胞膜。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-d7e7a4df4bed1b8dae7a61c80d8ae556_720w.jpg?source=8673f162" alt="" width="685"></figure>
-<p>也就是说，果糖经过肝脏代谢后，给了癌细胞更多的原料供应。</p>
-<p>在小鼠实验中，高果糖饮食让黑色素瘤、乳腺癌和宫颈癌都长得更快，小鼠同样没有变胖。</p>
-<p>但如果用药物阻断肝脏处理果糖的能力，血液中的脂质水平就降了下来，果糖对肿瘤的促进作用也消失了。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-79d6b45ea7136238bc253c39a3eb0d4a_720w.jpg?source=8673f162" alt="" width="685"></figure>
-<p>所以整条通路是这样的：</p>
-<p>你喝下含果葡糖浆的饮料，果糖被肝脏吸收，肝脏把果糖代谢成脂质，脂质进入血液，远处的肿瘤拿到了更多的细胞膜原料，然后长得更快。</p>
-<h2>过量摄入果糖的影响还不止于代谢和肿瘤。</h2>
-<p>2025 年 6 月的研究发现还会影响大脑发育。</p>
-<p>大脑在发育过程中会产生大量新神经元，其中一部分需要被清除掉，这是正常的修剪过程。负责这个清除工作的是小胶质细胞，大脑里的一种免疫细胞。</p>
-<p>它们通过吞噬来清除多余的或已死亡的神经元。</p>
-<p>小胶质细胞恰好是大脑中唯一能大量吸收果糖的细胞。</p>
-<p>研究团队发现，怀孕或哺乳期间大量摄入果糖的母鼠，后代的脑部发育出了问题。<sup>[5]</sup></p>
-<p>果糖进入小胶质细胞后，改变了细胞内部的能量代谢方式，导致细胞的能量产出下降。小胶质细胞没有足够的能量来执行吞噬任务，清除功能就被抑制了。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-c0e2c1b88ea89492382045e1b69045f6_720w.jpg?source=8673f162" alt="" width="685"></figure>
-<p>后果就是大量本该被清除的死亡神经元堆积在了脑内。这些幼鼠长到青春期后，出现了明显的焦虑样行为和认知障碍。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-dd9993a383db0dab820d281071cc340c_720w.jpg?source=8673f162" alt="" width="685"></figure>
-<p>研究人员进行了验证：把小胶质细胞吸收果糖的通道基因敲掉，让小胶质细胞无法吸收果糖。</p>
-<p><strong>结果这些行为异常就消失了。</strong></p>
-<p> </p>
-<h2>这是第一次在分子层面解释了：孕期和青少年时期高果糖摄入，和后代焦虑症发病率升高之间的关联。</h2>
-<p> </p>
-<h2>总结一下：</h2>
-<p>偶尔喝一罐，差异可能不大。别过量就行，每天喝就是过量。</p>
-<p>而水果里虽然也有果糖，但水果里的果糖被纤维包裹，消化速度慢，单次摄入量也有限。</p>
-<p>可以对比一下：一个苹果的果糖大约 6 到 10 克，一瓶 500 毫升含糖饮料的果糖在 30 克以上。</p>
-<p> </p>
-<p>所以，二选一的话，我还是选择用白砂糖的饮料。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2085265745911309783">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792871</guid>
-                <pubDate>Tue, 29 Sep 2026 21:46:01 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>闰秒制度可能将被提前废除，什么是闰秒？为啥用了半个多世纪会被取消？对我们生活有影响吗？</title>
-                <link>http://daily.zhihu.com/story/9792876</link>
-                <description>太空僧，2022年新知答主｜航天及天文优秀答主 查看知乎原文 因为南极冰盖在加速融化。 关于闰秒这个事，你问 AI，AI 都不一定能一下子讲得清楚，因为这个屎山有点乱。 我们知道，地球上的人类，最早的时间，是靠太阳确定的， 考虑到日出日落的时间，会随着纬度和季节剧烈变化，而正午，也就是太阳上中天的时刻，是一个比日出、日落更精确、更稳定的天文参考点（我们现在知道它大致只和经度相关），所以各个地方，大…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-4e99424314e25f8b361648b4a30733d6.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-2bcc599bdc722be2ec3a627e31a75f00_l.jpg?source=8673f162">
-<span class="author">太空僧，</span><span class="bio">2022年新知答主｜航天及天文优秀答主</span>
-<a href="https://www.zhihu.com/question/2084915571720545826/answer/2085033245943637430" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>因为南极冰盖在加速融化。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-4e99424314e25f8b361648b4a30733d6_720w.jpg?source=8673f162" alt="" width="1024"></figure>
-<p>关于闰秒这个事，你问 AI，AI 都不一定能一下子讲得清楚，因为这个屎山有点乱。</p>
-<p>我们知道，地球上的人类，最早的时间，是靠太阳确定的，</p>
-<p>考虑到日出日落的时间，会随着纬度和季节剧烈变化，而正午，也就是太阳上中天的时刻，是一个比日出、日落更精确、更稳定的天文参考点（我们现在知道它大致只和经度相关），所以各个地方，大多都是根据正午太阳的位置来确定时间的锚点，进而确定一天，或者一日的长度。</p>
-<p>后来，人们发现，光有“日”这个概念不够用了，于是欧洲人发明了时刻，中国人发明了更点。再到后来，西方天文学大发展，“秒”这个单位开始更频繁地使用，明末清初，徐光启用古字中用来表示谷穗上的细芒的“秒”字，来做为 second 的中文翻译。</p>
-<p>在西方，最初的“秒”，被定义为一天的 86400 分之一<strong>。</strong></p>
-<h2>第一次打补丁</h2>
-<p>我们知道，一天的时长并不都是相同的，因此，秒也有了快慢。</p>
-<p>19 世纪，随着工业革命的到来，资本市场发现，需要更精确的计时器，于是机械钟表大发展。而机械钟表的构造意味着，需要一个更均匀的时间单位。</p>
-<p>于是天文学家引入了<strong>平太阳日</strong>的概念，也就是把一年中真太阳日的平均长度作为一天。</p>
-<p>于是，<strong>1 秒 = 1 平太阳日的 1/86400。</strong></p>
-<p>这就是平太阳秒。</p>
-<h2>第二次打补丁</h2>
-<p>问题很快出现了。</p>
-<p>天文学家发现，地球的自转并不均匀，它不但存在着季节性的波动，而且由于月球潮汐等的作用，在长期地缓慢减速，导致每一年都不一样长。</p>
-<p>所以“平太阳秒”的长度实际上每年都在变，不能作为高精度的时间标准。</p>
-<p>既然地球自转不稳定，那我们就得找一个比地球自转更均匀的时间单位，不如就改用地球公转吧。</p>
-<p>1956 年，国际计量委员会定义，1960 年国际计量大会批准了一个新的单位，史称：<strong>历书时秒。</strong></p>
-<p>当时人为规定了一个 1900 年 1 月 0 日，把这一天的 12 时定为历书时，把再把这一历书时的 60x60 分之一，作为新的 1 秒的定义。</p>
-<p><strong>1 秒 = 1900 年 1 月 0 日 12 时（历书时）回归年的 1/31556925.9747。</strong></p>
-<h2>第三次打补丁</h2>
-<p>按理说，这个秒的定义已经很精确了。</p>
-<p>但在实际使用中，就会发现，这个定义依赖天文观测，实际使用的时候不是那么方便。而且精度还是有限。</p>
-<p>1955 年，第一台实用铯原子钟在英国国家物理实验室运行。它利用铯 -133 原子基态两个超精细能级之间的跃迁，产生极其稳定的频率。</p>
-<p>于是，1967 年，第 13 届国际计量大会正式定义<strong>原子秒</strong>：</p>
-<p><strong>1 秒 = 铯 -133 原子基态两个超精细能级之间跃迁辐射的 9192631770 个周期的持续时间。</strong></p>
-<p>这个整数<strong>9192631770</strong>不是随便选的。它是当时测量得到的铯跃迁频率，目的是让原子秒尽可能等于历书时秒。这样，新秒与旧秒在长度上几乎无缝衔接。</p>
-<h2>第四次打补丁</h2>
-<p>现在秒的长度定下来了，但还得有一个全球统一的起始计时点。</p>
-<p>其实早在这次计量大会之前的 1958 年，全球就已经有好几个实验室开始搞原子钟读数了，当时就把客实验室的读数加权平均后，形成了一个连续、均匀的时间尺度，因此，就规定以 1958 年 1 月 1 日 0 时 0 分 0 秒作为<strong>国际原子时（TAI）</strong>的正式起步时间。</p>
-<p>但这里出现了一个问题。</p>
-<p>原子钟的秒长是恒定的，但地球的自转是变化的。</p>
-<p>为了能保证让国际原子时能与实际的地球日中天的时间吻合，就需要微调，尽量让差值保持在<strong>±0.1 秒</strong>以内。</p>
-<p>一开始，天文学家想的办法是，<strong>改变“一秒”的物理长度</strong>。</p>
-<p>我们知道，原子钟的秒长是恒定的，那只能人为地设定一个微小的“频率偏移量”，产生一个协调世界时。比如 1961 年 1 月 1 日，这个偏移量被设为 <img src="https://www.zhihu.com/equation?tex=-150%C3%9710%5E%7B-10%7D" alt="-150×10^{-10}"> 秒。</p>
-<p>这意味着一秒的长度，要比原子秒<strong>略长</strong>一点点（因为偏移量为负，表示频率被调低，周期变长）。这样，真实的钟就会走得比原子钟<strong>稍慢</strong>，从而逐渐追上因地球自转减速而落后的 gap。</p>
-<p>令人头大的是，地球每一年的自转时长都不相同，所以这个偏移量也要一直变，从 1961 年到 1965 年间，变了好几次。</p>
-<p>但天文学家嫌这个数量级的调整还是不够精确，当频率偏移在±0.1 秒内时，还需要进行一个小的“步进调整”，插入一个 0.1 秒甚至是 0.05 秒的时间跳变值。比如在 1961 年 8 月 1 日，就进行了一次<strong>+0.050 秒</strong>的步进调整。</p>
-<p>这么调，虽然精确，但是太麻烦了。</p>
-<p>比如无线电通信和导航，它们都是将载波频率作为<strong>标准频率</strong>来使用。但你现在规定说频率标准是变来变去的，这意味着他们依赖的标准频率本身在漂移，整个过程人工干预多，出错风险高，维护成本巨大，而且操作极为繁琐，这引发了很多的抱怨。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://picx.zhimg.com/v2-471d19bc9e5e6b3863668d370027cf3b_720w.jpg?source=8673f162" alt="" width="474"></figure>
-<h2>第五次打补丁</h2>
-<p>在 1972 年，大家坐在一起说，这得改革啊。</p>
-<p>于是彻底取消了频率偏移，让一秒的长度严格等于原子秒，并将调整方式简化为仅使用整秒的“闰秒”。这既保证了一秒长度的均匀与稳定，又通过偶尔的、可预测的整秒跳变，维持了与地球自转的粗略同步。</p>
-<p><strong>协调世界时（UTC）</strong>应运而生。</p>
-<p>它的要求就是，秒长采用原子时，但时刻上要尽量靠近真实世界中地球自转算出的时长。</p>
-<p>当国际地球自转服务组织（IERS）监测到 UTC 与真实世界地球自转算出的秒长的差距即将达到 0.9 秒时，就会发布公告，在下一个特定的时刻（通常是 6 月 30 日或 12 月 31 日的最后一秒）增加或减少 1 秒，这就是“闰秒”。</p>
-<p>这样就能确保太阳在格林尼治子午线上空的正午时刻，与我们时钟的偏差控制在约 1 秒之内。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://pica.zhimg.com/v2-c928af4f6e5ae785e461b75185e83815_720w.jpg?source=8673f162" alt="" width="474"></figure>
-<p>自 1972 年以来，人类已经增加了 27 个闰秒。</p>
-<h2>第六次打补丁</h2>
-<p>大自然才不关心人类的计时。由于地球自转速度变化无常，闰秒就无法提前精确的规划，这给全球的计算机系统运维带来了巨大负担。</p>
-<p>而且，闰秒的插入，会造成时间上的不连续，这对需要精确、稳定时间流的计算机系统是巨大的挑战。</p>
-<p>比如 2012 年，闰秒就曾导致 Reddit 等知名网站出现了系统崩溃，2015 年和 2016 年的闰秒也引发了新的技术故障。</p>
-<p>但这些都还能打补丁克服。</p>
-<p>压扁骆驼的最后一根稻草，是南极的冰。</p>
-<p>最近的观测发现，地球自转的速度不是一直变慢的，目前反而有短期加快的趋势。</p>
-<p>这是因为，地球变暖，极地冰盖融化后，原本分布在高纬度的冰盖质量转化为海水，向低纬度扩散。</p>
-<p>按照动量守恒，液态水向低纬度流动，会让质量远离转轴，按理说该让自转变慢，就像滑冰运动员打开手臂，会让旋转变慢一样。</p>
-<figure><img class="origin_image zh-lightbox-thumb" src="https://pic1.zhimg.com/v2-c565e4cddf780f36574edf129fc7a82b_720w.jpg?source=8673f162" alt="" width="1024"></figure>
-<p>但这与观测到的自转变快的结果是相违背的。</p>
-<p>最近有人提出，要考虑冰后回弹（Glacial Isostatic Adjustment, GIA）效应。如果极地的厚冰盖消失，地壳就会缓慢回弹抬升，同时地幔物质会发生黏弹性调整，这会让地球整体略微变得更圆了一点（扁率减小），从而让转动惯量降低，部分抵消月球潮汐摩擦导致的长期减速。有研究员根据 GRACE 卫星等的观测结果，认为正是因为这个效应，导致被冰盖压住的地壳回弹，把地幔里的重物质拉向高纬度靠近转轴，这个拉近质量的效应比水流的拉远效应更强，与观测数据拟合的非常好，所以整体来说，还是让地球自转加快了。</p>
-<p>还有人不认同，认为 GIA 效应是很缓慢的，不会这么明显地改变自转速度，于是又提出了外核减速理论。北大的宋晓东团队就认为，地球内核存在一个约 70 年的旋转振荡周期，大约在 2009 年前后，内核开始比地幔转得慢了，这可能带动了外核的减速。外核与地幔之间有电磁耦合和粘性耦合，外核角动量减少的部分，会通过耦合作用转移给地幔，导致地壳和地幔转得更快，从而表现为地表的自转加快。</p>
-<p>不论是哪种理论，观测结果就是自转加快了。</p>
-<p>2025 年 7 月 22 日这一天，成为了有记录以来第二短的一天，当时的地球自转一圈儿比标准的 24 小时快了大约 1.34 毫秒。虽然在日常生活中难以察觉，但这意味着未来有可能出现需要删除 1 秒的“负闰秒”，据估计，到 2035 年出现负闰秒的可能性约为 30%。这以前可没玩过，计算机设计的时候就没想过会少一秒，现有的软件系统也根本没针对这个进行过大规模测试，可能会导致数据库时间戳顺序错乱、分布式系统交易异常等一系列不可预测的严重故障，比正闰秒的影响要大多了。</p>
-<p>基于这些原因，很多人就开始呼吁还是废了闰秒吧。</p>
-<p>主力军就是软件巨头们，以谷歌、微软、亚马逊等科技巨头为首的，联名上书要干掉闰秒。</p>
-<p><strong>2022 年，第 27 届国际计量大会通过决议，决定最迟不晚于 2035 年不再引入闰秒。</strong></p>
-<p>但南极的冰盖融化在加速。为了应对可能提前出现的“负闰秒”风险，相关机构正在讨论将废止时间<strong>提前到 2027 年</strong>，并可能以跨度更大的“闰时”来替代闰秒，也就是攒着，等攒着的偏差能达到 1 小时了，再去整。</p>
-<p>闰秒的诞生，是人类向地球自转不稳定的低头妥协。</p>
-<p>闰秒的取消，是对软件设计一开始就没考虑清楚埋下的雷的再一次妥协。</p>
-<p>这就是人类文明不断前进，不断打补丁的屎山代码史。</p>
-<p>。</p>
-<p>。。</p>
-<p>。。。</p>
-<p>越滑越快，</p>
-<p>终于滑到底了。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2084915571720545826">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792876</guid>
-                <pubDate>Tue, 29 Sep 2026 21:46:02 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792905</guid>
+                <pubDate>Wed, 30 Sep 2026 03:35:57 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9792882</link>
-                <description>瞎扯 · 最近一次开怀大笑是因为什么? 知乎日报 查看知乎原文 Q：最近一次开怀大笑是因为什么? @关伯兰在笑 ：抖音刷到《活着》的时候，本来心情非常沉重，刷到这条评论，真的笑喷了 Q：《三体》中，你有哪些读一次笑一次的片段？ @Daniels ：当你生病住院的时候你暗恋的女生来看你的时候只有两种情况1.她喜欢你2.阶梯计划 Q：有没有笑的停不下来的搞笑图片？ @力士 ：无敌铁锭，这哥们儿绝对是练…</description>
+                <link>http://daily.zhihu.com/story/9792911</link>
+                <description>瞎扯 · 有什么著名的电视台（电台）播出事故？ 知乎日报 查看知乎原文 Q：有什么著名的电视台（电台）播出事故？ @墨孜 ：扬州电视台天气预报，给大家过愚人节了 Q：你去过最离谱的景区是什么？ @稀饭冷了 ：打死不去第二次，战败处啥也没有，一点痕迹都没有，特么的 Q：你卡过最厉害的bug是什么？ @六月 ：很多很多年前，考科目三，有键盘，可以 F12 Q：能发一张你认为最意义不明的照片吗? @Ta…</description>
                 <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e38d29d44440ef6f0bb1d6fab68ae2bd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
@@ -410,45 +367,54 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 最近一次开怀大笑是因为什么?</h2>
+<h2 class="question-title">瞎扯 · 有什么著名的电视台（电台）播出事故？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/452201264/answer/2062072940095706923">最近一次开怀大笑是因为什么?</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/24765871/answer/2071768412519396747">有什么著名的电视台（电台）播出事故？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/4d6a7003f95ed6901797110a3ad82388" target="_blank">@关伯兰在笑</a></div>
-：抖音刷到《活着》的时候，本来心情非常沉重，刷到这条评论，真的笑喷了</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fdfa5f260090627008a7bcb3cf287524" target="_blank">@墨孜</a></div>
+：扬州电视台天气预报，给大家过愚人节了</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-2c8885bbedd103c084adf70a8fbc42dd_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-97dfb17bf5d25764dda85c8c834cf921_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/355919079/answer/2037848639498934078">《三体》中，你有哪些读一次笑一次的片段？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/641122020/answer/2067463436104209693">你去过最离谱的景区是什么？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/4c5878de04f75799d1bdd5e40ff879aa" target="_blank">@Daniels</a></div>
-：当你生病住院的时候你暗恋的女生来看你的时候只有两种情况<br>1.她喜欢你<br>2.阶梯计划</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/15412459536/answer/2069146807796609102">有没有笑的停不下来的搞笑图片？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/413256b30668b03f0730b86f5187d365" target="_blank">@力士</a></div>
-：无敌铁锭，这哥们儿绝对是练到家了</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/dde23e34c8df32185e779800ab2abff5" target="_blank">@稀饭冷了</a></div>
+：打死不去第二次，战败处啥也没有，一点痕迹都没有，特么的</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-d5edf97a068526e2e588168009687887_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-977f7d09f0d6143b539f9969be137327_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/447868724/answer/2072693950260032070">戴什么表让人看不出深浅？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/316703576/answer/1922768539372193395">你卡过最厉害的bug是什么？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/98a9d036a71554df6fd19b1bf1c2ac83" target="_blank">@Theroal</a></div>
-：在国内开会的时候，在一个副局手上看到一款迪士尼的米老鼠手表，这我实在是看不出深浅........</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/287340738/answer/2056386501332805449">你见过最惊艳的公司名称是什么？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e6ba64aa867cdf14456c7b242ddc4280" target="_blank">@苏格没底</a></div>
-：没有比这更惊艳的了。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/81ff5e8699628c7f85affdefdbd491d2" target="_blank">@六月</a></div>
+：很多很多年前，考科目三，有键盘，可以 F12</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-c32f02fbf402fd41c612a7f61f70de94_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-b4ae9101c0860c62b68d99d9c7bc11ae_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1979262378672669988/answer/2071606081902719910">能发一张你认为最意义不明的照片吗?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d8996f019974ea43a0784f3f3631ff13" target="_blank">@Tangpika31</a></div>
+：笑了半天，每一格都笑的相似。。</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-44f74e01895ae79680fbcba53f4abbc8_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/319924522/answer/2067341420319528639">有哪些官方的玩梗？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/433c3d148fe3d0a83e40c7f401979fc7" target="_blank">@Peneldon</a></div>
+：当然是长发郭冬临梗</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-cbe65765acf2cdf01f36e7575676335c_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-7115fbe147b040f516f52109f7909dac_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
 <hr>
 <p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
@@ -462,8 +428,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9792882</guid>
-                <pubDate>Tue, 29 Sep 2026 21:46:03 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9792911</guid>
+                <pubDate>Wed, 30 Sep 2026 03:35:57 GMT</pubDate>
             </item>
             
     </channel>
