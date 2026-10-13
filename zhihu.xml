@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Mon, 12 Oct 2026 14:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 00:02:53 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>于敏-邓稼先构型的是怎么设计出来的，为什么别的国家死活搞不出来？</title>
-                <link>http://daily.zhihu.com/story/9793185</link>
-                <description>野狸子，形而上学 查看知乎原文 于敏构型的不可复制性在于它的诞生过程本身。 于敏构型全称名为”于敏 - 邓稼先构型”，于敏负责前期理论突破，邓稼先推进后期工程落地，考虑到”设计出来”比”造出来”难度更高一筹，我们主要聊聊于敏这一头。 知道答案存在，反而会更难 氢弹的物理原理并不复杂，一般采用目前世界公认的 Teller–Ulam 架构。 Teller–Ulam 架构组成 简单来说，就是用原子弹（初…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a23e224196d2327e02fe3fa3e4dfa1b0.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>有哪些像「饮鸩止渴」中的「鸩鸟」一样有毒的鸟类？</title>
+                <link>http://daily.zhihu.com/story/9793209</link>
+                <description>苏澄宇，自然科学/分享动物们的小秘密/Animalonearth 查看知乎原文 杰克·邓巴赫（Jack Dumbacher）从网里解下一只黑橙相间的鸟，手被鸟喙和爪子划伤了。 他顺手把受伤的手指放进嘴里，很快，嘴唇开始刺麻、灼烧，一直持续到晚上[1]。 那是 1989 年，邓巴赫正在巴布亚新几内亚研究极乐鸟。这只误入雾网的鸟叫皮托辉（Pitohui dichrous）。 他起初怀疑是手上的汗、污物…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6c3fd5b1bb424cab01ff8d4726b49ebb.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,109 +31,73 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-23a5ac848ef7c6e98ed157c37ef33b6c_l.jpg?source=8673f162">
-<span class="author">野狸子，</span><span class="bio">形而上学</span>
-<a href="https://www.zhihu.com/question/38591351/answer/2030626109105103763" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/26430578/answer/2084620877640028409" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>于敏构型的不可复制性在于它的诞生过程本身。</p>
-<p>于敏构型全称名为”于敏 - 邓稼先构型”，于敏负责前期理论突破，邓稼先推进后期工程落地，考虑到”设计出来”比”造出来”难度更高一筹，我们主要聊聊于敏这一头。</p>
-<p><strong>知道答案存在，反而会更难</strong></p>
-<p>氢弹的物理原理并不复杂，一般采用目前世界公认的 Teller–Ulam 架构。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1b2ed1ee871af95191fac38ee7a9bd5e_720w.gif?source=8673f162" alt=""><figcaption>Teller–Ulam 架构组成</figcaption></figure>
-<p>简单来说，就是用原子弹（初级）产生的 X 射线，通过辐射通道去压缩点燃热核燃料（次级），最后完成辐射内爆。</p>
-<p>美国 1952 年搞出来了，苏联 1953 年紧随其后，毕竟物理学不分国界嘛，思路摆在那儿，谁先把具体的工程数据算出来，谁就先毕业。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4d1342f21008ce228c172e4f78b07c62_720w.gif?source=8673f162" alt=""><figcaption>美国核试验现场</figcaption></figure>
-<p>看到这里，大家可能觉得，前面有人把这条路走通，后面跟着走不就完了？没什么了不起的。</p>
-<p>其实和我们上学做题一样，一道难题，一旦老师给出了正确答案，但是没有推导过程，让我们比赛谁先做出来。为了求速度，我们的思维方式很可能就变了，后续的解题思路很可能更倾向于不再从头推导，而是猜答案。毕竟从结果溯源，看起来会比从头<strong>推导更快，更省力。</strong></p>
-<p>当年的中国核武器大考也是这个局面，物理学上辐射内爆这个大方向谁都知道。</p>
-<p>但 X 射线怎么均匀压缩次级？辐射通道什么几何构型？初级和次级的空间关系怎么摆？起爆时序误差控制在多少微秒以内？</p>
-<p>每一个”细节”都是生死线，但是这些细节，逆向工程很难猜出来，核武器研发陷入了困局。</p>
-<p><strong>于敏是怎么干的？</strong></p>
-<p>1961 年，于敏接到任务，那时候中国在工程实现这方面的研发情报完全被封锁了，唯一能看到的西方公开文献，反复都强调一个东西：<strong>氚</strong>。好像搞到足够多的氚就能做出氢弹了。</p>
-<p>这个时候，很多国家的科学家就顺着这个思路被带跑了。</p>
-<p>于敏没有陷入这个误区，他算了一遍，发现不对劲，氚半衰期只有 12.3 年，放着放着就衰变了，生产成本极高，纯靠外源氚驱动聚变，能量效率根本撑不起一个实用化的武器。</p>
-<p>他的前瞻性判断后来被证实是对的，实用化氢弹的思路是用氘化锂做热核燃料，让锂 -6 在中子轰击下原位生成氚，聚变燃料”自己造自己”。</p>
-<p>但在 1961 年，没人给于敏递这个答案，是他从第一性原理自己推出来的。</p>
-<p>在此之后，他还做了一个极其大胆的决定，那就是<strong>扔掉所有”参考答案”，不走捷径，相反选择从最基本的物理方程重新推导。</strong></p>
-<p>1965 年秋天，他带着团队跑到上海华东计算技术研究所，借助 J-501 计算机进行氢弹理论的数值计算和分析。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-01aff6a2d19bb1d8e53abd8f879e44f3_720w.jpg?source=8673f162" alt=""><figcaption>J-501 计算机</figcaption></figure>
-<p>这个设备有多牛逼呢，大概是每秒 5 万次运算速度，现在你兜里随便一个手机芯片都是它几百万倍，随便秒杀。</p>
-<p>更要命的是，这台机器 95%的运算能力分给了原子弹项目，于敏团队只拿到 5%。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cc8e5b0e30773309bcfff39058212c42_720w.jpg?source=8673f162" alt=""><figcaption>于敏在查阅计算数据图</figcaption></figure>
-<p>白天上不了机就用算盘做预处理，把方程简化到极致，晚上才上机跑核心部分，将近一百天，后来这段传奇时光被称为”百日会战”。</p>
-<p><strong>离谱的是，他们在这么有限的算力下，居然跑出了正确的物理方案。</strong></p>
-<p>这意味着上机之前，于敏在脑子里就已经把问题的整个物理构型想清楚了，计算机只是验证判断的工具，不是帮他探索的试金石。</p>
-<p>于敏的这种能力，跟算力没关系。</p>
-<p>1967 年 6 月 17 日 8 时许，首枚基于于敏构型的氢弹由<span class="nolink">徐克江</span>机组驾驶的<span class="nolink">轰 -6</span>轰炸机在<span class="nolink">罗布泊</span>沙漠的试验场上投放试爆成功。</p>
-<p>这种构型是开创性的，首发就是实战型的，和国外依靠实验堆出来的策略相比，省了很多核试验，给当时的中国省了不可估量的资源。</p>
-<p>另外有专家指出，世界上仅有两种氢弹构型，一种是美国的 T-U 构型，另一种就是于敏构型。而于敏构型比美国 T-U 构型设计更加巧妙，首爆氢弹体积比美国要小，更适合实战。</p>
-<p><strong>再看下对照组</strong></p>
-<p>各国从原子弹到氢弹花了多长时间：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6d80452f37391ff9e96cfce72b7d1bed_720w.jpg?source=8673f162" alt=""></figure>
-<ul>
-<li>法国：8 年 6 个月</li>
-<li>美国：7 年 4 个月</li>
-<li>英国：4 年 11 个月</li>
-<li>苏联：3 年 11 个月</li>
-<li><strong>中国：2 年 8 个月</strong></li>
-</ul>
-<p>对比来看，中国最快，而且快到离谱。</p>
-<p>另外，隔壁的兄弟技术路线技术路线主要基于自主研发的裂变 - 聚变（热核）设计，但国际专家多质疑其为“助推型”或增强裂变弹，而非成熟两级氢弹，成功与否有待确认。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-22ad62da47f23efa6a03c0f73aa27b6a_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8430b067df382f4930cfc31fa01d8914_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d33f3b256a89b4db2234862cec2d22e3_720w.jpg?source=8673f162" alt=""></figure>
-<p>更搞笑的是另外一个朋友，1998 年，印度搞了”夏克提行动”，号称试爆热核武器，官方宣布当量 45 千吨。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a08f4ed08968da105b1b220ca15bb9e3_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-aca5a53790535c353745997f6350950c_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4a3c18abe5e7217314550cf30a9f9bbe_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后呢？</p>
-<p>国际地震监测网数据出来了，实际当量大概 10 到 25 千吨。差了一倍还多，很可能聚变部分基本没烧起来。后来现场主任桑塔纳姆自己都承认，热核装置没达到设计目标。</p>
-<p>印度不缺物理学家，不缺计算机，甚至不缺核材料，他们缺的是于敏那种”把噪音全部扔掉，从第一性原理重新建模”的能力。</p>
-<p>有时候太想抄近路，反而会越走越远。</p>
-<p>其实工程领域有很多类似的事，拿着别人的成功方案照着抄，结果出了问题，排查半天结果发现人家方案里的前提条件你不满足。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4890d343fa5237f587f7fff59a9371b0_720w.jpg?source=8673f162" alt=""></figure>
-<p>抄的时候不动脑子，忽略前提以及细节，然后弄出点事情来玩玩。</p>
-<p>印度的氢弹构型也是一回事。</p>
-<p><strong>最后回到这个问题</strong></p>
-<p>于敏构型能搞出来，并不是因为中国比别人聪明。是因为在那个特殊的历史窗口，恰好具备了一个极罕见的组合。</p>
-<p>一个能从第一性原理独立推导的顶级理论物理学家，一个愿意把全部国力押上去的体制，和一个”反正也没有参考答案”的绝境心态。</p>
-<p>三个者缺一不可。</p>
-<p>于敏赢在他拒绝了所有”参考答案”，老老实实从头算起，最后踏踏实实地赢了。</p>
-<p>这听着像个笨办法。</p>
-<p>但笨办法，往往是唯一的办法。</p>
+<p>杰克·邓巴赫（Jack Dumbacher）从网里解下一只黑橙相间的鸟，手被鸟喙和爪子划伤了。</p>
+<p>他顺手把受伤的手指放进嘴里，很快，嘴唇开始刺麻、灼烧，一直持续到晚上<sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6abcd1c0ef75f1f63d3802db59d9c9e4_720w.jpg?source=8673f162" alt=""></figure>
+<p>那是 1989 年，邓巴赫正在巴布亚新几内亚研究极乐鸟。这只误入雾网的鸟叫皮托辉（<em>Pitohui dichrous</em>）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a5e573a4eb4df1de62535908f08cb16d_720w.jpg?source=8673f162" alt=""></figure>
+<p>他起初怀疑是手上的汗、污物或驱蚊剂刺激了嘴，可几天后，同事也说自己有过类似感觉，刚刚处理过的也是皮托辉。</p>
+<p>第二年重返新几内亚，邓巴赫用皮托辉的羽毛接触口腔，同样的刺麻感又来了。当地人对此并不意外，他们早就知道这种鸟不适合吃，甚至把它叫作“垃圾鸟”（rubbish bird）<sup>[2]</sup>。邓巴赫把鸟的羽毛和其他组织送进实验室，要查出里面究竟有什么。</p>
 <hr>
-<blockquote><strong>参考来源：</strong></blockquote>
-<ol>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.ydylcn.com/skwx_ydyl/multimedia/ImageDetail%3FSiteID%3D1%26type%3DImageTable%26ID%3D10602312%26ContentType%3DMultimediaImageContentType%26isHost%3Dnull" target="_blank" rel="nofollow noreferrer">各国氢弹研制时间数据</a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//nuclearweaponarchive.org/Nwfaq/Nfaq4-4.html%3Futm_source%3Dperplexity" target="_blank" rel="nofollow noreferrer">Elements of Thermonuclear Weapon Design </a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.mmcs.org.cn/kxjfc/kxjfc/ym/bd/art/2023/art_4b33ec1e4b79443b86c377ca5aed5633.html%3Futm_source%3Dperplexity" target="_blank" rel="nofollow noreferrer">于敏：填补中国核理论空白 - 中国科学家博物馆</a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.bbc.com/zhongwen/simp/world-41139346" target="_blank" rel="nofollow noreferrer">朝鲜第六次核试验“成功”试爆氢弹 中美韩俄日纷谴责</a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//nuclearweaponarchive.org/India/IndiaShakti.html" target="_blank" rel="nofollow noreferrer">India's Nuclear Weapons Program</a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.time-weekly.com/post/5192" target="_blank" rel="nofollow noreferrer">印度 1998 年核爆造假？</a></li>
-<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.ettoday.net/news/20180515/1169715.htm" target="_blank" rel="nofollow noreferrer">爆炸地点代号「白宫」！印度公开 20 年前核试验照片</a></li>
-</ol>
+<p>1992 年，团队在《科学》上发表结果：三种皮托辉都含有同型箭毒蛙毒素，比较不同组织时，皮肤和羽毛的毒性最强。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fef8e43eb6367a40d86de7cd9edebd1a_720w.jpg?source=8673f162" alt=""></figure>
+<p>在此之前，这一类毒素只在中南美洲某些箭毒蛙身上发现过。它会让神经和肌肉细胞上的钠离子通道难以正常关闭，扰乱电信号。如今，太平洋另一边的鸟，羽毛里也出现了同类物质。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c84044d5fa20b9852b83e3112a962c8e_720w.jpg?source=8673f162" alt=""></figure>
+<p>问题是，鸟从哪里弄来这些毒素？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-68500a26eb4d20f7356a91badccba7a4_720w.jpg?source=8673f162" alt=""><figcaption>杰克·邓巴赫</figcaption></figure>
+<p>箭毒蛙的研究提供了一个方向，某些在人工环境中养大的箭毒蛙，体内检测不到这类毒素；给蛙提供含某些生物碱的食物后，它们又能把这些物质积存进皮肤。也就说，<strong>毒可以是吃来的。</strong></p>
+<p>后续检测也发现，皮托辉不同种群、个体之间的毒素含量差别很大，一些样本甚至没有检出<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8e4a2bf6906e88f2c00f756cd286b799_720w.jpg?source=8673f162" alt=""><figcaption>标注的同一种鸟的样本，结果也不一样。“－”表示未检出，“tr”表示痕量</figcaption></figure>
+<p>团队还在另一种鸟蓝顶鹛鸫（<em>Ifrita kowaldi</em>）身上发现了同类毒素，含量同样参差不齐。这些结果让食物来源的解释更有了依据。</p>
+<p>研究者开始追查鸟吃过什么。他们追踪鸟的活动，检查胃内容物，调查了数百种可能进入食谱的昆虫和植物。蚂蚁、白蚁、千足虫、蚱蜢和果实都查过，但到 2000 年的论文发表时，在这些候选食物里，目标毒素仍然没有出现。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c860fb22e29a8dd6b704b8b6d5fc6aa3_720w.jpg?source=8673f162" alt=""></figure>
+<hr>
+<p>2002 年，邓巴赫安排一名实习生去赫罗瓦纳村，那是他以前做过调查的地方。实习生抵达后，村里的阿维特·瓦科拿出了邓巴赫留下的小玻璃瓶，里面已经装好了甲虫。</p>
+<p>瓶子上标着采集人的名字、日期和地点。之前瓦科见过邓巴赫怎样收集样本，便照着做了下来。研究者离开后，村里的人还在继续收集。</p>
+<p>他们挑出这些甲虫，是因为一种熟悉的感觉，刺麻感。当地人把它们叫作“nanisani”，也用这个词称呼蓝顶鹛鸫。这个名称指的，正是接触甲虫或鸟的羽毛后，嘴唇和脸上出现的特殊刺麻感<sup>[4]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e5940bc77474178957123fbca49adbd7_720w.jpg?source=8673f162" alt=""><figcaption>蓝顶鹛鸫</figcaption></figure>
+<p>瓶里的甲虫被鉴定为 <em>Choresine</em> 属，只有五六毫米长。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-72eedbb1bd864417cde0465c58aa2c75_720w.jpg?source=8673f162" alt=""><figcaption>左上角的小图展示体侧囊泡</figcaption></figure>
+<p>它们不大成群聚集，村民通常在清晨捕捉飞行的甲虫，或到园中植物的叶子下面寻找，一天很少能抓到超过十到十五只。</p>
+<p>最终，研究收集了 391 只甲虫，分批送去分析，<strong>这一次，检出了箭毒蛙毒素类物质。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b7f9e30886be363718ecd4b8b8691d7b_720w.jpg?source=8673f162" alt=""></figure>
+<p>而且，团队还检查了 49 只鸟的胃内容物，在一只皮托辉胃里找到了同属的另一种甲虫。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-53cd534e0078867777ecc8cd7300edaa_720w.jpg?source=8673f162" alt=""></figure>
+<p>胃里那个种尚未检测过毒素，但这一属甲虫含毒、又确实会被鸟吃下，两项发现共同指向了一个解释：<strong>这些甲虫很可能是皮托辉获取毒素的食物来源。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4163b8a8f680beb99d54eeaf8a7ad151_720w.jpg?source=8673f162" alt=""></figure>
+<p>问题又来了，鸟吃了有毒甲虫，为什么自己不会死？</p>
+<p>研究者一度怀疑，它们把毒素攻击的钠离子通道改造了。</p>
+<p>但直到 2026 年的实验<sup>[5]</sup>，这个解释仍没有得到支持：毒鸟的钠通道照样怕这种毒。现在更可能的情况，是鸟先把毒素“收起来”，不让它自由接触神经和肌肉，最后再把相当一部分积存在皮肤和羽毛里。至于其中的机制，目前还没有完全搞清楚。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-44a6c3e84300d913b6f0375da47788c2_720w.jpg?source=8673f162" alt=""><figcaption>研究者把皮托辉的肌肉钠通道单独拿出来，加入 BTX。结果通道照样被明显扰乱，表现和人类、箭毒蛙的通道类似</figcaption></figure>
+<p>这项调查从一只鸟的羽毛，追到了雨林中的小甲虫。2004 年，研究结果发表在《美国国家科学院院刊》上。作者名单里，紧接邓巴赫之后的第二个名字，就是阿维特·瓦科。</p>
+<p>他的署名单位没有大学或研究所，写的是：<strong>巴布亚新几内亚东部高地省，赫罗瓦纳村。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-23c80b56b93196aeb2ceb3194369c042_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/38591351">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/26430578">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793185</guid>
-                <pubDate>Mon, 12 Oct 2026 14:11:13 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793209</guid>
+                <pubDate>Tue, 13 Oct 2026 00:02:51 GMT</pubDate>
             </item>
             
             <item>
-                <title>日本饮食为什么一餐的量那么少？</title>
-                <link>http://daily.zhihu.com/story/9793191</link>
-                <description>看星空的仓鼠，代文曲星品酒 / 商业合作请私信 or 微信咨询 查看知乎原文 感谢邀请。 日本这国家，有趣之处在于它保留了相对完整的东北亚古典贵族（公卿）生活体系。 于是乎在习惯了没有古典贵族社会观的我国视角下，日式料理并不能以一个笼统的概念来全面覆盖，正如在我国也有众多菜系一样。 只是，日本公卿贵族体系强调的饮食观，和「庶民」（普通大众）的饮食观截然不同。 所谓的公卿贵族饮食观，主张节制、精致、…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-7357953b6a5d3e5a047bdc83abcb45ab.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>哪些计算机技术已经悄悄改变了生活，却很少有人意识到？</title>
+                <link>http://daily.zhihu.com/story/9793211</link>
+                <description>霁淼淼，专注科普，分享自己的观点 查看知乎原文 简而言之，我认为是数据压缩。 今天，我们在聊天软件里一次发送二十张照片，进度条可能只闪一下； 点开一部高清电影，缓冲几秒便开始播放； 这些体验太自然了，以至于很少有人想过如果照片、音乐和视频都按照最原始的方式保存，互联网还能装得下我们的生活吗？ 答案可能是，装不下。 一张 1200 万像素的彩色图片，如果每个像素直接用红、绿、蓝三个字节记录，展开后大…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-1c1b41957bafbe7298973ea416b76a87.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -153,104 +117,112 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-b97db5517ef3853f38253a4cabaa133d_l.jpg?source=8673f162">
-<span class="author">看星空的仓鼠，</span><span class="bio">代文曲星品酒 / 商业合作请私信 or 微信咨询</span>
-<a href="https://www.zhihu.com/question/1958903176347490012/answer/2078653911053886386" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-031cb1ac07f6838f44f4c77da088276d_l.jpg?source=8673f162">
+<span class="author">霁淼淼，</span><span class="bio">专注科普，分享自己的观点</span>
+<a href="https://www.zhihu.com/question/2078550836293248451/answer/2083095525314786009" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>感谢邀请。</p>
-<p>日本这国家，有趣之处在于它保留了相对完整的东北亚古典贵族（公卿）生活体系。</p>
-<p>于是乎在习惯了没有古典贵族社会观的我国视角下，日式料理并不能以一个笼统的概念来全面覆盖，正如在我国也有众多菜系一样。</p>
-<p>只是，日本公卿贵族体系强调的饮食观，和「庶民」（普通大众）的饮食观截然不同。</p>
-<p>所谓的公卿贵族饮食观，主张节制、精致、易消化、美观、花样繁复，还要跟食器有所搭配，并且忌讳食用带有刺激性气味的食材。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1c3532b272918cf207aefa42b5432776_720w.jpg?source=8673f162" alt=""><figcaption>连芥末用的机会都没有，最多给用点儿酸橙，在古代是用薄醋调味，最多放一撮儿盐，力主清淡易消化</figcaption></figure>
-<p>在我国则没有古典贵族饮食观，所以绝大部分传世菜肴都是大盘大碗，就算小份儿菜肴，也是相对的尺寸不小。</p>
-<p>毕竟劳动人民要吃饱肚子才能干活、武将军士也要填饱肚子才能打仗。</p>
-<p>朝堂之上达官显贵也多是从底层上来，所吃之菜往往摆满桌子，铺张浪费是一方面，但鲜少做小份儿菜示人，显得不够豪放，不能夸耀财力。</p>
-<p>而在一衣带水的日本列岛上，古典贵族的生活并未受到岛国缺乏物资的影响。</p>
-<p>因为他们本来就不在乎物资缺乏与否，排场、礼仪、气度是否到位才是关键。</p>
-<p>一个显著的例子，就是现代日料在流行文化中的标志——懐石料理（Kaiseki Ryouri）。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c97aa6d9411046e5c11d33251d7141de_720w.jpg?source=8673f162" alt=""><figcaption>现代怀石料理，与古时怀石料理的区分仅在于料理分量不同、餐点数量不同还有上主食的顺序</figcaption></figure>
-<p>这玩意儿起源相当古老，跟日本佛教文化史关系非常密切，而其雏形，是公卿贵族文化盛行的平安时代（公元 784 ~ 1192 年）沿用下来的公卿料理。</p>
-<p>特色嘛，就是菜肴都是很小的分量，仅仅提供摆盘、排场、展示价格不菲的食器与单纯下饭之用。</p>
-<p>并且料理水平……一言难尽，大多数是生冷海鲜（如章鱼、柴鱼、海藻），熟食以各地土产（豆腐、酱菜、干菜、梅子干）为主，间有一些肉干，还有鸭肉与白萝卜炖煮的汤菜，一般不吃新鲜蔬菜，新鲜水果倒是有，因为公卿贵族认为新鲜蔬菜是庶民才吃的东西。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-634cdd85bcb0da9b4a60e81968f96e28_720w.jpg?source=8673f162" alt=""><figcaption>现代人复刻的平安时代公卿贵族正常一餐，小碟子是镀金的，以便公卿们玩赏食器，分量最大的当属中间那碗高盛饭……</figcaption></figure>
-<p>虽然在公卿的餐桌上，醋与早期酱油已经出现了，但包括酱汁（如味噌）都是另外单列一道菜，绝大部分可称之为菜肴的盘中之物，直接调味料仅仅是少量的盐或蜂蜜，尽量保留了食材的本味（笑）。</p>
-<p>而相对于这些小碟子的主食，却是惊人的一大碗——那时节的公卿贵族喜欢把珍贵的白米饭做成「高盛り飯」的样式儿端上来，以夸耀公卿贵族的豪富。</p>
-<p>不过跟那些小碟子料理情况相仿，平安时代的「高盛り飯」并不好吃，被当时日本人称为「强飯（Kowameshi）」，做法是精心淘洗大米之后，泡水蒸熟，这样能让米饭保持一定强度，利于堆砌成一座小山。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-1a11acbe2c74fb5f1b25e8fecae9dcb9_720w.jpg?source=8673f162" alt=""><figcaption>怎么说呢，高盛り飯大致如此图的米饭……虽然造型不错，且比较适合拍成山形状，但它缺乏饭黏性，且入口淀粉糊化效果不佳，仅仅是外观不错</figcaption></figure>
-<p>口感嘛……鼠猜做过夹生饭的朋友都能想象出来。</p>
-<p>这玩意儿的存在还有一个用途：一用劲儿碰就会散架儿，从而禁止了大口扒饭的「不雅行为」。</p>
-<p>这么一套下来，非常够摆谱的，别说鼠了，就是后世的幕府武士们，看了也纷纷吐槽。</p>
-<p>等到佛教系统性传入日本列岛后，逐渐失势但仍然恪守排场的公卿贵族们不仅接纳了来自唐宋时代中国的茶道，还注意到了和尚们的日常饮食习惯。</p>
-<p>约在室町幕府时代（公元 1336 ~ 1573 年）初期，在临济宗 · 日系的高僧一休宗纯、村田珠光与他们的俗家朋友不懈努力下，日本茶道以重视简朴清雅之美的「侘茶」形式，正式登场。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fdac6341126b4172a8cf6d58de7e6614_720w.jpg?source=8673f162" alt=""><figcaption>此为现代人复刻侘茶的最终场面。现代日本茶道简化后就是侘茶，流程也相同，茶果子要在上茶之前吃，以改善茶味苦涩</figcaption></figure>
-<p>在当时，玩儿「侘茶」这一套最在行的，就是临济宗的和尚们，他们同时也代表了日本佛教的最高水准群体。</p>
-<p>临济宗本是我国禅宗六大门派之一，传承到日本的临济宗也继承了禅宗的一系列规矩，如「过午不食」。</p>
-<p>为缓解饥饿，和尚们会事先烧热一块石头，称之为「温石（おんじゃく / Onjaku）」，隔着袍子抱在怀里，用温度来按摩胃部，可暂时缓解胃的不适，也能在冬天取暖。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-931bb3e794a7ece9c7fefc0abb34f6f4_720w.jpg?source=8673f162" alt=""><figcaption>出土于江户时代早期寺庙遗址的温石，质地为蛇纹岩，较为容易加工，表面刻有梵文符号，底部有烧灼痕迹</figcaption></figure>
-<p>这个操作，和尚们唤作「懷石（Kaiseki）」。</p>
-<p>说起来，和尚们发明的日本茶道，虽然重视简约之美，但为追求清雅，步骤非常复杂（尽管在室町时代还不是完全体），容易让等候茶道完成、做出抹茶的俗家客人先行因为饥饿而难以忍耐。</p>
-<p>于是乎，和尚们参考公卿贵族的料理风格，改进了品茶前势必要吃的和菓子，增加可以暂时充饥的小份儿料理，刚好够缓解饥饿，如同和尚们烧热来捂肚子的「温石」。</p>
-<p>于是得名为「懐石料理」，最早称为「茶懷石」。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1833ec954607fd76f056b8cbb70d379c_720w.jpg?source=8673f162" alt=""><figcaption>最传统的怀石料理分量只有这么大，一切都是入口刚刚好，不可能提供让人吃饱的分量……并且不会配酒，避免茶酒相斥</figcaption></figure>
-<p>这种料理，分量学习了公卿贵族，手艺则是和尚们自行研发的，一方面大量吸收我国古典料理特色，另一方面又吸收佛家艺术文化，力主在简约的基础上，讲求摆盘艺术、上菜顺序、食材搭配、禅学氛围、清雅气质。</p>
-<p>于是乎，料理本身被做得越发精致，形成一种让感受茶道的客人「自发听禅」的氛围，吃下去也会惊叹于料理本身美感，还不会因为吃饱肚子导致昏昏欲睡，而是做好准备，等待茶道大师的手作结晶。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9ae17b2eaaf75a32c3785626a9e5f003_720w.jpg?source=8673f162" alt=""><figcaption>自江户时代以来，这种简单的荞麦面料理也是从怀石料理发展出来的，因为分量足够（小）而适合等候抹茶做出来，现代可以不限量添面，就变成正经吃食了</figcaption></figure>
-<p>嘛，随着时代发展，茶道还是与怀石料理分道扬镳了。</p>
-<p>单独发展的怀石料理，大约在江户时代（公元 1603 ~ 1869 年）发展完成，成为现代日本高档料理之代表「会席料理」雏形，不仅跟佛教关系密切，还代表着贵族饮食文化的最终形态，也代表了日本文化的内在体现。</p>
-<p>也因此出现在现代流行文化关于日本饮食的宣传界面上，因为足够好看。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c8b4949413c8beab85c7bec1e547b87b_720w.jpg?source=8673f162" alt=""><figcaption>已经很现代化的会席料理，但这分量……啧啧，配上主食够不够饱就是各位的事儿了</figcaption></figure>
-<p>只是分量已经没有古代那么一点点儿了，但相对于我国这边，还是不够吃饱的分量。</p>
-<p>而公卿贵族的料理风格也没消失，顺着幕府武士这条传承路线，进入了现代社会的方方面面，还可以在特定场合掩饰缺乏物资的窘态（笑）。</p>
-<p>当然，还能掩饰一下饭不好吃的事儿……虽然现代日本人已经不做「强飯」了，而是跟我国这边一样，改成加水煮熟、倒出部分米汤再烧干些的「姬飯」，堆砌一大碗「高盛り飯」效果更好，口感也很棒。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-22fd0a19b10070aa29c307ae15a733a2_720w.jpg?source=8673f162" alt=""><figcaption>今天日本人仍然在吃这种堆砌米饭小山的高盛り飯，不过更多地叫做大盛り了</figcaption></figure>
-<p>不过在日本，除却公卿贵族的饮食文化影响，还有更多庶民饮食文化因素，形成了现代日本人饮食结构的基础……当然，明治维新之后日本全盘西化、二战后再次西化，现在的日本饮食结构已经和洋混搭了╮(╯▽╰)╭</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-48a802ca5af27a066d2dcfd1fdb90959_720w.jpg?source=8673f162" alt=""><figcaption>较为传统的和食料理组合“一汁（汤）三菜”，煎三文鱼盘子里有两道菜，除了煎鱼还有明太子豆腐</figcaption></figure>
-<p>表现在于仍存在的「高盛り飯」，还有大碗拉面等更多高盐高油的大众（庶民）饮食上。</p>
-<p>跟京都、奈良里高高在上的公卿贵族不同，在日本数量众多的峡湾滩涂上，不乏有渔民、盐户、船夫、水手等庶民在艰难劳作，不比面朝黄土背朝天的农民轻松到哪里去，挥汗如雨、腰酸背痛是他们的常态，而每年收成经常不够口粮，还要向领主缴纳年贡（税金）。</p>
-<p>艰辛的工作、寡少的食料，导致作为岛国的特色劳动人民们热衷大量摄入盐分，口味也变得尤其「重」，有些地方的下饭菜甚至就是一碟子盐，最多搭一碗海藻与味噌煮的汤。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7721089ff84e47969b978840523778a1_720w.jpg?source=8673f162" alt=""><figcaption>平安时代的庶民一顿饭如此图，包括了蔬菜煮物、烤河鱼、杂粮饭（也是强飯做法）、粗盐，跟公卿贵族多少会浪费米饭不一样，再不好吃的强飯也会被庶民吃光的</figcaption></figure>
-<p>稍微有点儿资源的一般领主，也会在料理上追求高含盐量，如发源于尾张一带的「八丁味噌」，高含盐量导致其气味浓烈，堪比我国的炸大酱……</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dc57204e0dd85ccf7911dfb595d5c5b0_720w.jpg?source=8673f162" alt=""><figcaption>今天日本爱知县名古屋市、冈崎市一带仍然流行八丁味噌拉面，非常咸而且“奇香扑鼻”警告……</figcaption></figure>
-<p>当然，住在海边、山区的庶民多不受宗教影响的不食肉风俗支配，但吃不起是另一回事，就跟吃不起白米饭一样。</p>
-<p>不过虽然吃不起白米饭，但杂粮饭（如赤小豆饭）、早期面食还是管够的，使得庶民们饭量不断增加，空口吃饭一大碗，就上一碟子盐，足矣。</p>
-<p>等石磨与精细加工面食技术东传之后，拉面开始在日本兴起，最早承接这一美味的人群，除却武家子弟，更多是庶民们。</p>
-<p>毕竟公卿贵族不屑于吃面食，武家子弟又要标榜身份，顶多发明了日式茶泡饭，或是在忆苦思甜时吃赤小豆饭。</p>
-<p>于是乎，拉面碗的尺寸越来越大，连带着更多庶民食器的容量也噌噌增长，在这一点上无论中日还是世界其它国家，劳动人民想要吃饱饭的愿望都是一致的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-caabf1d54933309abb50a5569e466974_720w.jpg?source=8673f162" alt=""><figcaption>发展到现在已经有这么大的碗了，但这么一碗仍然不够填满鼠的胃</figcaption></figure>
-<p>发展到今天，庶民饮食文化已然成为日本饮食文化对外输出的另一个特色，和懐石料理等贵族饮食文化的重要性是不相上下的。</p>
-<p>所以嘞……</p>
-<p>以鼠之见，如若大家重视实际，那就正常看待日本的庶民饮食文化，大碗吃拉面或「高盛り飯」（现代叫大盛り），大块儿吃寿司、天妇罗、佃煮之类……</p>
-<p>追求艺术美感、贵族气质，那就老老实实摆一桌怀石料理，聊几句日本文化，欣赏一番，吃了图个热闹。</p>
-<p>总之，不可以偏概全。</p>
-<p><strong>延伸阅读</strong></p>
-<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//shiro-tokyo.jp/blog/1146%23%3A%7E%3Atext%3D%25E6%2587%2590%25E7%259F%25B3%25E6%2596%2599%25E7%2590%2586%25E3%2581%25AE%25E8%25B5%25B7%25E6%25BA%2590%25E3%2581%25AF%25E5%25AE%25A4%25E7%2594%25BA%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E9%2581%25A1%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2599%25E3%2580%2582%2520%25E3%2581%2593%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E8%258C%25B6%25E3%2581%25AE%25E6%25B9%25AF%25E3%2581%258C%25E9%259A%2586%25E7%259B%259B%25E3%2582%2592%25E8%25BF%258E%25E3%2581%2588%25E3%2580%2581%25E8%258C%25B6%25E9%2581%2593%25E3%2581%25A8%25E5%2585%25B1%25E3%2581%25AB%25E7%2599%25BA%25E5%25B1%2595%25E3%2581%2597%25E3%2581%259F%25E6%2596%2599%25E7%2590%2586%25E5%25BD%25A2%25E5%25BC%258F%25E3%2581%258C%25E5%25A7%258B%25E3%2581%25BE%25E3%2582%258A%25E3%2581%25A7%25E3%2581%2599%25E3%2580%2582%2520%25E5%25BD%2593%25E6%2599%2582%25E3%2581%25AE%25E6%2587%2590%25E7%259F%25B3%25E3%2581%25AF%25E3%2580%2581%25E8%258C%25B6%25E9%2581%2593%25E3%2582%2592%25E6%25A5%25BD%25E3%2581%2597%25E3%2582%2580%25E5%2589%258D%25E3%2581%25AB%25E3%2580%2581%25E7%25B0%25A1%25E7%25B4%25A0%25E3%2581%25AA%25E9%25A3%259F%25E4%25BA%258B%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E5%2587%25BA%25E3%2581%2595%25E3%2582%258C%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%2520%25E8%258C%25B6%25E3%2581%25AE%25E6%25B9%25AF%25E3%2581%25AE%25E7%25B2%25BE%25E7%25A5%259E%25E3%2582%2592%25E5%258F%258D%25E6%2598%25A0%25E3%2581%2597%25E3%2581%259F%25E8%25B3%25AA%25E7%25B4%25A0%25E3%2581%25A7%25E3%2581%2582%25E3%2582%258A%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E9%259B%2585%25E3%2581%25AA%25E6%2596%2599%25E7%2590%2586%25E3%2580%2581%25E3%2581%259D%25E3%2582%258C%25E3%2581%258C%25E6%2587%2590%25E7%259F%25B3%25E3%2581%25AE%25E5%25A7%258B%25E3%2581%25BE%25E3%2582%258A%25E3%2581%25A7%25E3%2581%2599%25E3%2580%2582%2C%25E5%2585%25B7%25E4%25BD%2593%25E7%259A%2584%25E3%2581%25AB%25E3%2581%25AF%25E3%2580%2581%25E7%259F%25B3%25E3%2582%2592%25E6%2587%2590%25EF%25BC%2588%25E3%2581%25B5%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%25EF%25BC%2589%25E3%2581%25AB%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259F%25E3%2581%25BB%25E3%2581%25A9%25E3%2581%25AE%25E9%2587%258F%25E3%2582%2592%25E8%25B1%25A1%25E5%25BE%25B4%25E3%2581%2599%25E3%2582%258B%25E5%25B0%258F%25E3%2581%2595%25E3%2581%25AA%25E9%25A3%25AF%25E3%2582%2584%25E6%25B1%2581%25E3%2582%2592%25E4%25B8%25AD%25E5%25BF%2583%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%2582%25E3%2581%25AE%25E3%2581%25A7%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%2520%25E3%2580%258C%25E8%2585%25B9%25E3%2582%2592%25E5%25BF%2583%25E5%259C%25B0%25E3%2582%2588%25E3%2581%258F%25E6%25B8%25A9%25E3%2582%2581%25E3%2582%258B%25E3%2580%258D%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E3%2581%25AE%25E3%2581%258C%25E3%2581%259D%25E3%2581%25AE%25E7%2594%25B1%25E6%259D%25A5%25E3%2581%25A7%25E3%2581%2582%25E3%2582%258A%25E3%2580%2581%25E5%2590%258D%25E5%2589%258D%25E3%2581%25AB%25E3%2582%2582%25E8%25A1%25A8%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%25E3%2580%2582%2520%25E3%2581%2593%25E3%2581%2586%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E5%25AE%25A4%25E7%2594%25BA%25E3%2581%258B%25E3%2582%2589%25E6%25B1%259F%25E6%2588%25B8%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2581%258B%25E3%2581%2591%25E3%2581%25A6%25E8%258C%25B6%25E3%2581%25AE%25E6%25B9%25AF%25E3%2581%25A8%25E5%2585%25B1%25E3%2581%25AB%25E9%2580%25B2%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25A3%25E3%2581%259F%25E6%2587%2590%25E7%259F%25B3%25E6%2596%2599%25E7%2590%2586%25E3%2580%2582%2520%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E9%25A3%259F%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E6%25A0%25B8%25E3%2581%25A8%25E3%2581%25AA%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E5%25A4%25A7%25E3%2581%258D%25E3%2581%25AA%25E5%25BD%25B9%25E5%2589%25B2%25E3%2582%2592%25E6%259E%259C%25E3%2581%259F%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%2520%25E5%258D%2583%25E5%2588%25A9%25E4%25BC%2591%25E3%2581%25AE%25E5%25AD%2598%25E5%259C%25A8%25E3%2581%25AA%25E3%2581%258F%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E6%2587%2590%25E7%259F%25B3%25E6%2596%2599%25E7%2590%2586%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2581%25AF%25E8%25AA%259E%25E3%2582%258C%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2580%2582" target="_blank" rel="nofollow noreferrer">懐石料理の歴史｜伝統と演出の芸術を紐解く</a></p>
-<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//delishkitchen.tv/articles/954" target="_blank" rel="nofollow noreferrer">懐石料理とは？会席料理や割烹料理との違いや歴史を徹底解説 (包括上菜流程)</a></p>
-<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//macaro-ni.jp/57492" target="_blank" rel="nofollow noreferrer">日本料理の伝統「懐石料理」とはどんな料理？由来や会席料理との違いも</a></p>
-<p><a class="internal" href="https://www.zhihu.com/question/2030292281123681263/answer/2032124640592650412">日本大米真的很好吃吗？有人说光吃日本白米饭都能吃的很香? - 知乎 (鼠的回答)</a></p>
-<p><a class="internal" href="https://www.zhihu.com/question/665848411/answer/2071399951301599245">日本的抹茶为什么很多人说落后？这和现在的抹茶是一个东西吗? - 知乎 (还是鼠的回答)</a></p>
+<p><strong>简而言之，我认为是数据压缩。</strong></p>
+<p>今天，我们在聊天软件里一次发送二十张照片，进度条可能只闪一下；</p>
+<p>点开一部高清电影，缓冲几秒便开始播放；</p>
+<p>这些体验太自然了，以至于很少有人想过<strong>如果照片、音乐和视频都按照最原始的方式保存，互联网还能装得下我们的生活吗？</strong></p>
+<p>答案可能是，装不下。</p>
+<p>一张 1200 万像素的彩色图片，如果每个像素直接用红、绿、蓝三个字节记录，展开后大约需要<strong>36MB</strong>。二十张就是<strong>720MB</strong>。</p>
+<p>视频更夸张。一段 1920×1080、每秒 30 帧的视频，一分钟就会产生大约 11GB 数据。一部两小时的电影将超过 1TB。</p>
+<p>我们今天之所以能够随手拍照、在线听歌、刷短视频，一件很重要的事在于，计算机学会了<strong>不把</strong>所有原始数据都原封不动地保存和发送。</p>
+<p>这就是数据压缩。</p>
+<p><strong>一切最早从想少发几个符号开始</strong></p>
+<p>压缩的思想其实比计算机更古老。</p>
+<p>19 世纪，人们通过电报传递信息。每多发送一个点或一道划，都意味着更多时间和费用。于是莫尔斯电码把常见字母使用较短的编码，不常见的字母使用较长的编码。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-452105cf57d8977e5220f0d471ee387e_720w.jpg?source=8673f162" alt=""><figcaption>莫尔斯电报装置在通信费用与发送时间都十分宝贵的电报时代，常见字母被分配较短的点划组合。这种“高频内容使用短编码”的思路，已经包含了数据压缩的基本直觉。图源：美国史密森尼学会</figcaption></figure>
+<p>在英文中非常常见的字母 E，只需要一个点；很少出现的 Q，则需要更长的点划组合。</p>
+<p>这已经包含了数据压缩最核心的直觉：</p>
+<blockquote><strong>经常出现的内容少占一点位置，少见的内容多占一点位置。</strong></blockquote>
+<p>不过，当时的人只是凭经验这样做。究竟一段信息最少能压缩到多小，压缩有没有无法突破的极限，还没有人能说清楚。</p>
+<p>直到 1948 年，克劳德·香农发表《通信的数学理论》。（依旧是香农，伟大的信息论奠基人）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3e48c5444f60e77609ecccf6e8ac383_720w.jpg?source=8673f162" alt=""><figcaption>克劳德·香农与他身后的通信世界 1948 年，香农用数学方法研究信息能够被压缩到多小、又能以多快的速度可靠传输，为现代数据压缩和数字通信奠定了理论基础。图源：IEEE Spectrum；摄影：Alfred Eisenstaedt</figcaption></figure>
+<p>香农没有研究一封电报具体在说什么。他关心的是，一条消息中究竟有多少不确定性。如果某个符号几乎每次都会出现，它带来的新信息就很少；越是难以预测的符号，携带的信息越多。</p>
+<p>由此，他用“熵”衡量一个信息源平均包含多少信息，也给无损压缩划出了一条理论底线：只要要求数据能够原样恢复，就不可能无限压缩。压缩到一定程度以后，再少一个比特都可能丢失信息。</p>
+<p><span class="nolink">IEEE 对信息论的介绍</span>将其概括为对通信、压缩和存储极限的数学研究。</p>
+<p><strong>香农告诉了人们终点在哪里，但还需要有人找到走近它的办法。</strong></p>
+<p><strong>一名学生交出的作业，成了压缩史上的经典</strong></p>
+<p>1951 年，麻省理工学院研究生戴维·霍夫曼被要求设计一种尽可能高效的二进制编码，他提出的方法后来被称为霍夫曼编码。</p>
+<p>可以把它理解成给不同内容设计简称。假设一段文字里，“的”出现了几百次，而“龘”只出现一次，那么让两个字都占用同样长度显然不划算。霍夫曼编码会根据出现频率，把短编码留给常见内容，把长编码分给少见内容。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ae3810cb34ce5b8c9a726196860dd9f4_720w.jpg?source=8673f162" alt=""><figcaption>霍夫曼编码树示意图字符出现得越频繁，在编码树中的路径通常越短；出现次数较少的字符则使用更长的二进制编码。图中一句话由原来的 288 比特缩减至 135 比特，且能够完整还原。图源：Dcoetzee／Wikimedia Commons</figcaption></figure>
+<p>这样做并没有删除任何东西。解码时，原文仍然可以一个字不差地恢复，这属于<strong>无损压缩</strong>。</p>
+<p><span class="nolink">斯坦福大学的课程资料</span>记载，霍夫曼在 1952 年发表了这一方法。直到今天，它的思想仍存在于多种图像和文件压缩技术中。</p>
+<p>后来出现的字典压缩又向前走了一步。它不只统计某个字符出现多少次，还会寻找反复出现的片段。</p>
+<p>比如一篇文章中，“数据压缩”出现了几十次，计算机可以先把这四个字收入字典，之后每次只记录一个较短的编号。我们熟悉的 ZIP 等压缩文件，基本思路就是寻找重复模式，再用更短的表示替代它们。</p>
+<p>有一点需要注意，对于文字、程序、表格和合同的压缩时，务必十分谨慎。</p>
+<p>举个例子，银行账目一个数字被删掉，后果是非常可怕的。</p>
+<p><strong>后来人们开始问：为什么一定要全部保留？</strong></p>
+<p>一张照片中，相邻像素往往很接近。蓝天的一大片区域可能都是相似的蓝色，墙壁上连续几百个像素的亮度也不会突然剧烈变化。</p>
+<p>如果把每个像素都当作毫无关系的新数据来保存，显然浪费了大量空间。</p>
+<p>更关键的是，人眼并不能同等敏锐地感知所有变化。我们对某些轮廓和明暗变化很敏感，对非常细碎的纹理和部分颜色差异却没那么敏感。</p>
+<p>于是，压缩技术出现了另一个方向：不再要求数据绝对完整，而是优先保留人真正容易察觉的部分。</p>
+<p>这就是<strong>有损压缩</strong>。</p>
+<p>1992 年形成的 JPEG 标准便是代表。它通常会把图像分成一个个小块，把像素转换成不同频率的成分，再较为粗略地记录人眼不敏感的部分。最后得到的图片已经不等同于原始数据，但只要压缩程度合适，人们很难看出明显差别。</p>
+<p>JPEG 组织的<span class="nolink">官方介绍</span>显示，JPEG 1 的标准化工作始于 1986 年，标准于 1992 年建立，其核心有损格式结合了离散余弦变换、量化和霍夫曼编码。</p>
+<p>这也是为什么一张展开后几十 MB 的照片，保存成 JPEG 以后往往只剩几 MB。</p>
+<p>它把人眼不太在乎的部分删掉了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-aea22027ca3c124c1421195b989ea4a9_720w.jpg?source=8673f162" alt=""><figcaption>图源：JJ Harrison、Ibrahim.ID／Wikimedia Commons</figcaption></figure>
+<p>同一张照片在正常状态和过度 JPEG 压缩后的对比</p>
+<p>右图可以看到明显的方块、边缘模糊和细节丢失，但是不太影响视觉感观。</p>
+<p>但是，如果压缩过度，那些被删去的细节就会显现为色块、模糊和方格状痕迹。</p>
+<p>网上一些被反复转载的老照片越传越糊，就是这个原因。</p>
+<p><strong>MP3 情况相对不同，它压缩的是人的听觉</strong></p>
+<p>照片可以利用人眼的局限，声音也可以利用人耳的特点。</p>
+<p>未经压缩的 CD 规格立体声音频，每秒大约需要 1411 千比特。一首四分钟的歌曲，数据量大约为 42MB。今天看来不算很大，可在拨号上网和小容量硬盘的年代，它足以让普通用户等很久。</p>
+<p>MP3 改变了这件事。</p>
+<p>人的耳朵并不能听见所有频率；当一个强烈声音和一个相近的微弱声音同时出现时，后者还可能被前者掩盖。MP3 会分析声音，把听觉上不明显的部分用较少数据记录，甚至直接舍弃。</p>
+<p>以每秒 128 千比特计算，一首四分钟的 MP3 只有大约 3.8MB，差不多是同等时长 CD 原始音频的十分之一。</p>
+<p>20 世纪 80 年代末，德国弗劳恩霍夫团队一直尝试让高质量音乐通过容量有限的通信线路传输。MPEG-1 音频标准随后形成。1995 年，团队正式选定“.mp3”作为 MPEG Audio Layer III 的文件扩展名。</p>
+<p><span class="nolink">弗劳恩霍夫记录的 MP3 发展时间线</span>显示，早期 MP3 很快被用于小容量硬盘和 28.8kbps 调制解调器上的音乐传输，便携式数字音乐也由此成为可能。</p>
+<p>在这之前，人们携带的是磁带和 CD；</p>
+<p>在这之后，人们可以把整个音乐收藏装进口袋。</p>
+<p>MP3 使得音乐第一次可以如此方便地复制、传输和随身携带。</p>
+<p>唱片业的销售方式、个人听歌习惯以及后来的流媒体服务，都被它推着改变了方向。</p>
+<p><strong>视频压缩：真正让互联网从文字网变成视频网</strong></p>
+<p>如果说 JPEG 解决了一张图片的问题，视频就要解决每秒几十张图片的问题。</p>
+<p>最笨的办法，是把每一帧都当作一张完整照片保存。但视频前后两帧通常非常相似。一个人坐在镜头前讲话，背景里的墙、桌子和窗户可能几秒钟都没有变化。真正发生变化的，只是嘴部、表情和少量身体动作。</p>
+<p>视频编码器会先保存一幅相对完整的画面，再预测后续画面发生了什么。有时它只需要记录：画面中的这一小块向右移动了几个像素，那一小块亮了一点，另一个区域没有变化。</p>
+<p>于是，原本需要不断发送的完整图片，被替换成了运动方向、差异信息和少量新的画面内容。</p>
+<p>这也解释了为什么视频通话时，如果一个人静静坐着，画面通常很清楚；一旦镜头剧烈晃动，或突然出现大量飘雪、树叶、水花，画质就容易下降。因为几乎整个画面都在变化，算法很难继续靠“和上一帧差不多”来节省数据。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5aedbcb566c44070e383b243548c8ca5_720w.jpg?source=8673f162" alt=""><figcaption>视频压缩中的预测与差异信息编码器根据上一帧预测当前画面，再重点保存预测结果与真实画面之间的差异。背景没有变化时，需要记录的数据便会大幅减少。图源：Cisco </figcaption></figure>
+<p>2003 年定稿的 H.264 等现代视频编码标准，把帧内压缩、帧间预测、运动补偿等方法组织成了完整系统。后来的视频编码不断提高效率，让高清、4K 乃至更高分辨率的视频能够进入普通家庭网络。</p>
+<p>没有视频压缩，今天的短视频、直播、在线视频会议和云游戏，即使不是完全不能实现，规模和价格也会与现在截然不同。</p>
+<p><strong>压缩不是魔法，互联网也不是无限宽</strong></p>
+<p>压缩只是寻找可以不必须发送的东西。只有存在规律和冗余的数据才容易压缩。</p>
+<p>重复的文章可以压得很小，接近随机的数字则很难再缩；</p>
+<p>已经压缩过的 JPEG、MP4 和 ZIP 再打包，体积通常不会明显下降。有损压缩也不能无限进行，码率越低，丢失的信息通常越多。</p>
+<p>这背后始终是一场无奈的取舍。</p>
+<p>带宽不够，就多花算力压缩；手机性能有限，就接受稍大的文件；医学影像、工程图纸和档案要减少损失甚至坚持无损；</p>
+<p>小屏幕上看短视频，则可牺牲难以察觉的细节。我们买的每部手机、看的每段视频，都在寻找这种平衡。</p>
+<p>互联网发展常被写成网速提升史。从拨号到宽带，从 3G 到 5G。</p>
+<p>但另一条线索同样重要：图片从 BMP 变成 JPEG，音乐从 PCM 变成 MP3、AAC，视频从逐帧保存变成预测编码。网速一快，更清晰的图片、更高分辨率的视频和更丰富的内容又把新增带宽填满；存储从 MB 走向 TB，相册和应用也随之膨胀。我们从未真正拥有用不完的空间，只是压缩算法一直在背后腾位置。</p>
+<p>所以，数据压缩不只是右键菜单里的“添加到压缩包”。它改变了音乐如何传播、照片如何保存、电影如何抵达家庭，也支撑着视频通话、网络直播和短视频平台的规模。我们以为互联网是一根越来越粗的水管，其实在水管变粗的同时，工程师也在几十年里研究如何把同样的生活折叠成更小的数据，从仍然有限的管道中送过去。互联网装得下我们的生活，不只是因为它越来越大，也因为数据学会了变小。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-be44a444335616b6ea5db32d9398c04a_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/1958903176347490012">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2078550836293248451">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793191</guid>
-                <pubDate>Mon, 12 Oct 2026 14:11:14 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793211</guid>
+                <pubDate>Tue, 13 Oct 2026 00:02:52 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么纸张沾了油会变得更透，而沾了水就没这么明显？</title>
-                <link>http://daily.zhihu.com/story/9793196</link>
-                <description>瞻云，先让一部分知识有趣起来 查看知乎原文 让我们先来看看，一张纸的白色究竟是什么。 这是一张纸。 撕开，破碎的边缘放大 50 倍，它是这样的： 已经能看清构成纸张的纤维素，且呈现出透明光泽。 放大 100 倍： 来源，DOI:10.1186/s40494-021-00507-2 可以看到明显的透明度。 使用暗场照明，则更加的明显： 放大 400 倍： 暗视野照明下的纸张纤维（400 倍） 透明度…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c5a05faed9da1eaeab7130c823ed267e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么沙漠地区的人在极热的环境下，反而穿更多的衣服？</title>
+                <link>http://daily.zhihu.com/story/9793218</link>
+                <description>气象喵探员，点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~ 查看知乎原文 说个冷知识，在沙漠中光着膀子反倒要比穿长袍更容易被热死。 如果你去过沙漠，或许会发现一种现象，就是当地人很少光着膀子在外行走，大多人都穿衣服，而且穿的还不是短袖。 这个不只是体不体面的问题，是在沙漠中长期生活必要的措施。如果你在烈日下的沙漠光着膀子行走，那么可能只需几十分钟，你就会因中暑叠加脱水晕倒甚至死亡。 …</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c7d86d93654e4621668c07f308b15743.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -270,124 +242,82 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-c4e076776b0834a7ca85c68c3bac6858_l.jpg?source=8673f162">
-<span class="author">瞻云，</span><span class="bio">先让一部分知识有趣起来</span>
-<a href="https://www.zhihu.com/question/2084289992566781492/answer/2088341080697787384" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-d64b6d2687db66787df5aba777742749_l.jpg?source=8673f162">
+<span class="author">气象喵探员，</span><span class="bio">点开我的主页你会发现——这个喵纯纯气象迷，除了气象啥也不会~</span>
+<a href="https://www.zhihu.com/question/2084034367777674527/answer/2084588888396452570" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>让我们先来看看，一张纸的白色究竟是什么。</p>
-<p>这是一张纸。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d137b0289976e074e5c5d27f37268353_720w.jpg?source=8673f162" alt=""></figure>
-<p>撕开，破碎的边缘放大 50 倍，它是这样的：</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-cda8c85bb3b700ee7bdcb5dc05a10a3e_720w.jpg?source=8673f162" alt=""></figure>
-<p>已经能看清构成纸张的纤维素，且呈现出透明光泽。</p>
-<p>放大 100 倍：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a6fc64b02ac30e23c3814e892d11310a_720w.jpg?source=8673f162" alt=""><figcaption>来源，DOI:10.1186/s40494-021-00507-2</figcaption></figure>
-<p>可以看到明显的透明度。</p>
-<p>使用暗场照明，则更加的明显：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-619cf9aa41a2094814432bc636aa55d3_720w.jpg?source=8673f162" alt=""></figure>
-<p>放大 400 倍：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-151566682d891993296a5d85f308d820_720w.jpg?source=8673f162" alt=""><figcaption>暗视野照明下的纸张纤维（400 倍）</figcaption></figure>
-<p>透明度已经非常高。</p>
-<p>是的，纤维素具有高透明度。</p>
-<p>你看到的其它一些黑不溜秋的放大图源于电子显微镜，并没有呈现光学特征。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-990fcc5db8a8440449696dade556095f_720w.jpg?source=8673f162" alt=""><figcaption>电子显微镜下，不同来源的纸浆纤维</figcaption></figure>
-<p>但实际它们本身都是透明的。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-57f65bcbb8d014d83df5c6bcd4eb212a_720w.jpg?source=8673f162" alt=""><figcaption>纤维素的结构</figcaption></figure>
-<p><strong>那为什么我们的视野无法透过纸张，只能看到白色呢？</strong></p>
-<p>我们接下来继续分析。</p>
-<p>首先，纤维素的折射率比空气（1.0）大很多，达到 1.5 左右。</p>
-<p>光遇到折射率不同的物体，不仅会发生折射，还会发生反射。</p>
-<p>由菲涅尔公式可得，正入射时的反射率为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=R%3D%28%5Cfrac%7Bn_%7B1%7D%E2%88%92n_%7B2%7D%7D%7Bn_%7B1%7D%2Bn_%7B2%7D%7D%29%5E2" alt=""></p>
-<p>那么，光从空气正入射纤维素后，反射率为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=R%3D%EF%BC%88%5Cfrac%7B1.5-1%7D%7B1.5%2B1%7D%EF%BC%89%5E2%3D0.04" alt=""></p>
-<p>也即 4%。</p>
-<p>虽然绝大多数的光都会透过单根纤维素，但纸张内部存在大量纤维素，经过纤维素多次反射、折射后，透过的光会越来越少。</p>
-<p>越来越多的光，在纤维素之间发生着反射。</p>
-<p>而大量纤维素之间，又是成千上万个形状复杂，方向随机，尺度不一的孔隙结构。</p>
-<p>于是光线不停地散射、折射，直到最终被打散，于是在宏观上就表现为散射。</p>
-<p>于是，我们便看到了一片白色。</p>
-<p>反射率的大小以及内部空隙，直接决定了散射的程度，也即发白程度。</p>
-<p>雪之所以呈现白色，其实和纸呈现白色的原理是一样的。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-68e99cdbb817382d05dbd2d6706e4a36_720w.jpg?source=8673f162" alt=""></figure>
-<p>只不过雪的白色，是源于冰晶和空气之间的折射率差异。</p>
-<p>初生的雪花内部，具有丰富的空气含量。</p>
-<p>随着雪花变质，空气含量降低，白色程度也会降低<sup>[1]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a1e0df8d8c51f8c8d40f0fbcdaebaf00_720w.jpg?source=8673f162" alt=""><figcaption>雪花变质的过程</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0b043368d927bf047d5d612f9ff1d6c_720w.jpg?source=8673f162" alt=""><figcaption>雪原下方变质速度最快，所以下方最先失去白色</figcaption></figure>
-<p><strong>知道了一张纸为什么是白色，要解决我们今天这个问题，就容易多了。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ae58b4fd1baae168089b962fb4f217c_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是一张沾了水的纸。</p>
-<p>可以发现，其实纸沾了水，透明度也会增加<sup>[2]</sup>。</p>
-<p>我们同样可以通过反射原理来解释。</p>
-<p>当一张纸湿透，水填满了纸的空隙，光在纸张内部传播时，折射和反射发生在水和纤维素之间。</p>
-<p>水的折射率为 1.33‌。</p>
-<p>通过公式，我们可以得到，光在纸内部传播，正入射时反射率为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=R%3D%EF%BC%88%5Cfrac%7B1.5-1.33%7D%7B1.5%2B1.33%7D%EF%BC%89%5E2%3D0.0036" alt=""></p>
-<p>也即 0.36%。</p>
-<p>而前面我们得到的干燥白纸正入射，反射率为 4%。</p>
-<p>前者是后者的 11 倍。</p>
-<p>这表明，干燥白纸散射能力比湿透白纸大得多。</p>
-<p>所以当一张纸完全湿透，透明度还是较高的。</p>
-<p>而且随着边缘湿度的不同，具有明显的透明梯度。</p>
-<p>接下来看油浸纸的情况：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cbc7a84a809d3aefc881147ec08bfad0_720w.jpg?source=8673f162" alt=""></figure>
-<p>这是一张被油浸透的纸。</p>
-<p>透明度的确更高，比沾水明显很多。</p>
-<p>这是因为，大多数植物油的折射率在 1.46 附近<sup>[3]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b05e8771a3d336f8f77de0ee9344885c_720w.jpg?source=8673f162" alt=""></figure>
-<p>可得，正入射时，浸透油的纸张内部光反射率为：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=R%3D%EF%BC%88%5Cfrac%7B1.5-1.46%7D%7B1.5%2B1.46%7D%EF%BC%89%5E2%3D0.00018" alt=""></p>
-<p>也即，反射率低至 0.018%。</p>
-<p>那么，干燥纸相当于它的 222 倍，湿纸相当于它的 20 倍。</p>
-<p>也即：</p>
-<p><strong>4% ：0.36% ：0.018% = 222：20：1</strong></p>
-<p>这样，我们最终发现，油浸透的纸散射能力最低，透明程度最高，且比水高得多。</p>
-<p>而且，我们需要注意到，部分油的折射率可以超过 1.6，而有的纤维素衍生物折射率可低于 1.5。</p>
-<p>二者可以有交集。</p>
-<p>所以，极端情况下，可能出现油和纸折射率非常接近的情况。</p>
-<p>这样就可能出现极高透明的现象，也即发生‌<strong>光透明化</strong>（Optical Clearing）<sup>[4]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5de5035ef7790092486dc736f3a0c0e8_720w.jpg?source=8673f162" alt=""><figcaption>生物材料从水到油，发生光透明化的过程</figcaption></figure>
-<p>这也是一种生物组织透明化处理的技术，以便于更好的进行生理结构观察<sup>[5]</sup>。</p>
-<p><strong>除了浸泡相同折射率的液体让纸变得透明外，还可以透过致密化处理，让其变得透明。</strong></p>
-<p>研究发现，纤维素的散射系数随纤维素之间的缝隙降低而降低（减少了反射界面），所以，通过致密处理可以制造出透明纸张<sup>[6]</sup>。</p>
-<p>例如，通过黏胶法（Viscose Process）等化学手段，将植物纤维素完全溶解为液体，再挤入酸浴中重新析出成膜，便能制造出高透明的玻璃纸（cellophane），也即赛璐玢。</p>
-<p>玻璃纸之所以高透明，是因为纤维素分子进行了重新排列，凝固成的致密薄膜没有纤维界面、没有空气孔隙。</p>
-<p>不过，缺点是物理性能较差。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a87948ad757a3552ddce578fffd5e63_720w.jpg?source=8673f162" alt=""></figure>
-<p>而通过纳米技术制造出的纳米纤维素纸，保留高物理性能的同时，还具有高度透明度，透光率可超过 90%。</p>
-<p>这样的纳米纸，可以制造高性能且环保的柔性轻质电子产品<sup>[7]</sup>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a017528ee7c1c75b152b0cbeed65340e_720w.jpg?source=8673f162" alt=""></figure>
-<p>还能通过不同的致密度，制造出不同雾度的纳米纸<sup>[8]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b5d52a3c864ba86c0c7353736e88b192_720w.jpg?source=8673f162" alt=""><figcaption>不同雾都的纳米纸</figcaption></figure>
-<p>可以发现，随着散射明显增强，纳米纸整体越来越呈现白色（雾度）。</p>
-<p>这样就造出了既有高透光率，又有高雾度的纸，从而具有更加广阔的运用前景。</p>
-<p>例如，有望成为 LED 照明系统中光扩散的理想材料。</p>
-<p>……</p>
-<p>一场司空见惯的现象背后，可能有着有趣的物理学原理。</p>
-<p>而它衍生出来的相关技术，可能正在进一步改变这个世界。</p>
+<p><strong>说个冷知识，在沙漠中光着膀子反倒要比穿长袍更容易被热死。</strong></p>
+<p>如果你去过沙漠，或许会发现一种现象，就是当地人很少光着膀子在外行走，大多人都穿衣服，而且穿的还不是短袖。</p>
+<p>这个不只是体不体面的问题，是在沙漠中长期生活必要的措施。如果你在烈日下的沙漠光着膀子行走，那么可能只需几十分钟，你就会因中暑叠加脱水晕倒甚至死亡。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-efffa40c07232c45df93af784e2f0832_720w.jpg?source=8673f162" alt=""><figcaption>全球干旱类气候分布图</figcaption></figure>
+<p><strong>沙漠气候的危险不只是热，它更像是一个大型烤箱</strong></p>
+<p>众所周知，沙漠气候是世界上最极端的气候类型之一，按照柯本气候分类法，沙漠属于 BW 气候，主要特征就是「干」。</p>
+<p>多数沙漠气候的年降水量都不足 100 毫米，许多地区甚至不足 50 毫米，<strong>而且沙漠地区的蒸发量巨大，净水量年年赤字。</strong></p>
+<p>以塔克拉玛干沙漠为例，中心地带的年净水量大致为 -3000 毫米，缺口大的不得了，而撒哈拉沙漠的广袤腹地，有时甚至连续数年滴雨不下，比塔克拉玛干更糟糕。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8f6a31b7db0a39fbc9c5fe54bac045e4_720w.jpg?source=8673f162" alt=""><figcaption>塔里木盆地潜在蒸发量数据分布图，部分区域超 3000 毫米，而此处年降水量不到 50 毫米</figcaption></figure>
+<p>干旱的直接后果，就是地表失去了水分调节温度的能力，湿润地区的水分会通过蒸发吸收大量热量，帮助地表降温。</p>
+<p>但沙漠地区的地表几乎没有水，难以起到缓冲作用，太阳辐射到达地表后大多数会转化为热量，使得地表温度急剧攀升。</p>
+<p>而且由于沙漠极度干燥，地表比热容很小，温度变化巨大，<strong>在有热源的情况下会快速升温，无热源的情况下会快速降温。</strong></p>
+<p>这就导致沙漠的昼夜温差很大，热带沙漠的白天，最高气温能接近 50℃、地表温度更是能轻松超过 70℃，夜晚气温则会降低至 10℃左右，如果是冬季甚至还能更低。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7ee07247ddb66d21a33f40170aad9892_720w.jpg?source=8673f162" alt=""><figcaption>塔克拉玛干沙漠不同时段的地表温度分布图，沙漠腹地昼夜温差超过 50℃</figcaption></figure>
+<p>从全球范围内来看，沙漠的分布可以参照于大气环流的规律，南北纬 20~30 度的副热带高气压带是沙漠的主要阵地。</p>
+<p><strong>这里盛行强烈的下沉气流，空气在下沉过程中会被压缩升温，相对湿度不断降低，</strong>云层难以形成，降水更是无从谈起。</p>
+<p>许多热带沙漠几乎都坐落在这个干燥带上，同时一些内陆地区，受地形阻挡影响也会形成沙漠气候，例如我国的塔克拉玛干沙漠，这一类沙漠大多是温带沙漠气候。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-75004302e458e0ce0488e569821787a3_720w.jpg?source=8673f162" alt=""><figcaption>全球热带沙漠气候（BWh）分布图</figcaption></figure>
+<p><strong>人体的散热方式有很多种，但在沙漠中大多都会失效</strong></p>
+<p>人的正常体温维持在 37℃左右，为了防止体温不断飙升，人体会通过四大方式向环境散热，也就是辐射、传导、对流和蒸发。</p>
+<p>但在沙漠中这四种散热途径几乎全部失灵，甚至会起反作用，就先讲辐射，人体散热的重要途径就是向周边环境发出红外辐射。</p>
+<p>当环境比人体凉时，身体会以红外线的形式向外发送热量，<strong>但在沙漠中太阳和沙面发出的辐射比人体更强，如果你站在烈日下的沙漠里，皮肤会直接接收这些辐射。</strong></p>
+<p>结果就是这些辐射热源源不断的涌向身体，远远超过了人体自身向外辐射的那点热量，相当于站在一个巨型微波炉中，身体不但散不出热，反倒还要被持续的加热。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2db0c6da8d36a725f2a3a0377183ba7e_720w.jpg?source=8673f162" alt=""><figcaption>人的四大散热途径占比与红外辐射光谱曲线示意图</figcaption></figure>
+<p>再讲一下传导和对流，空气是很差的热导体，当气温低于皮肤温度时，空气与皮肤的接触能把少量热量带走。</p>
+<p>但如果气温很高，超过了你的体表温度时，空气本身比你更热，<strong>对流反倒会将环境热量传递给人的身上，相当于被加热。</strong></p>
+<p>至于传导，如果你坐在一块冰砖上，由于你比冰块热的多，你的热量会不断的传导给冰块。但在白天沙漠里，地表比你还要热，你一接触地表，直接被反向传导热量。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5dea5c1a12ad0758cc98dbff198f576f_720w.jpg?source=8673f162" alt=""><figcaption>人体热交换模型示意图，正常状态下人体可通过辐射、对流向外散发热量</figcaption></figure>
+<p>既然前几个办法都不行，那就只剩下蒸发这条路了，由于汗水蒸发时会带走大量热量，因此出汗是人体最有效的散热方式。</p>
+<p>其散热效率取决于空气中有多少水汽，沙漠的空气极度干燥，汗液确实能蒸发的很快，身体可以快速排热，蒸发效率极高。</p>
+<p>但同时这也意味着你会大量出汗，<strong>在气温逼近 50℃的沙漠里，一个成年人每小时的出汗量能超过 1 升，</strong>你必须及时补水补电解质，否则很快就会陷入致命的脱水状态。</p>
+<p>这么一看，人体在沙漠中会面临很多矛盾，一方面环境在向人体灌注热量，三大散热模式行不通；另一方面身体必须靠大量出汗来散热，但水在沙漠中本身比较稀缺。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d10295bc01c50f01e1da859b62d257a1_720w.jpg?source=8673f162" alt=""><figcaption>皮肤汗腺与汗液蒸发过程示意图</figcaption></figure>
+<p><strong>人在沙漠中穿长袍，能够有效抵御多种致命威胁</strong></p>
+<p>很多人可能觉得穿衣服肯定比不穿衣服更热，但在沙漠中并不全是这样，长袍在沙漠中能够解决很多问题。</p>
+<p>最直接的功能就是能够有效阻挡太阳辐射及地面长波辐射，浅色布料反照率很高，<strong>能够反射大部分太阳辐射，阻止太阳短波辐射直接加热并灼伤皮肤。</strong></p>
+<p>同时宽大而厚实的织物，还能在皮肤和环境之间创造一个物理隔离层，把地面的长波辐射与人体的红外辐射隔离开来，其布料表面温度可能比深色布料低 20℃以上。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b55de238104f7895d028e4977dca2490_720w.jpg?source=8673f162" alt=""><figcaption>深色与浅色面料对太阳辐射的吸收 / 反射对比图</figcaption></figure>
+<p>而且你也可能会发现这个袍体整体很宽大，这是为了给长袍和身体之间留有大量空间，从而让空气在布料和皮肤之间流动。</p>
+<p>当人行走时，长袍可以像风箱一样不断泵入外部空气，同时将皮肤附近的湿热空气排出，<strong>形成「烟囱效应」，这会加速汗液的蒸发，让身体得以更高效的散热。</strong></p>
+<p>简单来说，长袍可以创造一个微型的空气循环系统，能够迅速的将人体产生的额外热量和湿气带走，提升散热效率，在同等出汗量的情况之下，整体散热能力更强。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0b205b9f829881cfafd9cf6b7963fadc_720w.jpg?source=8673f162" alt=""><figcaption>烟囱效应气流示意图</figcaption></figure>
+<p>除此之外，长袍还解决了沙漠温差问题，白天它能够缓解酷热，而到了气温快速下降的夜晚，长袍又能起到保温的作用。</p>
+<p><strong>同时包裹头部的围巾或头巾也能产生显著的正面作用，</strong>头部是人体散热最快的部位，同时也是受太阳辐射最强的部位。</p>
+<p>头巾既能阻挡烈日直晒，防止头部过热引发中暑，也能在风沙天气中保护口鼻，减少呼吸道水分流失。要知道沙漠中水是生命线，哪怕是多流失一滴水，都是要避免的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-aeec3c50ef59770fd4d83b50a1e389cb_720w.jpg?source=8673f162" alt=""><figcaption>贝都因人长袍与头巾防护原理示意图</figcaption></figure>
+<p>但这也不意味着，在沙漠中穿了长袍就万事大吉了，浅色长袍只能通过减少人体热量的摄入来变相降低出汗量，同时能够增加蒸发效率，相当于是给人体减负。</p>
+<p><strong>你仍然需要持续补水，如果水分的补给跟不上照样会出大问题。</strong>毕竟沙漠又干又热，即便有长袍加持出汗量也不小，身体在持续损失体液，没有水分补充还是会脱水的。</p>
+<p>以上（亲，看完记得点赞呀，喵喵喵~）。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f1ce692c972416d4d33566314b40d783_720w.jpg?source=8673f162" alt=""><figcaption>人体在户外高温环境下热量收支原理图</figcaption></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2084289992566781492">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2084034367777674527">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793196</guid>
-                <pubDate>Mon, 12 Oct 2026 14:11:16 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793218</guid>
+                <pubDate>Tue, 13 Oct 2026 00:02:53 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9793203</link>
-                <description>瞎扯 · 「​崩老头」​你们怎么看？ 知乎日报 查看知乎原文 Q：「崩老头」你们怎么看？ @牛斗之域 ：看到很多回答说崩老头就是崩 90 后我实名反对精神小妹说了，主要崩 70 后 80 后90 后也崩不过 90 后崩不出来钱，很穷。 Q：为什么会有人说张雪机车名字土？ @艺术幻想 ：其实在美国山姆超市就跟吴老二杂货店一个意思。 Q： 天津市民有多搞笑? @一身明亮 :刚看本书，作者是入殓师，天津…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <link>http://daily.zhihu.com/story/9793221</link>
+                <description>瞎扯 · 为什么我找男朋友难于上青天？ 知乎日报 查看知乎原文 Q： 为什么我找男朋友难于上青天？ @sam ：很正常，我信错这么多人不也一样。 Q： 铁人三项比赛中，为什么游泳项目通常排在最前面？ @李喵喵 ：虽然名字叫铁人比赛，但是通常不需要将选手充分加热之后投入水中快速冷却… Q：高三放纵一个下午有影响吗？ @发条鸟 ：影响极其严重，不亚于社交界失去了潘子潘子是我同学，有一次去吃火锅，隔壁桌…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -402,43 +332,49 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 「​崩老头」​你们怎么看？</h2>
+<h2 class="question-title">瞎扯 · 为什么我找男朋友难于上青天？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<div>Q：「<a class="internal" href="https://www.zhihu.com/question/1930715810474723187/answer/2067974645215761499">崩老头</a>」<a class="internal" href="https://www.zhihu.com/question/1930715810474723187/answer/2067974645215761499">你们怎么看？</a>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/25670989/answer/2063535543468795805"> 为什么我找男朋友难于上青天？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/78c789de9260615a48e7ffacf78a5122" target="_blank">@牛斗之域</a></div>
-：看到很多回答<br>说崩老头就是崩 90 后<br>我实名反对<br>精神小妹说了，主要崩 70 后 80 后<br>90 后也崩<br>不过 90 后崩不出来钱，很穷。</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/2028928785739695340/answer/2042270451997696990">为什么会有人说张雪机车名字土？</a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1ca767a8973279fa90b3e00ef2320624" target="_blank">@艺术幻想</a></div>
-：其实在美国山姆超市就跟吴老二杂货店一个意思。</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/378849971/answer/2055236639530782786"> 天津市民有多搞笑? </a>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/9a32f8693f13af266357d2c73eddc314" target="_blank">@一身明亮</a></div>
-:刚看本书，作者是<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=284490352&amp;content_type=Article&amp;match_order=1&amp;q=%E5%85%A5%E6%AE%93%E5%B8%88&amp;zhida_source=entity" target="_blank">入殓师</a>，天津这边叫大了，她是这么形容自己姥爷去世时场景的。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/af2119c35c3df36ed06bc989a738603e" target="_blank">@sam</a></div>
+：很正常，我信错这么多人不也一样。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-02929f5f598ac649fc7b154e3cd99256_1440w.jpg" alt=""></div>
-<figcaption> </figcaption></figure>
-Q：<a class="internal" href="https://www.zhihu.com/question/1913348034005300352/answer/2016509153426842770">有什么经典的地名讹变的例子？</a>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-b8acf7d6eb25ef70ce6354027e01a052_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2075831323705489199/answer/2077343670332929611"> 铁人三项比赛中，为什么游泳项目通常排在最前面？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ae25c855364e1c5c5744556426b809e0" target="_blank">@梦装饰了谁的桥</a></div>
-：别说久经战乱动荡而累积无数讹变的地名了<br>都 6202 年了<br>裸猿还能造出「人形机器人」这种鸟词</blockquote>
-Q：<a class="internal" href="https://www.zhihu.com/question/2079305007262914438/answer/2080698188483375169"> GPT-6 都可以自动化电脑操作了，那我们以后是不是可以划划水、多喝点咖啡了就行了？ </a>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/e5feb5d9e4af3f1f8de917da762e61e0" target="_blank">@李喵喵</a></div>
+：虽然名字叫铁人比赛，但是通常不需要将选手充分加热之后投入水中<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=284489736&amp;content_type=Article&amp;match_order=1&amp;q=%E5%BF%AB%E9%80%9F%E5%86%B7%E5%8D%B4&amp;zhida_source=entity" target="_blank">快速冷却</a>…</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1401125505/answer/1911099998088730334">高三放纵一个下午有影响吗？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/569c6f8d13773fbcddfea3b6c7cbf14e" target="_blank">@粽 Chimaki</a></div>
-： GPT-600 ：什么东西一点用也没有天天在这消耗小咖啡豆子和热水？刪了。</blockquote>
-<hr>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！
-<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
-</div>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0721eb78dc457f763e797b8342ed79e9" target="_blank">@发条鸟</a></div>
+：影响极其严重，不亚于社交界失去了<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=284489736&amp;content_type=Article&amp;match_order=1&amp;q=%E6%BD%98%E5%AD%90&amp;zhida_source=entity" target="_blank">潘子</a><br>潘子是我同学，有一次去吃火锅，隔壁桌几个大哥在用<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=284489736&amp;content_type=Article&amp;match_order=1&amp;q=%E7%94%B5%E5%AD%90%E5%96%89&amp;zhida_source=entity" target="_blank">电子喉</a>交流，应该是病友聚会之类的<br>潘子走过去，对人家说：大哥你们是玩电音的吗 好酷啊</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/664024330/answer/2000367074313269920">哪些动画中的 boss 出场时会伪装成杂兵？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0e25bfeaf44731e2705e16096459f101" target="_blank">@幺儿</a></div>
+：看起来像小学生能做的题，实际上连大学生甚至高中生都解不动</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-71f8d16e1701153ec53b7f2922759ec0_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/264348820/answer/2005245057830249832">你亲眼所见最惨烈的高速车祸是什么样子的？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/25ad1d9a60afaaf4713bbe3c69646b1f" target="_blank">@秦呈乌沙</a></div>
+： 21 年，封期间，路上仅有的两个车，竟然碰了</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-d384bdf448c886abcbb5587ac434fd76_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<hr>
+<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
+<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://pica.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
 </div>
 </div>
 
@@ -448,8 +384,8 @@ Q：<a class="internal" href="https://www.zhihu.com/question/2079305007262914438
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793203</guid>
-                <pubDate>Mon, 12 Oct 2026 14:11:17 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793221</guid>
+                <pubDate>Tue, 13 Oct 2026 00:02:53 GMT</pubDate>
             </item>
             
     </channel>
