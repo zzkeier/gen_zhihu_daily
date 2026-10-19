@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sun, 18 Oct 2026 19:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 02:53:03 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>为什么电脑用久了会变得越来越卡顿，其背后的计算机原理是什么？</title>
-                <link>http://daily.zhihu.com/story/9793319</link>
-                <description>LuciusChthollius，CS @ ETHz | 计算机科学·丹麦语·德语·知识 查看知乎原文 大家都知道电脑的使用体验取决于硬件和软件。简要来说，软件一般是根据当时硬件的基准来开发的，所以从年以上的长周期来看，随着硬件的提升，而新的软件则会跟进新的硬件，老的设备带不动新的软件是很正常的现象，所以这是个不可避免的现象。 为了让这篇回答不浪费各位看客的时间，我们先从一些理想化的情况来观察一台…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-34e233edd05e184ad490b2c23ce6d216.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>年号制度曾在东亚被长期实行，为什么当今除日本以外的其它国家不再使用年号了？</title>
+                <link>http://daily.zhihu.com/story/9793342</link>
+                <description>宁南左侯，太极生二姨 查看知乎原文 年号是一种纪年方式，公元纪年也是一种纪年方式，因此从某种意义上来说，公元纪年可以看作是一种特殊的年号。 首先说一下年号纪年的缺点，主要有三个，一是时常更改，这个皇上用这个年号，回头老皇上死了太子爷即位，就换了个新年号，结果没几年新皇上又被老王爷赶走了，老王爷晋级为新新皇帝，年号也就再次更新，更不用说还可能存在同一个皇上闲着没事改年号的情况，再加上改元还有当年改元…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-e12bc40879caaba391f50e7828861020.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,329 +31,442 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-4f35c049ff08834452cfe05f10165a56_l.jpg?source=8673f162">
-<span class="author">LuciusChthollius，</span><span class="bio">CS @ ETHz | 计算机科学·丹麦语·德语·知识</span>
-<a href="https://www.zhihu.com/question/2050541900717876936/answer/2052117398757679266" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-571144c7e5be56de5addd90c12056267_l.jpg?source=8673f162">
+<span class="author">宁南左侯，</span><span class="bio">太极生二姨</span>
+<a href="https://www.zhihu.com/question/2034120492668469316/answer/2085500935149822749" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>大家都知道电脑的使用体验取决于硬件和软件。简要来说，软件一般是根据当时硬件的基准来开发的，所以从年以上的长周期来看，随着硬件的提升，而新的软件则会跟进新的硬件，老的设备带不动新的软件是很正常的现象，所以这是个不可避免的现象。</p>
-<p>为了让这篇回答不浪费各位看客的时间，我们先从一些理想化的情况来观察一台电脑的生命周期。</p>
-<p><strong>硬件老化</strong></p>
-<p>假设我们拥有一台刚买的新电脑，从开机的那一刻起，我们完全冻结其软件状态，也就是我们<strong>不连接网络，不更新操作系统，不安装新软件</strong>。</p>
-<p>我们首先要审视的是固态硬盘（SSD），毕竟电脑的任何操作，本质上都是数据的读取与写入。</p>
-<p>现代 NAND 闪存是通过将电子困在浮栅（Floating Gate）或电荷俘获层（Charge Trap）中来存储数据的。每次写入或擦除数据时，都需要施加高电压，迫使电子通过极薄的二氧化硅绝缘层（Tunnel Oxide）：这种高压强制电子穿越的过程，会随着时间推移物理性地破坏绝缘层的分子结构，导致电子被困在绝缘层中或发生泄漏。<sup>[1]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e17dc770db585a3fbbb8c48a08ff1eaa_720w.jpg?source=8673f162" alt=""></figure>
-<p>随着绝缘层的物理损伤，存储单元（Cell）中电荷状态的边界变得模糊。原本应该读取为 1 的电位，可能会漂移成 0。这在物理学上表现为原始误码率（Raw Bit Error Rate, RBER）的指数级上升。</p>
-<p>SSD 控制器是一个带有自己 CPU 和内存的微型计算机。当发现 RBER 上升时，它必须动用更高级、更复杂的纠错算法，如低密度奇偶校验码（LDPC）。</p>
-<p>新电脑的 NAND 单元非常健康，读取时可以直接输出数据（硬判决：Hard Decision）。但用了几年后，控制器为了纠正大量错误，必须进行多次不同参考电压的读取（软判决：Soft Decision），并进行复杂的数学运算。这意味着，哪怕操作系统请求的只是一个几 KB 的小文件，SSD 控制器在底层可能经历了多次读取重试和高负荷的纠错计算。 物理层增加的几十微秒延迟，在系统 I/O 栈中会被逐级放大，表现为程序加载时的轻微停滞感。</p>
-<p>随着电脑长期使用，SSD 内部必然充满零碎的有效与无效数据。因为 NAND 闪存不能直接覆盖写入，必须先擦除再写入，且擦除的最小单位 Block 远大于写入单位 Page。</p>
-<p>当你需要写入一个新文件时，SSD 控制器必须先在后台把混合了有效数据的 Block 搬运到新位置，然后再擦除旧 Block。这就是垃圾回收（Garbage Collection）。</p>
-<p>在可用空间减少、碎片增加的老旧电脑上，原本只需写入 1MB 的数据，底层物理闪存可能由于 WAF 激增而实际被强制写入了 3-4MB 的数据。这不仅让 SSD 的高速缓存迅速耗尽，还会导致底层 I/O 通道被后台搬运任务阻塞。由于存储 I/O 是现代操作系统的主要瓶颈，底层 I/O 队列的阻塞会直接导致 CPU 线程被迫挂起，你在宏观上的体感就是「点了一下鼠标，但程序图标弹跳了半天才打开」。<sup>[2]</sup></p>
-<p>接下来，我们观察计算核心（CPU/GPU）。它们的计算能力并未随时间衰减：晶体管只要没坏，1+1 依然等于 2。然而它们维持峰值计算能力的时间变短了。</p>
-<p>CPU/GPU 的硅芯片与散热器之间并不是完全平整的，必须涂抹导热硅脂来填补微小缝隙，以降低热阻。</p>
-<p>当你开启重负载程序（如编译代码、玩游戏）时，芯片迅速升温膨胀；关机或待机时，芯片降温收缩。这种日复一日的热胀冷缩，会导致芯片和散热器由于热膨胀系数（CTE, Coefficient of Thermal Expansion）不同，产生微小的横向剪切力。</p>
-<p>这种剪切力会像泵一样，慢慢将硅脂从芯片中央挤到边缘。这在工程学上被称为泵出效应（Pump-out Effect）。同时，硅脂中的挥发性溶剂会随时间干涸。加上散热风扇在几年内必然积累微小的灰尘，改变了空气流体动力学特性。<sup>[3]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc465bc70e6121f743b9f68d93baf916_720w.jpg?source=8673f162" alt=""></figure>
-<p>根据傅里叶热传导定律：</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=q+%3D+-k+%5Cnabla+T" alt=""></p>
-<p>导热介质的物理退化导致热阻</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta" alt=""></p>
-<p>增加。同样功耗下，热量无法快速传导至空气中，芯片的结温（Junction Temperature,</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=T_%7Bjunction%7D" alt=""></p>
-<p>）上升速度比新买时快得多。</p>
-<p>所有的现代处理器都内置了动态电压与频率调整机制（DVFS, Dynamic Voltage and Frequency Scaling）。这是一个极底层的硬件自我保护回路。当温度传感器探测到</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=T_%7Bjunction%7D" alt=""></p>
-<p>逼近物理极限（如</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=100%5E%5Ccirc%5Ctext%7BC%7D" alt=""></p>
-<p>，防止硅晶穿透或熔断）时，微代码会强制介入，降低工作电压和时钟频率。</p>
-<p>最终的感觉大概就是，新电脑编译一个项目，CPU 可以维持在 4.5GHz 全速运行 5 分钟不降频。但两三年后，由于硅脂干涸和热阻变大，CPU 可能全速运行 10 秒钟就撞到温度墙，被迫降频到 2.0GHz。指令执行的周期被拉长，界面渲染掉帧，体感不卡才怪。</p>
-<p>最后，我们还要考量供电系统，这个对于笔记本电脑等带电池的设备来说非常重要。</p>
-<p>随着充放电循环，锂离子电池内部的电解液会分解，在负极表面形成并不断加厚固态电解质界面膜（SEI Layer）。同时，部分活跃的锂离子会变成无法游离的死锂。这一化学过程直接导致电池的交流 / 直流内阻（Internal Resistance,</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=R_%7Bint%7D" alt=""></p>
-<p>）随使用年份显著上升。<sup>[4]</sup></p>
-<p>现代操作系统的响应速度，极度依赖 CPU 在毫秒级的爆发性能，比如我们熟知 Intel 的 PL2/PL4 状态或 AMD 的 Precision Boost。当你在桌面上拖动一个窗口，CPU 可能会在几十毫秒内瞬间请求超过 100 瓦的功率。</p>
-<p>根据欧姆定律</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=V_%7Boutput%7D+%3D+V_%7Binternal%7D+-+I+%5Ctimes+R_%7Bint%7D" alt=""></p>
-<p>。当电流（</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=I" alt=""></p>
-<p>）瞬间剧增，而电池老化导致内阻（</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=R_%7Bint%7D" alt=""></p>
-<p>）非常高时，电池输出给主板的电压（</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=V_%7Boutput%7D" alt=""></p>
-<p>）会发生瞬间深跌（Voltage Sag）。如果这个电压跌破了数字电路保持高低电平所需的阈值，电脑就会瞬间黑屏重启。</p>
-<p>硬件工程师为了防止老旧设备频繁死机，会在主板固件或操作系统内核中写入保护逻辑：当检测到电池老化时，强制锁定 CPU/GPU 的峰值电流请求上限。最典型的工业界实证就是 Apple 曾经引发巨大争议的「降速门」：为了防止旧 iPhone 因电压瞬跌而关机，iOS 内核会根据电池化学年龄，限制 CPU 的最高频率和突发功耗。这在 PC 笔记本上也同样适用（尤其是不插电时）。你的老电脑变卡，往往是因为它的供电系统已经无法支撑高性能爆发，而固件也在因此限制之。</p>
-<p><strong>软件熵增</strong></p>
-<p>我们假设一个更为日常的场景：即使你没有升级任何操作系统版本，也没有安装新的庞大软件，甚至硬件仍处于巅峰状态，仅仅是随着使用时间的推移，系统依然会变慢。这在计算机科学中被称为软件腐烂或系统熵增。</p>
-<p>首先是我们的操作系统。众所周知，操作系统的核心职责是管理资源。而在长时间使用后，系统的管理成本会呈现非线性增长。主流现代操作系统（Windows, macOS, Linux）属于抢占式多任务系统（Preemptive Multitasking）。当你使用电脑一两年后，虽然你自认为只打开了浏览器和办公软件，但在后台，系统中已经悄悄积累了大量的驻留程序，如各软件的自动升级服务、硬件驱动的监听面板、防病毒软件的后台扫描、各种无用的 Shell 扩展。同时，Windows 的注册表或类 Unix 系统的配置文件目录（</p>
-<p><code>/etc, ~/.config</code></p>
-<p>）中积累了海量的孤儿键值和历史记录。</p>
-<p>这种状态的累积，导致系统在启动或唤醒时，需要遍历和加载比新电脑多出数倍的节点与服务。这构成了系统状态的高熵局面。</p>
-<p>根据操作系统调度器的原理，哪怕这些后台驻留程序什么都不干，它们也会定期通过定时器中断（Timer Interrupts）唤醒 CPU，以检查是否需要执行任务。这时，每次切换任务，CPU 必须执行上下文切换（Context Switch），将当前正在运行的程序状态保存到内存中，然后把后台服务的状态加载进来。新电脑后台只有几十个进程，而老电脑后台可能有 114514 个进程。即使老电脑的 CPU 使用率看起来只有 5%，但这 5%是由极其频繁的、碎片化的上下文切换组成的，这就很卡了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9ee76bddbb3ff59e5d4c9c48d172495b_720w.jpg?source=8673f162" alt=""></figure>
-<p>从 CPU 的微架构来看的话，我们知道 CPU 访问 L1 缓存只需~1 纳秒，而访问主存（RAM）需要~100 纳秒，因此 CPU 运行速度完全依赖于缓存命中率（Cache Hit Rate）。真正导致感觉卡的，不是保存和恢复寄存器的那几微秒，而是缓存被破坏。当 CPU 从你正在玩的游戏或正在滚动的网页切换到某个后台自动更新服务时，L1/L2 缓存中原本属于游戏或网页的数据会被挤出，填入后台服务的代码和数据。几毫秒后，CPU 切回前台程序，发现缓存里找不到需要的数据了，也就是说发生了 Cache Miss。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e7796f1b3c650d5e77a90968e4bf145f_720w.jpg?source=8673f162" alt=""><figcaption>Memory architecture</figcaption></figure>
-<p>CPU 被迫去缓慢的内存中重新拉取数据。这导致指令流水线停顿（Pipeline Stall），IPC（每周期执行指令数）暴跌。在宏观体感上，就是鼠标移动出现了几十毫秒的微卡顿或者网页滚动时掉帧。</p>
-<p>另外考虑到使用时长，一个软件开发的老问题不得不提。具体来说就是很多开发者在写软件时，假设的是一个干净的、小规模的测试环境。但在用户电脑上长期运行后，本地数据的累积会让优秀的算法也变成灾难。</p>
-<p>现代桌面软件极度依赖本地数据库（特别是 SQLite）。你的浏览器历史记录、聊天记录、邮件客户端的索引、甚至操作系统的文件搜索索引，本质上都是一个个不断膨胀的数据库文件。一台新电脑，这些数据库是空的；三年后，你的浏览器历史记录可能有几十万条，聊天软件的本地数据库可能高达数 GB，包含上千万条消息。</p>
-<p>大多数关系型数据库使用 B-Tree 或 B+Tree 作为索引数据结构。其查询的时间复杂度为</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=O%28%5Clog+n%29" alt=""></p>
-<p>：从算法理论来看数据量</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=n" alt=""></p>
-<p>哪怕从 1 万增加到 1000 万，树的深度也只会增加几个层级。但是，计算机科学不仅是数学，它必须在冯·诺依曼架构的物理限制下运行。</p>
-<p>当数据库就几 MB、还非常小时，整棵 B+Tree 被操作系统缓存在内存（RAM / Page Cache）中，遍历几个树节点的耗时是纳秒级的。然而，当数据库膨胀到几个 GB 时，RAM 无法装下整个索引树。此时，当你尝试搜索一个历史联系人，或者浏览器尝试在地址栏为你自动补全网址时，系统必须遍历 B+Tree。</p>
-<p>因为节点不在内存中，CPU 触发缺页中断，操作系统必须去硬盘（哪怕是 SSD）中把树节点所在的块（Block）读取到内存。原本在内存中只需 100 纳秒 的节点跳转，现在变成了 100 微秒的磁盘 I/O 操作，慢了千倍有余。如果 SSD 恰好因为物理衰退的写入放大而处于繁忙状态，这个延迟会被进一步拉长到数毫秒。</p>
-<p>所以算法复杂度还是</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=O%28%5Clog+n%29" alt=""></p>
-<p>但物理常数项被改变就会让时间延迟显著增加。</p>
-<p>尽管固态硬盘不需要像机械硬盘那样进行物理磁头寻道，但文件系统的逻辑碎片化依然致命。经过长年累月的下载、删除、解压操作，文件系统的元数据树变得极其庞大且分散。当你打开一个包含几万个小文件的旧文件夹时，文件系统资源管理器必须逐个读取这些文件的元数据，包含文件名、图标、权限、最后修改时间。由于记录的极度分散，操作系统发起的是海量的、不可预测的小区块随机读取。这正是任何存储介质（包括最顶级的 NVMe SSD）的薄弱环节。</p>
-<p><strong>软件膨胀</strong></p>
-<p>在前面的两部分中，我们假设了一台完全与世隔绝的电脑。然而，现实中的计算设备是全球软件生态系统的端点。一旦你的电脑连上互联网，开始更新系统、更新浏览器、使用最新版的日常软件，它就不可避免被时间淘汰。</p>
-<p>在工业界，最昂贵的资源早已不是 CPU 的计算周期，而是程序员的开发时间和维护成本。 抽象漏洞法则（The Law of Leaky Abstractions）由软件工程专家 Joel Spolsky 于 2002 年提出：「计算机科学中的任何问题都可以通过增加一个间接层（抽象层）来解决。」</p>
-<p>为了降低跨平台开发的成本，现代企业不再为 Windows、macOS 和 Linux 分别使用原生语言（C++/Swift）开发三个版本的软件。取而代之的是，工业界广泛采用了 Electron、React Native 或各类 Web Wrapper 技术。</p>
-<p>当你打开一个基于这个逻辑开发的现代的聊天软件（如 Slack、Discord 甚至新版微信、QQ）、笔记软件或代码编辑器时，你以为你只是打开了一个几十 MB 的轻量级文字处理工具。但在系统底层，每一个这样的软件都向内存中加载了一个完整的 Chromium 浏览器渲染引擎和一个 Node.js 运行时。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e006f26dd2d06c3f4b4512d8aaeab5b2_720w.jpg?source=8673f162" alt=""></figure>
-<p>十年前，一个纯粹由 C++ 和 Win32 API 编写的原生聊天软件，内存占用通常在 50MB 左右。而今天，一个基于 Electron 的聊天软件，启动即消耗 500MB 到 1GB 的内存。这被称为软件膨胀（Software Bloat）。</p>
-<p>后果就是，比方说你的老电脑可能只有 8GB 内存。新买时，这 8GB 内存足以支撑操作系统和十几个原生应用。但现在，仅开启浏览器和两个基于 Electron 的日常软件，8GB 内存就被吃干抹净。</p>
-<p>一旦 RAM 耗尽，操作系统别无选择，只能启用页面交换（Paging / Swap），将内存中的数据硬塞进慢成千上万倍的硬盘中。此时，你在应用间切换（例如从微信切回浏览器），由于数据必须从硬盘重新载入内存，系统会发生严重的缺页中断（Page Fault），产生长达数秒的假死现象。</p>
-<p>即使撇开跨平台框架不谈，现代编程语言的内存管理机制对于老旧硬件来说也很麻烦。</p>
-<p>我们 ETHZ 的老校友、图灵奖得主 Niklaus Wirth 在 1995 年的 IEEE 论文 A Plea for Lean Software 中提出：软件变慢的速度永远快于硬件变快的速度。工业界则有著名的戏谑：“Andy gives, Bill takes away.”（安迪·格鲁夫 /Intel 提供多少硬件性能，比尔·盖茨 / 微软的软件就会吃掉多少）。</p>
-<p>随着 16GB 甚至 32GB 内存成为行业标配，开发者失去了优化内存的动力，体现了经济学上的杰文斯悖论：资源越丰富、效率越高，该资源的消耗反而越大。</p>
-<p>现代软件多采用自动内存管理的语言（如 Java, C#, JavaScript/V8 引擎）编写。这些语言不需要程序员手动释放内存，而是依靠垃圾回收器（GC（定期扫描和清理无用数据。我们都知道垃圾回收机制需要大量的空闲内存裕量（Headroom）才能高效运行。 当老旧电脑的内存处于拥挤状态时，新软件的 GC 引擎会被频繁触发。</p>
-<p>许多高级 GC 算法在执行深度清理时，会触发名为 Stop-The-World, STW 的现象：它会瞬间挂起软件所有的执行线程。如果你的旧电脑内存吃紧，现代软件的 V8 引擎可能会每秒钟触发十几次 GC，你的 CPU 算力被大量浪费在打扫卫生上。体现在宏观上，就是输入文字时，字母一个个跳出来的延迟感。</p>
-<p>另外提到硬件的迭代，我们都知道 CPU 并不是以同样的速度处理所有数学运算的。为了加速特定任务（如视频解码、加密、机器学习矩阵运算），Intel、AMD 和 Apple 会在 CPU 中加入专门的硬件指令集，如著名的 SSE4, AVX2, AVX-512, ARM NEON。</p>
-<p>随着时间推移，整个互联网生态的媒体格式都在升级。五年前，网页上的视频多为 H.264 格式；今天，为了节省带宽，YouTube, Bilibili 等平台全面转向了 VP9 或 AV1 这种高压缩率、极度耗费算力的现代视频编码。可以理解成为了降低自己服务器存储的成本，把解码这个活交给了用户的机器。</p>
-<p>新 CPU 内置了 AV1 硬件解码模块，播放 4K 视频只耗费相应板块的极少 CPU 占用率。而你的老旧电脑 CPU 并没有这个专用电路。当老电脑打开同样的网页时，浏览器只能调用软解（Software Decoding），用最慢但最通用的 ALU（算术逻辑单元）去强行计算复杂的矩阵解码。</p>
-<p>当软件公司发布新版软件时，他们的工程师会使用最新的编译器（如新版 GCC 或 Clang），并开启针对现代 CPU 架构的优化编译选项。这意味着编译出来的二进制机器码，充斥着老 CPU 无法高效处理，甚至根本无法识别的现代指令。</p>
-<p>当旧 CPU 遇到未经针对性优化的指令流，或者缺乏足够大的 L3 缓存时，每时钟周期执行的指令数（IPC）会发生断崖式下跌。旧 CPU 为了软解视频或执行低效的通用指令，被迫长时间处于满载状态（100% 占用率） &gt;&gt; 产生巨大热量 &gt;&gt; 瞬间撞上温度墙 &gt;&gt; 触发 DVFS 大幅降频。这是一个散热循环，使得电脑一直卡顿。</p>
-<p><strong>喜新厌旧</strong></p>
-<p>卡顿这个词本身也是主观的。试想一下十几年前，就算是新的电脑，但是同样的体验我觉得对于大多数人来说也几乎卡到不能接受。</p>
-<p>心理物理学中的韦伯 - 费希纳定律指出，人对刺激边缘变化的感知不是线性的，而是呈对数关系的（</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5CDelta+p+%3D+k+%5Ccdot+%5Cfrac%7B%5CDelta+S%7D%7BS%7D" alt=""></p>
-<p>）。这意味着，基础刺激量越小，人类对微小变化的感知就越敏锐。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9de2ae80769e93a196670c0199323a67_720w.jpg?source=8673f162" alt=""><figcaption>这是一个关于韦伯 - 费希纳定律的插图。在两侧，下方的正方形都比上方的正方形多 10 个点。然而，人类的感知却有所不同：在左侧，上方正方形和下方正方形之间的差异清晰可见；而在右侧，这两个正方形看起来几乎一模一样。</figcaption></figure>
-<p>当你的电脑全新时，打开一个轻量级应用的底层 I/O 和计算延迟可能只有 20 毫秒。经过两年的微观物理老化（WAF 增加）和系统逻辑熵增（B-Tree 深度增加），这个延迟增加到了 80 毫秒。</p>
-<p>从物理时间上看，仅仅增加了 60 毫秒。人类眨眼都需要 300 毫秒，这 60 毫秒似乎微不足道。但根据韦伯定律，延迟增加了整整 300%。你的大脑神经中枢会极其敏锐地捕捉到这种比例上的巨大突变，并向你发送一个明确的信号：它变钝了。</p>
-<p>人机交互领域的泰斗 Jakob Nielsen 在 1993 年的经典著作 Usability Engineering 中基于 Robert B. Miller 的早期研究，确立了计算机响应时间的三个关键物理界限：</p>
+<p>年号是一种纪年方式，公元纪年也是一种纪年方式，因此从某种意义上来说，公元纪年可以看作是一种特殊的年号。</p>
+<p>首先说一下年号纪年的缺点，主要有三个，一是时常更改，这个皇上用这个年号，回头老皇上死了太子爷即位，就换了个新年号，结果没几年新皇上又被老王爷赶走了，老王爷晋级为新新皇帝，年号也就再次更新，更不用说还可能存在同一个皇上闲着没事改年号的情况，再加上改元还有当年改元和次年改元的区别，所以在历史上，年号纪元的时间推算算是一本手艺，《我的团长我的团》里审讯龙文章的时候，唐副师座问龙文章年龄，龙文章来了句“光绪三十四年”，负责码字的张立宪当时就麻了，然后还是唐副师座低头迅速计算出是三十四岁：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fe9c16e7caa1ce3b97742295733476fb_720w.jpg?source=8673f162" alt=""></figure>
+<p>这种计算有两个方法，第一种是叠加，光绪就到三十四年，之后是宣统用了三年，现在是民国三十一年，3+31=34，三十四岁；第二种是换算，光绪三十四年是 1908，现在是 1942，1942-1908=34。因此，如果现在仍然使用年号纪年，也会出现这种不太方便的情况，各种年号叠加，你还得记下来不同年号所用的时长、是否本年改元，亦或者熟记年号与公元的对照。</p>
+<p>第二个缺点是不通用。年号事关正朔问题，敌对双方往往使用不同的年号，互相之间并不通用，因此缔结国书或者其他场合开列时间时得写双份，就像《南京条约》那样，落款时间“<strong>道光二十二年</strong>七月二十四”“<strong>一千八百四十二年</strong>八月二十九”。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-58db98b0931e570a73e17d967ccd24c6_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个问题古代也有，比如《唐蕃会盟碑》上的“时大蕃彝泰七年，大唐长庆元年”，理论上来说，只要是两个政权缔结的盟约，应该都会出现这种情况，比如澶渊之盟，比如天眷和议，比如绍兴和议、隆兴和议、嘉定和议。</p>
+<p>因此，如果现在东亚各国都用年号的话，那么中日朝韩越起码就有五种不同的年号纪年，到时就一定会有主体三年对应昭和多少年这种口算题目，也需要一个能够居中进行换算的单位——比如公元。</p>
+<p>第三个缺点是借支问题。</p>
+<p>日本现在仍然用年号，所以日本东京奥运会当初就出了这个问题。“平成三十二年东京オリンピック競技大会”，可平成三十一年明仁退位，德仁继位，改元令和，而且是当年改元，“平成三十二年”就是“令和二年”，因此“平成三十二年”的奥运会实际上是“令和二年”的奥运会——2020 年东京奥运会因为疫情延迟到了 2021 年，因此“平成三十二年奥运会”就变成了“令和三年奥运会”。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e287d91a8a4b648703e78e6c4dd24d50_720w.jpg?source=8673f162" alt=""></figure>
+<p>其实这三个缺陷也不是没有修正方法，针对第一个经常改元这事，可以定一个不改的，就像太平天国那样，直接用国号 + 干支 + 纪年，太平天国癸好三年、太平天国乙荣五年这样，民国也是如此，只要不覆亡肯定就不用改了。针对第二个不通用的问题，也不是问题，毕竟现在全球也并非只有公元纪年这么一种，日本有年号，穆斯林用伊斯兰纪年，埃塞俄比亚的历法比公元晚七年，也不是不行，用习惯了也一样，至于换算，无非也就是在正式的场合用，就像现在某些思喵里写碑文或者榜书的时候会用一个“佛历”，也就是以释迦牟尼涅槃后一年即公元前 543 年为元年。第三个问题，借支，如果是使用国号纪年，亦或者名人诞辰去世这种不用变的纪年，借支的问题也不大。</p>
+<p>其实呢，公元元年，正好对应的是汉平帝元始元年，只可惜汉平帝这人是个空子，所以不适合，真要是秦皇汉武这种雄猜之主，就用元始年号来纪年也未尝不可，毕竟耶稣这种色唐都可以用，本国人自然也可以。不过话说回来，如果哪天夏商周断代工程能确定某位周天子是公元前 1000 年即位，或者夏天子是公元前 2000 年即位，其实也不妨以这年为中国的纪年原点，这样东西方纪年正好差 2000 年。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2034120492668469316">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793342</guid>
+                <pubDate>Mon, 19 Oct 2026 02:53:01 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>「我」是怎样成为汉语的通行的第一人称的？</title>
+                <link>http://daily.zhihu.com/story/9793351</link>
+                <description>陈麟阁，不要将自己所处的历史的片刻，错当成是永恒。 查看知乎原文 上古汉语本土的第一人称代词有七个：吾、我、卬、余（予）、陽、朕、台（yí）。它们的源流大致如下： 吾 *ŋˤa 是第一人称代词最基础的形式，直接继承自原始汉藏语的第一人称代词 *ŋa（Matisoff 2003）。 在原始汉藏语或原始汉语时期，*ŋa 与系词 *way 发生了合音，产生了强调式变体 *ŋa-y，对应上古汉语的 我 *…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-153924709f8998d3afc38f6a5c6bf862.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-d5585e64098dca47417ac6ff3a523ec7_l.jpg?source=8673f162">
+<span class="author">陈麟阁，</span><span class="bio">不要将自己所处的历史的片刻，错当成是永恒。</span>
+<a href="https://www.zhihu.com/question/48030325/answer/2077822343049758054" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>上古汉语本土的第一人称代词有七个：吾、我、卬、余（予）、陽、朕、台（yí）。它们的源流大致如下：</p>
+<ul>
+<li>吾 *ŋˤa 是第一人称代词最基础的形式，直接继承自原始汉藏语的第一人称代词 *ŋa（Matisoff 2003）。</li>
+<li>在原始汉藏语或原始汉语时期，*ŋa 与系词 *way 发生了合音，产生了强调式变体 *ŋa-y，对应上古汉语的 我 *ŋˤajʔ。</li>
+<li>在原始汉藏语或原始汉语时期，部分人称代词经历了鼻音增生。吾 *ŋˤa 产生了鼻音变体 卬 *ŋˤaŋ。同理的还有第二人称代词 汝 *naʔ &gt; 戎 *nuŋ。</li>
+<li>在原始汉语时期，近指示词 *la 语法化为第一人称代词 余 *la / 予 *laʔ，后者通过鼻音增生产生了变体 陽 *laŋ。</li>
+<li>在原始汉语或者前上古时期，领语位置上的人称代词因为重音在后而发生了弱读和央化（Schuessler 2007）。这使得 余 *la / 予 *laʔ 产生了央化变体 台 *lə，陽 *laŋ 产生了央化变体 朕 *lrəŋ[-s]。同理的还有第二人称代词 汝 *naʔ &gt; 而 *nˤəʔ / 乃 *nəʔ，远指示词 渠 *ga &gt; 其 *gə。</li>
+</ul>
+<p>上述代词、指示词及其变体如下表所示：</p>
+<table>
+<tbody>
+<tr><th>代词</th><th>基式</th><th>央化式</th></tr>
+<tr>
+<td>1 单</td>
+<td>余 *la / 予 *laʔ</td>
+<td>台 *lə</td>
+</tr>
+<tr>
+<td>1 单 -ŋ</td>
+<td>陽 *laŋ</td>
+<td>朕 *lrəŋ[-s]</td>
+</tr>
+<tr>
+<td>1 单</td>
+<td>吾 *ŋˤa</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1 单 -ŋ</td>
+<td>卬 *ŋˤaŋ</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2 单</td>
+<td>汝 *naʔ</td>
+<td>而 *nˤəʔ / 乃 *nəʔ</td>
+</tr>
+<tr>
+<td>2 单 -ŋ</td>
+<td>戎 *nuŋ</td>
+<td>—</td>
+</tr>
+<tr>
+<td>远指</td>
+<td>渠 *ga</td>
+<td>其 *gə</td>
+</tr>
+<tr>
+<td>远指 -ŋ</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p>在如今大多数汉藏语中，*ŋa 都充当着主要的第一人称代词，如藏语拉萨话称 ŋa，缅语称 ŋà，彝语称 ŋa，独龙语称 ŋa。按照语言正常发展的轨迹，吾 *ŋˤa 本应成为现代汉语主流的第一人称代词，但事实上，一个形式略有不同的 我 *ŋˤajʔ 流传了下来。这背后的原因有三个：</p>
 <ol>
-<li>0.1 秒（100 毫秒）： 人类感觉系统做出瞬间响应的极限。延迟低于此值，用户感觉自己在直接操控对象。</li>
-<li>1.0 秒： 用户思维连贯性的极限。延迟超过此值，用户的思绪就会被打断。</li>
-<li>10 秒： 用户保持注意力的极限。</li>
-</ol>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-edf8b834c36e9a7cb8075472ef04f821_720w.jpg?source=8673f162" alt=""></figure>
-<p>当新电脑的综合延迟是 50 毫秒时，它处于“0.1 秒极限”之内，你的大脑会产生一种随叫随到的合一感。然而，由于物理降频 、缺页中断和垃圾回收导致的 Stop-The-World，老电脑在执行相同操作时，延迟可能被拉长到了 150 毫秒到 200 毫秒，跨越了 100 毫秒生死线。大脑的错觉被打破了，从直接物理操控变成了在向机器发送指令，并等待它回应。这就使得卡顿几乎无可避免地出现了。</p>
-<p>同时，人类的期望值是一个会动态更新的滑动窗口。在过去几年里，你不仅在使用老电脑，如果你还在使用最新款的智能手机和高刷新率的屏幕的话， 那么你的大脑在潜移默化中，就已经被最新一代的移动端设备重新校准了速度基准。当你习惯了手机上 8 毫秒的触摸反馈延迟，再回到那台经历了物理和软件双重磨损、综合延迟 150 毫秒的老电脑时，即使老电脑的绝对速度和三年前相比只下降了 30%，但在你被拔高的心理预期面前，这种落差会被放大为极其卡顿。</p>
-<p>不过，尽管一台电子设备从上市开始就在被淘汰的路上，但是我们通过对于这个过程的具体分析也就能很容易地看到怎么科学地维护自己的电脑。</p>
-<p>首先我们得恢复热力学参数。最简单的方法就是换硅脂，这能够直接降低热阻（</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=%5Ctheta" alt=""></p>
-<p>），延缓</p>
-<p><img class="content-image" src="https://www.zhihu.com/equation?tex=T_%7Bjunction%7D" alt=""></p>
-<p>的上升，让 CPU 的微代码减少触发 DVFS 主动降频，直接夺回因过热而丧失的算力。</p>
-<p>此外永远不要把老电脑的 SSD 塞满。保持至少 20% - 30%的绝对可用空间。这极大减轻了控制器的垃圾回收（GC）压力，直接降低写入放大因子（WAF），消除底层 I/O 队列的阻塞延迟。</p>
-<p>如果是笔记本电脑的话，换掉高内阻的老化电池。这样就能消除底层主板固件对 CPU/GPU 峰值电流的限制，找回系统在处理突发任务（如拖动窗口、瞬间加载）时的瞬态反应速度。</p>
-<p>软件上，对于维护欠佳的电脑而言，需要抛弃清理软件，直接备份重要数据，然后重新安装操作系统。这能在物理上瞬间清空注册表 / 配置文件的无限扩张，抹平本地数据库 B-Tree 的深度，彻底消除因为后台守护进程堆积引发的上下文切换和缓存震荡。</p>
-<p>对于过于老旧的机型，那就必须避免使用基于 Electron 的软件。用纯 Web 代替独立的跨平台客户端，或者寻找由纯 C/C++/Rust 编写的 Native 轻量级替代品（例如要读 PDF 的话就用 SumatraPDF 替代 Adobe Reader）。这能将系统的有限 RAM 从 Chromium 拯救出来，减少硬盘缺页中断。</p>
-<p>如果这是一台非游戏、非专业生产力的纯粹老旧电脑，同时愿意折腾的话，可以安装 Xubuntu、Lubuntu 等搭载轻量级桌面环境的 Linux 发行版。这些操作系统的内核调度器和桌面环境完全避开了 Windows/macOS 庞大的视觉特效渲染，将宝贵的每周期指令数全部还给用户的实际任务。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2050541900717876936">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793319</guid>
-                <pubDate>Sun, 18 Oct 2026 19:58:05 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>中国古代历史上为什么很少有像近现代欧洲石制教堂宫殿这样高大宏伟的建筑？</title>
-                <link>http://daily.zhihu.com/story/9793322</link>
-                <description>子木年华，不知不觉，成了炸鱼专业户 查看知乎原文 见过北美红衫吗？ 原来分布非常广泛，后来由于气候变迁，分布区域逐渐集中在了北美。 高可达 110 米，直径可达 8 米。 发一组图感受一下，注意看人和树的比例。 这样的树，经过加工后，取其精华，大概就是得到一根三五米直径，高度七八十米的柱子。 然后，唐朝洛阳的明堂，又被称为万象神宫。现在挖出来的柱子坑，最大的柱坑直径 9.8 米，深 4.06 米。…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d95d044391c392d6f2bad5ed49a29f88.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-c9ba36c6d434790328dfc286da04d9bc_l.jpg?source=8673f162">
-<span class="author">子木年华，</span><span class="bio">不知不觉，成了炸鱼专业户</span>
-<a href="https://www.zhihu.com/question/20541177/answer/2746111316" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>见过北美红衫吗？</p>
-<p>原来分布非常广泛，后来由于气候变迁，分布区域逐渐集中在了北美。</p>
-<p>高可达 110 米，直径可达 8 米。</p>
-<p>发一组图感受一下，注意看人和树的比例。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fd06855f24cc24986f5df129488b2dd7_720w.jpg?source=8673f162" alt=""></figure>
-<p>这样的树，经过加工后，取其精华，大概就是得到一根三五米直径，高度七八十米的柱子。</p>
-<p>然后，唐朝洛阳的明堂，又被称为万象神宫。现在挖出来的柱子坑，最大的柱坑直径 9.8 米，深 4.06 米。</p>
-<p>发张图，大家感受一下，注意人的比例。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3f40e11d5391907fdf906e9baf265a63_720w.jpg?source=8673f162" alt=""><figcaption>明堂中心柱的柱基</figcaption></figure>
-<p>这个柱基，是唐朝明堂的中心柱的柱基，那这根柱子有多高呢？</p>
-<p>89 米。</p>
-<p>整个明堂，高达 98 米。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f4693cc69d1b6debd7616fc6944cac4_720w.jpg?source=8673f162" alt=""><figcaption>明堂（万象神宫）复原图</figcaption></figure>
-<p>你站在明堂里看这根柱子大概就是下图的感觉。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-da82998280f8eb3ecfe9d8417ffc1a3e_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-32f03ea0be6763ce08bf6e963bb17491_720w.jpg?source=8673f162" alt=""></figure>
-<p>更有意思的是，明堂里最细的柱子，也比故宫太和殿里最粗的柱子还要粗。</p>
-<p>而故宫太和殿里的大柱，还不是一整根木头，而是拼合起来的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c51ef2e5e3217e85507e1804f4bbed5c_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就是中国古代建筑规模越来越小的，最重要的原因——巨木不够了。</p>
-<p>要知道，明堂还不是唐朝洛阳最大的建筑，就在洛阳后面，还有一个更大的建筑，叫做天堂。</p>
-<p>天堂又被称为通天浮屠，《狄仁杰·通天帝国》里通天浮屠的原型就是它。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e10bcd1185ff64520901c51798aca984_720w.jpg?source=8673f162" alt=""><figcaption>《狄仁杰·通天帝国》的剧照</figcaption></figure>
-<p>天堂具体多大呢？</p>
-<p>不好说，因为史料数据太夸张了，没人敢信，现代考古学家连复原都不敢。</p>
-<p>所以现在都没有关于天堂的正儿八经复原。</p>
-<p>但又怎么确定它真的比明堂要大呢？</p>
-<p>看中心柱。</p>
-<p>明堂中心柱的柱基直径 9.8 米。</p>
-<p>而天堂——直径 14.8 米。</p>
-<p>再次感受一下比例吧～这个观景台还是内飘的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cfbbec2663eee72121a93635fdded6e1_720w.jpg?source=8673f162" alt=""></figure>
-<p>你以为这就很牛了？</p>
-<p>可是唐朝的奇观，已经比秦汉小太多了。</p>
-<p>比如，大家都知道古罗马的万神殿高大雄伟。</p>
-<p>但其实整个万神殿的建筑面积才两千多平方米。</p>
-<p>而汉朝未央宫前殿的台基占地面积约 7 万平方米——相当于差不多 10 个足球场的面积。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4e2fbee7f70383b3ac910331d895b6ab_720w.jpg?source=8673f162" alt=""><figcaption>未央宫前殿台基</figcaption></figure>
-<p>人站在这台基面前，就像一只蚂蚁。</p>
-<p>这台基上，有三座大殿，最大的可以塞进 4 个万神殿。</p>
-<p>所以，刘邦第一次见到前殿时，都认为太浪费国力了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-72e6db470c1c2de8eb48d0673ebbdeef_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过由于两千多年了，上面的遗址痕迹已经被破坏得差不多了，很令人遗憾。</p>
-<p>有幸的是，我们现在还能看到这建筑群的缩小版。</p>
-<p>那就是故宫三大殿。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-08edb17613839f2b6d97cc5d640c242d_720w.jpg?source=8673f162" alt=""></figure>
-<p>你以为这就是最大的了？</p>
-<p>其实在秦始皇的阿房宫面前，这只是个弟弟。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-13754e5be4e99960d2a76593b4fa49ff_720w.jpg?source=8673f162" alt=""><figcaption>秦始皇阿房宫前殿遗址</figcaption></figure>
-<p>看到图中这一片森林没？</p>
-<p>这是阿房宫前殿的台基。</p>
-<p>总面积 54.4 万平方米，相当于 77 个足球场。</p>
-<p>你以为史书上说阿房宫可以坐几万人是开玩笑啊？</p>
-<p>更扯淡的是，根据史书和考古推测，这前殿只有一个核心建筑，而不是三个大殿。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-918c7086b0a3dbc14b6b29f41a813918_720w.jpg?source=8673f162" alt=""></figure>
-<p>这就很夸张了，想象力都不够用了。</p>
-<p>估计唐朝明堂的中心柱，在这里只能当排柱用。</p>
-<p>不过，秦始皇到死，再到秦朝灭亡，这宫殿都没建好。如今只留下了一座如此恢弘的台阶，供我们后人遐想。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-b343fadf828fc0bde074c0d4dfed021b_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以啊，有时候我们说古代中国建筑规模越来越小是因为木材不够了。</p>
-<p>很多人不信，觉得我们是阿 Q，是自欺欺人。</p>
-<p>其实是真的啊。</p>
-<p>你知道现在中国最高的树才多高吗？</p>
-<p>83.2 米，直径 2 米。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e6975725de3428fa3cc016af322c3bcc_720w.jpg?source=8673f162" alt=""></figure>
-<p>这还是现代用无人机，用卫星等各种先进装备才找到的。</p>
-<p>就这还才找到 83.2 米。</p>
-<p>掐头去尾加工后，连给唐朝明堂当中心柱的资格都没有。</p>
-<p>所以，明清时期，中国境内已经找不到巨木了。</p>
-<p>再要找，就得往东南亚找了——那成本也不禁造啊。</p>
-<p>可不要低估了环境对人类的影响。</p>
-<p>再比如，古希腊、古罗马的大理石艺术和建筑为什么那么发达？</p>
-<p>因为他们有世界上最好的大理石矿。</p>
-<p>尤其是意大利境内的阿普亚内山，拥有世界上最大的大理石矿，开采了几千年了仍旧是世界第一。</p>
-<p>感受一下人家大理石矿的品质。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-cb792414a71cb68ce9fe6fcaa32c5d0f_720w.jpg?source=8673f162" alt=""></figure>
-<p>然后再看看我们的。</p>
-<p>看完了之后，你说我们拿什么跟人家比大理石艺术？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0d1958a730caeeb46a4fde52dacc194f_720w.jpg?source=8673f162" alt=""></figure>
-<p>还有，古罗马的混凝土（实际上是火山灰）也是上帝的馈赠。</p>
-<p>为什么呢？</p>
-<p>因为它轻。</p>
-<p>这种物理特性，就使得古罗马在古典时代就能解锁很多石质建筑的花样玩法。</p>
-<p>其实除了古希腊、古罗马，中东地区的大理石艺术也很牛逼。</p>
-<p>为什么？</p>
-<p>因为土耳其地区有世界上最丰富的大理石矿种。</p>
-<p>所以，阿拉伯地区的清真寺，那大理石也是各种亮瞎眼。</p>
-<p>中国呢，就走向了土木工程，形成了以夯土和木材为主的技术路线。</p>
-<p>后来夯土又进化成了砖块。</p>
-<p>古代中国是把砖头玩出了花的。</p>
-<p>这就是环境造就文明。</p>
-<p>另外，可不要看不起夯土技术。</p>
-<p>以前农村里的土砖房可不是夯土。</p>
-<p>夯土本质上跟古罗马混凝土差不多，都是一种人工合成材料。只不过夯土走的是物理路线，古罗马混凝土走的是化学路线。</p>
-<p>古代在不考虑建筑面积利用率的情况下，使用土木结合的建筑方式，可以轻易将建筑高度提升到一两百米。</p>
-<p>现在考古发现中，能够有效证明这一点的就是北魏永宁寺塔。</p>
-<p>其塔芯为夯土，木质结构附着在夯土上，高度超过了 150 米。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-33f2c4c880c6e303427bb0f1970964c8_720w.jpg?source=8673f162" alt=""></figure>
-<p>这种建筑技术，类似于悬空寺。</p>
-<p>就是人为制造山体，建筑附着其上。</p>
-<p>这种建筑技术，从先秦时期，一直到南北朝时期都很流行。</p>
-<p>先秦时期的王陵、高台，很多都是如此。</p>
-<p>所以，如果你在史书上，看到先秦时期动辄几十上百米高度的建筑，千万不要感到意外，因为人家是用了一种取巧的建筑技术。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-f8001a72a49bda271370089cb055ed1f_720w.jpg?source=8673f162" alt=""></figure>
-<p>在技术不成熟的时候，人类总会找到一些取巧或大力出奇迹的方法。</p>
-<p>比如古罗马万神殿，就是大力出奇迹，用数米后的墙体怼在那里，抵消重力。穹顶合不拢了，干脆就留在那里算了了。至于窗户啥的，由于结构缺陷，能不造就不造了。</p>
-<p>比如古罗马斗兽场，则是一种元素堆砌，用重复的斗拱怼在那里，搭出结构。</p>
-<p>类似的还有中国南北朝时期的浮山堰，是人类古代史上最大的大坝，堪称古代三峡。这大坝干脆就是用强大的国力和钢铁产量怼上去的。</p>
-<p>整个大坝 9 里长，三五十米高，底部三四百米宽，蓄水量超过 100 亿立方米。</p>
-<p>怎么造的？</p>
-<p>用几千万斤铁和巨木打造沉箱，塞巨石稳固坝基，调动工人二十多万。</p>
-<p>还有唐朝长安的麟德殿。</p>
-<p>那有那么多巨木，单体建筑体积上不去，怎么办呢？</p>
-<p>就把多个单体建筑拼起来组合成一个建筑，照样能够获得 12300 平方米的建筑面积，相当于两个东罗马圣索菲亚大教堂的面积，容纳大几千个人吃饭跳舞，一点问题都没有。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ab0def132bee2d25dc8bbab5a099ce48_720w.jpg?source=8673f162" alt=""><figcaption>唐长安大明宫麟德殿</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b27308dfd4959262d72d6bb93324ad2e_720w.jpg?source=8673f162" alt=""><figcaption>圣索菲亚大教堂</figcaption></figure>
-<p>这些都是受限于技术发展水平，取巧或不得已为之的方法。</p>
-<p>但不管怎么样，无论你是取巧还是大力出奇迹，只要你能够找到解决办法，那你就是牛逼。</p>
-<p>至于为什么后来中国没有了巨木，却不懂得变通，甚至干脆就彻底走进了死胡同，以至于到了清朝末年，修的最大的木构建筑竟然还不如日本的大——这就是另一个故事了。</p>
+<li>晚商之前，新兴的第一人称单数代词“余”压缩了“吾”的生态位；</li>
+<li>从晚商到西周，“我”作为“吾”的强调式在第一人称复数代词的生态位上得以存续；</li>
+<li>东周以来，“我”通过“强调式更新”和“复数窄化为单数”两个机制战胜了其他第一人称代词，成为主流的第一人称代词。</li>
+</ol><hr>
+<p><strong>一、“吾”的衰落</strong></p>
+<p>Sagart（1999）根据 Djamouri（1997）的分类与断代制作下表，显示上古汉语的代词存在单复数分工：</p>
+<table>
+<tbody>
+<tr><th>人称</th><th>晚商</th><th>西周</th><th>东周</th></tr>
+<tr>
+<td>1 单</td>
+<td>余 *la</td>
+<td>余 *la</td>
+<td>吾 *ŋˤa</td>
+</tr>
+<tr>
+<td>1 复</td>
+<td>我 *ŋˤajʔ</td>
+<td>我 *ŋˤajʔ</td>
+<td>我 *ŋˤajʔ</td>
+</tr>
+<tr>
+<td>2 单</td>
+<td>汝 *naʔ</td>
+<td>汝 *naʔ</td>
+<td>汝 *naʔ</td>
+</tr>
+<tr>
+<td>2 复</td>
+<td>—</td>
+<td>爾 *ne[r]ʔ</td>
+<td>爾 *ne[r]ʔ</td>
+</tr>
+</tbody>
+</table>
+<p>从实际的语料来看，晚商甲骨文中的主流第一人称单数代词是 余 *la。商王用它来自指：</p>
+<blockquote>庚寅卜，王：余燎于其配？（《英藏》1864）——我要为他的配偶举行燎祭吗？<br>乙酉卜，王贞：〔某〕不余其见？二月。（《合》20391）——（他）不会来谒见我吗？<br>羌甲求（咎）余？（《合》1803［宾三］）——（先王）羌甲会加害于我吗？</blockquote>
+<p>我 *ŋˤajʔ 则经常用于指代商朝本国，相当于第一人称复数“我们（国家）”：</p>
+<blockquote>丙子卜，韦贞：我受年？二告。（《合》5611 正）——我们（国家）会丰收吗？<br>土方征于我东鄙，哉二邑。（《合》6057 正）——土方入侵我国东部边境。</blockquote>
+<p>卜问丰收的“受年”是针对邦国土地而言的，而“我东鄙”是“我”修饰“东部边境”的领属关系。两处的“我”都指“商朝”这个国家。这是“余”所没有的功能。</p>
+<p>而后世写作 吾 *ŋˤa 的这个第一人称代词，不见于甲骨文，也没有被表记为其他字的用例。殷商时期书面与口语尚未分离，卜辞基本反映当时的语言（尹洁 2023），如“戊戌，永贞，今日其夕风?”，语气自然、口语意味极强。因此“吾”的缺席应当表明当时第一人称代词的生态位主要是由“余”承担的。那么它的来源是什么？又为什么能取代从原始汉藏语继承的“吾”？</p>
+<p>关于“余”的词源，由于藏缅语中没有形式类似的人称代词，学界基本不认为它是直接从原始汉藏语继承来的。那么它从何而来？<strong>笔者个人认为</strong>，它是原始汉语时期由近指示词语法化而来的新兴人称代词。相同形式的近指示词在藏缅语的 Tani 语支、中部 Naga 语支、Karbi 语支和 Bodo-Garo 语支也存在。在 Bodo-Garo 语支的 Deori 语中，la 与 ba 分别为近指示词和远指示词，主要用作定语。ba 在音韵上和功能上都与上古汉语的远指示词 夫 *[b]a、彼 *pajʔ 极其相似，并且与它们一样引申出了第三人称代词的功能（Brown 1895）：</p>
+<blockquote>ba jupo-yo chiti chu dui na?<br>那 树 -GEN 果子 好 COP Q<br>“那棵树的果子好不好？”<br>ba Tezpur-chápi khoi.<br>他 Tezpur-ABL 来<br>“他从 Tezpur 来。”</blockquote>
+<p>la 的语法化程度则不及 ba。不充当定语时，必须与名词化后缀 -shi 结合才能充当主语。“la-shi”相当于“这个”：</p>
+<blockquote>la mushu meba, ba lipedru ketenga.<br>这 牛 肥 那 羊 瘦<br>“这头牛肥，那头羊瘦。”<br>la-shi a-yyo nyá.<br>这 -NMLZ 1SG-GEN 房子<br>“这个是我家。”</blockquote>
+<p>这样的分工暗示 la 的本职是近指示词，而晚商的“余”是其语法化的结果。从跨语言的角度看，近指示词容易发展为第一人称代词。韩语提供了一套演变中的平行案例：现代韩语以指示词 i（이，近指）、ku（그，中指）、ce（저，远指）分别与处所名词 eki、kos 或方位名词 ccok（쪽）、phyen（편）结合，派生出跨全部人称的指称形式（Siriwittayakorn &amp; Rhee 2025）。其中近指的 yeki 本义为“这个地方”，可直接指说话人：</p>
+<blockquote>Ney, yeki chengca twu kap-man cwu-sey-yo.<br>是，我（＝这个地方） 青瓷 二 盒 -FOC 给 -HON-POL<br>“是的，请给我两盒青瓷烟。”</blockquote>
+<p>中指的 kuccok 指听话人或第三方，而凡带远指 ce 的形式则只能指第三人称。Siriwittayakorn 与 Rhee（2025）对此的解释是：近指示词的语义锚点是说话人自身，指称范围仅限于此，故指代第一人称。远指示词只能指称离说话人、听话人都远的实体，故指代第三人称。日语中 kochira／sochira／achira 本是近／中／远指的方位指示词，后用作第一／第二／第三人称代词，也是同理。Deori 语的 ba 已经演化出了第三人称代词的用法，la 则仍为近指示词。上古汉语的情况可能恰好相反，余 *la 先语法化为人称代词、将“吾”的地位边缘化，而远指的“夫”“彼”一支则较晚才发展出第三人称代词的用法。</p>
+<p>那么为什么与“吾”同出一源的 我 *ŋˤajʔ 得以存续？</p>
+<p><strong>二、“我”的存续</strong></p>
+<p>从词源上看，“我”是“吾”的强调式。根据 Matisoff（2003），我 *ŋˤajʔ 的韵尾 *-jʔ 是一个语音上已经弱化的强调成分，其独立成词的同源词是上古汉语的焦点标记 唯 *ɢʷij（甲骨文中字形为“隹”“叀”“惠”），而这个 唯 *ɢʷij 又来自原始汉藏语的系词 *way。</p>
+<p>在原始汉藏语或者原始汉语时期，由于基本语序为 SOV，系词 *way 总是位于句末或被强调成分的右侧。当这个系词作用于第一人称代词 *ŋa 时，会构成“ŋa＋way”的强调结构，即“（正）是我……”。而后系词 *way 弱化为 *-y，与 *ŋa 合音，得到 *ŋa-y。至晚商时期，这个强调式演变为 我 *ŋˤajʔ。没有依附于人称代词的 *way 以焦点标记 唯 *ɢʷij 的形式继续存在，但是因为汉语语序 SVO 化的缘故，它被移到了被强调成分的左侧，如甲骨文中的“隹 + 施事”和“隹 + 受事”强调句：</p>
+<blockquote>隹王自征。（《合》7618）——是王亲自征伐，强调“王”<br>王叀龙方伐。（《合》06476）——王要征伐的是龙方，强调“龙方”</blockquote>
+<p>唯 *ɢʷij 的焦点标记用法一直沿用到战国时期。从战国开始，“唯”开始转变为范围副词“只有……”，也就是现代汉语“唯有”一词的前身。焦点标记的用法从口语中消失：</p>
+<blockquote>父母唯其疾之忧。（《论语·为政》）——父母担心的是子女的疾病，强调“其疾” <br>且曰：“吾已，无为为善矣，唯夫子知我。”（《左传·昭公十三年》）——只有夫子您了解我，范围副词</blockquote>
+<p>除了第一人称代词以外，强调成分 *-j(ʔ) 也见于其他功能词，包括上文提到的远指示词 彼 *pajʔ。从语气来看，这些功能词中，带 *-j(ʔ) 的变体都强于基式：</p>
+<table>
+<tbody>
+<tr><th>词类</th><th>基式</th><th>带 *-j(ʔ) 式</th></tr>
+<tr>
+<td>第一人称代词</td>
+<td>吾 *ŋˤa</td>
+<td>我 *ŋˤajʔ</td>
+</tr>
+<tr>
+<td>远指示词</td>
+<td>夫 *[b]a</td>
+<td>彼 *pajʔ</td>
+</tr>
+<tr>
+<td>指别疑问代词</td>
+<td>胡 *[g]ˤa</td>
+<td>何 *[g]ˤaj</td>
+</tr>
+<tr>
+<td>否定词</td>
+<td>無 *ma</td>
+<td>靡 *m(r)ajʔ</td>
+</tr>
+<tr>
+<td>推测 / 反诘语气副词</td>
+<td>其 *gə</td>
+<td>豈 *C.qʰəjʔ</td>
+</tr>
+</tbody>
+</table>
+<p>而这种“基式 / 带 *-j(ʔ) 式”的对立不是上古汉语内部的孤立现象。据 Matisoff（2003），系词 *way 在许多藏缅语里都与人称代词、疑问词、体标记等功能成分融合，留下了成对的反映：</p>
+<table>
+<tbody>
+<tr><th>词类</th><th>基式</th><th>带 *-y 式</th></tr>
+<tr>
+<td>第一人称代词</td>
+<td>*ŋa &gt; 藏语 ŋa、Nung ŋa、缅语 ŋa、拉祜语 ŋà</td>
+<td>*ŋa-y &gt; 景颇语 ŋāi “我”、Meithei ei “我”、Lushai ngei “自己”</td>
+</tr>
+<tr>
+<td>疑问语气词</td>
+<td>*la（yes / no 问句末，相当于“吗”）&gt; 缅语 lâ、Newar lā</td>
+<td>*la-y（wh- 问句末）&gt; 缅语 lê、Newar le</td>
+</tr>
+<tr>
+<td>起始体标记</td>
+<td>*sa（表第一人称的意图、将行）&gt; 拉祜语 šā</td>
+<td>*sa-y（动作尚未发生、未进行到底，或有先决条件）&gt; 拉祜语 šē</td>
+</tr>
+<tr>
+<td>指别疑问代词</td>
+<td>*ka &gt; 拉祜语 qhà “哪个、什么”</td>
+<td>*ka-y &gt; 拉祜语 qhe “像、如此”、qhà-qhe “怎样”</td>
+</tr>
+<tr>
+<td>事物疑问代词</td>
+<td>*ba ⪤ *ma &gt; 缅语 bha、拉祜语 à-ma、Dimasa ba-ra “哪里”、ba-khali “何时？”</td>
+<td>*ba-y ⪤ *ma-y &gt; 缅语 bhai-hma “哪里？”、bhai-lok “多少”、bhai-su “谁”、bhai-kui “往哪”</td>
+</tr>
+</tbody>
+</table>
+<p>当强调式产生后，“吾”和“我”开始被视作两个不同的词干，并逐步通过异干互补分化为单数和复数的第一人称代词。所谓异干互补，是指一个词的不同语法形式，由两个或多个来源不同的词干分别承担，好比英语动词 go 的过去式 went 是来自古英语的另一个动词 wendan，跟 go 没有直接的屈折关系。在上古汉语的情况中则是第一人称复数用“我”、单数用“余”。关于人称代词的单复数互补，可参看笔者的另一篇文章：</p>
+<p>原始汉语真是屈折语吗？ - 陈麟阁的回答 - 知乎</p>
+<p><a class="internal" href="https://www.zhihu.com/question/526238489/answer/2050732858998780443">原始汉语真是屈折语吗？</a></p>
+<p>（此文更新于 8 月 29 日，增补了音韵学和比较语言学的内容。针对读者反馈的费解之处，添加了更加详细的论述。篇幅由 1.8 万字增加至 6.6 万字。）</p>
+<p>一旦“我”被确立为第一人称复数，而单数的生态位先后由“余”占据，那么“余”和“我”就分属不同的数，形成了稳定的互补分布，不再像“吾”“我”那样构成竞争关系。所以在晚商到西周这段“余”主导单数的时期，“我”凭借复数的生态位稳定地保存了下来。这种现象在其他语言中也存在。比如日语的第一人称 ware “我”本来可以单指自己，如今单数用法已被 watashi、boku、ore 等新形式取代，只保留在庄重语体里。但是其复数形式 wareware 一直沿用至今，常见于演说和公文。旧形式在高频的单数位置上被排挤、却在复数位置上保留下来，正是“吾”“我”这两个代词所经历的。而这样的分工也为东周以后“我”重新进入单数、取代其他人称代词奠定了条件。</p>
+<p><strong>三、“我”的兴起</strong></p>
+<p>从类型学的角度看，一门语言人称代词的更替呈现出两个常见的趋势：其一是强调式取代基式，其二是复数形式取代单数形式。“我”既是“吾”的强调式，又充当第一人称复数，恰好同时满足了这两个条件。</p>
+<p>其一，强调式取代基式。语气较重的强调式之所以会取代语气较轻的基本形式，Haspelmath（1999）给出的动因是“张扬准则”（Maxim of Extravagance），即说话人为了引人注意，偏好使用新兴的表述方式。当这类说法在群体中扩散、变得高频后，便失去当初的语用醒目性，降格为中性的常规形式，原有的常规形式则被取代。强调式正是这样一种“张扬”的说法：它原本带有额外的强调义，反复使用后强调义被磨蚀，于是蜕变为普通形式，顶替了原来的基式（Haspelmath 1999: 1062）。</p>
+<p>英语反身代词 himself 的产生，就来自这个机制。现代英语的反身代词 himself 是古英语人称代词 him 与强调成分 self 融合的结果。在古英语中，self 是一个独立成词的强调性反身成分（emphatic reflexive element），相当于“（他）本人”，可独立充当主语：</p>
+<blockquote>Selfa ne dorste<br>本人.NOM NEG 敢.PST.3SG<br>“（他）本人不敢”（Beowulf 1468）</blockquote>
+<p>也可以紧跟人称代词构成同位结构，表示“他本人”：</p>
+<blockquote>swā hē selfa bæd<br>如 3SG.NOM 本人.NOM 嘱.PST.3SG<br>“正如他本人所嘱”（Beowulf 29）</blockquote>
+<p>而现代英语里反身代词 himself 的功能，在古英语中用光杆的 him 实现：</p>
+<blockquote>þonne bið on hreþre under helm drepen biteran stræle —— him bebeorgan ne con<br>于是 COP.3SG 上 胸.DAT 下 头盔.DAT 击中.PST.PTCP 利.DAT 箭.DAT —— 3SG.DAT 防护.INF NEG 能.PRS.3SG<br>“于是，在头盔之下，他的心口被一支利箭射中——他无法防护自己。”（Beowulf 1745–1746）</blockquote>
+<p>此后，self 作为强调成分的用法退出了口语。现代英语中 self 只能充当前缀（比如 self-aware “有自我意识的”）或者名词（inner self “内在的自我”），作为主语或宾语则不再合法（*Self dare not）。与此同时，与 him 结合而成的新兴形式 himself 为人们所偏好，顶替了原本的光杆形式 him，成为了常规的反身代词。现代英语要表达“他保护自己”时使用反身代词 himself，不能用 him：</p>
+<blockquote>He protects himself.<br>*He protects him.</blockquote>
+<p>这跟上古汉语的情况极其相似：作为独立强调成分的 唯 *ɢʷij 流变为范围副词后，它与第一人称代词 吾 *ŋˤa 的融合形式 我 *ŋˤajʔ 流传了下来；光杆形式 吾 *ŋˤa 被顶替，我 *ŋˤajʔ 成为了常规的第一人称代词。</p>
+<p>除了人称代词以外，远指示词的强调式 彼 *pajʔ 取代了光杆形式 夫 *[b]a；疑问代词的强调式 何 *[g]ˤaj 取代了光杆形式 胡 *[g]ˤa。可见“强调式取代基式”在上古汉语的代词中经常发生。</p>
+<p>其二，复数形式窄化为单数形式。这是代词更迭的又一常见走向。以印度 - 雅利安语为例：中古印度雅利安语的第一人称代词分为单数形式 ahaṃ（主格）／mae（斜格）和复数形式 amhe。其后代之一标准印地语继承了第一人称单数的斜格形式 maĩ（&lt; mae）和第一人称复数 ham（&lt; hama &lt; amhe），属于规则的保留。印地语的近亲博杰普里语本来也应该如此，但是它却把 ham 挪作了第一人称单数形式。真正要表达第一人称复数时使用的是“我 + 人”的分析形式 ham log（Verma 2003: 576–577）：</p>
+<table>
+<tbody>
+<tr><th>语言</th><th>第一人称单数</th><th>第一人称复数</th></tr>
+<tr>
+<td>古印度 - 雅利安语（梵语）</td>
+<td>ahám（主格）／mayā（斜格）</td>
+<td>asmán</td>
+</tr>
+<tr>
+<td>中古印度 - 雅利安语</td>
+<td>ahaṃ（主格）／mae（斜格）</td>
+<td>amhe</td>
+</tr>
+<tr>
+<td>标准印地语</td>
+<td>maĩ（&lt; mae）</td>
+<td>ham（&lt; hama &lt; amhe）</td>
+</tr>
+<tr>
+<td>博杰普里语</td>
+<td>ham（&lt; hama &lt; amhe）</td>
+<td>ham log（&lt; ham + log “人”）</td>
+</tr>
+</tbody>
+</table>
+<p>这就是复数窄化为单数的趋势。并且我们可以看出，当第一人称代词的复数形式被挪作单数时，原本的第一人称复数位置产生了空缺。在博杰普里语的案例中，填补它的是分析形式 ham log。一些博学的读者会联想到中古汉语的“我门”：当上古汉语的“我”窄化为单数后，中古时期由“宗派、家庭”义虚化而来的“门”与“我”结合，产生了“我门”的表达，填补了复数的空缺。最迟到南宋时期，“我门”的表达已经出现。下面四例正可见“门”从“宗派、家庭”义逐步虚化的轨迹：</p>
+<blockquote>孔门教人。（《朱子语类·卷四十三》） <br>如何聘向他门。（《敦煌变文·丑女缘起》） <br>他门取了富贵，做了好官。（《道山清话》） <br>（末）我门不认得你。（净）不认得我？（《张协状元》）</blockquote>
+<p>“孔门”指“孔氏学派”，“聘向他门”的“门”指“他们家”。随后“他门取了富贵”中“门”转而指代“那群人”。最后“我们”也意为“我们这群人”。这个“我门”就是现代汉语的“我们”的前身。ham log 之于 ham，正如“我们”之于“我”。</p>
+<p>以上两个趋势是“我”成为主流人称代词的主要动因。那么除了“我”以外的其他人称代词是什么时候被“我”取代的？</p>
+<p>王力认为“我”“吾”在同一文献中共现是书面语的仿古用法，中古时期口语中“吾”已经消失（王力 1958）。向熹（2010）认为大约东晋以后“吾”在口语里已经被“我”排斥（向熹 2010）。朱庆之（2012）进一步指出，由于书面语的滞古（缘于汉代的言文分离），大量口语中早已弃置不用的表达仍会长期留存于文言文，因此要判断“我”何时真正取代“吾”，必须考察语体偏向口语的文献。他将传世文献分为本土文献与翻译佛经两类。翻译佛经出自西域译师之手，面向广大信众，浅白易懂、多用口语，因此比文言色彩浓厚的本土文献更接近口语语料。之后，他将第一人称代词分为两组：“我”单独为一组，“吾”“卬”“余”“予”“朕”“台”等古奥形式合并为“吾组”，再按两组代词的出现次数，把汉代文献分为四型：A 型只用“我”、不用“吾组”；B 型只用“吾组”、不用“我”；AB 型两者混用，而“我”多于“吾组”；BA 型也两者混用，而“吾组”多于“我”。基于这种分类，对汉代文献人称代词使用情况的统计结果如下：</p>
+<table>
+<tbody>
+<tr><th>汉代语料</th><th>有效篇数</th><th>AB 型（“我”多于“吾组”）</th><th>BA 型（“吾组”多于“我”）</th><th>A 型（只用“我”）</th><th>B 型（只用“吾组”）</th></tr>
+<tr>
+<td>本土文献（文言）</td>
+<td>26</td>
+<td>6 部（23.1%）</td>
+<td>19 部（73.1%）</td>
+<td>1 部（3.8%）</td>
+<td>0 部（0%）</td>
+</tr>
+<tr>
+<td>翻译佛经（口语）</td>
+<td>34</td>
+<td>8 部（23.5%）</td>
+<td>1 部（2.9%）</td>
+<td>23 部（67.6%）</td>
+<td>2 部（5.9%）</td>
+</tr>
+</tbody>
+</table>
+<p>在翻译佛经中，通篇只用“我”的 A 型篇目占三分之二（67.6%），在文言本土文献中则极少（3.8%）；反过来“吾组”多于“我”的 BA 型篇目，本土文献中占近四分之三（73.1%），佛经几乎没有（2.9%）。两类语料的分布几乎相反，说明“吾组”的优势只存在于文言、属仿古，口语里“我”其实早已独用。据此，朱庆之判定“吾”“卬”“余（予）”“朕”“台”等古奥形式基本退出口语、第一人称代词由“我”主导的格局，最晚在东汉（25–220）已经成型。</p>
+<p>综上，“我”之所以能从一众人称代词中脱颖而出，前后经历了三步：其一，晚商之前，新兴的“余”挤占了基式“吾”的单数生态位；其二，晚商到西周，“余”主导单数，“我”退守第一人称复数。两者按数分工、稳定互补，“我”因而躲过了单数上的词干更替；其三，东周以后，两条趋势同时推动“我”的流行：一是以强调式顶替基式，二是复数形式窄化、并吞单数，导致“我”取代了其他所有第一人称代词形式。到东汉时期，这一更替在口语中已经完成。其他所有人称代词都退守为文言文中的仿古形式，而“我”最终成为汉语主流的第一人称代词。</p>
 <hr>
-<p>11.6 日更新</p>
-<p>说起另一个故事，有一个很好的建筑案例。</p>
-<p>乐山大佛，大家都知道。</p>
-<p>唐代的民间建筑。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0f2b0a3b468f81af36895713b841ee5_720w.jpg?source=8673f162" alt=""></figure>
-<p>这大佛像高 71 米，是古代世界最大的佛像。</p>
-<p>但其实人家是一个建筑。</p>
-<p>唐代的乐山大佛，表面是贴金箔的，然后用一座巨型佛阁把山体和佛像给罩住的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e0319d60c636f1a951cc9518497a2d14_720w.jpg?source=8673f162" alt=""></figure>
-<p>这佛阁最早被称为凌云阁，大概八九十米高，加上顶，就破百米了。</p>
-<p>然后……蒙宋战争中，被蒙古毁掉了。</p>
-<p>烧了之后，历朝历代均有重修。</p>
-<p>明末……又被毁掉了。</p>
-<p>清朝再重修，第一次修，十三层的大楼变成了七层，也没包裹山体。</p>
-<p>然后不知什么时候，又毁了……改重修就成了一座小庙……</p>
+<p><strong>主要文献</strong></p>
+<p>[1] Brown W B. An Outline Grammar of the Deori Chutiya Language Spoken in Upper Assam: With an Introduction, Illustrative Sentences, and Short Vocabulary[M]. Shillong: Assam Secretariat Printing Office, 1895.</p>
+<p>[2] Verma M K. Bhojpuri[M]//Cardona G, Jain D (eds.). The Indo-Aryan Languages. London: Routledge, 2003: 566–589.</p>
+<p>[3] Haspelmath M. Why is grammaticalization irreversible?[J]. Linguistics, 1999, 37(6): 1043–1068.</p>
+<p>[4] Matisoff J A. Handbook of Proto-Tibeto-Burman[M]. Berkeley: University of California Press, 2003.</p>
+<p>[5] Sagart L. The Roots of Old Chinese[M]. Amsterdam/Philadelphia: John Benjamins, 1999.</p>
+<p>[6] Siriwittayakorn T, Rhee S. Functional extension of demonstratives: the case of person reference in Thai and Korean[J]. Australian Journal of Linguistics, 2025, 45(2): 143–168.</p>
+<p>[7] Djamouri R. Evolution of the personal pronoun system in Archaic Chinese (14th–3rd c. BC)[C]. Symposium on Morphosyntactic Changes in Chinese. Santa Barbara: University of California, 1997.</p>
+<p>[8] 吕秋岩. 从甲骨文看第一人称代词“余”“朕”“我”的谦敬功能[J]. 语言与文化研究, 2023(2): 32–38.</p>
+<p>[9] 王力. 汉语史稿[M]. 北京: 中华书局, 1958: 268.</p>
+<p>[10] 向熹. 简明汉语史[M]. 北京: 商务印书馆, 2010: 下册 355–356.</p>
+<p>[11] 尹洁. 书面语与口语的源与流——文与言判 雅俗殊形[N]. 光明日报, 2023-04-09(05).</p>
+<p>[12] 朱庆之. 上古汉语“吾”“予 / 余”等第一人称代词在口语中消失的时代[J]. 中国语文, 2012(3): 195–210.</p>
+<hr>
+<p><strong>例句标注缩写</strong></p>
+<p>文中例句注解依照 Leipzig Glossing Rules。连字符 - 标记词缀边界，句点 . 连接融合在一起的多项语法范畴（如 敢.PST.3SG）。其他所用缩写如下：</p>
+<table>
+<tbody>
+<tr><th>缩写</th><th>英文</th><th>中文</th></tr>
+<tr>
+<td>1 / 2 / 3</td>
+<td>first / second / third person</td>
+<td>第一 / 二 / 三人称</td>
+</tr>
+<tr>
+<td>SG</td>
+<td>singular</td>
+<td>单数</td>
+</tr>
+<tr>
+<td>ABL</td>
+<td>ablative</td>
+<td>离格</td>
+</tr>
+<tr>
+<td>COP</td>
+<td>copula</td>
+<td>系词</td>
+</tr>
+<tr>
+<td>DAT</td>
+<td>dative</td>
+<td>与格</td>
+</tr>
+<tr>
+<td>FOC</td>
+<td>focus</td>
+<td>焦点</td>
+</tr>
+<tr>
+<td>GEN</td>
+<td>genitive</td>
+<td>属格</td>
+</tr>
+<tr>
+<td>HON</td>
+<td>honorific</td>
+<td>敬称</td>
+</tr>
+<tr>
+<td>INF</td>
+<td>infinitive</td>
+<td>不定式</td>
+</tr>
+<tr>
+<td>NEG</td>
+<td>negation</td>
+<td>否定</td>
+</tr>
+<tr>
+<td>NMLZ</td>
+<td>nominalizer</td>
+<td>名物化</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>nominative</td>
+<td>主格</td>
+</tr>
+<tr>
+<td>POL</td>
+<td>polite</td>
+<td>礼貌</td>
+</tr>
+<tr>
+<td>PRS</td>
+<td>present</td>
+<td>现在时</td>
+</tr>
+<tr>
+<td>PST</td>
+<td>past</td>
+<td>过去时</td>
+</tr>
+<tr>
+<td>PTCP</td>
+<td>participle</td>
+<td>分词</td>
+</tr>
+<tr>
+<td>Q</td>
+<td>interrogative</td>
+<td>疑问</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/20541177">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/48030325">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793322</guid>
-                <pubDate>Sun, 18 Oct 2026 19:58:06 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793351</guid>
+                <pubDate>Mon, 19 Oct 2026 02:53:02 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么有些博物馆不允许使用闪光灯拍照？</title>
-                <link>http://daily.zhihu.com/story/9793330</link>
-                <description>Anon，傻狗 查看知乎原文 这里需要澄清下，尽管历史上爆闪的确有紫外成分[1]，但“紫外影响”理论现在并不成立。因为虽然氙气放电本身覆盖了一定的紫外区间（甚至申至到 UVC）[2]，但当代机顶闪光灯早就把辐射源以硼硅酸盐玻璃等紫外隔绝材料包裹起来，因此在市面找具有紫外辐射的闪光灯才是个难活[3][4]，比如下图展示了诸多闪光灯辐射光谱之一，可见其在 400nm 左右就隔绝了，紫外成分达不到光谱仪…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-8866fafc23e934679905c3299c38878e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>现代有哪些小病，在古代却是绝症？</title>
+                <link>http://daily.zhihu.com/story/9793360</link>
+                <description>Mr深水聊医史，老媒人 书虫 医史研究僧 查看知乎原文 今天临床上有一种皮肤病，叫“急性蜂窝织炎”，就是皮肤粘膜损伤后引发病菌感染发炎 这点儿问题搁在今天都不用住院，在门诊上清创、引流、杀菌、包扎一套下来 15 分钟就可以回家了。接下来按时来换个药，一周时间差不多就好了 但这个问题搁在古代，那可真的是“十死一生”的存在，其死亡率甚至高于“肺结核” 因为“急性蜂窝织炎”在古代有一个更为恐怖的名字——…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-ae1808246f9109085918b2dad00976da.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -373,60 +486,81 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-aeecc41b59b553adc7f4ea5003d25805_l.jpg?source=8673f162">
-<span class="author">Anon，</span><span class="bio">傻狗</span>
-<a href="https://www.zhihu.com/question/2078076284068950983/answer/2079733752826180748" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-ee2b7377bf0a848646bd00c3293a770a_l.jpg?source=8673f162">
+<span class="author">Mr深水聊医史，</span><span class="bio">老媒人 书虫 医史研究僧</span>
+<a href="https://www.zhihu.com/question/2069061424895284498/answer/2069132572425298379" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>这里需要澄清下，尽管历史上爆闪的确有紫外成分<sup>[1]</sup>，但“紫外影响”理论现在并不成立。因为虽然氙气放电本身覆盖了一定的紫外区间（甚至申至到 UVC）<sup>[2]</sup>，但当代机顶闪光灯早就把辐射源以硼硅酸盐玻璃等紫外隔绝材料包裹起来，因此在市面找具有紫外辐射的闪光灯才是个难活<sup>[3]</sup><sup>[4]</sup>，比如下图展示了诸多闪光灯辐射光谱之一，可见其在 400nm 左右就隔绝了，紫外成分达不到光谱仪的最低检测阈值。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4bb76a0b6e0ae328158308ff5311b81b_720w.jpg?source=8673f162" alt=""><figcaption>笔者测试数据</figcaption></figure>
-<p>至于手机，大多数手机是根本没有传统意义闪光灯的，很多手机上的闪光灯和手电筒是同一个口，本质上就是多给手电筒喂点电并在很短时间里激发，让其在这个极端的时间里具有高出平常的功率<sup>[5]</sup>。而手机手电筒目前似乎没有例外的都是 LED，LED 蓝色部分的光谱峰值在 440–460 nm，并在 400nm 左右出现隔绝，即其基本可以视为无 UV 辐射。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ecb583faea0f96a42187e4e28fc34ae1_720w.jpg?source=8673f162" alt=""><figcaption>图片来自 comsol.com</figcaption></figure>
-<p>但紫外线在这里其实无所谓，因为对于文物，尤其是色素类，可见光谱下的持续辐射本身就能对其造成伤害，根本都不需要紫外来干活。</p>
-<p>即博物馆营业间自己用的聚光灯就在缓慢的造成文物褪色恶化<sup>[6]</sup>，而且这些博物馆内聚光灯造成的文物恶化实际上和闪光灯不断爆闪其实程度相当<sup>[7]</sup>，何况博物馆自己在数字化文物时也在用闪光灯<sup>[8]</sup>。从这几个事实能进一步推导出：</p>
-<ul>
-<li>如果是为了保护文物防止恶化，那么文物根本就不应该被展出</li>
-<li>对于已经被展出的文物，有没有闪光灯并不会造成多大区别</li>
-</ul>
-<p>换言之，仅从防光照恶化、展品保护角度来看，禁止闪光灯其实是站不住脚的。</p>
-<p>所以博物馆多禁止闪光灯的原因不应该从光学和化学层面来解释，而应该从社会学和管理学来分析；其原理和那个垃圾熊笑话一样：</p>
-<blockquote>Yosemite 国家公园里的熊学会了跟浣熊一样翻垃圾桶，有人问为啥不设计一种复杂些的只有人知道怎么打开的垃圾桶。护林员的回复是：最聪明的熊 与 最愚蠢的游客 二者智力有一个巨大的重叠区间。<br><strong>There is considerable overlap between the intelligence of the smartest bears and the dumbest tourists</strong>.</blockquote>
-<p>我没有运营过博物馆，但我做过数个美术展的布置和幕后，学到的最深刻的道理就是指望谁都不能指望观众，展出不对行为和随身物品加硬限制的话一定会有观众来整活。读者如果不是第三产业从业人员、没有接触社会各界人士机会的话，那可以尝试在知乎或类似平台上开始创作，很快就能从自己的评论区里领会到人类这个物种的多样性，以及“信任他人都具有基础常识和思考能力”是一个在统计学上多么欠佳的决定。</p>
-<p>George Carlin 在这个话题上这么说过：“想想一个普通人(average person)有多蠢，再想想世界上一半的人比他还蠢”。这话听起来比较夸张，但由于人类智力是正态分布的，智商的均值就是中值，所以这句话还真没啥问题。只是智力欠发展也就算了，更要命的是大众里的很多人还很扯淡 ("full of shit")。所以如果闪光灯不被限制，会出现以下情况：</p>
-<ul>
-<li>小仙女拿着个 instax11 入场，倒是没拍文物，但是每三米一停，开着闪光灯自拍</li>
-<li>三个名媛一起租了个 X100V 入场，倒是没拍文物，但是每三米一停，开着闪光灯摆 pose 轮流拍照，然后叽叽喳喳开始讨论，导致博物馆被投诉不良环境</li>
-<li>某舔狗拿了个 XE5 插着闪光灯跟女神入场，然后喜提 0.025%概率触发了场内另一人的闪光灯诱导癫痫发作<sup>[9]</sup>，哎？他女神呢？</li>
-<li>某小伙双肩带着一个 5D3 一个 SR 入场，每个都插带一神牛 V，然后不知何时一个灯掉了，小伙立刻报警声称“贵重物品于博物馆内失窃”然后开始到处咋呼到处跑，20 分钟后博物馆外乌拉乌拉开始响，半天都不宁静</li>
-<li>某大哥带了个机顶闪光灯还配了个外置的 AD200 进场，每次使用都会对 15 米半径内人员造成 30 秒的致盲效果</li>
-<li>某大哥带了个插着 AD400Pro 的脚架进场，然后半路没注意，脚架一甩把雕塑展品给打地上碎了</li>
-<li>某大哥带了俩 AD600Pro 进场，逛了一会儿进厕所，把这对灯拆开，掏出一堆零件，20 秒后出现了一把 Glock 19</li>
-</ul>
-<p>如果是个极其富有的博物馆，门口有严格安检，场内每房间都有站岗的安保，并且日间营业期间有执照医师全覆盖，那么上述场景发生概率会小很多。但是对于绝大多数博物馆，这种条件是遥不可及的，很大概率整个建筑就一个保安负责安全，那么上述场景的出现就只是个时间问题。</p>
-<p>然后你猜，出问题了谁负责？答案不是游客，游客永远不会负全责，因为能带闪光灯可是你博物馆说的，我带的可不就是闪光灯么？但是博物馆只是一个概念，即便是负了主责，处罚最终依然会落到具体的个人身上。然后你猜这些人如果没被解雇，会不会在入场条款里加一个“禁止带入 / 使用闪光灯”？</p>
-<p>所以这个问题就好像你不舒服，去医院，然后医院给你开了血检 B 超 X 光，你问医生“大夫，这些检查真的有必要吗？”，然后医生打头第一句：“<strong>你问我那我肯定说有必要</strong>，但如果我有这些症状的话……”。</p>
-<p>所以你问我为什么博物馆不让你用闪光灯我肯定说是因为闪光灯有紫外线，对文物不好……</p>
+<p>今天临床上有一种皮肤病，叫“急性蜂窝织炎”，就是皮肤粘膜损伤后引发病菌感染发炎</p>
+<p>这点儿问题搁在今天都不用住院，在门诊上清创、引流、杀菌、包扎一套下来 15 分钟就可以回家了。接下来按时来换个药，一周时间差不多就好了</p>
+<p>但这个问题搁在古代，那可真的是“十死一生”的存在，其死亡率甚至高于“肺结核”</p>
+<p><strong>因为“急性蜂窝织炎”在古代有一个更为恐怖的名字——痈疽</strong></p>
+<hr>
+<p>“疽”的死亡率我刚说了一句“十死一生”，这可不是扩大其辞，因为 2000 年前中医经典《黄帝内经》里白纸黑字写道：</p>
+<blockquote>“痈疽脓成，十死一生”</blockquote>
+<p>中国古代会用“九死一生”来形容某种疾病的凶险成都，而得了“痈疽”却是“十死一生”，可见这个危险程度是有多高</p>
+<p>事实上也是这样，中国历史上有史料记载死于“痈疽”的名人没有一打也有数十</p>
+<p>两汉时期的刘焉、刘表；隋唐时期的孟浩然、薛存庆；明清时期有张慎言、张宗琏</p>
+<p>大家看电视剧《康熙王朝》里的那个平台总督姚启圣，据记载也是死于痈疽</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c3d5102fcc383d5a626dc8016ec28e38_720w.jpg?source=8673f162" alt=""></figure>
+<p>这些是记载的有名有姓的社会上层，没名没姓的平头百姓得了痈疽死亡的那更是没法计了</p>
+<p>因为“痈疽”的杀伤力太过严重，所以古时候老百姓甚至会将患“痈疽”视为一种来自上天的“惩罚”</p>
+<p>史料记载高宗赵构害死岳飞的那个千古罪人秦桧，他最后就是死于“痈疽”</p>
+<p>秦桧死前浑身皮肤溃烂极为痛苦，所以后世老百姓就认为将秦桧患的是“痈疽”，并认为这是其构陷忠臣岳飞而遭受到的“天谴”。就是老天爷都看不过你陷害忠良，用最狠毒的疾病“疽”来惩罚你秦桧</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-882fd1e4be5ec06608c2f594241ed56b_720w.jpg?source=8673f162" alt=""></figure>
+<p>可见古时候老百姓对“疽”这种疾病有多么恐惧</p>
+<p>那么问题来了，为什么中医会对“痈疽”毫无办法呢？</p>
+<p>这就得看中医是如何人认识，又或者是如何解释“痈疽”的</p>
+<p>历史上第一个开始对“痈疽”进行病因研究的，是隋代的中医大师巢元方。巢元方在《诸病源候论》里第一次明确了“痈疽”的病因：</p>
+<blockquote>“五脏不调则致疽，疽者肿结皮，强如牛领之皮；六腑不和则致痈，痈者肿结薄以泽是也。......腑脏不调和而腠理开，受于风寒，折于血则结聚成肿，深则为疽，浅乃为痈”</blockquote>
+<p>巢元方认为“痈疽”的病因是五脏六腑不合，然后因为受了风寒然后向外散发的一种疾病</p>
+<p>熟悉中医史学的都知道，《诸病源候论》成书后一直传到两宋，是隋唐两宋三朝一共 700 年里的官制中医考试的“教学大纲”，所以其对“痈疽”病因的解释已经成为后世中医的铁则了</p>
+<p>如今我们都知道“痈疽”的病因是细菌感染，但由于中医没有相关的诊断技术，所以这种错尽错绝的认知根本无法帮助中医攻克“痈疽”</p>
+<p>错误的认知逻辑，其一路演化下来到临床方面自然就是错误的治疗</p>
+<p>南宋中医大家李迅曾经专门写过一本治疗“痈疽”的医书，叫《集验背疽方》，其中就记载了大量中医治疗“痈疽”的方子，随便摘抄几段：</p>
+<blockquote>破口：用猪蹄汤洗，其次连日洗；五日后，间日洗；欲安之际，三日一洗<br>流脓：碾大蒜十头，入淡豉半合、乳香一块如龙眼大，细碾，随疮头大小，用竹片作圈子，竹片阔二分许，随其大小顿在疮头上，将所碾药填平，铺艾灸之<br>流血：或五日、或七日后，用神异膏贴敷，若根脚小，五日后贴；如阔大，须七日、十日后可贴</blockquote>
+<p>你品、你细品，你确信李迅真的用这种东西给人治疗“痈疽”来着？这破烂玩意儿真的可以治好“痈疽”？这就是所谓的“博大精深”+“源远流长”？</p>
+<p>这还没完</p>
+<p>临床上“痈疽”并非是导致人死亡的直接原因，其死亡率居高不下的原因其实和中医的错误护理有直接关系</p>
+<p>举个例子，明朝开国元勋徐达就是死于“痈疽”</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-a4d136076e155304591eb3291c3ea79d_720w.jpg?source=8673f162" alt=""></figure>
+<p>徐达从患病到死亡一直坚持了半年多时间，那这半年时间里徐达都做了什么？</p>
+<p>答案是——终日卧床</p>
+<p>因为缺乏现代科学的护理知识，当时的中医给徐达的诊疗内容之一，就是让徐达卧床休息</p>
+<p>你可想而知一个得了“疽”的人，整天的躺在床上，中医又不知道给病人翻身、杀菌、消毒、换床单，卧床久了肯定会得褥疮，出现血液被感染</p>
+<p>所以徐达极大概率是死于褥疮导致的败血症</p>
+<p>这也是为什么一直到今天单凭中医依然无法攻克“痈疽”的重要原因</p>
+<p>从疾病病因的确定、到治疗、到护理等整个流程，中医全程无能，这才是导致一个皮肤上的小囊肿，最后导致人死亡的根本原因</p>
+<hr>
+<p>说到这你会发现，mr 深水不单纯的是回答题主的问题，而是要借用这个回答给中医袪魅</p>
+<p>作为上古时代文明发展起来的传统医学，中医既不独特也不典型，它是所有文明在认知落后、知识闭塞、技术短板等时代局限条件下，演化出来的一种对疾病的——解释系统</p>
+<p>其特点在于逻辑内部自洽，但结论却缺乏验证，根本无法作为一种可靠的知识得到传承和继承</p>
+<p>所谓“博大精深”所谓“源远流长”，说到底的是文化层面的价值</p>
+<p>而其在医学层面的价值搁在今天，说句不好听的话：一分钱买仨，分文不值</p>
+<hr>
+<p>资料来源：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1db3433a9059b35814c97f3c3a7cf2aa_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2078076284068950983">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2069061424895284498">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793330</guid>
-                <pubDate>Sun, 18 Oct 2026 19:58:07 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793360</guid>
+                <pubDate>Mon, 19 Oct 2026 02:53:02 GMT</pubDate>
             </item>
             
             <item>
-                <title>语言学中有哪些类似「哈基米」的现象？</title>
-                <link>http://daily.zhihu.com/story/9793332</link>
-                <description>球滚鸮，只要你染上纵纹腹小鸮或帝企鹅或中华白海豚，你这辈子就完了 查看知乎原文 昨天刚跟朋友吐槽完这一点今天就被推了这个问题... 感光度→ISO。 然而 ISO 其实是 International Organization for Standardization——国际标准化组织的缩写，和“感光度”完全不沾边；更抽象的是，这个名为 ISO 的感光度标准其实根本不是 ISO 制定的…… 摄影胶片发…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0ee74e42f88f5eb7da37155f67b757a2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>瞎扯 · 如何正确地吐槽</title>
+                <link>http://daily.zhihu.com/story/9793370</link>
+                <description>瞎扯 · 你认为最失败的标志（ Logo ）设计有哪些？ 知乎日报 查看知乎原文 Q： 你认为最失败的标志（ Logo ）设计有哪些？ @希望你过的好 ：这题没它我是不服的，从盾牌换成指甲刀… Q：相关性很强，为什么仍不能说明因果关系？ @54 君 ：陈年老梗：海盗越少，全球变暖越严重 Q：现在豆包的水平到底如何？ @林小湛 ：之前脚崴了，问了它一些康复的问题。昨天我问他生姜的保存方法…… Q： …</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -441,52 +575,66 @@
 
 
 <div class="question">
-<h2 class="question-title"></h2>
+<h2 class="question-title">瞎扯 · 你认为最失败的标志（ Logo ）设计有哪些？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/8a71cb461_l.jpg?source=8673f162">
-<span class="author">球滚鸮，</span><span class="bio">只要你染上纵纹腹小鸮或帝企鹅或中华白海豚，你这辈子就完了</span>
-<a href="https://www.zhihu.com/question/1924037724484122124/answer/2030041767274337894" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>昨天刚跟朋友吐槽完这一点今天就被推了这个问题...</p>
-<p>感光度→ISO。</p>
-<p>然而 ISO 其实是 International Organization for Standardization——国际标准化组织的缩写，和“感光度”完全不沾边；更抽象的是，这个名为 ISO 的感光度标准其实根本不是 ISO 制定的……</p>
-<p>摄影胶片发展的早期曾出现过各种各样的感光度标准，后来（至少在西方世界）基本统一为两个主流标准：德国标准化学会 DIN 搞的对数标准（感光度增加一倍 DIN 值增加 3，跟分贝的定义差不多），和美国标准协会 ASA 搞的线性标准——对就是现在这个 100、200 的标准。很多老相机、测光表上都同时标注了这两个标准的感光度，有的还为此增加了不少设计复杂度和工序。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9db4c61a1815cf7a3cbfc32063dfe9c1_720w.jpg?source=8673f162" alt=""><figcaption>为了这一对笑面虎两头乌角鲨不惜开了 3 个窗口的徕卡 MC 测光表</figcaption></figure>
-<p>当然，不难注意到，平整的底片培养不出哈气的银盐，既然一张底片只有一个感光度，那多少个标准应该都可以查表换算才对啊。也确实是这样，（根据 1961 年修订后的 DIN 标准）DIN21=ASA100，DIN24=ASA200，DIN27=ASA400。1974 年，ISO 决定让胶卷领域书同文车同轨，但这 ISO 一寻思——我们得有一个国际标准，但偏袒谁都不好，直接把二位都放一作吼不吼啊？考虑到历史胜负关系是牢美 2-0 牢德，那就给牢美放一作一吧（大雾）</p>
-<p>所以胶片感光度的 ISO 标准是这样的：</p>
-<p>ASA100=DIN21=ISO100/21°</p>
-<p>ASA200=DIN24=ISO200/24°</p>
-<p>…</p>
-<p>双 重 标 准（字面意义）</p>
-<p>事实上目前大部分胶片的外盒上也确实是这么标的，严格执行国际标准嘛</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d1cbcdd27f76abaa918cc5afeffde63a_720w.jpg?source=8673f162" alt=""><figcaption>Fomapan 100 4x5 页片外盒标注的 ISO 100/21°</figcaption></figure>
-<p>但实际执行下来大家也发现这事没任何必要啊，杠后面的那块扔了完全不影响阅读，于是这个标准在许多非正式场合上又变成了…</p>
-<p>ASA100=DIN21°=ISO100/21°=ISO100</p>
-<p>ASA：孩子是我生的，怎么跟了你姓？</p>
-<p>DIN：那我呢？</p>
-<p>随着数码化时代的来临，感光度变成了和光圈、快门一样的一个可调节的参数，这个夺舍版的 ASA、简化版的 ISO 也就理所应当地上位了。另一件难绷的事是，ISO 制定感光度标准时针对的是【胶卷】感光度，对数码相机完全没有约束力，所以数码相机厂商这么断章取义甚至一个字都不需要动……</p>
-<p>其实到这一步倒是还行，被莫名其妙流变掉的只有一个 ASA 的名字。但是伟大的阳光十六法则的第一个字告诉我们，参数一定要是数，所以“ISO100”就被广大摄影佬理解成了一个名为“ISO”的参数，其值为 100……</p>
-<p>“ISO”被当成感光度的大名这件事造成了更多细究起来极具画面感的表述，比如“双原生 ISO”（ISO 严正声明：世界上只有一个 ISO）、“高 ISO 会导致高噪点”（论国际组织的发展对散粒噪声的影响.jpg）、“曝光三要素是快门光圈 ISO”……</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3b1d8c327b844017c1970c9c059e150a_720w.jpg?source=8673f162" alt=""><figcaption>ISO 组织成立于 1947 年，1946 年的照片.jpg （网图侵删）</figcaption></figure>
-<p>事已至此，“感光度”这三个字是再也说不出口了（悲</p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/20454540/answer/2052900502338327250"> 你认为最失败的标志（ Logo ）设计有哪些？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/07942088bb759610f1822b507396eab5" target="_blank">@希望你过的好</a></div>
+ ：这题没它我是不服的，从盾牌换成指甲刀…</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-83d16bdd1a788112b42fdb81a089959f_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2076625813806568909/answer/2081032068444721645">相关性很强，为什么仍不能说明因果关系？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1a467d131b2931bf97725060481a9c75" target="_blank">@54 君</a></div>
+ ：陈年老梗：海盗越少，全球变暖越严重</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-77964b401f4dd4d982288cedc7876447_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/6982580050/answer/2012933963124056572">现在豆包的水平到底如何？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/2b50769adf11e3f0403edfc804f0650b" target="_blank">@林小湛</a></div>
+ ：之前脚崴了，问了它一些康复的问题。昨天我问他生姜的保存方法……</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-dc507f1c3e0d94ae97fbf7921e036e3d_1440w.jpg" alt=""></div>
+</figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/287340738/answer/2074058497709424644"> 你见过最惊艳的公司名称是什么？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/bb080f6ed2b50583422dcec9ede6d2fa" target="_blank">@灯长明</a></div>
+ ：这个公司的原名能过审也是神奇，德州果然不养闲人</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-8c839b56371d86371355976981a407b9_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2041468209602225113/answer/2059154287914231723">四十多岁的女性难道就失去魅力了吗？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/af2119c35c3df36ed06bc989a738603e" target="_blank">@sam</a></div>
+ ：让老公帮忙拍照，嘱咐拍的年轻点。<br>结果，拍出来年轻 30 万岁。<br>刚看到评论区有人说像哈兰德，哈兰德是谁？</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-80ef74827dd436c461e938e597a21314_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<hr>
+<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
+<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
 </div>
 </div>
 
-
-<div class="view-more"><a href="https://www.zhihu.com/question/1924037724484122124">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793332</guid>
-                <pubDate>Sun, 18 Oct 2026 19:58:08 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793370</guid>
+                <pubDate>Mon, 19 Oct 2026 02:53:03 GMT</pubDate>
             </item>
             
     </channel>
