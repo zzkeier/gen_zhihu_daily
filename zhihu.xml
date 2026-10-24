@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Fri, 23 Oct 2026 20:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 02:56:59 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>为什么青铜器上的铭文被翻译成释文后，有一些是现在不存在的字？</title>
-                <link>http://daily.zhihu.com/story/9793453</link>
-                <description>黄佳智，公众号：在练 查看知乎原文 你说的是这样的字吗？ 实际上这些字都存在，只不过几乎不用。因为大多都有对应可以意思相近的字做替代。比如「舟关」这个字，就同「朕」。 那既然这样，为什么青铜铭文会直接用不常使用的字释文呢？ 这里面最主要的原因，就是古文字学家在考释过程中，对古文字采用了「隶定」这个操作。 所谓「隶定」，简单说，甲骨文、金文这些先秦文字，很多字形跟今天的楷书差着十万八千里。学者们为了…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-940b0858aeca9ec9a9575c74959c33a8.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>应县木塔作为「千年病人」，其修缮面临哪些核心技术难题？</title>
+                <link>http://daily.zhihu.com/story/9793466</link>
+                <description>知乎用户，见诸学 查看知乎原文 木塔修缮不是一道结构题，而是一场全科会诊，而目前我们的“生理学、病理学、药理学”三座基础学科大楼，还都没有完全盖成。 老患者与四张处方 或许需要再把病历念一遍。释迦塔建于辽清宁二年（1056 年），通高 67.31 米，外观五层，实为明层与暗层平坐交替叠置的九个结构层。现在的问题集中在二层明层：西南内、外槽柱框倾斜持续加剧，部分柱子明显歪闪，柱头普拍枋端部被压劈；全…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-1a7d1f6ef97752596f1e61a386300998.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,200 +31,113 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-772321737beb09bc1cd91167db398322_l.jpg?source=8673f162">
-<span class="author">黄佳智，</span><span class="bio">公众号：在练</span>
-<a href="https://www.zhihu.com/question/2023384004791943279/answer/2023455496430953024" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>你说的是这样的字吗？</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c655b07850c71ed1ba8ac92d2bf1f719_720w.jpg?source=8673f162" alt=""></figure>
-<p>实际上这些字都存在，只不过几乎不用。因为大多都有对应可以意思相近的字做替代。比如「舟关」这个字，就同「朕」。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-51eb608b98491865de940b199b68e8a6_720w.jpg?source=8673f162" alt=""></figure>
-<p>那既然这样，为什么青铜铭文会直接用不常使用的字释文呢？</p>
-<p>这里面最主要的原因，就是古文字学家在考释过程中，对古文字采用了「<strong>隶定」</strong>这个操作。</p>
-<p>所谓「隶定」，简单说，甲骨文、金文这些先秦文字，很多字形跟今天的楷书差着十万八千里。学者们为了能让后人写出来、方便讨论结构，就用隶书或楷书的样式，把那个古文字的形状「翻译」过来。</p>
-<p>举个简单的例子。</p>
-<p>西周《大盂鼎》上有这么一个字：</p>
-<p>左边是「又」（篆书里画得像一只手），右边是「每」。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3ab12dd9b94e075c508ff622f8daf111_720w.jpg?source=8673f162" alt=""></figure>
-<p>在没考证出它到底是什么字之前，学者只能把这两个已识别的部件组合起来，按楷书规范写成「<strong>每又」</strong>。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d027326ee0e317791bef57ca050a0907_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>那这个「每又」是什么意思呢？</strong></p>
-<p>先不慌，我把这个逻辑讲完。</p>
-<p>假定其他铭文都释读完了，这个时候就需要把它放进句子里看：</p>
-<blockquote>「每又」朝夕入讕「通“谏”」，享奔走，畏天畏「通“威”」。</blockquote>
-<p>得到大概的译文：</p>
-<blockquote>勤勉地早晚进谏，参与祭祀，为王事奔走。</blockquote>
-<p>再结合字形一比对，发现它其实就是「敏」字</p>
-<p>比如你看商代甲骨文，其实就是「每」+「又」的构成，只是到了战国这个字中的「又」的写法变成了「攴」，即后来的「攵」。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-14266e4c1daae93f18e8df498d0e835c_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>那既然已经释读出来读「敏」字，为什么不直接写「敏」？</strong></p>
-<p>这样的做法主要的原因有两个：</p>
-<ul>
-<li>能清晰地拆解古文字的部件组合，帮助研究者直观理解其构造逻辑和造字本意。</li>
-<li>还能清晰地揭示它与其他文字在形、音、义上的关联。</li>
-</ul>
-<p>当然，为了让普通人看懂，学者通常会在隶定字后面加个括号，写上对应的今字或者能代替这个字意思相近的字。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-25d01a63456f464a0c4369086c4c4a64_720w.jpg?source=8673f162" alt=""><figcaption>《大盂鼎》中的释文</figcaption></figure>
-<p>但我们也要知道，「隶定字」有了之后，并不代表这个字就被「认出来了」。</p>
-<p>因为这是两个概念。</p>
-<ul>
-<li>隶定：只是用楷书笔画把这个古文字的形状记录下来。</li>
-<li>释字：把这个古文字对应到今天的某个字。</li>
-</ul>
-<p>就比如《大克鼎》中的这个字，虽隶定出「王兔」，但具体代表什么意思都不太确定。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-270440ddf396f1d3856be302a634009a_720w.jpg?source=8673f162" alt=""><figcaption>《大克鼎》</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b3608f4f607b0371bf6336e83f94e165_720w.jpg?source=8673f162" alt=""><figcaption>《大克鼎》释文</figcaption></figure>
-<p>还有，有时候「隶定字」未被释读的时候，还可能会重新「隶定」的。</p>
-<p>比如临淄齐故城遗址博物馆所藏的一件齐量器上有一字，从「米」从「斗」，旧或释为「料」，但放在铭文中都难以讲通。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-378afe2be9de33047aad9a57ec3e258a_720w.jpg?source=8673f162" alt=""></figure>
-<p>学者们注意到《左传》的记载：「齐旧四量，豆、区、釜、锺。四升为豆，各自其四，以登于釜。釜十则锺。陈氏三量皆登一焉，锺乃大矣。」</p>
-<p>从战国齐量制度来看，锺是最大的量制单位，与此器容量明显不符。而古文字中「斗」「升」二字常互作。</p>
-<p>由此考定该字实为「米升」，也就是当时齐最小单位「升」。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5e297a91db813f217eb1497e57d801f2_720w.jpg?source=8673f162" alt=""></figure>
-<p>但这也不意味着，对于我们来说，所有的「隶定字」都不认识。</p>
-<p>这决定于什么时候隶定的以及这个隶定的字是否被广泛使用。</p>
-<p>比如汉代隶定的字，那时候隶书刚成熟，很多古文用隶书「定」下来了。</p>
-<p>这些字很多融入了汉字系统，比如鱼字，汉代隶书写法跟今天几乎一样，所以我们认识。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8fbc91e7da5b7c4e9c6e29551df93eb6_720w.jpg?source=8673f162" alt=""><figcaption>「鱼」字</figcaption></figure>
-<p>以上，希望对你有帮助。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2023384004791943279">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793453</guid>
-                <pubDate>Fri, 23 Oct 2026 20:53:10 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>北方降雨越来越多，对古建筑保护会产生影响吗？</title>
-                <link>http://daily.zhihu.com/story/9793458</link>
-                <description>知乎用户，见诸学 查看知乎原文 从一线保护工作者的角度看来，北方降雨格局的变化，影响似乎比我们实际已经感受到的更大。 以我接触到比较多的北方地区的传统官式建筑来说，从屋顶、台基，到假山、植物，甚至我们的修缮组织方式，大多是以&quot;集中暴雨 + 漫长干燥&quot;这种气候条件为节奏设计的。节奏被打乱后，很多以前不是问题的部位和环节便开始出问题。 一、屋面 先说屋顶的苫背层。北方官式建筑厚重的灰背，在构造上承担的…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-6cf78c5dae08c8e6e3094ab3606773fb.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/da8e974dc_l.jpg?source=8673f162">
 <span class="author">知乎用户，</span><span class="bio">见诸学</span>
-<a href="https://www.zhihu.com/question/2070936860822434413/answer/2072436482183259399" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/2065717328243905116/answer/2073121271064303030" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>从一线保护工作者的角度看来，北方降雨格局的变化，影响似乎比我们实际已经感受到的更大。</p>
-<p>以我接触到比较多的北方地区的传统官式建筑来说，从屋顶、台基，到假山、植物，甚至我们的修缮组织方式，大多是以"集中暴雨 + 漫长干燥"这种气候条件为节奏设计的。节奏被打乱后，很多以前不是问题的部位和环节便开始出问题。</p>
+<p>木塔修缮不是一道结构题，而是一场全科会诊，而目前我们的“生理学、病理学、药理学”三座基础学科大楼，还都没有完全盖成。</p>
 <hr>
-<p>一、屋面</p>
-<p>先说屋顶的苫背层。北方官式建筑厚重的灰背，在构造上承担的是多重功能：</p>
-<p>首先是结构配重。 厚重的苫背背层压在椽望之上，对木基层有压稳作用，尤其在北方大风地区，这层配重对屋面的整体稳定性有实际意义；</p>
-<p>其次是保温隔热。苫背层厚度通常在 10—15 厘米以上，大型建筑甚至厚半米有余，青灰、麻刀灰的导热系数低，是屋面保温隔热的主力构造层；</p>
-<p>然后广为人知的是灰背层的表面防水功能。以青灰背为例，施工最后一道是"轧光"——用铁抹子反复压实。这一工序可以让青灰浆表面轧出一层略带油性的致密层，确实有一定的阻水能力——但这层油性面很薄，不是主要防水机制。更适合的理解方式应该是尽可能减少这一层表面的孔隙率，让毛细作用更少，一定程度减少水分渗透；</p>
-<p>而工作后的体验，灰背防水这一过程更核心也更容易被忽视的，是其"吸湿—缓释"功能。石灰基材料本身是多孔结构，有吸湿能力（比如零食内的石灰干燥包）。下雨时哪怕局部少量渗水，渗漏处周围整体干燥的灰背也能吸收一部分水分，避免水分直接穿透到木基层；天晴后缓慢蒸发，恢复干燥状态。这个"吸—放"循环是灰背保护木构的核心机制。</p>
-<p>同时要注意，灰背层中通常还有麻刀成分， 麻刀（麻纤维）均匀分布在灰背层中，承担抗拉功能，防止灰背在干缩和温度变形时开裂。没有麻刀，纯灰浆层很脆，干缩裂缝会直通到底。</p>
-<p>但长时间下雨会让这套系统崩溃。 连续阴雨导致灰背长期饱水，没有蒸发窗口期。</p>
-<p>同时，灰背饱水后，将发生以下几件事：</p>
-<p>第一，水分持续向椽望渗透，直接引起椽望糟朽。</p>
-<p>第二，灰背内部的麻刀纤维在饱水缺氧环境中加速腐烂。麻刀腐烂后，灰背失去抗拉能力，在自身收缩和屋面荷载作用下产生裂缝。裂缝一旦出现，雨水沿裂缝集中下渗，破坏速度成倍增加。</p>
-<p>第三，苫背层（护板灰、泥背）在饱水—干燥循环和含水入冬的冻融循环中加速粉化和空鼓，失去附着力，并形成"空鼓—开裂—渗漏"的递进路径。有时会发现瓦面表观状态还十分不错、室内却已经出现滴水现象，而内部构造层已经完全退化了。</p>
-<p>这种现实条件，实际上会直接影响修缮决策——屋面保养的频率、干预的深度等等可能都需要根据这一情况进行调整。而需要承认，面对这种气候突变的情况，我们对如何进行准确调节还没有非常好的结论。</p>
+<p><strong>老患者与四张处方</strong></p>
+<p>或许需要再把病历念一遍。释迦塔建于辽清宁二年（1056 年），通高 67.31 米，外观五层，实为明层与暗层平坐交替叠置的九个结构层。现在的问题集中在二层明层：西南内、外槽柱框倾斜持续加剧，部分柱子明显歪闪，柱头普拍枋端部被压劈；全塔 12 处重度残损以上的铺作中，8 处集中在二层明层，16 朵柱头铺作里有 7 朵达到重度甚至极度残损；多数插柱柱脚并未完全落到栌斗上——好比一个人胳膊被架着，脚却没完全落地。监测显示，倾斜仍在以毫米级的速度逐年发展。</p>
+<p>这是一位骨质疏松、多处陈旧性骨折、且骨折点仍在缓慢错位的老人。</p>
+<p>针对这副骨头，二十余年来主要讨论过四类方案。借用医学的比方，它们各自的得失大致如下：</p>
+<p><strong>落架大修——彻底的骨科大手术。</strong> 优势是能从根上消除隐患、让变形构架归位。但全塔两万余根构件、八千余个榫卯、七千余吨重量，且大量构件已发生蠕变、劈裂、变形——拆落之后如何归位？结构拆解后，木质构件会发生不同程度形变或回弹，可能存在虽然很多构件保存情况仍完好但极难拼回到原来的紧密规则的状态，而多层结构的累积误差则可能让这一现象无限放大——这种对长期蠕变木材性能的了解才是部分人担心的“拼不回去”的真相，而不是被很多人理解的“因为不懂榫卯工艺”而造成的“不清楚如何拼拼图”的困扰。而若将整体未见糟朽或劈裂、但拆解后形变严重的构件替换，在保护伦理上又是否能够被充分接受？构件更换的形变阈值又该如何确定？</p>
+<p><strong>上部抬升——对症手术，但病人不能躺倒。</strong> 2002 年评审会上专家投票占优的方案，即把保存尚好的上部三层连塔刹整体抬升，落架维修二层后再整体落回。但仍有大量疑问需要解答：多层结构整体提升的载具如何设计？内部造像怎样进行稳妥的预防性保护？提升与回落时如何保证各点同时均匀变动？已经形变的结构能否允许直上直下的提升？二层柱框已严重倾斜，上部千吨级的体量落回时，变形过的榫卯能否精准对接？回落时可能出现榫卯严重损坏甚至根本归不了位。</p>
+<p><strong>钢架支撑——给老人穿钢背心。</strong> 思路是以新钢结构辅助甚至替代部分承重。问题在于，这件“钢背心”要穿在身体内部——伤及皮肤、肌肉乃至内脏，还得重新评估地基。它也常被批评为对木塔自身挺立能力的一种否定。</p>
+<p>于是 2006 年的结论是“继续观察，暂时不修”。</p>
+<p><strong>现状加固——补钙加理疗。</strong> 2014 年国家文物局原则同意的加固方案即属此类：打牮拨正、卸力减荷、微量可控扶正。它“先保命、控风险”，谁都承认稳妥，但谁都清楚它治不了本——慢性病继续叠加，再来一次强震这样的急性病怎么办？</p>
+<p><strong>隔壁床的年轻病友</strong></p>
+<p>在讨论“整体抬升到底行不行”之前，或许有必要讲一个小案例。</p>
+<p>那是一个带有抱厦的双层亭子的大木结构纠偏工程。上部四角攒尖亭因下部抱厦天沟位置正心桁糟朽而整体东倾，但因亭上彩画保存状况良好、一旦落架地仗将全面撕裂，为最大程度保护原有价值，团队决定不落架，用倒链与手动葫芦把整座四角亭从下檐承椽枋处整体吊起，对糟朽正心檩进行剔补加固后再将四角亭放回。</p>
+<p>设计阶段的推演是：亭子长年东倾，东侧柱子常年受压、卸荷后可能会回弹到与西侧柱子等高，或较西侧稍矮一些，所以计划在东侧童柱下垫钢板补偿，以拨正上层亭子重心。结果吊起悬空之后，木构件发生了非线性的应力释放——<strong>东侧反而回弹得比西侧更高了</strong>。</p>
+<p>幸亏这只是几吨重的小亭子，倒链允许试错：重新提升几厘米、把钢板挪到西侧、垫一层、回落、测量、不够再垫一层……最终在西侧垫了两层 1 厘米厚钢板，才把四柱侧脚值调平。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6d10954de29b39c889950eecdbee2dd5_720w.jpg?source=8673f162" alt=""><figcaption>最后的找平工作有些出乎意料</figcaption></figure>
+<p>一座不足三百年历史、几吨重的小亭子，卸荷响应就已经超出了线性预测的边界。应县木塔上部三层加塔刹以千吨计，近千年的荷载历程、无数次地震风振的累积损伤，抬升—回落只能允许一次成功，不敢妄想获得“再试一次”的机会。</p>
+<p><strong>患者不只有骨头</strong></p>
+<p>谈木塔修缮，讨论往往全部聚焦“木结构怎么修”，这本身就是问题。</p>
+<p>塔内现存辽代像设 26 尊，各层有壁画、题记；五层内槽天花存向日葵纹、仙鹤纹彩画，一层有团窠龙纹天花；塔身内外悬挂 52 块牌匾、6 副楹联，“峻极神工”出自明成祖，“天下奇观”出自明武宗；1966 年和 1974 年，塔内还先后发现两枚佛牙舍利。木构是容器，彩塑是核心意象，壁画是叙事空间，三者共同构成完整的信仰场所。为修骨头而伤了全部肌肉、皮肤与内脏，手术的“成功”实在难以谈起。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a9266fb77943924196c56dc9d484ab70_720w.jpg?source=8673f162" alt=""><figcaption>各层造像精美，且多高于周围槛框，如何预防性保护、加固、搬运等等都需要仔细讨论</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ddfdaa08efe9b5b6d18318e82f0177db_720w.jpg?source=8673f162" alt=""><figcaption>除了木结构表面，拱眼壁上的壁画也应是需要保护的对象</figcaption></figure>
+<p>这些要素的存在，使任何结构方案的施工组织都陡然复杂：</p>
+<ul>
+<li>落架或抬升引起的整体位移与振动，对塑像泥胎和壁画／彩画颜料层意味着什么？塑像是就地固定、整体托换，还是分解搬迁？而若想将部分高于装修槛框高度的造像进行搬迁，又需结合木结构加固方案进行预防性保护、拆除上部木结构、搬迁造像等工序设计。各方案对这些附属文物的具体处置预案，公开讨论中远少于结构本身。</li>
+<li>木塔暗层起结构作用的夹泥墙与壁画、抹灰层共生，结构与装饰密切相关，有时甚至是同一副身体，动一处即动全身。如果想保护这些同样具有多维价值的部分，应当如何记录、如何拆分、如何保护、如何恢复？</li>
+<li>施工期的扬尘、震动、温湿度波动、虫霉风险，对颜料层和泥胎都是威胁；反过来，除虫熏蒸、微损取样、原位检测这些“内科、皮肤科”动作，又要与“骨科”作业排进同一张工序表。</li>
+</ul>
+<p>木塔修缮的施工组织，本质上是一家骨科、内科、皮肤科同时工作的全科手术。</p>
+<p><strong>病房与病床</strong></p>
+<p>无论选哪张药方，都得先回答一个问题：手术在哪里做？</p>
+<p>木塔高 67.31 米。传统杉篙、钢管扣件脚手架灵活经济，但需要跨空搭建时体量巨大，跨越本体上部施工对文物和工人都有风险，且本体越高、工期越长，经济性优势衰减越快——更别说它难以满足想想就复杂的功能需求。</p>
+<p>欧洲的 Layher 类产品化系统（坦普斯德福大厅、巴黎圣母院火灾后初期都用过）荷载低、安装快、可滑移，但桁架通常只承担屋面自身荷载，难以整合构件吊装，屋身高时下部脚手架的稳定性也难以强化。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2b7a19bc5965e477309b3c36526bcbc5_720w.jpg?source=8673f162" alt=""><figcaption>坦普斯德福大厅脚手架设计</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-37bbf04d134947a292807d8975cd8796_720w.jpg?source=8673f162" alt=""><figcaption>坦普斯德福大厅脚手架建造过程中</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6415a1fcb8c433f47818a64c651c2eb1_720w.jpg?source=8673f162" alt=""><figcaption>坦普斯德福大厅脚手架完成状态</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4b975230022a000b9fc427a911fc1170_720w.jpg?source=8673f162" alt=""><figcaption>巴黎圣母院脚手架设计</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-dc18a1975446a4c387b36fede6e8a814_720w.jpg?source=8673f162" alt=""><figcaption>巴黎圣母院脚手架外观</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-86ed120410787717ae803534f09bf434_720w.jpg?source=8673f162" alt=""><figcaption>Layher 架内部需要独立安装吊装设备</figcaption></figure>
+<p>日本的素屋根常用钢桁架并配滑轮轨道，能同时满足吊装与净高，代价是自重增大——对 67 米高的塔，稳妥做法是脚手架与保护棚分离设计。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c6481e6d0e89660b08f4c54644ebfb22_720w.jpg?source=8673f162" alt=""><figcaption>日本常用的 Truss 架示意，可以整合吊装设备</figcaption></figure>
+<p>更进一步，不同方案对“病床”的要求完全不同：落架方案需要覆盖全塔的棚体和与屋面结构整合的吊装轨道；抬升方案需要一张能兜住千吨级上部结构的“特殊病床”；现状加固则可能只需局部棚架。<strong>保护棚方案与本体方案深度耦合，本体方案不定，棚也无法定案——这是鸡与蛋的困境。</strong></p>
+<p><strong>综合医院</strong></p>
+<p>工作棚里流动的不只是木工。掰开数一下：卸下的文物构件（需囊匣与专用运输流线）、补配新料、像设与壁画的临时保护空间、研究人员与原位检测设备（如 X 光探伤）、熏蒸除虫空间、消防安防防雷防涝与温湿度光照监测、以及——如果工期以十年计——应当允许特定节点的公众参观。</p>
+<p>就像正仓院的保护棚。该棚 47.7 米×34.45 米，内部构件存储区、新料堆放区、维修研究场地之外还设展厅、存包处、卫生间，内外流线严格分离，并在五个工程节点开放参观。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dab9bc2144ef248a56e8dc650e9ce8d2_720w.jpg?source=8673f162" alt=""><figcaption>正仓院保护棚功能与流线</figcaption></figure>
+<p>清华—故宫的 CRAFT 学员团队在一项课程作业中曾尝试做过一版木塔保护棚概念设计：保护棚东西长约 121 米、南北宽约 70 米、高约 70 米，8 个 8 米×16 米结构筒支撑，最大跨度 57 米，中央留 38 米见方通高空间罩住木塔；各层按 19 米、28.5 米、37.5 米、45.5 米四种标高错层，与木塔明层标高对应，便于构件与像设水平运输；屋面自两侧边拼边向中间滑移合龙，避免跨空作业；棚体结构与塔身不直接接触，靠可移动平台靠近。总面积约 17000 平方米——尽管设计本身仍处于十分初步的阶段，且确实大概率会有更好更合适更聪明的设计，但我们至少可以看出其复杂性——这已经是一座临时的大型公共建筑，建造过程本身便需要专项论证；而它要服务的“病人”种类之多，每一种的保护要求又各不相同。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9093cffaaf7a2948131d13cebcc44fb5_720w.jpg?source=8673f162" alt=""><figcaption>要保证各工作层层高，同时尽可能保证荷载均布，比较理想的是错层配置</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7c4fcbe059fdc9fa0ccb02250eca579f_720w.jpg?source=8673f162" alt=""><figcaption>概念方案剖面示意</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-cf5c982c7976a180a0e27c431005af07_720w.jpg?source=8673f162" alt=""><figcaption>概念方案标准层 1</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2864738c4eff86135aec2ecf5be282aa_720w.jpg?source=8673f162" alt=""><figcaption>概念方案标准层 2</figcaption></figure>
+<p><strong>邻村儿医疗条件</strong></p>
+<p>邻居日本其实做出过不少关于大型工作棚的探索。</p>
+<p>姬路城大天守维修的“天空之白鹭”：先在地形复杂的城址上架 37.6 米高的构台，再其上建 51.96 米高的棚，型钢桁架主体与脚手架分离，总重 5700 吨，共八层、建筑面积 2075 平方米——其中三层用于参观，开放期间接待约 184 万人次。金阁寺修缮时，很多人专程赶去给“被罩住的金阁”打卡；日光轮王寺三佛堂的“天空回廊”把熏蒸排气口出挑成外廊，变成前所未有的城市观景点；名古屋天守的提案甚至设计了灯光秀。保护工作棚在那里已接近临时市民文化中心。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-925c89cf2eb448cea742c6774323ae0e_720w.jpg?source=8673f162" alt=""><figcaption>天空之白鹭外观</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a5e2e707786579e3b34a1adb660eb564_720w.jpg?source=8673f162" alt=""><figcaption>天空之白鹭内部</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fd4eb7af7ba9df33839915f0b522825b_720w.jpg?source=8673f162" alt=""><figcaption>天空之白鹭效果图</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-561b3115eb9eb8e12ded68a7588f7be2_720w.jpg?source=8673f162" alt=""><figcaption>天空之白鹭剖面示意，绿色为观众区域</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7acd15683cc80664aaf4fa7081fce93d_720w.jpg?source=8673f162" alt=""><figcaption>金阁寺保护棚打卡位置</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9aa705593bd0edc65f86542b699933de_720w.jpg?source=8673f162" alt=""><figcaption>日光轮王寺三佛堂“天空回廊”外观</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-555168af58e18a1accd8458f3b57ba0a_720w.jpg?source=8673f162" alt=""><figcaption>日光轮王寺三佛堂“天空回廊”剖面</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-56c9c02deffc93f6a08c44c26572f1c1_720w.jpg?source=8673f162" alt=""><figcaption>名古屋天守阁保护工作棚设计</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-50841b73e7b88c8aeb05d761fb1d1a37_720w.jpg?source=8673f162" alt=""><figcaption>名古屋天守阁保护工作棚外灯光秀示意</figcaption></figure>
+<p>这是机会——木塔早已不允许登塔，一座开放的棚能重建公众与遗产的连接；</p>
+<p>也是诱惑——当棚具备社会性之后，提案里会逐渐长出与本体保护无关的东西，这些东西本身可能也是木塔保护的风险点。</p>
+<p>社会性应当服务于价值阐释，不能喧宾夺主，更不能带来危害。过多的功能意味着更多的综合管线和更复杂的空间组织、更大的建筑体量，所以要更警惕电火隐患、冷凝水影响、大进深带来的通风不畅阳光不足引起的木塔微环境变化、大体量结构带来的基础沉降等等问题。</p>
+<p><strong>病房差异的原因</strong></p>
+<p>“天空之白鹭”们在邻国能够成立，有一个隐蔽前提：日本的文化传统对解体维修接受度极高，历史上的多次落架大修往往伴随对场地地面的硬化改造，为数千吨级的大棚提供了承载条件；面对强震环境，先行考古、而后硬化场地，几乎是标准动作。</p>
+<p>而木塔不行。塔基及其周边的地下状况、可能存在的遗址层，决定了我们无法、也不应照搬“考古后全面硬化再落大棚”的路径——棚的每一个落点都要对塔基退让，荷载要分散以防不均匀沉降，地勘必须先于一切设计。</p>
+<p>同时，佛宫寺院落及周边还保存着明清时期的文物建筑。这意味着保护棚不能随心所欲地长大：概念方案中把主要体量沿东西方向布置，正是为了避让木塔本体和周边文物建筑，同时利用西侧广场与东侧道路实现参观人流与工料流线的分离。棚的高度、跨度、落点、建造顺序，处处受制——它要在一片文物的缝隙里，为一个更大的文物搭出一座安全的房子。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-44c36afbcc29802487b14f71d5fbe754_720w.jpg?source=8673f162" alt=""><figcaption>木塔周围情况，其他古建筑也是文物</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0dee6fdf90421aef3cd22ea96fa34b5e_720w.jpg?source=8673f162" alt=""><figcaption>概念方案中保护棚似乎只能横向布置</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f0b1929ee48629f79a3be59a39bc2c0e_720w.jpg?source=8673f162" alt=""><figcaption>结构落点的选择也处处面临限制</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cf66a03a432e9e6c213a41ee907a5c63_720w.jpg?source=8673f162" alt=""><figcaption>还需考虑保护棚的施工过程，尽可能减少跨越式施工</figcaption></figure>
+<p><strong>概念设计本身也是一剂清醒剂</strong></p>
+<p>CRAFT 学员们在做那版概念设计时，越深入越觉得要慎重：地勘数据决定结构落点，流线深化要分观众、专业人员、物料三条线，结构要区分受拉受压杆件尽量以索代杆，装配式要最大限度压缩现场作业量，提升、平移、熏蒸、扫描设备要逐一选型整合——这五项还只是“深化任务”的目录。一个概念方案尚且处处是坑，真实工程的复杂性可想而知。</p>
+<p>《建筑遗产保护学》里说，保护建筑“不是单纯的建筑工程实践，而是一个多学科合作的研究项目”。棚如此，塔更如此。</p>
 <hr>
-<p>二、假山</p>
-<p>以前我们谈假山保护，往往说得非常笼统，不分南北方、不分材质。</p>
-<p>但降雨增大后，不同假山各自的薄弱点暴露得完全不一样。</p>
-<p>因为北方假山和南方假山存在两套构造逻辑。</p>
-<p>与南方私家园林中的假山不同，北方传统假山（尤其是皇家园林假山）多用房山石、青石、黄石这类石材。特点是块大、体重、层理发育或者质地坚硬。北方园林讲究"雄浑厚重"，追求山体气势，且皇家园林中经费不太是问题，运输路径更不是问题，所以单块石材尺寸可以很大，动辄半吨到数吨，叠压起来形成整体。</p>
-<p>这种构造决定了北方假山对铁活的依赖度极高。石块之间不只是靠自重压稳，还要靠铁锔、铁销、铁箍把大块石材拉结成一个整体。尤其是峰峦悬挑部位、沟壑转折处，铁活密度相当高。一块房山石叠在另一块上，接缝处打几个铁锔，再用糯米灰浆灌缝、油灰勾抹——这是皇家园林假山的标准做法。</p>
-<p>需要注意，铁活在此不只需要被理解为一种能让大块石材更险又更稳的技术方法，也同时需要被理解成是一种高度责任压力下的工程保险措施——毕竟是给皇家做假山，在造价层面限制不那么大的情况下，尽可能用上所有当时能够采用的的安全措施，对匠师和督造的技术官僚而言是责任最小的选择。</p>
-<p>但当时的保险与稳固，在几百年后便成为了最致命的弱点。</p>
-<p>大块石材叠压，一旦铁活失效，单块石料的稳定性全靠自重摩擦维持。降雨频次增加后，石缝中的灰浆保水，铁锔、铁销长期处于高湿环境，锈蚀速率呈指数级上升。而铁活埋在石缝内部峰峦悬挑根部——这些部位外观看不出任何问题，石头好好的，缝也没裂。但内部铁活已经锈透了。铁锈的体积大约是原铁的 2 到 3 倍，这个膨胀力直接作用在石材上，产生劈裂。一块山石从内部被铁锈撑裂，外表可能只有一条细纹，但结构完整性已经没了。更麻烦的是，锈蚀产物（氧化铁）本身具有吸湿性，会加速周围微环境的湿度积累，同时其化学活性可能对碳酸盐质石材产生额外的酸蚀作用。</p>
-<p>传统巡检靠目测，石头没裂、缝没开，就认为没问题。但内部铁活可能已经锈透了。等你看到石头裂了、掉了，内部损伤已经不可逆。</p>
-<p>同时传统油灰、糯米灰浆本身是多孔材料，降雨增大后灰缝长期饱和，水分直接浸润铁活。更糟的是，有些近代修复用了水泥基材料勾缝，水泥的碱性环境初期保护铁件，但一旦碳化（高湿度下碳化加速），pH 值下降，锈蚀反而被"延迟触发"，爆发时更剧烈——铁活锈蚀是缓慢过程，但一旦截面损失达到临界值，或者锈胀劈裂导致石料突然失稳，破坏是瞬时的。一块轻则几十斤、重则数吨的山石从峰峦坠落，对下部结构和人员安全的威胁是灾难性的。</p>
-<p>所以对于北方假山保护工作研究的核心是找到从"外观检查"转向"内部探测"的合适方法，近年多种工业无损检测手段也正在被逐步引入假山结构安全评估工作，但仍有很多我们今天的技术难以解决的认知问题与保护问题。</p>
-<p>而降水量的增大让我们对这些问题求解的 ddl 提前，窗口期大大缩短。</p>
-<hr>
-<p>三、生物</p>
-<p>降雨增大后，生物带来的复杂问题也不容小觑。</p>
-<p>首先是植物疯长。</p>
-<p>植物根系问题从"辅助性病害"变成需要独立应对的构造安全议题。</p>
-<p>散水系统最先遭殃。根系沿散水砖缝生长，把砖顶起、错位，破坏排水坡度。更隐蔽的是根系楔入接缝，产生持续膨胀力，导致石构件错位。一旦根系直径超过灰缝宽度，石构件复位几乎不可能。</p>
-<p>院落地面内部则更麻烦。根系在地下灰土中形成"根道"网络，成为水分快速迁移的优先通道。冬季根道内水分冻结，产生径向膨胀力，直接导致根道周围灰土开裂。清除侵入树木后，根系腐烂形成空洞，上方砖表面形成塌陷——这种滞后性破坏往往被误判为"自然沉降"。</p>
-<p>树冠带来的影响也颇为棘手。</p>
-<p>树木相较以前干燥时候，更为繁茂——更多叶子意味着更多可能会积攒在瓦垄内的落叶，落叶蓄水，不及时清理将影响瓦垄两侧的夹垄灰，夹垄灰脱落后，雨水更易进入苫背层；更多果实意味着更多鸟类和昆虫，也意味着更多动物类的污染源；更多枝丫意味着与周围建筑屋面木基层或者墙面的距离可能更近，下雨时迸溅到本该避雨部位的雨水更多，这些部位更易空鼓与糟朽；更大的树冠同时也意味着更大的风阻，在风雨交加时某根枝杈甚至树干突然折断导致建筑损伤的风险也更大，树木整体带动根系晃动破坏地面及周围台基等情况也需要关注。</p>
-<p>更不易被发觉的生物病害，还有青苔与霉菌。</p>
-<p>青苔本身是个多孔保水结构，植株层厚度两三毫米到一厘米不等，像块海绵一样扣在石材表面。下雨时吸水，不下雨时靠这个结构把水分锁在石材表面，蒸发速率比裸石面低得多。北方传统上石材有"干季恢复期"，现在被这层"湿棉袄"一捂，石材表面全年都在高含水率状态，冻融窗口期被大幅拉长。以前冻融主要发生在冬季那几个月，现在只要气温波动到零下，青苔底下的石材就在冻融循环——一年里的破坏次数成倍增加。</p>
-<p>更隐蔽的是苔藓的假根——苔藓没有真根，但假根能扎进石材肉眼看不见的微裂隙里，直径几十微米，随着生长能到半毫米以上。对于层理发育的石材假根优先沿层理面钻，产生膨胀应力，直接导致层间剥离。而且青苔群落不是单打独斗，它跟藻类、真菌混在一起形成生物膜，这些微生物的菌丝比假根更细，能进入更深的孔隙，从内部松动石材结构。</p>
-<p>化学破坏同样不可忽视。苔藓光合作用分泌的草酸柠檬酸扥各种酸性物质，在假根周围形成局部低 pH 区。汉白玉、青白石、宣石这些碳酸盐质石材，遇到酸性微环境直接加速溶蚀。溶掉的钙离子被水分带到石材表面或苔藓层里，水分蒸发后重新结晶——但这个"再结晶"不是恢复原状，是在表面形成一层疏松的钙质结壳，粘不住母材，一碰就掉，掉完露出新鲜石面，又成为下一轮苔藓定植的靶点，正反馈循环。苔藓死亡分解产生的腐殖酸，跟石材里的铁、锰离子络合，形成锈色或灰绿色污染，渗入微孔隙后也极难清除。</p>
-<p>而降水量整体增大，让这个问题更为棘手——不解决水文条件，清了也白清，明年雨季一来又满上。而且清除本身就有风险——假根和石材风化层的粘结力，有时候比风化层内部的凝聚力还强，一刷一刮，连石皮带青苔一起下来，清除即破坏。如何做到在不损伤石质文物构件的同时将青苔有效清除，同时又能做到抑制其生长的预防性保护，也是近年面对的日益迫切的问题。</p>
-<p>室内霉菌是另一个被严重低估的问题——因为它长在看不见的地方。北方官式建筑原本靠"冬季干燥、夏季短暂湿热"来平衡室内湿度，木构、地仗层、彩画的耐久性都建立在这个长期以来的节律上。现在连续降雨，屋面灰背和墙体含水率长期降不下来，室内相对湿度持续处于高位，霉菌的活性阈值就被突破了。</p>
-<p>霉菌最先攻击的是梁架、天花背面、墙角、柱根这些巡检死角。等你看到墙面有零星霉斑，里头的梁架可能已经被菌丝网覆盖了。</p>
-<p>最致命的是室内饰面——油饰彩画中，地仗层（尤其是使麻地仗）是多孔有机质结构，猪血、油满等等均为有机材料，霉菌在里头生长，菌丝从内部把颜料层顶起来，造成"起泡 - 剥落"；裱糊中，宣纸和浆糊都是有机材料，也是霉菌的温床，大量霉菌在通风死角中生存，让这些部位的裱糊材料完全失效。</p>
-<p>对木构本身，霉菌是木腐菌的前驱。霉菌群落改变了木材表面的微环境，为褐腐、白腐菌的定植创造条件。柱根、梁头这些本来就容易受潮的部位，霉菌覆盖后含水率更难降下来，木腐菌从表层向心材推进的速度成倍增加。</p>
-<p>如果室内还有原状陈设或计划恢复陈设，纸质、丝质、漆木类文物在高湿环境中直接面临霉变和虫蛀的双重威胁——霉菌孢子落在宣纸上，24 小时内就能形成菌落；丝织品在高湿 + 温暖条件下，蛋白质纤维被分解，强度急剧下降。</p>
-<p>最麻烦的是干预手段的局限性——表面擦除这种轻微的干预措施通常没用，菌丝已经渗入地仗层和木构件内部两三毫米。化学除霉剂对彩画颜料和木材都有二次伤害风险；物理清除又可能把本就脆弱的地仗层一起带下来。而且只要建筑围护结构的含水率不降、室内湿度不恢复，清完一轮，雨季一来又长满——这不是"保洁问题"，是建筑微环境失控的系统性信号。北方官式建筑为了保温，本身通风设计就不如南方通透，一旦湿度进来，排不出去，反而成了霉菌的温床；而古建筑整体气密性不足，想做风环境设计进行通风控制、减少气流死角又更是难上加难。</p>
-<hr>
-<p>四、城墙</p>
-<p>还有种经常被忽视的“古建筑”，是城墙。</p>
-<p>城墙与殿宇最大的区别是，内部的夯土芯是结构主体，外包砖只是保护层。降雨增大后，夯土芯含水率饱和，产生显著的侧向膨胀——这是包砖层鼓闪、坍塌的直接力学驱动力，不是简单的"支撑减弱"。</p>
-<p>夯土在含水率超过最优值后，结合水膜增厚，颗粒间黏聚力下降，土体向应力较小的水平方向膨胀——顶部有海墁约束、底部有地基约束，整体受重力影响，竖向膨胀受限，侧向膨胀成为主导变形模式，便直接对外包砖层施加水平推力。灰缝被剪压变宽、砖面微凸、砖层外弧变形、砖体断裂倾覆——这个过程在城墙转角、城门洞两侧等应力集中部位尤为剧烈。近年频繁暴雨导致的山西平遥城墙坍塌情况，即是因此发生。</p>
-<hr>
-<p>五、修缮工期</p>
-<p>这是最实际也最不易发觉的困境。</p>
-<p>传统木构修缮需要选择干燥季节进行，但降雨增加导致可施工窗口期明显缩短。灰背、木基层、地仗层这些对湿度敏感的工序，被迫在不利气候条件下进行，质量控制难度成倍增加。应急苫盖从"应对突发极端天气"趋向"半常态化"。以前苫盖是临时措施，现在雨季拉长，苫盖布一盖几个月，本身对屋面瓦件、灰背层就是持续荷载，还影响通风干燥。怎么在"快速部署"和"完全可逆"之间找到可持续的操作模式，成了新的技术命题。</p>
-<p>更深层的是，修缮周期的压缩与质量要求的刚性之间的矛盾。高难度项目的预算常被流程压缩，现在施工窗口还变窄了，现场压力直接传导到工序控制上。单纯的学术研究、纸面创新解决不了这个实际发生的问题——需要的是对现场实际情况的非标设计，和针对约束条件的务实调整，以及施工方的通力配合。但非标设计又通常难以获得行业内大部分保守专家的支持，更难以应对日益严格的审查流程；施工方在资金和实际工期双重不足的情况下，能够在合同工期内完成工作已属不易，较难再配合非标设计进行有风险的尝试。</p>
-<hr>
-<p>六、其他</p>
-<p>六七年前起，国际古迹遗址理事会（International Council on Monuments and Sites，简称“ICOMOS”）开始推动气候脆弱指数（CVI）评估体系，试图建立一套科学的、适用于所有世界遗产的气候风险评估框架。CVI 评估不是看建筑修得好不好，而是看遗产本体和当地社区面对气候冲击时的"脆弱程度"和"恢复能力"——这一方法对我国遗产保护工作的进一步发展有很大启示。</p>
-<p>世界建筑文物保护基金会（WMF）这几年也已经把"气候韧性"（climate resilience）放到了核心位置。2025 年 World Monuments Watch 的入选项目中，气候变化是主要威胁因素之一；2026 年 WMF 承诺投入 700 万美元支持 21 个遗产项目，明确将"气候变化、自然灾害"列为优先应对的挑战，强调"社区主导的保护方案"和"技术创新"。2025 年 5 月，WMF 北京代表处联合山西省古建筑协会等机构在太原办了"第一届气候变化下古建保护与可持续发展国际论坛"，主题就是"韧性社区与可持续未来"。会上山西省古建筑与彩塑壁画保护研究院的同行提出，山西正努力从"历史见证者"转型为"未来实验场"——这个定位很准确。</p>
-<p>充分说明国内外保护领域已经深刻认识到气候变化带来的影响是十分巨大的。</p>
-<p>而面对这些工作，国内仍缺什么？</p>
-<p>——缺数据基线。除了少数具有监测职能的重要遗产地，很多古建筑连基本的病害记录都没有，更别说所在地的长期气候变化曲线。没有基线，你就没法判断今年是"正常年"还是"异常年"，也没法量化若干年后的风化速率。</p>
-<p>——缺跨部门协同。气象、水文、地质、文保、绿化等部门之间有效沟通。很多问题找设计单位和修缮队伍只能治标，而对水文情况难以有效调控。</p>
-<p>——缺韧性思维与对保护伦理的深入挖掘。韧性不是"更结实"，是"受冲击后能恢复"；同时，面对这种成为事实的环境条件，如何调整保护的目标、拓展保护的手段，本身也是需要实事求是地研究的问题。</p>
-<p>北方降雨增大不是"防水压力增加"，是对整个"构造—材料—环境"系统的压力测试。它迫使保护策略从"基于历史经验的周期性修缮"转向"基于实时监测的适应性管理"。国际同行已经开始用"气候韧性"重新框定遗产保护的目标，我们也需尽快建立更深入的对材料与病害机理的认知，建立基础数据、建立监测系统、建立切实可用的预警数值和应急预案。</p>
-<p>同时，也更希望能够建立起公众对这一公共议题的基本共识，让大家尽可能认识到它的急迫性、复杂性、专业性、交叉性与公共性，让更多角度的关注带着善意的目光投射过来，共同保护这些建筑遗产。</p>
+<p>所以回到问题：木塔修缮的核心技术难题，表面看是倾斜、压溃、榫卯、抬升回落这些结构词条；往深一层，是像设、壁画、彩画与木结构同体共生带来的全科施工组织；再往深一层，是为这一切提供空间的保护工作棚——它的结构、流线、场地与社会性；而最深一层，是我们对一座经历了近千年荷载历史的木构巨构，在卸荷之后会如何呼吸这件事，所知仍然有限。</p>
+<p>真正的谨慎，当然不是无限期地议而不决，而是把监测、研究、备料、以及那座迟早要建的“病房”，一件件先做起来。谨慎与拖延之间的界限，有时就藏在这些看似平凡的准备里。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2070936860822434413">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2065717328243905116">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793458</guid>
-                <pubDate>Fri, 23 Oct 2026 20:53:11 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793466</guid>
+                <pubDate>Sat, 24 Oct 2026 02:56:54 GMT</pubDate>
             </item>
             
             <item>
-                <title>帝王将相之外，古代普通人的墓志铭里藏着哪些令人动容的人生？</title>
-                <link>http://daily.zhihu.com/story/9793459</link>
-                <description>知乎用户，新书《围观考古现场》已上市，各大平台均有售。 查看知乎原文 公元 170 年，东汉灵帝建宁三年，南阳郡一户许姓人家，永远失去了他们五岁的孩子。 家人唤他许阿瞿。 没人想到，这份痛彻心扉的思念，会借着一块石头，穿越 1800 年的时光，重新展现在我们面前。 1973 年，考古工作者在河南南阳东郊李相公庄清理一座曹魏时期墓葬时，在墓顶发现了这块青石板。它并非这座墓的原生葬具，而是在许阿瞿离世…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-5c12f3f146c3ed49a98d9c42db6efa52.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>有什么很有意思的考古事件？</title>
+                <link>http://daily.zhihu.com/story/9793469</link>
+                <description>苏澄宇，自然科学/分享动物们的小秘密/Animalonearth 查看知乎原文 在美国弗吉尼亚州威廉斯堡，修复人员曾经从一栋老建筑的墙里拆出一个废弃的老鼠窝[1]。 布雷学校修复时暴露出的墙体，历史鼠窝藏在墙内和地板下，工作人员将材料分批取出保存 窝里有纸片、布头、骨头，还有一把完整的银餐叉。 叉子上的制造商印记把它的年代锁定在 1861 到 1865 年。老鼠到底费了多大劲，才把这么一把叉子拖进…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-d1018542bd9c47a64e23818e947ba336.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -244,57 +157,87 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162">
-<span class="author">知乎用户，</span><span class="bio">新书《围观考古现场》已上市，各大平台均有售。</span>
-<a href="https://www.zhihu.com/question/2087954447460561520/answer/2091551175300723502" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-a828256341663bc1234f028f047f576d_l.jpg?source=8673f162">
+<span class="author">苏澄宇，</span><span class="bio">自然科学/分享动物们的小秘密/Animalonearth</span>
+<a href="https://www.zhihu.com/question/327053255/answer/2074858226143835017" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>公元 170 年，东汉灵帝建宁三年，南阳郡一户许姓人家，永远失去了他们五岁的孩子。 家人唤他许阿瞿。</p>
-<p>没人想到，这份痛彻心扉的思念，会借着一块石头，穿越 1800 年的时光，重新展现在我们面前。</p>
-<p>1973 年，考古工作者在河南南阳东郊李相公庄清理一座曹魏时期墓葬时，在墓顶发现了这块青石板。它并非这座墓的原生葬具，而是在许阿瞿离世数十年后，被后人拆来二次用作了墓顶石。</p>
-<p>也正因如此，这位早已湮没在历史里的孩童，和他父母藏在石头里的深情，得以重见天日。</p>
-<p>这就是南阳汉画馆的镇馆之宝——<strong>许阿瞿观舞赏乐画像石</strong>，也是国内现存罕见的、有明确纪年的东汉儿童墓志画像石。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-a7b8e8a3c8d0eff7ff655034b40122e4_720w.jpg?source=8673f162" alt=""><figcaption>图源：网络</figcaption></figure>
-<p>这块画像石高约 70 厘米、宽 112 厘米，石板右半部分分上下两格，刻满了生动的画面，像一帧被永久定格的旧日时光。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b259d4a06f85c8b8c3b94653a1d4fb78_720w.jpg?source=8673f162" alt=""></figure>
-<p>上格是孩童的日常嬉乐。左边榻上跽坐着一个梳总角的幼童，身侧清晰刻着三个字：许阿瞿。</p>
-<p>他身后立着一名仆人，正举扇为他轻轻纳凉；榻前有三个同龄的玩伴，有的手托木鸟逗弄，有的牵着鸠车奔跑，眉眼间全是孩童的天真烂漫。</p>
-<p>鸠车是汉代最流行的儿童玩具，相当于今天孩子的滑板车、摇摇马。能拥有专属仆从、珍奇玩具，安坐榻上看同伴嬉戏，年幼的许阿瞿，定然是全家捧在手心的宝贝。</p>
-<p>下格是盛大的百戏表演。飞剑跳丸的艺人将数丸抛向空中，身手利落；踏盘鼓舞的女子踩着鼓点甩袖，身姿轻盈；一旁还有鼓瑟的、吹排箫的乐师，弦管齐鸣，热闹非凡。</p>
-<p>后人常猜测，这或许是他生前某一次尽兴的家宴场景。父母把孩子眼里有光、最欢喜快乐的模样，一刀一刀刻在了石头上。他们大概想：就算孩子先走一步，也要让他在另一个世界，永远有玩伴，有歌舞，永远不孤单。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1566fa91561cab9e2a8da536a9b14036_720w.jpg?source=8673f162" alt=""><figcaption>图源：网络</figcaption></figure>
-<p>石板左半部分，是 6 行隶书铭文，共 136 字，<strong>最后两行共 16 字</strong>已在岁月中漫漶残损。但剩下的文字，每一字都重若千斤，写尽了丧子之痛。</p>
-<blockquote>惟汉建宁，号政三年，三月戊午，甲寅中旬。 痛哉可哀，许阿瞿身。年甫五岁，去离世荣。 遂就长夜，不见日星。神灵独处，下归窈冥。 永与家绝，岂复望颜。</blockquote>
-<p>建宁三年三月中旬，五岁的许阿瞿离开了人世。 他走进了漫漫长夜，再也看不见太阳与星辰，独自去往幽深的地下世界，从此与家人永隔，再也不能相见。</p>
-<p>最戳中人心的，是铭文里记录的一个梦：</p>
-<blockquote>谒见先祖，念子营营。三增仗火，皆往吊亲。 瞿不识之，啼泣东西。久乃随逝，当时复迁。</blockquote>
-<p>父母梦见年幼的孩子到了地下，见到先祖却全然不识，只是孤单地啼哭着，东跑西走，过了很久才跟着先祖慢慢走远。</p>
-<p>短短几十字，写尽了中国式父母的心痛：不只哀恸孩子的离去，更心疼他小小年纪，在陌生的黄泉路上会不会害怕，会不会孤单，会不会找不到方向。</p>
-<p>在那个医疗条件有限的年代，孩童早夭是寻常又残酷的事。父母留不住孩子的生命，便倾尽心力刻下这块画像石，把他的模样、他的快乐、自己的思念，都封进坚硬的石头里，让这份记忆能走得远一点，再远一点。</p>
-<p>如今，许阿瞿画像石静静陈列在南阳汉画馆的展厅里。</p>
-<p>每天都会有人从它面前走过，驻足，凝望。他们看见的不只是一块汉代的石头，更是一对父母永远停在公元 170 年的思念，和一个永远五岁的、眉眼带笑的孩子。</p>
-<p>石头会风化，岁月会流逝，但爱不会。</p>
+<p>在美国弗吉尼亚州威廉斯堡，修复人员曾经从一栋老建筑的墙里拆出一个废弃的老鼠窝<sup>[1]</sup>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7605f2310ad8132d04d65cff50174022_720w.jpg?source=8673f162" alt=""><figcaption>布雷学校修复时暴露出的墙体，历史鼠窝藏在墙内和地板下，工作人员将材料分批取出保存</figcaption></figure>
+<p>窝里有纸片、布头、骨头，还有一把完整的银餐叉。</p>
+<p>叉子上的制造商印记把它的年代锁定在 1861 到 1865 年。老鼠到底费了多大劲，才把这么一把叉子拖进墙里……</p>
+<hr>
+<p>20 世纪 30 年代开始，威廉斯堡（Colonial Williamsburg）一直在修复和保存当地的历史建筑<sup>[2]</sup>。</p>
+<p>几十年来，工作人员陆续拆开不同老屋的墙壁、地板和屋檐，从废弃鼠窝里已经整理出大约上千件值得关注的东西。这简直是老鼠办的失物招领处。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ff2dd2fd776e54b308cef64b4122eceb_720w.jpg?source=8673f162" alt=""></figure>
+<p>布雷学校那栋老建筑的鼠窝里，出现过 1830 年代美国早期制造的银合金机械铅笔、粗糙的木纽扣、玻璃头铁针、信件碎片，还有一张 1937 年的大学橄榄球票。托马斯·杰斐逊的白杨林庄园里，研究人员甚至找到过游戏物件、报纸碎片、被啃过的家具，以及一整只 1860 年代以前的黑色女式皮鞋。</p>
+<p>清理起来也挺麻烦的。亚沃斯基要戴着口罩和手套干活，因为窝里经常混着针和别针，她甚至会先拿磁铁把铁针吸出来，免得手直接伸进几百年的杂物堆里挨一下。</p>
+<hr>
+<p>考古学家真正感兴趣的，不只是银叉，还有那些不起眼的纸屑、布头、骨头、果核和种子。</p>
+<p>这些本来应该被扫进垃圾桶的东西，为什么到了历史建筑的老鼠窝里，就成了研究几百年前普通人生活的物证？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-97ed675c39c4acb5c5adbf0b386b8152_720w.jpg?source=8673f162" alt=""></figure>
+<p>因为墙里和地下保存东西的方式很不一样。</p>
+<p>以美国查尔斯顿为例，地下土壤会一年年反复变湿、变干，植物材料不断破碎，细菌、昆虫和蚯蚓还会继续分解它们。所以考古遗址里，种子、纸张、织物这些东西往往比陶瓷、玻璃和金属难留下来。</p>
+<p>老建筑墙体里的缝隙却相对稳定。这里温度和湿度变化没那么剧烈，也不会被人轻易踩到，更少受到土壤里那些分解者的影响。于是一些本来特别容易消失的植物、纸张和布料，反而能以干燥状态保存下来。2026 年的一项研究里，有些豇豆种皮两百年后甚至还保留着黑色，水稻壳也还能看出棕红色。</p>
+<p>简单说，地下考古可能给你留下一只盘子，墙里的老鼠窝有时候连<strong>盘子附近掉过什么食物</strong>都能给你留下。</p>
+<hr>
+<p>不过，老鼠不可能是公平公正的历史记录员。</p>
+<p>因为它们有自己的偏好。食物会拿，纸和布适合筑窝也会拿；有些东西被整个拖走，有些只剩吃不动的壳；太大的东西根本搬不了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4f5c0d800150d59b06ada850609116a5_720w.jpg?source=8673f162" alt=""></figure>
+<p>这也是为什么鼠窝不能简单理解成“随机抽取的历史生活样本”。</p>
+<p>但它有另一个优势：东西通常来自附近。研究中引用的黑鼠活动尺度大约是离巢 100 到 150 英尺，也就是 30 到 45 米左右；如果屋里本来就有足够食物，来源还可能更集中。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-49786d87e42baebe7cf8837e3cb4b51d_720w.jpg?source=8673f162" alt=""><figcaption>鼠活动范围的示意</figcaption></figure>
+<p>这个距离不够让一只老鼠跑遍整座城市，却足够覆盖房间、整栋建筑以及附近的院子。</p>
+<p>所以老鼠它提供的是<strong>局部空间信息</strong>。</p>
+<hr>
+<p>正常考古有点像翻一摞按时间叠起来的旧报纸：越下面通常越早，越上面越晚，这就是所谓的“地层”。</p>
+<p>但老鼠会在里面横着打洞，把几十年前的东西翻上来，再把新东西塞下去。白杨林庄园的一个鼠窝里，研究人员整理出来的布料竟然横跨了大约一个世纪。</p>
+<p>布雷学校的鼠窝更直观。</p>
+<p>这栋建筑 18 世纪曾经用作教育黑人儿童的学校，后来又做过私人住宅和女学生宿舍。结果同一批墙内鼠窝材料里，既有可能属于 18 世纪的玻璃头铁针，又有 1830 年代的机械铅笔，还有 1937 年的橄榄球票。</p>
+<p>所以，<strong>一堆被几代老鼠翻来覆去搅乱的垃圾，考古学家怎么知道哪件东西属于哪个年代？</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-22043871742f549334141a1e07ce1d1a_720w.jpg?source=8673f162" alt=""><figcaption>上半张是一整个刚取出的鼠窝，看起来就是一团乱七八糟的草、纸、碎片；下半张是把同一个鼠窝拆开分类后的东西</figcaption></figure>
+<p>办法是找各种能够钉住时间的东西。</p>
+<p>旧报纸上有日期，银器上有制造者印记，织物可以根据材料、纹样和生产技术判断时代；建筑本身什么时候改墙、铺地板、封住某个空隙，又能给鼠窝材料划出时间边界。</p>
+<p>白杨林庄园的研究人员就是这样把一个鼠窝里的材料一件件拆开：先按纸、布、木头、皮革、食物等分类，再把能断代的东西和历史账本、书信、报纸广告以及建筑改造记录互相对照。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-102b7bc72fbfe18f07097c6e7869e761_720w.jpg?source=8673f162" alt=""><figcaption>几十块布料碎片整齐排在一起</figcaption></figure>
+<p>老鼠把东西搅乱了，但人可以通过固定信息把时间重新排回来。</p>
+<hr>
+<p>2018 和 2019 年，修复人员在美国查尔斯顿纳撒尼尔·拉塞尔故居的一栋 19 世纪厨房楼里，又发现了大批墙内鼠类堆积物<sup>[3]</sup>。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0f09fe429a8302591c5580fd82bd2162_720w.jpg?source=8673f162" alt=""><figcaption>1849 年南卡罗来纳州查尔斯顿地图</figcaption></figure>
+<p>研究人员这次连里面的细灰都没有扔，把样品整个装走，回实验室以后依次通过 8 毫米、4 毫米、2 毫米和 1 毫米筛网，再放到显微镜下挑。</p>
+<p>最后，他们认出了<strong>超过 2000 件植物食物和食品加工残留</strong>。</p>
+<p>这栋厨房楼从 1808 到 1865 年是被奴役的黑人和多族裔居民工作、生活的地方。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-aba1ac56079c163d898dd4957d8a56e3_720w.jpg?source=8673f162" alt=""><figcaption>Bay 7 位于二楼 East Chamber 墙内，靠近房间中的小壁炉，是后续发现大量豇豆种皮等植物遗存的位置</figcaption></figure>
+<p>楼下一层主要负责给主人家庭准备饭食；二楼则有他们自己的居住空间。研究人员在二楼东侧房间墙体的一处鼠窝中发现了大量豇豆种皮，还有秋葵、芝麻、玉米、花生和辣椒等植物遗存。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-57ba07fd09b3b8eaec23406f56c45916_720w.jpg?source=8673f162" alt=""><figcaption>一间很小的二楼卧室，右侧有壁炉；箭头指着壁炉左边的墙体，Bay 7 就在两根墙柱之间</figcaption></figure>
+<p>和它们混在一起的，还有一张可以准确追到<strong>1839 年 11 月 11 日</strong>的《查尔斯顿信使报》报纸碎片。</p>
+<p>结合这些植物、房间的位置、报纸年代和当时的饮食资料，研究者认为，住在二楼的被奴役居民曾经在这里给自己准备带有西非饮食传统的食物，同时也使用了玉米、花生和辣椒这些已经进入当地饮食体系的食材。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b035563d6ef7c15bd3330994b0e930a2_720w.jpg?source=8673f162" alt=""><figcaption>20 种植物遗存一格格排列，绝大部分比例尺为 5 毫米，秋葵籽、辣椒籽、无花果籽等使用的是 1 毫米比例尺。</figcaption></figure>
+<p>也就说，这和楼下为主人家庭准备的食物并不完全是一套东西。</p>
+<p>这些展现了被奴役者在奴隶主视线之外如何生活，这是任何官方文献都不会记载的内容。</p>
+<p>两百年前的“小偷”显然没想过要为人类编写什么平民史记。它们只是想找点软和的布条垫窝，顺便偷走一把顺手的纯银餐叉。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e07bcc6bcd00ed7fcf49e994a095d5cd_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2087954447460561520">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/327053255">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793459</guid>
-                <pubDate>Fri, 23 Oct 2026 20:53:12 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793469</guid>
+                <pubDate>Sat, 24 Oct 2026 02:56:55 GMT</pubDate>
             </item>
             
             <item>
-                <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9793465</link>
-                <description>瞎扯 · ​你对李白的评价是什么? 知乎日报 查看知乎原文 Q：​你对李白的评价是什么? @子不语 ：因为文采让这个名字都有了仙气，如果抛开文采来看，你会发现李白名字架构和韩红是一样的 Q： 现在豆包的水平到底如何？ @杂类草 ：跟豆包玩成语接龙，差点给我笑死，我这奇怪的笑点。 Q：你去过最离谱的景区是什么？ @小白玩推理 ：青岛崂山青山渔村的贝壳沙滩这是抖音宣传的 这是实拍 据说其实就是渔民吃完…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>地面倾角很小时人体感觉不到，那么是否可以建造一个一楼和二楼之间没有楼梯和明显斜坡的建筑？</title>
+                <link>http://daily.zhihu.com/story/9793476</link>
+                <description>野狸子，形而上学 查看知乎原文 先泼盆冷水，这题乍一看是个脑洞题，实际上是个纯粹的数学题，而且答案比你想的无聊得多.... 不过在计算之前，必须先澄清下这道题本身有个隐藏的预设性的误导，题目说的是”倾角很小时人体感觉不到”，说的让人觉得好像感知坡度纯靠身体一样。 实验装置，用于测试眼睛、腿、以及内耳对于空间和倾角的感知 NIH 上有篇论文Proprioceptive, visual and ves…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-b1e30f746e19d53da7766631c3603ff2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -309,68 +252,162 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · ​你对李白的评价是什么?</h2>
+<h2 class="question-title"></h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-23a5ac848ef7c6e98ed157c37ef33b6c_l.jpg?source=8673f162">
+<span class="author">野狸子，</span><span class="bio">形而上学</span>
+<a href="https://www.zhihu.com/question/2012229470271066791/answer/2032395915575694488" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/14002138096/answer/2080277588786913808">​你对李白的评价是什么?</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/03841b5067ce2fc8539268d2c2747bba" target="_blank">@子不语</a></div>
-：因为文采让这个名字都有了仙气，如果抛开文采来看，你会发现李白名字架构和韩红是一样的</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-f4d7a72b9c7949bd3bd725e8d63c4ddb_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/6982580050/answer/2010676358607545572"> 现在豆包的水平到底如何？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/841b946bf4cb7951e86d259d41bf0290" target="_blank">@杂类草</a></div>
-：跟豆包玩成语接龙，差点给我笑死，我这奇怪的笑点。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-d1890c1da4433ca5a02b642206bf0657_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/641122020/answer/2091578856780064464">你去过最离谱的景区是什么？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ef6d5a753afa336dee37a9101240fbc3" target="_blank">@小白玩推理</a></div>
-：青岛崂山<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=285394757&amp;content_type=Article&amp;match_order=1&amp;q=%E9%9D%92%E5%B1%B1%E6%B8%94%E6%9D%91&amp;zhida_source=entity" target="_blank">青山渔村</a>的贝壳沙滩<br>这是抖音宣传的</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-c01bafa64ec8e8906c377c4ee3531e11_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<blockquote>这是实拍</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-f7cabca410a2672322f087a546a3a921_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<blockquote>据说其实就是渔民吃完蛤蜊的垃圾堆</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/665324970/answer/2002844724449534612">能发一张你相册里自认为有趣的照片么?</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/494a74ebf539e8610760a4ed777f5282" target="_blank">@诺言</a></div>
-：今天星期五，棺材板都掀开了。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-c09348b2d019c737255345c10b7dd7f8_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/662958504/answer/1926008490326987670">爸妈是卖猪肉的丢人吗？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/a09220f2b101c7430d29c5ae9ba6e4d6" target="_blank">@虫吃鼠咬光板没毛</a></div>
-：我家祖上是大汉奸，给日本人修过机场，解放的时候被枪毙了。</blockquote>
-<hr>
-<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
-<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
+<p>先泼盆冷水，这题乍一看是个脑洞题，实际上是个纯粹的数学题，而且答案比你想的无聊得多....</p>
+<p>不过在计算之前，必须先澄清下这道题本身有个隐藏的预设性的误导，题目说的是<strong>”倾角很小时人体感觉不到”</strong>，说的让人觉得好像感知坡度纯靠身体一样。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2fa444cadbd0c124d4d208f43d405428_720w.jpg?source=8673f162" alt=""><figcaption>实验装置，用于测试眼睛、腿、以及内耳对于空间和倾角的感知</figcaption></figure>
+<p>NIH 上有篇论文<em>Proprioceptive, visual and vestibular thresholds for the perception of sway during standing in humans </em>专门对此作了实验，得出结论如下：感知坡度不是“纯靠身体”，而是<strong>多种感官共同整合，</strong>其中<strong>眼睛占主导。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-573a0a38ef248e2f91644dd63b35694c_720w.jpg?source=8673f162" alt=""><figcaption>不同感知模式下与正常站立时身体摇摆幅度的比较</figcaption></figure>
+<p>另外，弗吉尼亚大学 Dennis Proffitt 团队的也开展了一项研究<em>SEEING MOUNTAINS IN MOLE HILLS: Geographical-Slant Perception</em>，他们让受试者在虚拟现实中估计眼前坡道的角度。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fff1834ebfa942d894c42a07e6545691_720w.jpg?source=8673f162" alt=""><figcaption>虚拟现实中从侧面看到的虚拟鹅卵石山丘（a）从外部视角和（b）从观察者视角。</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9323315340e65bf1ac9396a5d6e3f108_720w.jpg?source=8673f162" alt=""><figcaption>虚拟现实中侧视图和前视图所示的 12 座山丘倾斜度的平均口头（实心符号）和触觉（空心符号）估计值（1 SE）</figcaption></figure>
+<p>结论显示是<strong>人们会系统性地高估眼前斜坡的角度，而且对非常平缓的坡几乎“无感”。</strong></p>
+<p>这就意味着，要满足题主的要求，我们不需要把坡度做到”身体感觉不到”那么极限，只需要把眼睛骗了就行。</p>
+<p>那么，这个题目就简单了，把走廊设计成封闭式的，然后将地砖、墙壁、天花板的纹路全部跟地面平行，就可以欺骗人的视觉参照系，然后眼睛会告诉大脑，<strong>周围一切都是水平的，那我肯定是在平地上走。</strong></p>
+<p><strong>涉嫌视觉欺诈的封闭走廊的理论计算</strong></p>
+<p><strong>坡度选取。</strong>根据 GB 50763‑2012《无障碍设计规范》的规定，当坡度 <strong>小于或等于 1:20（也就是 2.86°）</strong> 时，可以直接视为“平坡出入口”或无障碍通行面，不需要严格按坡道严格设计的坡道。</p>
+<p>也就是，我们取坡度角位 2.86°，加上视觉误导、封闭环境、感觉适应这些 buff，可以实现人们对坡度的无感。</p>
+<p><strong>楼层层高选取。</strong>根据去年 5 月新生效的 GB 55038-2025 新版《住宅项目规范》，住宅层高最低 3.0 米，商业建筑一般 4.5 米以内，我们就按最普通的 3 米取层高。</p>
+<p><strong>走廊长度计算。</strong></p>
+<p>结合之前我们选取的坡度和层高，我们可以很简单地得到这个走廊的长度。</p>
+<p>3 米层高÷tan(2.86°) =<strong>60 米。（大概是一个商业综合体的连廊长度）</strong></p>
+<p>也就是建造一条 60 米长的封闭走廊（地砖、墙壁、天花板的纹路全部和地面平行），坡度 2.86 度，从一端走到另一端，你就到二楼了。</p>
+<p>而且你大概率发现不了。</p>
+<p>如果你想更保险，可以把坡度压到 2 度，大约 86 米。</p>
+<p>更更保险，选 1 度，大概 172 米。</p>
+<p>更更更保险，选 0.5 度，也就是 344 米。</p>
+<p>答案就这么无聊.....</p>
+<p><strong>视觉欺诈的封闭走廊的历史记录</strong></p>
+<p>既然这个脑洞这么容易实现，翻了下资料，题主提这个问题的几十年前，就有坏心眼子的朋友这么干了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-33ea690c907c71a6a8f163034b79cead_720w.jpg?source=8673f162" alt=""><figcaption>纽约古根海姆博物馆主展厅螺旋坡道</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-82d764219b3e628d336a732a3b36573a_720w.jpg?source=8673f162" alt=""><figcaption>纽约古根海姆博物馆主展厅螺旋坡道</figcaption></figure>
+<p>1959 年开放的纽约古根海姆博物馆，主展厅就是一条连续的螺旋坡道，从底层一直盘旋到顶层。平均坡度大约 3 度（也就是我们选的 2.86 度附近），最缓的地方几乎是平的.</p>
+<p>去过的人基本都有同一个感受：<strong>你不觉得自己在爬坡。</strong>你就是呆呆地看看画，一幅接一幅，走着走着就到顶了，回头一看，嚯，六层楼。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b5753e40e565a20a76ceeff85a220769_720w.jpg?source=8673f162" alt=""><figcaption>古根海姆博物馆坡面图</figcaption></figure>
+<p>和我们思路差不多，著名建筑师法兰克•劳埃德•莱特，也是精心使坏的，还把坡道的内侧墙面倾斜角度跟地面一致，让我们的视觉参照系从进去那一刻就被欺骗了，实现大脑以为自己一直在走平地，但是脚已经悄悄把你带到了 28 米高的效果。</p>
+<p>赖特要是活着，看到这个问题，大概会说：我 67 年前就画过这个图了，你们现在才想到？题主快来古根海姆参观下。</p>
+<p><strong>最后说几句</strong></p>
+<p>如果不考虑消防法规和空间效率，纯粹从技术角度畅想，这个看起来并不实用的建筑除了作为艺术博物馆炫下技，可能还有别的用途。</p>
+<p>想象一下，我们建造一个这样的建筑：</p>
+<p>建筑平面做成环形或者螺旋形，每一圈周长设计在 60 到 80 米。</p>
+<p>走廊封闭，墙面和天花板的倾斜角度与地面严格一致，地砖纹路沿坡道方向铺设，灯光均匀分布消除阴影造成的坡度线索。</p>
+<p>走一圈，升一层，五圈，五层。</p>
+<p><strong>然后呢，开动下你聪明的大脑，商机就来了。</strong></p>
+<p>我们再把无人配送、智能家居结合起来，做一个"<strong>全无障碍、零台阶"的 3D 养老社区</strong>......</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f0f28e943c81ea53b68ad4264f9796c2_720w.jpg?source=8673f162" alt=""><figcaption>全无障碍、零台阶"的 3D 养老社区</figcaption></figure>
+<p>似乎有点搞头，<strong>有兴趣的西虹市的朋友可以投一下。</strong></p>
+<p>毕竟对轮椅使用者和行动不便的老人来说，楼梯是行动最大的敌人。</p>
+<p>一条这样让人无感的坡道，对于他们来说，可能比电梯更有温度。</p>
+<blockquote>参考来源</blockquote>
+<ol>
+<li><a class=" external" href="http://link.zhihu.com/?target=https%3A//pmc.ncbi.nlm.nih.gov/articles/PMC1155655/%3Fpage%3D9" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">pmc.ncbi.nlm.nih.gov/ar</span><span class="invisible">ticles/PMC1155655/?page=9</span><span class="ellipsis"></span></a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//wexler.free.fr/library/files/proffitt%2520%282001%29%2520seeing%2520mountains%2520in%2520mole%2520hills.%2520geographical%2520slant%2520perception.pdf" target="_blank" rel="nofollow noreferrer">SEEING MOUNTAINS IN MOLE HILLS: Geographical-Slant Perception</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//snamr.shaanxi.gov.cn/sy/ztzl/sbgxhxfpyjhx/bzcx/gjbz/202409/P020250320613009651129.pdf" target="_blank" rel="nofollow noreferrer">GB 50763‑2012《无障碍设计规范》</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=http%3A//www.jianbiaoku.com/webarbs/book/42.shtml" target="_blank" rel="nofollow noreferrer">住宅项目规范</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.archdaily.cn/cn/873316/adjing-dian-suo-luo-men-star-r-star-gu-gen-hai-mu-bo-wu-guan-fu-lan-ke-star-lao-ai-de-star-lai-te" target="_blank" rel="nofollow noreferrer">AD 经典：古根海姆博物馆 / 弗兰克·劳埃德·赖特</a></li>
+<li><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//art.idai.ly/m/imm/50lzjya" target="_blank" rel="nofollow noreferrer">纽约古根海姆博物馆</a></li>
+</ol>
 </div>
 </div>
 
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2012229470271066791">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793465</guid>
-                <pubDate>Fri, 23 Oct 2026 20:53:13 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793476</guid>
+                <pubDate>Sat, 24 Oct 2026 02:56:56 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>古代那些考不上的读书人最终都去哪了？哪些落榜生对历史进程产生了巨大影响?</title>
+                <link>http://daily.zhihu.com/story/9793485</link>
+                <description>宁南左侯，太极生二姨 查看知乎原文 除了现代，任何时期读书识字的人都是少数，也很值钱，所以找一个谋生的出路是完全没问题的，比如这位： 以明代来说，明代的科举并非一蹴而就直接就去考进士，进士那关叫殿试，殿试之前还有会试、乡试、院试、府试、县试，一级一级考上来，每一级都会有落榜的，而每一次被刷下来的人也都有不一样的待遇和政策。 咱们从高往低了说。 殿试，这个不刷人，只是对通过了会试的贡士们做一个重新排…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-126b4991fb84ab87ca890a2435b340e9.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-571144c7e5be56de5addd90c12056267_l.jpg?source=8673f162">
+<span class="author">宁南左侯，</span><span class="bio">太极生二姨</span>
+<a href="https://www.zhihu.com/question/1982138221526807157/answer/2073081997044597387" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>除了现代，任何时期读书识字的人都是少数，也很值钱，所以找一个谋生的出路是完全没问题的，比如这位：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7adb00b47950c4833183f8a0af7030a5_720w.jpg?source=8673f162" alt=""></figure>
+<p>以明代来说，明代的科举并非一蹴而就直接就去考进士，进士那关叫殿试，殿试之前还有会试、乡试、院试、府试、县试，一级一级考上来，每一级都会有落榜的，而每一次被刷下来的人也都有不一样的待遇和政策。</p>
+<p>咱们从高往低了说。</p>
+<p>殿试，这个不刷人，只是对通过了会试的贡士们做一个重新排名，理论上考过了会试就一定能考过殿试，只不过名次可能差别很大罢了，比如崇祯十三年进士韩祥，会试成绩 295（倒数第六），殿试成绩二甲第十名，相当于排名第 13。当然，有进步的就有落后的，这一科的黄葵日，会试 45 名，殿试三甲第二百二十三名，相当于排名第 283。</p>
+<p>虽说理论上殿试不再淘汰人，但也总有特殊情况，会试录取人数和殿试录取人数不一致的情况也经常出现，比如正德十六年，会试 350 人，殿试 330 人，缺了二十人。之所以会出现这种情况，是因为这一科殿试本应该在正德十五年考，明代每逢丑、辰、未、戌四个年份就是大考之年，因此明朝绝大多数的进士也都是这四个属相中榜。正德十五年，岁次庚辰，因此这年春天举行了会试，选出 350 位贡士，但这年三月本应该殿试的时候“武宗幸南京，将巡江浙，殿试遂停”，朱厚照亲征宁王去了，所以贡士们只好在北京等着，等皇上回来，结果皇上回来的路上病了，所以这事就一直拖一直拖，拖到第二年三月朱厚照驾崩于豹房也没补考，还是四月朱厚熜即位之后，宣布在五月“补行正德十五年会试中式贡士殿试”，如此一来，这科进士就拖延了长达一年单三个月之久，所以很多人直接走人了。</p>
+<p>除此之外，还有因为参加完会试之后还没等到发榜就病倒回家休养的，自然也没办法参加殿试，亦或者爸妈去世所以回家守孝（这爹妈也死的是时候），那说这种情况怎么办？其实好办，等到下一科的时候直接来参加殿试就行了。正德十五年这次没赶上殿试的，不少人都参加了嘉靖二年的殿试，比如南京兵部尚书张时彻就是这样，正德十五年会试，嘉靖二年殿试。</p>
+<p>会试才是真正刷人的考试。</p>
+<p>有学者根据现存的明代会试参与人数以及录取人数，统计了一下从洪武四年到万历三十二年这 66 科会试平均录取率，得出的结论是平均落第率 90.64%，基本上也就是十个里头要一个，而且这还是沾了国初洪武永乐时期的光，只看万历时期这个数字基本都是在 93%上下徘徊：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-299585c520645cb35cc104d5c0ae8647_720w.jpg?source=8673f162" alt=""></figure>
+<p>每次录取只有三百五十人，但前来考试的举人动辄四千五六百人，录取的不到总数的领头。</p>
+<p>那说，对于这些人，有什么安置措施呢？</p>
+<p>有的兄弟，有的。</p>
+<p>第一个路子就是回家再学一下，三年之后接着考，一如现在考公没进面的情况一样，只不过明朝是三年一次国考，现在一年一考。这也是绝大多数进士的历程，毕竟一蹴而就的高人到底是少，更多的是中举之后再蹉跎个三四次才能考上，哪怕是张居正，也曾在嘉靖二十三年会试里被刷了下去，下一次的嘉靖二十六年才考上，大礼议的张璁更是“七赴会试不第”，考到第八次才考上。</p>
+<p>第二个路子就是去国子监深造。这事早在洪武年间就有了政策，按理说国子监的监生跟考试的举人是两条路子，双方走的路子也不一样，国子监更像是定向委培，但洪武十八年“令会试下第举人送监卒业”，让这些落地的举人也可以进入国子监学习，一方面也是能让他们脱产读书，另一方面国子监的教育水平到底还是比地方上要好一些的，最后还有一点就是免去了往来奔波的挑费和风险，比如云南的考生，来北京考个试本身就得走仨月，没考上再回去，这就小半年出去了，路上人吃马嚼耗费不说，万一遇到个土匪亦或者感染个风寒，也有失国家体恤读书人的待遇，因此干脆允许落地的去国子监借读，反正三年后就又考试了。这也是为什么明朝科举档案里，会有那么多进士都是“国子生”，不是他们都先考入国子监然后才参会的科举，而是因为考科举没考上所以去了国子监复读，比如前边说的张璁：</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e1362cb8a54ced7a1726bd36baf88092_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过这里就引出两个分支剧情——入国子监不一定非要等到三年之后继续考科举，因为国子监也是有任官名额的，每年吏部都会按照地方上的官吏缺额情况，从国子监定点挑人，“或授小京职，或授府佐及州县正印官，或授教职”，而这种挑人并不局限于地方送上来的贡生，落地的举人也可以报名参与，因此明朝不少名人都是从这个路子步入仕途的，比如土木堡之变的时候殉职的户部尚书王佐就是这样，“永乐中举于乡，卒业太学，以学行闻，擢吏科给事中”，考中举人但是没考入会试，所以入监读书，然后以监生参加遴选入仕。明朝曾用这种方式来解决某些地方因战乱或者其他原因造成的大面积的基层官员缺额，比如设置交阯布政司后就以“交趾新入版图，劳来尤在得人。今府州县多两广、云南岁贡生及下第举人，未入国学，乞仕远方，遂授以职。”的方式，从两广和云南定点挑人补充。</p>
+<p>第二个分支剧情，是没考上但本身成绩不错的人，考试的举人三千，会试只要三百，那第 301 名咋办？回家太可惜，去国子监吧，国子监的老师还没自己会的多呢。有办法，明朝在会试榜单之外增加“乙榜”，一般和正式录取人数差不多，也三四百人，这三四百人可以直接去吏部报道，然后授予州县教职。本来这个政策是配合朱元璋当初搞的振兴基层教育的工程，但后来沿袭成为了惯例，因此也走出来不少高人，最经典的就是海瑞，海瑞在嘉靖二十八年中举，然后参加了嘉靖二十九、三十二年两次会试，但都落榜了，于是走这个教职路子去了福建延平府南平县当教谕。除了海瑞，明末的何腾蛟也是这个路子，他是落榜之后乙榜教职，任山西榆次县教谕。</p>
+<p>而且，这个路子较之于第一个去国子监读书还有个优势，那就是明朝允许先当官然后再考进士，两不耽误，比如何腾蛟，他从榆次教谕转升为介休知县，但如果他坚持走进士路子，其实初次授官也大概率是知县，因此对自己信心不大的还不如先当个官，万一考个十年二十年还没考中的话，走教职入仕差不多也能到个知州府同了。</p>
+<p>这一点最牛逼的存在应该是宣德八年状元曹鼐，此公在永乐二十一年在直隶老家中举，然后永乐二十二年会试落榜，宣德二年第二次会试再次落榜，但得中了乙榜，所以走教职去山西代州当训导去了。宣德四年，他给皇上说自己才疏学浅不配当别人的老师还是去国子监读书吧，皇上说那怕什么的，干中学嘛，给他换了个差事，去江西泰和县当典史。宣德七年他带泰和县的工匠来北京干活，手痒又参加了本年的顺天乡试，再次中举（范进哭死的心都有了），于是留下参加了第二年的会试，结果考中了，然后殿试第一，状元及第。</p>
+<p>在明代，能享受此待遇的也不光是乙榜，连乙榜都没考上的举人也可以用这个方式去任职。明朝这种从基层小官再参加会试考中进士的不少，典史、县丞、驿丞、教谕、训导都有。</p>
+<p>但真正的问题并不是这些落第举人，如果说举人到贡士的 92%的落榜率已经够狠了，那么秀才考举人的乡试就更吓人了，因为乡试这一关的落第率是 96%：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0319d32fb1db6131c013f14c5d4ba5dd_720w.jpg?source=8673f162" alt=""></figure>
+<p>要不怎么范进中举会疯呢，4%不到的概率落你头上你也这样。</p>
+<p>明代的秀才落第，跟举人落第一样，是保留秀才身份的，这一科考不过你可以下一科继续考，不会过期，这点跟之前唐宋元不一样，人那会儿考不过就过期了，下次考上从头来。</p>
+<p>然而这 5%都不到的比例也确实过于离谱了，所以仍然需要一些政策来保护这些考不上的人，保留身份是一方面，还有其他的一些措施，比如增设乡试副榜，相当于候补举人，如果正牌举人出事，那就可以从副榜这儿补充。后来的时候又有了新的政策，副榜可以以充贡的方式进入国子监读书，较之于落榜的举人，这帮落榜的生员往往对国子监是比较向往的，国子监的教育水准也绝对是高出他们这帮秀才一大截的，因此这个出路对于落第的秀才来说也是一个非常大的鼓励了，况且国子监生是可以直接遴选的，因此，即便在乡试中落第，但只要能得到一个副榜乃至贡生的身份，也基本标志着半只脚踏入了仕途，相当于乡试的通过概率扩大了两三倍，而不再是原来的 4%。</p>
+<p>那就还剩最后一种情况——如果我连秀才都考不上，咋办？</p>
+<p>哎呀，这就很麻烦了，要知道，明代入仕的最基本门槛也是贡生，而贡生最次也得是个生员，如果连生员都考不上，那意味着连门槛条件都没达到。</p>
+<p>但也有办法，扩招。</p>
+<p>生员，就是在府州县官学就读的学生，按明代的规定，这个学生名额是固定的，府学 40 人，州学 30 人，县学 20 人，生员每人月给廪米六斗，政府养着。可是在明朝中期开始，一个县动辄十万人，适读青年大几千计都是少的，这二三十人的名额绝对不够，所以就得扩大名额。</p>
+<p>宣德元年，增设“增广生”，名额照原额翻番，本来府学生员 40 人，现在再增加四十个“增广生”的名额，府学就达到了 80 人，相应的考试录取压力也就小了一些，不过，这个“增广生”是不享受每个月廪米六斗的待遇的，但可以享受优免差徭的待遇。</p>
+<p>然而即便加上了增广生，官学的名额也是太少，无非就是录取比例从 1%变成了 2%，竞争压力依然极大，所以还得继续扩招，正统时期，“附学生”应运而生。“附学生”也没有廪米的待遇，甚至连优免差徭的待遇都没有，但可以在官学免费读书，<strong>学费这块是全免的</strong>，而且还有内部考试，考试通过之后可以晋升为增广生以及廪膳生，最重要的是，这个“附学生”是不限名额的，来俩人，俩人是附学生，来二百人，二百人也可以都是附学生。</p>
+<p>因此，理论上来说，明朝不存在“落第”的生员，因为再多的生员也可以充入“附学生”这个群体里，如果只看这条的话，甚至可以吹嘘说明朝实行全民免费教育……</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1982138221526807157">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793485</guid>
+                <pubDate>Sat, 24 Oct 2026 02:56:59 GMT</pubDate>
             </item>
             
     </channel>
