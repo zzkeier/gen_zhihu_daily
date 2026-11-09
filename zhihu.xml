@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Sun, 08 Nov 2026 21:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 04:11:30 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>彩虹为什么是弧形，而不是完整的圆形，阳光经过水滴折射反射，为什么会形成固定的七彩色彩顺序？</title>
-                <link>http://daily.zhihu.com/story/9793804</link>
-                <description>黄河边儿，勤学善思，理性科普，热爱生活，向阳而行。 查看知乎原文 彩虹本来就是一个圆。只要位置合适，看到的就会像这样： 圆形彩虹，图来自：https://enewstree.com/discuz/forum.php?mod=viewthread&amp;amp;tid=133467 https://x.com/mark_tarello/status/1915729420737785879/photo/1 …</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-475de270d98502cc9c18996827023b98.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>一家三口食用炒鸡蛋后中毒，原因是水洗后储藏导致变质了，为什么这样保存有风险？放冰箱门格子影响有多大？</title>
+                <link>http://daily.zhihu.com/story/9793827</link>
+                <description>野狸子，形而上学 查看知乎原文 专家是要逼死强迫症吗？ 专家的建议如下，鸡蛋不要水洗后存放，以免破坏蛋壳表面的天然胶质保护膜。 这话只说了一半，但其实也没必要过于焦虑。 早在 2005 年，有项名为《Study on the microbial quality of experimentally washed eggs》研究专门就分析了用温水洗、洗完吹干的鸡蛋的所谓的细菌微生物的对比。[1] 其结…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-555a98d3389232e5e5c199cf175c73cc.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,400 +31,434 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-0fd0250f9351a36609cf1c86eb757e4e_l.jpg?source=8673f162">
-<span class="author">黄河边儿，</span><span class="bio">勤学善思，理性科普，热爱生活，向阳而行。</span>
-<a href="https://www.zhihu.com/question/2079131159322177959/answer/2079361219308296016" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-23a5ac848ef7c6e98ed157c37ef33b6c_l.jpg?source=8673f162">
+<span class="author">野狸子，</span><span class="bio">形而上学</span>
+<a href="https://www.zhihu.com/question/2097613742233970119/answer/2097658181191259295" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>彩虹本来就是一个圆。</strong>只要位置合适，看到的就会像这样：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e3346227cb1bf1135ef52e516e96808f_720w.jpg?source=8673f162" alt=""><figcaption>圆形彩虹，图来自：https://enewstree.com/discuz/forum.php?mod=viewthread&amp;tid=133467</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-139444be4da8c2f5c783cfffa431d498_720w.jpg?source=8673f162" alt=""><figcaption>https://x.com/mark_tarello/status/1915729420737785879/photo/1</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-89b8f6a617d4a4a5c1fbf86c7b432a4f_720w.jpg?source=8673f162" alt=""><figcaption>https://www.tumblr.com/tagged/circle</figcaption></figure>
-<p>之所以，<strong>我们看到的都是一个拱门的弧型形状，像下面这样，是因为地面挡住了圆环的下半圈</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c8d4844cf591a591649107d046a0a482_720w.jpg?source=8673f162" alt=""><figcaption>我拍的窗外彩虹</figcaption></figure>
-<p>但是不是所有的位置都可以看到彩虹，<strong>这里有一个关键的角度 40-42 度</strong>，那这个角度是怎么来的呢？</p>
-<p>彩虹形成的基本原理是光的色散，即光的不同波长在介质中的传播速度不同，从而导致折射率不同。在彩虹这个问题中，光在水中的速度会降低，不同波长的光会以不同的速度传播，<strong>短波长的蓝光和紫光在介质中的速度比长波长的红光慢。</strong></p>
-<p>所以，按照 snell 定律，sinθ1/v1=sinθ2/v2 ,红光具有更小的折射角度。</p>
-<p>好了，那么当雨后空气中充满了小水滴，而此时有又有阳光照射，就有可能出现彩虹。假设下图蓝圈是亿万颗小水滴中的一个，黑色虚线是此时太阳光照射来的自然光，那么太阳光就会在这颗小水滴中发生如下图所示的色散，具体说就是<strong>在 A 点发生折射，然后在 B 点发生全反射，C 点再次折射。</strong></p>
-<p>值得注意的是，想要形成明显的色散，进而形成明显的彩虹，需要太阳光在 A 点的入射角和在 C 点的出射角有一定的角度才可以，过大或者过小都会导致色散变弱，进而导致彩虹不可见，理想的角度是：<strong>太阳光入射的延长线和红光出射的延长线交角在 42 度，</strong>如下图标记<strong>。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd14636928db01a5cd28558e83a93fbb_720w.jpg?source=8673f162" alt=""><figcaption>光在一颗小水滴中发生色散：太阳光入射的延长线和红光出射的延长线交角在 42 度</figcaption></figure>
-<p><strong>太阳光入射的延长线和紫光出射的延长线交角在 40 度，</strong>如下图<sup>[1]</sup>所示<strong>。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-535ae303a0f3b068d8dcf46b0aee8206_720w.jpg?source=8673f162" alt=""><figcaption>光在一颗小水滴中发生色散：太阳光入射的延长线和紫光出射的延长线交角在 40 度</figcaption></figure>
-<p>那么，水滴色散后，怎么形成彩虹呢？</p>
-<p>要知道这样的水滴有亿万个，下图画了一个示意图，黑色是入射的平行太阳光。为了做图清晰，我只展示了赤黄青紫四个颜色，<strong>不同位置的水滴同时发生光的色散，然后聚焦在人眼处，所以，这时候人眼中看到了多种颜色的自然光。</strong></p>
-<p>彩虹通常出现在太阳的对侧，也就是说，太阳在人的背后，观察者面向水滴时才能看到彩虹。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-77b0be05daf3a25a6c9b9c430a8ad26a_720w.jpg?source=8673f162" alt=""><figcaption>多个水滴的色散，被人观察到多种颜色的光</figcaption></figure>
-<p>一个立体图的展示如下图。一个地面上的观测者可以在角度合适的时候（太阳光入射和小水滴散射的出射角夹角在 40-42 度之间），看到半圈的彩虹；这时候，地面把你视线以下的部分遮挡了，40–42° 光锥与雨滴幕只在地平线以上有交线，所以是一个拱形。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b717523981adf67dfff59c5554eab286_720w.jpg?source=8673f162" alt=""><figcaption>太阳在身后，观测角度 40-42 度，看到拱形彩虹，图来自：https://www.amsweatherband.org/weatherband/articles/invisible-rainbows/</figcaption></figure>
-<p>但是如果观测者在高处，如下图，<strong>就可能看到整个彩虹</strong>，就像题目里描述的那样。</p>
-<p>这时候，人视线的下方也有大量悬空雨滴，地平线不再把圆的下半截挡住，所以整个圆形彩虹都能展示出来，当然前提是雨滴分布要足够广。图里的彩虹的边界的红光对应的观测夹角是 42 度；而紫光边界对应的观测夹角是 40 度。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0105b11efa841eacd32d99f37b2e01fa_720w.jpg?source=8673f162" alt=""><figcaption>观测者在高处，人视线的下方也有大量悬空雨滴，地平线不再把圆的下半截挡住，看到整个圆形彩虹</figcaption></figure>
-<p>当然，也可以这么理解：<strong>彩虹出现的关键是观测位置符合 40-42 度的角度</strong>，当这个角度固定了，就好比，<strong>我们拿着圆规，固定角度 40 和 42 度，然后圆规的一条腿固定指向人眼，另一个条腿转圈，形成的路径就是彩虹的边界</strong>(40- 紫光边界，42- 红光边界)。如果是在地面空间有限，就只有半个圆，如果是在高空，空间充足，这样整个圆形彩虹都能展示出来。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6f7e2d991fecee9c7703f1ba3835364a_720w.jpg?source=8673f162" alt=""><figcaption>飞机上看到的圆形彩虹</figcaption></figure>
-<p>总结一下就是，彩虹之所以是圆的，是因为光在小水滴内经过折射和反散后，<strong>出射角和入射角满足特定夹角，以人眼为中心观测不同位置同一角度的出射光，就会看到圆形。</strong></p>
-<p>最后贴一张我在尼亚加拉瀑布拍到的彩虹：</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-d5dbe7a60fae378eaadd9315afd05703_720w.jpg?source=8673f162" alt=""><figcaption>大彩虹</figcaption></figure>
+<p>专家是要逼死强迫症吗？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-41be2e16d809c333f0e2511bdd2ae8a7_720w.jpg?source=8673f162" alt=""></figure>
+<p>专家的建议如下，鸡蛋不要水洗后存放，以免破坏蛋壳表面的天然胶质保护膜。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4ddc030cf3ab3b5b76dcd7a188981fb0_720w.jpg?source=8673f162" alt=""></figure>
+<p>这话只说了一半，但其实也没必要过于焦虑。</p>
+<p>早在 2005 年，有项名为《Study on the microbial quality of experimentally washed eggs》研究专门就分析了用温水洗、洗完吹干的鸡蛋的所谓的细菌微生物的对比。<sup>[1]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4147929ff9a4b5ece42554c0540b9f0e_720w.jpg?source=8673f162" alt=""></figure>
+<p>其结论也很直观，在 20℃下储存 28 天后，其实洗过的蛋里的细菌和没洗的并没有显著差别的。</p>
+<p>所以很可能洗本身并不是原罪，这个新闻中真正搞事情的，大概率是洗的方式，以及洗完往哪放。</p>
+<p><strong>先说洗。</strong></p>
+<p>鸡蛋壳并非铁板一片，微观来看就是个筛子。<sup>[2]</sup></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-028e0267e73cbef731ebafbcb7f1d197_720w.jpg?source=8673f162" alt=""><figcaption>鸡蛋壳结构。a. 扫描电子显微镜照片显示的鸡蛋壳横断面。b . 鸡蛋壳各层的相应标注图。鸡蛋的外壳不是一块均匀的“钙片”，而是由保护膜、矿化硬壳和纤维膜组成的多层复合结构。常见鸡蛋蛋壳厚度约为 0.3～0.4 毫米，硬壳主要由碳酸钙的方解石晶体构成，其中夹有少量有机基质。</figcaption></figure>
+<p>冷知识，一枚鸡蛋壳上大约有 7000 到 17000 个气孔，蛋壳表面积按 70 平方厘米左右粗算，每平方厘米两百多个孔。<sup>[3]</sup></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9dc73dc2a13f7afaafecbc4bfd4a20fe_720w.jpg?source=8673f162" alt=""><figcaption>胚胎呼吸的气体经由蛋壳交换，水分与二氧化碳会透过气孔散失，外界气体也能进入。</figcaption></figure>
+<p>不过蛋壳上的微小气孔，既是生命的呼吸通道，也是外界威胁的入口，细菌入侵鸡蛋，通常就是利用蛋壳上的气孔作为入侵途径。<sup>[4]</sup></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-469f56bb8c0239ee2135f64c2c01bbe5_720w.jpg?source=8673f162" alt=""><figcaption>扫描电子显微镜 (SEM) 图像： （A） 鸡蛋壳外表面，显示 1000 倍放大倍率下的孔隙开口。 （B） 和 （C） 更高放大倍率 5000 倍。（原图由 GK 提供）</figcaption></figure>
+<p>为了让小鸡能够顺利孵出来，母鸡下蛋前，会在蛋壳外面糊一层 0.01 到 0.03 毫米厚的薄膜，这层薄膜又叫角质层，顺带把这些孔堵上。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d316b02b0ca4b705e2372f82155c9705_720w.jpg?source=8673f162" alt=""><figcaption>角质层可以起到堵塞气孔、抑制细菌进入并减缓失水，但不会让鸡蛋完全隔绝空气的奇用</figcaption></figure>
+<p>你可以理解为，这玩意就是鸡蛋的出厂保护膜。<sup>[5]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b6719af1110f474e3169778094aa586b_720w.jpg?source=8673f162" alt=""><figcaption>蛋壳角质层成分和结构</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b7a14cbc10cd0b077f402e8648278176_720w.jpg?source=8673f162" alt=""><figcaption>1000 倍放大倍率下的扫描电子显微镜（SEM）图像显示，鸡蛋壳角质层外表面呈斑块状分布，并伴有裂纹和缝隙。</figcaption></figure>
+<p>但它有个致命的弱点，怕水，一搓一冲这层膜就花了。</p>
+<p>这大概也是专家提醒的鸡蛋不能水洗的原因的出处。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fa2ad83ddacb72c82fccbb5b36049832_720w.jpg?source=8673f162" alt=""></figure>
+<p>但膜花了，细菌也得有个交通工具才方便进得去哇。</p>
+<p>这就绕不开一个洗蛋的大忌了，蛋比水暖，可能也是本新闻中真正的元凶。</p>
+<p>像是新闻中的这家人洗蛋，大概率用的基本是凉自来水，时值秋冬，水温往往比蛋还低，洗完角质层被磨花了，然后鸡蛋湿漉漉直接塞冰箱。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-25b6e79519919f74d2c870699b112390_720w.jpg?source=8673f162" alt=""></figure>
+<p>蛋里的内容物再遇冷收缩，内部压强一降，这种抽吸效应下，蛋壳表面那点水带着各种微生物就被气孔吸了进去。</p>
+<p>自然细菌蛋养成计划就开始了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fef12a1171e0192f7739a93af97afc06_720w.jpg?source=8673f162" alt=""><figcaption>细菌霉斑蛋，光照不会呈现半透明，打开蛋壳能看见霉菌附着，绝对不能食用。</figcaption></figure>
+<p>切记，“室温蛋 + 明显更凉的水 + 浸泡或长时间冲淋 + 湿着直接冷藏”效果更佳。<sup>[6]</sup></p>
+<p>至于怎么判断你家鸡蛋还能不能吃，可见下图。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bbc294a6f2c0d9f84cea8d5a14ff3569_720w.jpg?source=8673f162" alt=""><figcaption>鸡蛋变质有 4 个明显特征：①长斑，在蛋壳上生出肉眼可见的黑色霉斑，伴有腐臭味。②散黄，细菌、霉菌通过蛋壳气孔侵入鸡蛋内部，造成散黄，甚至蛋黄和蛋清混在一起，往往带有异味。③有裂纹，外壳出现裂缝、裂纹，易被细菌侵入。④粘壳，若蛋黄膜紧贴蛋壳不动，贴皮外呈深黑色且有异味的，不宜再吃。</figcaption></figure>
+<p>其实这个原理在鸡蛋工业界早就被玩明白了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b530322881b9f93a4550f1eb33b5d88c_720w.jpg?source=8673f162" alt=""><figcaption>美国的蛋鸡生产商必须清洗自家生产的鸡蛋，清洗方法包括肥皂、酶或氯。原因是为了控制沙门杆菌，这是一种附着在鸡蛋上具有潜在致命性的细菌。也因此清洗完后，需要立即冷藏以保鲜。</figcaption></figure>
+<p>冷知识，其实美国一直以来对市售鸡蛋普遍采取“必须洗”的政策，主要考虑是降低蛋壳表面沙门氏菌等病原体的传播风险。<sup>[7]</sup></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e84564a9e54a071a9b17cb80c9ab766b_720w.jpg?source=8673f162" alt=""></figure>
+<p>ps，美国农业部《Egg Grading Manual》对商业洗蛋有硬性规定，洗蛋水不低于 32.2°C，还得比蛋的内部温度高至少 20°F（约 11°C）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9d4ccfafdc9b5cd9b75da657bdf657e3_720w.jpg?source=8673f162" alt=""><figcaption>清洗包装好的鸡蛋存放在冰箱中，等待分销。</figcaption></figure>
+<p>其目的只有一个，角质层虽然破了，让蛋往外胀，别往里吸，问题也不大。</p>
+<p>工厂洗蛋卡水温、加消毒、立刻烘干冷藏，一条龙服务，似乎也没多大问题。<sup>[8]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6fd89943be0dd18c6e9885155d5c6e44_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过人家是工业路线，你想用家里一盆凉水搓完，带着水就往冰箱里塞，可以祈祷一下。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-687f66bfe3978b73a81955da62281fe2_720w.jpg?source=8673f162" alt=""></figure>
+<p>冷知识，相对于美国则是必须洗、洗完必须一路冷藏的策略，欧盟是反着来的，A 级鲜蛋法规上禁止清洗，超市常温摆着卖。<sup>[9]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5cb9def50d00c695ff0496d6021e6d74_720w.jpg?source=8673f162" alt=""><figcaption>欧洲的超市不冷藏鸡蛋。</figcaption></figure>
+<p>究其原因也很简单，角质层这个膜在，就别洗；而膜没了，就得冷藏到底。</p>
+<p><strong>再说冰箱门</strong></p>
+<p>沙门氏菌在低温下增殖会大幅放缓，美国规定鲜蛋储运温度不高于 45°F（7.2°C），就是冲着这点去的。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c767d3a045ffd07a0ec594205e177532_720w.jpg?source=8673f162" alt=""></figure>
+<p>冷知识，根据相关报道，冰箱冷藏室的最佳设定温度是 4℃左右（0-5℃区间），冷冻室应保持在 -18℃或更低。<sup>[10]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-93c7c09ead1a6720cdc02c7b3b73ac1a_720w.jpg?source=8673f162" alt=""></figure>
+<p>但问题来了，冰箱冷藏室设置的 4°C 左右是冷藏核心区的温度。但冰箱频繁开门，每开一次门，门架附近的空气几十秒就能窜到 8 到 12°C，关上后要 10 到 30 分钟才能回落下来。</p>
+<p>门上那排蛋基本就在沙门氏菌的适宜的繁殖温度上反复横跳。</p>
+<p>另外，根据相关数据，室内 25°C、湿度 60%的空气，露点大约 17°C，冰箱门一开，热湿空气一涌进来，蛋壳上就会结露出一层水珠.....<sup>[11]</sup></p>
+<p>所以把鸡蛋在放门格子影响如下：</p>
+<p>没洗过的蛋放门上，膜还在，主要影响的是鲜度，沙门氏菌繁殖起来快点，短期安全问题不大；但洗过的蛋放门上，就是没了保护膜、吸进去几滴脏水、再在 7°C 线上来回晃几天的组合。</p>
+<p>前者是品质问题，但后者是安全问题。</p>
+<p>此时一盘嫩炒蛋上场，即可完成最终的收割。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd8b88a2feadfffeb3debd52775d2d29_720w.jpg?source=8673f162" alt=""></figure>
+<p>嫩炒讲究一个滑，蛋液刚凝固就出锅，中心未必热透，细菌没法加热杀死，一家三口这就整整齐齐送医院了。</p>
+<p>其实我挺好奇厂家为什么喜欢把蛋托做在门上的，查了一圈没找到靠谱解释，大概率可能门上那块空间刚好放得下，不过应该和适不适合放蛋没啥关系。</p>
+<p>ps，我国现行食品安全国家标准 GB 2749-2015《食品安全国家标准 蛋与蛋制品》，并没有规定所有鲜蛋上市前必须清洗消毒。<sup>[12]</sup></p>
+<blockquote>上海这几年也发布了《优质保洁鸡蛋生产经营卫生规范》的团体标准，要求对分拣后的完好蛋进行清洗、消毒、干燥，并使用符合食品安全要求的白油等涂膜，以补充清洗后损失的蛋壳天然保护功能。</blockquote>
+<p>不过这几年各种保洁蛋、清洁蛋、可生食鸡蛋高端产品名字也是层出不穷。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0aa09487dfaf0b7ba3f3bfd23e7627a1_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-742e52a1064a9443e1b352c460d17f54_720w.jpg?source=8673f162" alt=""></figure>
+<p>各位高端吃蛋玩家看到这些名字可以引起关注，保存方式是完全不同的。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5990256cd004bf13c5555b69c05759af_720w.jpg?source=8673f162" alt=""></figure>
+<p>省流，论普通玩家怎么吃鸡蛋？</p>
+<p>脏蛋用干纸巾擦，真要洗就下锅前洗；</p>
+<p>蛋连盒子放冷藏室中层靠里；</p>
+<p>已经洗过的，擦干，几天内吃完，炒熟。</p>
+<p>over。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2097613742233970119">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793827</guid>
+                <pubDate>Mon, 09 Nov 2026 04:11:27 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>为什么做豆腐用黄豆，不用其他豆类？</title>
+                <link>http://daily.zhihu.com/story/9793832</link>
+                <description>罗叔，资深食材与烹饪研究专家。食材溯源｜风味原理｜烹饪技巧 查看知乎原文 假设你拿一斤绿豆，按做豆腐的流程走一遍：泡一夜、磨浆、滤渣、煮开、点卤。 你会得到一锅绿豆汤，表面浮一点絮状的东西，底下沉一层沙。点不成豆腐。 这个失败不是手艺问题，是原料不对。豆腐不是”把豆子煮凝固”，它是蛋白质凝胶——一个很具体的物理化学过程，对原料有三个硬条件。黄豆刚好三条全占，其他豆基本都不占。 豆腐到底是什么 先把…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d808a05e2a62c3a3469ff193399c6154.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pica.zhimg.com/v2-c5b69a32e442a85dcc9a35adb336ba61_l.jpg?source=8673f162">
+<span class="author">罗叔，</span><span class="bio">资深食材与烹饪研究专家。食材溯源｜风味原理｜烹饪技巧</span>
+<a href="https://www.zhihu.com/question/2095770019644825863/answer/2095929869699904770" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>假设你拿一斤绿豆，按做豆腐的流程走一遍：泡一夜、磨浆、滤渣、煮开、点卤。</p>
+<p>你会得到一锅绿豆汤，表面浮一点絮状的东西，底下沉一层沙。点不成豆腐。</p>
+<p>这个失败不是手艺问题，是<strong>原料不对</strong>。豆腐不是”把豆子煮凝固”，它是<strong>蛋白质凝胶</strong>——一个很具体的物理化学过程，对原料有三个硬条件。黄豆刚好三条全占，其他豆基本都不占。</p>
+<p><strong>豆腐到底是什么</strong></p>
+<p>先把过程拆开。</p>
+<p>黄豆泡发、磨浆、滤掉豆渣，得到豆浆。豆浆里主要是水，加上分散的蛋白质和脂肪球。这时候它是<strong>溶胶</strong>——蛋白质分子表面带同种电荷，互相排斥，所以悬在水里不沉。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-744a0bc3b1fdbb550a29878769006822_720w.jpg?source=8673f162" alt=""></figure>
+<p>加热到九十度以上，蛋白质变性，球状的分子展开，内部疏水的部分露出来，但因为有电荷排斥，还是连不起来。</p>
+<p>点卤的作用，是<strong>把这些电荷中和掉</strong>。石膏（硫酸钙）提供钙离子，卤水（氯化镁）提供镁离子，内酯（葡萄糖酸 -δ- 内酯）则是慢慢释放酸，把 pH 拉到蛋白质的等电点附近。</p>
+<p>电荷一没，展开的蛋白分子就开始互相靠近，通过疏水作用、氢键、二硫键交联，形成一个<strong>三维网络</strong>。这个网络把水、脂肪、一部分可溶性物质全部困在里面。</p>
+<p>这个网络就是豆腐。它的手感是”嫩”还是”老”，取决于网络的粗细和孔隙——孔隙小、持水多，就是嫩豆腐；孔隙大、出水多，就是老豆腐。</p>
+<p>所以做豆腐的本质，是<strong>让蛋白质交联成一个能持水的网</strong>。能不能做，取决于原料能不能提供足够的、能交联的蛋白质。</p>
+<p><strong>三个硬条件</strong></p>
+<p><strong>条件一：蛋白质够多。</strong> 豆浆里蛋白浓度太低，交联点不够，网络连不成片，只能是絮状沉淀。一般要求干豆蛋白在百分之三十以上。</p>
+<p><strong>条件二：蛋白质能凝胶。</strong> 不是所有蛋白都能交联成有弹性的网。大豆蛋白里有两类主要的贮藏球蛋白，一类沉降系数是 7S，一类是 11S。11S 的凝胶能力最强——它分子大、疏水基团多、加热后展开得彻底，交联出来的网结实、有弹性、持水好。7S 的凝胶性弱一些，但它负责”细腻”。两者的比例合适，豆腐才有那种”嫩而有骨”的口感。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9fcfe87beb4fdfa72e49b38706781b3e_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>条件三：淀粉够少。</strong> 这一条最容易被忽略。淀粉在加热时会糊化，吸水膨胀，把水抢走。蛋白网络还在形成，水已经被淀粉占住了，结果就是一锅”粉糊”，不是”凝胶”。淀粉糊化的胶和蛋白交联的胶，口感完全是两回事：前者是”沙、面、糊嘴”，后者是”嫩、滑、有弹性”。</p>
+<p><strong>黄豆刚好三条全占</strong></p>
+<p><strong>蛋白含量高。</strong> 干黄豆的蛋白质大约百分之三十五到四十，是常见食用豆类里最高的。</p>
+<p><strong>蛋白组成合适。</strong> 大豆的 11S（大豆球蛋白）和 7S（β- 伴大豆球蛋白）比例大约在一比一上下，这个比例做出来的豆腐既有弹性又有细腻度。11S 偏多，豆腐偏硬、偏”老”；7S 偏多，偏软、易碎。</p>
+<p><strong>几乎没有淀粉。</strong> 黄豆的淀粉含量在百分之一二，基本可以当零。它不含淀粉，含的是脂肪（百分之十八到二十）和膳食纤维。这个脂肪很关键——它在磨浆时和蛋白形成乳化，豆腐的”香”和”滑”来自它，不是来自水。脱脂大豆（豆粕）做的豆腐，明显寡淡、发柴，就是这个原因。</p>
+<p><strong>其他豆为什么不行</strong></p>
+<p><strong>绿豆。</strong> 蛋白百分之二十出头，淀粉百分之五十以上。你按豆腐的流程做，淀粉糊化之后把水抢光，蛋白网络被稀释在淀粉糊里，结果是”沙”。绿豆的正确出路是<strong>淀粉路线</strong>：凉粉、粉丝、绿豆糕，全是利用它的淀粉，不是蛋白。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d381be56ed8975d31956b577c2548984_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>红豆。</strong> 淀粉百分之五十五左右，蛋白百分之二十。做豆沙是对的，做豆腐是错的。</p>
+<p><strong>豌豆。</strong> 蛋白百分之二十到二十五，淀粉百分之五十。豌豆黄、粉丝，都是淀粉制品。</p>
+<p><strong>蚕豆。</strong> 蛋白百分之二十五，淀粉百分之四十以上。豆瓣、粉丝。</p>
+<p><strong>鹰嘴豆。</strong> 东南亚和南亚有一种叫”鹰嘴豆豆腐”的东西，但它的做法是把鹰嘴豆粉加水煮成糊，再冷却成型。那不是蛋白凝胶，是<strong>淀粉 - 蛋白混合胶</strong>，口感像糕、像布丁，一夹就碎，跟豆腐的”嫩而不断”完全不是一回事。</p>
+<p><strong>花生。</strong> 蛋白百分之二十五，脂肪百分之五十。能做出”花生豆腐”，但因为没有 11S 那种强凝胶蛋白，成品软、易碎、没有弹性，更像是”花生布丁”。</p>
+<p><strong>芝麻。</strong> 日本的”胡麻豆腐”听着像豆腐，其实主要靠葛粉或者淀粉凝固，跟豆类没关系。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d944e991dbf983dbc07c1d57382523cb_720w.jpg?source=8673f162" alt=""></figure>
+<p>一条判断法则，你可以拿去套任何豆：<strong>蛋白三成以上、淀粉五个点以下，才可能做成豆腐。淀粉四成以上，只能做粉、凉粉、豆沙。</strong></p>
+<p><strong>能做的例外：其实也有几种</strong></p>
+<p><strong>黑豆。</strong> 黑豆本身就是大豆，只是种皮是黑的。它能做豆腐，颜色灰黑或者带紫，豆腥味比黄豆重，凝固剂的用量要稍微多一点。有些地方专门做黑豆腐。</p>
+<p><strong>青豆（青皮大豆）。</strong> 也是大豆，能做成豆腐，颜色偏青。</p>
+<p><strong>双青豆、褐大豆。</strong> 同属栽培大豆，都能做。</p>
+<p>所以准确的说法不是”只有黄豆能做”，是”<strong>大豆这个种能做，其他豆不能</strong>“。黄豆只是大豆里最常见、最适合的一个品种——它的蛋白含量稳定、脂肪足、种皮薄、豆腥轻。</p>
+<p><strong>凝固剂为什么是那三种</strong></p>
+<p>顺带说一下，因为很多人做到这一步会卡住。</p>
+<p><strong>石膏（硫酸钙）。</strong> 钙离子凝固，速度慢，网络细，持水好，适合嫩豆腐、南豆腐。用量大约是干豆重量的百分之二到三。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7c1e9b7db888f1d053122c268b30cca2_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>卤水（氯化镁）。</strong> 镁离子凝固，速度快，出水多，网络粗，适合老豆腐、北豆腐。用量比石膏少，点的时候要慢，边加边搅。</p>
+<p><strong>内酯（葡萄糖酸 -δ- 内酯）。</strong> 加水后缓慢水解成葡萄糖酸，pH 慢慢下降，凝固均匀，最嫩，适合豆花、内酯豆腐。用量大约是豆浆的百分之零点三。</p>
+<p>温度是关键参数：<strong>七十五到八十五度之间点浆</strong>。太高，蛋白凝固太快，网络粗糙、出水；太低，凝不起来，成一锅浑汤。</p>
+<p><strong>一个两小时能做完的对照实验</strong></p>
+<p>这个比看十篇文章有用。</p>
+<p>买三两黄豆、三两绿豆、三两豌豆。分别泡八小时，分别按一比八加水打浆、滤渣、煮开（煮的时候要不停搅，容易糊底）。三锅豆浆分别降温到八十度，各加一点石膏水，静置十五分钟。</p>
+<p>结果你会看到：</p>
+<p>黄豆那锅结成一块，能切，能夹。 绿豆那锅是一锅浑汤，底下沉沙，上面浮絮。 豌豆那锅稍微好一点，成糊状，一碰就散。</p>
+<p>这个差别不是”浓度”或者”手法”，是原料的蛋白和淀粉比例决定的——<strong>你没法用技术弥补原料</strong>。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f1d44d0ba8b24a8440e5f57104c5aa45_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>速查</strong></p>
+<table>
+<tbody>
+<tr><th>豆类</th><th>蛋白</th><th>淀粉</th><th>能不能做豆腐</th><th>正确出路</th></tr>
+<tr>
+<td>黄豆</td>
+<td>35–40%</td>
+<td>1–2%</td>
+<td>能，最佳</td>
+<td>豆腐、豆浆、酱油</td>
+</tr>
+<tr>
+<td>黑豆</td>
+<td>35–40%</td>
+<td>1–2%</td>
+<td>能，色深味重</td>
+<td>黑豆腐、豆豉</td>
+</tr>
+<tr>
+<td>青豆（大豆）</td>
+<td>35–38%</td>
+<td>1–2%</td>
+<td>能</td>
+<td>青豆腐</td>
+</tr>
+<tr>
+<td>绿豆</td>
+<td>20–24%</td>
+<td>50%+</td>
+<td>不能</td>
+<td>凉粉、粉丝</td>
+</tr>
+<tr>
+<td>红豆</td>
+<td>20%</td>
+<td>55%+</td>
+<td>不能</td>
+<td>豆沙</td>
+</tr>
+<tr>
+<td>豌豆</td>
+<td>20–25%</td>
+<td>50%</td>
+<td>不能</td>
+<td>豌豆黄、粉丝</td>
+</tr>
+<tr>
+<td>蚕豆</td>
+<td>25%</td>
+<td>40%+</td>
+<td>不能</td>
+<td>豆瓣、粉丝</td>
+</tr>
+<tr>
+<td>鹰嘴豆</td>
+<td>20%</td>
+<td>45%</td>
+<td>勉强，非真豆腐</td>
+<td>鹰嘴豆糕</td>
+</tr>
+<tr>
+<td>花生</td>
+<td>25%</td>
+<td>10%</td>
+<td>勉强，易碎</td>
+<td>花生豆腐（布丁状）</td>
+</tr>
+</tbody>
+</table>
+<p><strong>最后</strong></p>
+<p>这题看起来是”习惯”或者”传统”，其实是<strong>原料的物理性质决定的</strong>。</p>
+<p>传统之所以是传统，往往因为它是当年试错的结果——几百年前的人未必知道”11S 球蛋白”这个词，但他们试过所有的豆，发现只有大豆能点成块。这个结论是用无数锅失败换来的，跟今天的实验室结论一致。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a131d853f9bb22029990a119d62fd182_720w.jpg?source=8673f162" alt=""></figure>
+<p>真要说哪一句最值得记住，是”<strong>豆腐是蛋白质凝胶，不是豆子糊</strong>“。想通这一句，你就明白为什么绿豆只能做凉粉，也明白为什么脱脂大豆做的豆腐不香。</p>
+<p><a class="member_mention" href="http://www.zhihu.com/people/c9b784b495a0638d217902e4cb6d5fc2">@知乎美食</a></p>
+<p>罗叔｜<a class="internal" href="https://www.zhihu.com/people/luoshuzhidao">​​​​罗叔</a>本名罗晨，博士，资深食评人与食材研究者。 潜心各地风物，钻研传统烹饪技法与在地饮食文化。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2095770019644825863">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793832</guid>
+                <pubDate>Mon, 09 Nov 2026 04:11:28 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>你什么时候对学术圈祛魅的？</title>
+                <link>http://daily.zhihu.com/story/9793842</link>
+                <description>赤石神殿，赤石神殿官方账号 查看知乎原文 坦白讲，学术圈跟我以前，尤其跟我刚上大学时候预想的，还是不太一样。我搞物理搞了二十多年。你要说这二十多年里，我一次都没有后悔过，那肯定是骗人的。甚至越接近四十多岁，这种感觉越强烈。有时候我真感觉到一种深深的无力感，想当年意气风发，想在这个领域“胜天半子”，现在又觉得自己一事无成。真要问我是从什么时候开始对学术圈祛魅的，我说不出某一天。读博时，我觉得靠个人努…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-002d60446e048dff51fa178df378b74e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-07fcce34f01d989198f6b0d1361f2829_l.jpg?source=8673f162">
+<span class="author">赤石神殿，</span><span class="bio">赤石神殿官方账号</span>
+<a href="https://www.zhihu.com/question/2069739047577204414/answer/2101359844729140077" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>坦白讲，学术圈跟我以前，尤其跟我刚上大学时候预想的，还是不太一样。我搞物理搞了二十多年。你要说这二十多年里，我一次都没有后悔过，那肯定是骗人的。甚至越接近四十多岁，这种感觉越强烈。有时候我真感觉到一种深深的无力感，想当年意气风发，想在这个领域“胜天半子”，现在又觉得自己一事无成。真要问我是从什么时候开始对学术圈祛魅的，我说不出某一天。读博时，我觉得靠个人努力就能往前走；等自己成了导师，要带学生、争取经费，再看着教职越来越难拿，这些事情一点点改变了我的想法。</p>
+<p>我在知乎科学季的播客《知无不言》里，和@耿同学讲故事 聊了当初为什么走上科研道路，也聊了后来那些事。我把自己的想法整理在这里，大家可以看看。</p>
+<p>播客链接：《知无不言》这一期<a class="internal" href="https://www.zhihu.com/podcast/episode/2098743894062141776"><span class="invisible">https://www.</span><span class="visible">zhihu.com/podcast/episo</span><span class="invisible">de/2098743894062141776</span><span class="ellipsis"></span></a></p>
+<p>小宇宙收听：<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.xiaoyuzhoufm.com/episode/6ae165d9c96c8942ec136a1a" target="_blank" rel="nofollow noreferrer">学术理想 VS 现实饭碗，科研圈生存指南｜对谈殿主、耿同学</a></p>
+<p><strong><strong>当年我没想过别的路</strong></strong></p>
+<p>我当年考大学，就只选物理，反正只对物理感兴趣。读完大学，也没怎么想过找工作的事，还想一直在学术圈混。我当时觉得，自己的性格比较内向，各方面也比较适合做学术。</p>
+<p>我读博和自己想象中的差不多，算是比较顺利的。导师没有强迫我去做不喜欢的方向；我读博那会儿，做的方向也还有不少值得挖掘的东西。只要肯下功夫，总能找出点新东西，发点论文。</p>
+<p>后来我原来做的方向，早就已经没人做了。你说大统一理论、室温超导，这些问题当然还没有解决。可你可能终其一生，也解决不了它。</p>
+<p><strong>“如何胜天半子”</strong></p>
+<p>我们这一代人，或者说在这个环境里卷出来的人，容易有一种惯性：总想通过自己不断努力，最终「胜天半子」。中学时代读书、考试，确实主要靠个人努力，很多有人情味的东西都被压到很低。我觉得，那已经比后来进入社会遇到的很多地方公平了。所以我那时有个思维定式，觉得只要自己不停地做，总能做出点东西——后来我发现，我们这个领域聪明的人太多了。</p>
+<p>更要命的是，可能我们这个专业方向已经过了「大牛市」，很难做出原来理想中的成就。科研跟我最原初的想象，还是不太一致。</p>
+<p>我当然动摇过。要是再选一次，我可能会换一种活法，换一个方向重新试试自己。或者计算机、金融、医学，都可能去尝试。</p>
+<p><strong>当学生和当老师完全不一样</strong></p>
+<p>我以前总结过，科研人往前走，有几个阶段。</p>
+<p>读研、读博的时候，主要还是靠自己努力。当然你也要选好导师，跟导师搞好关系；这个阶段，你付出多少，往往能在研究上看到一些结果。</p>
+<p>等拿到教职，个人奋斗之外还有很多事。你成了导师，手下有研究生，你得管理。学生不想做这个方向，你怎么说服他？你得给学生发补助，补助的钱从哪里来？你得争取经费，跟别人竞争。学生毕业后还要找教职、找工作；假如你手下的研究生都没有好的去处，后面也没人愿意跟着你。</p>
+<p>真正走上科研道路以后，考验你的除了做研究的能力，还有管理能力、情商、与人沟通的能力。我在与人沟通这方面的能力，我自己也知道，非常欠缺。</p>
+<p>这里面也有运气，假如一个方向刚发展起来，你很早就进去了，就可能很早奠定自己在这个领域的位置，后面的人都是来给你“抬轿子”的。但等方向已经有很多人做了，再进去还能不能“喝点汤”，就不知道了。你觉得它有前景，它能不能持续发展，也有很多不确定性。有些方向到了一个瓶颈，几十年没有大的进展，慢慢就变成了“老登方向”。</p>
+<p><strong>我给自己找了一个 Plan B</strong></p>
+<p>到了我这个年纪，我感觉自己在物理这个 Plan A 上，可能很难再有大的作为，就想给人生设一个 Plan B，于是瞄准了自媒体。我闯入自媒体也比较偶然。一些视频火了，我觉得这个 Plan B 可以试一试，后来又陆续有了一些机会。说两次室温超导，正好赶上两次都火了一下。</p>
+<p>我现在很久没做那种纯论文解读的科普视频了，因为我觉得那种视频，你去找 AI 看，大概率比我做得好。做自媒体有一点很适合我：我写完稿子，对着视频一顿输出，不需要跟那么多人沟通。评论区有人夸，我当然高兴；有人骂，一般也无所谓，实在受不了就拉黑。</p>
+<p>我在视频里谈到一篇文章，叫《千万不要做科学家》。它里面提到，能在科研领域做得好的人，去干别的领域，原则上也可以干得很好，也没必要非在科学这个领域里死磕。</p>
+<p><strong>很多东西都在变</strong></p>
+<p>我刚好卡在教职从稍微容易到很难的过渡阶段，算是赶上了尾巴。我们刚上大学的时候，读个博士，或者去海外做博士后回来，在国内拿一个教职还比较容易。大概从 2008 年、2010 年左右开始，学术圈进入了加速内卷的阶段。</p>
+<p>现在研究生、博士生这么多，让所有人都有学术理想，以后都搞学术、攀登科学高峰，不现实。最终还是要让每个学生有好的就业，找到自己的归宿；如果能做自己感兴趣的事，那当然最好。</p>
+<p>我以前招学生有两个原则：对学术研究不感兴趣的，不要来报我；第一志愿不报我，想调剂过来的，我也不要。那是七八年前说的话。当时我觉得，如果学生对学术和我的方向都不感兴趣，我们搞在一起就是互相折磨。现在我不敢这么说了。学生真要跟我，我就得想尽办法让他毕业。如果学生老发不出论文，越往后他的压力会越大。</p>
+<p>现在还有一个问题：所有大学都要搞研究型大学。顶尖大学、地方上普通的大学，都以论文为导向，往研究型大学发展。</p>
+<p>你做研究，也总得把自己的东西往热门方向靠。以前纳米热门，什么方向都往纳米靠；后来是钙钛矿；现在 AI 出来了，好像什么都要往 AI 方向靠。找到一个比较新的热门方向，还可以用同一套方法不断换对象，做「集邮式」的论文。</p>
+<p>我一直觉得，学术圈现在这套运行机制已经有一百多年了。AI 发展得如火如荼，以后还有更大的发展，这套规则可能在不久的将来就不适应了。科研范式会变，科研的组织方式也会变。以前想做科学研究，通常就是去大学谋求教职，从讲师、副教授、教授一路往上走。现在我感觉，科研的主力可能会有一部分到企业里去，尤其是 AI 这个方向。你看有些研究者，也开始考虑往企业转。</p>
+<p>我从读书开始，就觉得做科学要一辈子搞下去，在一个方向做一辈子。可人做到某个阶段，可能做不动了，或者对这个方向不感兴趣了，又有别的更好的机会，就可以换个方向试试。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2069739047577204414">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793842</guid>
+                <pubDate>Mon, 09 Nov 2026 04:11:29 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>瞎扯 · 如何正确地吐槽</title>
+                <link>http://daily.zhihu.com/story/9793847</link>
+                <description>瞎扯 · 奥运会射箭比赛为什么不能用传统弓？ 知乎日报 查看知乎原文 Q： 奥运会射箭比赛为什么不能用传统弓？ @处女座起名不纠结 ：用传统弓想拿名次，得要吕布秽土转生吧。。。 Q： 敢不敢晒出你见过最离谱的游戏道具？ @朝仓左卫门督义景 ：三国杀民间包的这仨，看一次笑一次 Q：有什么你从未见过的稀有照片？ @萌虎鲸 :在斯大林时期坐办公室的勋宗1947 年，乌克兰苏维埃社会主义共和国扎波罗热 Q…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">瞎扯 · 奥运会射箭比赛为什么不能用传统弓？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<span class="author">知乎日报</span>
+<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/55470615/answer/2006324733646505267"> 奥运会射箭比赛为什么不能用传统弓？ </a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ca553d8c5dad4e84934389f95a6953dd" target="_blank">@处女座起名不纠结</a></div>
+ ：用传统弓想拿名次，得要吕布秽土转生吧。。。</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-0b4c415de994b84483a6718cdbf470c3_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/625868027/answer/2067524231928222102"> 敢不敢晒出你见过最离谱的游戏道具？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d15b9ad36d66985aa0363cb2c9da1524" target="_blank">@朝仓左卫门督义景</a></div>
+ ：三国杀民间包的这仨，看一次笑一次</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-824695c3583ae7bf5c1c3bf9e277c0b9_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-fd9b9eba4db7048435a6e0d64eb5aff7_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-c855c68f97c001368a2eb927cf616676_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/376634565/answer/2090119052152795652">有什么你从未见过的稀有照片？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d8a1932278e5951bdc281a4408fcbae0" target="_blank">@萌虎鲸</a></div>
+ :在斯大林时期坐办公室的勋宗<br>1947 年，乌克兰苏维埃社会主义共和国扎波罗热</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-77aac977882b803648f03ee394b56dbc_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">在美国说</a>「<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">I is XXX.</a>」<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">（而不是</a>「<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">I am XXX.</a>」<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">）真的没人能听懂吗？</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/9c8578f29a3c06cfcade21053ca0d329" target="_blank">@爱吃甜粽天仪喵</a></div>
+ ：他们甚至听得懂 please close the light<br>顺带介绍一下坡式英语<br>我： Can you help me do this ?<br>坡人： Can<br>我：？？？</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/665324970/answer/2050255444644571075">能发一张你相册里自认为有趣的照片么?</a></p>
+<blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/6dee68c513e907e780ab7687de0cba39" target="_blank">@筱鹤</a></div>
+ ：这种东西还是快端下去罢(悲)</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-ecc037f17a251a4c70a858a31ef29681_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-29069095995abdd912d83b60b6d23737_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
 <hr>
-<p>哦对了，还有这种双彩虹，下图是我在瀑布下面拍摄到的双彩虹。</p>
-<p>这种彩虹有一个特点，就是内圈主彩虹中，弧线的外部显示红色，内部显示紫色。它的形成原因桶上。</p>
-<p>但是，第二道彩虹，它的颜色顺序相反，弧线内侧为红色，外侧为紫色。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-91b8c3902444b2a913c5b6192fafd0b4_720w.jpg?source=8673f162" alt=""><figcaption>我在尼亚加拉瀑布下拍摄到的双彩虹</figcaption></figure>
-<p>下图是双彩虹形成的光路径图<sup>[2]</sup>，简单说，<strong>双彩虹的第二道彩虹是由于光在离开液滴之前在液滴内部反射了两次造成的</strong>，如下图左上。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9287a08468c47dcc95dd31ac78625982_720w.jpg?source=8673f162" alt=""><figcaption>双彩虹形成原理</figcaption></figure>
-<p>好了，就这样了...</p>
+<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
+<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://pica.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
 </div>
 </div>
 
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2079131159322177959">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793804</guid>
-                <pubDate>Sun, 08 Nov 2026 21:34:31 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>可不可以莫名其妙地教我一个知识?</title>
-                <link>http://daily.zhihu.com/story/9793805</link>
-                <description>不可名状的猫，上帝只会给你经受得住的考验 查看知乎原文 《巫师 3》里有一种剑油叫“吊死者之毒”。 剑油嘛，砍什么怪就涂什么油呗。经常砍人的朋友都知道，所有剑油都有各自针对的怪物：食尸生物油针对食尸生物；龙族油针对龙族；残物油针对上古遗民，清晰明了。可为啥针对人类、精灵、矮人的剑油，要叫“吊死者之毒”，而不是“被我砍死者之毒”呢？ 于是去查了查。原来，“吊死者之毒”的英文原名是 Hanged Ma…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-a4acf92b675c54fec48d821938b53bd2.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/7f2ee88a4_l.jpg?source=8673f162">
-<span class="author">不可名状的猫，</span><span class="bio">上帝只会给你经受得住的考验</span>
-<a href="https://www.zhihu.com/question/2072260638768997299/answer/2093756505375904332" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>《巫师 3》里有一种剑油叫“吊死者之毒”。</p>
-<p>剑油嘛，砍什么怪就涂什么油呗。经常砍人的朋友都知道，所有剑油都有各自针对的怪物：食尸生物油针对食尸生物；龙族油针对龙族；残物油针对上古遗民，清晰明了。可为啥针对人类、精灵、矮人的剑油，要叫“吊死者之毒”，而不是“被我砍死者之毒”呢？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0b3f64344ba0a86ea0814cfdf0085474_720w.jpg?source=8673f162" alt=""></figure>
-<p>于是去查了查。原来，“吊死者之毒”的英文原名是 Hanged Man's Venom，波兰文是 Jad Wisielców，指的都是被绞死的罪犯、死囚，也就是“吊死鬼”。</p>
-<p>也就是说，这个毒的名字来自绞刑架，不是来自怪物图鉴。</p>
-<p>在巫师世界里，横死、受绞刑的尸体往往会产生怨灵，或者产生特殊的毒素。欧洲旧说法里，毒草——曼德拉草长在绞架底下，是被绞死的罪犯在濒死之际流下的血液与体液滴到土里的东西长出来的。曼德拉草常出现在刑场。强化配方里也确实要曼德拉草根：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ef2c4a37376b43d6bbecdc7cc12e15b3_720w.jpg?source=8673f162" alt=""></figure>
-<p>针对人类和亚人的剑油，核心药材就少不了曼德拉草根这种受吊死者滋养出来的剧毒植物。从死囚滋养的植物中提炼毒素的设定，直接构成了吊死者之毒的物理来源，所以这种剑油就叫吊死者之毒，也算名副其实。</p>
-<p>那么，除了文化上，我发现，其实“吊死者之毒”这个名字还和毒性有关。</p>
-<p>我们来看看制作吊死者之毒的成分：</p>
-<blockquote>吊死者之毒:狗油 x1、蚤缀 x4<br><br>强化吊死者之毒:吊死者之毒、熊脂 x1、扦纤维 x1、孽鬼之眼 x1、荷兰芹叶片 x1、蚤缀 x1、曼德拉根 x1<br><br>高等吊死者之毒:强化吊死者之毒、炼金黏土 x1、血苔 x1、吞食者血 x1、荷兰芹叶片 x1、绿霉 x1、配制硫磺 x1</blockquote>
-<p>普通吊死者之毒纯粹是为了降低新手的炼金门槛，把蚤缀糊在剑上砍人除了给伤口起润滑作用外不具备任何毒性，pass。</p>
-<p>强化吊死者之毒开始，蠢驴的硬核毒理的展现了——荷兰芹（指愚人欧芹）含有类似毒芹碱的神经毒素，它会直接阻断人体外周神经，导致肌肉从四肢开始迅速瘫痪，使人因呼吸肌彻底失去动力而窒息。曼德拉根则是富含大量茄科生物碱，会强烈抑制中枢神经。这两者结合，完全能造成中毒者呼吸衰竭，而且发作时的痛苦挣扎……与被吊在绞刑架上无异。</p>
-<p>高等吊死者之毒在强化版的基础上再次叠加了荷兰芹（愚人欧芹）叶片，并混入了吞食者血、血苔、配制硫磺和绿霉等物质。这部分则是将现实植物毒药“魔法化”了。正常来说植物神经毒素发作通常需要一定时间，但硫磺的强烈腐蚀性与食尸生物血液的超自然破坏力，能将原本缓慢发作的毒素，压缩到剑刃割破血管的瞬间爆发，让人被砍一下立刻毒发，这很高等。</p>
-<p>于是，从实战效果来看，这种剑油砍人，能给敌人注入剧烈的神经毒素，敌人瞬间呼吸肌麻痹、窒息衰竭而死。这种被毒素剥夺呼吸、痛苦挣扎的死状，在视觉和生理上，恰好与被挂在绞刑架上慢慢窒息而亡的过程完全一致。</p>
-<p>所以，破案了！这就是吊死者之毒名称的来源了。</p>
-<p>在此基础上可能还有一点额外的原因。在这个战乱年代，绞刑是人类社会统治者与黑帮用来惩戒反抗者、逃兵和强盗最普遍的手段。“吊死者”就是人类社会罪恶与死亡的最直接载体。</p>
-<p>猎魔人把专门砍人的剑油起名吊死者之毒，相当于把人类社会加诸自身的这种最严酷的死亡符号，再通过钢剑送还给这些作恶的人类，听着就比“砍死者之毒”更加有震慑性吧。所以命名的猎魔人一拍脑瓜：就叫这个了！</p>
-<p>当然啦，游戏直观体现就是砍人效果变强了，毕竟中毒而死哪有处决动画那么酷。但是这个吊死者之毒的名字之谜总算是解开了！又多了一个无用但让我快乐的知识！</p>
-<p>。</p>
-<p>。</p>
-<p>。</p>
-<p>————————</p>
-<p>为了避免误解再说明一下哈。“荷兰芹”跟“愚人欧芹”是两种完全不同的植物。游戏中文版炼金配方里显示的“荷兰芹叶片”，是一种翻译小失误，英文原版游戏中，这个炼金材料的准确名称正是"Fool's parsley leaves"，也就是“愚人欧芹叶片”。荷兰芹是一种人畜无害的香料，做菜用的，而愚人欧芹是能导致呼吸肌麻痹而死的毒芹，曾经毒死苏格拉底。蠢驴并没有搞错，是翻译的锅。</p>
-<p>————————</p>
-<p>。</p>
-<p>。</p>
-<p>。</p>
-<p>没想到回答火了。那就来炫耀一下新成就吧，</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a063958b7ca6d9227d3d28bd980b4f37_720w.jpg?source=8673f162" alt=""></figure>
-<p>其实打出了 200 多分！！剩牌一起上还不止 200！</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4b100e9543137982dcaf5cafbe3e1105_720w.jpg?source=8673f162" alt=""></figure>
-<p>来来来，来来来来来，来来来来～来来来，来来来来来，来来来来～</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2072260638768997299">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793805</guid>
-                <pubDate>Sun, 08 Nov 2026 21:34:32 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>《离骚》的作者明明名正则字灵均，为何会被安在屈原名下认为是他的作品？ 司马迁是不是搞错了？</title>
-                <link>http://daily.zhihu.com/story/9793807</link>
-                <description>载酒 查看知乎原文 很多人根本就没把《离骚》读全过，以至于这部作品到底讲了个什么东西，全凭着各类故事、影视剧或者道听途说来脑补，以至于越误解越深。 但这种事儿不能全怪现在的读者，我认为起码有两部分客观的原因。 一是《离骚》真的很难读，也很难完全读懂。 “楚语”、“楚物”、“楚声”汉代就已失传，以至于西汉朱买臣会读《楚辞》都是一项非常稀有的能力，这就不能苛求现代人能完全读懂《离骚》。 二是我们当下的…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-b5c649719b57e546790b49376756f270.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-dfd40018f78a012fb1242f5325364edb_l.jpg?source=8673f162">
-<span class="author">载酒</span>
-<a href="https://www.zhihu.com/question/667018442/answer/2050877619227435781" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>很多人根本就没把《离骚》读全过，以至于这部作品到底讲了个什么东西，全凭着各类故事、影视剧或者道听途说来脑补，以至于越误解越深。</p>
-<p>但这种事儿不能全怪现在的读者，我认为起码有两部分客观的原因。</p>
-<p><strong>一是《离骚》真的很难读，也很难完全读懂。</strong></p>
-<p>“楚语”、“楚物”、“楚声”汉代就已失传，以至于西汉朱买臣会读《楚辞》都是一项非常稀有的能力，这就不能苛求现代人能完全读懂《离骚》。</p>
-<p><strong>二是我们当下的教育所致，中学课本里的《离骚》都是节选的，一般老师也不细讲完整的情节。</strong></p>
-<p>当然，节选没什么问题，毕竟以中学生的知识储备和智力水平，根本无法理解《离骚》的内核。</p>
-<p>而之前各版本教材节选的篇幅也不一样。比如，人教版节选的是从“长太息以掩涕兮”到“岂余心之可惩”；苏教版节选的是从“帝高阳之苗裔兮”到“来吾道夫先路”。</p>
-<p>真正要系统学习《离骚》，那是大学中文系的事情，但又不是每个人都读中文系。</p>
-<p>所以，为了把《离骚》说清楚，我把《离骚》的故事梳理一下，在这里只讲故事情节，不讲里面的隐喻、细节。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9c6e3c0c410b96b7f142f3fa4713ac41_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>《离骚》的故事分为 8 节，对应的是作者不同心境之下采取的不同行动</strong></p>
-<p>每一节我先贴原文，不愿意读原文的朋友可以跳过“引用”部分，直接看后面的故事解读。</p>
-<p><strong>第一节，从“帝高阳之苗裔兮”到“来吾道夫先路”。</strong></p>
-<p>原文如下：</p>
-<blockquote>帝高阳之苗裔兮，朕皇考曰伯庸。摄提贞于孟陬兮，惟庚寅吾以降。皇览揆余初度兮，肇锡余以嘉名。名余曰正则兮，字余曰灵均。纷吾既有此内美兮，又重之以修能。扈江离与辟芷兮，纫秋兰以为佩。汩余若将不及兮，恐年岁之不吾与。朝搴阰之木兰兮，夕揽洲之宿莽。日月忽其不淹兮，春与秋其代序。惟草木之零落兮，恐美人之迟暮。不抚壮而弃秽兮，何不改乎此度？乘骐骥以驰骋兮，来吾道夫先路！</blockquote>
-<p>这是《离骚》的开篇，主要就是介绍故事的主人公的，他是五帝之一“颛顼”的后裔，而楚王室的祖先就是追溯了“颛顼”。</p>
-<p>伯庸是谁无法考证，甚至“皇考”是指其父亲还是爷爷都有争议，我们不做讨论，这里是说主人公一大家子都是忠臣，根正苗红那种。</p>
-<p>“摄提贞于孟陬兮，惟庚寅吾以降”，这句话很多人不理解，其实就是先秦时期的一种纪年方式，叫“星岁纪年法”，“太岁在寅”的时候，这一年叫做“摄提格”，就是个名字而已，没什么复杂的，感兴趣的朋友看图就行：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-96b54b08d3a52c201f740fc166820100_720w.jpg?source=8673f162" alt=""></figure>
-<p>类似的对应还有一些，和天干、地支对应的，后来衍生出了干支纪年。我顺便都贴出来：</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e19cd7051b985a5521adaf5815755fa9_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cdec3a8b6418a2f47e21bcbe163cd64f_720w.jpg?source=8673f162" alt=""></figure>
-<p>这里其实是说主人公的生日非常巧合，是寅年寅月寅日所生，所以被取了一个非常有寓意的名字，名“正则”，字“灵均”。</p>
-<p><strong>其实这里就差不多能确定了，这个主人公就是屈原。</strong>王逸《楚辞章句》里面有一个比较有说服力的解释：</p>
-<blockquote>正，平也；则，法也；灵，神也；均，调也。言正平可法则者，莫过于天；养物均调者，莫过于地。高平曰原，故父伯庸名我为平以法天，字我为原以法地。言己上能安君，下能<span class="nolink">养民</span>也。</blockquote>
-<p>这一段主要是说，屈原不仅出身非常好，个人能力也非常的出色。他的理想是辅佐君王走上强国之路。</p>
-<p>所以结尾那一句读的时候应该有一个断句：<strong>来！吾道夫先路！</strong></p>
-<p>大意就是：跟上，我来开道！。</p>
-<p><strong>第二节，从“昔三后之纯粹兮”到“愿依彭咸之遗则”。</strong></p>
-<p>原文如下：</p>
-<blockquote>昔三后之纯粹兮，固众芳之所在。杂申椒与菌桂兮，岂维纫夫蕙茝！彼尧舜之耿介兮，既遵道而得路。何桀纣之猖披兮，夫唯捷径以窘步。惟夫党人之偷乐兮，路幽昧以险隘。岂余身之惮殃兮，恐皇舆之败绩！忽奔走以先后兮，及前王之踵武。荃不察余之中情兮，反信谗而齌怒。余固知謇謇之为患兮，忍而不能舍也。指九天以为正兮，夫唯灵修之故也。曰黄昏以为期兮，羌中道而改路。初既与余成言兮，后悔遁而有他。余既不难夫离别兮，伤灵修之数化。<br>余既滋兰之九畹兮，又树蕙之百亩。畦留夷与揭车兮，杂杜衡与芳芷。冀枝叶之峻茂兮，愿俟时乎吾将刈。虽萎绝其亦何伤兮，哀众芳之芜秽。众皆竞进以贪婪兮，凭不猒乎求索。羌内恕己以量人兮，各兴心而嫉妒。忽驰骛以追逐兮，非余心之所急。老冉冉其将至兮，恐修名之不立。<br>朝饮木兰之坠露兮，夕餐秋菊之落英。苟余情其信姱以练要兮，长顑颔亦何伤。掔木根以结茝兮，贯薜荔之落蕊。矫菌桂以纫蕙兮，索胡绳之纚纚。謇吾法夫前修兮，非世俗之所服。虽不周于今之人兮，愿依彭咸之遗则。</blockquote>
-<p>这一段是说屈原的困惑，他的理想很丰满，他在前期的努力确实也收获了成效，但没想到现实变了。</p>
-<p><strong>先是楚王“变心”了。</strong></p>
-<p>“曰黄昏以为期兮，羌中道而改路。初既与余成言兮，后悔遁而有他。”明明说要携手到老的，你咋中途能变卦呢？</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-23f4c2b66fe26381562da09c63d2641f_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>再是屈原培养的人才们也来了一波“背刺”。</strong></p>
-<p>这些人逐渐背离了自己的理想，开始为了自身利益，和小人们同流合污了。屈原很伤心，他说“虽萎绝其亦何伤兮，哀众芳之芜秽”，意思是我能理解你们是为了自身的安危考虑，但我并不能认同你们的作法。</p>
-<p>屈原认为一个人为理想而死，也好过背弃理想。</p>
-<p>最后，屈原也讲了一下自己当前的情况，他和他培养的那些人不同，他还在坚持自己的理想，结果是自己和其他人格格不入。</p>
-<p>但那又怎样呢？屈原不在乎。</p>
-<p><strong>第三节，从“长太息以掩涕兮”到“岂余心之可惩”。</strong></p>
-<p>原文如下：</p>
-<blockquote>长太息以掩涕兮，哀民生之多艰。余虽好修姱以鞿羁兮，謇朝谇而夕替。既替余以蕙纕兮，又申之以揽茝。亦余心之所善兮，虽九死其犹未悔。怨灵修之浩荡兮，终不察夫民心。众女嫉余之蛾眉兮，谣诼谓余以善淫。固时俗之工巧兮，偭规矩而改错。背绳墨以追曲兮，竞周容以为度。<br>忳郁邑余侘傺兮，吾独穷困乎此时也。宁溘死以流亡兮，余不忍为此态也。鸷鸟之不群兮，自前世而固然。何方圜之能周兮，夫孰异道而相安？屈心而抑志兮，忍尤而攘诟。伏清白以死直兮，固前圣之所厚。<br>悔相道之不察兮，延伫乎吾将反。回朕车以复路兮，及行迷之未远。步余马于兰皋兮，驰椒丘且焉止息。进不入以离尤兮，退将复修吾初服。制芰荷以为衣兮，集芙蓉以为裳。不吾知其亦已兮，苟余情其信芳。高余冠之岌岌兮，长余佩之陆离。芳与泽其杂糅兮，唯昭质其犹未亏。忽反顾以游目兮，将往观乎四荒。佩缤纷其繁饰兮，芳菲菲其弥章。民生各有所乐兮，余独好修以为常。虽体解吾犹未变兮，岂余心之可惩。</blockquote>
-<p>这一段，屈原在诉说自己的委屈。他说自己是为了国家鞠躬尽瘁，死而后已，但那些小人嫉妒自己的才华，用谣言中伤自己。</p>
-<p>屈原之前的做法是一忍再忍，可是结果却越来越糟糕，于是他幡然醒悟，不再忍了，决定就做一个“高洁”的人，不再想通过尽量合群的方式来达成自己的目的了。</p>
-<p><strong>第四节，从“女嬃之婵媛兮”到“溘埃风余上征”。</strong></p>
-<p>原文如下：</p>
-<blockquote>女嬃之婵媛兮，申申其詈予曰：鮌婞直以亡身兮，终然殀乎羽之野。汝何博謇而好修兮，纷独有此姱节？薋菉葹以盈室兮，判独离而不服。众不可户说兮，孰云察余之中情？世并举而好朋兮，夫何茕独而不予听？<br>依前圣以节中兮，喟凭心而历兹。济沅湘以南征兮，就重华而敶词：启九辩与九歌兮，夏康娱以自纵。不顾难以图后兮，五子用失乎家衖。羿淫游以佚畋兮，又好射夫封狐。固乱流其鲜终兮，浞又贪夫厥家。浇身被服强圉兮，纵欲而不忍。日康娱而自忘兮，厥首用夫颠陨。夏桀之常违兮，乃遂焉而逢殃。后辛之菹醢兮，殷宗用而不长。汤禹俨而祗敬兮，周论道而莫差。举贤而授能兮，循绳墨而不颇。皇天无私阿兮，览民德焉错辅。夫维圣哲以茂行兮，苟得用此下土。瞻前而顾后兮，相观民之计极。夫孰非义而可用兮，孰非善而可服？<br>阽余身而危死兮，览余初其犹未悔。不量凿而正枘兮，固前修以菹醢。曾歔欷余郁邑兮，哀朕时之不当。揽茹蕙以掩涕兮，沾余襟之浪浪。跪敷衽以陈辞兮，耿吾既得此中正。驷玉虬以椉鹥兮，溘埃风余上征。</blockquote>
-<p>这一段出来一个人物，叫做“女嬃”，<strong>她对屈原展开了劝说：</strong>“自古以来，太正直的人没啥好下场，你咋就不明白呢？世道如此，凭啥你不如此？要想达成目的，就要适当妥协一点。”</p>
-<p>屈原听了以后感觉困惑，自古以来都是如此吗？</p>
-<p>于是他跑到了舜帝的墓前，想和先贤说说自己的困惑。他仔细回忆了一下大禹、夏启、商汤、文王等等圣贤，也想了想夏桀、商纣等昏君。</p>
-<p><strong>这么一对比，他感觉自己想明白了：</strong></p>
-<p>圣贤之所以是圣贤，那是因为他们本身就是德行高尚之人，百姓才会把他们当做圣贤来拥戴。</p>
-<p>于是，屈原的理想之火彻底重燃，并且<strong>像打了鸡血一样亢奋</strong>：“备车，我要去见楚王，给他好好讲一讲我悟出的这个道理！”</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8aa0eaaab1b7e1185b6c512f50c8245e_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>第五节，从“朝发轫于苍梧兮”到“好蔽美而称恶”。</strong></p>
-<p>原文如下：</p>
-<blockquote>朝发轫于苍梧兮，夕余至乎县圃。欲少留此灵琐兮，日忽忽其将暮。吾令羲和弭节兮，望崦嵫而勿迫。路曼曼其修远兮，吾将上下而求索。饮余马于咸池兮，总余辔乎扶桑。折若木以拂日兮，聊逍遥以相羊。前望舒使先驱兮，后飞廉使奔属。鸾皇为余先戒兮，雷师告余以未具。吾令凤鸟飞腾兮，继之以日夜。飘风屯其相离兮，帅云霓而来御。纷总总其离合兮，斑陆离其上下。吾令帝阍开关兮，倚阊阖而望予。时暧暧其将罢兮，结幽兰而延伫。世溷浊而不分兮，好蔽美而嫉妒。<br>朝吾将济于白水兮，登阆风而緤马。忽反顾以流涕兮，哀高丘之无女。溘吾游此春宫兮，折琼枝以继佩。及荣华之未落兮，相下女之可诒。<br>吾令丰隆椉云兮，求宓妃之所在。解佩纕以结言兮，吾令謇修以为理。纷总总其离合兮，忽纬繣其难迁。夕归次于穷石兮，朝濯发乎洧盘。保厥美以骄傲兮，日康娱以淫游。虽信美而无礼兮，来违弃而改求。<br>览相观于四极兮，周流乎天余乃下。望瑶台之偃蹇兮，见有娀之佚女。吾令鸩为媒兮，鸩告余以不好。雄鸠之鸣逝兮，余犹恶其佻巧。心犹豫而狐疑兮，欲自适而不可。凤皇既受诒兮，恐高辛之先我。<br>欲远集而无所止兮，聊浮游以逍遥。及少康之未家兮，留有虞之二姚。理弱而媒拙兮，恐导言之不固。世溷浊而嫉贤兮，好蔽美而称恶。</blockquote>
-<p><strong>这一段写了一大堆，其实没啥实质内容，就是渲染屈原去见楚王的过程。</strong>通过前面的声势浩大，来衬托出结局的悲哀，以此来为屈原下一阶段的心理变化阐明一个合理的解释。</p>
-<p>先是说屈原去见楚王的阵势非常大，那叫一个锣鼓喧天，鞭炮齐鸣，人山人海，风风火火。</p>
-<p>到了地方之后，屈原大喊：开门，我来见楚王了！</p>
-<p>结果呢，<strong>开门人看都不看他一眼，直接无视。</strong></p>
-<p>这么一描写，前后对比就极为激烈了，有点像高速奔腾的骏马，直接撞到了南墙，还被捏住了脖子不让嘶鸣的感觉。</p>
-<p>但屈原也不是不懂变通，既然自己见不到楚王，那就找能见到楚王的人。</p>
-<p><strong>这就是《离骚》当中的“求女”环节，即求“能通君侧”之人。</strong></p>
-<p>屈原找了三个人，<strong>第一个是宓妃</strong>，但因为宓妃“无礼”，没有成功；<strong>第二个是有娀氏之女</strong>，但又因为其“佻巧”而犹豫，最终没有成功；<strong>第三个是有虞氏之二姚</strong>，但因为难以找到合适的理由，也没有成功。</p>
-<p>这三人都是神话传说中的人物，是谁不重要，在这里只是推动情节发展而已。</p>
-<p><strong>这一段的核心其实就是一件事儿，</strong>屈原自己见不到楚王，于是求“能通君侧”之人，可这些人同样不想帮他。</p>
-<p>屈原成了孤家寡人，在楚国没有了盟友。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0192a19e9aae8bf42eee3b8d37dfe1c0_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>第六节，从“闺中既以邃远兮”到“吾将远逝以自疏”。</strong></p>
-<p>原文如下：</p>
-<blockquote>闺中既以邃远兮，哲王又不寤。怀朕情而不发兮，余焉能忍与此终古？<br>索藑茅以筳篿兮，命灵氛为余占之。曰：两美其必合兮，孰信修而慕之？思九州之博大兮，岂唯是其有女？勉远逝而无狐疑兮，孰求美而释女？何所独无芳草兮，尔何怀乎故宇？<br>世幽昧以昡曜兮，孰云察余之善恶？民好恶其不同兮，惟此党人其独异！户服艾以盈要兮，谓幽兰其不可佩。览察草木其犹未得兮，岂珵美之能当？苏粪壤以充帏兮，谓申椒其不芳。<br>欲从灵氛之吉占兮，心犹豫而狐疑。巫咸将夕降兮，怀椒糈而要之。<br>百神翳其备降兮，九疑缤其并迎。皇剡剡其扬灵兮，告余以吉故。曰：勉升降以上下兮，求榘矱之所同。汤禹严而求合兮，挚咎繇而能调。苟中情其好修兮，又何必用夫行媒？说操筑于傅岩兮，武丁用而不疑。吕望之鼓刀兮，遭周文而得举。宁戚之讴歌兮，齐桓闻以该辅。及年岁之未晏兮，时亦犹其未央。恐鹈鴂之先鸣兮，使夫百草为之不芳。<br>何琼佩之偃蹇兮，众薆然而蔽之。惟此党人之不谅兮，恐嫉妒而折之。时缤纷其变易兮，又何可以淹留？兰芷变而不芳兮，荃蕙化而为茅。何昔日之芳草兮，今直为此萧艾也？岂其有他故兮，莫好修之害也！余以兰为可恃兮，羌无实而容长。委厥美以从俗兮，苟得列乎众芳。椒专佞以慢慆兮，樧又欲充夫佩帏。既干进而务入兮，又何芳之能祗？固时俗之流从兮，又孰能无变化？览椒兰其若兹兮，又况揭车与江离？<br>惟兹佩之可贵兮，委厥美而历兹。芳菲菲而难亏兮，芬至今犹未沬。和调度以自娱兮，聊浮游而求女。及余饰之方壮兮，周流观乎上下。灵氛既告余以吉占兮，历吉日乎吾将行。折琼枝以为羞兮，精琼爢以为粻。为余驾飞龙兮，杂瑶象以为车。何离心之可同兮？吾将远逝以自疏。</blockquote>
-<p>屈原心里很难受，但是又不想就这么算了，于是他就有了“去”还是“留”的纠结。</p>
-<p><strong>这时候，屈原找到了两个人。</strong></p>
-<p><strong>第一个是占卜者“灵氛”</strong>。灵氛告诉他：“应该离开楚国。但凡是个有理想的君主，都会欢迎你屈原的。天下这么大，你窝在楚国这一隅之地干啥。”</p>
-<p>屈原这个时候还很犹豫，正好比灵均更权威的<strong>巫者巫咸</strong>来了，于是屈原又请他为自己更正式地卜筮一番。</p>
-<p>巫咸告诉屈原：“你应该留下来。虽然现在的环境不好，但不会一直不好下去，你可以等一等。”</p>
-<p>但这时候屈原内心开始挣扎了，因为他早就看明白了，楚王并不是被小人蒙蔽，而是他的本质变坏了。自己一手提拔起来的人才都“背刺”了自己，更何况其他人呢？</p>
-<p>既然如此，<strong>屈原找不到一个说服自己留下来的理由</strong>，于是决定还是离开吧。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e1f2bcfef2ff4687bd155e01dd4987d6_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>第七节，从“邅吾道夫昆仑兮”到“聊假日以媮乐”。</strong></p>
-<p>原文如下：</p>
-<blockquote>邅吾道夫昆仑兮，路修远以周流。扬云霓之晻蔼兮，鸣玉鸾之啾啾。朝发轫于天津兮，夕余至乎西极。凤皇翼其承旗兮，高翱翔之翼翼。忽吾行此流沙兮，遵赤水而容与。麾蛟龙使梁津兮，诏西皇使涉予。路修远以多艰兮，腾众车使径待。路不周以左转兮，指西海以为期。屯余车其千乘兮，齐玉轪而并驰。驾八龙之婉婉兮，载云旗之委蛇。抑志而弭节兮，神高驰之邈邈。奏九歌而舞韶兮，聊假日以媮乐。</blockquote>
-<p><strong>离开之后去哪呢？</strong></p>
-<p>屈原往西去了，因为“西皇”对他抛出了橄榄枝。</p>
-<p>西皇的诚意非常足，见到屈原一路西行路途坎坷，就派人逢山开路，遇水叠桥，还前呼后拥，派了很多很多人来给屈原壮声势，以此来表示尊重。</p>
-<p>屈原很感动，他仿佛听到了云端之中响彻了《韶》乐，这是圣人之音，是自己理想即将实现的前兆。</p>
-<p>屈原非常高兴。</p>
-<p><strong>但就在这个时候，意外发生了。</strong></p>
-<p><strong>第八节，从“陟升皇之赫戏兮”到“吾将从彭咸之所居”。</strong></p>
-<p>原文如下：</p>
-<blockquote>陟升皇之赫戏兮，忽临睨夫旧乡。仆夫悲余马怀兮，蜷局顾而不行。<br>乱曰：已矣哉！国无人莫我知兮，又何怀乎故都！既莫足与为美政兮，吾将从彭咸之所居！</blockquote>
-<p>就在屈原即将踏出国境的那一刻，他回头一望，太阳正好升起，金灿灿的光芒照耀下来，把自己和天空都镀上了金色，这象征着自己即将带着理想，迈入新的更美好的生活。</p>
-<p><strong>但向下一看，太阳之下的是自己即将离开的故国！</strong></p>
-<p>于是，所有人悲从中来，驾车的侍者放声悲哭，拉车的马匹徘徊不前，屈原更是久久不愿离去。</p>
-<p>故事的最后，屈原仰天长叹一声：算了吧，虽然楚国没人能和自己并肩同行，但那是自己的祖国啊。既然理想实现不了，那么自己就效仿“彭咸”这样的隐者吧。</p>
-<p><strong>所以，屈原最终，并没有离开楚国。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-03b0ec6be758ab75b0e2ff4738471521_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>再讲两个关于《离骚》的问题</strong><strong>第一个，屈原不会离开楚国，在《离骚》的第一句就已经明确了。</strong></p>
-<p>《离骚》的第一句其实是“开宗明义”的，“帝高阳之苗裔兮，朕皇考曰伯庸”，并不是简简单单的一个背景交代。</p>
-<p>春秋战国时期，是有很多士人游走各国，兜售自己的主张，比如孔子、孙膑、商鞅、吴起、张仪等等，有些人也取得了巨大的成功。</p>
-<p>但屈原和这些人不一样。</p>
-<p>对于其他人来说，国家是“肉食者”的国家，和他们没什么关系。但对于屈原来说，楚国是他的祖先创建的，这是他的“宗国”，是他自己的国家。</p>
-<p><strong>“宗国不可去”，</strong>这就是《离骚》第一句传递出来的信号，所以屈原不会离开楚国。</p>
-<p><strong>第二个，“彭咸”的事迹被误读。</strong></p>
-<p>彭咸是谁，这个已经没法考证了，没有流传他任何的事迹，只能确定他是一位隐世的贤者。</p>
-<p><strong>但在对《离骚》的解读时却出现了一件比较有趣的事情。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8086bd4919c9a9b3a871d4424b227a1c_720w.jpg?source=8673f162" alt=""></figure>
-<p>有些学者根据屈原最终是投汨罗江而死这一事实，来解读《离骚》中所说的“愿依彭咸之遗则”、“吾将从彭咸之所居”，认为彭咸最终是投水而死的。</p>
-<p>然后，又根据这一说法，认为屈原在作《离骚》的时候，就已经心存投汨罗江的想法了。</p>
-<p>简单来说就是，先是通过屈原投水而死，来确定彭咸也是投水而死的；然后通过“彭咸是投水而死”这一结论，来说明屈原在创作《离骚》的时候，就已经心存投江的想法了。</p>
-<p>这就陷入了一个死循环，用“想法”来论证“想法”，显然是不对的。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/667018442">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793807</guid>
-                <pubDate>Sun, 08 Nov 2026 21:34:33 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>古代的苦水水质口感相当于现在的自来水吗？</title>
-                <link>http://daily.zhihu.com/story/9793817</link>
-                <description>知谦，以富润屋，不如以德润身。 查看知乎原文 朋友，如果你穿越到古代大城市，估计尝一口咸苦井水的勇气都没有。 因为你已经喝惯了自来水。 自来水应该是现代公共卫生领域最重要的成就之一了。 因为它用物理、化学和生物等工艺，把你能想到和想不到的水质污染指标都搞到了很低的程度，这就解决了很多人持续、稳定且相对低成本获取健康生活用水的问题。 我国自来水水质执行《生活饮用水卫生标准》（GB 5749-2022…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-980d1b698957031dd83b74bbaedb3c8f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-cb08e5ecb316d209f09b7f619830d3fb_l.jpg?source=8673f162">
-<span class="author">知谦，</span><span class="bio">以富润屋，不如以德润身。</span>
-<a href="https://www.zhihu.com/question/2098924793349288862/answer/2100543992534454703" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>朋友，如果你穿越到古代大城市，估计尝一口咸苦井水的勇气都没有。</p>
-<p>因为你已经喝惯了自来水。</p>
-<p><strong>自来水应该是现代公共卫生领域最重要的成就之一了。</strong></p>
-<p>因为它用物理、化学和生物等工艺，把你能想到和想不到的水质污染指标都搞到了很低的程度，这就解决了很多人持续、稳定且相对低成本获取健康生活用水的问题。</p>
-<blockquote>我国自来水水质执行《生活饮用水卫生标准》（GB 5749-2022），出厂需检测 97 项指标，光是微生物、毒理、感官等常规指标就有 43 项。</blockquote>
-<p>可以说，</p>
-<p>现在的自来水除了来自自身消毒工艺的消毒副产物、出厂后输水管网的二次污染及某些重金属、药物代谢物、氟化物等常规水厂工艺难以有效去除的污染物之外（但健康风险总体可控），其他方面的水质指标可以说全面碾压古代的饮用水。</p>
-<p><strong>首先，古人主要饮用井水，当然也有河水、溪水、湖水等地表水。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-688edf57071bf747d248abde9332042c_720w.jpg?source=8673f162" alt=""><figcaption>河姆渡木构水井遗址</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-c8104602ab4e1fbebfded4d631d80c23_720w.jpg?source=8673f162" alt=""><figcaption>洛阳烧沟汉墓出土的陶井模型</figcaption></figure>
-<p>这些水虽然没有现代工业污染，但却存在微生物、寄生虫等污染风险。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-873b99768163e489388dd37211ed4019_720w.jpg?source=8673f162" alt=""><figcaption>井水：古人最主要的饮用水源</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9fe59f548e8c6dd1ecedfdfdcc95fd87_720w.jpg?source=8673f162" alt=""><figcaption>古人取河水</figcaption></figure>
-<p>就算雨水也不例外。</p>
-<p>虽然古时大气污染极少，雨水本身较为清洁。但收集储藏过程同样可能染尘和接触微生物。</p>
-<p>尤其是古人的储水蓄水设施比较简陋，多为开放式，和现在的封闭式储水设施没法比，容易产生污染。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-83af8210e4446c101ed5ca1285cbd7a8_720w.jpg?source=8673f162" alt=""><figcaption>古时的水缸和现代的自来水箱</figcaption></figure>
-<p>因此，一旦遇上垃圾、粪便等污染水源，尤其是遇到涨水、内涝等情况，水体里面的微生物、寄生虫、悬浮物等就会增多，轻则影响健康，重则可能导致霍乱、痢疾、伤寒等介水传染病的传播，这就严重了。</p>
-<p><strong>关于这一点，大家还别不信。古代的水污染尤其是大城市的水污染，有时影响还真挺大，甚至大到可以不得不迁都的程度。</strong></p>
-<p>其中一个重要原因，就是古代城市排水（排污）系统不行，主要靠各种沟渠和壕池<sup>[1]</sup><sup>[2]</sup>，尤其是在城墙外、主干道旁或大型建筑的外围。</p>
-<p>地下排水管道有是有，主要以陶管、暗沟、涵管等形式穿越城门、城墙或建筑密集区，但并不是主流，就是个打辅助的。</p>
-<blockquote>距今 4300 多年的河南淮阳平粮台古城已铺设了陶质排水管道，与排水明沟明渠相连<sup>[3]</sup>。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-64ab7b755f6228802de7eeeedeffe186_720w.jpg?source=8673f162" alt=""><figcaption>河南淮阳平粮台古城陶质排水管道</figcaption></figure>
-<blockquote>春秋战国时期齐国临淄城有三大排水系统、四个排水道口，总长约 5000 多米，与沟渠、城壕相连，由巨石垒砌而成<sup>[4]</sup>。</blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cd950cb6a5f55ec31c7bf6ac22ab9efc_720w.jpg?source=8673f162" alt=""><figcaption>齐国临淄城排水道排水口实景图。排水口分上中下三层，每层 5 个方形水孔，孔内石块交错排列，水经孔内间隙流出，人却不能通过，既能排水又能御敌，在同时代世界古城排水系统中很是罕见。</figcaption></figure>
-<blockquote>秦咸阳城的陶制排水管道甚至还分直管和弯头管。水通过陶漏斗流走，再通过排水管道流向不同的方向<sup>[1]</sup>。</blockquote>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-1eb33a38171ac74d60d9b97e8040ccec_720w.jpg?source=8673f162" alt=""><figcaption>秦代陶排水管：漏斗链接排水管</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-400f8c6cb6e6e48ae60484c53bce2bd1_720w.jpg?source=8673f162" alt=""><figcaption>秦咸阳城排水管道</figcaption></figure>
-<blockquote>汉长安城排污主要靠周边的城壕和城内的明渠<sup>[1]</sup> <sup>[5]</sup>，部分区域也有圆形陶管道、砖涵道等与城壕、明渠等排水干渠衔接。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5e70e1ee5e501da531f3618b4008f29e_720w.jpg?source=8673f162" alt=""><figcaption>汉长安城直城门下的排水涵洞</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c04db100cf150e16c1c2e0d7311b43ec_720w.jpg?source=8673f162" alt=""><figcaption>汉长安城长乐宫五角形排水管道和沉淀池</figcaption></figure>
-<p>古时这种以明沟明渠为主、地下暗管为辅的城市排水系统，最大缺点就是污水会直接暴露并持续散发恶臭，夏季更甚。</p>
-<p>遇到雨天和内涝，雨水会大量涌入明沟，会造成污染外溢，还会渗入地下（古代沟渠的防渗效果很感人），污染井水。</p>
-<p><strong>尤其是长安城，自西汉以降几经战乱，基础逐渐破败，别说地下管道，连明渠的排污能力都大打折扣了，搞得隋文帝不得不迁都。</strong></p>
-<p>在当时的长安城，不少老百姓把生活垃圾全部倾倒在门口，有的还挖大土坑掩埋垃圾，凿渗井装粪污，任由污物淤滞地下，腐烂分解，渗滤液直接污染地下水，使得井水“咸苦”不可饮用。</p>
-<blockquote>《隋书·庾季才传》记载<sup>[6]</sup>：“汉营此城，经今将八百岁，水皆咸卤，不甚宜人。”</blockquote>
-<p>所以，隋文帝杨坚在汉长安城住了一年多就遭不住了，不得不命令在城东南兴建新的都城（即大兴城）<sup>[7]</sup>，这也是后来唐长安城的基础。</p>
-<p><strong>自此以后，我国历代的大都市基本都没有太完善的排污系统，仍然主打一个明渠排污、暗管辅助、挖坑埋污。</strong></p>
-<p>而且，人们为了生活方便，凿水井的位置常常与装垃圾的灰坑、存污水的渗井错杂布置、相互毗邻<sup>[8]</sup>。</p>
-<p>这就更容易导致水井污染。</p>
-<p>时间一久，人口一多，原本好的井水又会变得“咸苦”不堪，难以饮用。</p>
-<blockquote>2015 年，唐长安城东市东侧遗址发现了密集分布的水井、窖井、渗井、灰坑和卧泥池等遗迹<sup>[8]</sup>，污水想污染井水简直不要太方便。</blockquote>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-241ad2349ffa62d83cfd7fdd64dd823f_720w.jpg?source=8673f162" alt=""><figcaption>唐代长安城东市遗址发掘中发现水井 4 口、窖井 2 口、渗井 11 口、灰坑 12 个，相互毗邻</figcaption></figure>
-<p>这就是为什么古代一个大城市被选作都城后，往往不需要多长时间，其浅层地下水就会被生活污水、人畜粪便和生活垃圾污染。一般来说，人口越多，浅层地下水受污染的速度就越快<sup>[8]</sup>。</p>
-<p><strong>比如，</strong></p>
-<p>从唐中期开始，长安城的井水苦咸现象变得越来越严重<sup>[9]</sup>。</p>
-<p><strong>又如，</strong></p>
-<p>随着人口的增多，北京城的地下水到了明末就很不好了。明末文献记载：“京师井水多咸苦，不可饮。”<sup>[10]</sup></p>
-<p>清代时，北京城中井水已多不可饮，皇宫中的日常用水基本是从西郊玉泉山上转运过来的泉水，宫中水井仅作备用水源，普通老百姓则只能利用少数公共水井<sup>[8]</sup>。</p>
-<blockquote>据调查统计，在新中国成立前，整个北京城有 27195 口渗井，每口渗井年均产污水上千吨<sup>[11]</sup>。北京地下水污染之所以严重，这可能是主要原因。</blockquote>
-<p><strong>排污不畅不仅污染地下水（井水），还会污染河水。这一点，外国城市也不例外。</strong></p>
-<p>19 世纪中期的伦敦基本还没有现代下水道系统，和中国古代的大城市相似，污水主要靠污水坑和简陋化粪池（相当于渗井、渗坑）处理。</p>
-<p>据说，1854 年伦敦宽街霍乱暴发的最直接原因，就是一位母亲将洗婴儿尿布的脏水倒在了屋前的粪坑里，而粪坑的污水恰好又渗漏并污染了宽街的公用泵井<sup>[12]</sup>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-17983bd83b36e3a3bba861763be69880_720w.jpg?source=8673f162" alt=""><figcaption>1854 年，伦敦宽街的水井污染导致霍乱暴发，累计夺走 1 万多人的生命</figcaption></figure>
-<p>另外，据统计，在 19 世纪中叶伦敦泰晤士河大恶臭前后，1831 年到 1832 年、1848 年到 1849 年、1853 年到 1854 年、1865 年到 1866 年，连续爆发的霍乱累计夺走了 4 万多人的生命<sup>[13]</sup>。</p>
-<p><strong>你看，古代虽然工业污染不重，但古人尤其是大城市的人想喝一口清甜干净的水还真不太容易。</strong></p>
-<p>别说清甜干净，就是和现在可能被你嫌弃的自来水比，也差很远了。</p>
-<p>这不是他们不努力搞排污，也不是水源不行，说到底还是当时的排污防污技术比较落后，始终跑不赢人口的增长和城市的扩张。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2098924793349288862">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793817</guid>
-                <pubDate>Sun, 08 Nov 2026 21:34:34 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793847</guid>
+                <pubDate>Mon, 09 Nov 2026 04:11:30 GMT</pubDate>
             </item>
             
     </channel>
