@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Mon, 09 Nov 2026 14:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 01:04:11 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>一家三口食用炒鸡蛋后中毒，原因是水洗后储藏导致变质了，为什么这样保存有风险？放冰箱门格子影响有多大？</title>
-                <link>http://daily.zhihu.com/story/9793827</link>
-                <description>野狸子，形而上学 查看知乎原文 专家是要逼死强迫症吗？ 专家的建议如下，鸡蛋不要水洗后存放，以免破坏蛋壳表面的天然胶质保护膜。 这话只说了一半，但其实也没必要过于焦虑。 早在 2005 年，有项名为《Study on the microbial quality of experimentally washed eggs》研究专门就分析了用温水洗、洗完吹干的鸡蛋的所谓的细菌微生物的对比。[1] 其结…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-555a98d3389232e5e5c199cf175c73cc.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>不锈钢明明叫「不锈」，为什么保温杯内壁用久了还是会长锈斑？</title>
+                <link>http://daily.zhihu.com/story/9793856</link>
+                <description>祥昊，看山看水看手机 查看知乎原文 不锈钢：出门在外身份都是自己给的， 自然界里除了金，铂等高电势位金属能真做到不锈， 大多数金属暴露在空气中都会快速氧化， 只是生成物比较致密，可以保护内部的我们通常叫氧化膜。 生成物疏松多孔保护不了基体的通常叫锈。 你看这就很双标。 而铁就比较尴尬，在高温下完全氧化产生的 Fe₃O₄是响当当的氧化膜，能有效保护内部。 而铁在自然环境下，特别是遇到水， 就会产生 …</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-80f9575b5c5eb071b5106ed9e7443a9b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,107 +31,111 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-23a5ac848ef7c6e98ed157c37ef33b6c_l.jpg?source=8673f162">
-<span class="author">野狸子，</span><span class="bio">形而上学</span>
-<a href="https://www.zhihu.com/question/2097613742233970119/answer/2097658181191259295" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
+<span class="author">祥昊，</span><span class="bio">看山看水看手机</span>
+<a href="https://www.zhihu.com/question/2084246592417165578/answer/2085420503335022741" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>专家是要逼死强迫症吗？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-41be2e16d809c333f0e2511bdd2ae8a7_720w.jpg?source=8673f162" alt=""></figure>
-<p>专家的建议如下，鸡蛋不要水洗后存放，以免破坏蛋壳表面的天然胶质保护膜。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4ddc030cf3ab3b5b76dcd7a188981fb0_720w.jpg?source=8673f162" alt=""></figure>
-<p>这话只说了一半，但其实也没必要过于焦虑。</p>
-<p>早在 2005 年，有项名为《Study on the microbial quality of experimentally washed eggs》研究专门就分析了用温水洗、洗完吹干的鸡蛋的所谓的细菌微生物的对比。<sup>[1]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4147929ff9a4b5ece42554c0540b9f0e_720w.jpg?source=8673f162" alt=""></figure>
-<p>其结论也很直观，在 20℃下储存 28 天后，其实洗过的蛋里的细菌和没洗的并没有显著差别的。</p>
-<p>所以很可能洗本身并不是原罪，这个新闻中真正搞事情的，大概率是洗的方式，以及洗完往哪放。</p>
-<p><strong>先说洗。</strong></p>
-<p>鸡蛋壳并非铁板一片，微观来看就是个筛子。<sup>[2]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-028e0267e73cbef731ebafbcb7f1d197_720w.jpg?source=8673f162" alt=""><figcaption>鸡蛋壳结构。a. 扫描电子显微镜照片显示的鸡蛋壳横断面。b . 鸡蛋壳各层的相应标注图。鸡蛋的外壳不是一块均匀的“钙片”，而是由保护膜、矿化硬壳和纤维膜组成的多层复合结构。常见鸡蛋蛋壳厚度约为 0.3～0.4 毫米，硬壳主要由碳酸钙的方解石晶体构成，其中夹有少量有机基质。</figcaption></figure>
-<p>冷知识，一枚鸡蛋壳上大约有 7000 到 17000 个气孔，蛋壳表面积按 70 平方厘米左右粗算，每平方厘米两百多个孔。<sup>[3]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9dc73dc2a13f7afaafecbc4bfd4a20fe_720w.jpg?source=8673f162" alt=""><figcaption>胚胎呼吸的气体经由蛋壳交换，水分与二氧化碳会透过气孔散失，外界气体也能进入。</figcaption></figure>
-<p>不过蛋壳上的微小气孔，既是生命的呼吸通道，也是外界威胁的入口，细菌入侵鸡蛋，通常就是利用蛋壳上的气孔作为入侵途径。<sup>[4]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-469f56bb8c0239ee2135f64c2c01bbe5_720w.jpg?source=8673f162" alt=""><figcaption>扫描电子显微镜 (SEM) 图像： （A） 鸡蛋壳外表面，显示 1000 倍放大倍率下的孔隙开口。 （B） 和 （C） 更高放大倍率 5000 倍。（原图由 GK 提供）</figcaption></figure>
-<p>为了让小鸡能够顺利孵出来，母鸡下蛋前，会在蛋壳外面糊一层 0.01 到 0.03 毫米厚的薄膜，这层薄膜又叫角质层，顺带把这些孔堵上。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d316b02b0ca4b705e2372f82155c9705_720w.jpg?source=8673f162" alt=""><figcaption>角质层可以起到堵塞气孔、抑制细菌进入并减缓失水，但不会让鸡蛋完全隔绝空气的奇用</figcaption></figure>
-<p>你可以理解为，这玩意就是鸡蛋的出厂保护膜。<sup>[5]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b6719af1110f474e3169778094aa586b_720w.jpg?source=8673f162" alt=""><figcaption>蛋壳角质层成分和结构</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-b7a14cbc10cd0b077f402e8648278176_720w.jpg?source=8673f162" alt=""><figcaption>1000 倍放大倍率下的扫描电子显微镜（SEM）图像显示，鸡蛋壳角质层外表面呈斑块状分布，并伴有裂纹和缝隙。</figcaption></figure>
-<p>但它有个致命的弱点，怕水，一搓一冲这层膜就花了。</p>
-<p>这大概也是专家提醒的鸡蛋不能水洗的原因的出处。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-fa2ad83ddacb72c82fccbb5b36049832_720w.jpg?source=8673f162" alt=""></figure>
-<p>但膜花了，细菌也得有个交通工具才方便进得去哇。</p>
-<p>这就绕不开一个洗蛋的大忌了，蛋比水暖，可能也是本新闻中真正的元凶。</p>
-<p>像是新闻中的这家人洗蛋，大概率用的基本是凉自来水，时值秋冬，水温往往比蛋还低，洗完角质层被磨花了，然后鸡蛋湿漉漉直接塞冰箱。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-25b6e79519919f74d2c870699b112390_720w.jpg?source=8673f162" alt=""></figure>
-<p>蛋里的内容物再遇冷收缩，内部压强一降，这种抽吸效应下，蛋壳表面那点水带着各种微生物就被气孔吸了进去。</p>
-<p>自然细菌蛋养成计划就开始了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fef12a1171e0192f7739a93af97afc06_720w.jpg?source=8673f162" alt=""><figcaption>细菌霉斑蛋，光照不会呈现半透明，打开蛋壳能看见霉菌附着，绝对不能食用。</figcaption></figure>
-<p>切记，“室温蛋 + 明显更凉的水 + 浸泡或长时间冲淋 + 湿着直接冷藏”效果更佳。<sup>[6]</sup></p>
-<p>至于怎么判断你家鸡蛋还能不能吃，可见下图。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bbc294a6f2c0d9f84cea8d5a14ff3569_720w.jpg?source=8673f162" alt=""><figcaption>鸡蛋变质有 4 个明显特征：①长斑，在蛋壳上生出肉眼可见的黑色霉斑，伴有腐臭味。②散黄，细菌、霉菌通过蛋壳气孔侵入鸡蛋内部，造成散黄，甚至蛋黄和蛋清混在一起，往往带有异味。③有裂纹，外壳出现裂缝、裂纹，易被细菌侵入。④粘壳，若蛋黄膜紧贴蛋壳不动，贴皮外呈深黑色且有异味的，不宜再吃。</figcaption></figure>
-<p>其实这个原理在鸡蛋工业界早就被玩明白了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b530322881b9f93a4550f1eb33b5d88c_720w.jpg?source=8673f162" alt=""><figcaption>美国的蛋鸡生产商必须清洗自家生产的鸡蛋，清洗方法包括肥皂、酶或氯。原因是为了控制沙门杆菌，这是一种附着在鸡蛋上具有潜在致命性的细菌。也因此清洗完后，需要立即冷藏以保鲜。</figcaption></figure>
-<p>冷知识，其实美国一直以来对市售鸡蛋普遍采取“必须洗”的政策，主要考虑是降低蛋壳表面沙门氏菌等病原体的传播风险。<sup>[7]</sup></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-e84564a9e54a071a9b17cb80c9ab766b_720w.jpg?source=8673f162" alt=""></figure>
-<p>ps，美国农业部《Egg Grading Manual》对商业洗蛋有硬性规定，洗蛋水不低于 32.2°C，还得比蛋的内部温度高至少 20°F（约 11°C）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9d4ccfafdc9b5cd9b75da657bdf657e3_720w.jpg?source=8673f162" alt=""><figcaption>清洗包装好的鸡蛋存放在冰箱中，等待分销。</figcaption></figure>
-<p>其目的只有一个，角质层虽然破了，让蛋往外胀，别往里吸，问题也不大。</p>
-<p>工厂洗蛋卡水温、加消毒、立刻烘干冷藏，一条龙服务，似乎也没多大问题。<sup>[8]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6fd89943be0dd18c6e9885155d5c6e44_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过人家是工业路线，你想用家里一盆凉水搓完，带着水就往冰箱里塞，可以祈祷一下。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-687f66bfe3978b73a81955da62281fe2_720w.jpg?source=8673f162" alt=""></figure>
-<p>冷知识，相对于美国则是必须洗、洗完必须一路冷藏的策略，欧盟是反着来的，A 级鲜蛋法规上禁止清洗，超市常温摆着卖。<sup>[9]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5cb9def50d00c695ff0496d6021e6d74_720w.jpg?source=8673f162" alt=""><figcaption>欧洲的超市不冷藏鸡蛋。</figcaption></figure>
-<p>究其原因也很简单，角质层这个膜在，就别洗；而膜没了，就得冷藏到底。</p>
-<p><strong>再说冰箱门</strong></p>
-<p>沙门氏菌在低温下增殖会大幅放缓，美国规定鲜蛋储运温度不高于 45°F（7.2°C），就是冲着这点去的。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c767d3a045ffd07a0ec594205e177532_720w.jpg?source=8673f162" alt=""></figure>
-<p>冷知识，根据相关报道，冰箱冷藏室的最佳设定温度是 4℃左右（0-5℃区间），冷冻室应保持在 -18℃或更低。<sup>[10]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-93c7c09ead1a6720cdc02c7b3b73ac1a_720w.jpg?source=8673f162" alt=""></figure>
-<p>但问题来了，冰箱冷藏室设置的 4°C 左右是冷藏核心区的温度。但冰箱频繁开门，每开一次门，门架附近的空气几十秒就能窜到 8 到 12°C，关上后要 10 到 30 分钟才能回落下来。</p>
-<p>门上那排蛋基本就在沙门氏菌的适宜的繁殖温度上反复横跳。</p>
-<p>另外，根据相关数据，室内 25°C、湿度 60%的空气，露点大约 17°C，冰箱门一开，热湿空气一涌进来，蛋壳上就会结露出一层水珠.....<sup>[11]</sup></p>
-<p>所以把鸡蛋在放门格子影响如下：</p>
-<p>没洗过的蛋放门上，膜还在，主要影响的是鲜度，沙门氏菌繁殖起来快点，短期安全问题不大；但洗过的蛋放门上，就是没了保护膜、吸进去几滴脏水、再在 7°C 线上来回晃几天的组合。</p>
-<p>前者是品质问题，但后者是安全问题。</p>
-<p>此时一盘嫩炒蛋上场，即可完成最终的收割。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-dd8b88a2feadfffeb3debd52775d2d29_720w.jpg?source=8673f162" alt=""></figure>
-<p>嫩炒讲究一个滑，蛋液刚凝固就出锅，中心未必热透，细菌没法加热杀死，一家三口这就整整齐齐送医院了。</p>
-<p>其实我挺好奇厂家为什么喜欢把蛋托做在门上的，查了一圈没找到靠谱解释，大概率可能门上那块空间刚好放得下，不过应该和适不适合放蛋没啥关系。</p>
-<p>ps，我国现行食品安全国家标准 GB 2749-2015《食品安全国家标准 蛋与蛋制品》，并没有规定所有鲜蛋上市前必须清洗消毒。<sup>[12]</sup></p>
-<blockquote>上海这几年也发布了《优质保洁鸡蛋生产经营卫生规范》的团体标准，要求对分拣后的完好蛋进行清洗、消毒、干燥，并使用符合食品安全要求的白油等涂膜，以补充清洗后损失的蛋壳天然保护功能。</blockquote>
-<p>不过这几年各种保洁蛋、清洁蛋、可生食鸡蛋高端产品名字也是层出不穷。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0aa09487dfaf0b7ba3f3bfd23e7627a1_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-742e52a1064a9443e1b352c460d17f54_720w.jpg?source=8673f162" alt=""></figure>
-<p>各位高端吃蛋玩家看到这些名字可以引起关注，保存方式是完全不同的。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5990256cd004bf13c5555b69c05759af_720w.jpg?source=8673f162" alt=""></figure>
-<p>省流，论普通玩家怎么吃鸡蛋？</p>
-<p>脏蛋用干纸巾擦，真要洗就下锅前洗；</p>
-<p>蛋连盒子放冷藏室中层靠里；</p>
-<p>已经洗过的，擦干，几天内吃完，炒熟。</p>
-<p>over。</p>
+<p>不锈钢：出门在外身份都是自己给的，</p>
+<p>自然界里除了金，铂等高电势位金属能真做到不锈，</p>
+<p>大多数金属暴露在空气中都会快速氧化，</p>
+<p>只是生成物比较致密，可以保护内部的我们通常叫氧化膜。</p>
+<p>生成物疏松多孔保护不了基体的通常叫锈。</p>
+<p>你看这就很双标。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-25e646d84e3225b0b7057de9ba28b012_720w.jpg?source=8673f162" alt=""></figure>
+<p>而铁就比较尴尬，在高温下完全氧化产生的 Fe₃O₄是响当当的氧化膜，能有效保护内部。</p>
+<p>而铁在自然环境下，特别是遇到水，</p>
+<p>就会产生 Fe₃O₄，α-Fe₂O₃（赤铁矿），γ-Fe₂O₃（磁赤铁矿），α-FeOOH（针铁矿），γ-FeOOH（纤铁矿）等一大堆不同相态的氧化物，这些氧化物往往呈梯度渐变同时存在。</p>
+<p>由于这些氧化物晶格，体积膨胀，应力等性质完全不一样，</p>
+<p><strong>强行凑在一起融合必然会互相拆台。</strong></p>
+<p>你可能对这个没啥概念，我们换个金属，锡。</p>
+<p>锡在低温环境下会由β态朝着更稳定的α态转变，</p>
+<p>由于这两种相态的晶格完全不同，α态体积更大且更脆，</p>
+<p>巨大的内应力会直接导致整块金属会像瘟疫一样蔓延膨胀化作粉末，</p>
+<p>被称为锡疫。<sup>[1]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-44598513b186f78f846d4d848a859c92_720w.gif?source=8673f162" alt=""><figcaption>锡疫现象</figcaption></figure>
+<p>这仅仅是两种相态干架的威力，而铁的氧化物更是有很多种。</p>
+<p>所以我们会注意到，铁锈往往疏松多孔，呈层状分布。</p>
+<p>正常来说，</p>
+<p>铁在干燥环境下的氧化反应比较缓慢且稳定，可以用很长时间。</p>
+<p>但在潮湿的环境下，</p>
+<p>内部的铁会先在表面形成微小的原电池。</p>
+<p>然后再变成离子溶解进表面的水膜，</p>
+<p>最后析出沉淀，变成水合氧化铁（FeOOH）</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6b6620939742eb142e22f81a4aa026cb_720w.jpg?source=8673f162" alt=""></figure>
+<p>而铁锈疏松多孔的结构又会给水提供庇护所，</p>
+<p>使其不容易变干，帮助更多铁离子逃窜。</p>
+<p>最后的结果就是铁一旦碰到潮湿的环境，</p>
+<p>就会一层一层又一层，快速生成一大堆铁锈。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-646cd9b044bc1f31bc71585a34eb30c0_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>所以铁防锈无非几个套路：</strong></p>
+<p>1，外皮隔绝，防止铁碰到水。</p>
+<p>2，阳极挡灾，用更低电位的金属代替铁生锈。</p>
+<p>3，合金改命，分子级改变性质。</p>
+<p>4，走为上计，换个不长锈的环境。</p>
+<p><strong>这几个套路经常被联合使用，</strong></p>
+<p>比如热镀锌，高温环境下把钢浸入锌水，会自然产生多层复合镀层。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7c64439aea521bed5bbf2cef5281810_720w.jpg?source=8673f162" alt=""></figure>
+<p>锌比铁更活波，可以优先代替铁被腐蚀，能抗锈。</p>
+<p>而表面生成的致密锌层能有效隔绝环境，也能抗锈。</p>
+<p>这就使得镀锌角钢即使表层破裂，也往往有不错的耐候性。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3be55ee257a623eaf47317e4cbba7ede_720w.jpg?source=8673f162" alt=""></figure>
+<p><strong>而不锈钢修行的则是合金改命，</strong></p>
+<p>铬能形成致密的氧化膜，且比铁更活泼，</p>
+<p>接触空气后会优先形成致密的 Cr₂O₃氧化膜保护内部，</p>
+<p>但一旦铬被消耗过大，里面的铁也会被拽出来当填线宝宝，就会产生锈点。</p>
+<p>而 Cr₂O₃也是铬脆皮宝宝，非常害怕酸和氯离子侵蚀。</p>
+<p>特别是氯离子，由于个头太小，</p>
+<p>可以轻松钻进钝化膜里产生点蚀痕迹。</p>
+<p>所以在海边的不锈钢栏杆还有不锈钢锅之类的，还是容易出现斑斑锈迹。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-b287e1b96fa64019d96cde4a0ccb1b57_720w.jpg?source=8673f162" alt=""></figure>
+<p>那咋整呢？</p>
+<p>第一种方式就是做表面处理，</p>
+<p>通过酸洗钝化，抛光，电镀等工艺强化局部抗腐蚀性。<sup>[2]</sup></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6205c55ab7026ac6a07073e6c276b6d2_720w.jpg?source=8673f162" alt=""></figure>
+<p>第二种就是修改配方，增加不锈钢的点蚀电位，</p>
+<p>比如在不锈钢里再加入钼（Mo）来抗氯，使其更难启动局部阳极腐蚀坑。<sup>[3]</sup></p>
+<p>即使如此，</p>
+<p>也无法做到 100%防锈。</p>
+<p>所以，不锈钢只是个诨号，</p>
+<p>真指望它一点不锈，请认准纯金制造。</p>
+<hr>
+<p>当然，锈也不是完全没用，</p>
+<p>如果适当的改变下比例，通过特殊方法让锈变的致命，还是非常能抗的。</p>
+<p>典型的就是耐候钢，</p>
+<p>这类钢材是利用合金改变了其锈层的成分和结构，</p>
+<p>使其表面形成紧密堆积的α-FeOOH 保护层，以阻止其继续向内腐蚀。<sup>[4]</sup></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3e27b094f49cfcc0cf2bc762e1232fa9_720w.jpg?source=8673f162" alt=""><figcaption>普通钢和耐候钢的锈层区别。</figcaption></figure>
+<p>在制造完成后，</p>
+<p>非但不用额外涂层，甚至部分工程前期还需要工人定期喷水做干湿循环，</p>
+<p>以加快产生稳定锈层的进度。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ac7480886fa9c01f8530723c3249dd0_720w.jpg?source=8673f162" alt=""><figcaption>藏木大桥免涂装耐候钢周期喷水锈层稳定化处理。（来源：桥梁杂志）</figcaption></figure>
+<p>只是成品模样嘛，</p>
+<p>总有种倒闭好几年的废土风。</p>
+<p>耳边不由响起野性的呼唤：</p>
+<blockquote>浙江温州，浙江温州，江南皮革厂倒闭了！<br>老板黄鹤吃喝嫖赌，欠下了 3.5 个亿，带着他的小姨子跑了!!!</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e5f4c81672e3c3d1d2cd468767a2b0d4_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2097613742233970119">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2084246592417165578">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793827</guid>
-                <pubDate>Mon, 09 Nov 2026 14:56:12 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793856</guid>
+                <pubDate>Tue, 10 Nov 2026 01:04:09 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么做豆腐用黄豆，不用其他豆类？</title>
-                <link>http://daily.zhihu.com/story/9793832</link>
-                <description>罗叔，资深食材与烹饪研究专家。食材溯源｜风味原理｜烹饪技巧 查看知乎原文 假设你拿一斤绿豆，按做豆腐的流程走一遍：泡一夜、磨浆、滤渣、煮开、点卤。 你会得到一锅绿豆汤，表面浮一点絮状的东西，底下沉一层沙。点不成豆腐。 这个失败不是手艺问题，是原料不对。豆腐不是”把豆子煮凝固”，它是蛋白质凝胶——一个很具体的物理化学过程，对原料有三个硬条件。黄豆刚好三条全占，其他豆基本都不占。 豆腐到底是什么 先把…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-d808a05e2a62c3a3469ff193399c6154.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>AB型爸和A型妈生出O型娃，因爸爸是罕见CisAB血型，如何通俗解释？CisAB血型有哪些特殊之处？</title>
+                <link>http://daily.zhihu.com/story/9793865</link>
+                <description>极萨学院冷哲，有时治愈，常常帮助，总是安慰 查看知乎原文 其实这个新闻里的事情，可以翻译成一道高中生物题： AB 型和 A 型，或者 AB 型和 B 型的父母，生出来的娃，血型可能是？（多选） A. A 型 B. B 型 C. AB 型 D. O 型 如果这是一道高中生物题，那么正确答案应该是ABC。 但如果这是一道真实世界里的题目，那么答案就有可能是ABCD。 ？你是不是做出了困惑的表情？ 是的…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0c27963f04482f2c99599d3c0bf351e1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -151,159 +155,109 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-c5b69a32e442a85dcc9a35adb336ba61_l.jpg?source=8673f162">
-<span class="author">罗叔，</span><span class="bio">资深食材与烹饪研究专家。食材溯源｜风味原理｜烹饪技巧</span>
-<a href="https://www.zhihu.com/question/2095770019644825863/answer/2095929869699904770" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-0f2c00819eeb392c7f1514399a9d7ac4_l.jpg?source=8673f162">
+<span class="author">极萨学院冷哲，</span><span class="bio">有时治愈，常常帮助，总是安慰</span>
+<a href="https://www.zhihu.com/question/2095093001831674398/answer/2095131562039842083" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>假设你拿一斤绿豆，按做豆腐的流程走一遍：泡一夜、磨浆、滤渣、煮开、点卤。</p>
-<p>你会得到一锅绿豆汤，表面浮一点絮状的东西，底下沉一层沙。点不成豆腐。</p>
-<p>这个失败不是手艺问题，是<strong>原料不对</strong>。豆腐不是”把豆子煮凝固”，它是<strong>蛋白质凝胶</strong>——一个很具体的物理化学过程，对原料有三个硬条件。黄豆刚好三条全占，其他豆基本都不占。</p>
-<p><strong>豆腐到底是什么</strong></p>
-<p>先把过程拆开。</p>
-<p>黄豆泡发、磨浆、滤掉豆渣，得到豆浆。豆浆里主要是水，加上分散的蛋白质和脂肪球。这时候它是<strong>溶胶</strong>——蛋白质分子表面带同种电荷，互相排斥，所以悬在水里不沉。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-744a0bc3b1fdbb550a29878769006822_720w.jpg?source=8673f162" alt=""></figure>
-<p>加热到九十度以上，蛋白质变性，球状的分子展开，内部疏水的部分露出来，但因为有电荷排斥，还是连不起来。</p>
-<p>点卤的作用，是<strong>把这些电荷中和掉</strong>。石膏（硫酸钙）提供钙离子，卤水（氯化镁）提供镁离子，内酯（葡萄糖酸 -δ- 内酯）则是慢慢释放酸，把 pH 拉到蛋白质的等电点附近。</p>
-<p>电荷一没，展开的蛋白分子就开始互相靠近，通过疏水作用、氢键、二硫键交联，形成一个<strong>三维网络</strong>。这个网络把水、脂肪、一部分可溶性物质全部困在里面。</p>
-<p>这个网络就是豆腐。它的手感是”嫩”还是”老”，取决于网络的粗细和孔隙——孔隙小、持水多，就是嫩豆腐；孔隙大、出水多，就是老豆腐。</p>
-<p>所以做豆腐的本质，是<strong>让蛋白质交联成一个能持水的网</strong>。能不能做，取决于原料能不能提供足够的、能交联的蛋白质。</p>
-<p><strong>三个硬条件</strong></p>
-<p><strong>条件一：蛋白质够多。</strong> 豆浆里蛋白浓度太低，交联点不够，网络连不成片，只能是絮状沉淀。一般要求干豆蛋白在百分之三十以上。</p>
-<p><strong>条件二：蛋白质能凝胶。</strong> 不是所有蛋白都能交联成有弹性的网。大豆蛋白里有两类主要的贮藏球蛋白，一类沉降系数是 7S，一类是 11S。11S 的凝胶能力最强——它分子大、疏水基团多、加热后展开得彻底，交联出来的网结实、有弹性、持水好。7S 的凝胶性弱一些，但它负责”细腻”。两者的比例合适，豆腐才有那种”嫩而有骨”的口感。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9fcfe87beb4fdfa72e49b38706781b3e_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>条件三：淀粉够少。</strong> 这一条最容易被忽略。淀粉在加热时会糊化，吸水膨胀，把水抢走。蛋白网络还在形成，水已经被淀粉占住了，结果就是一锅”粉糊”，不是”凝胶”。淀粉糊化的胶和蛋白交联的胶，口感完全是两回事：前者是”沙、面、糊嘴”，后者是”嫩、滑、有弹性”。</p>
-<p><strong>黄豆刚好三条全占</strong></p>
-<p><strong>蛋白含量高。</strong> 干黄豆的蛋白质大约百分之三十五到四十，是常见食用豆类里最高的。</p>
-<p><strong>蛋白组成合适。</strong> 大豆的 11S（大豆球蛋白）和 7S（β- 伴大豆球蛋白）比例大约在一比一上下，这个比例做出来的豆腐既有弹性又有细腻度。11S 偏多，豆腐偏硬、偏”老”；7S 偏多，偏软、易碎。</p>
-<p><strong>几乎没有淀粉。</strong> 黄豆的淀粉含量在百分之一二，基本可以当零。它不含淀粉，含的是脂肪（百分之十八到二十）和膳食纤维。这个脂肪很关键——它在磨浆时和蛋白形成乳化，豆腐的”香”和”滑”来自它，不是来自水。脱脂大豆（豆粕）做的豆腐，明显寡淡、发柴，就是这个原因。</p>
-<p><strong>其他豆为什么不行</strong></p>
-<p><strong>绿豆。</strong> 蛋白百分之二十出头，淀粉百分之五十以上。你按豆腐的流程做，淀粉糊化之后把水抢光，蛋白网络被稀释在淀粉糊里，结果是”沙”。绿豆的正确出路是<strong>淀粉路线</strong>：凉粉、粉丝、绿豆糕，全是利用它的淀粉，不是蛋白。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d381be56ed8975d31956b577c2548984_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>红豆。</strong> 淀粉百分之五十五左右，蛋白百分之二十。做豆沙是对的，做豆腐是错的。</p>
-<p><strong>豌豆。</strong> 蛋白百分之二十到二十五，淀粉百分之五十。豌豆黄、粉丝，都是淀粉制品。</p>
-<p><strong>蚕豆。</strong> 蛋白百分之二十五，淀粉百分之四十以上。豆瓣、粉丝。</p>
-<p><strong>鹰嘴豆。</strong> 东南亚和南亚有一种叫”鹰嘴豆豆腐”的东西，但它的做法是把鹰嘴豆粉加水煮成糊，再冷却成型。那不是蛋白凝胶，是<strong>淀粉 - 蛋白混合胶</strong>，口感像糕、像布丁，一夹就碎，跟豆腐的”嫩而不断”完全不是一回事。</p>
-<p><strong>花生。</strong> 蛋白百分之二十五，脂肪百分之五十。能做出”花生豆腐”，但因为没有 11S 那种强凝胶蛋白，成品软、易碎、没有弹性，更像是”花生布丁”。</p>
-<p><strong>芝麻。</strong> 日本的”胡麻豆腐”听着像豆腐，其实主要靠葛粉或者淀粉凝固，跟豆类没关系。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d944e991dbf983dbc07c1d57382523cb_720w.jpg?source=8673f162" alt=""></figure>
-<p>一条判断法则，你可以拿去套任何豆：<strong>蛋白三成以上、淀粉五个点以下，才可能做成豆腐。淀粉四成以上，只能做粉、凉粉、豆沙。</strong></p>
-<p><strong>能做的例外：其实也有几种</strong></p>
-<p><strong>黑豆。</strong> 黑豆本身就是大豆，只是种皮是黑的。它能做豆腐，颜色灰黑或者带紫，豆腥味比黄豆重，凝固剂的用量要稍微多一点。有些地方专门做黑豆腐。</p>
-<p><strong>青豆（青皮大豆）。</strong> 也是大豆，能做成豆腐，颜色偏青。</p>
-<p><strong>双青豆、褐大豆。</strong> 同属栽培大豆，都能做。</p>
-<p>所以准确的说法不是”只有黄豆能做”，是”<strong>大豆这个种能做，其他豆不能</strong>“。黄豆只是大豆里最常见、最适合的一个品种——它的蛋白含量稳定、脂肪足、种皮薄、豆腥轻。</p>
-<p><strong>凝固剂为什么是那三种</strong></p>
-<p>顺带说一下，因为很多人做到这一步会卡住。</p>
-<p><strong>石膏（硫酸钙）。</strong> 钙离子凝固，速度慢，网络细，持水好，适合嫩豆腐、南豆腐。用量大约是干豆重量的百分之二到三。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7c1e9b7db888f1d053122c268b30cca2_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>卤水（氯化镁）。</strong> 镁离子凝固，速度快，出水多，网络粗，适合老豆腐、北豆腐。用量比石膏少，点的时候要慢，边加边搅。</p>
-<p><strong>内酯（葡萄糖酸 -δ- 内酯）。</strong> 加水后缓慢水解成葡萄糖酸，pH 慢慢下降，凝固均匀，最嫩，适合豆花、内酯豆腐。用量大约是豆浆的百分之零点三。</p>
-<p>温度是关键参数：<strong>七十五到八十五度之间点浆</strong>。太高，蛋白凝固太快，网络粗糙、出水；太低，凝不起来，成一锅浑汤。</p>
-<p><strong>一个两小时能做完的对照实验</strong></p>
-<p>这个比看十篇文章有用。</p>
-<p>买三两黄豆、三两绿豆、三两豌豆。分别泡八小时，分别按一比八加水打浆、滤渣、煮开（煮的时候要不停搅，容易糊底）。三锅豆浆分别降温到八十度，各加一点石膏水，静置十五分钟。</p>
-<p>结果你会看到：</p>
-<p>黄豆那锅结成一块，能切，能夹。 绿豆那锅是一锅浑汤，底下沉沙，上面浮絮。 豌豆那锅稍微好一点，成糊状，一碰就散。</p>
-<p>这个差别不是”浓度”或者”手法”，是原料的蛋白和淀粉比例决定的——<strong>你没法用技术弥补原料</strong>。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f1d44d0ba8b24a8440e5f57104c5aa45_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>速查</strong></p>
-<table>
-<tbody>
-<tr><th>豆类</th><th>蛋白</th><th>淀粉</th><th>能不能做豆腐</th><th>正确出路</th></tr>
-<tr>
-<td>黄豆</td>
-<td>35–40%</td>
-<td>1–2%</td>
-<td>能，最佳</td>
-<td>豆腐、豆浆、酱油</td>
-</tr>
-<tr>
-<td>黑豆</td>
-<td>35–40%</td>
-<td>1–2%</td>
-<td>能，色深味重</td>
-<td>黑豆腐、豆豉</td>
-</tr>
-<tr>
-<td>青豆（大豆）</td>
-<td>35–38%</td>
-<td>1–2%</td>
-<td>能</td>
-<td>青豆腐</td>
-</tr>
-<tr>
-<td>绿豆</td>
-<td>20–24%</td>
-<td>50%+</td>
-<td>不能</td>
-<td>凉粉、粉丝</td>
-</tr>
-<tr>
-<td>红豆</td>
-<td>20%</td>
-<td>55%+</td>
-<td>不能</td>
-<td>豆沙</td>
-</tr>
-<tr>
-<td>豌豆</td>
-<td>20–25%</td>
-<td>50%</td>
-<td>不能</td>
-<td>豌豆黄、粉丝</td>
-</tr>
-<tr>
-<td>蚕豆</td>
-<td>25%</td>
-<td>40%+</td>
-<td>不能</td>
-<td>豆瓣、粉丝</td>
-</tr>
-<tr>
-<td>鹰嘴豆</td>
-<td>20%</td>
-<td>45%</td>
-<td>勉强，非真豆腐</td>
-<td>鹰嘴豆糕</td>
-</tr>
-<tr>
-<td>花生</td>
-<td>25%</td>
-<td>10%</td>
-<td>勉强，易碎</td>
-<td>花生豆腐（布丁状）</td>
-</tr>
-</tbody>
-</table>
-<p><strong>最后</strong></p>
-<p>这题看起来是”习惯”或者”传统”，其实是<strong>原料的物理性质决定的</strong>。</p>
-<p>传统之所以是传统，往往因为它是当年试错的结果——几百年前的人未必知道”11S 球蛋白”这个词，但他们试过所有的豆，发现只有大豆能点成块。这个结论是用无数锅失败换来的，跟今天的实验室结论一致。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a131d853f9bb22029990a119d62fd182_720w.jpg?source=8673f162" alt=""></figure>
-<p>真要说哪一句最值得记住，是”<strong>豆腐是蛋白质凝胶，不是豆子糊</strong>“。想通这一句，你就明白为什么绿豆只能做凉粉，也明白为什么脱脂大豆做的豆腐不香。</p>
-<p><a class="member_mention" href="http://www.zhihu.com/people/c9b784b495a0638d217902e4cb6d5fc2">@知乎美食</a></p>
-<p>罗叔｜<a class="internal" href="https://www.zhihu.com/people/luoshuzhidao">​​​​罗叔</a>本名罗晨，博士，资深食评人与食材研究者。 潜心各地风物，钻研传统烹饪技法与在地饮食文化。</p>
+<p>其实这个新闻里的事情，可以翻译成一道高中生物题：</p>
+<p><strong>AB 型和 A 型，或者 AB 型和 B 型的父母，生出来的娃，血型可能是？（多选）</strong></p>
+<p>A. A 型</p>
+<p>B. B 型</p>
+<p>C. AB 型</p>
+<p>D. O 型</p>
+<p>如果这是一道高中生物题，那么正确答案应该是<strong>ABC</strong>。</p>
+<p>但如果这是一道真实世界里的题目，那么答案就有可能是<strong>ABCD</strong>。</p>
+<p>？你是不是做出了困惑的表情？</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-416efdc127fd3e28ad936976d2626e24_720w.jpg?source=8673f162" alt=""></figure>
+<p>是的，其实从严格意义上来说，我们初中和高中学的物理、化学、生物课本里的很多知识，都是在特定条件下建立起来的简化模型。</p>
+<p>这是为了让大家更容易理解基本规律，我们往往会先忽略那些少见的、复杂的情况。</p>
+<p>但真实世界不会按照高考大纲运行，真实世界复杂的多……</p>
+<p>就比如这个新闻里报道的，深圳就有一位爸爸，他自己是 AB 型血，妻子是 A 型血，结果女儿检查出来居然是 O 型血。</p>
+<p>按照我们熟悉的 ABO 血型遗传规律，这显然说不通。</p>
+<p>按照电视剧里的情节，接下来就是家庭伦理大战，或者是医院抱错孩子，测错血型等等的内容，估计能出个 20 集，就算走近科学都得整个上下两集。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-01e700d5f8bfb55e472f0e12d61a329a_720w.jpg?source=8673f162" alt=""><figcaption>侯桂芬啊，你是个狠人啊。</figcaption></figure>
+<p>但现实不是电视剧也不是电影嘛，这东西是有科学解释的。</p>
+<p>比如新闻里的这个爸爸，在进一步检查后，医生发现，这位爸爸携带了一种非常少见的 ABO 基因变异，叫作<strong>cis-AB（顺式 AB）</strong>。</p>
+<p>也正是这个特殊的基因版本，让原本在高中生物题里不可能出现的 O 型孩子的答案，成为了现实。</p>
+<p>要理解这是怎么回事，我们还得先回忆一下高中生物里学过的 ABO 血型遗传规律。</p>
+<p>决定 ABO 血型的基因位于我们的 9 号染色体上。正常情况下，每个人都有两份 ABO 基因，分别来自父亲和母亲。</p>
+<p>在高中生物中，我们通常把这个基因分成 A、B、O 三个版本。其中 A 和 B 对 O 都是显性的，而 A 和 B 之间是共显性关系。因此，A 型血的人，基因组合可能是 AA，也可能是 AO；B 型血可能是 BB 或者 BO；O 型血则是 OO，而 AB 型血就是 AB。</p>
+<p>生孩子的时候，父母会分别把自己两个基因版本中的一个传给孩子。</p>
+<p>所以，普通 AB 型血的人，能够传给孩子的只有 A 或者 B，而不可能是 O。即便另一位家长携带 O 基因，孩子最多也只能得到 AO 或者 BO 这样的组合，不可能得到 OO。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d700e3ce0edd4574d7e31a342f412182_720w.jpg?source=8673f162" alt=""><figcaption>高中生物的生孩子血型版本</figcaption></figure>
+<p>这就是为什么按照高中生物的遗传模型，AB 型血的人不可能生出 O 型血的孩子。[1]</p>
+<p>但这里有一个问题。</p>
+<p><strong>我们通常所说的 A 型、B 型、AB 型和 O 型，其实描述的是红细胞表面的抗原，而不是直接告诉我们这个人携带了哪些基因版本。</strong></p>
+<p>所谓 A 型血，就是红细胞表面有 A 抗原；B 型血有 B 抗原；AB 型血两种抗原都有，而 O 型血则没有这两种抗原。</p>
+<p>这些抗原并不是凭空出现的，它们实际上是红细胞表面糖链经过特定加工形成的结构。</p>
+<p>负责加工的，是 ABO 基因编码的一种酶，叫作糖基转移酶。</p>
+<p>我们可以把它理解成给红细胞表面的糖链进行最后一道加工的师傅。A 版本的基因，可以生产出负责制造 A 抗原的酶；B 版本则生产出负责制造 B 抗原的酶。</p>
+<p>普通 AB 型血的人，恰好同时拥有这两种版本，所以可以制造出两种不同的抗原。而常见的 O 版本由于基因发生了变化，无法生产出具有相应加工能力的酶，因此 OO 组合的人，红细胞表面就不会出现 A、B 抗原。[1]</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ae33c1992a51b07eaf97c837d6613a38_720w.jpg?source=8673f162" alt=""></figure>
+<p>那么，有没有可能只用一个基因版本，就同时制造出 A 和 B 两种抗原呢？</p>
+<p>还真有。</p>
+<p>这就是我们前面提到的<strong>cis-AB</strong>。</p>
+<p>早在 1993 年，科学家就已经通过基因测序研究了这种特殊的血型。他们发现，某些 cis-AB 基因版本与普通 A 型基因非常相似，只是部分 DNA 序列发生了改变，导致相应的酶发生变化。[2]</p>
+<p>这种变化产生了一个很有意思的结果：原本主要负责制造 A 抗原的酶，现在竟然也具备了制造 B 抗原的能力。</p>
+<p>也就是说，<strong>一个 cis-AB 基因版本，就可以同时提供制造 A、B 两种抗原的能力。</strong></p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-92d0dfe01a96efaafed5f48411cf8748_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过，这种酶的工作能力与普通 A、B 型酶并不完全相同。2005 年发表在《Vox Sanguinis》上的一项研究就发现，研究对象携带的 cis-AB 酶虽然能够同时催化两种反应，但两方面的活性都明显低于正常对照，尤其是 B 抗原的表达往往比较弱。[3]</p>
+<p>所以，有些 cis-AB 携带者虽然表现出 AB 型的特征，但他们与普通 AB 型血的人，在基因组成和抗原表达上其实存在差异。</p>
+<p>现在，问题就变得简单了。</p>
+<p>我们通常认为，AB 型血的人一定携带一个 A 基因和一个 B 基因。</p>
+<p>但实际上，一个人的两份 ABO 基因，完全可以是<strong>cis-AB 和 O</strong>。</p>
+<p>由于 cis-AB 一个版本就能够制造出两种抗原，所以即便另一份是 O，这个人仍然可以表现为 AB 型血。</p>
+<p>而在生育过程中，这个人能够传给孩子的基因版本，就不再是 A 或者 B，而是 cis-AB 或者 O。</p>
+<p>这样一来，新闻里那个看起来不可能的结果，也就有了解释。</p>
+<p>假设这位爸爸的基因组合是 cis-AB/O，而妈妈虽然表现为 A 型血，但实际携带的基因是 AO。</p>
+<p>那么，爸爸有一半的概率把 O 传给孩子，妈妈同样有一半的概率把 O 传给孩子。</p>
+<p>如果孩子恰好从爸爸和妈妈那里各得到一个 O，那么孩子的基因组合就是 OO，自然也就表现为 O 型血。</p>
+<p>按照这个明确的基因组合，每次生育出现 OO 型孩子的理论概率就是：</p>
+<p><strong>1/2 × 1/2 = 1/4，也就是 25%。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-984e95b84ebf2c3683e48c475a05d066_720w.jpg?source=8673f162" alt=""></figure>
+<p>同样的道理，如果另一位家长是 BO 组合的 B 型血，也完全可能生出 O 型血的孩子。甚至当另一位家长本身就是 OO 组合的 O 型血时，cis-AB/O 与 OO 的组合，也有一半的概率生出 O 型血的孩子。</p>
+<p>所以你看，这件事其实并没有推翻孟德尔遗传定律。</p>
+<p>父母仍然各自把一份基因传递给孩子，基因分离和组合的规律也没有发生变化。</p>
+<p><strong>真正发生变化的，是我们对 ABO 基因版本的认识。</strong></p>
+<p>高中生物为了便于教学，只讨论了最常见的 A、B、O 三种版本。但真实的人类群体中，ABO 基因存在许多不同的变异，cis-AB 就是其中比较特殊的一类。</p>
+<p>而且，这种情况也再次说明，血型和基因型并不是完全相同的概念。我们从血型检测中看到的，是基因最终产生的表现，而不同的基因组合，有时候也可能产生相似的表现。</p>
+<p>当然，cis-AB 非常罕见，绝大多数人的 ABO 血型仍然符合高中课本里的常见遗传模型。我们也不能因为存在这样的特殊情况，就认为所有看起来不符合遗传规律的血型组合，都可以用 cis-AB 解释。</p>
+<p>如果真的遇到一家人血型对不上的情况，首先应该通过规范的血型检测排除检测误差，必要时再进行更深入的血型鉴定和基因检测。</p>
+<p>至于亲子关系，那就更不能仅凭几个人的 ABO 血型来判断了。真有需要，还是应该进行正规的 DNA 亲子鉴定。</p>
+<p>高中生物中的很多规律并没有错，只是在教学过程中，为了突出最重要的规律，我们不得不省略一些复杂的细节。</p>
+<p>随着学习的深入，我们会发现，许多原本以为非黑即白的问题，背后其实还藏着大量有趣的生物学机制。</p>
+<p>而这些看起来不符合课本规律的特殊案例，恰恰也是科学研究非常有意思的地方。</p>
+<p>毕竟，真实世界的生物学，从来都不是只有 ABCD 这几个选项。</p>
+<hr>
+<p><strong>参考文献</strong></p>
+<p>[1] Yamamoto F, Clausen H, White T, et al. Molecular genetic basis of the histo-blood group ABO system. <em>Nature</em>. 1990;345:229–233.</p>
+<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1038/345229a0" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1038/345229a</span><span class="invisible">0</span><span class="ellipsis"></span></a></p>
+<p>[2] Yamamoto F, McNeill PD, Kominato Y, et al. Molecular genetic analysis of the ABO blood group system: 2. cis-AB alleles. <em>Vox Sanguinis</em>. 1993;64(2):120–123.</p>
+<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1111/j.1423-0410.1993.tb02529.x" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1111/j.1423-</span><span class="invisible">0410.1993.tb02529.x</span><span class="ellipsis"></span></a></p>
+<p>[3] Yazer MH, Zheng RB, Seto NOL, et al. Kinetic studies on Korean serum cis-AB enzymes reveal diminished A and B transferase activities. <em>Vox Sanguinis</em>. 2005;89(3):161–167.</p>
+<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1111/j.1423-0410.2005.00688.x" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1111/j.1423-</span><span class="invisible">0410.2005.00688.x</span><span class="ellipsis"></span></a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2095770019644825863">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2095093001831674398">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793832</guid>
-                <pubDate>Mon, 09 Nov 2026 14:56:13 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793865</guid>
+                <pubDate>Tue, 10 Nov 2026 01:04:10 GMT</pubDate>
             </item>
             
             <item>
-                <title>你什么时候对学术圈祛魅的？</title>
-                <link>http://daily.zhihu.com/story/9793842</link>
-                <description>赤石神殿，赤石神殿官方账号 查看知乎原文 坦白讲，学术圈跟我以前，尤其跟我刚上大学时候预想的，还是不太一样。我搞物理搞了二十多年。你要说这二十多年里，我一次都没有后悔过，那肯定是骗人的。甚至越接近四十多岁，这种感觉越强烈。有时候我真感觉到一种深深的无力感，想当年意气风发，想在这个领域“胜天半子”，现在又觉得自己一事无成。真要问我是从什么时候开始对学术圈祛魅的，我说不出某一天。读博时，我觉得靠个人努…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-002d60446e048dff51fa178df378b74e.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>古人常把酒加热再喝，为什么现代人很少这么做了？</title>
+                <link>http://daily.zhihu.com/story/9793872</link>
+                <description>四叁有匪，尘土衣冠，江湖心量 查看知乎原文 古人温酒的原因： 从现代科学的角度来说，加热可以让低沸点的甲醇等有害物质挥发，降低中毒的风险； 从古代中医的角度来说，加热后引用，“不伤脾胃”。 黄釉陶尊，东汉，包头市文物管理处藏 古人并非所有情况下喝酒都加热，也和当时的天气与温度有关。 举个例子。 《三国演义》里只要提到“温酒”或者“煮酒”的，都不是在夏天。 第二十一回，曹操青梅煮酒论英雄，枝头梅子青…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-8a072f67935bb05590aa43e5c1dd72a1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -323,62 +277,90 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-07fcce34f01d989198f6b0d1361f2829_l.jpg?source=8673f162">
-<span class="author">赤石神殿，</span><span class="bio">赤石神殿官方账号</span>
-<a href="https://www.zhihu.com/question/2069739047577204414/answer/2101359844729140077" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pic1.zhimg.com/v2-0ab40b929dc309c5bafae45bf2639267_l.jpg?source=8673f162">
+<span class="author">四叁有匪，</span><span class="bio">尘土衣冠，江湖心量</span>
+<a href="https://www.zhihu.com/question/568130332/answer/2770498419" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>坦白讲，学术圈跟我以前，尤其跟我刚上大学时候预想的，还是不太一样。我搞物理搞了二十多年。你要说这二十多年里，我一次都没有后悔过，那肯定是骗人的。甚至越接近四十多岁，这种感觉越强烈。有时候我真感觉到一种深深的无力感，想当年意气风发，想在这个领域“胜天半子”，现在又觉得自己一事无成。真要问我是从什么时候开始对学术圈祛魅的，我说不出某一天。读博时，我觉得靠个人努力就能往前走；等自己成了导师，要带学生、争取经费，再看着教职越来越难拿，这些事情一点点改变了我的想法。</p>
-<p>我在知乎科学季的播客《知无不言》里，和@耿同学讲故事 聊了当初为什么走上科研道路，也聊了后来那些事。我把自己的想法整理在这里，大家可以看看。</p>
-<p>播客链接：《知无不言》这一期<a class="internal" href="https://www.zhihu.com/podcast/episode/2098743894062141776"><span class="invisible">https://www.</span><span class="visible">zhihu.com/podcast/episo</span><span class="invisible">de/2098743894062141776</span><span class="ellipsis"></span></a></p>
-<p>小宇宙收听：<a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//www.xiaoyuzhoufm.com/episode/6ae165d9c96c8942ec136a1a" target="_blank" rel="nofollow noreferrer">学术理想 VS 现实饭碗，科研圈生存指南｜对谈殿主、耿同学</a></p>
-<p><strong><strong>当年我没想过别的路</strong></strong></p>
-<p>我当年考大学，就只选物理，反正只对物理感兴趣。读完大学，也没怎么想过找工作的事，还想一直在学术圈混。我当时觉得，自己的性格比较内向，各方面也比较适合做学术。</p>
-<p>我读博和自己想象中的差不多，算是比较顺利的。导师没有强迫我去做不喜欢的方向；我读博那会儿，做的方向也还有不少值得挖掘的东西。只要肯下功夫，总能找出点新东西，发点论文。</p>
-<p>后来我原来做的方向，早就已经没人做了。你说大统一理论、室温超导，这些问题当然还没有解决。可你可能终其一生，也解决不了它。</p>
-<p><strong>“如何胜天半子”</strong></p>
-<p>我们这一代人，或者说在这个环境里卷出来的人，容易有一种惯性：总想通过自己不断努力，最终「胜天半子」。中学时代读书、考试，确实主要靠个人努力，很多有人情味的东西都被压到很低。我觉得，那已经比后来进入社会遇到的很多地方公平了。所以我那时有个思维定式，觉得只要自己不停地做，总能做出点东西——后来我发现，我们这个领域聪明的人太多了。</p>
-<p>更要命的是，可能我们这个专业方向已经过了「大牛市」，很难做出原来理想中的成就。科研跟我最原初的想象，还是不太一致。</p>
-<p>我当然动摇过。要是再选一次，我可能会换一种活法，换一个方向重新试试自己。或者计算机、金融、医学，都可能去尝试。</p>
-<p><strong>当学生和当老师完全不一样</strong></p>
-<p>我以前总结过，科研人往前走，有几个阶段。</p>
-<p>读研、读博的时候，主要还是靠自己努力。当然你也要选好导师，跟导师搞好关系；这个阶段，你付出多少，往往能在研究上看到一些结果。</p>
-<p>等拿到教职，个人奋斗之外还有很多事。你成了导师，手下有研究生，你得管理。学生不想做这个方向，你怎么说服他？你得给学生发补助，补助的钱从哪里来？你得争取经费，跟别人竞争。学生毕业后还要找教职、找工作；假如你手下的研究生都没有好的去处，后面也没人愿意跟着你。</p>
-<p>真正走上科研道路以后，考验你的除了做研究的能力，还有管理能力、情商、与人沟通的能力。我在与人沟通这方面的能力，我自己也知道，非常欠缺。</p>
-<p>这里面也有运气，假如一个方向刚发展起来，你很早就进去了，就可能很早奠定自己在这个领域的位置，后面的人都是来给你“抬轿子”的。但等方向已经有很多人做了，再进去还能不能“喝点汤”，就不知道了。你觉得它有前景，它能不能持续发展，也有很多不确定性。有些方向到了一个瓶颈，几十年没有大的进展，慢慢就变成了“老登方向”。</p>
-<p><strong>我给自己找了一个 Plan B</strong></p>
-<p>到了我这个年纪，我感觉自己在物理这个 Plan A 上，可能很难再有大的作为，就想给人生设一个 Plan B，于是瞄准了自媒体。我闯入自媒体也比较偶然。一些视频火了，我觉得这个 Plan B 可以试一试，后来又陆续有了一些机会。说两次室温超导，正好赶上两次都火了一下。</p>
-<p>我现在很久没做那种纯论文解读的科普视频了，因为我觉得那种视频，你去找 AI 看，大概率比我做得好。做自媒体有一点很适合我：我写完稿子，对着视频一顿输出，不需要跟那么多人沟通。评论区有人夸，我当然高兴；有人骂，一般也无所谓，实在受不了就拉黑。</p>
-<p>我在视频里谈到一篇文章，叫《千万不要做科学家》。它里面提到，能在科研领域做得好的人，去干别的领域，原则上也可以干得很好，也没必要非在科学这个领域里死磕。</p>
-<p><strong>很多东西都在变</strong></p>
-<p>我刚好卡在教职从稍微容易到很难的过渡阶段，算是赶上了尾巴。我们刚上大学的时候，读个博士，或者去海外做博士后回来，在国内拿一个教职还比较容易。大概从 2008 年、2010 年左右开始，学术圈进入了加速内卷的阶段。</p>
-<p>现在研究生、博士生这么多，让所有人都有学术理想，以后都搞学术、攀登科学高峰，不现实。最终还是要让每个学生有好的就业，找到自己的归宿；如果能做自己感兴趣的事，那当然最好。</p>
-<p>我以前招学生有两个原则：对学术研究不感兴趣的，不要来报我；第一志愿不报我，想调剂过来的，我也不要。那是七八年前说的话。当时我觉得，如果学生对学术和我的方向都不感兴趣，我们搞在一起就是互相折磨。现在我不敢这么说了。学生真要跟我，我就得想尽办法让他毕业。如果学生老发不出论文，越往后他的压力会越大。</p>
-<p>现在还有一个问题：所有大学都要搞研究型大学。顶尖大学、地方上普通的大学，都以论文为导向，往研究型大学发展。</p>
-<p>你做研究，也总得把自己的东西往热门方向靠。以前纳米热门，什么方向都往纳米靠；后来是钙钛矿；现在 AI 出来了，好像什么都要往 AI 方向靠。找到一个比较新的热门方向，还可以用同一套方法不断换对象，做「集邮式」的论文。</p>
-<p>我一直觉得，学术圈现在这套运行机制已经有一百多年了。AI 发展得如火如荼，以后还有更大的发展，这套规则可能在不久的将来就不适应了。科研范式会变，科研的组织方式也会变。以前想做科学研究，通常就是去大学谋求教职，从讲师、副教授、教授一路往上走。现在我感觉，科研的主力可能会有一部分到企业里去，尤其是 AI 这个方向。你看有些研究者，也开始考虑往企业转。</p>
-<p>我从读书开始，就觉得做科学要一辈子搞下去，在一个方向做一辈子。可人做到某个阶段，可能做不动了，或者对这个方向不感兴趣了，又有别的更好的机会，就可以换个方向试试。</p>
+<p>古人温酒的原因：</p>
+<p>从现代科学的角度来说，加热可以让低沸点的甲醇等有害物质挥发，降低中毒的风险；</p>
+<p>从古代中医的角度来说，加热后引用，“不伤脾胃”。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-377d9e7ab2577eedf9d154f74c0bff92_720w.jpg?source=8673f162" alt=""><figcaption>黄釉陶尊，东汉，包头市文物管理处藏</figcaption></figure>
+<p>古人并非所有情况下喝酒都加热，也和当时的天气与温度有关。</p>
+<p>举个例子。</p>
+<p>《三国演义》里只要提到“温酒”或者“煮酒”的，都不是在夏天。</p>
+<p>第二十一回，曹操青梅煮酒论英雄，枝头梅子青青，是上半年春天；</p>
+<p>第五回，袁绍聚集人马讨伐董卓，关羽温酒斩华雄，是在冬天。</p>
+<p>总之就是气温相对低的时候。</p>
+<p>展开说。</p>
+<p>宋人把温酒叫做“煖盪”。</p>
+<p>盪，更古早时，是洗涤的意思。</p>
+<p>《说文·皿部》：</p>
+<blockquote>盪，涤器也。</blockquote>
+<p>温热的酒，则为“汤”。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d591672fbe9223b52f22ef584f3c33a_720w.jpg?source=8673f162" alt=""><figcaption>铜注子 新安海底沉船遗物</figcaption></figure>
+<p>很多古籍里，都提出喝冷酒的危害，包括甲醇对眼睛的不可逆损伤：</p>
+<p>宋，朱肱《北山酒经》：</p>
+<blockquote>酒味甘、辛，大热，有毒。<br>虽可忘忧，然能作疾，所谓腐肠烂胃，溃髓蒸筋。</blockquote>
+<p>清，朱彝尊，《食宪鸿秘》：</p>
+<blockquote>饮生酒、冷酒，久之，两腿肤裂，出水、疯、痹、肿，多不可治。或损目。</blockquote>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-62ef06bd6a6178348895e5c6e599214d_720w.jpg?source=8673f162" alt=""><figcaption>锡提梁壶（水火炉） 四川崇州万家镇明代瓷器窖藏</figcaption></figure>
+<p>《随园食单》：</p>
+<blockquote>炖法不及则凉，<br>太过则老，近火则味变，<br>须隔水炖，而谨塞其出气处才佳。<br>取可饮者，开列于后。</blockquote>
+<p>古代的酒，除乙醇外，还有甲醇及其他有害物质。</p>
+<p>甲醇沸点均低于乙醇，到一定温度就挥发了。</p>
+<p>但如过分加热，乙醇也开始汽化消散，就影响了酒的风味。</p>
+<p>所以古人温酒，温度必须适度，多采用隔水加热和保温。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-09f6fa6abb04e3e57b8df5f2227f7d7e_720w.jpg?source=8673f162" alt=""><figcaption>锡提梁壶（水火炉） 内部构造</figcaption></figure>
+<p>古代中国，在很长一段时期里，黄酒是主流。</p>
+<p>但是，当时的黄酒和现在的黄酒，区别很大。</p>
+<p>古代酒类，用现代的词语来形容的话，只能用“发酵酒”来统称。</p>
+<p>那时的酒颜色和味道，我们基本不太体验到了。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3cbdc75c4684ed62d67a613b43b82620_720w.jpg?source=8673f162" alt=""><figcaption>常州武进村前乡 南宋五号墓出土带流提桶</figcaption></figure>
+<p>黄酒属于发酵酒，白酒属于蒸馏酒；</p>
+<p>前者酒精浓度低，成酒过程短，有的几天就可以饮用；</p>
+<p>后者酒精浓度高，是由发酵酒蒸馏得来的。</p>
+<p>前面说了，古时候，黄酒，也就是发酵酒是主流，这其中还有细分：</p>
+<p>酒味厚的叫醇，酒味薄的叫醨（lí），醴（lǐ）是甜酒，醪（láo）是汁滓混合的酒，就是现在的酒酿。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e860463c2980fbc89eab1ba4c11257a2_720w.jpg?source=8673f162" alt=""></figure>
+<p>至于何时开始出现蒸馏酒，据明代药物学家李时珍在《本草纲目》卷二五中说：</p>
+<blockquote>烧酒非古法也，自元时始创其法。</blockquote>
+<p>黄酒酿成时，汁与渣滓混在一起，是混浊的，经过过滤沉淀，除去渣滓，酒汁才会清澈，因而古人常说清酒、浊酒。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-836556f647de9ff2b865e201de919608_720w.jpg?source=8673f162" alt=""><figcaption>浙江东阳金交椅山宋墓出土</figcaption></figure>
+<p>三国，曹植《七启》：</p>
+<blockquote>盛以翠樽，酌以雕觞。<br>浮蚁鼎沸，酷烈馨香。</blockquote>
+<p>铜酒樽里的酒，热气腾腾；</p>
+<p>“浮蚁”一词，就是酒面上，发酵了的米粒在翻腾。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f9b1053f4960abc329bfa486e5401781_720w.jpg?source=8673f162" alt=""><figcaption>江苏无锡元钱裕墓出土</figcaption></figure>
+<p>唐，白居易，《问刘十九》：</p>
+<blockquote>绿蚁新醅酒，红泥小火炉。<br>晚来天欲雪，能饮一杯无？</blockquote>
+<p>“绿蚁”，也一样，就是浮在酒上的杂质，没有经过蒸馏的发酵酒，外观就是这样的；</p>
+<p>用小火炉加热，就是为去除这些杂质。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-132101c4387f2b494eb0f67a8434dda1_720w.jpg?source=8673f162" alt=""><figcaption>浮雕祥瑞禽兽纹鎏金铜酒樽，西汉，山西博物院藏</figcaption></figure>
+<p>商代的爵、斝都有支脚，直接在器下生火温热。</p>
+<p>西周之后，流行把酒壶放在盘或鉴中以热水慢慢加温。</p>
+<p>汉代的温酒器，普遍有盖子，可见饮宴的时间比之前，更长更久了。</p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2069739047577204414">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/568130332">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793842</guid>
-                <pubDate>Mon, 09 Nov 2026 14:56:16 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793872</guid>
+                <pubDate>Tue, 10 Nov 2026 01:04:11 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9793847</link>
-                <description>瞎扯 · 奥运会射箭比赛为什么不能用传统弓？ 知乎日报 查看知乎原文 Q： 奥运会射箭比赛为什么不能用传统弓？ @处女座起名不纠结 ：用传统弓想拿名次，得要吕布秽土转生吧。。。 Q： 敢不敢晒出你见过最离谱的游戏道具？ @朝仓左卫门督义景 ：三国杀民间包的这仨，看一次笑一次 Q：有什么你从未见过的稀有照片？ @萌虎鲸 :在斯大林时期坐办公室的勋宗1947 年，乌克兰苏维埃社会主义共和国扎波罗热 Q…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <link>http://daily.zhihu.com/story/9793876</link>
+                <description>瞎扯 · 看完南昌的海昏侯墓你有什么感觉？ 知乎日报 查看知乎原文 Q：看完南昌的海昏侯墓你有什么感觉？ @Shortime ：金钱如粪土这个成语不是比喻，是白描。 Q：你住酒店时有过哪些奇葩经历？ @西米露打烊了 ：客人退房，楼层服务员对讲机报：「客人忘记把猫带走了」打电话给客人，客人说：「不是我的猫，我进房间它自己跑进来的，我以为是你们酒店的猫呢，就抱着睡了一晚上」 Q： 你认为最失败的标志（…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -393,58 +375,50 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 奥运会射箭比赛为什么不能用传统弓？</h2>
+<h2 class="question-title">瞎扯 · 看完南昌的海昏侯墓你有什么感觉？</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/55470615/answer/2006324733646505267"> 奥运会射箭比赛为什么不能用传统弓？ </a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/452718828/answer/2074177988015477004">看完南昌的海昏侯墓你有什么感觉？ </a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ca553d8c5dad4e84934389f95a6953dd" target="_blank">@处女座起名不纠结</a></div>
- ：用传统弓想拿名次，得要吕布秽土转生吧。。。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/7e96ebc3df877b73794c64ca6bf56f29" target="_blank">@Shortime</a></div>
+ ：金钱如粪土这个成语不是比喻，是白描。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-0b4c415de994b84483a6718cdbf470c3_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-5715e19248ac8a44f5c82d28efa5ad1d_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/625868027/answer/2067524231928222102"> 敢不敢晒出你见过最离谱的游戏道具？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/641121995/answer/2021261746124403591">你住酒店时有过哪些奇葩经历？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d15b9ad36d66985aa0363cb2c9da1524" target="_blank">@朝仓左卫门督义景</a></div>
- ：三国杀民间包的这仨，看一次笑一次</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-824695c3583ae7bf5c1c3bf9e277c0b9_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-fd9b9eba4db7048435a6e0d64eb5aff7_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-c855c68f97c001368a2eb927cf616676_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/376634565/answer/2090119052152795652">有什么你从未见过的稀有照片？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/6bf8c51c83cadc30f70cff837ec4c547" target="_blank">@西米露打烊了</a></div>
+ ：客人退房，<br>楼层服务员对讲机报：「客人忘记把猫带走了」<br>打电话给客人，客人说：「不是我的猫，我进房间它自己跑进来的，我以为是你们酒店的猫呢，就抱着睡了一晚上」</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/1966885892099666871/answer/2085873450883855415"> 你认为最失败的标志（ Logo ）设计有哪些？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d8a1932278e5951bdc281a4408fcbae0" target="_blank">@萌虎鲸</a></div>
- :在斯大林时期坐办公室的勋宗<br>1947 年，乌克兰苏维埃社会主义共和国扎波罗热</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/7c114fd29c6907796757e2658f7dfffd" target="_blank">@椒龙 Josiah</a></div>
+ ：台湾省民进党为了振兴台湾的猪肉产业，推出的台湾猪 LOGO 。<br>咋看咋像骂人。而且民进党不如少进口点美猪来的实在。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-77aac977882b803648f03ee394b56dbc_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-9b159669b4d7844546ab3c23ca280bfd_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">在美国说</a>「<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">I is XXX.</a>」<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">（而不是</a>「<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">I am XXX.</a>」<a class="internal" href="https://www.zhihu.com/question/637051579/answer/3473401891">）真的没人能听懂吗？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/270076897/answer/1940731562288199033"> 面相长的凶是什么体验? </a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/9c8578f29a3c06cfcade21053ca0d329" target="_blank">@爱吃甜粽天仪喵</a></div>
- ：他们甚至听得懂 please close the light<br>顺带介绍一下坡式英语<br>我： Can you help me do this ?<br>坡人： Can<br>我：？？？</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/665324970/answer/2050255444644571075">能发一张你相册里自认为有趣的照片么?</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fdb0e2686dc00e6ef13068a09525b572" target="_blank">@江田岛耳科医生</a></div>
+ ：这是滕警官穿警服的样子</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-6b33f541cbb353eda52d2bc90f29a001_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<blockquote>这是滕警官脱下警服的样子</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-a66a4e0b774073104ff8cde35f43a344_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/662437470/answer/2074632721339623269"> 现在哪个行业还是蓝海？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/6dee68c513e907e780ab7687de0cba39" target="_blank">@筱鹤</a></div>
- ：这种东西还是快端下去罢(悲)</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-ecc037f17a251a4c70a858a31ef29681_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic2.zhimg.com/v2-29069095995abdd912d83b60b6d23737_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/84722cc68f0a3fc0c7d15d5f02dac500" target="_blank">@巧克梨</a></div>
+ ： 1 . 脚蹬轮椅<br>2 . 情趣寿衣<br>3 . 保健农药<br>4 . 高速酒吧<br>5 . 助眠咖啡<br>6 . 大米盖饭<br>7 . <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=286284979&amp;content_type=Article&amp;match_order=1&amp;q=%E4%BB%B0%E6%B3%B3%E9%B2%88%E9%B1%BC&amp;zhida_source=entity" target="_blank">仰泳鲈鱼</a><br>8 . 无籽花生<br>9 . 农田星巴克<br>10 . 工地健身房<br>11 . <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=286284979&amp;content_type=Article&amp;match_order=1&amp;q=%E7%BE%8E%E5%88%A9%E5%9D%9A%E7%AC%AC%E4%B8%80%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&amp;zhida_source=entity" target="_blank">美利坚第一人民医院</a><br>12 . 民办派出所<br>13 . 制热冰箱<br>14 . 自热冰棍<br>15 . 敞篷潜水艇<br>16 . 毛线丁字裤<br>17 . 老兵美甲<br>18 . 希望赌场<br>19 . 纯手动电锯<br>20 . 加绒加厚丁字裤</blockquote>
 <hr>
 <p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
 <div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://pica.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
@@ -457,8 +431,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793847</guid>
-                <pubDate>Mon, 09 Nov 2026 14:56:17 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793876</guid>
+                <pubDate>Tue, 10 Nov 2026 01:04:11 GMT</pubDate>
             </item>
             
     </channel>
