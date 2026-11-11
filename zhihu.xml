@@ -4,14 +4,93 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Tue, 10 Nov 2026 22:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 04:15:36 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>不锈钢明明叫「不锈」，为什么保温杯内壁用久了还是会长锈斑？</title>
-                <link>http://daily.zhihu.com/story/9793856</link>
-                <description>祥昊，看山看水看手机 查看知乎原文 不锈钢：出门在外身份都是自己给的， 自然界里除了金，铂等高电势位金属能真做到不锈， 大多数金属暴露在空气中都会快速氧化， 只是生成物比较致密，可以保护内部的我们通常叫氧化膜。 生成物疏松多孔保护不了基体的通常叫锈。 你看这就很双标。 而铁就比较尴尬，在高温下完全氧化产生的 Fe₃O₄是响当当的氧化膜，能有效保护内部。 而铁在自然环境下，特别是遇到水， 就会产生 …</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-80f9575b5c5eb071b5106ed9e7443a9b.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>鸡蛋煮熟后，蛋黄边缘为什么会出现灰绿色？</title>
+                <link>http://daily.zhihu.com/story/9793879</link>
+                <description>黄河边儿，勤学善思，理性科普，热爱生活，向阳而行。 查看知乎原文 这是个经典问题了，最早的研究可以追溯到 1920 年前的这篇文章《The Formation of Ferrous Sulphide in Eggs during Cooking》[1] 居然都 100 多年前了... 简单说，这个灰绿色东西，如下图，是来自蛋白的硫化氢与来自蛋黄的铁发生反应，最终生成的硫化亚铁 FeS。 除了颜色以…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c0f3fa261ffa6a2b52afabc617e3dcee.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title"></h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-0fd0250f9351a36609cf1c86eb757e4e_l.jpg?source=8673f162">
+<span class="author">黄河边儿，</span><span class="bio">勤学善思，理性科普，热爱生活，向阳而行。</span>
+<a href="https://www.zhihu.com/question/2080617033763504865/answer/2081427565563201076" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>这是个经典问题了，最早的研究可以追溯到 1920 年前的这篇文章《The Formation of Ferrous Sulphide in Eggs during Cooking》<sup>[1]</sup></p>
+<p>居然都 100 多年前了...</p>
+<p>简单说，这个灰绿色东西，如下图，<strong>是来自蛋白的硫化氢与来自蛋黄的铁发生反应，最终生成的硫化亚铁 FeS。</strong></p>
+<p>除了颜色以外，这个东西还有一个特点就是<strong>沉积在蛋黄表面</strong>，其他地方没有。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fd5973ffe7a7be29398a493f65ae829d_720w.jpg?source=8673f162" alt=""></figure>
+<p>展开说说。</p>
+<p>大家都知道，蛋白中含有大量蛋白质，当鸡蛋被持续加热以后，蛋白质就会发生变性，其中涉及的巯基和二硫键会发生一系列反应，并可以产生少量<strong>硫化氢 H₂S。</strong></p>
+<p>这也是为什么水煮蛋煮得特别老时，有时会闻到更明显的那种硫磺味。</p>
+<p>所以这个灰绿色硫化亚铁 FeS 产生的第一步就是：</p>
+<p><strong>蛋白受热 → 含硫蛋白结构改变 → 产生少量 H₂S。</strong></p>
+<p>光有 H₂S 还不够，蛋黄里还有铁，而且鸡蛋的铁主要就集中在蛋黄里。</p>
+<p>这些铁相当一部分与一种叫做 phosvitin（卵黄高磷蛋白）的蛋白结合。</p>
+<p>关于 phosvitin，有一个很有意思的特点：它含有大量磷酸化丝氨酸，因此带有非常强的负电荷，特别擅长结合金属离子，所以<strong>蛋黄中的绝大多数铁都与 phosvitin 有关。</strong></p>
+<p>所以，一个完整的鸡蛋其实形成了一个很有趣的空间分布：</p>
+<p><strong>外面的蛋白富含含硫蛋白，里面的蛋黄富含铁。</strong></p>
+<p>平时大家互不打扰。</p>
+<p>但是，一加热，蛋白受热产生 H₂S，并且要从<strong>蛋白这一侧扩散出来</strong>；而能够参与反应的铁，则来自<strong>蛋黄这一侧</strong>。</p>
+<p>那么它们相遇的地方就是<strong>蛋白—蛋黄的交界面。</strong></p>
+<p>在那里，来自蛋白的硫化氢与来自蛋黄的铁发生反应，最终生成难溶的<strong>硫化亚铁 FeS</strong>。因此这种物质首先沉积在蛋黄表面，而不是蛋黄中心。</p>
+<p>而且，鸡蛋煮得越久，这圈绿色会越明显。</p>
+<p>因为持续时间越长，蛋白中的含硫化合物越有机会发生反应，H₂S 的生成和迁移也就越充分。</p>
+<p>另外，还有一个知识点。</p>
+<p><strong>大家煮鸡蛋以后会马上过凉水，目的是好剥壳。</strong></p>
+<p><strong>但是，这其实还有另一个作用：阻止蛋黄继续变绿。</strong></p>
+<p>鸡蛋从沸水里捞出来以后，内部温度并不会立刻下降。鸡蛋本身还储存着相当多的热量，内部实际上仍然在继续加热。</p>
+<p>如果把鸡蛋放在桌上慢慢冷却，蛋白和蛋黄在几十摄氏度以上还会维持相当长时间，H₂S 的生成、扩散以及 FeS 的形成仍然可以继续。</p>
+<p>而立即用冷水或冰水降温，就会提前结束这种反应。</p>
+<p>下图是一个鸡蛋过冰水和不过冰水的对比，也说明了，马上过凉水可以阻止蛋黄继续变绿。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f143bdce6924d3f97e897ff6a48d7e4_720w.jpg?source=8673f162" alt=""><figcaption>鸡蛋过冰水和不过冰水的对比</figcaption></figure>
+<p>还有一个知识点，<strong>鸡蛋放得越久，在同样加热条件下，越容易变绿。</strong></p>
+<p>之所以如此，是因为鸡蛋储存过程中，二氧化碳会逐渐从蛋壳微孔逸出，因此鸡蛋内部的 pH 会发生变化，尤其蛋白会逐渐变得更加碱性。而<strong>偏碱性的环境会促进加热过程中硫化氢的产生</strong>。</p>
+<p>这也是做过实验的<sup>[2]</sup>。实验过程是：把鸡蛋在 2 ℃ 下放置 1、7、14、21 天以后，再煮熟，蛋黄表面变色总体随储存时间增强；同时，研究人员还观察到蛋黄 pH 从刚产出的约 6.0 上升到储存三周后的约 6.9。</p>
+<p>最后，这种灰绿色的物质属于硫和铁之间的正常化学反应，<strong>可以吃，没有安全问题</strong>，也不代表鸡蛋变质。</p>
+<p>好了，写到这里。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2080617033763504865">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793879</guid>
+                <pubDate>Wed, 11 Nov 2026 04:15:33 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>钻石明明很硬，为什么受到撞击仍容易碎裂？</title>
+                <link>http://daily.zhihu.com/story/9793886</link>
+                <description>祥昊，看山看水看手机 查看知乎原文 嘿，少年郎， 你可知钢丝球的花语是什么来着？ 没错， 看一个材料你不能肤浅的只看硬度， 别的参数也极为重要。 我们来简单认识下材料常见的几个力学参数。 首先是硬度（Hardness）， 代表的是抗刮擦刻划能力。 简单理解就是二者摩擦硬者胜， 举个例子， 普通低碳钢（铁）的摩氏硬度比玻璃低， 所以虽然你用铁锤可以轻松砸碎玻璃， 但很难划出印子。 而翡翠的硬度在 6…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-df98ec42f076eb831dba4c5f7961735f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -33,109 +112,164 @@
 <div class="meta">
 <img class="avatar" src="https://pic1.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
 <span class="author">祥昊，</span><span class="bio">看山看水看手机</span>
-<a href="https://www.zhihu.com/question/2084246592417165578/answer/2085420503335022741" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/2091047513247703463/answer/2091637536049444439" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>不锈钢：出门在外身份都是自己给的，</p>
-<p>自然界里除了金，铂等高电势位金属能真做到不锈，</p>
-<p>大多数金属暴露在空气中都会快速氧化，</p>
-<p>只是生成物比较致密，可以保护内部的我们通常叫氧化膜。</p>
-<p>生成物疏松多孔保护不了基体的通常叫锈。</p>
-<p>你看这就很双标。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-25e646d84e3225b0b7057de9ba28b012_720w.jpg?source=8673f162" alt=""></figure>
-<p>而铁就比较尴尬，在高温下完全氧化产生的 Fe₃O₄是响当当的氧化膜，能有效保护内部。</p>
-<p>而铁在自然环境下，特别是遇到水，</p>
-<p>就会产生 Fe₃O₄，α-Fe₂O₃（赤铁矿），γ-Fe₂O₃（磁赤铁矿），α-FeOOH（针铁矿），γ-FeOOH（纤铁矿）等一大堆不同相态的氧化物，这些氧化物往往呈梯度渐变同时存在。</p>
-<p>由于这些氧化物晶格，体积膨胀，应力等性质完全不一样，</p>
-<p><strong>强行凑在一起融合必然会互相拆台。</strong></p>
-<p>你可能对这个没啥概念，我们换个金属，锡。</p>
-<p>锡在低温环境下会由β态朝着更稳定的α态转变，</p>
-<p>由于这两种相态的晶格完全不同，α态体积更大且更脆，</p>
-<p>巨大的内应力会直接导致整块金属会像瘟疫一样蔓延膨胀化作粉末，</p>
-<p>被称为锡疫。<sup>[1]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-44598513b186f78f846d4d848a859c92_720w.gif?source=8673f162" alt=""><figcaption>锡疫现象</figcaption></figure>
-<p>这仅仅是两种相态干架的威力，而铁的氧化物更是有很多种。</p>
-<p>所以我们会注意到，铁锈往往疏松多孔，呈层状分布。</p>
-<p>正常来说，</p>
-<p>铁在干燥环境下的氧化反应比较缓慢且稳定，可以用很长时间。</p>
-<p>但在潮湿的环境下，</p>
-<p>内部的铁会先在表面形成微小的原电池。</p>
-<p>然后再变成离子溶解进表面的水膜，</p>
-<p>最后析出沉淀，变成水合氧化铁（FeOOH）</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6b6620939742eb142e22f81a4aa026cb_720w.jpg?source=8673f162" alt=""></figure>
-<p>而铁锈疏松多孔的结构又会给水提供庇护所，</p>
-<p>使其不容易变干，帮助更多铁离子逃窜。</p>
-<p>最后的结果就是铁一旦碰到潮湿的环境，</p>
-<p>就会一层一层又一层，快速生成一大堆铁锈。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-646cd9b044bc1f31bc71585a34eb30c0_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>所以铁防锈无非几个套路：</strong></p>
-<p>1，外皮隔绝，防止铁碰到水。</p>
-<p>2，阳极挡灾，用更低电位的金属代替铁生锈。</p>
-<p>3，合金改命，分子级改变性质。</p>
-<p>4，走为上计，换个不长锈的环境。</p>
-<p><strong>这几个套路经常被联合使用，</strong></p>
-<p>比如热镀锌，高温环境下把钢浸入锌水，会自然产生多层复合镀层。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e7c64439aea521bed5bbf2cef5281810_720w.jpg?source=8673f162" alt=""></figure>
-<p>锌比铁更活波，可以优先代替铁被腐蚀，能抗锈。</p>
-<p>而表面生成的致密锌层能有效隔绝环境，也能抗锈。</p>
-<p>这就使得镀锌角钢即使表层破裂，也往往有不错的耐候性。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3be55ee257a623eaf47317e4cbba7ede_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>而不锈钢修行的则是合金改命，</strong></p>
-<p>铬能形成致密的氧化膜，且比铁更活泼，</p>
-<p>接触空气后会优先形成致密的 Cr₂O₃氧化膜保护内部，</p>
-<p>但一旦铬被消耗过大，里面的铁也会被拽出来当填线宝宝，就会产生锈点。</p>
-<p>而 Cr₂O₃也是铬脆皮宝宝，非常害怕酸和氯离子侵蚀。</p>
-<p>特别是氯离子，由于个头太小，</p>
-<p>可以轻松钻进钝化膜里产生点蚀痕迹。</p>
-<p>所以在海边的不锈钢栏杆还有不锈钢锅之类的，还是容易出现斑斑锈迹。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b287e1b96fa64019d96cde4a0ccb1b57_720w.jpg?source=8673f162" alt=""></figure>
-<p>那咋整呢？</p>
-<p>第一种方式就是做表面处理，</p>
-<p>通过酸洗钝化，抛光，电镀等工艺强化局部抗腐蚀性。<sup>[2]</sup></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6205c55ab7026ac6a07073e6c276b6d2_720w.jpg?source=8673f162" alt=""></figure>
-<p>第二种就是修改配方，增加不锈钢的点蚀电位，</p>
-<p>比如在不锈钢里再加入钼（Mo）来抗氯，使其更难启动局部阳极腐蚀坑。<sup>[3]</sup></p>
-<p>即使如此，</p>
-<p>也无法做到 100%防锈。</p>
-<p>所以，不锈钢只是个诨号，</p>
-<p>真指望它一点不锈，请认准纯金制造。</p>
+<p>嘿，少年郎，</p>
+<p>你可知钢丝球的花语是什么来着？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-65192eed75407a7714cddd81600f3a43_720w.jpg?source=8673f162" alt=""></figure>
+<p>没错，</p>
+<p>看一个材料你不能肤浅的只看硬度，</p>
+<p>别的参数也极为重要。</p>
+<p>我们来简单认识下材料常见的几个力学参数。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ec53551256f2230fc89a771e1eaa13b_720w.jpg?source=8673f162" alt=""></figure>
+<p>首先是硬度（Hardness），</p>
+<p>代表的是抗刮擦刻划能力。</p>
+<p>简单理解就是二者摩擦硬者胜，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-46377ada835c8fba2b9e414a37893af9_720w.jpg?source=8673f162" alt=""></figure>
+<p>举个例子，</p>
+<p>普通低碳钢（铁）的摩氏硬度比玻璃低，</p>
+<p>所以虽然你用铁锤可以轻松砸碎玻璃，</p>
+<p>但很难划出印子。</p>
+<p>而翡翠的硬度在 6.5-7，比玻璃硬，则可以轻松留痕。</p>
+<p>所以如果你给爱车整一层玻璃外壳，</p>
+<p>就可以有效避免熊孩子划车这种糟心事。</p>
 <hr>
-<p>当然，锈也不是完全没用，</p>
-<p>如果适当的改变下比例，通过特殊方法让锈变的致命，还是非常能抗的。</p>
-<p>典型的就是耐候钢，</p>
-<p>这类钢材是利用合金改变了其锈层的成分和结构，</p>
-<p>使其表面形成紧密堆积的α-FeOOH 保护层，以阻止其继续向内腐蚀。<sup>[4]</sup></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3e27b094f49cfcc0cf2bc762e1232fa9_720w.jpg?source=8673f162" alt=""><figcaption>普通钢和耐候钢的锈层区别。</figcaption></figure>
-<p>在制造完成后，</p>
-<p>非但不用额外涂层，甚至部分工程前期还需要工人定期喷水做干湿循环，</p>
-<p>以加快产生稳定锈层的进度。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ac7480886fa9c01f8530723c3249dd0_720w.jpg?source=8673f162" alt=""><figcaption>藏木大桥免涂装耐候钢周期喷水锈层稳定化处理。（来源：桥梁杂志）</figcaption></figure>
-<p>只是成品模样嘛，</p>
-<p>总有种倒闭好几年的废土风。</p>
-<p>耳边不由响起野性的呼唤：</p>
-<blockquote>浙江温州，浙江温州，江南皮革厂倒闭了！<br>老板黄鹤吃喝嫖赌，欠下了 3.5 个亿，带着他的小姨子跑了!!!</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-e5f4c81672e3c3d1d2cd468767a2b0d4_720w.jpg?source=8673f162" alt=""></figure>
+<p>不过嘛，大家都知道，这事不现实，</p>
+<p>因为玻璃太脆了。</p>
+<p><strong>这个脆，就是韧性的体现。</strong></p>
+<p>韧性更像一个概念，没有单一参数量化，</p>
+<p>我们用锤子砸易拉罐会先变形，然后才会断开。</p>
+<p>像金属这样断裂前先变形的就是塑性材料，</p>
+<p>拉断为止能永久伸出多长的比例就是延伸率。</p>
+<p>主要反映的是延性。</p>
+<p><em>甭看了，金刚石几乎没有，这个参数用不着。</em></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c30aa32ebf5f2fc1bb7817e280a1df34_720w.jpg?source=8673f162" alt=""><figcaption>应力 - 应变曲线 D 的横坐标就是延伸率</figcaption></figure>
+<p>而用锤子砸玻璃则会直接碎成一地，</p>
+<p>这种破坏前几乎没塑性变形的，我们就称它为脆性材料。</p>
+<hr>
+<p>之所以有这个区别，</p>
+<p>主要原因在于分子之间链接的键不同。</p>
+<p>金属靠金属键连接，</p>
+<p>没有固定的方向和饱和性，</p>
+<p>允许晶体之间位错滑移或者孪生，产生塑性变形。</p>
+<p>你可以理解成金属原子靠类似磁吸的方式连接在一起，</p>
+<p>可以通过形变来吸收冲击。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0e306081aeb5324375984f9139c18fa0_720w.jpg?source=8673f162" alt=""></figure>
+<p>而玻璃，钻石等材料是共价键连接，</p>
+<p>有方向性和饱和性，</p>
+<p>你可以简单理解成乐高积木，</p>
+<p>只能按固定的插槽插接。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ed2bb019af5afa9f83b3578aa6fa8b8_720w.jpg?source=8673f162" alt=""></figure>
+<p>所以这类物质如果形成的晶体，往往有标准形态。</p>
+<p>比如雪花是由水分子按氢键方向组成六方晶系，</p>
+<p>最终出来的必然是六边形打底，造不出八边的雪。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-62f2a2527ca4b9cb02e5ed6dfb3339ef_720w.jpg?source=8673f162" alt=""><figcaption>水分子组建成雪花</figcaption></figure>
+<p>而像塑料这种高分子材料，</p>
+<p>由于其分子量巨大，就像一根根绳索互相缠绕，</p>
+<p>拥有更大滑移舒展的潜力，可以通过链段舒展卸力，韧性也就更大。</p>
+<p>我们也可以通过交联来限制分子链运动，增加强度，</p>
+<p>相对的韧性就会降低。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a34b1fbf94a029d5a531e002950d00ab_720w.jpg?source=8673f162" alt=""></figure>
+<p>当然，影响韧性的因素还有很多，</p>
+<p>比如宝石虽然在工程力学上是脆性材料，</p>
+<p>但软玉在宝石韧性里属于极韧，</p>
+<p>经得起精雕细琢。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-cbe54ac9daf4d8a7129e59f025d68922_720w.jpg?source=8673f162" alt=""></figure>
+<p>金刚石评级是脆，摔狠了都可能裂。</p>
+<p>只能进行切割（主要也雕不动。）</p>
+<p>而相同材质的黑金刚石，韧性评级却是极韧。</p>
+<p>之所以出现这个情况，</p>
+<p>原因就在于钻石是单晶体，</p>
+<p>一旦产生裂纹，应力就会顺着解理面一路撕开，</p>
+<p>就像你指甲旁的毛刺，一撕一片疼的嗷嗷叫。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-6bbfd3adce43ff6e9e4740a026c39f94_720w.jpg?source=8673f162" alt=""><figcaption>你看这个就出裂纹了</figcaption></figure>
+<p>而翡翠和黑金刚是是多晶集合体，</p>
+<p>由无数不同形态的小晶体交错咬合，组成交织结构。</p>
+<p>如果产生裂纹，无法快速从头裂到尾，</p>
+<p>韧性也就上去了。</p>
+<p>到这，恭喜你，</p>
+<p><strong>发现了韧性的一个重要参数，断裂韧性（KIC）。</strong></p>
+<p><strong>就是材料阻止裂纹扩展的能力。</strong></p>
+<p>举例来说，</p>
+<p>铁锤的断裂韧性约 50+，而钻石的只有 3.4，</p>
+<p>这意味着铁锤和钻石互砸，</p>
+<p>虽然钻石硬度更高，可以轻松给铁锤干出凹槽，</p>
+<p>但一旦破防产生裂纹，先碎的必然是我的玻璃心，</p>
+<p>毕竟钻石挺贵的，碎了心疼啊。</p>
+<hr>
+<p><strong>而多大劲能产生第一条裂纹，</strong>就得看强度。</p>
+<p>强度也是个大概念，有一大堆参数，</p>
+<p>和钻石有关的主要是抗压强度，抗拉强度等。</p>
+<p><strong>不过在现实世界这几个参数总感觉有点见不得人的 PY 交易。</strong></p>
+<p>举例来说。</p>
+<p>单晶钻石的抗压强度是天花板级别，大概在 9GPa</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9148c636c7e76b703d07d995acfdd3dc_720w.jpg?source=8673f162" alt=""></figure>
+<p>如果是来自四面八方的静水压力，</p>
+<p>极度抗压。</p>
+<p>但现实是丢液压机上没几下就不大行了。</p>
+<p>白瞎了这离谱的数值。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4fd555084521155b238b8499329a16ad_720w.gif?source=8673f162" alt=""></figure>
+<p>原因就在于材料被拉伸时会变细，</p>
+<p>被压缩时会变胖，</p>
+<p>这就是泊松效应，对应的参数是泊松比。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a37a3721ffb9bb6c04c9cccaeb8aae5e_720w.jpg?source=8673f162" alt=""></figure>
+<p>由于现实里侧向膨胀可能会受到约束或变形不均，</p>
+<p>就是不能完全涨开，</p>
+<p>这样内部就会产生侧向拉应力，</p>
+<p>这股拉应力就需要抗拉强度来抗。</p>
+<p>我们看液压机压东西，很多样件会先从侧边垂直裂开。</p>
+<p>一般就是这股拉应力在作妖。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d3bff7a378214ce03eaaaa38848a54a_720w.gif?source=8673f162" alt=""><figcaption>液压机也一样。</figcaption></figure>
+<p>由于钻石的抗拉强度比较拉跨，</p>
+<p>只有 1050-3000MPa，远低于抗压强度。</p>
+<p>当拉应力过高的时候，</p>
+<p>很容易就出现抗压正欲死战，抗拉何故先降的乌龙。</p>
+<p>而对于钻石这种脆性材料来说，</p>
+<p>产生裂纹就很容易一破到底，彻底崩碎。</p>
+<hr>
+<p>除此之外，</p>
+<p><strong>单晶钻石还有一个非常致命的罩门——解理面。</strong></p>
+<p><strong>啥叫解理面呢？</strong></p>
+<p>简单说就是晶体原子会按一定顺序排列堆放，组成晶格。</p>
+<p>某些特定的晶面的结合力会特别弱，就有点像木头上的木纹，</p>
+<p>如果顺着木纹劈就更容易劈开。这个天生的弱点就是解理面。</p>
+<p>比如云母属于极完全解理，可以轻松剥成一片一片，</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-fe1a4d22c10f1d6c24a2e1d70df39490_720w.jpg?source=8673f162" alt=""><figcaption>云母片</figcaption></figure>
+<p>金刚石沿{111}解理，</p>
+<p>食盐沿{100}解理等。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7163167113a82bf98bfc132e0d741c37_720w.jpg?source=8673f162" alt=""><figcaption>金刚石解理面</figcaption></figure>
+<p>所以如果裂纹刚好顺着解理面产生，金刚石也会很容易被劈开。</p>
+<p>这就是为啥钻石明明三维巨高，</p>
+<p>却可能被锤子砸碎的原因之一。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a138ee4af5fae426b00526871d7f4849_720w.gif?source=8673f162" alt=""></figure>
+<p>除此之外，</p>
+<p>常用的力学参数还有：</p>
+<p>弹性模量、剪切模量、体积模量、屈服强度、抗剪强度、断裂韧性、冲击韧性、疲劳强度、延伸率、断面收缩率、蠕变极限.....</p>
+<p>到这，真心奉劝大家，</p>
+<p>快跑！！！！！！</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9995db7209d562d066b48b25be9adf05_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2084246592417165578">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2091047513247703463">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793856</guid>
-                <pubDate>Tue, 10 Nov 2026 22:44:19 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793886</guid>
+                <pubDate>Wed, 11 Nov 2026 04:15:34 GMT</pubDate>
             </item>
             
             <item>
-                <title>AB型爸和A型妈生出O型娃，因爸爸是罕见CisAB血型，如何通俗解释？CisAB血型有哪些特殊之处？</title>
-                <link>http://daily.zhihu.com/story/9793865</link>
-                <description>极萨学院冷哲，有时治愈，常常帮助，总是安慰 查看知乎原文 其实这个新闻里的事情，可以翻译成一道高中生物题： AB 型和 A 型，或者 AB 型和 B 型的父母，生出来的娃，血型可能是？（多选） A. A 型 B. B 型 C. AB 型 D. O 型 如果这是一道高中生物题，那么正确答案应该是ABC。 但如果这是一道真实世界里的题目，那么答案就有可能是ABCD。 ？你是不是做出了困惑的表情？ 是的…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-0c27963f04482f2c99599d3c0bf351e1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>为什么鱼龙已经进化出完美的流水线身体，还会被身体像蛇的沧龙所取代?</title>
+                <link>http://daily.zhihu.com/story/9793891</link>
+                <description>阿尔萨斯肉丸，⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ 精神蜥形纲 查看知乎原文 所谓“鱼龙是被新崛起的沧龙取代最终才灭绝的”说法本身就是个伪命题。从地质年代来看就会发现最后的鱼龙种群与最早的沧龙类之间还未发生正面交锋就失之交臂了，毕竟整个鱼龙目在白垩纪的森诺曼 - 土伦阶灭绝事件之后就彻底销声匿迹。而作为中生代海爬最后一抹余晖的沧龙，则是和非鸟恐龙、翼龙、蛇颈龙类等其他物种一道在白垩纪 - 古近纪灭绝(K…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-f467e66152582a529093e36a2bacb725.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -155,212 +289,204 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-0f2c00819eeb392c7f1514399a9d7ac4_l.jpg?source=8673f162">
-<span class="author">极萨学院冷哲，</span><span class="bio">有时治愈，常常帮助，总是安慰</span>
-<a href="https://www.zhihu.com/question/2095093001831674398/answer/2095131562039842083" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-e9a4bb9328c56e5744e68310c8e6084b_l.jpg?source=8673f162">
+<span class="author">阿尔萨斯肉丸，</span><span class="bio">⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄  精神蜥形纲</span>
+<a href="https://www.zhihu.com/question/358110700/answer/2082542614801396285" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>其实这个新闻里的事情，可以翻译成一道高中生物题：</p>
-<p><strong>AB 型和 A 型，或者 AB 型和 B 型的父母，生出来的娃，血型可能是？（多选）</strong></p>
-<p>A. A 型</p>
-<p>B. B 型</p>
-<p>C. AB 型</p>
-<p>D. O 型</p>
-<p>如果这是一道高中生物题，那么正确答案应该是<strong>ABC</strong>。</p>
-<p>但如果这是一道真实世界里的题目，那么答案就有可能是<strong>ABCD</strong>。</p>
-<p>？你是不是做出了困惑的表情？</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-416efdc127fd3e28ad936976d2626e24_720w.jpg?source=8673f162" alt=""></figure>
-<p>是的，其实从严格意义上来说，我们初中和高中学的物理、化学、生物课本里的很多知识，都是在特定条件下建立起来的简化模型。</p>
-<p>这是为了让大家更容易理解基本规律，我们往往会先忽略那些少见的、复杂的情况。</p>
-<p>但真实世界不会按照高考大纲运行，真实世界复杂的多……</p>
-<p>就比如这个新闻里报道的，深圳就有一位爸爸，他自己是 AB 型血，妻子是 A 型血，结果女儿检查出来居然是 O 型血。</p>
-<p>按照我们熟悉的 ABO 血型遗传规律，这显然说不通。</p>
-<p>按照电视剧里的情节，接下来就是家庭伦理大战，或者是医院抱错孩子，测错血型等等的内容，估计能出个 20 集，就算走近科学都得整个上下两集。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-01e700d5f8bfb55e472f0e12d61a329a_720w.jpg?source=8673f162" alt=""><figcaption>侯桂芬啊，你是个狠人啊。</figcaption></figure>
-<p>但现实不是电视剧也不是电影嘛，这东西是有科学解释的。</p>
-<p>比如新闻里的这个爸爸，在进一步检查后，医生发现，这位爸爸携带了一种非常少见的 ABO 基因变异，叫作<strong>cis-AB（顺式 AB）</strong>。</p>
-<p>也正是这个特殊的基因版本，让原本在高中生物题里不可能出现的 O 型孩子的答案，成为了现实。</p>
-<p>要理解这是怎么回事，我们还得先回忆一下高中生物里学过的 ABO 血型遗传规律。</p>
-<p>决定 ABO 血型的基因位于我们的 9 号染色体上。正常情况下，每个人都有两份 ABO 基因，分别来自父亲和母亲。</p>
-<p>在高中生物中，我们通常把这个基因分成 A、B、O 三个版本。其中 A 和 B 对 O 都是显性的，而 A 和 B 之间是共显性关系。因此，A 型血的人，基因组合可能是 AA，也可能是 AO；B 型血可能是 BB 或者 BO；O 型血则是 OO，而 AB 型血就是 AB。</p>
-<p>生孩子的时候，父母会分别把自己两个基因版本中的一个传给孩子。</p>
-<p>所以，普通 AB 型血的人，能够传给孩子的只有 A 或者 B，而不可能是 O。即便另一位家长携带 O 基因，孩子最多也只能得到 AO 或者 BO 这样的组合，不可能得到 OO。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d700e3ce0edd4574d7e31a342f412182_720w.jpg?source=8673f162" alt=""><figcaption>高中生物的生孩子血型版本</figcaption></figure>
-<p>这就是为什么按照高中生物的遗传模型，AB 型血的人不可能生出 O 型血的孩子。[1]</p>
-<p>但这里有一个问题。</p>
-<p><strong>我们通常所说的 A 型、B 型、AB 型和 O 型，其实描述的是红细胞表面的抗原，而不是直接告诉我们这个人携带了哪些基因版本。</strong></p>
-<p>所谓 A 型血，就是红细胞表面有 A 抗原；B 型血有 B 抗原；AB 型血两种抗原都有，而 O 型血则没有这两种抗原。</p>
-<p>这些抗原并不是凭空出现的，它们实际上是红细胞表面糖链经过特定加工形成的结构。</p>
-<p>负责加工的，是 ABO 基因编码的一种酶，叫作糖基转移酶。</p>
-<p>我们可以把它理解成给红细胞表面的糖链进行最后一道加工的师傅。A 版本的基因，可以生产出负责制造 A 抗原的酶；B 版本则生产出负责制造 B 抗原的酶。</p>
-<p>普通 AB 型血的人，恰好同时拥有这两种版本，所以可以制造出两种不同的抗原。而常见的 O 版本由于基因发生了变化，无法生产出具有相应加工能力的酶，因此 OO 组合的人，红细胞表面就不会出现 A、B 抗原。[1]</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ae33c1992a51b07eaf97c837d6613a38_720w.jpg?source=8673f162" alt=""></figure>
-<p>那么，有没有可能只用一个基因版本，就同时制造出 A 和 B 两种抗原呢？</p>
-<p>还真有。</p>
-<p>这就是我们前面提到的<strong>cis-AB</strong>。</p>
-<p>早在 1993 年，科学家就已经通过基因测序研究了这种特殊的血型。他们发现，某些 cis-AB 基因版本与普通 A 型基因非常相似，只是部分 DNA 序列发生了改变，导致相应的酶发生变化。[2]</p>
-<p>这种变化产生了一个很有意思的结果：原本主要负责制造 A 抗原的酶，现在竟然也具备了制造 B 抗原的能力。</p>
-<p>也就是说，<strong>一个 cis-AB 基因版本，就可以同时提供制造 A、B 两种抗原的能力。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-92d0dfe01a96efaafed5f48411cf8748_720w.jpg?source=8673f162" alt=""></figure>
-<p>不过，这种酶的工作能力与普通 A、B 型酶并不完全相同。2005 年发表在《Vox Sanguinis》上的一项研究就发现，研究对象携带的 cis-AB 酶虽然能够同时催化两种反应，但两方面的活性都明显低于正常对照，尤其是 B 抗原的表达往往比较弱。[3]</p>
-<p>所以，有些 cis-AB 携带者虽然表现出 AB 型的特征，但他们与普通 AB 型血的人，在基因组成和抗原表达上其实存在差异。</p>
-<p>现在，问题就变得简单了。</p>
-<p>我们通常认为，AB 型血的人一定携带一个 A 基因和一个 B 基因。</p>
-<p>但实际上，一个人的两份 ABO 基因，完全可以是<strong>cis-AB 和 O</strong>。</p>
-<p>由于 cis-AB 一个版本就能够制造出两种抗原，所以即便另一份是 O，这个人仍然可以表现为 AB 型血。</p>
-<p>而在生育过程中，这个人能够传给孩子的基因版本，就不再是 A 或者 B，而是 cis-AB 或者 O。</p>
-<p>这样一来，新闻里那个看起来不可能的结果，也就有了解释。</p>
-<p>假设这位爸爸的基因组合是 cis-AB/O，而妈妈虽然表现为 A 型血，但实际携带的基因是 AO。</p>
-<p>那么，爸爸有一半的概率把 O 传给孩子，妈妈同样有一半的概率把 O 传给孩子。</p>
-<p>如果孩子恰好从爸爸和妈妈那里各得到一个 O，那么孩子的基因组合就是 OO，自然也就表现为 O 型血。</p>
-<p>按照这个明确的基因组合，每次生育出现 OO 型孩子的理论概率就是：</p>
-<p><strong>1/2 × 1/2 = 1/4，也就是 25%。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-984e95b84ebf2c3683e48c475a05d066_720w.jpg?source=8673f162" alt=""></figure>
-<p>同样的道理，如果另一位家长是 BO 组合的 B 型血，也完全可能生出 O 型血的孩子。甚至当另一位家长本身就是 OO 组合的 O 型血时，cis-AB/O 与 OO 的组合，也有一半的概率生出 O 型血的孩子。</p>
-<p>所以你看，这件事其实并没有推翻孟德尔遗传定律。</p>
-<p>父母仍然各自把一份基因传递给孩子，基因分离和组合的规律也没有发生变化。</p>
-<p><strong>真正发生变化的，是我们对 ABO 基因版本的认识。</strong></p>
-<p>高中生物为了便于教学，只讨论了最常见的 A、B、O 三种版本。但真实的人类群体中，ABO 基因存在许多不同的变异，cis-AB 就是其中比较特殊的一类。</p>
-<p>而且，这种情况也再次说明，血型和基因型并不是完全相同的概念。我们从血型检测中看到的，是基因最终产生的表现，而不同的基因组合，有时候也可能产生相似的表现。</p>
-<p>当然，cis-AB 非常罕见，绝大多数人的 ABO 血型仍然符合高中课本里的常见遗传模型。我们也不能因为存在这样的特殊情况，就认为所有看起来不符合遗传规律的血型组合，都可以用 cis-AB 解释。</p>
-<p>如果真的遇到一家人血型对不上的情况，首先应该通过规范的血型检测排除检测误差，必要时再进行更深入的血型鉴定和基因检测。</p>
-<p>至于亲子关系，那就更不能仅凭几个人的 ABO 血型来判断了。真有需要，还是应该进行正规的 DNA 亲子鉴定。</p>
-<p>高中生物中的很多规律并没有错，只是在教学过程中，为了突出最重要的规律，我们不得不省略一些复杂的细节。</p>
-<p>随着学习的深入，我们会发现，许多原本以为非黑即白的问题，背后其实还藏着大量有趣的生物学机制。</p>
-<p>而这些看起来不符合课本规律的特殊案例，恰恰也是科学研究非常有意思的地方。</p>
-<p>毕竟，真实世界的生物学，从来都不是只有 ABCD 这几个选项。</p>
+<p><strong>所谓“鱼龙是被新崛起的沧龙取代最终才灭绝的”说法本身就是个伪命题。</strong><strong>从地质年代来看就会发现最后的鱼龙种群与最早的沧龙类之间还未发生正面交锋就失之交臂了，毕竟整个鱼龙目在白垩纪的森诺曼 - 土伦阶灭绝事件之后就彻底销声匿迹。</strong><strong>而作为中生代海爬最后一抹余晖的沧龙，则是和非鸟恐龙、翼龙、蛇颈龙类等其他物种一道在白垩纪 - 古近纪灭绝(K-Pg)事件中灰飞烟灭。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-23b33123962012e1729a34a526925d7d_720w.jpg?source=8673f162" alt=""><figcaption>崖蜥和浮龙各自代表了整个沧龙超科在演化位置上的不同阶段，从看上去和蜥蜴没啥区别的半水生崖蜥到外观高度趋同早期鱼龙类的浮龙，沧龙家族从蜥到鱼的演化历程几乎与鱼龙如出一辙。图：X</figcaption></figure>
+<p><strong>尽管鱼龙类和沧龙类在演化关系上并没有任何亲缘联系，但它们所占据的生态位以及在外型上的趋同性都成为了研究不同物种之间发生平行演化案例的经典研究案例。</strong></p>
+<p><strong>沧龙的异军突起其实和三叠纪末期恐龙总目的全面崛起有着异曲同工之处，两个物种都是在一场扫除了竞争对手而留下空缺生态位的灭绝事件中因祸得福，最终趁势崛起成为优势类群。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c35c189c919e99d8b4c3e4df026d4a9_720w.jpg?source=8673f162" alt=""><figcaption>侏罗纪时期相当繁盛的鱼龙类和昙花一现的海鳄类都是当时海洋中的主流捕食者，它们各自占据着不同的海洋生态位。图：Reddit</figcaption></figure>
+<p>所以说，纵观很多物种的演化历程就会发现这其中相当多的不确定偶然因素才是关键，它们的崛起并不一定总是“先进”取代了“落后”这么单一、简单的叙事模式，很大程度上其实都是因为生态位的真空给那些曾经处在边缘位置的物种有了“翻盘”的机会。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-1394f5902b234068bb29597aecb72720_720w.jpg?source=8673f162" alt=""><figcaption>鱼龙目的成员在体型上存在非常明显的分化，在食性上也各自有着不同的偏好但从化石证据来看，很多鱼龙的食谱中头足类占据了相当大的比例。图：DA</figcaption></figure>
+<p><strong>沧龙也并非如很多人以为的那样是导致鱼龙衰败的“掘墓人”，它只是那次灭绝事件中恰好抓住真空期逆袭成功的幸运儿罢了，即便没有沧龙出现也会有另一个边缘物种填补“上位”。</strong></p>
+<p><strong>不过有一点可以肯定的是：假如没有那场来自天外的飞来横祸打断了沧龙正处在上升期的演化进程，它们最终蜕变为鳞龙版的“鱼龙 2.0”也是板上钉钉的结果。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3bd1a17403ff8beb8ef1d4e0cb438041_720w.jpg?source=8673f162" alt=""><figcaption>一只鱼龙母亲正带着自己刚出生不久的幼崽上浮到海面换气，不远处一头蛇颈龙也正在换气。图：DA</figcaption></figure>
+<p><strong>当我们回溯鱼龙这个堪称中生代最为传奇的海爬明星绵延亿万年的演化史，就会感叹即便是如此成功具备完美流体力学的物种最终也无可奈何走向了沉寂。</strong></p>
+<p><strong>而戏剧性的是，接过它们衣钵的沧龙居然也在非常短的时间尺度内再次复刻了鱼龙曾经走过的演化道路，一步步的实现了从“蜥”到“鱼”的蜕变，只不过生不逢时的沧龙没能像前辈鱼龙和后辈鲸类那样完全实现“鱼形化”就黯然退场。</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-35f5373daa46b66d463dcaa50ee2b58c_720w.jpg?source=8673f162" alt=""><figcaption>晨曦的朝阳下，一头板踝龙跃出水面呼吸着新鲜空气。它们是北美西部内陆海道最常见的沧龙类，这一幕仿佛预示着沧龙作为中生代海爬的末代绝响。图：Julio Lacerda</figcaption></figure>
+<p><strong>这也从侧面说明鱼龙这套“鱼形化”演化模板是成功且具备普适性的，除了沧龙外新生代的海洋哺乳动物——鲸类也走上了几乎与之相同的演化路线，可以说除了一些剑走偏锋的类群，“鱼形化”是绝大多是海生羊膜类的演化终极形态。</strong></p>
+<p><strong>物种从来不会主动的去选择自己演化的方向，它们只不过是在面临相同的自然选择压力下各自发生了殊途同归的被动适应性演化。</strong></p>
+<p><strong>只要一个衍征能够应对相同的环境选择压力确保种群能够一代代繁衍下去，那么这个性状就会在不同时空、不同地区和不同类群的物种身上反复出现。</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-7c7108eecd89d6f01fbfe414b1bdb844_720w.jpg?source=8673f162" alt=""><figcaption>生活在晚始新世时期的龙王鲸由于骨骼和外型高度类似沧龙曾一度被误认为是某种灭绝的海生爬行类，作为海洋哺乳类的它们也和沧龙一样经历了“面条型”身材→鱼型身材的过渡演变历程。图：见水印</figcaption></figure>
 <hr>
-<p><strong>参考文献</strong></p>
-<p>[1] Yamamoto F, Clausen H, White T, et al. Molecular genetic basis of the histo-blood group ABO system. <em>Nature</em>. 1990;345:229–233.</p>
-<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1038/345229a0" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1038/345229a</span><span class="invisible">0</span><span class="ellipsis"></span></a></p>
-<p>[2] Yamamoto F, McNeill PD, Kominato Y, et al. Molecular genetic analysis of the ABO blood group system: 2. cis-AB alleles. <em>Vox Sanguinis</em>. 1993;64(2):120–123.</p>
-<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1111/j.1423-0410.1993.tb02529.x" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1111/j.1423-</span><span class="invisible">0410.1993.tb02529.x</span><span class="ellipsis"></span></a></p>
-<p>[3] Yazer MH, Zheng RB, Seto NOL, et al. Kinetic studies on Korean serum cis-AB enzymes reveal diminished A and B transferase activities. <em>Vox Sanguinis</em>. 2005;89(3):161–167.</p>
-<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//doi.org/10.1111/j.1423-0410.2005.00688.x" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">doi.org/10.1111/j.1423-</span><span class="invisible">0410.2005.00688.x</span><span class="ellipsis"></span></a></p>
+<p>无论是从物种灭绝的种类和数量还是对整个生态系统所造成的影响来看，森土灭绝事件显然都无法与更早之前发生的三叠纪晚期大灭绝和后面的白垩纪末期大灭绝事件相提并论。</p>
+<p>但这次规模有限的灭绝事件仍然对当时的陆地和海洋物种的生态位格局起到了一定的“洗牌”作用，只是由于它波及的种群范围没有那么广泛所以受到的关注度也没有那么大。</p>
+<p>以森土事件为分界点，自此之后的白垩纪陆生和海生脊椎动物的种群面貌都发生了明显的分化和重整，除鱼龙之外很多我们耳熟能详的动物都在这个时期消失了，包括棘龙、鲨齿龙、上龙等众多形形色色的代表类群都在 K-Pg 大灭绝到来之前就提前“下线”了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-480ac618c51567348bf1db853d041dd5_720w.jpg?source=8673f162" alt=""><figcaption>正在黄昏下余晖映衬下捕食的棘龙，它们的未来也正如身后的落日一样即将沉入地平线，棘龙科和鱼龙一样也是这次灭绝事件中的最大受害者之一。图：DA</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-36d86b38cb4a61d89a92ef91c95bd366_720w.jpg?source=8673f162" alt=""><figcaption>上龙亚目（上龙类）作为侏罗纪中晚期的海洋顶级捕食者可以说风光无限，它们不仅会捕食中小型鱼龙也会对同为蛇颈龙目的蛇颈龙类下手，不过这样的场景随着森土灭绝事件的到来而不复存在。图：DA</figcaption></figure>
+<p><strong>森诺曼期 - 土仑期灭绝事件（Cenomanian-Turonian Boundary Event）作为</strong>白垩纪漫长地质史上发生的一次小规模灭绝事件，它对海洋生态系统的打击其实非常明显。</p>
+<p>这次由大规模缺氧所引发的海生物种灭绝事件导致海水中的碳循环发生了剧烈扰动，根据正碳同位素偏差显示当时海水中的氮、氧、磷、硫和铁循环也同样存在剧烈波动。</p>
+<p>伴随着酸度的升高，越来越多的碳酸盐溶解到了海水中并进一步释放出更多的二氧化碳，这种异常的海洋酸化现象结合海洋生物的异养呼吸作用不断加剧从而不断拉低了海水中的 PH 值。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8d98b60c48ef725e86296b3de617c6df_720w.jpg?source=8673f162" alt=""><figcaption>本图以百万年为时间尺度呈现了地球不同地质年代各期的海洋生物灭绝比例，其中包含了规模最大的五次灭绝事件，其中蓝色部份代表大致的灭绝属比例。图源：Wikipedia</figcaption></figure>
+<p>结果自然也是显而易见的，这场异常波动直接推波助澜的影响到了当时白垩纪海洋中顶级捕食者的生态位格局：</p>
+<p>从三叠纪开始就制霸海洋的鱼龙目自此跌下神坛、而曾经在侏罗纪叱咤风云的上龙类同样沦为这次事件的受害者，这两个昔日的海洋霸主就这样双双陨落。</p>
+<p>而幸存下来的蛇颈龙类最终则和后起之秀沧龙类一起重铸了中生代“海爬帝国”最后的辉煌，它们迅速开始辐射演化在这个千载难逢的间隙扩散开来直到另一场更可怕的灾难将“海爬时代”彻底终结。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0bdce35e93443cf797c0699c61638691_720w.jpg?source=8673f162" alt=""><figcaption>群体出动的大眼鱼龙很可能会像现代的一些海豚科一样集体狩猎。图：DA</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7a951ceb1d2d717f4853ac14829672e6_720w.jpg?source=8673f162" alt=""><figcaption>部分鱼龙超目成员体型对比图，从三叠纪到早白垩纪鱼龙家族几乎绵延了整个中生代直到森土事件以后才彻底陨落，它们所缔造的演化奇迹直到后来也没有其他海爬能够超过。图：IG</figcaption></figure>
+<p>要论“辈分”的话，鱼龙目（Ichthyosauria）称得上是比恐龙总目还要更源远流长的类群，目前有记录的化石证据显示最早的鱼龙大致出现在距今约 2.5 亿年前的三叠纪，而此时真正意义上的恐龙总目尚未出现（最早的恐龙要到 2.3 亿年左右才会正式登场）。</p>
+<p>但即便是这些生存年代最早、最原始的鱼龙其形态结构也都显示出高度适应海生环境的特征，所以究竟鱼龙“下海”前的陆地祖先是谁、长什么模样目前依旧是古生物学界的一个谜题……</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6625dfe11d0192cca3460cf0f2be55ed_720w.jpg?source=8673f162" alt=""><figcaption>中生代仅仅是一个白垩纪就长达 8000 多万年，其时间跨度甚至超过了整个新生代到目前为止的总长度。大部分的鱼龙在早白垩世的阿普第阶、巴列姆阶、豪特里维阶时期就消失了，泅龙作为延续到森土交界时期的鱼龙最终倒在了晚白垩世的门口。图：Wikipedia</figcaption></figure>
+<p>尽管现在有学者提出“鱼龙目可能演化自二叠纪的副爬行类”，但这一假说尚需更多化石证据来支撑因此准确性有待商榷，也因其独特的演化地位它们自成一派「鱼龙型下纲」与「主龙型下纲」和「鳞龙型下纲」并列为“龙形类（Sauria）”中的三大派系之一。</p>
+<p>令人唏嘘的是，鱼龙目最终在距今约 9000 万年前的白垩纪森诺曼 - 土伦阶之后销声匿迹，从灭绝时间来看它们依旧比恐龙早了约 2500 万年。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3beff0c9813b7c7c948dc77c936504b6_720w.jpg?source=8673f162" alt=""><figcaption>生活在三叠纪的湖北鳄虽然名字里面带有一个“鳄”但实际上它所在的湖北鳄目是鱼龙目的姊妹演化支，也代表了一个剑走偏锋的尝试。图：Reddit</figcaption></figure>
+<p>晚三叠纪~早侏罗纪这段时间算是整个鱼龙家族演化的巅峰期，此时的鱼龙目分化出了至少四个科的多个属种，从体长仅有 1 米的小型类群到最大体长超过 10 米的大个头应有尽有，无论是种群多样性和所占据的生态角色来看都完全不输后世的鲸类。</p>
+<p>其中的代表成员如：真鼻鱼龙属、鱼龙属、蛇嘴鱼龙属、狭翼鱼龙属、切齿鱼龙属和大眼鱼龙属等类群，它们虽然彼此体型上差异巨大但在外观上都无一例外的拥有纺锤状的流线型“鱼形化”躯体。</p>
+<p>这些最衍化、最成功的鱼龙就是被俗称为“中生代海豚”的鲔鱼型鱼龙类。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-51417cce404fef2f77cf344b69a07879_720w.jpg?source=8673f162" alt=""><figcaption>狭翼鱼龙是一类广泛分布于侏罗纪中晚期欧洲地区的中型鱼龙目成员，它们的化石数量很多说明它们是当时海洋中的优势性物种之一。图：DA</figcaption></figure>
+<p>实际上，鱼龙目的衰败并非是在一夜之间发生的而是经历了一个相对平缓且持续的递进过程，即便是在鱼龙公认的“黄金期”侏罗纪，当时的鱼龙种群虽然依旧繁盛但其多样性已开始减少，海洋顶级捕食者的位置也被大型化的上龙类把持着。</p>
+<p>这个时候的代表性鱼龙就是体长 4 米左右的大眼鱼龙（Opthalmosaurus）及其近亲，它们拥有几乎完美的“水滴型”身躯。</p>
+<p>大眼鱼龙硕大的眼眶和发达的巩膜环都说明它们能够在光线比较暗的深海中捕猎，鱼雷一般的流线型身材也让它们的游泳效率大大提升，从已发现的化石证据来看，各种头足类动物是大眼鱼龙日常最爱的食物。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cf096488bcc9e0c22b362dd4f66bb41c_720w.jpg?source=8673f162" alt=""><figcaption>大眼鱼龙拥有和海豚高度趋同的外型，它们硕大的眼眶显示出这是一种具备卓越视力的捕食者。图：DA</figcaption></figure>
+<p>当时间来到中生代的最后一个纪元——白垩纪之时，此时鱼龙的多样性依旧在持续下降中，迄今为止发现的白垩纪鱼龙类仅剩下 3 属且都是大眼鱼龙科（Ophthalmosauridae）之下的扁鳍鱼龙亚科（Platypterygiinae）的成员，分别是：</p>
+<p><strong>礁灵鱼龙属（Caypullisaurus）</strong></p>
+<p><strong>母椎鱼龙属（<em>Maiaspondylus</em>）</strong></p>
+<p><strong>扁鳍鱼龙属（Platypterygius）</strong></p>
+<p>最近几年的研究还发现在进入白垩纪之后到森土阶灭绝事件发生之前这段时间里，鱼龙的种群比我们此前认为的更多样化。</p>
+<p>2012 年的一篇论文显示：至少有 8 个血统的鱼龙成功跨过了侏罗纪~白垩纪边界，而到了白垩纪早期除新发现的泅龙外剩余的其他鱼龙几乎无一例外全都来自大眼鱼龙科，代表类群除上述提到的几个属外还有坚泳鱼龙属（Acamptonectes）和巧泳鱼龙属（Sveltonectes）。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-34a882f26d5b29dd573c5a94d92844ea_720w.jpg?source=8673f162" alt=""><figcaption>正在一群大型菊石身边游弋的大眼鱼龙，它们是侏罗纪晚期~白垩纪早期最成功的一类鱼龙，日常主要以捕食小型头足类为主。图：DA</figcaption></figure>
+<p>白垩纪鱼龙的衰败过程大致可描述为两个阶段：森诺曼阶早期发生的第一次程度较小的灭绝使得当时三个属的鱼龙种群中的两个都消失了，一直坚挺的扁鳍鱼龙属顽强的存活到早白垩世的阿普第阶才灭绝。</p>
+<p>而第二次灭绝事件发生在森土交界时期，也就是规模更大、影响程度更深的海洋缺氧事件，剩余的鱼龙种群在距今 9000-9300 万年前左右彻底绝灭。</p>
+<p>由此也可以看出鱼龙在森诺曼 - 土伦阶灭绝事件发生之前其种群衰落的迹象就可见端倪，这个日渐凋敝的种群只不过最终因海洋系统发生的这次剧变加快了其走向灭亡的进程。</p>
+<p>此时鱼龙种群的未来仿佛那一轮缓缓坠入海平面的夕阳，被海水所湮没只是时间问题……难道它们真的没有未来可言了吗？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ef4e585d09b77e3b6501d40ffe02c66_720w.jpg?source=8673f162" alt=""><figcaption>通俗秀尼鱼龙为代表的三叠纪巨型鱼龙类很早就实现了大型化，它们所达到的体型记录后世的海爬再也没有能企及到这个高度。图：见水印</figcaption></figure>
+<p><strong><strong>丨“时间的囚徒”</strong></strong></p>
+<p>就在所有人都认为整个鱼龙目即将就此陨落之时，一具来自伊拉克库尔德地区的化石却再次刷新了我们对这个物种顽强生命力的认知，它们的出现给处在风雨飘摇中的鱼龙家族带来了一丝新的希望，或许生命的火苗还不会就这样熄灭。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5d837736f4dbcfe8688883f951ebbf26_720w.jpg?source=8673f162" alt=""><figcaption>一头正准备浮出水面换气的泅龙，此时它们已经是白垩纪海洋中硕果仅存的几种鱼龙。图：Pinterest</figcaption></figure>
+<p>它就是——<strong>泅龙（Malawania）</strong>！</p>
+<p>正模标本出土自早白垩纪豪特里维阶~巴列姆阶的伊拉克北部库尔德斯坦，由瓦伦汀•费雪为主的多名古生物学家团队于 2013 年正式对外描述、命名。</p>
+<p><strong><strong>●分类:［鱼龙目 Ichthyosauria- 鱼龙科 Ichthyosauridae- 泅龙属 Malawania，模式种迷失泅龙 M.anachronus］</strong></strong></p>
+<p>迷失泅龙之所以引人关注是因为它们的外型特征比起前面提到的那几种白垩纪大眼鱼龙类更加原始，在分类位置上属于鲔鱼龙类中的基底群，同时也是鱼龙科中最后的成员。</p>
+<p>谁能想到这个生存在白垩纪早期的末代鱼龙反而与更早之前那些三叠纪晚期~侏罗纪早期的前辈更相似！要知道白垩纪最后的那几种鱼龙均属于大眼鱼龙科，而泅龙则是鱼龙科唯一幸存到白垩纪的幸运儿。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-000a55abad588c664d3681437a5ea175_720w.jpg?source=8673f162" alt=""><figcaption>迷失泅龙的外型和身体特征都高度接近晚三叠纪和早侏罗纪的鱼龙科成员，到它又是生存年代最晚的鱼龙科。图：DA</figcaption></figure>
+<p>而它的发现和命名过程同样命途多舛。</p>
+<p>迷失泅龙的正模标本最初由英国石油地质学家道格拉斯•麦可•莫顿达姆辛在 1952 年的伊拉克库尔德斯坦地区发现。</p>
+<p>随后的 1959 年，该样本被运回英国捐赠给自然历史博物馆然而直到 2004 年，也没有任何与之相关研究结果发布，仅在 1979 年有化石手稿发布在《古生物学 Palaeontology 》上，但却因无法准确描述该样本所存在的地层年代而遭到退回。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac34286abc71b8c012178f1001bb659f_720w.jpg?source=8673f162" alt=""><figcaption>模式种也是唯一有效种与人类的体型对比图，泅龙个头算中等整体看上去与那些年代更早的鱼龙科成员几乎没有区别。图：见水印</figcaption></figure>
+<p>时间来到 2013 年，这具快被遗忘的样本才最终得以被正式发表命名，通过孢粉学分析样本确认化石所属的地质年代为白垩纪早期的豪特里维阶至巴列姆阶之间。</p>
+<p>由于迷失泅龙在生理结构上比其他白垩纪鱼龙类更为原始，再加上最终测算出的生存年代让古生物家也颇感意外故而才有了这么一个奇特的名字。</p>
+<p>它的属名“Malawan”在当地库尔德语中的意思翻译过来就是“游泳者”，而种名则来源于拉丁语中“anachronus”一词，字面意思就是“迷失在时间中”。</p>
+<p>泅龙就像是一个被困在早白垩纪的孤独泳者，它没有同伴也看不到未来，只能像一个从侏罗纪穿越而来的时间囚徒般等待着命运的终点。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-185bed06d99a2a46ddeaebbc041ce172_720w.jpg?source=8673f162" alt=""><figcaption>泅龙作为相对基干的鱼龙科成员却生存在年代最晚的早白垩纪，不得不说是一个演化上的奇迹，它们就像一个突兀的“穿越者”孤独的游荡在白垩纪的海洋中。图：Wikipedia</figcaption></figure>
+<p>泅龙的每个眼疳骨（也就是眼眶前缘的成对骨头）的前端有一个空心，推测这可能是其泪腺所在的位置；除此之外它们的眼眶较长、向后投射的范围一直延伸到眼眶下方的一半长度、眼眶周围有 13 块骨头支撑形成的发达巩膜环，说明泅龙具有较强的深海潜泳能力。</p>
+<p>与大眼鱼龙科的成员不同，泅龙的颈椎骨除第一节的长度是其余颈椎的两倍外，剩余的颈椎长度均相同，并且它们的肋骨的前部分与椎骨的边缘也更圆润，神经棘还形成一个独特的梯形结构，这些都是泅龙所独有的鉴定特征。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3d9d1cc578aa8453271640acef6d3679_720w.jpg?source=8673f162" alt=""><figcaption>泅龙的正模化石标本，其生理结构与那些侏罗纪的类群几乎别无二致。图：Wikipedia</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-4aeeda53d69aad67d3a79450f07c6809_720w.jpg?source=8673f162" alt=""><figcaption>不同角度的泅龙复原图，它们和绝大多数鱼龙科成员一样都有着海豚那样的流线型身躯，它们的身体特征与三叠纪 - 侏罗纪时期的先辈几乎没有区别。图：DA</figcaption></figure>
+<p>泅龙当然无法凭一己之力扭转整个鱼龙家族江河日落的命运，但它的出现再次印证“镶嵌演化”现象确实是一个不常见但在多个物种身上都有出现过的演化小插曲。</p>
+<p>当最后一头泅龙环顾四周再也找不到一个同伴之时，这个从三叠纪横跨到白垩纪的古老血脉至此也划上了休止符，它们如同一个孤独的“穿越者”最终迷失在白垩纪蔚蓝的深渊中。</p>
+<hr>
+<p><strong>丨“宿命的轮回”</strong></p>
+<p>演化就是这么神奇且充满了戏剧性，作为有鳞目的沧龙它们的“下海”演化之路与鱼龙竟然发生了交集，尽管这两者素未谋面。</p>
+<p>其实如果你仔细观察就会发现最早的鱼龙外表看上去并不像海豚和鱼类，反而更像是长着鳍状肢的蜥蜴而且身材也普遍较为修长，这种从“面条型”的鳗鱼型身躯向“鱼雷型”的流线型身躯转变的过程在沧龙、鲸类身上也能看到。</p>
+<p>三叠纪早期~中期的很多基干鱼龙类的化石广泛发现于加拿大、中国、日本和挪威的斯匹兹卑尔根岛等地区，代表性的类群就包括：巢湖龙、短尾鱼龙，歌津鱼龙，它们几乎无一例外都没有背鳍也没有后来更进步的鲔鱼型鱼龙那样完美的鱼形身材。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-11291fa0f4a64751f010d78c2cead3f6_720w.jpg?source=8673f162" alt=""><figcaption>贝萨洛鱼龙是一类活跃在三叠纪的早期鱼龙目成员，化石来自今天的意大利地区。它们的身形已变得越来越流线型但依旧没有演化出完全对称的尾鳍和发达的背鳍，整体也较为修长类似鳗鱼。图：DA</figcaption></figure>
+<p>无独有偶，作为继任者的沧龙也完美复刻了先辈鱼龙曾走过的路。只是相比于鱼龙扑朔迷离的起源之谜，我们对沧龙类的演化过程掌握得更清晰明了。</p>
+<p>它们一路从类似崖蜥这样迫于生计选择时不时“下海”求生躲避捕食者攻击的小蜥蜴，到最终蜕变成晚白垩纪波涛中不可一世的巨无霸，沧龙确实算是边缘物种成功逆袭的典范。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff69f64a9596e373aaa769bb2ec9d88f_720w.jpg?source=8673f162" alt=""><figcaption>出土于意大利晚白垩纪早期特提斯海地层的一种海生蜥蜴，目前尚未有正式官方中文名。它们虽然并非是沧龙的直系祖先但在形态和习性上非常接近。图：X</figcaption></figure>
+<p>沧龙超科在中生代白垩纪最后的这 3000 万年里，迅速开枝散叶以惊人地辐射演化速度扩张到了几乎当时全球的所有海域，甚至还有部分成员进军淡水地带抢占鳄类的生态位。</p>
+<p>鱼龙和上龙灭绝之后空缺的海洋生态位迅速被各种形态大小不一的沧龙所取代，即便是同样幸存下来的蛇颈龙类也无法与沧龙竞争。这其中以沧龙属、海王龙属和倾齿龙属为代表的三个知名度最高、体型最大的成员也是很多人印象中最经典的沧龙形象。</p>
+<p>不过如果要说哪一种沧龙最接近鱼龙的外观形态，那就不得不提到一种生存在北美洲的独特沧龙成员——浮龙。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2a4d0132356f1b3ffbc9f1e327b63828_720w.jpg?source=8673f162" alt=""><figcaption>正在捕食的白垩刺甲鲨。与沧龙一起崛起的还有鼠鲨目这样的软骨鱼类，它们不仅挑战着末代海爬沧龙的顶级捕食者地位还在接下来的新生代与新下海的海洋哺乳类竞争，可谓对手换了一波又一波它们依旧长盛不衰。图：DA</figcaption></figure>
+<hr>
+<p><strong>丨“莞莞类卿”</strong></p>
+<p>鱼龙身上的一系列高度特化的衍征既帮助它们成功统治中生代海洋但很可能也是导致其灭绝的原因：</p>
+<p>它们可能无法猎食那些新出现、速度更高、日渐繁盛起来的真骨附类鱼类，而沧龙和蛇颈龙虽然没有那么完美的“鱼形化”身材但却凭借着独特的快速突击方式捕食各种新兴的真骨鱼类。</p>
+<p>有不少人想当然的认为三叠纪的各种巨型鱼龙占据着类比今天大型须鲸的滤食性捕食者生态位，然而实际上这个生态位在鱼龙种群中并不存在。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d63477f32e4fe33460a1fe67e635ac4f_720w.jpg?source=8673f162" alt=""><figcaption>薄片龙科成员体型对比图。它所在的蛇颈龙类在森土阶之后的白垩纪晚期大放异彩，不仅成功的适应了上龙灭绝后留下的生态位还在同沧龙的竞争中很好的生存下来直到白垩纪末期大灭绝事件到来。图：IG</figcaption></figure>
+<p>早期的有一些鱼龙具有相对扁平的凸状牙齿非常适合粉碎贝类等甲壳类生物，因此它们中的部分种群扮演着浅海底栖捕食者这个角色。</p>
+<p>诸如秀尼鱼龙这样的庞然巨兽更接近巨食性捕食者，从鱼类、头足类到其他中小型海洋脊椎动物它们几乎来者不拒。</p>
+<p>来自 2013 年一项研究发现：这些大型鱼龙的舌基部舌骨骨化程度很低，根本无法支持它们像须鲸那样通过吸食的方式进食，巨型鱼龙更可能是通过不断在游动的过程中张开嘴巴向前收集鱼群、头足类食物，而它们的牙齿结构也有能力处理更大型的猎物。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8cd65bcc11da4b44c3cac4d936eec322_720w.jpg?source=8673f162" alt=""><figcaption>正在觅食的两头本尼森浮龙，它们无论是习性还是外观都与其他沧龙有着很大区别，乍看上去会以为这是某种三叠纪的早期鱼龙。图：DA</figcaption></figure>
+<p>我们再说回沧龙。</p>
+<p>在自然选择的压力下沧龙快速的适应了海洋环境，越是后期的进阶型沧龙在外观形态上就越明显的褪去了蜥蜴的外表，向着鱼龙的模样靠拢。</p>
+<p>顺便说一句，外表与蛇类高度趋同的其实是伸龙科而非沧龙科，它们的外观形态和蛇类一样出现了明显的弱化四肢的趋势。</p>
+<p>言归正传。</p>
+<p>浮龙（Plotosaurus）属名的字面意思翻译过来就是“游泳的蜥蜴”，这是一种生存在距今 7200-6600 万年前的晚白垩纪马斯特里赫特阶的进阶型沧龙，模式种标本于 1942 年正式命名描述，化石来自美国加利福利亚的费雷斯诺县。</p>
+<p>正模标本由 54 块背椎、颈椎和尾椎组成，标本最初送到加州大学伯克利分校保存并进行更深入的研究。</p>
+<p>随后的 1938~1940 年间，加州理工学院的古生物学家又在科林加北部的莫雷诺地层发现了另外三个骨骼碎片，其中最完整的一具包括了一个颅骨、39 片前椎骨、一个肩带和前肢和尾椎残骸。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ba6fefd9b149f727a0a143837473d28_720w.jpg?source=8673f162" alt=""><figcaption>模式种与人类（1.8 米）的体型对比图，最大体长推测能达到 9 米，个头稍逊色于另一个种特氏浮龙。图：DA</figcaption></figure>
+<p><strong>●分类：〔有鳞目 Squamata- 沧龙总科 Mosasauroidea- 沧龙科 Mosasauridae- 沧龙亚科 Mosasaurinae- 浮龙属 Plotosaurus，目前有两个有效种本尼森浮龙 P.bennisoni（模式种）、 特氏浮龙 P.tuckeri〕</strong></p>
+<p>浮龙是当时白垩纪晚期北美地区最成功的一类沧龙，跟许多其他典型的沧龙成员相比，浮龙的诸多独有特征让它们显得独树一帜。</p>
+<p>比如它们的鳍状肢更为狭窄、尾鳍的尾叶更为巨大且有逐渐演变为更为对称的上下双尾叶结构的趋势、身体更加流线型并且可能有初级发育的背鳍、更加“鱼形化”的身躯让它们摆脱了那种鳗鱼式的左右扭动泳姿，因此推测浮龙的游泳速度可能比其他沧龙更快。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f524a54fe35e3980b1c6e883d955a511_720w.jpg?source=8673f162" alt=""><figcaption>浮龙具备更加发达的非对称双尾叶用以帮助它在水中快速推进，在功能结构上与现代的锤头鲨高度相似！研究表明它们主要依靠尾巴在水下驱动推进游动。图：X</figcaption></figure>
+<p>不仅如此，浮龙的眼眶也变得相当大显示出它们拥有相当不错的视力，而它们的牙齿也演变为更适应体表光滑、行动敏捷的真骨鱼类的翼状齿，在食性上也转变为更专性以鱼类为食而非其他大型脊椎动物。</p>
+<p>从食性上的特化程度来看，它们可以说与鱼龙当初专攻头足类的演化路线如出一辙！</p>
+<p>根据亲缘分支分类法研究结果发现，浮龙可能是所有沧龙科中最衍化的成员，但两个不同种的浮龙在生理结构和运动能力上也存在显著差异。</p>
+<p>模式种本尼森浮龙（P.bennisoni）得名于发现者阿兰.本尼森（Allan Bennison），最大体长估测约有 9 米，同时它也是在加州发现的首种沧龙类化石。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-8bdbcda0e5ce3fbc5e87fe10c785f841_720w.jpg?source=8673f162" alt=""><figcaption>浮龙属和海王龙属的颌骨结构形态解剖对比图，可以看到本尼森浮龙的嘴部结构和颌骨关节更适应鱼类这样的特定食物。简单来说，海王龙的骨骼结构依旧带有典型的蜥蜴特征颌骨开合度接近蛇类而浮龙无论是牙齿形态、颌骨结构还是眼眶都更像鱼龙。图：Nature</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d9ea5ba569bcad41c459d6c13bdda2cf_720w.jpg?source=8673f162" alt=""><figcaption>本尼森浮龙发现于晚白垩纪的美国加州地区也是该州出土的首个沧龙科成员的化石，它们代表了晚期沧龙的一个演化方向即：鱼龙化。图：DA</figcaption></figure>
+<p>另一个有效种特氏浮龙（P.tuckeri）则是在 1937 年由由威廉.特克纳（William M.Tucker）发现命名，相比模式种它知名度没有那么高但体型却更硕大，成年后的最大个体估测能达到惊人的 12-13 米！</p>
+<p>但特氏浮龙的“鱼形化”程度反而没有本尼森浮龙那么深，它们的游泳速度也相对更慢。</p>
+<p>来自加州理工学院的对比研究发现：与模式种相比特氏浮龙的椎骨数量更多且它们的颅骨形态也没有那么衍化、额骨没有向后延伸、翼状齿数量较少、松果孔也更小。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-d30f66b25caaa902d3937580da0032eb_720w.jpg?source=8673f162" alt=""><figcaption>本尼森浮龙的身躯由于变得更为流线型因此它们的游泳效率也更高，发达的尾鳍让它们的运动姿态摆脱了更为原始的鳗鱼型泳姿，大大提升了机动性。图：Reddit</figcaption></figure>
+<p>实际上尾鳍和背鳍的强化在鱼龙的演化路径上早就提前给沧龙预演了一遍。</p>
+<p>在不少早期的原始鱼龙复原形象中几乎都省略了背鳍和尾鳍的存在，本身这些结构作为软组织就相对更难保存为化石但我们还是可以根据其骨骼结构特征进行推测还原。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d74c22509b72c37ded422fa98420193_720w.jpg?source=8673f162" alt=""><figcaption>从原始的歌津鱼龙到进阶的大眼鱼龙，鱼龙目的身形从蜥蜴外观演变为高度流线型的鲔鱼形态，在这个过程中它们的背鳍和尾鳍也在不断强化。图：Nature</figcaption></figure>
+<p>无论是沧龙、鱼龙还是现代的鲸类，这些海生羊膜类的背鳍和尾鳍都没有坚硬的骨骼作为支撑，本质上是由特化的肌肉和皮肤组织形成而来的软组织。</p>
+<p>作为典型的海生爬行类，沧龙和鱼龙的尾椎骨在后期均走上了相同的特化方向，即：将脊椎骨末端向下弯曲形成一个下尾叶，而上尾叶则没有骨骼支撑完全由隆起的肌肉组织构成，最终上下尾叶合在一起形成一个类似弯月的垂直桨状尾鳍作为推进器。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-591df3c5759688b002e58e92a95e11fb_720w.jpg?source=8673f162" alt=""><figcaption>狭翼鱼龙是一种广泛分布于西欧地区的鲔鱼型鱼龙，可以清晰地看到它们的尾椎骨向下弯曲延长用于支持肉质的下尾叶，这点在沧龙身上也能看到。图：Nature</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-94baa76f4ad5d642b5e94e0e46c96234_720w.jpg?source=8673f162" alt=""><figcaption>很多沧龙在后期都演化出不对称的下歪尾鳍，这和鱼龙的尾鳍演变模式几乎完全相同。两者的尾鳍均是由尾椎骨向下弯曲形成而来，这和鲸类这样的海生哺乳类有明显不同。图：DA</figcaption></figure>
+<hr>
+<p><strong>●分类:〔有鳞目 Squamata- 沧龙总科 Mosasauroidea- 沧龙科 Mosasauridae- 沧龙亚科 Mosasaurinae- 巨鳍龙属 Megapterygius，模式种和歌山巨鳍龙 M.wakayamaensis〕</strong></p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a4aa38f2e6725dc849d3cd6679a9c6e_720w.jpg?source=8673f162" alt=""><figcaption>正模标本保存度较为良好，除了尾椎骨之外大部分部位都完整的保留下来。图：Nature</figcaption></figure>
+<p>几乎同一时期，在北半球今天日本海域还活跃着另一种同样高度“鱼龙化”的晚期沧龙，并且它们还演化出更为夸张的鳍状肢和背鳍。</p>
+<p>巨鳍龙（Megapterygius）的属名直译过来就是“大翅膀”，正模标本来自日本晚白垩世的鸟屋城组（Toyajo Formation）长谷川泥砂岩段，目前该属唯一有效种就是模式种和歌山巨鳍龙（M.wakayamaensis）。</p>
+<p>正模标本(编号:WMNH-Ge-114024002)保存度较高，由一个头骨、一段完整的颈椎骨和背脊组成，共计包括了 40 多块脊椎、肋骨、两个前鳍状肢和左后鳍状肢碎片。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-73fb6fc52319cf8a5710b809ba961776_720w.jpg?source=8673f162" alt=""><figcaption>和歌山巨鳍龙的外型看上去就像是有着四个巨大鳍状肢的早期鱼龙，其形态特征非常独特。图：DA</figcaption></figure>
+<p>2023 年，古生物家小西（Konishi） 和团队根据这些化石遗骸正式将其描述命名。</p>
+<p>属名“Megapterygius”分别由古希腊语里的"megas（巨大）"＋"pterygion（翅膀）"两个词根组合而来，用来形容它们异常硕大类似翅膀的两对鳍状肢；种加名“wakayamaensis”则为了纪念化石发现地和歌山县。</p>
+<p>由于巨鳍龙是少有的公布有和名汉字称呼的古生物，因此中文名无需翻译直接将日本语中的「和歌山滄竜」转写过来即可。<strong>（*Soryu 一词在日本语中特指代「沧竜」）</strong></p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-c73eab275f8b3395f25a26db0fab17e9_720w.jpg?source=8673f162" alt=""><figcaption>模式种与成年智人的体型对比图，它们是一类中型的沧龙科成员。图：Wikipedia</figcaption></figure>
+<p>作为一类中等体型大小的沧龙科成员，巨鳍龙的头骨长度约有 0.8 米、身长最大在 6 米左右，虽然个头并没有特别显眼但它们的四肢比例却尤其夸张。</p>
+<p>大部分沧龙都是前鳍比后鳍更长，而巨鳍龙则不同它们的后鳍甚至还略微比前鳍更长且四肢的长度甚至超过了头骨的长度，这一独有衍征在任何其他沧龙身上都见不到反而倒是有点像侏罗纪那些靠后肢驱动游泳的海鳄类。</p>
+<p>值得一提的是，巨鳍龙应该也是为数不多有确凿证据显示有背鳍发育的进阶型沧龙。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a5e27b7cbf3ed2a708e4e44ddfa3a997_720w.jpg?source=8673f162" alt=""><figcaption>巨鳍龙的背鳍可能比较靠前，它们也是少数几种有证据显示发育有背鳍的沧龙类。图：DA</figcaption></figure>
+<p>分布在它们后背椎的神经棘中至少有五个向前突出，这一特征在现存的海豚科身上尤为明显，其突出的对应的部位正是背鳍的基部。</p>
+<p>由此推测巨鳍龙的背鳍可以保证它们在水中快速游动时提供必要的稳定性，这显示出后期沧龙的流体力学结构不断加强越来越向鱼龙的外观靠拢。</p>
+<p>除此之外，研究人员还发现巨鳍龙的肱骨呈鞍状结构且内侧更厚，这表明它们的前鳍内收、外展和前伸、后缩的幅度范围很大，从而能更灵活快速的操控鳍状肢的角度。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a9beb81fab4298f987851dc43f7b5bf_720w.jpg?source=8673f162" alt=""><figcaption>巨鳍龙的双目视觉让它们在水下捕猎时能够更为敏锐的觉察到猎物。图：DA</figcaption></figure>
+<p>沧龙和鱼龙一样并没有演化出现代齿鲸的回声定位能力，因此视觉对于这些海生蜥形纲而言就显得尤为重要。</p>
+<p>巨鳍龙的眼窝周围的头骨面积略宽显示出它们具有良好的双目视觉，这也让它们成为继磷酸盐龙之后第二个明确拥有双目视觉能力的沧龙，发达的双目视觉能够让它们更精准的锁定捕食目标从而提高捕食的成功率，这也是很多顶级捕食者都有的共同特征。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-eb1fe096eb57eee7f58f4f6019353f30_720w.jpg?source=8673f162" alt=""><figcaption>跃出水面的巨鳍龙，这种中型沧龙可能会集体出动觅食。图：DA</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-549c00c3f7eed34e19714efb7d234f3a_720w.jpg?source=8673f162" alt=""><figcaption>参考同样鱼龙化的浮龙，巨鳍龙大概率也有一条下歪尾叶的尾鳍用来快速推进身体游动和转向。图：Reddit</figcaption></figure>
+<p>尽管由于保存状况不佳导致巨鳍龙正模标本的尾巴结构形态并不明确，但考虑到它们和浮龙一样趋同的“鱼龙形”外观推测，巨鳍龙很可能也长着一个比较对称的新月形尾鳍。</p>
+<p>发达对称的尾鳍有助于它们游泳时快速推进和急速转弯，结合其头骨形态和独特的鳍状肢小西教授认为：巨鳍龙不仅捕食各种快速游动的鱼群，还能制伏一些体型更大的脊椎动物。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cba2bf4f5fee8d6fb29208c888d95cca_720w.jpg?source=8673f162" alt=""><figcaption>巨鳍龙虽然主要以各种鱼类为食但它们也有能力捕食更大型的猎物，如果它们采取团队协作那么成功率会更高。图：DA</figcaption></figure>
+<hr>
+<p><strong>■结 语</strong></p>
+<p>鱼龙目作为一个横跨三叠纪、侏罗纪、白垩纪的“三朝元老”书写了整个“中生代海爬帝国”中最壮美的篇章，从横空出世到巅峰盛世再到落寞退场，研究它们的兴衰历程能更直观的帮助我们认识到物种演化的规律。</p>
+<p>并且这个物种一直在刷新我们对“海爬”的刻板印象。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ab41f008b2ecd88040c46fae5d59074_720w.jpg?source=8673f162" alt=""><figcaption>正在分娩的狭翼鱼龙，它们分娩的时候与现代鲸类一样是幼崽的尾部先出来而头部更后，这样可以避免新生儿在海水中窒息。图：DA</figcaption></figure>
+<p>2017 年，在德国一处距今约 1.82 亿年前的碳酸盐地层中出土了一具狭翼鱼龙（Stenopterygius）的椎骨，而这些椎骨碎片的不寻常之处就是保留下许多富含胶原蛋白纤维、胆固醇、血小板和红细胞、白细胞沉积的痕迹。</p>
+<p>由于这些组织结构并不会因为活体的死亡而石化，因此就成为识别生物分子的原始有机组织的鉴定特征。</p>
+<p>有趣的是，狭翼鱼龙骨骼中发现的这些红细胞大小只有现代海洋哺乳类的 1/4~1/5，考虑到侏罗纪托阿尔阶（Toarcian）这一时期的海水含氧量更低，因此这很可能也是狭翼鱼龙对缺氧环境下呼吸的一种适应性演化。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-319eac4cf92a76363a16113cf2e99e1e_720w.jpg?source=8673f162" alt=""><figcaption>狭翼鱼龙和许多现代鲸类一样拥有发达的皮下脂肪组织，并且从沉积下来的黑色素显示它们的体表很可能呈现出黑白分明的颜色。图：Reddit</figcaption></figure>
+<p>更让人意想不到的是在 2018 年，古生物学家又在另一具狭翼鱼龙的化石遗骸中发现了皮下脂肪存在的证据，由此证明有些鱼龙和现代的鲸类一样拥有发达的脂肪组织从而能够在温度更低的海域生存，也进一步验证了它们是高代谢率、恒温的海生脊椎动物。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6e3316bde24a1f58bda4233960471f1b_720w.jpg?source=8673f162" alt=""><figcaption>当最后一头鱼龙的身体沉入海床之上的时候，属于这个传奇海爬家族的传奇就此落幕。图：X</figcaption></figure>
+<p><strong>鱼龙也好、沧龙也罢，这两个看似完全不相交的物种却因为面临相同的自然选择压力走上了相同的演化轨迹。</strong><strong>无所谓谁取代谁或者哪一个更“进步”，毕竟浩瀚的海洋永远不缺挑战者，没有一个物种会永远立于不败之地。</strong><strong>［THE END］</strong></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2095093001831674398">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/358110700">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793865</guid>
-                <pubDate>Tue, 10 Nov 2026 22:44:20 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>古人常把酒加热再喝，为什么现代人很少这么做了？</title>
-                <link>http://daily.zhihu.com/story/9793872</link>
-                <description>四叁有匪，尘土衣冠，江湖心量 查看知乎原文 古人温酒的原因： 从现代科学的角度来说，加热可以让低沸点的甲醇等有害物质挥发，降低中毒的风险； 从古代中医的角度来说，加热后引用，“不伤脾胃”。 黄釉陶尊，东汉，包头市文物管理处藏 古人并非所有情况下喝酒都加热，也和当时的天气与温度有关。 举个例子。 《三国演义》里只要提到“温酒”或者“煮酒”的，都不是在夏天。 第二十一回，曹操青梅煮酒论英雄，枝头梅子青…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-8a072f67935bb05590aa43e5c1dd72a1.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-0ab40b929dc309c5bafae45bf2639267_l.jpg?source=8673f162">
-<span class="author">四叁有匪，</span><span class="bio">尘土衣冠，江湖心量</span>
-<a href="https://www.zhihu.com/question/568130332/answer/2770498419" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>古人温酒的原因：</p>
-<p>从现代科学的角度来说，加热可以让低沸点的甲醇等有害物质挥发，降低中毒的风险；</p>
-<p>从古代中医的角度来说，加热后引用，“不伤脾胃”。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-377d9e7ab2577eedf9d154f74c0bff92_720w.jpg?source=8673f162" alt=""><figcaption>黄釉陶尊，东汉，包头市文物管理处藏</figcaption></figure>
-<p>古人并非所有情况下喝酒都加热，也和当时的天气与温度有关。</p>
-<p>举个例子。</p>
-<p>《三国演义》里只要提到“温酒”或者“煮酒”的，都不是在夏天。</p>
-<p>第二十一回，曹操青梅煮酒论英雄，枝头梅子青青，是上半年春天；</p>
-<p>第五回，袁绍聚集人马讨伐董卓，关羽温酒斩华雄，是在冬天。</p>
-<p>总之就是气温相对低的时候。</p>
-<p>展开说。</p>
-<p>宋人把温酒叫做“煖盪”。</p>
-<p>盪，更古早时，是洗涤的意思。</p>
-<p>《说文·皿部》：</p>
-<blockquote>盪，涤器也。</blockquote>
-<p>温热的酒，则为“汤”。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d591672fbe9223b52f22ef584f3c33a_720w.jpg?source=8673f162" alt=""><figcaption>铜注子 新安海底沉船遗物</figcaption></figure>
-<p>很多古籍里，都提出喝冷酒的危害，包括甲醇对眼睛的不可逆损伤：</p>
-<p>宋，朱肱《北山酒经》：</p>
-<blockquote>酒味甘、辛，大热，有毒。<br>虽可忘忧，然能作疾，所谓腐肠烂胃，溃髓蒸筋。</blockquote>
-<p>清，朱彝尊，《食宪鸿秘》：</p>
-<blockquote>饮生酒、冷酒，久之，两腿肤裂，出水、疯、痹、肿，多不可治。或损目。</blockquote>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-62ef06bd6a6178348895e5c6e599214d_720w.jpg?source=8673f162" alt=""><figcaption>锡提梁壶（水火炉） 四川崇州万家镇明代瓷器窖藏</figcaption></figure>
-<p>《随园食单》：</p>
-<blockquote>炖法不及则凉，<br>太过则老，近火则味变，<br>须隔水炖，而谨塞其出气处才佳。<br>取可饮者，开列于后。</blockquote>
-<p>古代的酒，除乙醇外，还有甲醇及其他有害物质。</p>
-<p>甲醇沸点均低于乙醇，到一定温度就挥发了。</p>
-<p>但如过分加热，乙醇也开始汽化消散，就影响了酒的风味。</p>
-<p>所以古人温酒，温度必须适度，多采用隔水加热和保温。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-09f6fa6abb04e3e57b8df5f2227f7d7e_720w.jpg?source=8673f162" alt=""><figcaption>锡提梁壶（水火炉） 内部构造</figcaption></figure>
-<p>古代中国，在很长一段时期里，黄酒是主流。</p>
-<p>但是，当时的黄酒和现在的黄酒，区别很大。</p>
-<p>古代酒类，用现代的词语来形容的话，只能用“发酵酒”来统称。</p>
-<p>那时的酒颜色和味道，我们基本不太体验到了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3cbdc75c4684ed62d67a613b43b82620_720w.jpg?source=8673f162" alt=""><figcaption>常州武进村前乡 南宋五号墓出土带流提桶</figcaption></figure>
-<p>黄酒属于发酵酒，白酒属于蒸馏酒；</p>
-<p>前者酒精浓度低，成酒过程短，有的几天就可以饮用；</p>
-<p>后者酒精浓度高，是由发酵酒蒸馏得来的。</p>
-<p>前面说了，古时候，黄酒，也就是发酵酒是主流，这其中还有细分：</p>
-<p>酒味厚的叫醇，酒味薄的叫醨（lí），醴（lǐ）是甜酒，醪（láo）是汁滓混合的酒，就是现在的酒酿。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-e860463c2980fbc89eab1ba4c11257a2_720w.jpg?source=8673f162" alt=""></figure>
-<p>至于何时开始出现蒸馏酒，据明代药物学家李时珍在《本草纲目》卷二五中说：</p>
-<blockquote>烧酒非古法也，自元时始创其法。</blockquote>
-<p>黄酒酿成时，汁与渣滓混在一起，是混浊的，经过过滤沉淀，除去渣滓，酒汁才会清澈，因而古人常说清酒、浊酒。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-836556f647de9ff2b865e201de919608_720w.jpg?source=8673f162" alt=""><figcaption>浙江东阳金交椅山宋墓出土</figcaption></figure>
-<p>三国，曹植《七启》：</p>
-<blockquote>盛以翠樽，酌以雕觞。<br>浮蚁鼎沸，酷烈馨香。</blockquote>
-<p>铜酒樽里的酒，热气腾腾；</p>
-<p>“浮蚁”一词，就是酒面上，发酵了的米粒在翻腾。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f9b1053f4960abc329bfa486e5401781_720w.jpg?source=8673f162" alt=""><figcaption>江苏无锡元钱裕墓出土</figcaption></figure>
-<p>唐，白居易，《问刘十九》：</p>
-<blockquote>绿蚁新醅酒，红泥小火炉。<br>晚来天欲雪，能饮一杯无？</blockquote>
-<p>“绿蚁”，也一样，就是浮在酒上的杂质，没有经过蒸馏的发酵酒，外观就是这样的；</p>
-<p>用小火炉加热，就是为去除这些杂质。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-132101c4387f2b494eb0f67a8434dda1_720w.jpg?source=8673f162" alt=""><figcaption>浮雕祥瑞禽兽纹鎏金铜酒樽，西汉，山西博物院藏</figcaption></figure>
-<p>商代的爵、斝都有支脚，直接在器下生火温热。</p>
-<p>西周之后，流行把酒壶放在盘或鉴中以热水慢慢加温。</p>
-<p>汉代的温酒器，普遍有盖子，可见饮宴的时间比之前，更长更久了。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/568130332">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793872</guid>
-                <pubDate>Tue, 10 Nov 2026 22:44:21 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793891</guid>
+                <pubDate>Wed, 11 Nov 2026 04:15:35 GMT</pubDate>
             </item>
             
             <item>
                 <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9793876</link>
-                <description>瞎扯 · 看完南昌的海昏侯墓你有什么感觉？ 知乎日报 查看知乎原文 Q：看完南昌的海昏侯墓你有什么感觉？ @Shortime ：金钱如粪土这个成语不是比喻，是白描。 Q：你住酒店时有过哪些奇葩经历？ @西米露打烊了 ：客人退房，楼层服务员对讲机报：「客人忘记把猫带走了」打电话给客人，客人说：「不是我的猫，我进房间它自己跑进来的，我以为是你们酒店的猫呢，就抱着睡了一晚上」 Q： 你认为最失败的标志（…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <link>http://daily.zhihu.com/story/9793901</link>
+                <description>瞎扯 · 能告诉我一些冷知识吗，哪方面都可以? 知乎日报 查看知乎原文 Q： 能告诉我一些冷知识吗，哪方面都可以? @陈二狗 ：他这个叫包葫芦头，意思是你们看着捐，剩下不够的差多少他自己一个人包圆。 Q：你做过最抽象的事情是什么？ @山人 ：我表姐办公桌上放了一个分隔装满五谷杂粮然后用玻璃密封的摆件。本身寓意五谷丰登。后来里面生了虫。我表姐也不管，任由虫子在里面吃喝拉撒、繁衍生息，四处蠕动。她每天…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -375,53 +501,56 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 看完南昌的海昏侯墓你有什么感觉？</h2>
+<h2 class="question-title">瞎扯 · 能告诉我一些冷知识吗，哪方面都可以?</h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/452718828/answer/2074177988015477004">看完南昌的海昏侯墓你有什么感觉？ </a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/581759223/answer/2094207827141195596"> 能告诉我一些冷知识吗，哪方面都可以? </a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/7e96ebc3df877b73794c64ca6bf56f29" target="_blank">@Shortime</a></div>
- ：金钱如粪土这个成语不是比喻，是白描。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/11d7431e9f85153db7a1f60036e456a2" target="_blank">@陈二狗</a></div>
+ ：他这个叫包葫芦头，意思是你们看着捐，剩下不够的差多少他自己一个人包圆。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic4.zhimg.com/v2-5715e19248ac8a44f5c82d28efa5ad1d_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-886f2dd47c667aaf705d95d08a0c08a2_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/641121995/answer/2021261746124403591">你住酒店时有过哪些奇葩经历？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/607624912/answer/1985300562435143422">你做过最抽象的事情是什么？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/6bf8c51c83cadc30f70cff837ec4c547" target="_blank">@西米露打烊了</a></div>
- ：客人退房，<br>楼层服务员对讲机报：「客人忘记把猫带走了」<br>打电话给客人，客人说：「不是我的猫，我进房间它自己跑进来的，我以为是你们酒店的猫呢，就抱着睡了一晚上」</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1966885892099666871/answer/2085873450883855415"> 你认为最失败的标志（ Logo ）设计有哪些？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f57ba3b3aa351ed11a50096fd5456739" target="_blank">@山人</a></div>
+ ：我表姐办公桌上放了一个分隔装满五谷杂粮然后用玻璃密封的摆件。本身寓意五谷丰登。<br>后来里面生了虫。<br>我表姐也不管，任由虫子在里面吃喝拉撒、繁衍生息，四处蠕动。<br>她每天隔着玻璃框观察。<br>后来同事们也加入了观察的行列。<br>她的同事们认为这属于先驱、前卫艺术，或可划于行为艺术范畴。<br>过了个周末，一上班被知乎消息弹窗淹了。摘录几个天赋怪的回复：<br>蛆块链、先蛆艺术<br>突然想到，这不就是「谷物尸体变化图鉴」的现场版吗</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/568248345/answer/1954141095576470554">为什么学编程都建议不要用拼音命名？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/7c114fd29c6907796757e2658f7dfffd" target="_blank">@椒龙 Josiah</a></div>
- ：台湾省民进党为了振兴台湾的猪肉产业，推出的台湾猪 LOGO 。<br>咋看咋像骂人。而且民进党不如少进口点美猪来的实在。</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/70ac9ee20d94c2b126fc44ba8a311cd8" target="_blank">@心试</a></div>
+ ：因为当你习惯用拼音后，有可能也会认识一个叫孙军的黑客...</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-9b159669b4d7844546ab3c23ca280bfd_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-6f08d7cde8c4510bce08bfd6d9f7d55a_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/270076897/answer/1940731562288199033"> 面相长的凶是什么体验? </a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/36412943/answer/2096258870037439557">为什么现在小孩的名字都这么俗？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/fdb0e2686dc00e6ef13068a09525b572" target="_blank">@江田岛耳科医生</a></div>
- ：这是滕警官穿警服的样子</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/06f7dac2da68985244f0fcc49313be54" target="_blank">@ZLKCJNB</a></div>
+ ：没有红果短剧之前，我认为这些名字是很雅的</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-6b33f541cbb353eda52d2bc90f29a001_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-d3d3c3ca138b8e48a9c0e0bf5bc713ea_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<blockquote>这是滕警官脱下警服的样子</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-a66a4e0b774073104ff8cde35f43a344_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/662437470/answer/2074632721339623269"> 现在哪个行业还是蓝海？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/309374681/answer/2088335097401436052">你听过最有趣的外号 (称呼) 是什么?</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/84722cc68f0a3fc0c7d15d5f02dac500" target="_blank">@巧克梨</a></div>
- ： 1 . 脚蹬轮椅<br>2 . 情趣寿衣<br>3 . 保健农药<br>4 . 高速酒吧<br>5 . 助眠咖啡<br>6 . 大米盖饭<br>7 . <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=286284979&amp;content_type=Article&amp;match_order=1&amp;q=%E4%BB%B0%E6%B3%B3%E9%B2%88%E9%B1%BC&amp;zhida_source=entity" target="_blank">仰泳鲈鱼</a><br>8 . 无籽花生<br>9 . 农田星巴克<br>10 . 工地健身房<br>11 . <a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=286284979&amp;content_type=Article&amp;match_order=1&amp;q=%E7%BE%8E%E5%88%A9%E5%9D%9A%E7%AC%AC%E4%B8%80%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&amp;zhida_source=entity" target="_blank">美利坚第一人民医院</a><br>12 . 民办派出所<br>13 . 制热冰箱<br>14 . 自热冰棍<br>15 . 敞篷潜水艇<br>16 . 毛线丁字裤<br>17 . 老兵美甲<br>18 . 希望赌场<br>19 . 纯手动电锯<br>20 . 加绒加厚丁字裤</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/9deed791cf1c0187b0410e4d1ee11e8b" target="_blank">@忘川摆渡翁</a></div>
+ ：我高中数学老师人送外号波波。<br>我们以为他爱打球晒的黑，像龙珠的那个波波。</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-1bb1265462a6865b7515d957675d80ae_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
+<blockquote>等我们考完试全军覆没之后，我们才知道原来是这个波波。</blockquote>
+<figure>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-d7836524fd5eaf52a031a1aec3dbc213_1440w.jpg" alt=""></div>
+<figcaption></figcaption></figure>
 <hr>
 <p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
-<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://pica.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
+<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
 </div>
 </div>
 
@@ -431,8 +560,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793876</guid>
-                <pubDate>Tue, 10 Nov 2026 22:44:22 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793901</guid>
+                <pubDate>Wed, 11 Nov 2026 04:15:36 GMT</pubDate>
             </item>
             
     </channel>
