@@ -4,93 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Wed, 11 Nov 2026 13:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 23:57:07 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>鸡蛋煮熟后，蛋黄边缘为什么会出现灰绿色？</title>
-                <link>http://daily.zhihu.com/story/9793879</link>
-                <description>黄河边儿，勤学善思，理性科普，热爱生活，向阳而行。 查看知乎原文 这是个经典问题了，最早的研究可以追溯到 1920 年前的这篇文章《The Formation of Ferrous Sulphide in Eggs during Cooking》[1] 居然都 100 多年前了... 简单说，这个灰绿色东西，如下图，是来自蛋白的硫化氢与来自蛋黄的铁发生反应，最终生成的硫化亚铁 FeS。 除了颜色以…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-c0f3fa261ffa6a2b52afabc617e3dcee.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pica.zhimg.com/v2-0fd0250f9351a36609cf1c86eb757e4e_l.jpg?source=8673f162">
-<span class="author">黄河边儿，</span><span class="bio">勤学善思，理性科普，热爱生活，向阳而行。</span>
-<a href="https://www.zhihu.com/question/2080617033763504865/answer/2081427565563201076" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>这是个经典问题了，最早的研究可以追溯到 1920 年前的这篇文章《The Formation of Ferrous Sulphide in Eggs during Cooking》<sup>[1]</sup></p>
-<p>居然都 100 多年前了...</p>
-<p>简单说，这个灰绿色东西，如下图，<strong>是来自蛋白的硫化氢与来自蛋黄的铁发生反应，最终生成的硫化亚铁 FeS。</strong></p>
-<p>除了颜色以外，这个东西还有一个特点就是<strong>沉积在蛋黄表面</strong>，其他地方没有。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-fd5973ffe7a7be29398a493f65ae829d_720w.jpg?source=8673f162" alt=""></figure>
-<p>展开说说。</p>
-<p>大家都知道，蛋白中含有大量蛋白质，当鸡蛋被持续加热以后，蛋白质就会发生变性，其中涉及的巯基和二硫键会发生一系列反应，并可以产生少量<strong>硫化氢 H₂S。</strong></p>
-<p>这也是为什么水煮蛋煮得特别老时，有时会闻到更明显的那种硫磺味。</p>
-<p>所以这个灰绿色硫化亚铁 FeS 产生的第一步就是：</p>
-<p><strong>蛋白受热 → 含硫蛋白结构改变 → 产生少量 H₂S。</strong></p>
-<p>光有 H₂S 还不够，蛋黄里还有铁，而且鸡蛋的铁主要就集中在蛋黄里。</p>
-<p>这些铁相当一部分与一种叫做 phosvitin（卵黄高磷蛋白）的蛋白结合。</p>
-<p>关于 phosvitin，有一个很有意思的特点：它含有大量磷酸化丝氨酸，因此带有非常强的负电荷，特别擅长结合金属离子，所以<strong>蛋黄中的绝大多数铁都与 phosvitin 有关。</strong></p>
-<p>所以，一个完整的鸡蛋其实形成了一个很有趣的空间分布：</p>
-<p><strong>外面的蛋白富含含硫蛋白，里面的蛋黄富含铁。</strong></p>
-<p>平时大家互不打扰。</p>
-<p>但是，一加热，蛋白受热产生 H₂S，并且要从<strong>蛋白这一侧扩散出来</strong>；而能够参与反应的铁，则来自<strong>蛋黄这一侧</strong>。</p>
-<p>那么它们相遇的地方就是<strong>蛋白—蛋黄的交界面。</strong></p>
-<p>在那里，来自蛋白的硫化氢与来自蛋黄的铁发生反应，最终生成难溶的<strong>硫化亚铁 FeS</strong>。因此这种物质首先沉积在蛋黄表面，而不是蛋黄中心。</p>
-<p>而且，鸡蛋煮得越久，这圈绿色会越明显。</p>
-<p>因为持续时间越长，蛋白中的含硫化合物越有机会发生反应，H₂S 的生成和迁移也就越充分。</p>
-<p>另外，还有一个知识点。</p>
-<p><strong>大家煮鸡蛋以后会马上过凉水，目的是好剥壳。</strong></p>
-<p><strong>但是，这其实还有另一个作用：阻止蛋黄继续变绿。</strong></p>
-<p>鸡蛋从沸水里捞出来以后，内部温度并不会立刻下降。鸡蛋本身还储存着相当多的热量，内部实际上仍然在继续加热。</p>
-<p>如果把鸡蛋放在桌上慢慢冷却，蛋白和蛋黄在几十摄氏度以上还会维持相当长时间，H₂S 的生成、扩散以及 FeS 的形成仍然可以继续。</p>
-<p>而立即用冷水或冰水降温，就会提前结束这种反应。</p>
-<p>下图是一个鸡蛋过冰水和不过冰水的对比，也说明了，马上过凉水可以阻止蛋黄继续变绿。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1f143bdce6924d3f97e897ff6a48d7e4_720w.jpg?source=8673f162" alt=""><figcaption>鸡蛋过冰水和不过冰水的对比</figcaption></figure>
-<p>还有一个知识点，<strong>鸡蛋放得越久，在同样加热条件下，越容易变绿。</strong></p>
-<p>之所以如此，是因为鸡蛋储存过程中，二氧化碳会逐渐从蛋壳微孔逸出，因此鸡蛋内部的 pH 会发生变化，尤其蛋白会逐渐变得更加碱性。而<strong>偏碱性的环境会促进加热过程中硫化氢的产生</strong>。</p>
-<p>这也是做过实验的<sup>[2]</sup>。实验过程是：把鸡蛋在 2 ℃ 下放置 1、7、14、21 天以后，再煮熟，蛋黄表面变色总体随储存时间增强；同时，研究人员还观察到蛋黄 pH 从刚产出的约 6.0 上升到储存三周后的约 6.9。</p>
-<p>最后，这种灰绿色的物质属于硫和铁之间的正常化学反应，<strong>可以吃，没有安全问题</strong>，也不代表鸡蛋变质。</p>
-<p>好了，写到这里。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2080617033763504865">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793879</guid>
-                <pubDate>Wed, 11 Nov 2026 13:25:23 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>钻石明明很硬，为什么受到撞击仍容易碎裂？</title>
-                <link>http://daily.zhihu.com/story/9793886</link>
-                <description>祥昊，看山看水看手机 查看知乎原文 嘿，少年郎， 你可知钢丝球的花语是什么来着？ 没错， 看一个材料你不能肤浅的只看硬度， 别的参数也极为重要。 我们来简单认识下材料常见的几个力学参数。 首先是硬度（Hardness）， 代表的是抗刮擦刻划能力。 简单理解就是二者摩擦硬者胜， 举个例子， 普通低碳钢（铁）的摩氏硬度比玻璃低， 所以虽然你用铁锤可以轻松砸碎玻璃， 但很难划出印子。 而翡翠的硬度在 6…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-df98ec42f076eb831dba4c5f7961735f.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>人们在种植蘑菇的时候，孢子会不会在人的躯体上生根发芽？</title>
+                <link>http://daily.zhihu.com/story/9793909</link>
+                <description>祥昊，看山看水看手机 查看知乎原文 种蘑菇的时候几乎接触不到孢子。 别说种的时候接触不到， 大部分商业食用菌即使从接种到收获，也没多少机会能大范围接触到孢子。 至于蘑菇孢子能不能在躯体上发芽， 咱不妨了解下蘑菇是咋种出来的，就不会有这个疑问了。 那蘑菇应该是怎么种出来的呢？ 咱得从拌料开始。 由于不同菌类需要的拌料不同，咱就以比较简单的香菇为例。 常见的通用配方并不复杂， 大头是木屑，玉米芯等废料…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-2852b1380e07ff04189116de31efae21.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -112,164 +33,105 @@
 <div class="meta">
 <img class="avatar" src="https://picx.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162">
 <span class="author">祥昊，</span><span class="bio">看山看水看手机</span>
-<a href="https://www.zhihu.com/question/2091047513247703463/answer/2091637536049444439" class="originUrl" hidden>查看知乎原文</a>
+<a href="https://www.zhihu.com/question/1949389063267260163/answer/2025277989231797571" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>嘿，少年郎，</p>
-<p>你可知钢丝球的花语是什么来着？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-65192eed75407a7714cddd81600f3a43_720w.jpg?source=8673f162" alt=""></figure>
-<p>没错，</p>
-<p>看一个材料你不能肤浅的只看硬度，</p>
-<p>别的参数也极为重要。</p>
-<p>我们来简单认识下材料常见的几个力学参数。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ec53551256f2230fc89a771e1eaa13b_720w.jpg?source=8673f162" alt=""></figure>
-<p>首先是硬度（Hardness），</p>
-<p>代表的是抗刮擦刻划能力。</p>
-<p>简单理解就是二者摩擦硬者胜，</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-46377ada835c8fba2b9e414a37893af9_720w.jpg?source=8673f162" alt=""></figure>
-<p>举个例子，</p>
-<p>普通低碳钢（铁）的摩氏硬度比玻璃低，</p>
-<p>所以虽然你用铁锤可以轻松砸碎玻璃，</p>
-<p>但很难划出印子。</p>
-<p>而翡翠的硬度在 6.5-7，比玻璃硬，则可以轻松留痕。</p>
-<p>所以如果你给爱车整一层玻璃外壳，</p>
-<p>就可以有效避免熊孩子划车这种糟心事。</p>
+<p><strong>种蘑菇的时候几乎接触不到孢子。</strong></p>
+<p>别说种的时候接触不到，</p>
+<p>大部分商业食用菌即使从接种到收获，也没多少机会能大范围接触到孢子。</p>
+<p>至于蘑菇孢子能不能在躯体上发芽，</p>
+<p>咱不妨了解下蘑菇是咋种出来的，就不会有这个疑问了。</p>
 <hr>
-<p>不过嘛，大家都知道，这事不现实，</p>
-<p>因为玻璃太脆了。</p>
-<p><strong>这个脆，就是韧性的体现。</strong></p>
-<p>韧性更像一个概念，没有单一参数量化，</p>
-<p>我们用锤子砸易拉罐会先变形，然后才会断开。</p>
-<p>像金属这样断裂前先变形的就是塑性材料，</p>
-<p>拉断为止能永久伸出多长的比例就是延伸率。</p>
-<p>主要反映的是延性。</p>
-<p><em>甭看了，金刚石几乎没有，这个参数用不着。</em></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c30aa32ebf5f2fc1bb7817e280a1df34_720w.jpg?source=8673f162" alt=""><figcaption>应力 - 应变曲线 D 的横坐标就是延伸率</figcaption></figure>
-<p>而用锤子砸玻璃则会直接碎成一地，</p>
-<p>这种破坏前几乎没塑性变形的，我们就称它为脆性材料。</p>
-<hr>
-<p>之所以有这个区别，</p>
-<p>主要原因在于分子之间链接的键不同。</p>
-<p>金属靠金属键连接，</p>
-<p>没有固定的方向和饱和性，</p>
-<p>允许晶体之间位错滑移或者孪生，产生塑性变形。</p>
-<p>你可以理解成金属原子靠类似磁吸的方式连接在一起，</p>
-<p>可以通过形变来吸收冲击。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0e306081aeb5324375984f9139c18fa0_720w.jpg?source=8673f162" alt=""></figure>
-<p>而玻璃，钻石等材料是共价键连接，</p>
-<p>有方向性和饱和性，</p>
-<p>你可以简单理解成乐高积木，</p>
-<p>只能按固定的插槽插接。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0ed2bb019af5afa9f83b3578aa6fa8b8_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以这类物质如果形成的晶体，往往有标准形态。</p>
-<p>比如雪花是由水分子按氢键方向组成六方晶系，</p>
-<p>最终出来的必然是六边形打底，造不出八边的雪。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-62f2a2527ca4b9cb02e5ed6dfb3339ef_720w.jpg?source=8673f162" alt=""><figcaption>水分子组建成雪花</figcaption></figure>
-<p>而像塑料这种高分子材料，</p>
-<p>由于其分子量巨大，就像一根根绳索互相缠绕，</p>
-<p>拥有更大滑移舒展的潜力，可以通过链段舒展卸力，韧性也就更大。</p>
-<p>我们也可以通过交联来限制分子链运动，增加强度，</p>
-<p>相对的韧性就会降低。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a34b1fbf94a029d5a531e002950d00ab_720w.jpg?source=8673f162" alt=""></figure>
-<p>当然，影响韧性的因素还有很多，</p>
-<p>比如宝石虽然在工程力学上是脆性材料，</p>
-<p>但软玉在宝石韧性里属于极韧，</p>
-<p>经得起精雕细琢。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-cbe54ac9daf4d8a7129e59f025d68922_720w.jpg?source=8673f162" alt=""></figure>
-<p>金刚石评级是脆，摔狠了都可能裂。</p>
-<p>只能进行切割（主要也雕不动。）</p>
-<p>而相同材质的黑金刚石，韧性评级却是极韧。</p>
-<p>之所以出现这个情况，</p>
-<p>原因就在于钻石是单晶体，</p>
-<p>一旦产生裂纹，应力就会顺着解理面一路撕开，</p>
-<p>就像你指甲旁的毛刺，一撕一片疼的嗷嗷叫。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-6bbfd3adce43ff6e9e4740a026c39f94_720w.jpg?source=8673f162" alt=""><figcaption>你看这个就出裂纹了</figcaption></figure>
-<p>而翡翠和黑金刚是是多晶集合体，</p>
-<p>由无数不同形态的小晶体交错咬合，组成交织结构。</p>
-<p>如果产生裂纹，无法快速从头裂到尾，</p>
-<p>韧性也就上去了。</p>
-<p>到这，恭喜你，</p>
-<p><strong>发现了韧性的一个重要参数，断裂韧性（KIC）。</strong></p>
-<p><strong>就是材料阻止裂纹扩展的能力。</strong></p>
-<p>举例来说，</p>
-<p>铁锤的断裂韧性约 50+，而钻石的只有 3.4，</p>
-<p>这意味着铁锤和钻石互砸，</p>
-<p>虽然钻石硬度更高，可以轻松给铁锤干出凹槽，</p>
-<p>但一旦破防产生裂纹，先碎的必然是我的玻璃心，</p>
-<p>毕竟钻石挺贵的，碎了心疼啊。</p>
-<hr>
-<p><strong>而多大劲能产生第一条裂纹，</strong>就得看强度。</p>
-<p>强度也是个大概念，有一大堆参数，</p>
-<p>和钻石有关的主要是抗压强度，抗拉强度等。</p>
-<p><strong>不过在现实世界这几个参数总感觉有点见不得人的 PY 交易。</strong></p>
-<p>举例来说。</p>
-<p>单晶钻石的抗压强度是天花板级别，大概在 9GPa</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-9148c636c7e76b703d07d995acfdd3dc_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果是来自四面八方的静水压力，</p>
-<p>极度抗压。</p>
-<p>但现实是丢液压机上没几下就不大行了。</p>
-<p>白瞎了这离谱的数值。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4fd555084521155b238b8499329a16ad_720w.gif?source=8673f162" alt=""></figure>
-<p>原因就在于材料被拉伸时会变细，</p>
-<p>被压缩时会变胖，</p>
-<p>这就是泊松效应，对应的参数是泊松比。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a37a3721ffb9bb6c04c9cccaeb8aae5e_720w.jpg?source=8673f162" alt=""></figure>
-<p>由于现实里侧向膨胀可能会受到约束或变形不均，</p>
-<p>就是不能完全涨开，</p>
-<p>这样内部就会产生侧向拉应力，</p>
-<p>这股拉应力就需要抗拉强度来抗。</p>
-<p>我们看液压机压东西，很多样件会先从侧边垂直裂开。</p>
-<p>一般就是这股拉应力在作妖。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8d3bff7a378214ce03eaaaa38848a54a_720w.gif?source=8673f162" alt=""><figcaption>液压机也一样。</figcaption></figure>
-<p>由于钻石的抗拉强度比较拉跨，</p>
-<p>只有 1050-3000MPa，远低于抗压强度。</p>
-<p>当拉应力过高的时候，</p>
-<p>很容易就出现抗压正欲死战，抗拉何故先降的乌龙。</p>
-<p>而对于钻石这种脆性材料来说，</p>
-<p>产生裂纹就很容易一破到底，彻底崩碎。</p>
-<hr>
-<p>除此之外，</p>
-<p><strong>单晶钻石还有一个非常致命的罩门——解理面。</strong></p>
-<p><strong>啥叫解理面呢？</strong></p>
-<p>简单说就是晶体原子会按一定顺序排列堆放，组成晶格。</p>
-<p>某些特定的晶面的结合力会特别弱，就有点像木头上的木纹，</p>
-<p>如果顺着木纹劈就更容易劈开。这个天生的弱点就是解理面。</p>
-<p>比如云母属于极完全解理，可以轻松剥成一片一片，</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-fe1a4d22c10f1d6c24a2e1d70df39490_720w.jpg?source=8673f162" alt=""><figcaption>云母片</figcaption></figure>
-<p>金刚石沿{111}解理，</p>
-<p>食盐沿{100}解理等。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7163167113a82bf98bfc132e0d741c37_720w.jpg?source=8673f162" alt=""><figcaption>金刚石解理面</figcaption></figure>
-<p>所以如果裂纹刚好顺着解理面产生，金刚石也会很容易被劈开。</p>
-<p>这就是为啥钻石明明三维巨高，</p>
-<p>却可能被锤子砸碎的原因之一。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-a138ee4af5fae426b00526871d7f4849_720w.gif?source=8673f162" alt=""></figure>
-<p>除此之外，</p>
-<p>常用的力学参数还有：</p>
-<p>弹性模量、剪切模量、体积模量、屈服强度、抗剪强度、断裂韧性、冲击韧性、疲劳强度、延伸率、断面收缩率、蠕变极限.....</p>
-<p>到这，真心奉劝大家，</p>
-<p>快跑！！！！！！</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-9995db7209d562d066b48b25be9adf05_720w.jpg?source=8673f162" alt=""></figure>
+<p>那蘑菇应该是怎么种出来的呢？</p>
+<p>咱得从拌料开始。</p>
+<p>由于不同菌类需要的拌料不同，咱就以比较简单的香菇为例。</p>
+<p>常见的通用配方并不复杂，</p>
+<p>大头是木屑，玉米芯等废料，大概占了 78%左右。</p>
+<p>辅料是麦麸，米糠之类，大概占了 20%，</p>
+<p>另外还有少量石膏等用于补充矿物质，外加复合肥，有机肥或糖作为添加。</p>
+<p>反正万变不离其宗，就这几样东西。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-28fce66467c39a96e585a1b5f36956f3_720w.jpg?source=8673f162" alt=""></figure>
+<p>相对来说木腐菌拌料比较简单，只需要注意木屑锯末等要先用生石灰堆酵处理几天，别在里面混入松木桃木樟木等木料即可。<sup>[1]</sup></p>
+<p>草腐菌就麻烦多了。</p>
+<p>比如双孢蘑菇，除了拌料要添加牛粪，</p>
+<p>还需要进行长时间高温堆肥和二次发酵后才愿意长。</p>
+<p>所以说起来你可能不信，你最爱的口蘑很大概率是一朵鲜菇插在牛粪上。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-0d680c7e20fd50e469c3ae8d920ef08e_720w.jpg?source=8673f162" alt=""></figure>
+<p>拌好料后堆放一天就差不多可以用来制作菌包了。</p>
+<p>一般用专门的塑料袋装好堆起即可，后续需要进行彻底的消毒。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-01577226662bb8d699b8f6852aa4d7bc_720w.jpg?source=8673f162" alt=""></figure>
+<p>大菇农有专门的高压蒸汽灭菌柜，可产生 120°C 以上的高温蒸汽，一两个小时即可。</p>
+<p>小农户则是用塑料布将其罩起来，</p>
+<p>然后在棚里烧一锅水蒸上差不多一整天，进行常压蒸汽灭菌。</p>
+<p>目前为止，一切都比较正常，咱要开始种蘑菇了。</p>
+<p>种蘑菇开始，麻烦就来了，</p>
+<p>首先第一点得尽量保持无菌环境，给种植室和种植工具等进行消毒。</p>
+<p>常用的工具一般两个，</p>
+<p>一个是接种枪，结构有点像老辈子用来压煤球的那个工具。</p>
+<p>找个现成长满菌丝的菌袋插进去，就能带出一部分菌丝，</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-54e1bd1f75f3a348ec28c90d3606330d_720w.jpg?source=8673f162" alt=""></figure>
+<p>另一个是打孔棒，就是一根带把的空心短管，用来在菌包上掏洞。</p>
+<p>所以种蘑菇就没孢子什么事。</p>
+<p>之后将菌包放到专门的架子上，或者整齐的对号，即可进入发菌过程。</p>
+<p>发菌过程应该是最省心的阶段，只需要将温度控制在 22~26℃即可，</p>
+<p>当菌丝占领大半的时候需要用签子给菌袋扎上一些透气孔，防止菌丝憋死。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-48639f74ad6a0f8a320455b380d5b280_720w.jpg?source=8673f162" alt=""></figure>
+<p>当菌丝长满菌袋，就意味着菌袋发育差不多了。</p>
+<p>就得考虑下骗菌丝长蘑菇了。</p>
+<p>为啥说骗呢？</p>
+<p>菌丝这玩意如果不进行刺激，长不长蘑菇全看心情。</p>
+<p>所以为了稳定高产，需要一个很重要的前置步骤，转色。</p>
+<p>转色要点有四个，温度，湿度，通风，光照，</p>
+<p>温度要控制在 18-22°C 之间，湿度在 85%-90%，<sup>[2]</sup></p>
+<p>每天通风半个点，持续照射散射光。</p>
+<p>这个过程看起来挺随意，实际特别麻烦，稍微一个没控制好，烂给你看。</p>
+<p>当菌包流出比较清澈黄水，整个变成棕褐色，表面形成一层有光泽的菌膜。</p>
+<p>就意味着转色完成，可以正式骗香菇长出来了。</p>
+<p>一般常见的方法就是往地面大量浇水，然后揭开遮阳物，模拟雨后的环境刺激蘑菇发育，</p>
+<p>此时注意温度不能高于 30°C，不然死给你看。</p>
+<p>不常见的就是用鞋底子抽菌棒一顿，让蘑菇知道你的厉害。</p>
+<p>一般受到刺激后没多久，就会长出小菇蕾，</p>
+<p>这个时候菇农就需要去除掉一部分塑料袋，防止风灌进去带走大量水分。</p>
+<p>如果菇蕾过多还需要进行疏蕾处理，保证质量。</p>
+<p><strong>看起来好像总算轻松了对吧？</strong></p>
+<p>不不不，更麻烦的来了，</p>
+<p>在蹲蕾期需要严格控制环境变化，</p>
+<p>初期将温度控制在 15-25°C 之间，湿度在 85-95%，<sup>[3]</sup><sup>[4]</sup></p>
+<p>不然即使已经冒出菇蕾，仍旧萎给你看。</p>
+<p>等蘑菇长出足够大小的时候，就需要在孢子喷射之前尽快收割送到市场，</p>
+<p>由于一个菌棒可以长好几茬，割的过程还得严格做好消毒，以防杂菌污染。</p>
+<p>总之，整个过程如履薄冰，稍微一个不对劲，这倒霉蘑菇就死给你看。</p>
+<p>你瞅瞅，就这么娇生惯养极度挑食的主儿，</p>
+<p>种起来都得小心翼翼防侧漏，</p>
+<p>你还指望它能在人身上寄生？</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-5d8c077f65e606f37118f43b7713f2e4_720w.jpg?source=8673f162" alt=""></figure>
+<p>事实上，真菌想长出子实体，首要条件是有大量菌丝，且有稳定的发育环境，这样才有机会扭结出大根。</p>
+<p>目前来说还未发现有既能寄生脊椎动物，又能长出子实体的案例。</p>
+<p>寄生昆虫等无脊椎动物的倒是有不少。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-283e64e0ae136e56fdfc35ca2cd9cca4_720w.jpg?source=8673f162" alt=""><figcaption>蝉花</figcaption></figure>
+<p>那新闻里的蘑菇肺难不成是假的？</p>
+<p>实际上吧，蘑菇肺的本质是过敏性肺炎，和孢子萌发就没一毛钱关系。<sup>[5]</sup></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/2091047513247703463">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/1949389063267260163">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793886</guid>
-                <pubDate>Wed, 11 Nov 2026 13:25:24 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793909</guid>
+                <pubDate>Wed, 11 Nov 2026 23:57:05 GMT</pubDate>
             </item>
             
             <item>
-                <title>为什么鱼龙已经进化出完美的流水线身体，还会被身体像蛇的沧龙所取代?</title>
-                <link>http://daily.zhihu.com/story/9793891</link>
-                <description>阿尔萨斯肉丸，⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ 精神蜥形纲 查看知乎原文 所谓“鱼龙是被新崛起的沧龙取代最终才灭绝的”说法本身就是个伪命题。从地质年代来看就会发现最后的鱼龙种群与最早的沧龙类之间还未发生正面交锋就失之交臂了，毕竟整个鱼龙目在白垩纪的森诺曼 - 土伦阶灭绝事件之后就彻底销声匿迹。而作为中生代海爬最后一抹余晖的沧龙，则是和非鸟恐龙、翼龙、蛇颈龙类等其他物种一道在白垩纪 - 古近纪灭绝(K…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-f467e66152582a529093e36a2bacb725.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>古代没有现代仪器，人们是如何提炼黄金的？</title>
+                <link>http://daily.zhihu.com/story/9793919</link>
+                <description>晴耕雨读的浣熊君，在知乎撂地的闲散科普创作者，争取每周双更 查看知乎原文 首先值得一提的是，需要被化学提炼的是岩金金矿，而早在人类普遍掌握混贡法、灰吹法前，从河道河滩里收集到的砂金是不太需要提炼，直接融化后就能得到纯度在 95%左右的金，拿在手上你会感觉这就是纯金。 这也是为什么我们在许多影视作品里，淘金者从河里过筛子时就能发现金光闪闪的金粒子，甚至更夸张的能捡到狗头金，这些金子就是经过河道冲刷物…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-1aab4ecb816d504d1636c84a6328bbc5.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -289,204 +151,71 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-e9a4bb9328c56e5744e68310c8e6084b_l.jpg?source=8673f162">
-<span class="author">阿尔萨斯肉丸，</span><span class="bio">⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄  精神蜥形纲</span>
-<a href="https://www.zhihu.com/question/358110700/answer/2082542614801396285" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://picx.zhimg.com/v2-cef37bf0392e114344d6b861bb1ba938_l.jpg?source=8673f162">
+<span class="author">晴耕雨读的浣熊君，</span><span class="bio">在知乎撂地的闲散科普创作者，争取每周双更</span>
+<a href="https://www.zhihu.com/question/2057509088380941679/answer/2058071791420101300" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p><strong>所谓“鱼龙是被新崛起的沧龙取代最终才灭绝的”说法本身就是个伪命题。</strong><strong>从地质年代来看就会发现最后的鱼龙种群与最早的沧龙类之间还未发生正面交锋就失之交臂了，毕竟整个鱼龙目在白垩纪的森诺曼 - 土伦阶灭绝事件之后就彻底销声匿迹。</strong><strong>而作为中生代海爬最后一抹余晖的沧龙，则是和非鸟恐龙、翼龙、蛇颈龙类等其他物种一道在白垩纪 - 古近纪灭绝(K-Pg)事件中灰飞烟灭。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-23b33123962012e1729a34a526925d7d_720w.jpg?source=8673f162" alt=""><figcaption>崖蜥和浮龙各自代表了整个沧龙超科在演化位置上的不同阶段，从看上去和蜥蜴没啥区别的半水生崖蜥到外观高度趋同早期鱼龙类的浮龙，沧龙家族从蜥到鱼的演化历程几乎与鱼龙如出一辙。图：X</figcaption></figure>
-<p><strong>尽管鱼龙类和沧龙类在演化关系上并没有任何亲缘联系，但它们所占据的生态位以及在外型上的趋同性都成为了研究不同物种之间发生平行演化案例的经典研究案例。</strong></p>
-<p><strong>沧龙的异军突起其实和三叠纪末期恐龙总目的全面崛起有着异曲同工之处，两个物种都是在一场扫除了竞争对手而留下空缺生态位的灭绝事件中因祸得福，最终趁势崛起成为优势类群。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0c35c189c919e99d8b4c3e4df026d4a9_720w.jpg?source=8673f162" alt=""><figcaption>侏罗纪时期相当繁盛的鱼龙类和昙花一现的海鳄类都是当时海洋中的主流捕食者，它们各自占据着不同的海洋生态位。图：Reddit</figcaption></figure>
-<p>所以说，纵观很多物种的演化历程就会发现这其中相当多的不确定偶然因素才是关键，它们的崛起并不一定总是“先进”取代了“落后”这么单一、简单的叙事模式，很大程度上其实都是因为生态位的真空给那些曾经处在边缘位置的物种有了“翻盘”的机会。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-1394f5902b234068bb29597aecb72720_720w.jpg?source=8673f162" alt=""><figcaption>鱼龙目的成员在体型上存在非常明显的分化，在食性上也各自有着不同的偏好但从化石证据来看，很多鱼龙的食谱中头足类占据了相当大的比例。图：DA</figcaption></figure>
-<p><strong>沧龙也并非如很多人以为的那样是导致鱼龙衰败的“掘墓人”，它只是那次灭绝事件中恰好抓住真空期逆袭成功的幸运儿罢了，即便没有沧龙出现也会有另一个边缘物种填补“上位”。</strong></p>
-<p><strong>不过有一点可以肯定的是：假如没有那场来自天外的飞来横祸打断了沧龙正处在上升期的演化进程，它们最终蜕变为鳞龙版的“鱼龙 2.0”也是板上钉钉的结果。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3bd1a17403ff8beb8ef1d4e0cb438041_720w.jpg?source=8673f162" alt=""><figcaption>一只鱼龙母亲正带着自己刚出生不久的幼崽上浮到海面换气，不远处一头蛇颈龙也正在换气。图：DA</figcaption></figure>
-<p><strong>当我们回溯鱼龙这个堪称中生代最为传奇的海爬明星绵延亿万年的演化史，就会感叹即便是如此成功具备完美流体力学的物种最终也无可奈何走向了沉寂。</strong></p>
-<p><strong>而戏剧性的是，接过它们衣钵的沧龙居然也在非常短的时间尺度内再次复刻了鱼龙曾经走过的演化道路，一步步的实现了从“蜥”到“鱼”的蜕变，只不过生不逢时的沧龙没能像前辈鱼龙和后辈鲸类那样完全实现“鱼形化”就黯然退场。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-35f5373daa46b66d463dcaa50ee2b58c_720w.jpg?source=8673f162" alt=""><figcaption>晨曦的朝阳下，一头板踝龙跃出水面呼吸着新鲜空气。它们是北美西部内陆海道最常见的沧龙类，这一幕仿佛预示着沧龙作为中生代海爬的末代绝响。图：Julio Lacerda</figcaption></figure>
-<p><strong>这也从侧面说明鱼龙这套“鱼形化”演化模板是成功且具备普适性的，除了沧龙外新生代的海洋哺乳动物——鲸类也走上了几乎与之相同的演化路线，可以说除了一些剑走偏锋的类群，“鱼形化”是绝大多是海生羊膜类的演化终极形态。</strong></p>
-<p><strong>物种从来不会主动的去选择自己演化的方向，它们只不过是在面临相同的自然选择压力下各自发生了殊途同归的被动适应性演化。</strong></p>
-<p><strong>只要一个衍征能够应对相同的环境选择压力确保种群能够一代代繁衍下去，那么这个性状就会在不同时空、不同地区和不同类群的物种身上反复出现。</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-7c7108eecd89d6f01fbfe414b1bdb844_720w.jpg?source=8673f162" alt=""><figcaption>生活在晚始新世时期的龙王鲸由于骨骼和外型高度类似沧龙曾一度被误认为是某种灭绝的海生爬行类，作为海洋哺乳类的它们也和沧龙一样经历了“面条型”身材→鱼型身材的过渡演变历程。图：见水印</figcaption></figure>
+<p>首先值得一提的是，需要被化学提炼的是岩金金矿，而早在人类普遍掌握混贡法、灰吹法前，从河道河滩里收集到的砂金是不太需要提炼，直接融化后就能得到纯度在 95%左右的金，拿在手上你会感觉这就是纯金。</p>
+<p>这也是为什么我们在许多影视作品里，淘金者从河里过筛子时就能发现金光闪闪的金粒子，甚至更夸张的能捡到狗头金，这些金子就是经过河道冲刷物理分离自矿石之中的产物。</p>
+<p>而黄金的熔点是 1064℃，这要比铜和铁要好处理很多，而且我们不需要完全将金融化成液态就可以加工，烧热后黄金就能被锤击成规则的颗粒或者金箔方便携带。</p>
+<p>所以如果我们捡到小金粒，甚至不需要熔炉，只需要坩埚和点木炭的篝火就能对纯度较高的砂金预处理成小金块随身携带，毕竟金砂颗粒太小，最好的方式还是用火将金融成小金豆子带走，而如果你有时间做磨具，烧化黄金后也可以铸造成金条。</p>
+<p>这一桥段在许多淘金热相关的影视作品中都有记载，从辽东老金沟到美国的加利福尼亚，全世界的淘金客使用的都是这一套手法。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7d5826e0170cad3533bcea107f1ebac9_720w.jpg?source=8673f162" alt=""></figure>
+<p>而在古代我们可以看到，历史上许多游牧民族，比如说黑海沿岸的斯基泰人，在希罗多德的记述中，就以向希腊世界出口金而闻名，并且斯基泰人墓葬中也出土过大量金制品，其中不少本身就源自于希腊工匠之手。</p>
+<p>而传说中伊阿宋寻找的金羊毛，被推测实际上指的是古高加索地区，当地人收集金砂的一种方式，当地人将羊皮铺在河道上。</p>
+<p>我们知道羊毛在水中就像一个天然的筛子，水流冲刷会让质量较大的金砂就会挂在羊毛上边，并且金光闪闪的很耀眼，这也与后世使用簸箕和盘子淘金有着相同的原理。</p>
+<p>这样的手法与工具或许各有不同，有用竹编笸箩的，也有用筛子过筛网的，但淘金的原理上是基本相同，没什么本质区别。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-4a27b53620944a93e5c20c8a14bea2d0_720w.jpg?source=8673f162" alt=""></figure>
+<p>但河道里不会平白无故出现金子，这一定也是河流搬运产生的作用，其源头就是后世人类开采的岩金金矿，这是金的原生矿脉，也就是我们平常所说的金矿，所以挖金矿和淘金其实是两个工种，前者是要挖开山体去开采矿脉。</p>
+<p>而淘金利用的，则是河水通过千百年的冲刷，其实是物理层面上剥离了金矿里边的杂质，并将其冲到河滩最后让人捡到了，当人们捡到时长期风化剥离之后，人们捡到的其实就已经是纯度非常高的黄金了。</p>
+<p>金矿属于热液矿，是在以亿万年为单位的地质活动中，沿着断裂裂隙向上运移而形成的，地壳中含金的热液最终会与石英一起沉淀，这其中金也会渗透到附近的岩石当中，含金的石英就被称为石英脉（Quartz Vein），而后者则是蚀变岩型金矿。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc16d860336c4f78d0bf855b9aa62221_720w.jpg?source=8673f162" alt=""><figcaption>这就是一块蚀变岩型金矿</figcaption></figure>
+<p>也是因为金在自然界里难以产生什么化合物，所以矿石里金光闪闪的那部分其实就是游离态的金，因为这种金不是化合物所以不需要化学反应，我们只需要将现成的金元素从这块矿石里分离出来就可以了，这是我们提炼黄金的原理和目的。</p>
+<p>所以古典时代，人们会使用混汞法提纯黄金，因为水银能够溶解黄金成为牙膏状的汞齐，这样金首先就与矿石中的岩石还有硫化物、氧化物分离开来。</p>
+<p>此时我们再用蒸馏器去加热汞齐，汞的沸点仅为 356.7℃很容易沸腾，这就意味着小火慢炖下，水银会迅速蒸发剩下的就是提取出来的海绵金了，而这些水银如果有条件也可以再次冷却回收，循环多次使用。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-976c3011b5fe271b13c0ce02a2ca9f2e_720w.jpg?source=8673f162" alt=""><figcaption>当然如果有条件挥发的水银也可以回收</figcaption></figure>
+<p>事实上这项技术可以说是欧洲人的祖宗之法，从罗马帝国一直用到了近代南美洲金矿，老普林尼在《自然史》中就记录了提炼黄金的奴隶需要用动物膀胱皮蒙住面部，尽可能减少熬汞齐时吸入肺中中毒，一直到 18 世纪这种方式才被氰化物提取法所取代，所以整个中世纪和近代，从欧亚大陆到南美洲各处的金矿我们都能看到这种提炼技术。</p>
+<p>当然贡齐法本身因为会用到水银，这中间产生的废液通常也会严重影响附近的水域用水安全，因为提炼黄金后掺杂着水银的废水会被随意排放污染水源，又因为这个原理简单大家都能模仿，所以在现代很多地区已经禁用贡齐法。</p>
+<p>水银融金还有一项逆炼技术，就是可以被用于鎏金工艺，如果我们想要在青铜器或别的什么物件表面涂一层均匀的鎏金，就可以用金贡齐将其包裹，然后加热使汞挥发，金就留在器物表面了。</p>
+<p>所以利用水银提取或重塑黄金这项技术在古典时代已经很成熟，而其影响也一直持续到现在。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-0f620bbe4e7dbdfaf1a614429915312e_720w.gif?source=8673f162" alt=""><figcaption>家里有富裕黄金和水银的可以试试（）</figcaption></figure>
+<p>经过了混汞法得到的金，依然含有很多杂质，是一块与金、银、铜融合而成的合质金，想要进一步提纯就需要耳熟能详的灰吹法了。</p>
+<p>将海绵状的合质金放在由骨灰或草木灰制成的多孔器皿中，再加入大量的铅一起加热，使用鼓风炉加热时，铅、铜等贱金属极易被氧化，生成黄绿色的密陀僧，也就是一氧化铅。</p>
+<p>这种液态的密陀僧，会被多孔的灰皿所吸收，然后我们将器皿中的固体取出来，灰皿扔掉吹干金属，最后剩下的就是金、银化学惰性极强，不被氧化的贵金属，根据矿石成分不同剩下可能是纯金纯银，也可能是金银合金。</p>
+<p>这就是所谓灰吹法的作用，而这项技术在《天工开物》中被称为“沉铅结银”，是用于提纯白银的，这一技术在 16 世纪左右的大航海时代里被世界各地的金银矿广泛使用，成为了当时先进生产力的代表技术。</p>
+<p>但是我们需要提纯的是黄金，所以到这一步我们还需要将合金中的金与银分离，这就需要食盐水泥法 (Salt Cementation)来帮助了，这指的是将金银合金锤打成极薄的片，然后将食盐与焙烧过的砖粉或硼砂混合放入坩埚中再次加热。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-84cb5044769fb8a1c90f4ce08db1e6c5_720w.jpg?source=8673f162" alt=""></figure>
+<p>食盐在二氧化硅、氧气等助剂作用下会产生氯气，它能选择性地与银反应，生成氯化银（AgCl）挥发掉，或被砖粉吸收，但金的惰性让其不会反应，这样我们去掉灰中杂质留下的这才是纯金，这就算提炼出来了，至此可以说我们在前工业化时代提炼黄金的步骤才全部走完，能做的我们都做了。</p>
+<p>人们相信这一技术出现在公元前 6 世纪的吕底亚，这也是后来希腊化时代制金的重要技术，也就是说在古代社会到这里我们才真正能从山中的金矿石里提纯出黄金来。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-18f16815c90f180da181b6d6f96c2e01_720w.jpg?source=8673f162" alt=""><figcaption>大都会博物馆收藏的吕底亚金币，这个狮币造型在西方社会也被视为金币始祖</figcaption></figure>
+<p>而这一技术同样在《天工开物》中有记载，而在明朝将白银融进黄金里，以此充数是黄金造假的一种典型手法，书中就是讲的如何分离这种金银合金的方式，通过试金石发现端倪后，就可以用灰吹法分离其中的黄金。</p>
+<p>其步骤是这样的，也是利用砖粉吸收，最后将合金分离再提炼就成了纯金了</p>
+<blockquote>“（造假的黄金）伪售者唯银可入，余物无望焉。欲去银存金，则将其金打成薄片，剪碎，每块以土泥果涂，入坩锅中，鹏砂镕化，其银即吸入土内，让金流出，以成足色，然后入铅少许，另入坩锅内，勾出土内，银亦毫厘具在也。”</blockquote>
 <hr>
-<p>无论是从物种灭绝的种类和数量还是对整个生态系统所造成的影响来看，森土灭绝事件显然都无法与更早之前发生的三叠纪晚期大灭绝和后面的白垩纪末期大灭绝事件相提并论。</p>
-<p>但这次规模有限的灭绝事件仍然对当时的陆地和海洋物种的生态位格局起到了一定的“洗牌”作用，只是由于它波及的种群范围没有那么广泛所以受到的关注度也没有那么大。</p>
-<p>以森土事件为分界点，自此之后的白垩纪陆生和海生脊椎动物的种群面貌都发生了明显的分化和重整，除鱼龙之外很多我们耳熟能详的动物都在这个时期消失了，包括棘龙、鲨齿龙、上龙等众多形形色色的代表类群都在 K-Pg 大灭绝到来之前就提前“下线”了。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-480ac618c51567348bf1db853d041dd5_720w.jpg?source=8673f162" alt=""><figcaption>正在黄昏下余晖映衬下捕食的棘龙，它们的未来也正如身后的落日一样即将沉入地平线，棘龙科和鱼龙一样也是这次灭绝事件中的最大受害者之一。图：DA</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-36d86b38cb4a61d89a92ef91c95bd366_720w.jpg?source=8673f162" alt=""><figcaption>上龙亚目（上龙类）作为侏罗纪中晚期的海洋顶级捕食者可以说风光无限，它们不仅会捕食中小型鱼龙也会对同为蛇颈龙目的蛇颈龙类下手，不过这样的场景随着森土灭绝事件的到来而不复存在。图：DA</figcaption></figure>
-<p><strong>森诺曼期 - 土仑期灭绝事件（Cenomanian-Turonian Boundary Event）作为</strong>白垩纪漫长地质史上发生的一次小规模灭绝事件，它对海洋生态系统的打击其实非常明显。</p>
-<p>这次由大规模缺氧所引发的海生物种灭绝事件导致海水中的碳循环发生了剧烈扰动，根据正碳同位素偏差显示当时海水中的氮、氧、磷、硫和铁循环也同样存在剧烈波动。</p>
-<p>伴随着酸度的升高，越来越多的碳酸盐溶解到了海水中并进一步释放出更多的二氧化碳，这种异常的海洋酸化现象结合海洋生物的异养呼吸作用不断加剧从而不断拉低了海水中的 PH 值。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8d98b60c48ef725e86296b3de617c6df_720w.jpg?source=8673f162" alt=""><figcaption>本图以百万年为时间尺度呈现了地球不同地质年代各期的海洋生物灭绝比例，其中包含了规模最大的五次灭绝事件，其中蓝色部份代表大致的灭绝属比例。图源：Wikipedia</figcaption></figure>
-<p>结果自然也是显而易见的，这场异常波动直接推波助澜的影响到了当时白垩纪海洋中顶级捕食者的生态位格局：</p>
-<p>从三叠纪开始就制霸海洋的鱼龙目自此跌下神坛、而曾经在侏罗纪叱咤风云的上龙类同样沦为这次事件的受害者，这两个昔日的海洋霸主就这样双双陨落。</p>
-<p>而幸存下来的蛇颈龙类最终则和后起之秀沧龙类一起重铸了中生代“海爬帝国”最后的辉煌，它们迅速开始辐射演化在这个千载难逢的间隙扩散开来直到另一场更可怕的灾难将“海爬时代”彻底终结。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-0bdce35e93443cf797c0699c61638691_720w.jpg?source=8673f162" alt=""><figcaption>群体出动的大眼鱼龙很可能会像现代的一些海豚科一样集体狩猎。图：DA</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7a951ceb1d2d717f4853ac14829672e6_720w.jpg?source=8673f162" alt=""><figcaption>部分鱼龙超目成员体型对比图，从三叠纪到早白垩纪鱼龙家族几乎绵延了整个中生代直到森土事件以后才彻底陨落，它们所缔造的演化奇迹直到后来也没有其他海爬能够超过。图：IG</figcaption></figure>
-<p>要论“辈分”的话，鱼龙目（Ichthyosauria）称得上是比恐龙总目还要更源远流长的类群，目前有记录的化石证据显示最早的鱼龙大致出现在距今约 2.5 亿年前的三叠纪，而此时真正意义上的恐龙总目尚未出现（最早的恐龙要到 2.3 亿年左右才会正式登场）。</p>
-<p>但即便是这些生存年代最早、最原始的鱼龙其形态结构也都显示出高度适应海生环境的特征，所以究竟鱼龙“下海”前的陆地祖先是谁、长什么模样目前依旧是古生物学界的一个谜题……</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-6625dfe11d0192cca3460cf0f2be55ed_720w.jpg?source=8673f162" alt=""><figcaption>中生代仅仅是一个白垩纪就长达 8000 多万年，其时间跨度甚至超过了整个新生代到目前为止的总长度。大部分的鱼龙在早白垩世的阿普第阶、巴列姆阶、豪特里维阶时期就消失了，泅龙作为延续到森土交界时期的鱼龙最终倒在了晚白垩世的门口。图：Wikipedia</figcaption></figure>
-<p>尽管现在有学者提出“鱼龙目可能演化自二叠纪的副爬行类”，但这一假说尚需更多化石证据来支撑因此准确性有待商榷，也因其独特的演化地位它们自成一派「鱼龙型下纲」与「主龙型下纲」和「鳞龙型下纲」并列为“龙形类（Sauria）”中的三大派系之一。</p>
-<p>令人唏嘘的是，鱼龙目最终在距今约 9000 万年前的白垩纪森诺曼 - 土伦阶之后销声匿迹，从灭绝时间来看它们依旧比恐龙早了约 2500 万年。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3beff0c9813b7c7c948dc77c936504b6_720w.jpg?source=8673f162" alt=""><figcaption>生活在三叠纪的湖北鳄虽然名字里面带有一个“鳄”但实际上它所在的湖北鳄目是鱼龙目的姊妹演化支，也代表了一个剑走偏锋的尝试。图：Reddit</figcaption></figure>
-<p>晚三叠纪~早侏罗纪这段时间算是整个鱼龙家族演化的巅峰期，此时的鱼龙目分化出了至少四个科的多个属种，从体长仅有 1 米的小型类群到最大体长超过 10 米的大个头应有尽有，无论是种群多样性和所占据的生态角色来看都完全不输后世的鲸类。</p>
-<p>其中的代表成员如：真鼻鱼龙属、鱼龙属、蛇嘴鱼龙属、狭翼鱼龙属、切齿鱼龙属和大眼鱼龙属等类群，它们虽然彼此体型上差异巨大但在外观上都无一例外的拥有纺锤状的流线型“鱼形化”躯体。</p>
-<p>这些最衍化、最成功的鱼龙就是被俗称为“中生代海豚”的鲔鱼型鱼龙类。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-51417cce404fef2f77cf344b69a07879_720w.jpg?source=8673f162" alt=""><figcaption>狭翼鱼龙是一类广泛分布于侏罗纪中晚期欧洲地区的中型鱼龙目成员，它们的化石数量很多说明它们是当时海洋中的优势性物种之一。图：DA</figcaption></figure>
-<p>实际上，鱼龙目的衰败并非是在一夜之间发生的而是经历了一个相对平缓且持续的递进过程，即便是在鱼龙公认的“黄金期”侏罗纪，当时的鱼龙种群虽然依旧繁盛但其多样性已开始减少，海洋顶级捕食者的位置也被大型化的上龙类把持着。</p>
-<p>这个时候的代表性鱼龙就是体长 4 米左右的大眼鱼龙（Opthalmosaurus）及其近亲，它们拥有几乎完美的“水滴型”身躯。</p>
-<p>大眼鱼龙硕大的眼眶和发达的巩膜环都说明它们能够在光线比较暗的深海中捕猎，鱼雷一般的流线型身材也让它们的游泳效率大大提升，从已发现的化石证据来看，各种头足类动物是大眼鱼龙日常最爱的食物。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cf096488bcc9e0c22b362dd4f66bb41c_720w.jpg?source=8673f162" alt=""><figcaption>大眼鱼龙拥有和海豚高度趋同的外型，它们硕大的眼眶显示出这是一种具备卓越视力的捕食者。图：DA</figcaption></figure>
-<p>当时间来到中生代的最后一个纪元——白垩纪之时，此时鱼龙的多样性依旧在持续下降中，迄今为止发现的白垩纪鱼龙类仅剩下 3 属且都是大眼鱼龙科（Ophthalmosauridae）之下的扁鳍鱼龙亚科（Platypterygiinae）的成员，分别是：</p>
-<p><strong>礁灵鱼龙属（Caypullisaurus）</strong></p>
-<p><strong>母椎鱼龙属（<em>Maiaspondylus</em>）</strong></p>
-<p><strong>扁鳍鱼龙属（Platypterygius）</strong></p>
-<p>最近几年的研究还发现在进入白垩纪之后到森土阶灭绝事件发生之前这段时间里，鱼龙的种群比我们此前认为的更多样化。</p>
-<p>2012 年的一篇论文显示：至少有 8 个血统的鱼龙成功跨过了侏罗纪~白垩纪边界，而到了白垩纪早期除新发现的泅龙外剩余的其他鱼龙几乎无一例外全都来自大眼鱼龙科，代表类群除上述提到的几个属外还有坚泳鱼龙属（Acamptonectes）和巧泳鱼龙属（Sveltonectes）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-34a882f26d5b29dd573c5a94d92844ea_720w.jpg?source=8673f162" alt=""><figcaption>正在一群大型菊石身边游弋的大眼鱼龙，它们是侏罗纪晚期~白垩纪早期最成功的一类鱼龙，日常主要以捕食小型头足类为主。图：DA</figcaption></figure>
-<p>白垩纪鱼龙的衰败过程大致可描述为两个阶段：森诺曼阶早期发生的第一次程度较小的灭绝使得当时三个属的鱼龙种群中的两个都消失了，一直坚挺的扁鳍鱼龙属顽强的存活到早白垩世的阿普第阶才灭绝。</p>
-<p>而第二次灭绝事件发生在森土交界时期，也就是规模更大、影响程度更深的海洋缺氧事件，剩余的鱼龙种群在距今 9000-9300 万年前左右彻底绝灭。</p>
-<p>由此也可以看出鱼龙在森诺曼 - 土伦阶灭绝事件发生之前其种群衰落的迹象就可见端倪，这个日渐凋敝的种群只不过最终因海洋系统发生的这次剧变加快了其走向灭亡的进程。</p>
-<p>此时鱼龙种群的未来仿佛那一轮缓缓坠入海平面的夕阳，被海水所湮没只是时间问题……难道它们真的没有未来可言了吗？</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-4ef4e585d09b77e3b6501d40ffe02c66_720w.jpg?source=8673f162" alt=""><figcaption>通俗秀尼鱼龙为代表的三叠纪巨型鱼龙类很早就实现了大型化，它们所达到的体型记录后世的海爬再也没有能企及到这个高度。图：见水印</figcaption></figure>
-<p><strong><strong>丨“时间的囚徒”</strong></strong></p>
-<p>就在所有人都认为整个鱼龙目即将就此陨落之时，一具来自伊拉克库尔德地区的化石却再次刷新了我们对这个物种顽强生命力的认知，它们的出现给处在风雨飘摇中的鱼龙家族带来了一丝新的希望，或许生命的火苗还不会就这样熄灭。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5d837736f4dbcfe8688883f951ebbf26_720w.jpg?source=8673f162" alt=""><figcaption>一头正准备浮出水面换气的泅龙，此时它们已经是白垩纪海洋中硕果仅存的几种鱼龙。图：Pinterest</figcaption></figure>
-<p>它就是——<strong>泅龙（Malawania）</strong>！</p>
-<p>正模标本出土自早白垩纪豪特里维阶~巴列姆阶的伊拉克北部库尔德斯坦，由瓦伦汀•费雪为主的多名古生物学家团队于 2013 年正式对外描述、命名。</p>
-<p><strong><strong>●分类:［鱼龙目 Ichthyosauria- 鱼龙科 Ichthyosauridae- 泅龙属 Malawania，模式种迷失泅龙 M.anachronus］</strong></strong></p>
-<p>迷失泅龙之所以引人关注是因为它们的外型特征比起前面提到的那几种白垩纪大眼鱼龙类更加原始，在分类位置上属于鲔鱼龙类中的基底群，同时也是鱼龙科中最后的成员。</p>
-<p>谁能想到这个生存在白垩纪早期的末代鱼龙反而与更早之前那些三叠纪晚期~侏罗纪早期的前辈更相似！要知道白垩纪最后的那几种鱼龙均属于大眼鱼龙科，而泅龙则是鱼龙科唯一幸存到白垩纪的幸运儿。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-000a55abad588c664d3681437a5ea175_720w.jpg?source=8673f162" alt=""><figcaption>迷失泅龙的外型和身体特征都高度接近晚三叠纪和早侏罗纪的鱼龙科成员，到它又是生存年代最晚的鱼龙科。图：DA</figcaption></figure>
-<p>而它的发现和命名过程同样命途多舛。</p>
-<p>迷失泅龙的正模标本最初由英国石油地质学家道格拉斯•麦可•莫顿达姆辛在 1952 年的伊拉克库尔德斯坦地区发现。</p>
-<p>随后的 1959 年，该样本被运回英国捐赠给自然历史博物馆然而直到 2004 年，也没有任何与之相关研究结果发布，仅在 1979 年有化石手稿发布在《古生物学 Palaeontology 》上，但却因无法准确描述该样本所存在的地层年代而遭到退回。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac34286abc71b8c012178f1001bb659f_720w.jpg?source=8673f162" alt=""><figcaption>模式种也是唯一有效种与人类的体型对比图，泅龙个头算中等整体看上去与那些年代更早的鱼龙科成员几乎没有区别。图：见水印</figcaption></figure>
-<p>时间来到 2013 年，这具快被遗忘的样本才最终得以被正式发表命名，通过孢粉学分析样本确认化石所属的地质年代为白垩纪早期的豪特里维阶至巴列姆阶之间。</p>
-<p>由于迷失泅龙在生理结构上比其他白垩纪鱼龙类更为原始，再加上最终测算出的生存年代让古生物家也颇感意外故而才有了这么一个奇特的名字。</p>
-<p>它的属名“Malawan”在当地库尔德语中的意思翻译过来就是“游泳者”，而种名则来源于拉丁语中“anachronus”一词，字面意思就是“迷失在时间中”。</p>
-<p>泅龙就像是一个被困在早白垩纪的孤独泳者，它没有同伴也看不到未来，只能像一个从侏罗纪穿越而来的时间囚徒般等待着命运的终点。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-185bed06d99a2a46ddeaebbc041ce172_720w.jpg?source=8673f162" alt=""><figcaption>泅龙作为相对基干的鱼龙科成员却生存在年代最晚的早白垩纪，不得不说是一个演化上的奇迹，它们就像一个突兀的“穿越者”孤独的游荡在白垩纪的海洋中。图：Wikipedia</figcaption></figure>
-<p>泅龙的每个眼疳骨（也就是眼眶前缘的成对骨头）的前端有一个空心，推测这可能是其泪腺所在的位置；除此之外它们的眼眶较长、向后投射的范围一直延伸到眼眶下方的一半长度、眼眶周围有 13 块骨头支撑形成的发达巩膜环，说明泅龙具有较强的深海潜泳能力。</p>
-<p>与大眼鱼龙科的成员不同，泅龙的颈椎骨除第一节的长度是其余颈椎的两倍外，剩余的颈椎长度均相同，并且它们的肋骨的前部分与椎骨的边缘也更圆润，神经棘还形成一个独特的梯形结构，这些都是泅龙所独有的鉴定特征。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-3d9d1cc578aa8453271640acef6d3679_720w.jpg?source=8673f162" alt=""><figcaption>泅龙的正模化石标本，其生理结构与那些侏罗纪的类群几乎别无二致。图：Wikipedia</figcaption></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-4aeeda53d69aad67d3a79450f07c6809_720w.jpg?source=8673f162" alt=""><figcaption>不同角度的泅龙复原图，它们和绝大多数鱼龙科成员一样都有着海豚那样的流线型身躯，它们的身体特征与三叠纪 - 侏罗纪时期的先辈几乎没有区别。图：DA</figcaption></figure>
-<p>泅龙当然无法凭一己之力扭转整个鱼龙家族江河日落的命运，但它的出现再次印证“镶嵌演化”现象确实是一个不常见但在多个物种身上都有出现过的演化小插曲。</p>
-<p>当最后一头泅龙环顾四周再也找不到一个同伴之时，这个从三叠纪横跨到白垩纪的古老血脉至此也划上了休止符，它们如同一个孤独的“穿越者”最终迷失在白垩纪蔚蓝的深渊中。</p>
-<hr>
-<p><strong>丨“宿命的轮回”</strong></p>
-<p>演化就是这么神奇且充满了戏剧性，作为有鳞目的沧龙它们的“下海”演化之路与鱼龙竟然发生了交集，尽管这两者素未谋面。</p>
-<p>其实如果你仔细观察就会发现最早的鱼龙外表看上去并不像海豚和鱼类，反而更像是长着鳍状肢的蜥蜴而且身材也普遍较为修长，这种从“面条型”的鳗鱼型身躯向“鱼雷型”的流线型身躯转变的过程在沧龙、鲸类身上也能看到。</p>
-<p>三叠纪早期~中期的很多基干鱼龙类的化石广泛发现于加拿大、中国、日本和挪威的斯匹兹卑尔根岛等地区，代表性的类群就包括：巢湖龙、短尾鱼龙，歌津鱼龙，它们几乎无一例外都没有背鳍也没有后来更进步的鲔鱼型鱼龙那样完美的鱼形身材。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-11291fa0f4a64751f010d78c2cead3f6_720w.jpg?source=8673f162" alt=""><figcaption>贝萨洛鱼龙是一类活跃在三叠纪的早期鱼龙目成员，化石来自今天的意大利地区。它们的身形已变得越来越流线型但依旧没有演化出完全对称的尾鳍和发达的背鳍，整体也较为修长类似鳗鱼。图：DA</figcaption></figure>
-<p>无独有偶，作为继任者的沧龙也完美复刻了先辈鱼龙曾走过的路。只是相比于鱼龙扑朔迷离的起源之谜，我们对沧龙类的演化过程掌握得更清晰明了。</p>
-<p>它们一路从类似崖蜥这样迫于生计选择时不时“下海”求生躲避捕食者攻击的小蜥蜴，到最终蜕变成晚白垩纪波涛中不可一世的巨无霸，沧龙确实算是边缘物种成功逆袭的典范。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-ff69f64a9596e373aaa769bb2ec9d88f_720w.jpg?source=8673f162" alt=""><figcaption>出土于意大利晚白垩纪早期特提斯海地层的一种海生蜥蜴，目前尚未有正式官方中文名。它们虽然并非是沧龙的直系祖先但在形态和习性上非常接近。图：X</figcaption></figure>
-<p>沧龙超科在中生代白垩纪最后的这 3000 万年里，迅速开枝散叶以惊人地辐射演化速度扩张到了几乎当时全球的所有海域，甚至还有部分成员进军淡水地带抢占鳄类的生态位。</p>
-<p>鱼龙和上龙灭绝之后空缺的海洋生态位迅速被各种形态大小不一的沧龙所取代，即便是同样幸存下来的蛇颈龙类也无法与沧龙竞争。这其中以沧龙属、海王龙属和倾齿龙属为代表的三个知名度最高、体型最大的成员也是很多人印象中最经典的沧龙形象。</p>
-<p>不过如果要说哪一种沧龙最接近鱼龙的外观形态，那就不得不提到一种生存在北美洲的独特沧龙成员——浮龙。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-2a4d0132356f1b3ffbc9f1e327b63828_720w.jpg?source=8673f162" alt=""><figcaption>正在捕食的白垩刺甲鲨。与沧龙一起崛起的还有鼠鲨目这样的软骨鱼类，它们不仅挑战着末代海爬沧龙的顶级捕食者地位还在接下来的新生代与新下海的海洋哺乳类竞争，可谓对手换了一波又一波它们依旧长盛不衰。图：DA</figcaption></figure>
-<hr>
-<p><strong>丨“莞莞类卿”</strong></p>
-<p>鱼龙身上的一系列高度特化的衍征既帮助它们成功统治中生代海洋但很可能也是导致其灭绝的原因：</p>
-<p>它们可能无法猎食那些新出现、速度更高、日渐繁盛起来的真骨附类鱼类，而沧龙和蛇颈龙虽然没有那么完美的“鱼形化”身材但却凭借着独特的快速突击方式捕食各种新兴的真骨鱼类。</p>
-<p>有不少人想当然的认为三叠纪的各种巨型鱼龙占据着类比今天大型须鲸的滤食性捕食者生态位，然而实际上这个生态位在鱼龙种群中并不存在。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d63477f32e4fe33460a1fe67e635ac4f_720w.jpg?source=8673f162" alt=""><figcaption>薄片龙科成员体型对比图。它所在的蛇颈龙类在森土阶之后的白垩纪晚期大放异彩，不仅成功的适应了上龙灭绝后留下的生态位还在同沧龙的竞争中很好的生存下来直到白垩纪末期大灭绝事件到来。图：IG</figcaption></figure>
-<p>早期的有一些鱼龙具有相对扁平的凸状牙齿非常适合粉碎贝类等甲壳类生物，因此它们中的部分种群扮演着浅海底栖捕食者这个角色。</p>
-<p>诸如秀尼鱼龙这样的庞然巨兽更接近巨食性捕食者，从鱼类、头足类到其他中小型海洋脊椎动物它们几乎来者不拒。</p>
-<p>来自 2013 年一项研究发现：这些大型鱼龙的舌基部舌骨骨化程度很低，根本无法支持它们像须鲸那样通过吸食的方式进食，巨型鱼龙更可能是通过不断在游动的过程中张开嘴巴向前收集鱼群、头足类食物，而它们的牙齿结构也有能力处理更大型的猎物。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-8cd65bcc11da4b44c3cac4d936eec322_720w.jpg?source=8673f162" alt=""><figcaption>正在觅食的两头本尼森浮龙，它们无论是习性还是外观都与其他沧龙有着很大区别，乍看上去会以为这是某种三叠纪的早期鱼龙。图：DA</figcaption></figure>
-<p>我们再说回沧龙。</p>
-<p>在自然选择的压力下沧龙快速的适应了海洋环境，越是后期的进阶型沧龙在外观形态上就越明显的褪去了蜥蜴的外表，向着鱼龙的模样靠拢。</p>
-<p>顺便说一句，外表与蛇类高度趋同的其实是伸龙科而非沧龙科，它们的外观形态和蛇类一样出现了明显的弱化四肢的趋势。</p>
-<p>言归正传。</p>
-<p>浮龙（Plotosaurus）属名的字面意思翻译过来就是“游泳的蜥蜴”，这是一种生存在距今 7200-6600 万年前的晚白垩纪马斯特里赫特阶的进阶型沧龙，模式种标本于 1942 年正式命名描述，化石来自美国加利福利亚的费雷斯诺县。</p>
-<p>正模标本由 54 块背椎、颈椎和尾椎组成，标本最初送到加州大学伯克利分校保存并进行更深入的研究。</p>
-<p>随后的 1938~1940 年间，加州理工学院的古生物学家又在科林加北部的莫雷诺地层发现了另外三个骨骼碎片，其中最完整的一具包括了一个颅骨、39 片前椎骨、一个肩带和前肢和尾椎残骸。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-2ba6fefd9b149f727a0a143837473d28_720w.jpg?source=8673f162" alt=""><figcaption>模式种与人类（1.8 米）的体型对比图，最大体长推测能达到 9 米，个头稍逊色于另一个种特氏浮龙。图：DA</figcaption></figure>
-<p><strong>●分类：〔有鳞目 Squamata- 沧龙总科 Mosasauroidea- 沧龙科 Mosasauridae- 沧龙亚科 Mosasaurinae- 浮龙属 Plotosaurus，目前有两个有效种本尼森浮龙 P.bennisoni（模式种）、 特氏浮龙 P.tuckeri〕</strong></p>
-<p>浮龙是当时白垩纪晚期北美地区最成功的一类沧龙，跟许多其他典型的沧龙成员相比，浮龙的诸多独有特征让它们显得独树一帜。</p>
-<p>比如它们的鳍状肢更为狭窄、尾鳍的尾叶更为巨大且有逐渐演变为更为对称的上下双尾叶结构的趋势、身体更加流线型并且可能有初级发育的背鳍、更加“鱼形化”的身躯让它们摆脱了那种鳗鱼式的左右扭动泳姿，因此推测浮龙的游泳速度可能比其他沧龙更快。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f524a54fe35e3980b1c6e883d955a511_720w.jpg?source=8673f162" alt=""><figcaption>浮龙具备更加发达的非对称双尾叶用以帮助它在水中快速推进，在功能结构上与现代的锤头鲨高度相似！研究表明它们主要依靠尾巴在水下驱动推进游动。图：X</figcaption></figure>
-<p>不仅如此，浮龙的眼眶也变得相当大显示出它们拥有相当不错的视力，而它们的牙齿也演变为更适应体表光滑、行动敏捷的真骨鱼类的翼状齿，在食性上也转变为更专性以鱼类为食而非其他大型脊椎动物。</p>
-<p>从食性上的特化程度来看，它们可以说与鱼龙当初专攻头足类的演化路线如出一辙！</p>
-<p>根据亲缘分支分类法研究结果发现，浮龙可能是所有沧龙科中最衍化的成员，但两个不同种的浮龙在生理结构和运动能力上也存在显著差异。</p>
-<p>模式种本尼森浮龙（P.bennisoni）得名于发现者阿兰.本尼森（Allan Bennison），最大体长估测约有 9 米，同时它也是在加州发现的首种沧龙类化石。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-8bdbcda0e5ce3fbc5e87fe10c785f841_720w.jpg?source=8673f162" alt=""><figcaption>浮龙属和海王龙属的颌骨结构形态解剖对比图，可以看到本尼森浮龙的嘴部结构和颌骨关节更适应鱼类这样的特定食物。简单来说，海王龙的骨骼结构依旧带有典型的蜥蜴特征颌骨开合度接近蛇类而浮龙无论是牙齿形态、颌骨结构还是眼眶都更像鱼龙。图：Nature</figcaption></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-d9ea5ba569bcad41c459d6c13bdda2cf_720w.jpg?source=8673f162" alt=""><figcaption>本尼森浮龙发现于晚白垩纪的美国加州地区也是该州出土的首个沧龙科成员的化石，它们代表了晚期沧龙的一个演化方向即：鱼龙化。图：DA</figcaption></figure>
-<p>另一个有效种特氏浮龙（P.tuckeri）则是在 1937 年由由威廉.特克纳（William M.Tucker）发现命名，相比模式种它知名度没有那么高但体型却更硕大，成年后的最大个体估测能达到惊人的 12-13 米！</p>
-<p>但特氏浮龙的“鱼形化”程度反而没有本尼森浮龙那么深，它们的游泳速度也相对更慢。</p>
-<p>来自加州理工学院的对比研究发现：与模式种相比特氏浮龙的椎骨数量更多且它们的颅骨形态也没有那么衍化、额骨没有向后延伸、翼状齿数量较少、松果孔也更小。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-d30f66b25caaa902d3937580da0032eb_720w.jpg?source=8673f162" alt=""><figcaption>本尼森浮龙的身躯由于变得更为流线型因此它们的游泳效率也更高，发达的尾鳍让它们的运动姿态摆脱了更为原始的鳗鱼型泳姿，大大提升了机动性。图：Reddit</figcaption></figure>
-<p>实际上尾鳍和背鳍的强化在鱼龙的演化路径上早就提前给沧龙预演了一遍。</p>
-<p>在不少早期的原始鱼龙复原形象中几乎都省略了背鳍和尾鳍的存在，本身这些结构作为软组织就相对更难保存为化石但我们还是可以根据其骨骼结构特征进行推测还原。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3d74c22509b72c37ded422fa98420193_720w.jpg?source=8673f162" alt=""><figcaption>从原始的歌津鱼龙到进阶的大眼鱼龙，鱼龙目的身形从蜥蜴外观演变为高度流线型的鲔鱼形态，在这个过程中它们的背鳍和尾鳍也在不断强化。图：Nature</figcaption></figure>
-<p>无论是沧龙、鱼龙还是现代的鲸类，这些海生羊膜类的背鳍和尾鳍都没有坚硬的骨骼作为支撑，本质上是由特化的肌肉和皮肤组织形成而来的软组织。</p>
-<p>作为典型的海生爬行类，沧龙和鱼龙的尾椎骨在后期均走上了相同的特化方向，即：将脊椎骨末端向下弯曲形成一个下尾叶，而上尾叶则没有骨骼支撑完全由隆起的肌肉组织构成，最终上下尾叶合在一起形成一个类似弯月的垂直桨状尾鳍作为推进器。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-591df3c5759688b002e58e92a95e11fb_720w.jpg?source=8673f162" alt=""><figcaption>狭翼鱼龙是一种广泛分布于西欧地区的鲔鱼型鱼龙，可以清晰地看到它们的尾椎骨向下弯曲延长用于支持肉质的下尾叶，这点在沧龙身上也能看到。图：Nature</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-94baa76f4ad5d642b5e94e0e46c96234_720w.jpg?source=8673f162" alt=""><figcaption>很多沧龙在后期都演化出不对称的下歪尾鳍，这和鱼龙的尾鳍演变模式几乎完全相同。两者的尾鳍均是由尾椎骨向下弯曲形成而来，这和鲸类这样的海生哺乳类有明显不同。图：DA</figcaption></figure>
-<hr>
-<p><strong>●分类:〔有鳞目 Squamata- 沧龙总科 Mosasauroidea- 沧龙科 Mosasauridae- 沧龙亚科 Mosasaurinae- 巨鳍龙属 Megapterygius，模式种和歌山巨鳍龙 M.wakayamaensis〕</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a4aa38f2e6725dc849d3cd6679a9c6e_720w.jpg?source=8673f162" alt=""><figcaption>正模标本保存度较为良好，除了尾椎骨之外大部分部位都完整的保留下来。图：Nature</figcaption></figure>
-<p>几乎同一时期，在北半球今天日本海域还活跃着另一种同样高度“鱼龙化”的晚期沧龙，并且它们还演化出更为夸张的鳍状肢和背鳍。</p>
-<p>巨鳍龙（Megapterygius）的属名直译过来就是“大翅膀”，正模标本来自日本晚白垩世的鸟屋城组（Toyajo Formation）长谷川泥砂岩段，目前该属唯一有效种就是模式种和歌山巨鳍龙（M.wakayamaensis）。</p>
-<p>正模标本(编号:WMNH-Ge-114024002)保存度较高，由一个头骨、一段完整的颈椎骨和背脊组成，共计包括了 40 多块脊椎、肋骨、两个前鳍状肢和左后鳍状肢碎片。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-73fb6fc52319cf8a5710b809ba961776_720w.jpg?source=8673f162" alt=""><figcaption>和歌山巨鳍龙的外型看上去就像是有着四个巨大鳍状肢的早期鱼龙，其形态特征非常独特。图：DA</figcaption></figure>
-<p>2023 年，古生物家小西（Konishi） 和团队根据这些化石遗骸正式将其描述命名。</p>
-<p>属名“Megapterygius”分别由古希腊语里的"megas（巨大）"＋"pterygion（翅膀）"两个词根组合而来，用来形容它们异常硕大类似翅膀的两对鳍状肢；种加名“wakayamaensis”则为了纪念化石发现地和歌山县。</p>
-<p>由于巨鳍龙是少有的公布有和名汉字称呼的古生物，因此中文名无需翻译直接将日本语中的「和歌山滄竜」转写过来即可。<strong>（*Soryu 一词在日本语中特指代「沧竜」）</strong></p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-c73eab275f8b3395f25a26db0fab17e9_720w.jpg?source=8673f162" alt=""><figcaption>模式种与成年智人的体型对比图，它们是一类中型的沧龙科成员。图：Wikipedia</figcaption></figure>
-<p>作为一类中等体型大小的沧龙科成员，巨鳍龙的头骨长度约有 0.8 米、身长最大在 6 米左右，虽然个头并没有特别显眼但它们的四肢比例却尤其夸张。</p>
-<p>大部分沧龙都是前鳍比后鳍更长，而巨鳍龙则不同它们的后鳍甚至还略微比前鳍更长且四肢的长度甚至超过了头骨的长度，这一独有衍征在任何其他沧龙身上都见不到反而倒是有点像侏罗纪那些靠后肢驱动游泳的海鳄类。</p>
-<p>值得一提的是，巨鳍龙应该也是为数不多有确凿证据显示有背鳍发育的进阶型沧龙。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-a5e27b7cbf3ed2a708e4e44ddfa3a997_720w.jpg?source=8673f162" alt=""><figcaption>巨鳍龙的背鳍可能比较靠前，它们也是少数几种有证据显示发育有背鳍的沧龙类。图：DA</figcaption></figure>
-<p>分布在它们后背椎的神经棘中至少有五个向前突出，这一特征在现存的海豚科身上尤为明显，其突出的对应的部位正是背鳍的基部。</p>
-<p>由此推测巨鳍龙的背鳍可以保证它们在水中快速游动时提供必要的稳定性，这显示出后期沧龙的流体力学结构不断加强越来越向鱼龙的外观靠拢。</p>
-<p>除此之外，研究人员还发现巨鳍龙的肱骨呈鞍状结构且内侧更厚，这表明它们的前鳍内收、外展和前伸、后缩的幅度范围很大，从而能更灵活快速的操控鳍状肢的角度。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-3a9beb81fab4298f987851dc43f7b5bf_720w.jpg?source=8673f162" alt=""><figcaption>巨鳍龙的双目视觉让它们在水下捕猎时能够更为敏锐的觉察到猎物。图：DA</figcaption></figure>
-<p>沧龙和鱼龙一样并没有演化出现代齿鲸的回声定位能力，因此视觉对于这些海生蜥形纲而言就显得尤为重要。</p>
-<p>巨鳍龙的眼窝周围的头骨面积略宽显示出它们具有良好的双目视觉，这也让它们成为继磷酸盐龙之后第二个明确拥有双目视觉能力的沧龙，发达的双目视觉能够让它们更精准的锁定捕食目标从而提高捕食的成功率，这也是很多顶级捕食者都有的共同特征。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-eb1fe096eb57eee7f58f4f6019353f30_720w.jpg?source=8673f162" alt=""><figcaption>跃出水面的巨鳍龙，这种中型沧龙可能会集体出动觅食。图：DA</figcaption></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-549c00c3f7eed34e19714efb7d234f3a_720w.jpg?source=8673f162" alt=""><figcaption>参考同样鱼龙化的浮龙，巨鳍龙大概率也有一条下歪尾叶的尾鳍用来快速推进身体游动和转向。图：Reddit</figcaption></figure>
-<p>尽管由于保存状况不佳导致巨鳍龙正模标本的尾巴结构形态并不明确，但考虑到它们和浮龙一样趋同的“鱼龙形”外观推测，巨鳍龙很可能也长着一个比较对称的新月形尾鳍。</p>
-<p>发达对称的尾鳍有助于它们游泳时快速推进和急速转弯，结合其头骨形态和独特的鳍状肢小西教授认为：巨鳍龙不仅捕食各种快速游动的鱼群，还能制伏一些体型更大的脊椎动物。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-cba2bf4f5fee8d6fb29208c888d95cca_720w.jpg?source=8673f162" alt=""><figcaption>巨鳍龙虽然主要以各种鱼类为食但它们也有能力捕食更大型的猎物，如果它们采取团队协作那么成功率会更高。图：DA</figcaption></figure>
-<hr>
-<p><strong>■结 语</strong></p>
-<p>鱼龙目作为一个横跨三叠纪、侏罗纪、白垩纪的“三朝元老”书写了整个“中生代海爬帝国”中最壮美的篇章，从横空出世到巅峰盛世再到落寞退场，研究它们的兴衰历程能更直观的帮助我们认识到物种演化的规律。</p>
-<p>并且这个物种一直在刷新我们对“海爬”的刻板印象。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7ab41f008b2ecd88040c46fae5d59074_720w.jpg?source=8673f162" alt=""><figcaption>正在分娩的狭翼鱼龙，它们分娩的时候与现代鲸类一样是幼崽的尾部先出来而头部更后，这样可以避免新生儿在海水中窒息。图：DA</figcaption></figure>
-<p>2017 年，在德国一处距今约 1.82 亿年前的碳酸盐地层中出土了一具狭翼鱼龙（Stenopterygius）的椎骨，而这些椎骨碎片的不寻常之处就是保留下许多富含胶原蛋白纤维、胆固醇、血小板和红细胞、白细胞沉积的痕迹。</p>
-<p>由于这些组织结构并不会因为活体的死亡而石化，因此就成为识别生物分子的原始有机组织的鉴定特征。</p>
-<p>有趣的是，狭翼鱼龙骨骼中发现的这些红细胞大小只有现代海洋哺乳类的 1/4~1/5，考虑到侏罗纪托阿尔阶（Toarcian）这一时期的海水含氧量更低，因此这很可能也是狭翼鱼龙对缺氧环境下呼吸的一种适应性演化。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-319eac4cf92a76363a16113cf2e99e1e_720w.jpg?source=8673f162" alt=""><figcaption>狭翼鱼龙和许多现代鲸类一样拥有发达的皮下脂肪组织，并且从沉积下来的黑色素显示它们的体表很可能呈现出黑白分明的颜色。图：Reddit</figcaption></figure>
-<p>更让人意想不到的是在 2018 年，古生物学家又在另一具狭翼鱼龙的化石遗骸中发现了皮下脂肪存在的证据，由此证明有些鱼龙和现代的鲸类一样拥有发达的脂肪组织从而能够在温度更低的海域生存，也进一步验证了它们是高代谢率、恒温的海生脊椎动物。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-6e3316bde24a1f58bda4233960471f1b_720w.jpg?source=8673f162" alt=""><figcaption>当最后一头鱼龙的身体沉入海床之上的时候，属于这个传奇海爬家族的传奇就此落幕。图：X</figcaption></figure>
-<p><strong>鱼龙也好、沧龙也罢，这两个看似完全不相交的物种却因为面临相同的自然选择压力走上了相同的演化轨迹。</strong><strong>无所谓谁取代谁或者哪一个更“进步”，毕竟浩瀚的海洋永远不缺挑战者，没有一个物种会永远立于不败之地。</strong><strong>［THE END］</strong></p>
+<p>这里是浣熊君，一个在知乎撂地的闲散作者</p>
+<p><a class="internal" href="https://www.zhihu.com/question/2057188211181592779/answer/2057712248139821733">中国古代为什么对狗评价不高?</a><a class="internal" href="https://www.zhihu.com/question/2056169026649331329/answer/2056636013951324898">红豆和绿豆的区别在于什么地方？</a><a class="internal" href="https://www.zhihu.com/question/2053180030927254802/answer/2053742480017961602">为什么草原只长草不长树呢？</a></p>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/358110700">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2057509088380941679">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793891</guid>
-                <pubDate>Wed, 11 Nov 2026 13:25:25 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793919</guid>
+                <pubDate>Wed, 11 Nov 2026 23:57:05 GMT</pubDate>
             </item>
             
             <item>
-                <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9793901</link>
-                <description>瞎扯 · 能告诉我一些冷知识吗，哪方面都可以? 知乎日报 查看知乎原文 Q： 能告诉我一些冷知识吗，哪方面都可以? @陈二狗 ：他这个叫包葫芦头，意思是你们看着捐，剩下不够的差多少他自己一个人包圆。 Q：你做过最抽象的事情是什么？ @山人 ：我表姐办公桌上放了一个分隔装满五谷杂粮然后用玻璃密封的摆件。本身寓意五谷丰登。后来里面生了虫。我表姐也不管，任由虫子在里面吃喝拉撒、繁衍生息，四处蠕动。她每天…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>国外有哪些特别的古代手抄本？</title>
+                <link>http://daily.zhihu.com/story/9793921</link>
+                <description>禄琳琅，百代之过客 查看知乎原文 《魔鬼圣经》 /《Codex Gigas》 这是世界上现存最大的中世纪手抄本，《魔鬼圣经》是中文译名，原名是《Codex Gigas》，拉丁语“巨大的书”的意思。这本书的出现、内容和装帧，都很值得说道。 有多大呢？全书长度为 92 厘米，宽度为 50 厘米，厚度为 22 厘米，是全世界已知的、最大的中世纪手抄本书籍。全书重量计 75 公斤。 全书最初有 320 张…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-49201b3d660ac156ffff8335de67a899.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -501,56 +230,124 @@
 
 
 <div class="question">
-<h2 class="question-title">瞎扯 · 能告诉我一些冷知识吗，哪方面都可以?</h2>
+<h2 class="question-title"></h2>
 
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-4bf1775798df85cb0f0dfec0826a669f_l.jpg?source=8673f162">
+<span class="author">禄琳琅，</span><span class="bio">百代之过客</span>
+<a href="https://www.zhihu.com/question/2051045533939241274/answer/2051058895276320091" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p><strong>《魔鬼圣经》 /《Codex Gigas》</strong></p>
+<p>这是世界上现存最大的中世纪手抄本，《魔鬼圣经》是中文译名，原名是《Codex Gigas》，拉丁语“巨大的书”的意思。这本书的出现、内容和装帧，都很值得说道。</p>
+<p>有多大呢？全书长度为 92 厘米，宽度为 50 厘米，厚度为 22 厘米，是全世界已知的、最大的中世纪手抄本书籍。全书重量计 75 公斤。</p>
+<p>全书最初有 320 张羊皮纸构成，取自 160 张整羊羔皮，后来有 8 张被删掉了，至于是谁、出于什么目的和原因删掉这 8 张，没人知道。</p>
+<p>这么大的一部书，装帧超级奢华，奢华到见惯了豪装西书的人，也要赞叹不已。书的内页用了红、黄、蓝、绿和金作为装饰色，每段的段首字母都有精心装饰，据说抄完这部大书，至少需要 20 年。先看有多奢华吧，看看图，醒个神，再去说内容：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bc0e0f71625a05029edfee24b36e98be_720w.jpg?source=8673f162" alt=""><figcaption>封面</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-db0cb972282f007c8c7c76d60f4d838b_720w.jpg?source=8673f162" alt=""><figcaption>书底</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-f9801976f60d56b7b4e841f8d04be84c_720w.jpg?source=8673f162" alt=""><figcaption>细节一</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2ba5a5ff5c14cdd155beb86e0094e4aa_720w.jpg?source=8673f162" alt=""><figcaption>细节二</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-5fa5ffd48fc109ea1a68022693131588_720w.jpg?source=8673f162" alt=""><figcaption>书的内部</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8050e4dc2a6c0425c37639f20d55a5f3_720w.jpg?source=8673f162" alt=""><figcaption>内部细节</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-9abf20b8587b37e4290fccc68067dd0c_720w.jpg?source=8673f162" alt=""><figcaption>内页一</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-7477f021f9e2784bf3bb4dfc00500d7d_720w.jpg?source=8673f162" alt=""><figcaption>内页二</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-e64dcc7195dbb0c68e270710be87cdeb_720w.jpg?source=8673f162" alt=""><figcaption>内页三</figcaption></figure>
+<p>这本书是 13 世纪初抄写于波希米亚地区（今捷克西部）的一所本笃会修道院里，修道院毁于 15 世纪，这部书后来被布拉格的本笃会修道院买下，1477 年到 1593 年间，一直存放在布劳莫夫的修道院中。</p>
+<p>1594 年，《魔鬼圣经》作为礼物献给了神圣罗马帝国的皇帝鲁道夫二世。</p>
+<p>1648 年，三十年战争结束时，神圣罗马帝国皇帝的收藏被瑞典军队带走，这部书也作为战利品之一，被带到斯德哥尔摩，后来的 300 多年里，一直收藏在瑞典皇家图书馆。</p>
+<p>这本书的内容其实是中世纪的“百科全书”，全部用拉丁文写成。内容包括完整的《武加大译本》圣经，这是当时天主教的官方拉丁文版《圣经》，以及犹太古代史、地方编年史，和一些医学、日历、咒语等。</p>
+<p>它最吸引当代人的，是书中有一张整页的魔鬼撒旦画像，魔鬼头上是真的有长角的，手和脚是四趾，有尖爪。还穿着小裤衩。不知为什么，我看到这幅图，居然觉得有点像中国的龙。</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-0ade7a1c7c6231ab7c9a9fcfedd98d7d_720w.jpg?source=8673f162" alt=""><figcaption>第 577 页的撒旦像</figcaption></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-46355ced467f2ad32156392013343088_720w.jpg?source=8673f162" alt=""><figcaption>第 576 页的天堂</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-09bb7221b4e42c207c876d4147cbdfe4_720w.jpg?source=8673f162" alt=""><figcaption>天堂细节</figcaption></figure>
+<p>魔鬼画像的旁边一页，还画着“天上的耶路撒冷”，天堂和地狱就这样紧紧的挨在一起。果然是“一念天堂，一念地狱”啊！</p>
+<p>据说抄写这本书的是一位修士，因为犯了清规要处死，处死的方式是活埋。这位修士为了活命，宣誓说可以在一夜之间制作一本书出来，这本书包含了所有人类的知识，以此来彰示修道院的荣光。但是，这么大的书怎么可能一夜之间完成呢？于是他把灵魂卖给了魔鬼，魔鬼帮他完成了这部书，并且在书的最后画上了撒旦的画像，以增加魔力。</p>
+<p>你信不信？</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ac1bc62cfb6af1bf8d950d82904db83f_720w.jpg?source=8673f162" alt=""><figcaption>嗷呜！吓死你们！</figcaption></figure>
+<p>故事是很好听的，跟中国古代神话如出一辙。</p>
+<p>专家们肯定不会相信这种传说。这么大的一部书，笔迹从头至尾一致，他们仔细观察了每个字母的起笔、顿笔角度，下笔的力度，包括使用的墨水，可以肯定所有书页出自同一个人，而每一个字母、插图都是同一人完成，至少需要 20 年时间。</p>
+<p>有意思的是，针对这部书的研究，也用上了现代高科技。</p>
+<p>法医和古文字专家们对书中的墨水进行了微观化学分析和光谱打靶，这种墨水被称为“铁胆墨水”，是从<strong>栎瘿</strong>等植物中提取鞣酸或没食子酸，再加入硫酸亚铁（绿矾）和增稠剂（如阿拉伯胶）混合而成。</p>
+<p>他们发现，全书使用的铁胆墨水具有惊人、纯粹的同质性。这说明全书是在同一地方、使用完全相同配方且连续的工艺下制成的，直接在物理和化学层面打破了“此书是由几代僧侣伪造或拼凑接力完成”的猜想，它就是一个人干的！</p>
+<p>不是我。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-8e6b706ecbc9c32fba98eb9a1e9810e3_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-958c69c8081375f4a4162a1f0ba3a974_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-e8f02ad39d14c777b6bcc101d453c36d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-b341369032be38b341fdd0c29e22ada1_720w.jpg?source=8673f162" alt=""></figure>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/2051045533939241274">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793921</guid>
+                <pubDate>Wed, 11 Nov 2026 23:57:06 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>瞎扯 · 如何正确地吐槽</title>
+                <link>http://daily.zhihu.com/story/9793923</link>
+                <description>瞎扯 · 外国人眼中的汉字是怎样的？ 知乎日报 查看知乎原文 Q：​ 外国人眼中的汉字是怎样的？ @夏小年 ：一个外国朋友看到「曼」字，说从中间切开就是两个 MAN ，我真是服了！ Q：网传《 offer8 》「垫钱姐」周沁瑶论文疑似造假，已经面临延毕，她的论文疑点可能在哪里呢？ @Daisukidesu ：只能这么解释了Offer 8 以身入局配合中央巡视组新一轮对于高校的巡视活动誓要将医学界学…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">瞎扯 · 外国人眼中的汉字是怎样的？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
 <span class="author">知乎日报</span>
 <a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/581759223/answer/2094207827141195596"> 能告诉我一些冷知识吗，哪方面都可以? </a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/35963650/answer/2096302769367933595">​ 外国人眼中的汉字是怎样的？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/11d7431e9f85153db7a1f60036e456a2" target="_blank">@陈二狗</a></div>
- ：他这个叫包葫芦头，意思是你们看着捐，剩下不够的差多少他自己一个人包圆。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-886f2dd47c667aaf705d95d08a0c08a2_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/607624912/answer/1985300562435143422">你做过最抽象的事情是什么？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/1582c31804d43e4818b4fa50ec2681f1" target="_blank">@夏小年</a></div>
+ ：一个外国朋友看到「曼」字，说从中间切开就是两个 MAN ，我真是服了！</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2099515931827201374/answer/2100190711165498738">网传《 offer8 》「垫钱姐」周沁瑶论文疑似造假，已经面临延毕，她的论文疑点可能在哪里呢？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/f57ba3b3aa351ed11a50096fd5456739" target="_blank">@山人</a></div>
- ：我表姐办公桌上放了一个分隔装满五谷杂粮然后用玻璃密封的摆件。本身寓意五谷丰登。<br>后来里面生了虫。<br>我表姐也不管，任由虫子在里面吃喝拉撒、繁衍生息，四处蠕动。<br>她每天隔着玻璃框观察。<br>后来同事们也加入了观察的行列。<br>她的同事们认为这属于先驱、前卫艺术，或可划于行为艺术范畴。<br>过了个周末，一上班被知乎消息弹窗淹了。摘录几个天赋怪的回复：<br>蛆块链、先蛆艺术<br>突然想到，这不就是「谷物尸体变化图鉴」的现场版吗</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/568248345/answer/1954141095576470554">为什么学编程都建议不要用拼音命名？</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/4a2a049f4c2d54cf4c05b1ef078b36b4" target="_blank">@Daisukidesu</a></div>
+ ：只能这么解释了<br>Offer 8 以身入局<br>配合中央巡视组新一轮对于高校的巡视活动<br>誓要将医学界学阀风气一扫而空</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2099419745036650047/answer/2101000052953167849">如何看待 10 元快剪正暴打全国的「设计总监」？ </a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/70ac9ee20d94c2b126fc44ba8a311cd8" target="_blank">@心试</a></div>
- ：因为当你习惯用拼音后，有可能也会认识一个叫孙军的黑客...</blockquote>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d92e9e605b7e51dedff7f72434b0a3c9" target="_blank">@赤石神殿</a></div>
+ ：知道吗，我已经三年没有花过理发的钱了。以前至少两个月去一次，每次 30 ，一年大概节约 180 ，三年节约 500 左右。但是，剃光头这玩意费刮胡刀啊。这三年下来，我至少换过 3 个刮胡刀了。哦，洗发水也省了不少，具体多少没法估计。总的来说，至少还是省了不少时间。</blockquote>
 <figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pica.zhimg.com/v2-6f08d7cde8c4510bce08bfd6d9f7d55a_1440w.jpg" alt=""></div>
+<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-dc64c2f968d0651d9d26d59f0ca63c29_1440w.jpg" alt=""></div>
 <figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/36412943/answer/2096258870037439557">为什么现在小孩的名字都这么俗？</a></p>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2063638001322816885/answer/2086850648289568451">许家印家族当年生活奢靡到什么地步？</a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/06f7dac2da68985244f0fcc49313be54" target="_blank">@ZLKCJNB</a></div>
- ：没有红果短剧之前，我认为这些名字是很雅的</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-d3d3c3ca138b8e48a9c0e0bf5bc713ea_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/309374681/answer/2088335097401436052">你听过最有趣的外号 (称呼) 是什么?</a></p>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/b634daf52a68ad47b37a8ccf86f00816" target="_blank">@威资吧吧务组</a></div>
+ ：据网传许家印办公室里的饮水机装的不是纯净水，而是整桶的冰红茶。<br>许家印一周七天，六天吃肯德基，周四麦当劳单点。<br>许家印打车直接勾选全部车型。<br>许家印点瑞幸从来不买九块九的，都是小程序原价买。</blockquote>
+<p>Q：<a class="internal" href="https://www.zhihu.com/question/2064331020208493441/answer/2095528947639440147">可以莫名其妙教一个技能吗？ </a></p>
 <blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/9deed791cf1c0187b0410e4d1ee11e8b" target="_blank">@忘川摆渡翁</a></div>
- ：我高中数学老师人送外号波波。<br>我们以为他爱打球晒的黑，像龙珠的那个波波。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-1bb1265462a6865b7515d957675d80ae_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<blockquote>等我们考完试全军覆没之后，我们才知道原来是这个波波。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://picx.zhimg.com/v2-d7836524fd5eaf52a031a1aec3dbc213_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
+<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/ed49a41703e6b7eca53225febe1f0e46" target="_blank">@一叶轻舟</a></div>
+ ：上菜的时候要把鱼头对准长辈，这样鱼肚子就在自己面前了，好吃。<br>要主动给大家倒第一圈饮料，这样喜欢的饮料瓶就在自己手边了，能多喝很多。<br>如果你是小辈，家庭聚餐主动端菜，因为端菜是最轻松的活，不脏，还能把喜欢的菜放一起，这样自己一<br>转桌就都在面前了，吃起来方便，老转桌会被说。这样也不会被喊去洗碗擦桌子，毕竟你已经干过活了。</blockquote>
 <hr>
 <p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
-<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://picx.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
+<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://pica.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
 </div>
 </div>
 
@@ -560,8 +357,8 @@
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9793901</guid>
-                <pubDate>Wed, 11 Nov 2026 13:25:26 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9793923</guid>
+                <pubDate>Wed, 11 Nov 2026 23:57:07 GMT</pubDate>
             </item>
             
     </channel>
