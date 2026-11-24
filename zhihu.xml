@@ -4,7 +4,7 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Tue, 24 Nov 2026 03:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 16:51:40 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
@@ -31,7 +31,7 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-83af99d67dc6bd0ef087849f84e7453c_l.jpg?source=8673f162">
+<img class="avatar" src="https://picx.zhimg.com/v2-83af99d67dc6bd0ef087849f84e7453c_l.jpg?source=8673f162">
 <span class="author">小霸王，</span><span class="bio">你叫谁小王八？</span>
 <a href="https://www.zhihu.com/question/67883586/answer/3632626373" class="originUrl" hidden>查看知乎原文</a>
 </div>
@@ -85,7 +85,7 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9794206</guid>
-                <pubDate>Tue, 24 Nov 2026 03:42:48 GMT</pubDate>
+                <pubDate>Tue, 24 Nov 2026 16:51:36 GMT</pubDate>
             </item>
             
             <item>
@@ -145,7 +145,7 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9794212</guid>
-                <pubDate>Tue, 24 Nov 2026 03:42:50 GMT</pubDate>
+                <pubDate>Tue, 24 Nov 2026 16:51:37 GMT</pubDate>
             </item>
             
             <item>
@@ -172,7 +172,7 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-727eddbae249efa92611180292220cd7_l.jpg?source=8673f162">
+<img class="avatar" src="https://pic1.zhimg.com/v2-727eddbae249efa92611180292220cd7_l.jpg?source=8673f162">
 <span class="author">赵学浩，</span><span class="bio">东亚海域史/都市传说/未解之谜/太阳系第一帅</span>
 <a href="https://www.zhihu.com/question/630423705/answer/2043468538044842545" class="originUrl" hidden>查看知乎原文</a>
 </div>
@@ -218,7 +218,7 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9794221</guid>
-                <pubDate>Tue, 24 Nov 2026 03:42:53 GMT</pubDate>
+                <pubDate>Tue, 24 Nov 2026 16:51:38 GMT</pubDate>
             </item>
             
             <item>
@@ -296,7 +296,7 @@
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
                 <guid isPermaLink="true">http://daily.zhihu.com/story/9794227</guid>
-                <pubDate>Tue, 24 Nov 2026 03:42:54 GMT</pubDate>
+                <pubDate>Tue, 24 Nov 2026 16:51:40 GMT</pubDate>
             </item>
             
     </channel>
