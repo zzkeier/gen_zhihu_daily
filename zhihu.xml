@@ -4,14 +4,14 @@
         <title>知乎日报</title>
         <link>https://daily.zhihu.com/</link>
         <description>知乎日报 RSS feed</description>
-        <lastBuildDate>Fri, 27 Nov 2026 15:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 00:57:46 GMT</lastBuildDate>
         <generator>Custom RSS Generator</generator>
         
             <item>
-                <title>能不能说一个「就是为了这点醋，才包了这顿饺子」的典型事例？</title>
-                <link>http://daily.zhihu.com/story/9794273</link>
-                <description>文森特·凡喵，人机交互博士在读 | 科技 设计 影像 查看知乎原文 早期 Windows 系统里自带了几个小游戏：「扫雷」「纸牌」「红心大战」和「空当接龙」，很多人都玩过，其实这四个游戏都有各自的隐藏目的，并不是单纯为了让大家上班摸鱼用的。 其中「扫雷」和「纸牌」主要是为了让用户熟悉鼠标操作的，因为当年大部分用户还不像现在这样习惯用鼠标来操作电脑。 而在「扫雷」游戏里，玩家需要频繁用鼠标精确定位到…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-3dfd630b8586ffd1a9d10a4fbdbb96ac.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>氮气是惰性气体，为什么大豆等植物能够通过固氮作用将氮气转化为土壤中的养分？</title>
+                <link>http://daily.zhihu.com/story/9794300</link>
+                <description>螭离，用我的见解启迪你的智慧。 查看知乎原文 这个提问怎么看都不是在求教，像是在质问。 勉强答一下吧。 首先说，氮气不是惰性气体。在化学上被严格定义的惰性气体，只有元素周期表第 18 族的氦、氖、氩、氪、氙、氡。 氮气的化学性质在常温常压下确实稳定，氮气（N₂）的三键（N≡N），键能高达 941 kJ/mol，是最难拆的化学键之一，常温下几乎不参与任何反应。 但它在高温、高压或放电等特定条件下，仍…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-97068a0f24058479c78e399ca43a3401.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -31,49 +31,65 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-9420029a2115adb51248e1d154fc04b6_l.jpg?source=8673f162">
-<span class="author">文森特·凡喵，</span><span class="bio">人机交互博士在读  |  科技 设计 影像</span>
-<a href="https://www.zhihu.com/question/659955420/answer/2009321589590745730" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-9f6480cec6c628b44f76a5998249dd28_l.jpg?source=8673f162">
+<span class="author">螭离，</span><span class="bio">用我的见解启迪你的智慧。</span>
+<a href="https://www.zhihu.com/question/2047793593000239753/answer/2060876859663987756" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>早期 Windows 系统里自带了几个小游戏：<strong>「扫雷」「纸牌」「红心大战」和「空当接龙」</strong>，很多人都玩过，其实<strong>这四个游戏都有各自的隐藏目的</strong>，并不是单纯为了让大家上班摸鱼用的。</p>
-<p>其中<strong>「扫雷」和「纸牌」主要是为了让用户熟悉鼠标操作的，因为当年大部分用户还不像现在这样习惯用鼠标来操作电脑。</strong></p>
-<p>而在「扫雷」游戏里，玩家需要频繁用鼠标精确定位到具体的格子，并且用左键排雷、右键插旗子，这就包含了鼠标的<strong>定位、左键点击和右键点击</strong>三个最基础操作。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c54875c00dc4cf813835a1fe65dba2fa_720w.jpg?source=8673f162" alt=""></figure>
-<p><strong>「纸牌」游戏可以让用户熟悉「拖拽」这个交互方式</strong>，我们现在觉得这事儿很简单，但在第一次接触这种操作的人眼里，「拖拽」包含了<strong>定位、点击后不松手、再次定位、松开</strong>这四个步骤，不熟悉的人经常会在中途松手导致拖拽失败，而通过玩纸牌游戏大量训练之后，大家再去拖拽文件、图标时就很顺手了。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-5c3c5a97d13a1195262ecc552092b186_720w.jpg?source=8673f162" alt=""></figure>
-<p>所以从某种意义上说，这几个系统自带的小游戏也是微软的一盘「棋」，<strong>表面上是我们在玩游戏，实际上是微软在训练我们熟悉 Windows 的操作方式。</strong></p>
-<p>另外两个游戏「红心大战」和「空当接龙」也有类似的「操作训练」目的，但同时也承担着额外的技术测试任务。</p>
-<p>「红心大战」是个四人联机游戏，微软做这个游戏的目的之一是为了推广、测试自家的<strong>NetDDE 技术</strong> (Network Dynamic Data Exchange) ，可以理解为通过局域网的应用层数据交换机制，<strong>只要几台电脑之间能联机玩「红心大战」，就代表他们之间已经通过 NetDDE 建立连接了。</strong></p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-8460aa5989f5a87d48f17b25653854f7_720w.jpg?source=8673f162" alt=""></figure>
-<p>而「空当接龙」的一个重要角色是作为 32 位的示例程序，当时 Windows 正处于 16 位向 32 位转型的时期。<strong>微软官方发布了一个叫「Win32s」的库，可以让 32 位的程序在 16 位的 Windows 3.1 上运行。</strong></p>
-<p><strong>而「空挡接龙」就是当初跟着「Win32s」发布的第一个 32 位示例程序。</strong></p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-715357fb1f31fb159457285cf44fd81b_720w.jpg?source=8673f162" alt=""></figure>
-<p>也就是说<strong>只要「空挡接龙」能正常运行，就代表着这台电脑上的「Win32s」库是已经正确安装了</strong>，如果「空挡接龙」打不开，就意味着「Win32s」没部署好、系统还不能正常兼容 32 位应用程序。</p>
-<p>推荐一下刚写的新回答：</p>
-<p><a class="internal" href="https://www.zhihu.com/question/2107906456620221668/answer/2108210968585039974?share_code=9WpjIhC0deLD&amp;utm_psn=2108539671227654470">当医生、律师、工程师开始按小时收费给 AI 出题，专家数据会成为专业人士新的职业出路吗？</a></p>
-<p><strong>关注&gt;&gt; </strong><a class="member_mention" href="http://www.zhihu.com/people/f0afe9b38f9ec01d69aa7107c7e7422e">@文森特·凡喵</a></p>
+<p>这个提问怎么看都不是在求教，像是在质问。</p>
+<p>勉强答一下吧。</p>
+<p><strong>首先说，氮气不是惰性气体。</strong>在化学上被严格定义的惰性气体，只有元素周期表第 18 族的氦、氖、氩、氪、氙、氡。</p>
+<p>氮气的化学性质在常温常压下确实稳定，氮气（N₂）的三键（N≡N），键能高达 941 kJ/mol，是最难拆的化学键之一，常温下几乎不参与任何反应。</p>
+<p>但它在高温、高压或放电等特定条件下，仍能与氢气、氧气、活泼金属等发生化学反应合成氨、生成氮化物等。</p>
+<p>蛋白质是生命物质，核酸是生命信息载体，它们含氮均值均为 16%。如果氮气真的「惰」，生命怎么会选择它？</p>
+<p>「惰」只是人类在实验室里给它贴的标签，而在大自然 40 亿年的演化史里，氮气从来都是那个最活跃、最被需要的主角。</p>
+<p>说回氮肥，人类离了高温高压，就没办法合成它。</p>
+<p>而在大自然里，无论强大的闪电，还是微小的细菌，随手就能把氮摁在地上摩擦。</p>
+<p><strong>其次，我必须澄清一下，大豆不会固氮</strong>，它没有固氮能力，不信，你把它种在无菌培养基上试试，它还能固氮吗？</p>
+<p>它只是以光合产物为代价，招募了土壤中的固氮菌而已。</p>
+<p>把空气中的氮转化为氨，是固氮菌的功劳。大豆只是买了它的服务。</p>
+<p>豆科分化出约 765 属，近 20,000 种植物，贡献了全球 27%的作物产量，成为被子植物中最成功的类群之一。就是因为它们从祖先那里，继承了招募根瘤菌的能力。</p>
+<p>而跟它有共同祖先的十字花科植物，却丢失了招募菌根的基因，以至于它们无力生产出高蛋白种子，不得不采取了多籽粒的繁殖策略。</p>
+<p>那么，根瘤菌是如何实现固氮的呢？</p>
+<p>根瘤菌是大豆从土壤中招募来的，一旦侵染根毛，根瘤菌就会分泌结瘤因子，刺激大豆皮层细胞分裂，最终形成根瘤，为根瘤菌提供<strong>低氧</strong>的固氮微环境。</p>
+<p>为什么强调低氧？因为<strong>固氮酶</strong>怕氧，但它是地球上唯一能在常温常压下，打断 N≡N 的蛋白质机器。氧气会不可逆地破坏它的活性中心（一个由铁和钼 / 钒组成的金属簇合物），所以根瘤里必须充满类血红蛋白，像微型氧气缓冲器，把氧浓度控制在固氮酶能忍受的极低水平。</p>
+<p>在厌氧保护下，固氮酶开始干活。它不靠高温高压，靠的是消耗 ATP。每固定 1 分子 N₂，需要至少 16 个 ATP。一点一点把三键「撬开」。具体路径是：</p>
+<p>N₂ → 在固氮酶活性中心被吸附 → 经过多次加氢（每次消耗电子和 ATP）→ 中间体逐步断裂 → 最终生成 2 分子 NH₃（氨）。</p>
+<p>整个过程中，固氮酶不做任何暴力拆解，—它只是把氮气分子紧紧抓住，然后反复地、耐心地给它塞电子和氢，直到三键自己撑不住断裂。这就是生物版的<strong>水滴石穿</strong>。</p>
+<p>根瘤菌任劳任怨，把生成的<strong>氨</strong>直接<strong>上缴</strong>给大豆细胞，大豆用它合成氨基酸、蛋白质、叶绿素。作为回报，大豆把光合作用产生的糖输送给根瘤菌，供养它的生命活动。这不是施舍，是交易。</p>
+<p>现在回看题主的「第一性原理」：</p>
+<p>从物理化学第一性原理出发，打断 <strong>N≡N</strong> 确实需要巨大的能量输入。生物固氮并没有打破这个定律，它只是绕开了高温高压这条路，改用「ATP 水解供能 + 金属簇催化」的串行方案，把一次性的巨大能量输入，拆成了几十步微小的能量释放步骤，每一步都只克服一点点能垒，合在一起却完成了最硬的活。</p>
+<p>这就像人不可能一步窜上十层楼，但可以走楼梯。<strong>固氮过程</strong>就是一阶一阶走上去的。</p>
+<p>总结一下，答案很简洁：</p>
+<p><strong>氮气不惰</strong>，是人类的技术太笨。</p>
+<p><strong>大豆不会固氮</strong>，是根瘤菌会。</p>
+<p>根瘤菌能固氮，是因为它用 ATP 一步步撬开了三键。</p>
+<p>而大豆只是出「钱」租下了这套设备。</p>
+<p>所以，大豆固氮的第一性原理，存在于大自然中，已经高效运行了 6000 万年。人类刚刚看明白，却没有办法复制。我们制造氮肥，仍需要高温高压，并消耗了全球 2%的能源。这就是真相。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-d5a597e000b26821a7c046877f00a53d_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-bb934cb8e8df1706ee5d64473d995f64_720w.jpg?source=8673f162" alt=""></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2d7a1ef43522fa8e0c33c1df10e0dd4c_720w.jpg?source=8673f162" alt=""></figure>
 </div>
 </div>
 
 
-<div class="view-more"><a href="https://www.zhihu.com/question/659955420">查看知乎讨论<span class="js-question-holder"></span></a></div>
+<div class="view-more"><a href="https://www.zhihu.com/question/2047793593000239753">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9794273</guid>
-                <pubDate>Fri, 27 Nov 2026 15:58:38 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9794300</guid>
+                <pubDate>Sat, 28 Nov 2026 00:57:44 GMT</pubDate>
             </item>
             
             <item>
-                <title>大运河江南段为何不直接取道太湖而要围着太湖绕个大弯？</title>
-                <link>http://daily.zhihu.com/story/9794279</link>
-                <description>免渡河，生态规划师，写知乎为摸鱼，以及安放我无处不在的表达欲。 查看知乎原文 大运河的苏州段，长度 81.5km，航道水深 3.2 米，航道底宽大约 45 米，口宽大约 56—70 米，目前是二级航道。 大运河苏州段 而太湖，湖底地形平坦，呈浅碟形，湖底平均高程 1.1m，多年平均水位 3.11 米，平均水深 2 米。 就是这种浅碟形 京杭运河没有从太湖中穿过，而是在太湖东侧绕过，并通过多条河流水…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-277688883e82775f03c34355ff2cf3dd.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+                <title>人类现有技术能够建造深度达到1000米的水库么?</title>
+                <link>http://daily.zhihu.com/story/9794304</link>
+                <description>王某叉，我是一个电工 查看知乎原文 首先，拥有 23 万亿立方米淡水、1637 米水深的贝加尔湖，它已经是个水库了。 人类建成最大的水库是欧文瀑布水库，该水库位于维多利亚湖的出口处，利用维多利亚湖作为水库，3 米水位变幅调节实现了 2048 亿立方米的调节库容。这类利用天然湖泊出口建坝获得巨大调节能力的水库，一般不计算原始湖容，只计算调节库容。类似的，俄罗斯的伊尔库茨克水电站建设于贝加尔湖出口的安…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pica.zhimg.com/v2-d4c2c5955c4be95fefe52b41a0f5ef3d.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
 <div class="headline">
 
 <div class="img-place-holder"></div>
@@ -93,213 +109,201 @@
 <div class="answer">
 
 <div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-f2978edea403b7ba1c37c8d23f4157f3_l.jpg?source=8673f162">
-<span class="author">免渡河，</span><span class="bio">生态规划师，写知乎为摸鱼，以及安放我无处不在的表达欲。</span>
-<a href="https://www.zhihu.com/question/25847406/answer/3591023623" class="originUrl" hidden>查看知乎原文</a>
+<img class="avatar" src="https://pica.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=8673f162">
+<span class="author">王某叉，</span><span class="bio">我是一个电工</span>
+<a href="https://www.zhihu.com/question/1926023216679327077/answer/2068060775780988616" class="originUrl" hidden>查看知乎原文</a>
 </div>
 
 <div class="content">
-<p>大运河的苏州段，长度 81.5km，航道水深 3.2 米，航道底宽大约 45 米，口宽大约 56—70 米，目前是二级航道。</p>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-3a472e1b4735f42c49f7696965fbe8d1_720w.jpg?source=8673f162" alt=""><figcaption>大运河苏州段</figcaption></figure>
-<p>而太湖，湖底地形平坦，呈浅碟形，湖底平均高程 1.1m，多年平均水位 3.11 米，平均水深 2 米。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-28871cd1d70de91ee9abc7f4fec361e9_720w.jpg?source=8673f162" alt=""><figcaption>就是这种浅碟形</figcaption></figure>
-<p>京杭运河没有从太湖中穿过，而是在太湖东侧绕过，并通过多条河流水道与太湖相连。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-5a690c40582ebb4215f8bef862e4ad7d_720w.jpg?source=8673f162" alt=""></figure>
-<p>不谈历史，只说现在。</p>
-<p>如果运河从太湖中经过，而非另外开挖河道，会怎样呢？</p>
-<p>首先是泥沙问题。</p>
-<p>太湖浅，而运河的航道深。</p>
-<p>就好比海滩上挖一条水沟，随着波浪一波波袭来，很快就能抹平这条水沟。</p>
-<p>想要维持水沟，就必须一直挖，而且挖的速度要超过海浪抹平的速度。</p>
-<p>太湖中的航道同理。</p>
-<p>太湖湖底淤积了大约 19 亿吨泥沙，同时每年还有约 200 万立方米的泥沙汇入。</p>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-71b9a4256fe4fc4b0b66f47058f9f4b1_720w.jpg?source=8673f162" alt=""><figcaption>2024 年太湖 1 号洪水时的太湖</figcaption></figure>
-<p>想要在一个 2 米深的泥碟子里，保持 1 条 3.2 米深的航道，那就需要不停的清淤，而且清淤速度要大于周边泥沙进入航道的速度。</p>
-<p>按照最近苏州太湖清淤的清淤量及中标价格，清淤 1 立方米的成本大约是 118 元。</p>
-<p>对于运河来说，每年的清淤成本会是很大一笔。</p>
-<p>但是运河从东侧绕过，仅以河渠与太湖相连，同时以水闸控制，那太湖就可以为大运河提供水源的同时，作为泥沙沉淀池，使大运河免遭泥沙淤积之苦。</p>
-<p>其次是水位和洪水问题。</p>
-<p>太湖也有丰水期和枯水期，有丰水年和枯水年，水位并非一成不变。</p>
-<p>1954 年到 2013 年中，太湖最高水位 4.97 米（1999 年），最低水位 2.37 米（1978 年）。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-f2f8c1494082f37ac71ad3c670881c86_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-0003e69cec9b1b2cf4ff17874778e5d4_720w.jpg?source=8673f162" alt=""></figure>
-<p>而且太湖旱涝灾害发生的频率并不低，看看上图中水位高低变化的频率。</p>
-<p>进入本世纪以来，水位变平稳，是因为引江济太工程。</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-416278ca6acafa15a7bbe7bef34c12ff_720w.jpg?source=8673f162" alt=""></figure>
-<p>如果大运河从太湖中穿过，那么运河航运势必受到太湖水位变化的影响。</p>
-<p>水位低无法航运，洪水期，汛期，同样影响航运。</p>
-<p>但是从东侧绕过，以河渠相连接，就可以以太湖作为水源的同时，把太湖当做洪水和干旱的缓冲器，从而丰枯不影响航运。</p>
-<p>所以，运河如果从太湖里经过，那无论是太湖还是运河，都会问题乘二。</p>
-<p>运河绕道，就可以即享受太湖的好处，又不受到太湖问题的干扰。</p>
-<p>所以运河就绕道了。</p>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/25847406">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9794279</guid>
-                <pubDate>Fri, 27 Nov 2026 15:58:39 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>想看看大家用Vibe Coding做了什么好玩的东西？</title>
-                <link>http://daily.zhihu.com/story/9794282</link>
-                <description>佩奇 查看知乎原文 我是一名叉车司机，为了解决一个工作中的问题，自学了面向 Claude 开发，花了大概 1 个月时间打磨出了这一块集装箱装箱算柜程序。现分享给有需要的朋友。 我在浙江宁波一家制造型任职，外贸企业，因为工作中经常要计算货柜。每次遇到装柜出货就头大。特别是像大件抛货又要混装小货的。计算器加加减减、按来按去，按得眼花缭乱，根本就弄不灵清怎么装好，普通人脑子里根本没有三维空间感啊！ 免费…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-f1dfc0ba733ebd9bd4337176748f041c.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://picx.zhimg.com/v2-91d7764c288404fcdfe25d96f2185eda_l.jpg?source=8673f162">
-<span class="author">佩奇</span>
-<a href="https://www.zhihu.com/question/2044878223763403729/answer/2105419579698700315" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>我是一名叉车司机，为了解决一个工作中的问题，自学了面向 Claude 开发，花了大概 1 个月时间打磨出了这一块集装箱装箱算柜程序。现分享给有需要的朋友。</p>
-<p>我在浙江宁波一家制造型任职，外贸企业，因为工作中经常要计算货柜。每次遇到装柜出货就头大。特别是像大件抛货又要混装小货的。计算器加加减减、按来按去，按得眼花缭乱，根本就弄不灵清怎么装好，<strong>普通人脑子里根本没有三维空间感啊！</strong></p>
-<p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/2105418622470461075" target="_blank"> <img class="content-image" src="https://picx.zhimg.com/v2-5426b385d73653a913642b6701f08ec2.jpg?source=382ee89a" alt=""> <span class="content"> <span class="title">免费物流装箱算柜工具<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span> <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/2105418622470461075</span> </span> </a></p>
-<p>到底该订 20 尺普柜还是 40 高柜？这个箱子到底是立着摆好、还是侧着摆省地方？到了装车的时候，先装哪个、怎么码”，脑子里更是一片空白，全靠瞎算！柜子空了最多是浪费钱，要是装不下那真是要命……</p>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-7cefc18ea0140c6502f6d777bdf96ffb_720w.jpg?source=8673f162" alt=""></figure>
-<p>后来自己琢磨着，用 Claude 花了前后陆陆续续打磨了大概一个月，搞出了这个小软件，叫易装（EASYLOADER）。主要就是解决自己工作里算不准的问题，现在分享出来，有需要的朋友可以试试，<strong>完全免费无任何限制，无需注册码、无需充值会员，不需要登陆注册，没有使用期限限制。</strong></p>
-<p><strong>这里下载：</strong></p>
-<p><a class=" wrap external" href="http://link.zhihu.com/?target=https%3A//wwbgc.lanzouv.com/iPE8r4f1nchi" target="_blank" rel="nofollow noreferrer">easyloader.zip - 蓝奏云</a></p>
-<p>仓库</p>
-<p><a class=" external" href="http://link.zhihu.com/?target=https%3A//github.com/jingguanzhang/easy-loader/" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">github.com/jingguanzhan</span><span class="invisible">g/easy-loader/</span><span class="ellipsis"></span></a></p>
-<p>类似的程序网上一大堆，但基本都是收费，就算有也是假免费，我发出来也是给大件多一种选择把。</p>
-<p>主要能做什么：</p>
-<ol>
-<li><strong>把数据变成 3D 画面</strong><br>把货的长宽高、件数输进去，点计算，直接在屏幕里出一个集装箱。箱子怎么横怎么竖，可以 360 度转着看，比脑子里空想清楚多了。</li>
-</ol>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-b090a4574a232b8618cfa7485ab5e935_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7b29f298deda3dfe8bf1dccb0e269ff9_720w.jpg?source=8673f162" alt=""></figure>
-<ol>
-<li><strong>物理规矩能设</strong><br>比如朝上的箱子不让倒放、重货必须放底层、易碎品上面不让压、最多叠几层，这些都能勾选限制。平时用计算器根本顾不上这些。</li>
-</ol>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-c3e31a681c01c095e72d114010fbcb67_720w.jpg?source=8673f162" alt=""></figure>
-<ol>
-<li><strong>打托也有 3D 台</strong><br>有客户要求先打托再进柜的，可以在软件里直接拖着摆，超界会提醒。打好的托盘整托进柜，剩下的散件也会一起算，不太容易漏。</li>
-</ol>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-bcda1359b647da36a2d609d13d58255e_720w.jpg?source=8673f162" alt=""></figure>
-<ol>
-<li><strong>可以微调</strong><br>现场箱子如果包装胖了一点，能在 3D 里直接点选拖动，整排一起挪也行。前半部分调好锁定，后面自动补，操作还算直观。</li>
-<li><strong>导出 sop 图纸或视频给工人</strong><br>算完可以出 PDF，带图，打印出来给现场工人照着装，后面还能签字，少扯点皮。</li>
-</ol>
-<figure><img class="content-image" src="https://picx.zhimg.com/v2-74f3b7089fe8474a20e039958f140914_720w.jpg?source=8673f162" alt=""></figure>
-<figure><img class="content-image" src="https://pica.zhimg.com/v2-bff74721fe37b507d507c37cc1662688_720w.jpg?source=8673f162" alt=""></figure>
-<ol>
-<li><strong>完全免费，纯离线用，</strong><br><strong>不用注册联网，数据都在自己电脑里。另外写了一本大概 30 页的图文说明，照着点一遍，几分钟就能上手。</strong></li>
-<li><strong>有需要的可以自己试试看，用着有问题或者建议也欢迎提。</strong></li>
-</ol>
-</div>
-</div>
-
-
-<div class="view-more"><a href="https://www.zhihu.com/question/2044878223763403729">查看知乎讨论<span class="js-question-holder"></span></a></div>
-
-</div>
-
-
-</div>
-</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9794282</guid>
-                <pubDate>Fri, 27 Nov 2026 15:58:40 GMT</pubDate>
-            </item>
-            
-            <item>
-                <title>瞎扯 · 如何正确地吐槽</title>
-                <link>http://daily.zhihu.com/story/9794283</link>
-                <description>瞎扯 · 如何评价《爱的教育》这本书？ 知乎日报 查看知乎原文 Q： 如何评价《爱的教育》这本书？ @姜姬与猹 ：「老师，我们家子涵……」意大利 19 世纪版 Q： 如何评价大熊猫的颜值？ @大山背面是海 ：成年熊猫甚至能和满两月的土狗比一比 Q：为什么现在小孩的名字都这么俗？ @大海 :夫妻都姓贺，三个儿子：贺力员、贺加贝、贺勋。我是认识其中一个，才知道的这个事。 Q：体育比赛中出现过哪些「世界…</description>
-                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-2a82eb364121a2b8cd0d8d0e05ecd869.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
-<div class="headline">
-
-<div class="img-place-holder"></div>
-
-
-
-</div>
-
-<div class="content-inner">
-
-
-
-
-<div class="question">
-<h2 class="question-title">瞎扯 · 如何评价《爱的教育》这本书？</h2>
-
-<div class="answer">
-
-<div class="meta">
-<img class="avatar" src="https://pic1.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162">
-<span class="author">知乎日报</span>
-<a href="https://www.zhihu.com/question/None/answer/None" class="originUrl" hidden>查看知乎原文</a>
-</div>
-
-<div class="content">
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/33655188/answer/2032962309061091757"> 如何评价《爱的教育》这本书？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/3e7c9ba288f4652f22c13d832d686daf" target="_blank">@姜姬与猹</a></div>
-：「老师，我们家子涵……」意大利 19 世纪版</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic1.zhimg.com/v2-0cc66dc534de3fb4c0afbf728593cd9e_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/305724599/answer/1991470056530547225"> 如何评价大熊猫的颜值？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/984c976cfdf8426f443cf0799f486b44" target="_blank">@大山背面是海</a></div>
-：成年熊猫甚至能和满两月的土狗比一比</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/36412943/answer/2091598267897464628">为什么现在小孩的名字都这么俗？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/cec7674f755137a3281e790de7ccc1fb" target="_blank">@大海</a></div>
-:夫妻都姓贺，三个儿子：贺力员、贺加贝、<a class="RichContent-EntityWord css-b7erz1" href="https://zhida.zhihu.com/search?content_id=287712136&amp;content_type=Article&amp;match_order=1&amp;q=%E8%B4%BA%E5%8B%8B&amp;zhida_source=entity" target="_blank">贺勋</a>。我是认识其中一个，才知道的这个事。</blockquote>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/1941094662753476659/answer/2024470906085414864">体育比赛中出现过哪些</a>「<a class="internal" href="https://www.zhihu.com/question/1941094662753476659/answer/2024470906085414864">世界名画</a>」<a class="internal" href="https://www.zhihu.com/question/1941094662753476659/answer/2024470906085414864">？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/d3b351d9473dfebcf5d540d80aefb106" target="_blank">@若钢</a></div>
-：那一天，常州的雨很大。</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-205b3cd9fcfd1813e8cb108613efe222_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
-<p>Q：<a class="internal" href="https://www.zhihu.com/question/641372499/answer/97585828918">在国外旅行时，你发现过哪些中国符号？</a></p>
-<blockquote>
-<div class="css-1gomreu"><a class="UserLink-link" href="https://www.zhihu.com/people/0a6fb30f4c52061182af137fd89f0fef" target="_blank">@莫哲</a></div>
-： 2018 年，在俄罗斯的某家商店里发现的……</blockquote>
-<figure>
-<div class="RichText-ConditionalImagePortal"><img class="content-image" src="https://pic3.zhimg.com/v2-8a51545654b9a6f591841fc3a8e171f2_1440w.jpg" alt=""></div>
-<figcaption></figcaption></figure>
+<p>首先，拥有 23 万亿立方米淡水、1637 米水深的贝加尔湖，它已经是个水库了。</p>
+<p>人类建成最大的水库是欧文瀑布水库，该水库位于维多利亚湖的出口处，利用维多利亚湖作为水库，3 米水位变幅调节实现了 2048 亿立方米的调节库容。这类利用天然湖泊出口建坝获得巨大调节能力的水库，一般不计算原始湖容，只计算调节库容。类似的，俄罗斯的伊尔库茨克水电站建设于贝加尔湖出口的安加拉河上，利用贝加尔湖湖面和约 2 米水位变幅获得了 481 亿的最大调节库容。从某种意义上来讲，可以说贝加尔湖是世界上蓄水最大、最深的水库，只不过湖泊天然水体仍属于水库死库容，没法利用。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-ea11339fbf7a5adb4eb1b6a56fc883e2_720w.jpg?source=8673f162" alt=""><figcaption>google earth 上的伊尔库茨克水电站和贝加尔湖南部</figcaption></figure>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-cd083e2965545cd3d6054780d8f680cd_720w.jpg?source=8673f162" alt=""><figcaption>google earth 上的欧文瀑布水电站和维多利亚湖一角</figcaption></figure>
+<p>其次，超大库容水库不一定需要很高的坝，主要靠面积。上面的欧文瀑布水库坝高只有 31 米，伊尔库茨克水电站坝高 44 米。人类建成的最大库容的人工湖是赞比亚的卡里巴水库，位于赞比西河上，总库容约 1850 亿立方米（有 1806 至 1850 亿的多种说法），调节库容 608.5 亿立方米，卡里巴最大坝高 128 米，也并不非常突出，其库区面积 5000 多平方公里。实际上世界其他库容破千亿的超级水库当中只有一座坝高超过 200 米。库容 1693 亿立方米的俄罗斯布拉茨克水电站，最大坝高 125 米；1689 亿库容的埃及阿斯旺高坝，最高坝高 111 米；库容 1480 亿的加纳沃尔特湖（<span class="nolink">阿科松博坝</span>）最大坝高 141 米；库容 1418 亿的加拿大马尼克 V 级坝（另名丹尼尔·约翰逊水坝，它占了一个巨型陨石坑作为水库），水库坝高 214 米；库容 1350 亿的委内瑞拉古里水电站，最大坝高 162 米。</p>
+<p>人类设计过的最大库容的水库是美国陆军工程师团二战末期在育空河规划的兰帕特坝，建成后将形成 2.55 万平方公里，面积相当于新泽西州或伊利湖的人工水库，总库容约为 1.41 万亿立方米，蓄水需要 13 年，但该水库未能获准建设。兰帕特坝的最大坝高只有 162m，坝长 1430m，主要是库区育空平原地形平缓，淹没面积巨大，故而库容非常大——但是巨大的淹没损失也相应的会带来严重的生态破坏，所以最后建设的是育空平原保护区，而非大坝。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-2824bbf408bfed8c7f22f3fd59ed83ee_720w.jpg?source=8673f162" alt=""><figcaption>wiki 百科上的兰帕特坝淹没区</figcaption></figure>
+<p>其次，高坝没法无限制的高。人类建成的最高坝和在建的最高坝分别是雅砻江上的 305 米的锦屏一级双曲拱坝和大渡河上的 315 米高双江口砾石土心墙坝。设计过的最高坝是前苏联的 335 米罗贡坝，为斜心墙土石坝，苏联解体后位于塔吉克斯坦境内，但苏联解体后停工，围堰因洪水损毁，已经基本没有继续建设和完成的可能。也就是说，在可以预见的人类工程目标中，暂时不会出现 350 米以上的高坝。这些著名高坝无一例外都是在窄深的河谷当中建设的，虽然建设这些高坝是为了获得大库容，但由于河谷陡峻，相应的库容相比前面提到的千亿库容巨无霸，其实不算很突出，锦屏一级库容 77.6 亿，双江口库容约 29 亿，罗贡坝设计库容 133 亿。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-4b08b879189089cc321c6848172eb112_720w.jpg?source=8673f162" alt=""><figcaption>锦屏一级高拱坝，至少它的泄洪孔布局比小湾对称</figcaption></figure>
+<p>自然形成的堰塞湖当中，同样位于塔吉克斯坦的萨雷兹湖拥有已知最高的堰塞体，1911 年当地的 7 级地震诱发了约 22 亿立方米的巨型滑坡，形成了高 567 米的乌索伊堰塞坝，为世界最高天然坝，坝体堵塞了巴尔坦格河形成了萨雷兹湖。这一天然堰塞体是一个天然的实证，告诉岩土工程师土石坝的最高极限不低于这一高度，但由于滑坡体的巨大体积远超任何已建设或规划的水电工程的填筑量（高出约 15 倍），建造类似高度的大坝仍是非常遥远的事情。如今的人们更担心帕米尔高原新的强震导致萨雷兹湖溃坝，如果 170 亿立方米的湖容倾泻而下，可以摧毁喷赤河 - 阿姆河谷地的诸多居民点和城市。</p>
+<p>总之，仅依靠大坝高度实现超级大库容是非常困难的，获得大库容最容易的办法还是找到一个只有狭窄出口的巨大宽浅盆地，同时盆地当中有一条或多条水量充裕的河流汇聚，只是绝大部分情况下，富饶的河谷盆地自然而然的塞满了居民、农田、甚至城市，淹没损失会阻止工程师的规划，唯有人烟稀少的热带雨林、荒漠、高寒和极地地区可以让工程师放开手脚淹没。</p>
+<p>至于某些人说的淹没四川盆地，要把四川盆地的口子扎起来，除了淹没之外，还有个问题就是需要的坝还是太高了，可能需要 400 多米的坝高，才能让三峡蓄水到万亿级别，要 700 多米才能呈现四川海，这样的大坝高度不现实，我们应当换换思路——在不需要考虑淹没问题的海里建水库。</p>
+<p>波罗的海通过厄勒海峡及大小贝尔特海峡、卡特加特海峡、斯卡格拉克海峡与北海连接，其中厄勒海峡及大小贝尔特海峡均较狭窄并且非常浅，最宽的大贝尔特海峡最窄处约 16km。以现有工程技术完全可以筑坝截断波罗的海和北海联系，或通过建设水闸将海流限定为单向。而波罗的海降水充沛，周边江河径流巨大，蒸发量小，所以是世界最大的半咸水水域，在海峡变成单向流的情况下，几百年就会淡化为一个巨型的淡水湖泊，其总湖容达到惊人的 22 万亿立方米，完美符合题主的库容要求。只是淡水化的波罗的海反而会因为容易结冰而大大损失航运价值——除非某个生态与地球物理学家觉得需要搞一个满江红事件的缩小版试验，而波罗的海沿岸诸国人民一致同意，而不是把这位科学狂人吊起来。</p>
+<p>要把类似体积的湖泊放到高原上，难度就更大了，主要问题是高原往往没有这么多水，高原地形也很难仅通过少量工程就可以构筑大型水库。但如果把眼光放长一些，放到地质学家的时间尺度，我们甚至不需要去建设什么工程。我们只需要等待就可以了，就是等待时间比较长……</p>
+<p>在距今约 4 万至 2.5 万年的晚更新世晚期，由于西南季风空前强盛，带来远超现在水平的大量降水，青藏高原上众多现今独立的湖盆水面急剧上升，水位远高于现在，并且之间通过宽阔水道或河流相互连通，构成巨大的深水大湖群和湖系。而气候转变之后，这些古湖陆续转变为咸水湖和盐湖逐渐萎缩干涸，或者由于外流河泄水而干涸，遗留的残迹就是现今青藏高原的诸湖群。根据对古湖岸线的估算，最盛期湖群总面积达到约 36 万 km²，总湖容蓄水量的估计值达到惊人的 53 万亿立方米，仅外流区湖泊相较于当前状态的额外蓄水量就接近 18 万亿立方米，这些额外水量的外泄和青藏高原周边大河如长江、黄河、怒江、印度河的发育过程密切相关。同时，在如此强盛的西南季风背景下，中国北方的湿润程度也远超现在，甚至包括腾格里沙漠湖群也记录到了高湖位——如果青藏高原有如此充沛的水量重现地质历史上的超巨型湖群，那同期北方气候应该就不需要额外调水了。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-50f12691be99e50b82c82768d901c2b1_720w.jpg?source=8673f162" alt=""><figcaption>表格来源《青藏高原第四纪泛湖期与古气候》，地质学报 2006 年 2 月刊</figcaption></figure>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-f583449a7a8b777e9b52116871a925d9_720w.jpg?source=8673f162" alt=""><figcaption>色林错南岸的湖岸阶地，在卫星照片上呈现平行线，这是泛湖期留下的最直观的痕迹之一</figcaption></figure>
 <hr>
-<p>✨恭喜你发现了（即将成为）知乎最好笑的地方，加入「扯点好笑的」圈子，每天看点段子梗图神回复，一起一本正经地胡说八道吧！</p>
-<div class="RichText-LinkCardContainer"><a class="LinkCard new css-1a2w32z" href="https://www.zhihu.com/ring/host/1979586347799950567?tab=new&amp;tab_id=0" target="_blank"><span class="LinkCard-image"><img class="content-image" src="https://pica.zhimg.com/v2-cc40831259b8877ee1f920e7343d6cae_l.jpg?source=1a5df958" alt=""></span><span class="LinkCard-contents"><span class="LinkCard-title two-line">扯点好笑的</span></span></a></div>
+<p>PS：记错了大坝最大填筑量数据，把塔贝拉和曼格拉搞混了。世界上单枢纽最大土石方填筑量的水电项目是塔贝拉坝，总填筑量约 1.42 亿立方米，年最高填筑强度 3000 万立方米。不过塔贝拉坝长，有充足的作业面空间，窄深河谷高坝很难达到类似填筑强度。</p>
+<hr>
+<p>补充一下罗贡坝的消息。这个工程已经复工。2010 年塔吉克斯坦重新募集资金启动工程，2016 年萨里尼公司签署总包合同，并在 2024 年获得世行赠款和欧洲投资银行、亚投行贷款资金；目前已经填筑至约 190 米，两台机组已经发电，计划 2033 年全部建成。</p>
 </div>
 </div>
 
+
+<div class="view-more"><a href="https://www.zhihu.com/question/1926023216679327077">查看知乎讨论<span class="js-question-holder"></span></a></div>
 
 </div>
 
 
 </div>
 </div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
-                <guid isPermaLink="true">http://daily.zhihu.com/story/9794283</guid>
-                <pubDate>Fri, 27 Nov 2026 15:58:42 GMT</pubDate>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9794304</guid>
+                <pubDate>Sat, 28 Nov 2026 00:57:44 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>汉字简化的过程中，为何很多汉字的部首被用「又」字和叉代替？</title>
+                <link>http://daily.zhihu.com/story/9794313</link>
+                <description>汉字简化的过程中，为何很多汉字的部首被用“又”字和叉代替？ 任天涯，吾爱青椒亦爱吃鸡咨询我前可以试着先私信我，如果私信我也不回大概率咨询我也不会回 查看知乎原文 回答问题以前，我问你为啥农字繁体字是農？按台湾标准的话，農是规范字。 但实际呢，本字是䢉，这多少有点看不清了。放大点看 下面的辰你还能理解为农时是吧，但上面的囟字你咋理解？ 所以许慎说他其实是从䢅囟聲，小篆写作 这个字因为跟日常生活息息相…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://pic1.zhimg.com/v2-268a135dfc2bdfd9ea1aec61fcd399e7.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">汉字简化的过程中，为何很多汉字的部首被用“又”字和叉代替？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://picx.zhimg.com/ec1d4b126_l.jpg?source=8673f162">
+<span class="author">任天涯，</span><span class="bio">吾爱青椒亦爱吃鸡咨询我前可以试着先私信我，如果私信我也不回大概率咨询我也不会回</span>
+<a href="https://www.zhihu.com/question/6303982848/answer/2106437223134521260" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>回答问题以前，我问你为啥农字繁体字是農？按台湾标准的话，農是规范字。</p>
+<p>但实际呢，本字是䢉，这多少有点看不清了。放大点看</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-18fdd3724e671da2e9843bfa9039eb52_720w.jpg?source=8673f162" alt=""></figure>
+<p>下面的辰你还能理解为农时是吧，但上面的囟字你咋理解？</p>
+<p>所以许慎说他其实是从䢅囟聲，小篆写作</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-9f66b27b35b03456c77b1fcc302a76b6_720w.jpg?source=8673f162" alt=""></figure>
+<p>这个字因为跟日常生活息息相关，所以异体字也多</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-f4cc254288109e9fefbd3091bc20d4da_720w.jpg?source=8673f162" alt=""></figure>
+<p>但如果论字理，这些个字就没一个是正确的。</p>
+<p>我们来看農的甲骨文是咋写的</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-a8c22fdbfc33b829327086d33e16069e_720w.jpg?source=8673f162" alt=""></figure>
+<p>甲骨文是不是很好理解，从下往上看，一只手，拿着农具，各种写法里农具还不一样，但大体是锋利的带刃口的农具、犁田的工具等，然后去处理最上面的作物，完全是耕种时的抽象。</p>
+<p>再看这个字的金文咋写的</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6c8be2854ea4581f47d23570f7883874_720w.jpg?source=8673f162" alt=""></figure>
+<p>你看，已经不一样了，上部多了两个田字部件，下部基本没变还是农具</p>
+<p>你注意最后一个写法是不是和小篆很接近？</p>
+<p>只不过两个屮字讹变成了下探的两只手，田字部件加了上面一横作为边界，下部其实还是手持农具对吧</p>
+<p>那再然后呢？到小篆上部两只手顺势演变成𦥑字，这个字表示两手捧起，然后中间的田讹变成囟字，但囟这个字实际是人颅骨俯视图的象形。。。。然后下面的手持农具演化成了辰字。</p>
+<p>所以你看这个字，你能根据繁体字讲清字理吗？</p>
+<p>这在汉字中可不是少见的现象，这种讹变是普遍大面积存在的。</p>
+<p>这还是说農的本字䢉，楷书最后又把曲辰農扶正，来来来，讲讲字理看。。。。。</p>
+<p>所以啊，不要跟那儿纠结字理，不讲字理这事不光是李斯他们有过，甲骨文到金文就有。</p>
+<p>讲字理是文字学家的事，他们帮我们把握大方向就好了。</p>
+<p>文字沿革一直是民间写字的人的约定俗成，这才是最大的决定力量。</p>
+<p>所以那些又或者乂作为简化符号是咋来的呢？</p>
+<p>我说个直接的判断，即宋代印刷术大兴开始，民间出版物为了降低雕版印刷难度汲取的民间俗字</p>
+<p>大体上集中在：</p>
+<p>1、難的左边部件𦰩，说文说是堇字，是粘土的意思。難、艱、漢、僅、等等，但要知道这个部件有很多字都用，不能搞完全的类推，比如谨、槿，这些字就不能类推简化，还是保留原字。</p>
+<p>2、雚作为部件的字，比如觀、歡等字，但是和 1 中一样，这个部件也是常用部件，但用这个部件的字大部分又不是高频字，所以也不能搞类推，比如獾、罐等字依然保留原字</p>
+<p>3，鳥字部分字凤和风。你要查甲骨你就知道风的本字其实是鳳，在天上飞的鳥和风建立了关系，所以实际风字是从鳳字分化而来，简化的时候为了区分凤和风，用一个又就不行了，所以乂字符就派上用场了</p>
+<p>4.其他的戲、雞、對、鄧，那就是单字替换了。</p>
+<p>上面说的字除了風，其余都是被替换的部分笔画复杂难刻，所以就用又代替了。</p>
+<p>又因为他们是出版物，所以传播面积够大，就成了比较稳定的俗字了，这些俗字，在民国简化方案和建国后简化方案中就被提取了。</p>
+<p>所以这个又或者乂作为简字符号是因为他们有实际的意义，降低了出版的人工成本。</p>
+<p>别觉得这个无厘头，民国方案钱玄同编选了 2400 字，审核委员会从钱的初稿中选定了 2340 字，并且认为其中有 1200 余字便于<strong>铸造铜模</strong>，最后呢，当时的教育部长王世杰红笔圈出 324 字作为《第一批简体字表》。</p>
+<p>所以怎么让印刷简化也是简化字的目的。</p>
+<p>所以为啥又乂被用于简化呢？不是字理，是实用。</p>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/6303982848">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9794313</guid>
+                <pubDate>Sat, 28 Nov 2026 00:57:45 GMT</pubDate>
+            </item>
+            
+            <item>
+                <title>中国古代城市的城墙内一定是填满建筑的「建成区」吗？</title>
+                <link>http://daily.zhihu.com/story/9794320</link>
+                <description>中国古代城市的城墙内一定是填满建筑的“建成区”吗？ 宁南左侯，太极生二姨想当及时雨，却成打虎将 查看知乎原文 必然不是，城池内部尤其是四个角出现成片的空置区、水塘，或者开辟为耕地，才是古代城池的普遍状态。 中国古代的城池往往兼具军民两用性质，军队可以驻扎防御，居民日常居住生活，城墙是用于防御这个核心居住区的公共安全的，这就决定了除非是完全用于军事行政的城堡，否则一定要留出未来发展的区域，毕竟如果在…</description>
+                <content:encoded><![CDATA[<div class="main-img" style="margin-bottom: 20px;"><img src="https://picx.zhimg.com/v2-9cd3162d266c362be173ba748dc4fecf.jpg?source=8673f162" style="max-width:100%; border-radius: 8px;"></div><div class="main-wrap content-wrap">
+<div class="headline">
+
+<div class="img-place-holder"></div>
+
+
+
+</div>
+
+<div class="content-inner">
+
+
+
+
+<div class="question">
+<h2 class="question-title">中国古代城市的城墙内一定是填满建筑的“建成区”吗？</h2>
+
+<div class="answer">
+
+<div class="meta">
+<img class="avatar" src="https://pic1.zhimg.com/v2-571144c7e5be56de5addd90c12056267_l.jpg?source=8673f162">
+<span class="author">宁南左侯，</span><span class="bio">太极生二姨想当及时雨，却成打虎将</span>
+<a href="https://www.zhihu.com/question/438083560/answer/1991996834965643402" class="originUrl" hidden>查看知乎原文</a>
+</div>
+
+<div class="content">
+<p>必然不是，城池内部尤其是四个角出现成片的空置区、水塘，或者开辟为耕地，才是古代城池的普遍状态。</p>
+<p>中国古代的城池往往兼具军民两用性质，军队可以驻扎防御，居民日常居住生活，城墙是用于防御这个核心居住区的公共安全的，这就决定了除非是完全用于军事行政的城堡，否则一定要留出未来发展的区域，毕竟如果在建设初期就可钉可铆的建设城池，那么随着后来的人口增加，一定会出现城内建设用地不足的情况，然后就会在城外开辟大片建城区，但这样就和城墙的防御功能相悖了，所以一旦出现这种情况，就要考虑扩建城池，比如把新开辟的这块单独包起来建个东 / 西 / 南 / 北城，或者连同旧城池整个包起来建个外城。为了防止频繁出现这种扩建，所以往往城池都会预留一定的备用土地，不会可着旧有规模建造。那么反过来说，如果一个城池经过战乱人口锐减，为了加强军事防御，还会主动“缩城”，放弃一部分城池，集中防守其中的一部分。</p>
+<p>以元明清三朝时期的北京为例，元大都、明北京、清京师，核心地区基本一致，但各有不同。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-40fd2661b2ca2418ce4c5564a30c12b5_720w.jpg?source=8673f162" alt=""></figure>
+<p>元大都规模很大，城墙全长 60 里又 240 步，而且还有金中都旧址的南城继续使用，所以大都城根本住不满，北半部分空空荡荡。如此一来，当 1368 年明军光复此处之后，面对着稀疏无人的元大都，就不能再为了彰显所谓的“气象”而继续保留这么大的城池规模了，于是入城仅四天便内缩北墙 2.8 公里，在大都城中间偏北的钟楼东西一线隔断，抢修出一条新的北城墙，放弃了北边永福、里仁、可封等坊，甚至连翰林院衙门都扔在了城外（六铺炕附近），北边就变成了北平的“北城”。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-c51878e0d37b513ae913dc0825f59bc1_720w.jpg?source=8673f162" alt=""></figure>
+<p>靖难之役结束后，永乐皇帝把北平府升级为北京，并积极营造宫殿，准备迁都于此，于是北平府城也进行了一定的扩建，但扩建的方向并不是向北，而是向南延伸八百米，把相对繁华的南边关厢括进来，于是，本来位于今天长安街一线的北平府南城墙就迁到了今天宣武门、前门、崇文门东西大街一线，至今崇文门东还有东西段的明代城墙遗址。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-02d3922aab947d4bc4a83ee223f11a2e_720w.jpg?source=8673f162" alt=""></figure>
+<p>都城有很多坛庙之类的祭祀建筑，比如正阳门外的天坛、山川坛，朝阳门外的朝日坛，阜成门外的夕月坛，北京位于帝国的北边，所以南城门是进出最多的，因此南面的三座城门也逐渐出现了繁华的关厢。嘉靖年间庚戌之变，明朝意识到南边这里城外的建城区以及坛庙容易遭到攻击，所以决定修筑外城，一开始设计是整个把顺天府城和东西南北的坛庙都包进来（嘉靖九年在北边安定门外增加了地坛），类似于二环外头直接套个三环，工程先从南边施工，结果开工没多久发现没钱，于是草草收尾，修了个南城出来，但还是按照原来计划，叫外城：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-fa55a0d8f8304962e13ed4094bdd5972_720w.jpg?source=8673f162" alt=""></figure>
+<p>这次扩建对于北京而言有两个重大影响，一是奠定了北京后来凸字状的城建格局，而是修外城的时候没顾及金中都，所以外城西墙和护城墙纵贯了辽南京、金中都的宫城，再加上上世纪修北京二环，所以只留给了金中都宫殿考古一条东西不足五十米的带状区域——约等于不可考。</p>
+<p>明朝北京城差不多已经住满了，仅剩西南角的阜财坊还有些许空地（王恭厂所在），外城倒是相对松散，只有内城南三门外住的比较满，而外城南城门右安门、左安门以及永定门内都还非常稀疏，更不用说西南角的白纸坊、东南角的崇南坊了。</p>
+<p>清朝入关之后，将住在北京内城里面的原有居民全部赶出到外城居住，以安置八旗兵丁和家眷，由此北京城沿用唐辽金元明清的坊制结束，原有的明时坊、南薰坊、鸣玉坊变成了正白旗、镶蓝旗、正红旗之类的旗营防区，因为大量居民迁入，南城得到了一定的发展，建成区面积不断扩大，但即便如此，迟至清末仍然没有完全住满， <a class="member_mention" href="http://www.zhihu.com/people/abef293c06b3e96fe3ecf2bd6283c372">@吡啶</a> 老师计算清末京师建成比例大概 86%，左安门、右安门、广渠门内存在大面积空地。</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-84674a2fcb88ddeceff67d6084c3c6bc_720w.jpg?source=8673f162" alt=""></figure>
+<p>这里多说一句，为什么同样的外城的东西两侧城门，东边的广渠门内大面积空白而西边的广安门内却相对满呢？原因可能很简单——明清时期广安门是通往卢沟桥的，而卢沟桥又是各省陆路进京的必经之地，所以不仅广安门内比较繁华，甚至城外还有不小的关厢。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-7e511e60040ab45b8873ec2da006b3e0_720w.jpg?source=8673f162" alt=""></figure>
+<p>清朝结束后北京作为中华民国北洋政府的首都，仍然是全国的政治中心，但已经进入了衰败期，北洋治下军阀混战，各势力轮番上阵，还动不动跑北京城内开枪放炮，北京的城建逐渐衰败，南京国民政府建立之后，北京降级为北平，政界人士、文化精英、巨商富贾及各国使馆随之南迁，北平一时人去楼空，衰败至极。</p>
+<p>同理，南京即使是首都，也有大片的空白区，就比如明故宫这里，这里清朝改造成了满城，清末满城两次遭兵燹，后来拆平，然后就变成了空地，所以蒋介石北伐进入南京之后收拾了一下残垣断壁，在这里建一个飞机场：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-9cbae8104384a7851107210dc622682d_720w.jpg?source=8673f162" alt=""></figure>
+<p>事实上即便是清末民国四万万五千万民众的体量，很多名城大邑也没有住满，尤其是一些没落的历史老城，比如开封：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-449d5cb8fc3f687d4e36607988b043de_720w.jpg?source=8673f162" alt=""></figure>
+<p>更惨的是洛阳，明清洛阳本来就只有隋唐洛阳城的 1/40 大小，但在民国 1915 年的测绘地图里，周围一圈城墙只有 9 里的洛阳城内西北角、东北角仍然有大片空白区：</p>
+<figure><img class="content-image" src="https://pica.zhimg.com/v2-3ad7060619a6a54084773768b9fda5bf_720w.jpg?source=8673f162" alt=""></figure>
+<p>但也不是都住不满，比如 1948 年的广州就住满了，甚至还溢出到珠江南岸：</p>
+<figure><img class="content-image" src="https://picx.zhimg.com/v2-6e0a42cb4218cf124d889b1479f86676_720w.jpg?source=8673f162" alt=""></figure>
+<p>沈阳、济南之类在近代依托工业等发展起来的大城市也都住满了，还在城外建设了规模不小的新城区，不过这已经脱离了题目中“中国古代城市”的范畴了。</p>
+<p>清末山东测绘局绘制过一个 1:2.5 万的高精度地图，从光绪三十三年陆陆续续画到宣统三年，因为比例尺大，所以能看出来各府州县以及重要集镇的“建成区规模”，虽然这个时间也不算“古代”了，但小县城其实还是能反映出一定问题的，比如今天鲁西、鲁西北的一些府州县镇，濮州、东昌府就比较满，但是高唐州、寿张县就比较空旷，而阳谷县、东平州空的厉害。</p>
+<figure><img class="content-image" src="https://pic1.zhimg.com/v2-e31b68c783393ae1106daa6aea5f6285_720w.jpg?source=8673f162" alt=""></figure>
+</div>
+</div>
+
+
+<div class="view-more"><a href="https://www.zhihu.com/question/438083560">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+</div>
+</div><script type=“text/javascript”>window.daily=true</script>]]></content:encoded>
+                <guid isPermaLink="true">http://daily.zhihu.com/story/9794320</guid>
+                <pubDate>Sat, 28 Nov 2026 00:57:46 GMT</pubDate>
             </item>
             
     </channel>
